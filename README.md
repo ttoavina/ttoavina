@@ -16,7 +16,7 @@ En 2005 : An Iranian Air Force C-130 military transport aircraft crashes into a 
 <br/><br/>
 En 1999 : A&M Records, Inc. v. Napster, Inc.: The Recording Industry Association of America sues the peer-to-peer file-sharing service Napster, alleging copyright infringement.
 <br/><br/>
-En 1998 : in Venezuela, Hugo Chávez is victorious in presidential elections.
+En 1998 : in Venezuela, Hugo ChÃ¡vez is victorious in presidential elections.
 <br/><br/>
 En 1992 : The Babri Masjid in Ayodhya, India, is demolished, leading to widespread riots causing the death of over 1,500 people.
 <br/><br/>
@@ -24,7 +24,7 @@ En 1991 : Yugoslav Wars: In Croatia, forces of the Serb-dominated Yugoslav Peopl
 <br/><br/>
 En 1990 : A military jet of the Italian Air Force, abandoned by its pilot after an on-board fire, crashed into a high school near Bologna, Italy, killing 12 students and injuring 88 other people.
 <br/><br/>
-En 1989 : The École Polytechnique massacre (or Montreal Massacre): Marc Lépine, an anti-feminist gunman, murders 14 young women at the École Polytechnique in Montreal.
+En 1989 : The Ã‰cole Polytechnique massacre (or Montreal Massacre): Marc LÃ©pine, an anti-feminist gunman, murders 14 young women at the Ã‰cole Polytechnique in Montreal.
 <br/><br/>
 En 1982 : The Troubles: The Irish National Liberation Army bombs a pub frequented by British soldiers in Ballykelly, Northern Ireland, killing  eleven soldiers and six civilians.
 <br/><br/>
@@ -34,7 +34,7 @@ En 1977 : South Africa grants independence to Bophuthatswana, although it is not
 <br/><br/>
 En 1975 : The Troubles: Fleeing from the police, a Provisional IRA unit takes a British couple hostage in their flat on Balcombe Street, London, beginning a six-day siege.
 <br/><br/>
-En 1973 : The Twenty-fifth Amendment: The United States House of Representatives votes 387–35 to confirm Gerald Ford as Vice President of the United States. (On November 27, the Senate confirmed him 92–3.)
+En 1973 : The Twenty-fifth Amendment: The United States House of Representatives votes 387â€“35 to confirm Gerald Ford as Vice President of the United States. (On November 27, the Senate confirmed him 92â€“3.)
 <br/><br/>
 En 1971 : Pakistan severs diplomatic relations with India, initiating the Indo-Pakistani War of 1971.
 <br/><br/>
@@ -60,7 +60,7 @@ En 1917 : Finland declares independence from the Russian Empire.
 <br/><br/>
 En 1917 : Halifax Explosion: A munitions explosion near Halifax, Nova Scotia kills more than 1,900 people in the largest artificial explosion up to that time.
 <br/><br/>
-En 1917 : World War I: USS Jacob Jones is the first American destroyer to be sunk by enemy action when it is torpedoed by German submarine SM U-53.
+En 1917 : World War I: USSÂ Jacob Jones is the first American destroyer to be sunk by enemy action when it is torpedoed by German submarine SMÂ U-53.
 <br/><br/>
 En 1916 : World War I: The Central Powers capture Bucharest.
 <br/><br/>
@@ -88,11 +88,11 @@ En 1704 : Battle of Chamkaur: During the Mughal-Sikh Wars, an outnumbered Sikh K
 <br/><br/>
 En 1648 : Pride's Purge removes royalist sympathizers from Parliament so that the High Court of Justice could put the King on trial.
 <br/><br/>
-En 1534 : The city of Quito in Ecuador is founded by Spanish settlers led by Sebastián de Belalcázar.
+En 1534 : The city of Quito in Ecuador is founded by Spanish settlers led by SebastiÃ¡n de BelalcÃ¡zar.
 <br/><br/>
 En 1492 : After exploring the island of Cuba (which he had mistaken for Japan) for gold, Christopher Columbus lands on an island he names Hispaniola.
 <br/><br/>
 En 1240 : Mongol invasion of Rus': Kyiv, defended by Voivode Dmytro, falls to the Mongols under Batu Khan.
 <br/><br/>
-En 1060 : Béla I is crowned king of Hungary.
+En 1060 : BÃ©la I is crowned king of Hungary.
 <br/><br/>
