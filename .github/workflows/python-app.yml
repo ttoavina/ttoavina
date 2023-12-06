@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '05 00 * * *'
-
+    
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
