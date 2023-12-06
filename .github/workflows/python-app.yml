@@ -34,7 +34,7 @@ jobs:
         git config --global user.name 'Toavina bot'
         git config --global user.email 'ttoavina@users.noreply.github.com'
         echo ${{ secrets.GITHUB_TOKEN }}
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ttoavina/ttoavina
+        git remote set-url origin https://x-access-token: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@github.com/ttoavina/ttoavina
         git add .
         git commit -m "Auto commit"
         git push
