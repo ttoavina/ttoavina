@@ -4,7 +4,7 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 6/12 ?(Hover on the year)</h1>
+<h1> What happen this day 6/12 ?
 
 En 2017 : Donald Trump's administration officially announces the recognition of Jerusalem as the capital of Israel.
 <br/><br/>
