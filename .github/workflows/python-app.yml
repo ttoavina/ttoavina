@@ -28,7 +28,7 @@ jobs:
     - name: Start script
       run: |
         # stop the build if there are Python syntax errors or undefined names
-        python main.py > README.md
+        python main.py > WhatHappenToday.md
     - name: Push to github
       run: |
         git config --global user.name 'Toavina bot'
