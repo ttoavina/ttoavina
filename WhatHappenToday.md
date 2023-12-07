@@ -4,95 +4,85 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 6/12 ?(Hover on the year)</h1>
+<h1> What happen this day 7/12 ?(Hover on the year)</h1>
 
-En 2017 : Donald Trump's administration officially announces the recognition of Jerusalem as the capital of Israel.
+En 2016 : Pakistan International Airlines Flight 661, a domestic passenger flight from Chitral to Islamabad, operated by ATR-42-500 crashes near Havelian, killing all 47 on board.
 <br/><br/>
-En 2015 : Venezuelan parliamentary election: For the first time in 17 years, the United Socialist Party of Venezuela loses its majority in parliament.
+En 2015 : The JAXA probe Akatsuki successfully enters orbit around Venus five years after the first attempt.
 <br/><br/>
-En 2006 : NASA reveals photographs taken by Mars Global Surveyor suggesting the presence of liquid water on Mars.
+En 2005 : Rigoberto Alpizar, a passenger on American Airlines Flight 924 who allegedly claimed to have a bomb, is shot and killed by a team of U.S. federal air marshals at Miami International Airport.
 <br/><br/>
-En 2005 : An Iranian Air Force C-130 military transport aircraft crashes into a ten-floor apartment building in a residential area of Tehran, killing all 94 on board and 12 more on the ground.
+En 2003 : The Conservative Party of Canada is officially registered, following the merger of the Canadian Alliance and the Progressive Conservative Party of Canada.
 <br/><br/>
-En 1999 : A&M Records, Inc. v. Napster, Inc.: The Recording Industry Association of America sues the peer-to-peer file-sharing service Napster, alleging copyright infringement.
+En 1995 : The Galileo spacecraft arrives at Jupiter, a little more than six years after it was launched by Space Shuttle Atlantis during Mission STS-34.
 <br/><br/>
-En 1998 : in Venezuela, Hugo Chávez is victorious in presidential elections.
+En 1995 : Khabarovsk United Air Group Flight 3949 crashes into the Bo-Dzhausa Mountain, killing 98.
 <br/><br/>
-En 1992 : The Babri Masjid in Ayodhya, India, is demolished, leading to widespread riots causing the death of over 1,500 people.
+En 1995 : An Air Saint Martin (now Air Caraïbes) Beechcraft 1900 crashes near the Haitian commune of Belle Anse, killing 20.
 <br/><br/>
-En 1991 : Yugoslav Wars: In Croatia, forces of the Serb-dominated Yugoslav People's Army (JNA) heaviest bombardment of Dubrovnik during a siege of seven months.
+En 1993 : Long Island Rail Road shooting: Passenger Colin Ferguson murders six people and injures 19 others on the LIRR in Nassau County, New York.
 <br/><br/>
-En 1990 : A military jet of the Italian Air Force, abandoned by its pilot after an on-board fire, crashed into a high school near Bologna, Italy, killing 12 students and injuring 88 other people.
+En 1988 : The 6.8 Ms  Armenian earthquake shakes the northern part of the country with a maximum MSK intensity of X (Devastating), killing 25,000–50,000 and injuring 31,000–130,000.
 <br/><br/>
-En 1989 : The École Polytechnique massacre (or Montreal Massacre): Marc Lépine, an anti-feminist gunman, murders 14 young women at the École Polytechnique in Montreal.
+En 1987 : Pacific Southwest Airlines Flight 1771, a British Aerospace 146-200A, crashes near Paso Robles, California, killing all 43 on board, after a disgruntled passenger shoots his ex-boss traveling on the flight, then shoots both pilots and steers the plane into the ground.
 <br/><br/>
-En 1982 : The Troubles: The Irish National Liberation Army bombs a pub frequented by British soldiers in Ballykelly, Northern Ireland, killing  eleven soldiers and six civilians.
+En 1983 : An Iberia Airlines Boeing 727 collides with an Aviaco DC-9 in dense fog while the two airliners are taxiing down the runway at Madrid–Barajas Airport, killing 93 people.
 <br/><br/>
-En 1978 : Spain ratifies the Spanish Constitution of 1978 in a referendum.
+En 1982 : In Texas, Charles Brooks Jr., becomes the first person to be executed by lethal injection in the United States.
 <br/><br/>
-En 1977 : South Africa grants independence to Bophuthatswana, although it is not recognized by any other country.
+En 1982 : The Senior Road Tower collapses in less than 17 seconds.  Five workers on the tower are killed and three workers on a building nearby are injured.
 <br/><br/>
-En 1975 : The Troubles: Fleeing from the police, a Provisional IRA unit takes a British couple hostage in their flat on Balcombe Street, London, beginning a six-day siege.
+En 1972 : Apollo 17, the last Apollo Moon mission, is launched. The crew takes the photograph known as The Blue Marble as they leave the Earth.
 <br/><br/>
-En 1973 : The Twenty-fifth Amendment: The United States House of Representatives votes 387–35 to confirm Gerald Ford as Vice President of the United States. (On November 27, the Senate confirmed him 92–3.)
+En 1971 : The Battle of Sylhet is fought between the Pakistani military and the Mukti Bahini.
 <br/><br/>
-En 1971 : Pakistan severs diplomatic relations with India, initiating the Indo-Pakistani War of 1971.
+En 1971 : Pakistan President Yahya Khan announces the formation of a coalition government with Nurul Amin as Prime Minister and Zulfikar Ali Bhutto as Deputy Prime Minister.
 <br/><br/>
-En 1969 : Altamont Free Concert: At a free concert performed by the Rolling Stones, eighteen-year old Meredith Hunter is stabbed to death by Hells Angels security guards.
+En 1965 : Pope Paul VI and Patriarch Athenagoras I simultaneously revoke mutual excommunications that had been in place since 1054.
 <br/><br/>
-En 1967 : Adrian Kantrowitz performs the first human heart transplant in the United States.
+En 1963 : Instant replay makes its debut during the Army-Navy football game in Philadelphia, Pennsylvania, United States.
 <br/><br/>
-En 1957 : Project Vanguard: A launchpad explosion of Vanguard TV3 thwarts the first United States attempt to launch a satellite into Earth orbit.
+En 1962 : Prince Rainier III of Monaco revises the principality's constitution, devolving some of his power to advisory and legislative councils.
 <br/><br/>
-En 1956 : A violent water polo match between Hungary and the USSR takes place during the 1956 Summer Olympics in Melbourne, against the backdrop of the Hungarian Revolution of 1956.
+En 1949 : Chinese Civil War: The Government of the Republic of China moves from Nanjing to Taipei, Taiwan.
 <br/><br/>
-En 1941 : World War II:  Camp X opens in Canada to begin training Allied secret agents for the war.
+En 1946 : A fire at the Winecoff Hotel in Atlanta, Georgia kills 119 people, the deadliest hotel fire in U.S. history.
 <br/><br/>
-En 1933 : In United States v. One Book Called Ulysses Judge John M. Woolsey rules that James Joyce's novel Ulysses is not obscene despite coarse language and sexual content, a leading decision affirming free expression.
+En 1944 : An earthquake along the coast of Wakayama Prefecture in Japan causes a tsunami which kills 1,223 people.
 <br/><br/>
-En 1928 : The government of Colombia sends military forces to suppress a month-long strike by United Fruit Company workers, resulting in an unknown number of deaths.
+En 1942 : World War II: British commandos conduct Operation Frankton, a raid on shipping in Bordeaux harbour.
 <br/><br/>
-En 1922 : One year to the day after the signing of the Anglo-Irish Treaty, the Irish Free State comes into existence.
+En 1941 : World War II: Attack on Pearl Harbor: The Imperial Japanese Navy carries out a surprise attack on the United States Pacific Fleet and its defending Army and Marine air forces at Pearl Harbor, Hawaii. (For Japan's near-simultaneous attacks on Eastern Hemisphere targets, see December 8.)
 <br/><br/>
-En 1921 : The Anglo-Irish Treaty is signed in London by British and Irish representatives.
+En 1936 : Australian cricketer Jack Fingleton becomes the first player to score centuries in four consecutive Test innings.
 <br/><br/>
-En 1917 : Finland declares independence from the Russian Empire.
+En 1932 : German-born Swiss physicist Albert Einstein is granted an American visa.
 <br/><br/>
-En 1917 : Halifax Explosion: A munitions explosion near Halifax, Nova Scotia kills more than 1,900 people in the largest artificial explosion up to that time.
+En 1930 : W1XAV in Boston, Massachusetts telecasts video from the CBS radio orchestra program, The Fox Trappers. The telecast also includes the first television advertisement in the United States, for I.J. Fox Furriers, which also sponsored the radio show.
 <br/><br/>
-En 1917 : World War I: USS Jacob Jones is the first American destroyer to be sunk by enemy action when it is torpedoed by German submarine SM U-53.
+En 1922 : The Parliament of Northern Ireland votes to remain a part of the United Kingdom and not unify with Southern Ireland.
 <br/><br/>
-En 1916 : World War I: The Central Powers capture Bucharest.
+En 1917 : World War I: The United States declares war on Austria-Hungary.
 <br/><br/>
-En 1912 : The Nefertiti Bust is discovered.
+En 1904 : Comparative fuel trials begin between warships HMS Spiteful and HMS Peterel: Spiteful was the first warship powered solely by fuel oil, and the trials led to the obsolescence of coal in ships of the Royal Navy.
 <br/><br/>
-En 1907 : A coal mine explosion at Monongah, West Virginia, kills 362 workers.
+En 1842 : First concert of the New York Philharmonic, founded by Ureli Corelli Hill.
 <br/><br/>
-En 1904 : Theodore Roosevelt articulated his "Corollary" to the Monroe Doctrine, stating that the U.S. would intervene in the Western Hemisphere should Latin American governments prove incapable or unstable.
+En 1837 : The Battle of Montgomery's Tavern, the only battle of the Upper Canada Rebellion, takes place in Toronto, where the rebels are quickly defeated.
 <br/><br/>
-En 1897 : London becomes the world's first city to host licensed taxicabs.
+En 1787 : Delaware becomes the first state to ratify the United States Constitution.
 <br/><br/>
-En 1884 : The Washington Monument in Washington, D.C., is completed.
+En 1776 : Gilbert du Motier, Marquis de Lafayette, arranges to enter the American military as a major general.
 <br/><br/>
-En 1882 : Transit of Venus, second and last of the 19th century.
+En 1732 : The Royal Opera House opens at Covent Garden, London, England.
 <br/><br/>
-En 1865 : Georgia ratifies the 13th Amendment to the U.S. Constitution.
+En 1724 : Tumult of Thorn: Religious unrest is followed by the execution of nine Protestant citizens and the mayor of Thorn (Toruń) by Polish authorities.
 <br/><br/>
-En 1803 : Five French warships attempting to escape the Royal Naval blockade of Saint-Domingue are all seized by British warships, signifying the end of the Haitian Revolution.
+En 1703 : The Great Storm of 1703, the greatest windstorm ever recorded in the southern part of Great Britain, makes landfall. Winds gust up to 120 mph, and 9,000 people die.
 <br/><br/>
-En 1790 : The U.S. Congress moves from New York City to Philadelphia.
+En 927 : The Sajid emir of Adharbayjan, Yusuf ibn Abi'l-Saj is defeated and captured by the Qarmatians near Kufa.
 <br/><br/>
-En 1745 : Charles Edward Stuart's army begins retreat during the second Jacobite Rising.
+En 574 : Byzantine Emperor Justin II, suffering recurring seizures of insanity, adopts his general Tiberius and proclaims him as Caesar.
 <br/><br/>
-En 1704 : Battle of Chamkaur: During the Mughal-Sikh Wars, an outnumbered Sikh Khalsa defeats a Mughal army.
-<br/><br/>
-En 1648 : Pride's Purge removes royalist sympathizers from Parliament so that the High Court of Justice could put the King on trial.
-<br/><br/>
-En 1534 : The city of Quito in Ecuador is founded by Spanish settlers led by Sebastián de Belalcázar.
-<br/><br/>
-En 1492 : After exploring the island of Cuba (which he had mistaken for Japan) for gold, Christopher Columbus lands on an island he names Hispaniola.
-<br/><br/>
-En 1240 : Mongol invasion of Rus': Kyiv, defended by Voivode Dmytro, falls to the Mongols under Batu Khan.
-<br/><br/>
-En 1060 : Béla I is crowned king of Hungary.
+En -43 : Marcus Tullius Cicero is assassinated in Formia on orders of Marcus Antonius.
 <br/><br/>
