@@ -4,85 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 7/12 ?(Hover on the year)</h1>
+<h1> What happen this day 8/12 ?(Hover on the year)</h1>
 
-En 2016 : Pakistan International Airlines Flight 661, a domestic passenger flight from Chitral to Islamabad, operated by ATR-42-500 crashes near Havelian, killing all 47 on board.
+En 2019 : First confirmed case of COVID-19 in China.
 <br/><br/>
-En 2015 : The JAXA probe Akatsuki successfully enters orbit around Venus five years after the first attempt.
+En 2013 : Riots break out in Singapore after a fatal accident in Little India.
 <br/><br/>
-En 2005 : Rigoberto Alpizar, a passenger on American Airlines Flight 924 who allegedly claimed to have a bomb, is shot and killed by a team of U.S. federal air marshals at Miami International Airport.
+En 2013 : Metallica performs a show in Antarctica, making them the first band to perform on all seven continents.
 <br/><br/>
-En 2003 : The Conservative Party of Canada is officially registered, following the merger of the Canadian Alliance and the Progressive Conservative Party of Canada.
+En 2010 : With the second launch of the Falcon 9 and the first launch of the Dragon, SpaceX becomes the first private company to successfully launch, orbit and recover a spacecraft.
 <br/><br/>
-En 1995 : The Galileo spacecraft arrives at Jupiter, a little more than six years after it was launched by Space Shuttle Atlantis during Mission STS-34.
+En 2010 : The Japanese solar-sail spacecraft IKAROS passes the planet Venus at a distance of about 80,800 km.
 <br/><br/>
-En 1995 : Khabarovsk United Air Group Flight 3949 crashes into the Bo-Dzhausa Mountain, killing 98.
+En 2009 : Bombings in Baghdad, Iraq, kill 127 people and injure 448 others.
 <br/><br/>
-En 1995 : An Air Saint Martin (now Air Caraïbes) Beechcraft 1900 crashes near the Haitian commune of Belle Anse, killing 20.
+En 2004 : The Cusco Declaration is signed in Cusco, Peru, establishing the South American Community of Nations.
 <br/><br/>
-En 1993 : Long Island Rail Road shooting: Passenger Colin Ferguson murders six people and injures 19 others on the LIRR in Nassau County, New York.
+En 2004 : Columbus nightclub shooting: Nathan Gale opens fire at the Alrosa Villa nightclub in Columbus, Ohio, killing former Pantera guitarist Dimebag Darrell and three others before being shot dead by a police officer.
 <br/><br/>
-En 1988 : The 6.8 Ms  Armenian earthquake shakes the northern part of the country with a maximum MSK intensity of X (Devastating), killing 25,000–50,000 and injuring 31,000–130,000.
+En 2001 : A raid conducted by the Internal Security Department (ISD) of Singapore foils a Jemaah Islamiyah (JI) plot to bomb foreign embassies in Singapore.
 <br/><br/>
-En 1987 : Pacific Southwest Airlines Flight 1771, a British Aerospace 146-200A, crashes near Paso Robles, California, killing all 43 on board, after a disgruntled passenger shoots his ex-boss traveling on the flight, then shoots both pilots and steers the plane into the ground.
+En 1998 : Eighty-one people are killed by armed groups in Algeria.
 <br/><br/>
-En 1983 : An Iberia Airlines Boeing 727 collides with an Aviaco DC-9 in dense fog while the two airliners are taxiing down the runway at Madrid–Barajas Airport, killing 93 people.
+En 1992 : The Galileo spacecraft flies past Earth for the second time.
 <br/><br/>
-En 1982 : In Texas, Charles Brooks Jr., becomes the first person to be executed by lethal injection in the United States.
+En 1991 : The leaders of Russia, Belarus and Ukraine sign an agreement dissolving the Soviet Union and establishing the Commonwealth of Independent States.
 <br/><br/>
-En 1982 : The Senior Road Tower collapses in less than 17 seconds.  Five workers on the tower are killed and three workers on a building nearby are injured.
+En 1990 : The Galileo spacecraft flies past Earth for the first time.
 <br/><br/>
-En 1972 : Apollo 17, the last Apollo Moon mission, is launched. The crew takes the photograph known as The Blue Marble as they leave the Earth.
+En 1988 : A United States Air Force A-10 Thunderbolt II crashes into an apartment complex in Remscheid, Germany, killing five people and injuring 50 others.
 <br/><br/>
-En 1971 : The Battle of Sylhet is fought between the Pakistani military and the Mukti Bahini.
+En 1987 : Cold War: The Intermediate-Range Nuclear Forces Treaty is signed by U.S. President Ronald Reagan and Soviet leader Mikhail Gorbachev in the White House.
 <br/><br/>
-En 1971 : Pakistan President Yahya Khan announces the formation of a coalition government with Nurul Amin as Prime Minister and Zulfikar Ali Bhutto as Deputy Prime Minister.
+En 1987 : An Israeli army tank transporter kills four Palestinian refugees and injures seven others during a traffic accident at the Erez Crossing on the Israel–Gaza Strip border, which has been cited as one of the events which sparked the First Intifada.
 <br/><br/>
-En 1965 : Pope Paul VI and Patriarch Athenagoras I simultaneously revoke mutual excommunications that had been in place since 1054.
+En 1985 : The South Asian Association for Regional Cooperation, the regional intergovernmental organization and geopolitical union in South Asia, is established.
 <br/><br/>
-En 1963 : Instant replay makes its debut during the Army-Navy football game in Philadelphia, Pennsylvania, United States.
+En 1980 : John Lennon is murdered by Mark David Chapman in front of The Dakota in New York City.
 <br/><br/>
-En 1962 : Prince Rainier III of Monaco revises the principality's constitution, devolving some of his power to advisory and legislative councils.
+En 1974 : A plebiscite results in the abolition of monarchy in Greece.
 <br/><br/>
-En 1949 : Chinese Civil War: The Government of the Republic of China moves from Nanjing to Taipei, Taiwan.
+En 1972 : United Airlines Flight 553, a Boeing 737, crashes after aborting its landing attempt at Chicago Midway International Airport, killing 45. This is the first-ever loss of a Boeing 737.
 <br/><br/>
-En 1946 : A fire at the Winecoff Hotel in Atlanta, Georgia kills 119 people, the deadliest hotel fire in U.S. history.
+En 1971 : Indo-Pakistani War: The Indian Navy launches an attack on West Pakistan's port city of Karachi.
 <br/><br/>
-En 1944 : An earthquake along the coast of Wakayama Prefecture in Japan causes a tsunami which kills 1,223 people.
+En 1969 : Olympic Airways Flight 954 strikes a mountain outside of Keratea, Greece, killing 90 people in the worst crash of a Douglas DC-6 in history.
 <br/><br/>
-En 1942 : World War II: British commandos conduct Operation Frankton, a raid on shipping in Bordeaux harbour.
+En 1966 : The Greek ship SS Heraklion sinks in a storm in the Aegean Sea, killing over 200.
 <br/><br/>
-En 1941 : World War II: Attack on Pearl Harbor: The Imperial Japanese Navy carries out a surprise attack on the United States Pacific Fleet and its defending Army and Marine air forces at Pearl Harbor, Hawaii. (For Japan's near-simultaneous attacks on Eastern Hemisphere targets, see December 8.)
+En 1963 : Pan Am Flight 214, a Boeing 707, is struck by lightning and crashes near Elkton, Maryland, killing all 81 people on board.
 <br/><br/>
-En 1936 : Australian cricketer Jack Fingleton becomes the first player to score centuries in four consecutive Test innings.
+En 1962 : Workers at four New York City newspapers (this later increases to nine) go on strike for 114 days.
 <br/><br/>
-En 1932 : German-born Swiss physicist Albert Einstein is granted an American visa.
+En 1955 : The Flag of Europe is adopted by Council of Europe.
 <br/><br/>
-En 1930 : W1XAV in Boston, Massachusetts telecasts video from the CBS radio orchestra program, The Fox Trappers. The telecast also includes the first television advertisement in the United States, for I.J. Fox Furriers, which also sponsored the radio show.
+En 1953 : U.S. President Dwight D. Eisenhower delivers his "Atoms for Peace" speech, which leads to an American program to supply equipment and information on nuclear power to schools, hospitals, and research institutions around the world.
 <br/><br/>
-En 1922 : The Parliament of Northern Ireland votes to remain a part of the United Kingdom and not unify with Southern Ireland.
+En 1943 : World War II: The German 117th Jäger Division destroys the monastery of Mega Spilaio in Greece and executes 22 monks and visitors as part of reprisals that culminated a few days later with the Massacre of Kalavryta.
 <br/><br/>
-En 1917 : World War I: The United States declares war on Austria-Hungary.
+En 1941 : World War II: U.S. President Franklin D. Roosevelt declares December 7 to be "a date which will live in infamy", after which the U.S. declares war on Japan.
 <br/><br/>
-En 1904 : Comparative fuel trials begin between warships HMS Spiteful and HMS Peterel: Spiteful was the first warship powered solely by fuel oil, and the trials led to the obsolescence of coal in ships of the Royal Navy.
+En 1941 : World War II: Japanese forces simultaneously invade Shanghai International Settlement, Malaya, Thailand, Hong Kong, the Philippines, and the Dutch East Indies. (See December 7 for the concurrent attack on Pearl Harbor in the Western Hemisphere.)
 <br/><br/>
-En 1842 : First concert of the New York Philharmonic, founded by Ureli Corelli Hill.
+En 1922 : Two days after coming into existence, the Irish Free State executes four leaders of the Irish Republican Army.
 <br/><br/>
-En 1837 : The Battle of Montgomery's Tavern, the only battle of the Upper Canada Rebellion, takes place in Toronto, where the rebels are quickly defeated.
+En 1914 : World War I: A squadron of Britain's Royal Navy defeats the Imperial German East Asia Squadron in the Battle of the Falkland Islands in the South Atlantic.
 <br/><br/>
-En 1787 : Delaware becomes the first state to ratify the United States Constitution.
+En 1912 : Leaders of the German Empire hold an Imperial War Council to discuss the possibility that war might break out.
 <br/><br/>
-En 1776 : Gilbert du Motier, Marquis de Lafayette, arranges to enter the American military as a major general.
+En 1907 : King Gustaf V of Sweden accedes to the Swedish throne.
 <br/><br/>
-En 1732 : The Royal Opera House opens at Covent Garden, London, England.
+En 1864 : Pope Pius IX promulgates the encyclical Quanta cura and its appendix, the Syllabus of Errors, outlining the authority of the Catholic Church and condemning various liberal ideas.
 <br/><br/>
-En 1724 : Tumult of Thorn: Religious unrest is followed by the execution of nine Protestant citizens and the mayor of Thorn (Toruń) by Polish authorities.
+En 1854 : In his Apostolic constitution Ineffabilis Deus, Pope Pius IX proclaims the dogmatic definition of Immaculate Conception, which holds that the Blessed Virgin Mary was conceived free of Original Sin.
 <br/><br/>
-En 1703 : The Great Storm of 1703, the greatest windstorm ever recorded in the southern part of Great Britain, makes landfall. Winds gust up to 120 mph, and 9,000 people die.
+En 1851 : Conservative Santiago-based government troops defeat rebels at the Battle of Loncomilla, signaling the end of the 1851 Chilean Revolution.
 <br/><br/>
-En 927 : The Sajid emir of Adharbayjan, Yusuf ibn Abi'l-Saj is defeated and captured by the Qarmatians near Kufa.
+En 1660 : A woman (either Margaret Hughes or Anne Marshall) appears on an English public stage for the first time, in the role of Desdemona in a production of Shakespeare's play Othello.
 <br/><br/>
-En 574 : Byzantine Emperor Justin II, suffering recurring seizures of insanity, adopts his general Tiberius and proclaims him as Caesar.
+En 1504 : Ahmad ibn Abi Jum'ah writes his Oran fatwa, arguing for the relaxation of Islamic law requirements for the forcibly converted Muslims in Spain.
 <br/><br/>
-En -43 : Marcus Tullius Cicero is assassinated in Formia on orders of Marcus Antonius.
+En 877 : Louis the Stammerer (son of Charles the Bald) is crowned king of the West Frankish Kingdom at Compiègne.
+<br/><br/>
+En 757 : The poet Du Fu returns to Chang'an as a member of Emperor Xuanzong's court, after having escaped the city during the An Lushan Rebellion.
+<br/><br/>
+En 395 : Later Yan is defeated by its former vassal Northern Wei at the Battle of Canhe Slope.
 <br/><br/>
