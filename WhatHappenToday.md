@@ -4,107 +4,125 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 10/12 ?(Hover on the year)</h1>
+<h1> What happen this day 11/12 ?(Hover on the year)</h1>
 
-En 2021 : A widespread, deadly, and violent tornado outbreak slams the Central, Midwestern, and Southern regions of the United States. Eighty-nine people are killed by the tornadoes, with most of the fatalities occurring in Kentucky, where a single tornado kills 57 people, and injures hundreds of others.
+En 2020 : The Food and Drug Administration issues an Emergency Use Authorization on the Pfizer–BioNTech COVID-19 vaccine, the first COVID-19 vaccine to be approved by the agency.
 <br/><br/>
-En 2019 : The Ostrava hospital attack in the Czech Republic results in eight deaths, including the perpetrator.
+En 2019 : The results of the 2019 Bougainvillean independence referendum are announced. The results are overwhelmingly one-sided. Over 98% of voters vote for Bougainville's independence.
 <br/><br/>
-En 2017 : ISIL is defeated in Iraq.
+En 2017 : New York City Subway bombing: A pipe bomb partially detonates in the New York City Subway, in the Times Square–42nd Street/Port Authority Bus Terminal. Four people are injured, including the perpetrator.
 <br/><br/>
-En 2016 : Two explosions outside a football stadium in Istanbul, Turkey, kill 38 people and injure 166 others.
+En 2012 : At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria.
 <br/><br/>
-En 2015 : Rojava conflict: The Syrian Democratic Council is established in Dêrik, forming the political wing of the Syrian Democratic Forces in northeast Syria.
+En 2009 : Finnish game developer Rovio Entertainment releases the hit mobile game Angry Birds internationally on iOS.
 <br/><br/>
-En 2014 : Palestinian minister Ziad Abu Ein is killed after the suppression of a demonstration by Israeli forces in the village (Turmus'ayya) in Ramallah.
+En 2008 : Bernie Madoff is arrested and charged with securities fraud in a $50 billion Ponzi scheme.
 <br/><br/>
-En 2005 : Sosoliso Airlines Flight 1145 crashes at Port Harcourt International Airport in Nigeria, killing 108 people.
+En 2007 : Insurgency in the Maghreb: Two car bombs explode in Algiers, Algeria, one near the Supreme Constitutional Court and the other near the offices of the United Nations.
 <br/><br/>
-En 1999 : Helen Clark is sworn in as Prime Minister of New Zealand, the second woman to hold the post and the first following an election.
+En 2006 : The International Conference to Review the Global Vision of the Holocaust is opened in Tehran, Iran, by then-president Mahmoud Ahmadinejad; nations such as Israel and the United States express concern.
 <br/><br/>
-En 1996 : The new Constitution of South Africa is promulgated by Nelson Mandela.
+En 2006 : Felipe Calderón, the President of Mexico, launches a military-led offensive to put down the drug cartel violence in the state of Michoacán. This effort is often regarded as the first event in the Mexican Drug War.
 <br/><br/>
-En 1995 : The Israeli army withdraws from Nablus pursuant to the terms of Oslo Accord.
+En 2005 : The Buncefield Oil Depot catches fire in Hemel Hempstead, England.
 <br/><br/>
-En 1994 : Rwandan genocide: Maurice Baril, military advisor to the U.N. Secretary-General and head of the Military Division of the Department of Peacekeeping Operations, recommends that UNAMIR stand down.
+En 2005 : Cronulla riots: Thousands of White Australians demonstrate against ethnic violence resulting in a riot against anyone thought to be Lebanese in Cronulla, New South Wales; these are followed up by retaliatory ethnic attacks on Cronulla.
 <br/><br/>
-En 1993 : The last shift leaves Wearmouth Colliery in Sunderland. The closure of the 156-year-old pit marks the end of the old County Durham coalfield, which had been in operation since the Middle Ages.
+En 2001 : China joins the World Trade Organization (WTO).
 <br/><br/>
-En 1991 : Nursultan Nazarbayev is sworn in as the 1st President of Kazakhstan.
+En 1999 : SATA Air Açores Flight 530M crashes into Pico da Esperança on São Jorge Island in the Azores, killing 35.
 <br/><br/>
-En 1991 : The Kazakh Soviet Socialist Republic is renamed into the Republic of Kazakhstan.
+En 1998 : Thai Airways Flight 261 crashes near Surat Thani Airport, killing 101. The pilot flying the Airbus A310-200 is thought to have suffered spatial disorientation.
 <br/><br/>
-En 1989 : Mongolian Revolution: At the country's first open pro-democracy public demonstration, Tsakhiagiin Elbegdorj announces the establishment of the Mongolian Democratic Union.
+En 1997 : The Kyoto Protocol opens for signature.
 <br/><br/>
-En 1984 : United Nations General Assembly recognizes the Convention against Torture.
+En 1994 : First Chechen War: Russian President Boris Yeltsin orders Russian troops into Chechnya.
 <br/><br/>
-En 1983 : Democracy is restored in Argentina with the inauguration of President Raúl Alfonsín.
+En 1994 : A bomb explodes on Philippine Airlines Flight 434, en route from Manila, Philippines, to Tokyo, Japan, killing one. The captain is able to land the plane safely.
 <br/><br/>
-En 1979 : Kaohsiung Incident: Taiwanese pro-democracy demonstrations are suppressed by the KMT dictatorship, and organizers are arrested.
+En 1993 : A block of the Highland Towers condominium complex collapses following a landslide caused by heavy rain and water flowing from a construction site at Ampang district in Kuala Lumpur, Malaysia. 48 of its residents die, including one who died in hospital after being rescued alive, leaving only two survivors.
 <br/><br/>
-En 1978 : Arab–Israeli conflict: Prime Minister of Israel Menachem Begin and President of Egypt Anwar Sadat are jointly awarded the Nobel Peace Prize.
+En 1990 : Demonstrations by students and workers across Albania begin, which eventually trigger the fall of communism in Albania.
 <br/><br/>
-En 1968 : Japan's biggest heist, the still-unsolved "300 million yen robbery", is carried out in Tokyo.
+En 1990 : Several fatal collisions in the 1990 Interstate 75 fog disaster result in a total of 12 deaths and 42 being injured
 <br/><br/>
-En 1963 : Zanzibar gains independence from the United Kingdom as a constitutional monarchy, under Sultan Jamshid bin Abdullah.
+En 1981 : El Mozote massacre: Armed forces in El Salvador kill an estimated 900 civilians in an anti-guerrilla campaign during the Salvadoran Civil War.
 <br/><br/>
-En 1963 : An assassination attempt on the British High Commissioner in Aden kills two people and wounds dozens more.
+En 1980 : The Comprehensive Environmental Response, Compensation, and Liability Act (Superfund) is enacted by the U.S. Congress.
 <br/><br/>
-En 1953 : British Prime Minister Winston Churchill receives the Nobel Prize in Literature.
+En 1978 : The Lufthansa heist is committed by a group led by Lucchese family associate Jimmy Burke. It was the largest cash robbery ever committed on American soil, at that time.
 <br/><br/>
-En 1949 : Chinese Civil War: The People's Liberation Army begins its siege of Chengdu, the last Kuomintang-held city in mainland China, forcing President of the Republic of China Chiang Kai-shek and his government to retreat to Taiwan.
+En 1972 : Apollo 17 becomes the sixth and final Apollo mission to land on the Moon.
 <br/><br/>
-En 1948 : The Human Rights Convention is signed by the United Nations.
+En 1964 : Che Guevara speaks at the United Nations General Assembly in New York City.
 <br/><br/>
-En 1942 : World War II: Government of Poland in exile send Raczyński's Note (the first official report on the Holocaust) to 26 governments who signed the Declaration by United Nations.
+En 1962 : Arthur Lucas, convicted of murder, is the last person to be executed in Canada.
 <br/><br/>
-En 1941 : World War II: The Royal Navy capital ships HMS Prince of Wales and HMS Repulse are sunk by Imperial Japanese Navy torpedo bombers near British Malaya.
+En 1960 : French forces crack down in a violent clash with protesters in French Algeria during a visit by French President Charles de Gaulle.
 <br/><br/>
-En 1941 : World War II: Battle of the Philippines: Imperial Japanese forces under the command of General Masaharu Homma land on Luzon.
+En 1958 : French Upper Volta and French Dahomey gain self-government from France, becoming the Republic of Upper Volta (now Burkina Faso) and the Republic of Dahomey (now Benin), respectively, and joining the French Community.
 <br/><br/>
-En 1936 : Abdication Crisis: Edward VIII signs the Instrument of Abdication.
+En 1948 : Arab–Israeli War: The United Nations passes General Assembly Resolution 194, creating a Conciliation Commission to mediate the conflict.
 <br/><br/>
-En 1932 : Thailand becomes a constitutional monarchy.
+En 1946 : The United Nations International Children's Emergency Fund (UNICEF) is established.
 <br/><br/>
-En 1909 : Selma Lagerlöf becomes the first female writer to receive the Nobel Prize in Literature.
+En 1941 : World War II: Germany and Italy declare war on the United States, following the Americans' declaration of war on the Empire of Japan in the wake of the attack on Pearl Harbor. The United States, in turn, declares war on them.
 <br/><br/>
-En 1907 : The worst night of the Brown Dog riots in London, when 1,000 medical students, protesting against the existence of a memorial for animals that have been vivisected, clash with 400 police officers.
+En 1941 : World War II: Poland declares war on the Empire of Japan.
 <br/><br/>
-En 1906 : U.S. President Theodore Roosevelt is awarded the Nobel Peace Prize for his role in the mediation of the Russo-Japanese War, becoming the first American to win a Nobel Prize in any field.
+En 1941 : World War II: The Imperial Japanese Navy suffers its first loss of surface vessels during the Battle of Wake Island.
 <br/><br/>
-En 1902 : The opening of the reservoir of the Aswan Dam in Egypt.
+En 1937 : Second Italo-Ethiopian War: Italy leaves the League of Nations.
 <br/><br/>
-En 1901 : The first Nobel Prize ceremony is held in Stockholm on the fifth anniversary of Alfred Nobel's death.
+En 1936 : Abdication Crisis: Edward VIII's abdication as King of the United Kingdom and the British Dominions beyond the Seas, and Emperor of India, becomes effective.
 <br/><br/>
-En 1898 : Spanish–American War: The Treaty of Paris is signed, officially ending the conflict. Spain cedes administration of Cuba to the United States, and the United States agrees to pay Spain $20 million for the Philippines.
+En 1934 : Bill Wilson, co-founder of Alcoholics Anonymous, takes his last drink and enters treatment for the final time.
 <br/><br/>
-En 1896 : Alfred Jarry's Ubu Roi premieres in Paris. A riot breaks out at the end of the performance.
+En 1931 : Statute of Westminster 1931: The British Parliament establishes legislative equality between the UK and the Dominions of the Commonwealth—Australia, Canada, Newfoundland, New Zealand, South Africa, and Ireland.
 <br/><br/>
-En 1877 : Russo-Turkish War: The Russian Army captures Plevna after a 5-month siege. The garrison of 25,000 surviving Turks surrenders. The Russian victory is decisive for the outcome of the war and the Liberation of Bulgaria.
+En 1927 : Guangzhou Uprising: Communist Red Guards launch an uprising in Guangzhou, China, taking over most of the city and announcing the formation of a Guangzhou Soviet.
 <br/><br/>
-En 1864 : American Civil War: Sherman's March to the Sea: Major General William Tecumseh Sherman's Union Army troops reach the outer Confederate defenses of Savannah, Georgia.
+En 1925 : Roman Catholic papal encyclical Quas primas introduces the Feast of Christ the King.
 <br/><br/>
-En 1861 : American Civil War: The Confederate States of America accept a rival state government's pronouncement that declares Kentucky to be the 13th state of the Confederacy.
+En 1920 : Irish War of Independence: In retaliation for a recent IRA ambush, British forces burn and loot numerous buildings in Cork city. Many civilians report being beaten, shot at, robbed and verbally abused by British forces.
 <br/><br/>
-En 1861 : Forces led by Nguyễn Trung Trực, an anti-colonial guerrilla leader in southern Vietnam, sink the French lorcha L'Esperance.
+En 1917 : World War I: British General Edmund Allenby enters Jerusalem on foot and declares martial law.
 <br/><br/>
-En 1817 : Mississippi becomes the 20th U.S. state.
+En 1913 : More than two years after it was stolen from the Louvre, Leonardo da Vinci's painting Mona Lisa is recovered in Florence, Italy. The thief, Vincenzo Peruggia, is immediately arrested.
 <br/><br/>
-En 1799 : France adopts the metre as its official unit of length.
+En 1907 : The New Zealand Parliament Buildings are almost completely destroyed by fire.
 <br/><br/>
-En 1768 : The first edition of the Encyclopædia Britannica is published.
+En 1905 : A workers' uprising occurs in Kyiv, Ukraine (then part of the Russian Empire), and establishes the Shuliavka Republic.
 <br/><br/>
-En 1684 : Isaac Newton's derivation of Kepler's laws from his theory of gravity, contained in the paper De motu corporum in gyrum, is read to the Royal Society by Edmond Halley.
+En 1901 : Guglielmo Marconi transmits the first transatlantic radio signal from Poldhu, Cornwall, England to Saint John's, Newfoundland.
 <br/><br/>
-En 1665 : The Royal Netherlands Marine Corps is founded by Michiel de Ruyter.
+En 1899 : Second Boer War: In the Battle of Magersfontein the Boers commanded by general Piet Cronjé inflict a defeat on the forces of the British Empire commanded by Lord Methuen trying to relieve the Siege of Kimberley.
 <br/><br/>
-En 1652 : Defeat at the Battle of Dungeness causes the Commonwealth of England to reform its navy.
+En 1868 : Paraguayan War: Brazilian troops defeat the Paraguayan Army at the Battle of Avay.
 <br/><br/>
-En 1541 : Thomas Culpeper and Francis Dereham are executed for having affairs with Catherine Howard, Queen of England and wife of Henry VIII.
+En 1816 : Indiana becomes the 19th U.S. state.
 <br/><br/>
-En 1520 : Martin Luther burns his copy of the papal bull Exsurge Domine outside Wittenberg's Elster Gate.
+En 1815 : The U.S. Senate creates a select committee on finance and a uniform national currency, predecessor of the United States Senate Committee on Finance.
 <br/><br/>
-En 1508 : The League of Cambrai is formed by Pope Julius II, Louis XII of France, Maximilian I, Holy Roman Emperor and Ferdinand II of Aragon as an alliance against Venice.
+En 1792 : French Revolution: King Louis XVI of France is put on trial for treason by the National Convention.
 <br/><br/>
-En 1317 : The "Nyköping Banquet": King Birger of Sweden treacherously seizes his two brothers Valdemar, Duke of Finland and Eric, Duke of Södermanland, who were subsequently starved to death in the dungeon of Nyköping Castle.
+En 1688 : Glorious Revolution: James II of England, while trying to flee to France, throws the Great Seal of the Realm into the River Thames.
+<br/><br/>
+En 1675 : Antonio de Vea expedition enters San Rafael Lake in western Patagonia.
+<br/><br/>
+En 1640 : The Root and Branch petition, signed by 15,000 Londoners calling for the abolition of the episcopacy, is presented to the Long Parliament.
+<br/><br/>
+En 1602 : A surprise attack by forces under the command of Charles Emmanuel I, Duke of Savoy, and his brother-in-law, Philip III of Spain, is repelled by the citizens of Geneva. (Commemorated annually by the Fête de l'Escalade.)
+<br/><br/>
+En 1282 : Battle of Orewin Bridge: Llywelyn ap Gruffudd, the last native Prince of Wales, is killed at Cilmeri near Builth Wells in mid-Wales.
+<br/><br/>
+En 1041 : Michael V, adoptive son of Empress Zoë of Byzantium, is proclaimed emperor of the Eastern Roman Empire.
+<br/><br/>
+En 969 : Byzantine Emperor Nikephoros II Phokas is assassinated by his wife Theophano and her lover, the later Emperor John I Tzimiskes.
+<br/><br/>
+En 861 : Assassination of the Abbasid caliph al-Mutawakkil by the Turkish guard, who raise al-Muntasir to the throne, start of the "Anarchy at Samarra".
+<br/><br/>
+En 361 : Julian enters Constantinople as sole Roman Emperor.
+<br/><br/>
+En 220 : Emperor Xian of Han is forced to abdicate the throne by Cao Cao's son Cao Pi, ending the Han dynasty.
 <br/><br/>
