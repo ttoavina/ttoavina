@@ -4,105 +4,79 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/12 ?(Hover on the year)</h1>
+<h1> What happen this day 16/12 ?(Hover on the year)</h1>
 
-En 2017 : A 6.5Mw earthquake strikes the Indonesian island of Java in the city of Tasikmalaya, resulting in four deaths.
+En 2022 : A landslide occurs at a camp at an organic farm near the town of Batang Kali in Selangor, Malaysia, trapping 92 people and killing 31.
 <br/><br/>
-En 2014 : Gunman Man Haron Monis takes 18 hostages inside a café in Martin Place for 16 hours in Sydney. Monis and two hostages are killed when police raid the café the following morning.
+En 2014 : Tehrik-i-Taliban Pakistan militants attack an Army Public School in Peshawar, Pakistan, killing 150 people, 132 of them schoolchildren.
 <br/><br/>
-En 2013 : The South Sudanese Civil War begins when opposition leaders Dr. Riek Machar, Pagan Amum and Rebecca Nyandeng vote to boycott the meeting of the National Liberation Council at Nyakuron.
+En 2013 : A bus falls from an elevated highway in the Philippines capital Manila killing at least 18 people with 20 injured.
 <br/><br/>
-En 2010 : A boat carrying 90 asylum seekers crashes into rocks off the coast of Christmas Island, Australia, killing 48 people.
+En 2011 : Zhanaozen massacre: Violent protests by oil workers take place in Zhanaozen, Kazakhstan, leading to 16 people dead and 100 injured by the security forces.
 <br/><br/>
-En 2005 : Introduction of the Lockheed Martin F-22 Raptor into USAF active service.
+En 1989 : Romanian Revolution: Protests break out in Timișoara, Romania, in response to an attempt by the government to evict dissident Hungarian pastor László Tőkés.
 <br/><br/>
-En 2001 : The Leaning Tower of Pisa reopens after 11 years and $27,000,000 spent to stabilize it, without fixing its famous lean.
+En 1986 : Jeltoqsan: Riots erupt in Alma-Ata, Kazakh SSR, in response to Soviet leader Mikhail Gorbachev's dismissal of ethnic Kazakh Dinmukhamed Kunaev, the First Secretary of the Communist Party of Kazakhstan, and his replacement with Gennady Kolbin, an ethnic Russian from the Russian SFSR.
 <br/><br/>
-En 2000 : The third reactor at the Chernobyl Nuclear Power Plant is shut down.
+En 1971 : Bangladesh Liberation War and Indo-Pakistani War of 1971: The Surrender of the Pakistan Army brings an end to both conflicts. This is commemorated annually as Victory Day in Bangladesh and India respectively.
 <br/><br/>
-En 1997 : Tajikistan Airlines Flight 3183 crashes in the desert near Sharjah, United Arab Emirates, killing 85.
+En 1971 : The United Kingdom recognizes Bahrain's independence, which is commemorated annually as Bahrain's National Day.
 <br/><br/>
-En 1993 : The Troubles: The Downing Street Declaration is issued by British Prime Minister John Major and Irish Taoiseach Albert Reynolds.
+En 1968 : Second Vatican Council: Official revocation of the Edict of Expulsion of Jews from Spain.
 <br/><br/>
-En 1989 : Second Optional Protocol to the International Covenant on Civil and Political Rights relating the abolition of capital punishment is adopted.
+En 1960 : A United Airlines Douglas DC-8 and a TWA Lockheed Super Constellation collide over Staten Island, New York and crash, killing all 128 people aboard both aircraft and six more on the ground.
 <br/><br/>
-En 1981 : A suicide car bombing targeting the Iraqi embassy in Beirut, Lebanon, levels the embassy and kills 61 people, including Iraq's ambassador to Lebanon. The attack is considered the first modern suicide bombing.
+En 1944 : World War II: The Battle of the Bulge begins with the surprise offensive of three German armies through the Ardennes forest.
 <br/><br/>
-En 1978 : U.S. President Jimmy Carter announces that the United States will recognize the People's Republic of China and sever diplomatic relations with the Republic of China (Taiwan).
+En 1942 : The Holocaust: Schutzstaffel chief Heinrich Himmler orders that Roma candidates for extermination be deported to Auschwitz.
 <br/><br/>
-En 1973 : John Paul Getty III, grandson of American billionaire J. Paul Getty, is found alive near Naples, Italy, after being kidnapped by an Italian gang on July 10.
+En 1920 : The Haiyuan earthquake of 8.5Mw , rocks the Gansu province in China, killing an estimated 200,000.
 <br/><br/>
-En 1973 : The American Psychiatric Association votes 13–0 to remove homosexuality from its official list of psychiatric disorders, the Diagnostic and Statistical Manual of Mental Disorders.
+En 1914 : World War I: Admiral Franz von Hipper commands a raid on Scarborough, Hartlepool and Whitby.
 <br/><br/>
-En 1970 : Soviet spacecraft Venera 7 successfully lands on Venus. It is the first successful soft landing on another planet.
+En 1912 : First Balkan War: The Royal Hellenic Navy defeats the Ottoman Navy at the Battle of Elli.
 <br/><br/>
-En 1965 : Project Gemini: Gemini 6A, crewed by Wally Schirra and Thomas Stafford, is launched from Cape Kennedy, Florida. Four orbits later, it achieves the first space rendezvous, with Gemini 7.
+En 1905 : In Rugby Union, The "Match of the Century" is played between Wales and New Zealand at Cardiff Arms Park.
 <br/><br/>
-En 1961 : Adolf Eichmann is sentenced to death after being found guilty by an Israeli court of 15 criminal charges, including charges of crimes against humanity, crimes against the Jewish people, and membership of an outlawed organization.
+En 1883 : Tonkin Campaign: French forces capture the Sơn Tây citadel.
 <br/><br/>
-En 1960 : Richard Pavlick is arrested for plotting to assassinate U.S. President-Elect John F. Kennedy.
+En 1882 : Wales and England contest the first Home Nations (now Six Nations) rugby union match.
 <br/><br/>
-En 1960 : King Mahendra of Nepal suspends the country's constitution, dissolves parliament, dismisses the cabinet, and imposes direct rule.
+En 1880 : Outbreak of the First Boer War between the Boer South African Republic and the British Empire.
 <br/><br/>
-En 1945 : Occupation of Japan/Shinto Directive: General Douglas MacArthur orders that Shinto be abolished as the state religion of Japan.
+En 1864 : American Civil War: Battle of Nashville: The Union's Army of the Cumberland routs and destroys the Confederacy's Army of Tennessee, ending its effectiveness as a combat unit.
 <br/><br/>
-En 1944 : World War II: a single-engine UC-64A Norseman aeroplane carrying United States Army Air Forces Major Glenn Miller is lost in a flight over the English Channel.
+En 1863 : American Civil War: Joseph E. Johnston replaces Braxton Bragg as commander of the Confederate Army of Tennessee.
 <br/><br/>
-En 1943 : World War II: The Battle of Arawe begins during the New Britain campaign.
+En 1850 : The Charlotte Jane and the Randolph bring the first of the Canterbury Pilgrims to Lyttelton, New Zealand.
 <br/><br/>
-En 1942 : World War II: The Battle of Mount Austen, the Galloping Horse, and the Sea Horse begins during the Guadalcanal Campaign.
+En 1838 : Great Trek: Battle of Blood River: Voortrekkers led by Andries Pretorius and Sarel Cilliers defeat Zulu impis, led by Dambuza (Nzobo) and Ndlela kaSompisi in what is today KwaZulu-Natal, South Africa.
 <br/><br/>
-En 1941 : The Holocaust in Ukraine: German troops murder over 15,000 Jews at Drobytsky Yar, a ravine southeast of the city of Kharkiv.
+En 1826 : Benjamin W. Edwards rides into Mexican-controlled Nacogdoches, Texas, and declares himself ruler of the Republic of Fredonia.
 <br/><br/>
-En 1939 : Gone with the Wind (highest inflation adjusted grossing film) receives its premiere at Loew's Grand Theatre in Atlanta, Georgia, United States.
+En 1811 : The first two in a series of four severe earthquakes occur in the vicinity of New Madrid, Missouri.
 <br/><br/>
-En 1917 : World War I: An armistice between Russia and the Central Powers is signed.
+En 1782 : British East India Company: Muharram Rebellion: Hada and Mada Miah lead the first anti-British uprising in the subcontinent against Robert Lindsay and his contingents in Sylhet Shahi Eidgah.
 <br/><br/>
-En 1914 : World War I: The Serbian Army recaptures Belgrade from the invading Austro-Hungarian Army.
+En 1777 : Virginia becomes the first state to ratify the Articles of Confederation.
 <br/><br/>
-En 1914 : A gas explosion at Mitsubishi Hōjō coal mine, in Kyushu, Japan, kills 687.
+En 1773 : American Revolution: Boston Tea Party: Members of the Sons of Liberty disguised as Mohawk Indians dump hundreds of crates of tea into Boston harbor as a protest against the Tea Act.
 <br/><br/>
-En 1906 : The London Underground's Great Northern, Piccadilly and Brompton Railway opens.
+En 1761 : Seven Years' War: After a four-month siege, the Russians under Pyotr Rumyantsev take the Prussian fortress of Kołobrzeg.
 <br/><br/>
-En 1905 : The Pushkin House is established in Saint Petersburg, Russia, to preserve the cultural heritage of Alexander Pushkin.
+En 1689 : Convention Parliament: The Declaration of Right is embodied in the Bill of Rights.
 <br/><br/>
-En 1903 : Italian American food cart vendor Italo Marchiony receives a U.S. patent for inventing a machine that makes ice cream cones.
+En 1653 : English Interregnum: The Protectorate: Oliver Cromwell becomes Lord Protector of the Commonwealth of England, Scotland and Ireland.
 <br/><br/>
-En 1899 : British Army forces are defeated at the Battle of Colenso in Natal, South Africa, the third and final battle fought during the Black Week of the Second Boer War.
+En 1598 : Seven-Year War: Battle of Noryang: The final battle of the Seven-Year War is fought between the China and the Korean allied forces and Japanese navies, resulting in a decisive allied forces victory.
 <br/><br/>
-En 1893 : Symphony No. 9 ("From the New World" a.k.a. the "New World Symphony") by Antonín Dvořák premieres in a public afternoon rehearsal at Carnegie Hall in New York City, followed by a concert premiere on the evening of December 16.
+En 1575 : An earthquake with an estimated magnitude of 8.5Mw  strikes Valdivia, Chile.
 <br/><br/>
-En 1890 : Hunkpapa Lakota leader Sitting Bull is killed on Standing Rock Indian Reservation, leading to the Wounded Knee Massacre.
+En 1497 : Vasco da Gama passes the Great Fish River at the southern tip of Africa, where Bartolomeu Dias had previously turned back to Portugal.
 <br/><br/>
-En 1871 : Sixteen-year-old telegraphist Ella Stewart keys and sends the first telegraphed message from Arizona Territory at the Deseret Telegraph Company office in Pipe Spring.
+En 1431 : Hundred Years' War: Henry VI of England is crowned King of France at Notre Dame in Paris.
 <br/><br/>
-En 1869 : The short-lived Republic of Ezo is proclaimed in the Ezo area of Japan. It is the first attempt to establish a democracy in Japan.
+En 755 : An Lushan revolts against Chancellor Yang Guozhong at Yanjing, initiating the An Lushan Rebellion during the Tang dynasty of China.
 <br/><br/>
-En 1864 : American Civil War: The Battle of Nashville begins at Nashville, Tennessee, and ends the following day with the destruction of the Confederate Army of Tennessee as a fighting force by the Union Army of the Cumberland.
-<br/><br/>
-En 1836 : The U.S. Patent Office building in Washington, D.C., nearly burns to the ground, destroying all 9,957 patents issued by the federal government to that date, as well as 7,000 related patent models.
-<br/><br/>
-En 1791 : The United States Bill of Rights becomes law when ratified by the Virginia General Assembly.
-<br/><br/>
-En 1778 : American Revolutionary War: British and French fleets clash in the Battle of St. Lucia.
-<br/><br/>
-En 1651 : Castle Cornet in Guernsey, the last stronghold which had supported the King in the Third English Civil War, surrenders.
-<br/><br/>
-En 1546 : The town of Ekenäs (Finnish: Tammisaari) is founded by King Gustav Vasa of Sweden.
-<br/><br/>
-En 1467 : Stephen III of Moldavia defeats Matthias Corvinus of Hungary, with the latter being injured thrice, at the Battle of Baia.
-<br/><br/>
-En 1270 : The Nizari Ismaili garrison of Gerdkuh, Persia surrender after 17 years to the Mongols.
-<br/><br/>
-En 1256 : Mongol forces under Hulagu enter and dismantle the Nizari Ismaili (Assassin) stronghold at Alamut Castle (in present-day Iran) as part of their offensive on Islamic southwest Asia.
-<br/><br/>
-En 1167 : Sicilian Chancellor Stephen du Perche moves the royal court to Messina to prevent a rebellion.
-<br/><br/>
-En 1161 : Jin–Song wars: Military officers conspire against the emperor Wanyan Liang of the Jin dynasty after a military defeat at the Battle of Caishi, and assassinate the emperor at his camp.
-<br/><br/>
-En 1025 : Constantine VIII becomes sole emperor of the Byzantine Empire, 63 years after being crowned co-emperor.
-<br/><br/>
-En 687 : Pope Sergius I is elected as a compromise between antipopes Paschal and Theodore.
-<br/><br/>
-En 533 : Vandalic War: Byzantine general Belisarius defeats the Vandals, commanded by King Gelimer, at the Battle of Tricamarum.
+En 714 : Pepin of Herstal, mayor of the Merovingian palace, dies at Jupille (modern Belgium). He is succeeded by his infant grandson Theudoald, while his widow Plectrude holds actual power in the Frankish Kingdom.
 <br/><br/>
