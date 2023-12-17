@@ -4,79 +4,129 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/12 ?(Hover on the year)</h1>
+<h1> What happen this day 17/12 ?(Hover on the year)</h1>
 
-En 2022 : A landslide occurs at a camp at an organic farm near the town of Batang Kali in Selangor, Malaysia, trapping 92 people and killing 31.
+En 2014 : The United States and Cuba re-establish diplomatic relations after severing them in 1961.
 <br/><br/>
-En 2014 : Tehrik-i-Taliban Pakistan militants attack an Army Public School in Peshawar, Pakistan, killing 150 people, 132 of them schoolchildren.
+En 2010 : Mohamed Bouazizi sets himself on fire. This act became the catalyst for the Tunisian Revolution and the wider Arab Spring.
 <br/><br/>
-En 2013 : A bus falls from an elevated highway in the Philippines capital Manila killing at least 18 people with 20 injured.
+En 2009 : MV Danny F II sinks off the coast of Lebanon, resulting in the deaths of 44 people and over 28,000 animals.
 <br/><br/>
-En 2011 : Zhanaozen massacre: Violent protests by oil workers take place in Zhanaozen, Kazakhstan, leading to 16 people dead and 100 injured by the security forces.
+En 2005 : Anti-World Trade Organization protesters riot in Wan Chai, Hong Kong.
 <br/><br/>
-En 1989 : Romanian Revolution: Protests break out in Timișoara, Romania, in response to an attempt by the government to evict dissident Hungarian pastor László Tőkés.
+En 2005 : Jigme Singye Wangchuck abdicates the throne as King of Bhutan.
 <br/><br/>
-En 1986 : Jeltoqsan: Riots erupt in Alma-Ata, Kazakh SSR, in response to Soviet leader Mikhail Gorbachev's dismissal of ethnic Kazakh Dinmukhamed Kunaev, the First Secretary of the Communist Party of Kazakhstan, and his replacement with Gennady Kolbin, an ethnic Russian from the Russian SFSR.
+En 2003 : The Soham murder trial ends at the Old Bailey in London, with Ian Huntley found guilty of two counts of murder.  His girlfriend, Maxine Carr, is found guilty of perverting the course of justice.
 <br/><br/>
-En 1971 : Bangladesh Liberation War and Indo-Pakistani War of 1971: The Surrender of the Pakistan Army brings an end to both conflicts. This is commemorated annually as Victory Day in Bangladesh and India respectively.
+En 2003 : SpaceShipOne, piloted by Brian Binnie, makes its first powered and first supersonic flight.
 <br/><br/>
-En 1971 : The United Kingdom recognizes Bahrain's independence, which is commemorated annually as Bahrain's National Day.
+En 2003 : Sex work rights activists establish December 17 (or "D17") as International Day to End Violence Against Sex Workers to memorialize victims of a serial killer who targeted prostitutes, and highlight State violence against sex workers by police and others.
 <br/><br/>
-En 1968 : Second Vatican Council: Official revocation of the Edict of Expulsion of Jews from Spain.
+En 2002 : Second Congo War: The Congolese parties of the Inter Congolese Dialogue sign a peace accord which makes provision for transitional governance and legislative and presidential elections within two years.
 <br/><br/>
-En 1960 : A United Airlines Douglas DC-8 and a TWA Lockheed Super Constellation collide over Staten Island, New York and crash, killing all 128 people aboard both aircraft and six more on the ground.
+En 1997 : Peruvian internal conflict: 14 members of the Túpac Amaru Revolutionary Movement provoke a hostage crisis by taking over the Japanese embassy in Lima.
 <br/><br/>
-En 1944 : World War II: The Battle of the Bulge begins with the surprise offensive of three German armies through the Ardennes forest.
+En 1997 : Aerosvit Flight 241: A Yakovlev Yak-42 crashes into the Pierian Mountains near Thessaloniki Airport in Thessaloniki, Greece, killing all 70 people on board.
 <br/><br/>
-En 1942 : The Holocaust: Schutzstaffel chief Heinrich Himmler orders that Roma candidates for extermination be deported to Auschwitz.
+En 1989 : Romanian Revolution: Protests continue in Timișoara, Romania, with rioters breaking into the Romanian Communist Party's District Committee building and attempting to set it on fire.
 <br/><br/>
-En 1920 : The Haiyuan earthquake of 8.5Mw , rocks the Gansu province in China, killing an estimated 200,000.
+En 1989 : Fernando Collor de Mello defeats Luiz Inácio Lula da Silva in the second round of the Brazilian presidential election, becoming the first democratically elected President in almost 30 years.
 <br/><br/>
-En 1914 : World War I: Admiral Franz von Hipper commands a raid on Scarborough, Hartlepool and Whitby.
+En 1989 : The Simpsons premieres on television with the episode "Simpsons Roasting on an Open Fire".
 <br/><br/>
-En 1912 : First Balkan War: The Royal Hellenic Navy defeats the Ottoman Navy at the Battle of Elli.
+En 1983 : Provisional IRA members detonate a car bomb at Harrods Department Store in London. Three police officers and three civilians are killed.
 <br/><br/>
-En 1905 : In Rugby Union, The "Match of the Century" is played between Wales and New Zealand at Cardiff Arms Park.
+En 1981 : American Brigadier General James L. Dozier is abducted by the Red Brigades in Verona, Italy.
 <br/><br/>
-En 1883 : Tonkin Campaign: French forces capture the Sơn Tây citadel.
+En 1973 : Thirty passengers are killed in an attack by Palestinian terrorists on Rome's Leonardo da Vinci–Fiumicino Airport.
 <br/><br/>
-En 1882 : Wales and England contest the first Home Nations (now Six Nations) rugby union match.
+En 1970 : Polish protests: In Gdynia, soldiers fire at workers emerging from trains, killing dozens.
 <br/><br/>
-En 1880 : Outbreak of the First Boer War between the Boer South African Republic and the British Empire.
+En 1969 : Project Blue Book: The United States Air Force closes its study of UFOs.
 <br/><br/>
-En 1864 : American Civil War: Battle of Nashville: The Union's Army of the Cumberland routs and destroys the Confederacy's Army of Tennessee, ending its effectiveness as a combat unit.
+En 1967 : Harold Holt, Prime Minister of Australia, disappears while swimming near Portsea, Victoria, and is presumed drowned.
 <br/><br/>
-En 1863 : American Civil War: Joseph E. Johnston replaces Braxton Bragg as commander of the Confederate Army of Tennessee.
+En 1961 : Niterói circus fire: Fire breaks out during a performance by the Gran Circus Norte-Americano in the city of Niterói, Rio de Janeiro, Brazil, killing more than 500.
 <br/><br/>
-En 1850 : The Charlotte Jane and the Randolph bring the first of the Canterbury Pilgrims to Lyttelton, New Zealand.
+En 1960 : Troops loyal to Emperor Haile Selassie in Ethiopia crush the coup that began December 13, returning power to their leader upon his return from Brazil. Haile Selassie absolves his son of any guilt.
 <br/><br/>
-En 1838 : Great Trek: Battle of Blood River: Voortrekkers led by Andries Pretorius and Sarel Cilliers defeat Zulu impis, led by Dambuza (Nzobo) and Ndlela kaSompisi in what is today KwaZulu-Natal, South Africa.
+En 1960 : Munich C-131 crash: Twenty passengers and crew on board as well as 32 people on the ground are killed.
 <br/><br/>
-En 1826 : Benjamin W. Edwards rides into Mexican-controlled Nacogdoches, Texas, and declares himself ruler of the Republic of Fredonia.
+En 1957 : The United States successfully launches the first Atlas intercontinental ballistic missile at Cape Canaveral, Florida.
 <br/><br/>
-En 1811 : The first two in a series of four severe earthquakes occur in the vicinity of New Madrid, Missouri.
+En 1951 : The American Civil Rights Congress delivers "We Charge Genocide" to the United Nations.
 <br/><br/>
-En 1782 : British East India Company: Muharram Rebellion: Hada and Mada Miah lead the first anti-British uprising in the subcontinent against Robert Lindsay and his contingents in Sylhet Shahi Eidgah.
+En 1950 : The F-86 Sabre's first mission over Korea.
 <br/><br/>
-En 1777 : Virginia becomes the first state to ratify the Articles of Confederation.
+En 1948 : The Finnish Security Police is established to remove communist leadership from its predecessor, the State Police.
 <br/><br/>
-En 1773 : American Revolution: Boston Tea Party: Members of the Sons of Liberty disguised as Mohawk Indians dump hundreds of crates of tea into Boston harbor as a protest against the Tea Act.
+En 1947 : First flight of the Boeing B-47 Stratojet strategic bomber.
 <br/><br/>
-En 1761 : Seven Years' War: After a four-month siege, the Russians under Pyotr Rumyantsev take the Prussian fortress of Kołobrzeg.
+En 1945 : Kurdistan flag day, the flag of Kurdistan was raised for the first time in Mahabad in eastern Kurdistan (Iran).
 <br/><br/>
-En 1689 : Convention Parliament: The Declaration of Right is embodied in the Bill of Rights.
+En 1944 : World War II: Battle of the Bulge: Malmedy massacre: American 285th Field Artillery Observation Battalion POWs are shot by Waffen-SS Kampfgruppe Joachim Peiper.
 <br/><br/>
-En 1653 : English Interregnum: The Protectorate: Oliver Cromwell becomes Lord Protector of the Commonwealth of England, Scotland and Ireland.
+En 1943 : All Chinese are again permitted to become citizens of the United States upon the repeal of the Act of 1882 and the introduction of the Magnuson Act.
 <br/><br/>
-En 1598 : Seven-Year War: Battle of Noryang: The final battle of the Seven-Year War is fought between the China and the Korean allied forces and Japanese navies, resulting in a decisive allied forces victory.
+En 1939 : World War II: Battle of the River Plate: The Admiral Graf Spee is scuttled by Captain Hans Langsdorff outside Montevideo.
 <br/><br/>
-En 1575 : An earthquake with an estimated magnitude of 8.5Mw  strikes Valdivia, Chile.
+En 1938 : Otto Hahn discovers the nuclear fission of the heavy element uranium, the scientific and technological basis of nuclear energy.
 <br/><br/>
-En 1497 : Vasco da Gama passes the Great Fish River at the southern tip of Africa, where Bartolomeu Dias had previously turned back to Portugal.
+En 1935 : First flight of the Douglas DC-3.
 <br/><br/>
-En 1431 : Hundred Years' War: Henry VI of England is crowned King of France at Notre Dame in Paris.
+En 1933 : The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears won 23–21.
 <br/><br/>
-En 755 : An Lushan revolts against Chancellor Yang Guozhong at Yanjing, initiating the An Lushan Rebellion during the Tang dynasty of China.
+En 1928 : Indian revolutionaries Bhagat Singh, Sukhdev Thapar and Shivaram Rajguru assassinate British police officer James Saunders in Lahore, Punjab, to avenge the death of Lala Lajpat Rai at the hands of the police. The three were executed in 1931.
 <br/><br/>
-En 714 : Pepin of Herstal, mayor of the Merovingian palace, dies at Jupille (modern Belgium). He is succeeded by his infant grandson Theudoald, while his widow Plectrude holds actual power in the Frankish Kingdom.
+En 1927 : Indian revolutionary Rajendra Lahiri is hanged in Gonda jail, Uttar Pradesh, India, two days before the scheduled date.
+<br/><br/>
+En 1926 : Antanas Smetona assumes power in Lithuania as the 1926 coup d'état is successful.
+<br/><br/>
+En 1918 : Darwin Rebellion: Up to 1,000 demonstrators march on Government House in Darwin, Northern Territory, Australia.
+<br/><br/>
+En 1907 : Ugyen Wangchuck is crowned first King of Bhutan.
+<br/><br/>
+En 1903 : The Wright brothers make the first controlled powered, heavier-than-air flight in the Wright Flyer at Kitty Hawk, North Carolina.
+<br/><br/>
+En 1896 : Pittsburgh, Pennsylvania's Schenley Park Casino, which was the first multi-purpose arena with the technology to create an artificial ice surface in North America, is destroyed in a fire.
+<br/><br/>
+En 1892 : First issue of Vogue is published.
+<br/><br/>
+En 1865 : First performance of the Unfinished Symphony by Franz Schubert.
+<br/><br/>
+En 1862 : American Civil War: General Ulysses S. Grant issues General Order No. 11, expelling Jews from parts of Tennessee, Mississippi, and Kentucky.
+<br/><br/>
+En 1837 : A fire in the Winter Palace of Saint Petersburg kills 30 guards.
+<br/><br/>
+En 1835 : The second Great Fire of New York destroys 53,000 square metres (13 acres) of New York City's Financial District.
+<br/><br/>
+En 1819 : Simón Bolívar declares the independence of Gran Colombia in Angostura (now Ciudad Bolívar in Venezuela).
+<br/><br/>
+En 1812 : War of 1812: U.S. forces attack a Lenape village in the Battle of the Mississinewa.
+<br/><br/>
+En 1807 : Napoleonic Wars: France issues the Milan Decree, which confirms the Continental System.
+<br/><br/>
+En 1790 : The Aztec calendar stone is discovered at  El Zócalo, Mexico City.
+<br/><br/>
+En 1777 : American Revolution: France formally recognizes the United States.
+<br/><br/>
+En 1718 : War of the Quadruple Alliance: Great Britain declares war on Spain.
+<br/><br/>
+En 1586 : Go-Yōzei becomes Emperor of Japan.
+<br/><br/>
+En 1583 : Cologne War: Forces under Ernest of Bavaria defeat troops under Gebhard Truchsess von Waldburg at the Siege of Godesberg.
+<br/><br/>
+En 1538 : Pope Paul III excommunicates Henry VIII of England.
+<br/><br/>
+En 1398 : Sultan Nasir-u Din Mehmud's armies in Delhi are defeated by Timur.
+<br/><br/>
+En 1297 : King Kyawswa of Pagan is overthrown by the three Myinsaing brothers, marking the de facto end of the Pagan Kingdom.
+<br/><br/>
+En 942 : Assassination of William I of Normandy.
+<br/><br/>
+En 920 : Romanos I Lekapenos is crowned co-emperor of the underage Constantine VII.
+<br/><br/>
+En 546 : Siege of Rome: The Ostrogoths under king Totila plunder the city, by bribing the Byzantine garrison.
+<br/><br/>
+En -497 : The first Saturnalia festival was celebrated in ancient Rome.
 <br/><br/>
