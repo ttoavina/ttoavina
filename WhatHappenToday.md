@@ -4,87 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 18/12 ?(Hover on the year)</h1>
+<h1> What happen this day 19/12 ?(Hover on the year)</h1>
 
-En 2022 : Argentina win the 2022 FIFA World Cup final, defeating title holders France 4–2 on penalties following a 3–3 draw after extra time.
+En 2016 : Russian ambassador to Turkey Andrei Karlov is assassinated while at an art exhibition in Ankara. The assassin, Mevlüt Mert Altıntaş, is shot and killed by a Turkish guard.
 <br/><br/>
-En 2019 : The United States House of Representatives impeaches Donald Trump for the first time.
+En 2016 : A vehicular attack in Berlin, Germany, kills and injures multiple people at a Christmas market.
 <br/><br/>
-En 2018 : List of bolides: A meteor exploded over the Bering Sea with a force over 10 times greater than the atomic bomb that destroyed Hiroshima in 1945.
+En 2013 : Spacecraft Gaia is launched by the European Space Agency.
 <br/><br/>
-En 2017 : Amtrak Cascades passenger train 501, derailed near DuPont, Washington, a city in United States near Olympia, Washington killing six people, and injuring 70 others.
+En 2012 : Park Geun-hye is elected the first female president of South Korea.
 <br/><br/>
-En 2015 : Kellingley Colliery, the last deep coal mine in Great Britain, closes.
+En 2005 : Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
 <br/><br/>
-En 2006 : The first of a series of floods strikes Malaysia. The death toll of all flooding is at least 118, with over 400,000 people displaced.
+En 2001 : A record high barometric pressure of 1,085.6 hectopascals (32.06 inHg) is recorded at Tosontsengel, Khövsgöl, Mongolia.
 <br/><br/>
-En 2006 : United Arab Emirates holds its first-ever elections.
+En 2001 : Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
 <br/><br/>
-En 2005 : The Chadian Civil War begins when rebel groups, allegedly backed by neighbouring Sudan, launch an attack in Adré.
+En 2000 : The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
 <br/><br/>
-En 2002 : California gubernatorial recall: Then Governor of California Gray Davis announces that the state would face a record budget deficit of $35 billion, roughly double the figure reported during his reelection campaign one month earlier.
+En 1998 : President Bill Clinton is impeached by the United States House of Representatives, becoming the second president of the United States to be impeached.
 <br/><br/>
-En 1999 : NASA launches into orbit the Terra platform carrying five Earth Observation instruments, including ASTER, CERES, MISR, MODIS and MOPITT.
+En 1997 : SilkAir Flight 185 crashes into the Musi River, near Palembang in Indonesia, killing 104.
 <br/><br/>
-En 1995 : A Lockheed L-188 Electra crashes in Jamba, Cuando Cubango, Angola, killing 141 people.
+En 1995 : The United States Government restores federal recognition to the Nottawaseppi Huron Band of Potawatomi Native American tribe.
 <br/><br/>
-En 1981 : First flight of the Russian heavy strategic bomber Tu-160, the world's largest combat aircraft, largest supersonic aircraft and largest variable-sweep wing aircraft built.
+En 1991 : Joe Cole, American roadie and author, is killed in an armed robbery
 <br/><br/>
-En 1977 : United Airlines Flight 2860 crashes near Kaysville, Utah, killing all three crew members on board.
+En 1986 : Mikhail Gorbachev, leader of the Soviet Union, releases Andrei Sakharov and his wife from exile in Gorky.
 <br/><br/>
-En 1977 : SA de Transport Aérien Flight 730 crashes near Madeira Airport in Funchal, Madeira, Portugal, killing 36.
+En 1985 : Aeroflot Flight 101/435 is hijacked to China by its first officer.
 <br/><br/>
-En 1973 : Soviet Soyuz Programme: Soyuz 13, crewed by cosmonauts Valentin Lebedev and Pyotr Klimuk, is launched from Baikonur in the Soviet Union.
+En 1984 : The Sino-British Joint Declaration, stating that China would resume the exercise of sovereignty over Hong Kong and the United Kingdom would restore Hong Kong to China with effect from July 1, 1997, is signed in Beijing by Deng Xiaoping and Margaret Thatcher.
 <br/><br/>
-En 1972 : Vietnam War: President Richard Nixon announces that the United States will engage North Vietnam in Operation Linebacker II, a series of Christmas bombings, after peace talks collapsed with North Vietnam on the 13th.
+En 1983 : The original FIFA World Cup trophy, the Jules Rimet Trophy, is stolen from the headquarters of the Brazilian Football Confederation in Rio de Janeiro, Brazil.
 <br/><br/>
-En 1966 : Saturn's moon Epimetheus is discovered by astronomer Richard Walker.
+En 1981 : Sixteen lives are lost when the Penlee lifeboat goes to the aid of the stricken coaster Union Star in heavy seas.
 <br/><br/>
-En 1958 : Project SCORE, the world's first communications satellite, is launched.
+En 1977 : The Ms  5.8 Bob–Tangol earthquake strikes Kerman Province in Iran, destroying villages and killing 665 people.
 <br/><br/>
-En 1957 : A violent F5 tornado wipes out the entire community of Sunfield, Illinois.
+En 1974 : Nelson Rockefeller is sworn in as Vice President of the United States under President Gerald Ford under the provisions of the 25th Amendment to the United States Constitution.
 <br/><br/>
-En 1944 : World War II: XX Bomber Command responds to the Japanese Operation Ichi-Go offensive by dropping five hundred tons of incendiary bombs on a supply base in Hankow, China.
+En 1972 : Apollo program: The last crewed lunar flight, Apollo 17, carrying Eugene Cernan, Ronald Evans, and Harrison Schmitt, returns to Earth.
 <br/><br/>
-En 1944 : The Supreme Court of the United States issued its decision in Korematsu v. United States supporting Franklin D. Roosevelt's Executive Order 9066 which cleared the way for the incarceration of nearly all 120,000 Japanese Americans, two-thirds of whom were U.S. citizens, born and raised in the United States.
+En 1967 : Harold Holt, the Prime Minister of Australia, is officially presumed dead.
 <br/><br/>
-En 1939 : World War II: The Battle of the Heligoland Bight, the first major air battle of the war, takes place.
+En 1961 : India annexes Daman and Diu, part of Portuguese India.
 <br/><br/>
-En 1935 : The Lanka Sama Samaja Party is founded in Ceylon.
+En 1956 : Irish-born physician John Bodkin Adams is arrested in connection with the suspicious deaths of more than 160 patients. Eventually he is convicted only of minor charges.
 <br/><br/>
-En 1932 : The Chicago Bears defeat the Portsmouth Spartans in the first NFL playoff game to win the NFL Championship.
+En 1946 : Start of the First Indochina War.
 <br/><br/>
-En 1917 : The resolution containing the language of the Eighteenth Amendment to enact Prohibition is passed by the United States Congress.
+En 1945 : John Amery, British Fascist, is executed at the age of 33 by the British Government for treason.
 <br/><br/>
-En 1916 : World War I: The Battle of Verdun ends when the second French offensive pushes the Germans back two or three kilometres, causing them to cease their attacks.
+En 1941 : World War II: Adolf Hitler appoints himself as head of the Oberkommando des Heeres.
 <br/><br/>
-En 1898 : Gaston de Chasseloup-Laubat sets the first officially recognized land speed record of 63.159 km/h (39.245 mph) in a Jeantaud electric car.
+En 1941 : World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.
 <br/><br/>
-En 1892 : Premiere performance of The Nutcracker by Pyotr Ilyich Tchaikovsky in Saint Petersburg, Russia.
+En 1940 : Risto Ryti, the Prime Minister of Finland,  is elected President of the Republic of Finland in a presidential election, which is exceptionally held by the 1937 electoral college.
 <br/><br/>
-En 1878 : The Al-Thani family become the rulers of the state of Qatar.
+En 1932 : BBC World Service begins broadcasting as the BBC Empire Service.
 <br/><br/>
-En 1867 : A magnitude 7.0 earthquakes strikes off the coast of Taiwan, triggering a tsunami and killing at least 580 people.
+En 1929 : The Indian National Congress promulgates the Purna Swaraj (the Declaration of the Independence of India).
 <br/><br/>
-En 1865 : US Secretary of State William Seward proclaims the adoption of the Thirteenth Amendment, prohibiting slavery throughout the United States.
+En 1927 : Three Indian revolutionaries, Ram Prasad Bismil, Roshan Singh and Ashfaqulla Khan, are executed by the British Raj for participation in the Kakori conspiracy.
 <br/><br/>
-En 1854 : The Legislative Assembly of the Province of Canada abolishes the seigneurial system.
+En 1924 : The last Rolls-Royce Silver Ghost is sold in London, England.
 <br/><br/>
-En 1833 : The national anthem of the Russian Empire, "God Save the Tsar!", is first performed.
+En 1924 : German serial killer Fritz Haarmann is sentenced to death for a series of murders.
 <br/><br/>
-En 1793 : Surrender of the frigate La Lutine by French Royalists to Lord Samuel Hood; renamed HMS Lutine, she later becomes a famous treasure wreck.
+En 1920 : King Constantine I is restored as King of the Hellenes after the death of his son Alexander of Greece and a plebiscite.
 <br/><br/>
-En 1787 : New Jersey becomes the third state to ratify the U.S. Constitution.
+En 1912 : William Van Schaick, captain of the steamship General Slocum which caught fire and killed over one thousand people, is pardoned by U.S. President William Howard Taft after .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}3+1⁄2 years in Sing Sing prison.
 <br/><br/>
-En 1777 : The United States celebrates its first Thanksgiving, marking the recent victory by the American rebels over British General John Burgoyne at Saratoga in October.
+En 1907 : Two hundred thirty-nine coal miners die in the Darr Mine Disaster in Jacobs Creek, Pennsylvania.
 <br/><br/>
-En 1655 : The Whitehall Conference ends with the determination that there was no law preventing Jews from re-entering England after the Edict of Expulsion of 1290.
+En 1900 : Hopetoun Blunder: The first Governor-General of Australia John Hope, 7th Earl of Hopetoun, appoints Sir William Lyne premier of the new state of New South Wales, but he is unable to persuade other colonial politicians to join his government and is forced to resign.
 <br/><br/>
-En 1622 : Portuguese forces score a military victory over the Kingdom of Kongo at the Battle of Mbumbi in present-day Angola.
+En 1900 : French parliament votes amnesty for all involved in scandalous army treason trial known as Dreyfus affair.
 <br/><br/>
-En 1499 : A rebellion breaks out in Alpujarras in response to the forced conversions of Muslims in Spain.
+En 1828 : Vice President of the United States John C. Calhoun sparks the Nullification Crisis when he anonymously publishes the South Carolina Exposition and Protest, protesting the Tariff of 1828.
 <br/><br/>
-En 1271 : Kublai Khan renames his empire "Yuan" (元 yuán), officially marking the start of the Yuan dynasty of Mongolia and China.
+En 1796 : French Revolutionary Wars: Two British frigates under Commodore Horatio Nelson and two Spanish frigates under Commodore Don Jacobo Stuart engage in battle off the coast of Murcia.
 <br/><br/>
-En 1118 : The city of Zaragoza is conquered by king Alfonso I of Aragon from the Almoravid.
+En 1793 : War of the First Coalition: The Siege of Toulon ends when Napoleon's French artillery forces the British to abandon the city, securing southern France from invasion.
+<br/><br/>
+En 1783 : William Pitt the Younger becomes the youngest Prime Minister of the United Kingdom at 24.
+<br/><br/>
+En 1777 : American Revolutionary War: George Washington's Continental Army goes into winter quarters at Valley Forge, Pennsylvania.
+<br/><br/>
+En 1776 : Thomas Paine publishes one of a series of pamphlets in The Pennsylvania Journal entitled "The American Crisis".
+<br/><br/>
+En 1675 : The Great Swamp Fight, a pivotal battle in King Philip's War, gives the English settlers a bitterly won victory.
+<br/><br/>
+En 1606 : The ships Susan Constant, Godspeed, and Discovery depart England carrying settlers who founded, at Jamestown, Virginia, the first of the thirteen colonies that became the United States.
+<br/><br/>
+En 1562 : The Battle of Dreux takes place during the French Wars of Religion.
+<br/><br/>
+En 1490 : Anne, Duchess of Brittany, is married to Maximilian I, Holy Roman Emperor by proxy.
+<br/><br/>
+En 1187 : Pope Clement III is elected.
+<br/><br/>
+En 1154 : Henry II of England is crowned at Westminster Abbey.
 <br/><br/>
