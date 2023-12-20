@@ -4,105 +4,75 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/12 ?(Hover on the year)</h1>
+<h1> What happen this day 20/12 ?(Hover on the year)</h1>
 
-En 2016 : Russian ambassador to Turkey Andrei Karlov is assassinated while at an art exhibition in Ankara. The assassin, Mevlüt Mert Altıntaş, is shot and killed by a Turkish guard.
+En 2019 : The United States Space Force becomes the first new branch of the United States Armed Forces since 1947.
 <br/><br/>
-En 2016 : A vehicular attack in Berlin, Germany, kills and injures multiple people at a Christmas market.
+En 2007 : Elizabeth II becomes the oldest monarch in the history of the United Kingdom, surpassing Queen Victoria, who lived for 81 years and 243 days.
 <br/><br/>
-En 2013 : Spacecraft Gaia is launched by the European Space Agency.
+En 2007 : The Portrait of Suzanne Bloch (1904), by the Spanish artist Pablo Picasso, and O Lavrador de Café by Brazilian modernist painter Cândido Portinari, are stolen from the São Paulo Museum of Art in Brazil. Both will be recovered a few weeks later.
 <br/><br/>
-En 2012 : Park Geun-hye is elected the first female president of South Korea.
+En 2004 : A gang of thieves steal £26.5 million worth of currency from the Donegall Square West headquarters of Northern Bank in Belfast, Northern Ireland, United Kingdom, one of the largest bank robberies in British history.
 <br/><br/>
-En 2005 : Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
+En 1999 : Macau is handed over to China by Portugal.
 <br/><br/>
-En 2001 : A record high barometric pressure of 1,085.6 hectopascals (32.06 inHg) is recorded at Tosontsengel, Khövsgöl, Mongolia.
+En 1995 : NATO begins peacekeeping in Bosnia.
 <br/><br/>
-En 2001 : Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
+En 1995 : American Airlines Flight 965, a Boeing 757, crashes into a mountain 50 km north of Cali, Colombia, killing 159 of the 163 people on board.
 <br/><br/>
-En 2000 : The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
+En 1991 : A Missouri court sentences the Palestinian militant Zein Isa and his wife Maria to death for the honor killing of their daughter Palestina.
 <br/><br/>
-En 1998 : President Bill Clinton is impeached by the United States House of Representatives, becoming the second president of the United States to be impeached.
+En 1989 : The United States invasion of Panama deposes Manuel Noriega.
 <br/><br/>
-En 1997 : SilkAir Flight 185 crashes into the Musi River, near Palembang in Indonesia, killing 104.
+En 1987 : In the worst peacetime sea disaster, the passenger ferry Doña Paz sinks after colliding with the oil tanker MT Vector in the Tablas Strait of the Philippines, killing an estimated 4,000 people (1,749 official).
 <br/><br/>
-En 1995 : The United States Government restores federal recognition to the Nottawaseppi Huron Band of Potawatomi Native American tribe.
+En 1985 : Pope John Paul II announces the institution of World Youth Day.
 <br/><br/>
-En 1991 : Joe Cole, American roadie and author, is killed in an armed robbery
+En 1984 : The Summit Tunnel fire, one of the largest transportation tunnel fires in history, burns after a freight train carrying over one million liters of gasoline derails near the town of Todmorden, England, in the Pennines.
 <br/><br/>
-En 1986 : Mikhail Gorbachev, leader of the Soviet Union, releases Andrei Sakharov and his wife from exile in Gorky.
+En 1984 : Disappearance of Jonelle Matthews from Greeley, Colorado.  Her remains were discovered on July 23, 2019, located about 24 km (15 mi) southeast of Jonelle's home. The cause of death "was a gunshot wound to the head."
 <br/><br/>
-En 1985 : Aeroflot Flight 101/435 is hijacked to China by its first officer.
+En 1973 : Assassination of Luis Carrero Blanco: A car bomb planted by ETA in Madrid kills three people, including the Prime Minister of Spain, Admiral Luis Carrero Blanco.
 <br/><br/>
-En 1984 : The Sino-British Joint Declaration, stating that China would resume the exercise of sovereignty over Hong Kong and the United Kingdom would restore Hong Kong to China with effect from July 1, 1997, is signed in Beijing by Deng Xiaoping and Margaret Thatcher.
+En 1967 : A Pennsylvania Railroad Budd Metroliner exceeds 249 kilometres per hour (155 mph) on their New York Division, also present-day Amtrak's Northeast Corridor.
 <br/><br/>
-En 1983 : The original FIFA World Cup trophy, the Jules Rimet Trophy, is stolen from the headquarters of the Brazilian Football Confederation in Rio de Janeiro, Brazil.
+En 1957 : The initial production version of the Boeing 707 makes its first flight.
 <br/><br/>
-En 1981 : Sixteen lives are lost when the Penlee lifeboat goes to the aid of the stricken coaster Union Star in heavy seas.
+En 1955 : Cardiff is proclaimed the capital city of Wales, United Kingdom.
 <br/><br/>
-En 1977 : The Ms  5.8 Bob–Tangol earthquake strikes Kerman Province in Iran, destroying villages and killing 665 people.
+En 1952 : A United States Air Force C-124 crashes and burns in Moses Lake, Washington, killing 87 of the 115 people on board.
 <br/><br/>
-En 1974 : Nelson Rockefeller is sworn in as Vice President of the United States under President Gerald Ford under the provisions of the 25th Amendment to the United States Constitution.
+En 1951 : The EBR-1 in Arco, Idaho becomes the first nuclear power plant to generate electricity. The electricity powered four light bulbs.
 <br/><br/>
-En 1972 : Apollo program: The last crewed lunar flight, Apollo 17, carrying Eugene Cernan, Ronald Evans, and Harrison Schmitt, returns to Earth.
+En 1948 : Indonesian National Revolution: The Dutch military captures Yogyakarta, the temporary capital of the newly formed Republic of Indonesia.
 <br/><br/>
-En 1967 : Harold Holt, the Prime Minister of Australia, is officially presumed dead.
+En 1946 : It's a Wonderful Life premieres at the Globe Theatre in New York to mixed reviews.
 <br/><br/>
-En 1961 : India annexes Daman and Diu, part of Portuguese India.
+En 1946 : An earthquake in Nankaidō, Japan causes a tsunami which kills at least one thousand people and destroys 36,000 homes.
 <br/><br/>
-En 1956 : Irish-born physician John Bodkin Adams is arrested in connection with the suspicious deaths of more than 160 patients. Eventually he is convicted only of minor charges.
+En 1942 : World War II: Japanese air forces bomb Calcutta, India.
 <br/><br/>
-En 1946 : Start of the First Indochina War.
+En 1941 : World War II: First battle of the American Volunteer Group, better known as the "Flying Tigers", in Kunming, China.
 <br/><br/>
-En 1945 : John Amery, British Fascist, is executed at the age of 33 by the British Government for treason.
+En 1940 : Captain America Comics #1, containing the first appearance of the superhero Captain America, is published.
 <br/><br/>
-En 1941 : World War II: Adolf Hitler appoints himself as head of the Oberkommando des Heeres.
+En 1924 : Adolf Hitler is released from Landsberg Prison.
 <br/><br/>
-En 1941 : World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.
+En 1917 : Cheka, the first Soviet secret police force, is founded.
 <br/><br/>
-En 1940 : Risto Ryti, the Prime Minister of Finland,  is elected President of the Republic of Finland in a presidential election, which is exceptionally held by the 1937 electoral college.
+En 1915 : World War I: The last Australian troops are evacuated from Gallipoli.
 <br/><br/>
-En 1932 : BBC World Service begins broadcasting as the BBC Empire Service.
+En 1860 : South Carolina becomes the first state to attempt to secede from the United States with the South Carolina Declaration of Secession.
 <br/><br/>
-En 1929 : The Indian National Congress promulgates the Purna Swaraj (the Declaration of the Independence of India).
+En 1832 : HMS Clio under the command of Captain Onslow arrives at Port Egmont under orders to take possession of the Falkland Islands.
 <br/><br/>
-En 1927 : Three Indian revolutionaries, Ram Prasad Bismil, Roshan Singh and Ashfaqulla Khan, are executed by the British Raj for participation in the Kakori conspiracy.
+En 1808 : Peninsular War: The Siege of Zaragoza begins.
 <br/><br/>
-En 1924 : The last Rolls-Royce Silver Ghost is sold in London, England.
+En 1803 : The Louisiana Purchase is completed at a ceremony in New Orleans.
 <br/><br/>
-En 1924 : German serial killer Fritz Haarmann is sentenced to death for a series of murders.
+En 1334 : Cardinal Jacques Fournier, a Cistercian monk, is elected Pope Benedict XII.
 <br/><br/>
-En 1920 : King Constantine I is restored as King of the Hellenes after the death of his son Alexander of Greece and a plebiscite.
+En 1192 : Richard I of England is captured and imprisoned by Leopold V of Austria on his way home to England after the Third Crusade.
 <br/><br/>
-En 1912 : William Van Schaick, captain of the steamship General Slocum which caught fire and killed over one thousand people, is pardoned by U.S. President William Howard Taft after .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}3+1⁄2 years in Sing Sing prison.
-<br/><br/>
-En 1907 : Two hundred thirty-nine coal miners die in the Darr Mine Disaster in Jacobs Creek, Pennsylvania.
-<br/><br/>
-En 1900 : Hopetoun Blunder: The first Governor-General of Australia John Hope, 7th Earl of Hopetoun, appoints Sir William Lyne premier of the new state of New South Wales, but he is unable to persuade other colonial politicians to join his government and is forced to resign.
-<br/><br/>
-En 1900 : French parliament votes amnesty for all involved in scandalous army treason trial known as Dreyfus affair.
-<br/><br/>
-En 1828 : Vice President of the United States John C. Calhoun sparks the Nullification Crisis when he anonymously publishes the South Carolina Exposition and Protest, protesting the Tariff of 1828.
-<br/><br/>
-En 1796 : French Revolutionary Wars: Two British frigates under Commodore Horatio Nelson and two Spanish frigates under Commodore Don Jacobo Stuart engage in battle off the coast of Murcia.
-<br/><br/>
-En 1793 : War of the First Coalition: The Siege of Toulon ends when Napoleon's French artillery forces the British to abandon the city, securing southern France from invasion.
-<br/><br/>
-En 1783 : William Pitt the Younger becomes the youngest Prime Minister of the United Kingdom at 24.
-<br/><br/>
-En 1777 : American Revolutionary War: George Washington's Continental Army goes into winter quarters at Valley Forge, Pennsylvania.
-<br/><br/>
-En 1776 : Thomas Paine publishes one of a series of pamphlets in The Pennsylvania Journal entitled "The American Crisis".
-<br/><br/>
-En 1675 : The Great Swamp Fight, a pivotal battle in King Philip's War, gives the English settlers a bitterly won victory.
-<br/><br/>
-En 1606 : The ships Susan Constant, Godspeed, and Discovery depart England carrying settlers who founded, at Jamestown, Virginia, the first of the thirteen colonies that became the United States.
-<br/><br/>
-En 1562 : The Battle of Dreux takes place during the French Wars of Religion.
-<br/><br/>
-En 1490 : Anne, Duchess of Brittany, is married to Maximilian I, Holy Roman Emperor by proxy.
-<br/><br/>
-En 1187 : Pope Clement III is elected.
-<br/><br/>
-En 1154 : Henry II of England is crowned at Westminster Abbey.
+En 69 : Antonius Primus enters Rome to claim the title of Emperor for Nero's former general Vespasian.
 <br/><br/>
