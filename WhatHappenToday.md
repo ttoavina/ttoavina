@@ -4,91 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 23/12 ?(Hover on the year)</h1>
+<h1> What happen this day 24/12 ?(Hover on the year)</h1>
 
-En 2015 : A bomb explodes at Istanbul's Sabiha Gökçen Airport, killing one airport cleaner. The Kurdistan Freedom Hawks claim responsibility for the attack four days later.
+En 2021 : Burmese military forces commit the Mo So massacre, killing at least 44 civilians.
 <br/><br/>
-En 2008 : A coup d'état occurs in Guinea hours after the death of President Lansana Conté.
+En 2018 : A helicopter crash kills Martha Érika Alonso, first female Governor of Puebla, Mexico, and her husband Rafael Moreno Valle Rosas, former governor.
 <br/><br/>
-En 2007 : An agreement is made for the Kingdom of Nepal to be abolished and the country to become a federal republic with the Prime Minister becoming head of state.
+En 2008 : The Lord's Resistance Army, a Ugandan rebel group, begins a series of attacks against civilians in the Democratic Republic of the Congo, massacring more than 400.
 <br/><br/>
-En 2005 : An Antonov An-140, Azerbaijan Airlines Flight 217 from Baku, Azerbaijan, to Aktau, Kazakhstan, heading across the Caspian Sea, crashes, killing 23 people.
+En 2005 : Chad–Sudan relations: Chad declares a state of belligerence against Sudan following a December 18 attack on Adré, which left about 100 people dead.
 <br/><br/>
-En 2003 : An explosion at the PetroChina Chuandongbei natural gas field in Kai County, Chongqing, China, kills at least 234.
+En 2003 : The Spanish police thwart an attempt by ETA to detonate 50 kg of explosives at 3:55 p.m. inside Madrid's busy Chamartín Station.
 <br/><br/>
-En 2002 : A U.S. MQ-1 Predator is shot down by an Iraqi MiG-25 in the first combat engagement between a drone and conventional aircraft.
+En 1999 : Indian Airlines Flight 814 is hijacked in Indian airspace between Kathmandu, Nepal, and Delhi, India. The aircraft landed at Kandahar in Afghanistan. The incident ended on December 31 with the release of 190 survivors (one passenger is killed).
 <br/><br/>
-En 1990 : History of Slovenia: In a referendum, 88.5% of Slovenia's overall electorate vote for independence from Yugoslavia.
+En 1997 : The Sid El-Antri massacre in Algeria kills between 50 and 100 people.
 <br/><br/>
-En 1986 : Voyager, piloted by Dick Rutan and Jeana Yeager, lands at Edwards Air Force Base in California becoming the first aircraft to fly non-stop around the world without aerial or ground refueling.
+En 1996 : A Learjet 35 crashes into Smarts Mountain near Dorchester, New Hampshire, killing both pilots on board.
 <br/><br/>
-En 1984 : After experiencing an engine fire, Aeroflot Flight 3519 attempts to make an emergency landing at Krasnoyarsk International Airport but crashes, killing 110 of the 111 people on board.
+En 1994 : Air France Flight 8969 is hijacked on the ground at Houari Boumediene Airport, Algiers, Algeria. Over the course of three days three passengers are killed, as are all four terrorists.
 <br/><br/>
-En 1979 : Soviet–Afghan War: Soviet Union forces occupy Kabul, the Afghan capital.
+En 1974 : Cyclone Tracy devastates Darwin, Australia.
 <br/><br/>
-En 1978 : Alitalia Flight 4128 crashes into the Tyrrhenian Sea while on approach to Falcone Borsellino Airport in Palermo, Italy, killing 108.
+En 1973 : District of Columbia Home Rule Act is passed, allowing residents of Washington, D.C. to elect their own local government.
 <br/><br/>
-En 1972 : The Immaculate Reception is caught by Franco Harris to win the Pittsburgh Steelers their first ever playoff victory, after defeating the Oakland Raiders.
+En 1971 : LANSA Flight 508 is struck by lightning and crashes in the Puerto Inca District in the Department of Huánuco in Peru, killing 91.
 <br/><br/>
-En 1972 : A 6.5 magnitude earthquake strikes the Nicaraguan capital of Managua killing more than 10,000.
+En 1969 : Nigerian troops capture Umuahia, the Biafran capital.
 <br/><br/>
-En 1972 : The 16 survivors of the Andes flight disaster are rescued after 73 days, surviving by cannibalism.
+En 1968 : Apollo program: The crew of Apollo 8 enters into orbit around the Moon, becoming the first humans to do so. They performed ten lunar orbits and broadcast live TV pictures.
 <br/><br/>
-En 1970 : The North Tower of the World Trade Center in Manhattan, New York, New York is topped out at 417 metres (1,368 ft), making it the tallest building in the world.
+En 1966 : A Canadair CL-44 chartered by the United States military crashes into a small village in South Vietnam, killing 111.
 <br/><br/>
-En 1970 : The Democratic Republic of the Congo officially becomes a one-party state.
+En 1964 : Vietnam War: Viet Cong operatives bomb the Brinks Hotel in Saigon, South Vietnam to demonstrate they can strike an American installation in the heavily guarded capital.
 <br/><br/>
-En 1968 : The 82 sailors from the USS Pueblo are released after eleven months of internment in North Korea.
+En 1964 : Flying Tiger Line Flight 282 crashes after takeoff from San Francisco International Airport, killing three.
 <br/><br/>
-En 1960 : Hilkka Saarinen née Pylkkänen is murdered in the so-called "oven homicide" case in Krootila, Kokemäki, Finland.
+En 1953 : Tangiwai disaster: In New Zealand's North Island, at Tangiwai, a railway bridge is damaged by a lahar and collapses beneath a passenger train, killing 151 people.
 <br/><br/>
-En 1955 : The first film adaptation of Väinö Linna's novel The Unknown Soldier, directed by Edvin Laine, premieres.
+En 1952 : First flight of Britain's Handley Page Victor strategic bomber.
 <br/><br/>
-En 1954 : First successful kidney transplant is performed by J. Hartwell Harrison and Joseph Murray.
+En 1951 : Libya becomes independent. Idris I is proclaimed King of Libya.
 <br/><br/>
-En 1950 : General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.
+En 1945 : Five of nine children become missing after their home in Fayetteville, West Virginia, is burned down.
 <br/><br/>
-En 1948 : Seven Japanese military and political leaders convicted of war crimes by the International Military Tribunal for the Far East are executed by Allied occupation authorities at Sugamo Prison in Tokyo, Japan.
+En 1944 : World War II: The Belgian Troopship Leopoldville was torpedoed and sank with the loss of 763 soldiers and 56 crew.
 <br/><br/>
-En 1947 : The transistor is first demonstrated at Bell Laboratories.
+En 1943 : World War II: U.S. General Dwight D. Eisenhower is named Supreme Allied Commander for Operation Overlord.
 <br/><br/>
-En 1941 : World War II: After 15 days of fighting, the Imperial Japanese Army occupies Wake Island.
+En 1942 : World War II: French monarchist, Fernand Bonnier de La Chapelle, assassinates Vichy French Admiral François Darlan in Algiers, Algeria.
 <br/><br/>
-En 1936 : Colombia becomes a signatory to the Buenos Aires copyright treaty.
+En 1941 : World War II: Kuching is conquered by Japanese forces.
 <br/><br/>
-En 1936 : Spanish Civil War: The Spanish Republic legalizes the Regional Defence Council of Aragon.
+En 1941 : World War II: Benghazi is conquered by the British Eighth Army.
 <br/><br/>
-En 1919 : Sex Disqualification (Removal) Act 1919 becomes law in the United Kingdom.
+En 1939 : World War II: Pope Pius XII makes a Christmas Eve appeal for peace.
 <br/><br/>
-En 1916 : World War I: Battle of Magdhaba: Allied forces defeat Turkish forces in the Sinai Peninsula.
+En 1929 : Assassination attempt on Argentine President Hipólito Yrigoyen.
 <br/><br/>
-En 1914 : World War I: Australian and New Zealand troops arrive in Cairo, Egypt.
+En 1929 : A four alarm fire breaks out in the West Wing of the White House in Washington, D.C.
 <br/><br/>
-En 1914 : World War I: During the Battle of Sarikamish, Ottoman forces mistook one another for Russian troops. The following friendly fire incident leaves 2,000 Ottomans dead and many more wounded.
+En 1924 : Albania becomes a republic.
 <br/><br/>
-En 1913 : The Federal Reserve Act is signed into law by President Woodrow Wilson, creating the Federal Reserve System.
+En 1920 : Gabriele D'Annunzio surrendered the Italian Regency of Carnaro in the city of Fiume to Italian Armed Forces.
 <br/><br/>
-En 1905 : The Tampere conference, where Vladimir Lenin and Joseph Stalin meet for the first time, is held in Tampere, Finland.
+En 1918 : Region of Međimurje is captured by the Kingdom of Serbs, Croats and Slovenes from Hungary.
 <br/><br/>
-En 1893 : The opera Hansel and Gretel by Engelbert Humperdinck is first performed.
+En 1914 : World War I: The "Christmas truce" begins.
 <br/><br/>
-En 1876 : First day of the Constantinople Conference which resulted in agreement for political reforms in the Balkans.
+En 1913 : The Italian Hall disaster in Calumet, Michigan results in the deaths of 73 striking workers families at a Christmas party participants (including 59 children) when someone falsely yells "fire".
 <br/><br/>
-En 1815 : The novel Emma by Jane Austen is first published.
+En 1906 : Reginald Fessenden transmits the first radio broadcast; consisting of a poetry reading, a violin solo, and a speech.
 <br/><br/>
-En 1793 : The Battle of Savenay: A decisive defeat of the royalist counter-revolutionaries in War in the Vendée during the French Revolution.
+En 1871 : The opera Aida premieres in Cairo, Egypt.
 <br/><br/>
-En 1783 : George Washington resigns as commander-in-chief of the Continental Army at the Maryland State House in Annapolis, Maryland.
+En 1868 : The Greek Presidential Guard is established as the royal escort by King George I.
 <br/><br/>
-En 1688 : As part of the Glorious Revolution, King James II of England flees from England to Paris, France after being deposed in favor of his son-in-law and nephew, William of Orange and his daughter Mary.
+En 1865 : Jonathan Shank and Barry Ownby form The Ku Klux Klan.
 <br/><br/>
-En 1598 : Arauco War: Governor of Chile Martín García Óñez de Loyola is killed in the Battle of Curalaba by Mapuches led by Pelantaru.
+En 1846 : British acquired Labuan from the Sultanate of Brunei for Great Britain.
 <br/><br/>
-En 962 : The Sack of Aleppo as part of the Arab–Byzantine wars: Under the future Emperor Nicephorus Phocas, Byzantine troops storm the city of Aleppo.
+En 1826 : The Eggnog Riot at the United States Military Academy begins that night, wrapping up the following morning.
 <br/><br/>
-En 583 : Maya queen Yohl Ik'nal is crowned ruler of Palenque.
+En 1818 : The first performance of "Silent Night" takes place in the Nikolauskirche in Oberndorf, Austria.
 <br/><br/>
-En 558 : Chlothar I is crowned King of the Franks.
+En 1814 : Representatives of the United Kingdom and the United States sign the Treaty of Ghent, ending the War of 1812.
 <br/><br/>
-En 484 : The Arian Vandal Kingdom ceases its persecution of Nicene Christianity.
+En 1800 : The Plot of the rue Saint-Nicaise fails to kill Napoleon Bonaparte.
+<br/><br/>
+En 1777 : Kiritimati, also called Christmas Island, is discovered by James Cook.
+<br/><br/>
+En 1737 : The Marathas defeat the combined forces of the Mughal Empire, Rajputs of Jaipur, Nizam of Hyderabad, Nawab of Awadh and Nawab of Bengal in the Battle of Bhopal.
+<br/><br/>
+En 1500 : A joint Venetian–Spanish fleet captures the Castle of St. George on the island of Cephalonia.
+<br/><br/>
+En 1294 : Pope Boniface VIII is elected, replacing St. Celestine V, who had resigned.
+<br/><br/>
+En 1144 : The capital of the crusader County of Edessa falls to Imad ad-Din Zengi, the atabeg of Mosul and Aleppo.
+<br/><br/>
+En 759 : Tang dynasty poet Du Fu departs for Chengdu, where he is hosted by fellow poet Pei Di.
+<br/><br/>
+En 640 : Pope John IV is elected, several months after his predecessor's death.
+<br/><br/>
+En 502 : Chinese emperor Xiao Yan names Xiao Tong his heir designate.
 <br/><br/>
