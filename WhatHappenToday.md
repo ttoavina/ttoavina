@@ -4,95 +4,83 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 26/12 ?(Hover on the year)</h1>
+<h1> What happen this day 27/12 ?(Hover on the year)</h1>
 
-En 2015 : During the December 2015 North American storm complex, a Tornado Outbreak occurs in the DFW Metroplex, with the most notable tornadoes being an EF2, EF3, and an EF4. About a dozen people died due to various reasons, 10 of which due to the EF4, which did substantial damage to the suburb of Rowlett.
+En 2019 : Bek Air Flight 2100 crashes during takeoff from Almaty International Airport in Almaty, Kazakhstan, killing 13.
 <br/><br/>
-En 2012 : China opens the world's longest high-speed rail route, which links Beijing and Guangzhou.
+En 2009 : Iranian election protests: On the Day of Ashura in Tehran, Iran, government security forces fire upon demonstrators.
 <br/><br/>
-En 2006 : Two earthquakes in Hengchun, Taiwan measuring 7.0 and 6.9 on the Richter scale kill two and disrupt telecommunications across Asia.
+En 2008 : Operation Cast Lead: Israel launches three-week operation on Gaza.
 <br/><br/>
-En 2004 : The 9.1–9.3 Mw  Indian Ocean earthquake shakes northern Sumatra with a maximum Mercalli intensity of IX (Violent). One of the largest observed tsunamis, it affected coastal and partially mainland areas of Thailand, India, Sri Lanka, the Maldives, Malaysia, Myanmar, Bangladesh, and Indonesia; death toll is estimated at 227,898.
+En 2007 : Former Pakistani prime minister Benazir Bhutto is assassinated in a shooting incident.
 <br/><br/>
-En 2004 : Orange Revolution: The final run-off election in Ukraine is held under heavy international scrutiny.
+En 2007 : Riots erupt in Mombasa, Kenya, after Mwai Kibaki is declared the winner of the presidential election, triggering a political, economic, and humanitarian crisis.
 <br/><br/>
-En 2003 : The 6.6 Mw  Bam earthquake shakes southeastern Iran with a maximum Mercalli intensity of IX (Violent), leaving more than 26,000 dead and 30,000 injured.
+En 2004 : Radiation from an explosion on the magnetar SGR 1806-20 reaches Earth. It is the brightest extrasolar event known to have been witnessed on the planet.
 <br/><br/>
-En 1999 : The storm Lothar sweeps across Central Europe, killing 137 and causing US$1.3 billion in damage.
+En 2002 : Two truck bombs kill 72 and wound 200 at the pro-Moscow headquarters of the Chechen government in Grozny, Chechnya, Russia.
 <br/><br/>
-En 1998 : Iraq announces its intention to fire upon U.S. and British warplanes that patrol the northern and southern no-fly zones.
+En 1997 : Protestant paramilitary leader Billy Wright is assassinated in Northern Ireland, United Kingdom.
 <br/><br/>
-En 1994 : Four Armed Islamic Group hijackers seize control of Air France Flight 8969. When the plane lands at Marseille, a French Gendarmerie assault team boards the aircraft and kills the hijackers.
+En 1996 : Taliban forces retake the strategic Bagram Airfield which solidifies their buffer zone around Kabul, Afghanistan.
 <br/><br/>
-En 1991 : The Supreme Soviet of the Soviet Union meets and formally dissolves the Soviet Union, ending the Cold War.
+En 1991 : Scandinavian Airlines System Flight 751 crashes in Gottröra in the Norrtälje Municipality in Sweden, injuring 92.
 <br/><br/>
-En 1989 : United Express Flight 2415 crashes on approach to the Tri-Cities Airport in Pasco, Washington, killing all six people on board.
+En 1989 : The Romanian Revolution concludes, as the last minor street confrontations and stray shootings abruptly end in the country's capital, Bucharest.
 <br/><br/>
-En 1980 : Witnesses report the first of several sightings of unexplained lights near RAF Woodbridge, in Rendlesham Forest, Suffolk, England, United Kingdom, an incident called "Britain's Roswell".
+En 1985 : Palestinian guerrillas kill eighteen people inside the airports of Rome, Italy, and Vienna, Austria.
 <br/><br/>
-En 1978 : The inaugural Paris-Dakar Rally begins.
+En 1983 : Pope John Paul II visits Mehmet Ali Ağca in Rebibbia's prison and personally forgives him for the 1981 attack on him in St. Peter's Square.
 <br/><br/>
-En 1975 : Tu-144, the world's first commercial supersonic aircraft, surpassing Mach 2, goes into service.
+En 1978 : Spain becomes a democracy after 40 years of fascist dictatorship.
 <br/><br/>
-En 1972 : Vietnam War: As part of Operation Linebacker II, 120 American B-52 Stratofortress bombers attacked Hanoi, including 78 launched from Andersen Air Force Base in Guam, the largest single combat launch in Strategic Air Command history.
+En 1968 : Apollo program: Apollo 8 splashes down in the Pacific Ocean, ending the first orbital crewed mission to the Moon.
 <br/><br/>
-En 1968 : The Communist Party of the Philippines is established by Jose Maria Sison, breaking away from the Partido Komunista ng Pilipinas-1930.
+En 1966 : The Cave of Swallows, the largest known cave shaft in the world, is discovered in Aquismón, San Luis Potosí, Mexico.
 <br/><br/>
-En 1966 : The first Kwanzaa is celebrated by Maulana Karenga, the chair of Black Studies at California State University, Long Beach.
+En 1949 : Indonesian National Revolution: The Netherlands officially recognizes Indonesian independence. End of the Dutch East Indies.
 <br/><br/>
-En 1963 : The Beatles' "I Want to Hold Your Hand" and "I Saw Her Standing There" are released in the United States, marking the beginning of Beatlemania on an international level.
+En 1945 : The International Monetary Fund is created with the signing of an agreement by 29 nations.
 <br/><br/>
-En 1948 : Cardinal József Mindszenty is arrested in Hungary and accused of treason and conspiracy.
+En 1939 : The 7.8 Mw  Erzincan earthquake shakes eastern Turkey with a maximum Mercalli intensity of XI (Extreme). At least 32,700 people were killed.
 <br/><br/>
-En 1948 : The last Soviet troops withdraw from North Korea.
+En 1939 : Winter War: Finland holds off a Soviet attack in the Battle of Kelja.
 <br/><br/>
-En 1944 : World War II: George S. Patton's Third Army breaks the encirclement of surrounded U.S. forces at Bastogne, Belgium.
+En 1935 : Regina Jonas is ordained as the first female rabbi in the history of Judaism.
 <br/><br/>
-En 1943 : World War II: German warship Scharnhorst is sunk off of Norway's North Cape after a battle against major Royal Navy forces.
+En 1932 : Radio City Music Hall, "Showplace of the Nation", opens in New York City.
 <br/><br/>
-En 1941 : U.S. President Franklin D. Roosevelt signs a bill establishing the fourth Thursday in November as Thanksgiving Day in the United States.
+En 1929 : Soviet General Secretary Joseph Stalin orders the "liquidation of the kulaks as a class".
 <br/><br/>
-En 1941 : British Prime Minister Winston Churchill addresses a joint meeting of the U.S. Congress.
+En 1927 : Kern and Hammerstein's musical play Show Boat, considered to be the first true American musical play, opens at the Ziegfeld Theatre on Broadway.
 <br/><br/>
-En 1919 : Babe Ruth of the Boston Red Sox is sold to the New York Yankees by owner Harry Frazee, allegedly establishing the Curse of the Bambino superstition.
+En 1922 : Japanese aircraft carrier Hōshō becomes the first purpose built aircraft carrier to be commissioned in the world.
 <br/><br/>
-En 1898 : Marie and Pierre Curie announce the isolation of radium.
+En 1918 : The Great Poland Uprising against the Germans begins.
 <br/><br/>
-En 1871 : Thespis, the first Gilbert and Sullivan collaboration, debuts.
+En 1918 : Ukrainian War of Independence: The Revolutionary Insurgent Army of Ukraine occupies Yekaterinoslav and seizes seven airplanes from the UPRAF, establishing an Insurgent Air Fleet.
 <br/><br/>
-En 1862 : American Civil War: The Battle of Chickasaw Bayou begins as General William Tecumseh Sherman begins landing his troops.
+En 1911 : "Jana Gana Mana", the national anthem of India, is first sung in the Calcutta Session of the Indian National Congress.
 <br/><br/>
-En 1862 : The largest mass-hanging in U.S. history took place in Mankato, Minnesota, where 38 Native Americans died.
+En 1845 : Ether anesthetic is used for childbirth for the first time by Dr. Crawford Long in Jefferson, Georgia.
 <br/><br/>
-En 1861 : American Civil War: The Trent Affair: Confederate diplomatic envoys James Murray Mason and John Slidell are freed by the United States government, thus heading off a possible war between the United States and the United Kingdom.
+En 1845 : Having coined the phrase "manifest destiny" the previous July, journalist John L. O'Sullivan argued in his newspaper New York Morning News that the United States had the right to claim the entire Oregon Country.
 <br/><br/>
-En 1860 : First Rules derby is held between Sheffield F.C. and Hallam F.C., the oldest football fixture in the world.
+En 1836 : The worst ever avalanche in England occurs at Lewes, Sussex, killing eight people.
 <br/><br/>
-En 1843 : The discovery of octonions by John T. Graves, who denoted them with a boldface O, was announced to his mathematician friend William Hamilton, discoverer of quaternions, in a letter on this date.
+En 1831 : Charles Darwin embarks on his journey aboard HMS Beagle, during which he will begin to formulate his theory of evolution.
 <br/><br/>
-En 1825 : Advocates of liberalism in Russia rise up against Czar Nicholas I in the Decembrist revolt, but are later suppressed.
+En 1814 : War of 1812: The destruction of the schooner USS Carolina brings to an end Commodore Daniel Patterson's makeshift fleet, which fought a series of delaying actions that contributed to Andrew Jackson's victory at the Battle of New Orleans.
 <br/><br/>
-En 1811 : A theater fire in Richmond, Virginia kills the Governor of Virginia George William Smith and the president of the First National Bank of Virginia Abraham B. Venable.
+En 1703 : Portugal and England sign the Methuen Treaty which allows Portugal to export wines to England on favorable trade terms.
 <br/><br/>
-En 1806 : Battles of Pultusk and Golymin: Russian forces hold French forces under Napoleon.
+En 1657 : The Flushing Remonstrance articulates for the first time in North American history that freedom of religion is a fundamental right.
 <br/><br/>
-En 1805 : Austria and France sign the Treaty of Pressburg.
+En 1655 : Second Northern War/the Deluge: Monks at the Jasna Góra Monastery in Częstochowa are successful in fending off a month-long siege.
 <br/><br/>
-En 1799 : Henry Lee III's eulogy to George Washington in congress declares him as "first in war, first in peace and first in the hearts of his countrymen".
+En 1521 : The Zwickau prophets arrive in Wittenberg, disturbing the peace and preaching the Apocalypse.
 <br/><br/>
-En 1793 : Second Battle of Wissembourg: France defeats Austria.
+En 1512 : The Spanish Crown issues the Laws of Burgos, governing the conduct of settlers with regard to native Indians in the New World.
 <br/><br/>
-En 1790 : Louis XVI of France gives his public assent to Civil Constitution of the Clergy during the French Revolution.
-<br/><br/>
-En 1776 : American Revolutionary War: In the Battle of Trenton, the Continental Army attacks and successfully defeats a garrison of Hessian forces.
-<br/><br/>
-En 1723 : Bach led the first performance of Darzu ist erschienen der Sohn Gottes, BWV 40, his first Christmas Cantata composed for Leipzig.
-<br/><br/>
-En 1709 : The opera Agrippina by George Frideric Handel premiered in Venice.
-<br/><br/>
-En 1704 : Second Battle of Anandpur: In the Second Battle of Anandpur, Aurangzeb's two generals, Wazir Khan and Zaberdast Khan executed two children of Guru Gobind Singh, Zorawar Singh aged eight and Fateh Singh aged five, by burying them alive into a wall.
-<br/><br/>
-En 1481 : Battle of Westbroek: An army of 4,000 to 5,000 soldiers raised by David of Burgundy, Bishop of Utrecht, attacks an armed mob of people from nearby Utrecht who were trying to avenge the massacre of the inhabitants of Westbroek.
-<br/><br/>
-En 887 : Berengar I is elected as king of Italy by the lords of Lombardy. He is crowned with the Iron Crown of Lombardy at Pavia.
+En 537 : The second Hagia Sophia in Constantinople is consecrated.
 <br/><br/>
