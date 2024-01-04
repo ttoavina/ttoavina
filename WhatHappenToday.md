@@ -4,109 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 3/1 ?(Hover on the year)</h1>
+<h1> What happen this day 4/1 ?(Hover on the year)</h1>
 
-En 2023 : Singapore's Jurong Bird Park permanently closes.
+En 2018 : Hennenman–Kroonstad train crash: A passenger train operated by Shosholoza Meyl collides with a truck on a level crossing at Geneva Station between Hennenman and Kroonstad, Free State, South Africa. Twenty people are killed and 260 injured.
 <br/><br/>
-En 2020 : Iranian General Qasem Soleimani is killed by an American airstrike near Baghdad International Airport, igniting global concerns of a potential armed conflict.
+En 2013 : A gunman kills eight people in a house-to-house rampage in Kawit, Cavite, Philippines.
 <br/><br/>
-En 2019 : Chang'e 4 makes the first soft landing on the far side of the Moon, deploying the Yutu-2 lunar rover.
+En 2010 : The Burj Khalifa, the current tallest building in the world, officially opens in Dubai.
 <br/><br/>
-En 2018 : For the first time in history, all five major storm surge gates in the Netherlands are closed simultaneously in the wake of a storm.
+En 2008 : A Let L-410 Turbolet crashes in the Los Roques Archipelago in Venezuela, killing 14 people.
 <br/><br/>
-En 2016 : In response to the execution of Nimr al-Nimr, Iran ends its diplomatic relations with Saudi Arabia.
+En 2007 : The 110th United States Congress convenes, electing Nancy Pelosi as the first female Speaker of the House in U.S. history.
 <br/><br/>
-En 2015 : Boko Haram militants destroy the entire town of Baga in north-east Nigeria, starting the Baga massacre and killing as many as 2,000 people.
+En 2006 : Ehud Olmert becomes acting Prime Minister of Israel after the incumbent, Ariel Sharon, suffers a second, apparently more serious stroke.
 <br/><br/>
-En 2009 : The first block of the blockchain of the decentralized payment system Bitcoin, called the Genesis block, is established by the creator of the system, Satoshi Nakamoto.
+En 2004 : Spirit, a NASA Mars rover, lands successfully on Mars at 04:35 UTC.
 <br/><br/>
-En 2004 : Flash Airlines Flight 604 crashes into the Red Sea, resulting in 148 deaths, making it one of the deadliest aviation accidents in Egyptian history.
+En 2004 : Mikheil Saakashvili is elected President of Georgia following the November 2003 Rose Revolution.
 <br/><br/>
-En 2002 : Israeli–Palestinian conflict: Israeli forces seize the Palestinian freighter Karine A in the Red Sea, finding 50 tons of weapons.
+En 2000 : A Norwegian passenger train departing from Trondheim, collides with a local train coming from Hamar in Åsta, Åmot; 19 people are killed and 68 injured in the accident.
 <br/><br/>
-En 1999 : The Mars Polar Lander is launched by NASA.
+En 1999 : Former professional wrestler Jesse Ventura is sworn in as governor of Minnesota, United States.
 <br/><br/>
-En 1994 : Baikal Airlines Flight 130 crashes near Mamoney, Irkutsk, Russia, resulting in 125 deaths.
+En 1998 : A massive ice storm hits eastern Canada and the northeastern United States, continuing through January 10 and causing widespread destruction.
 <br/><br/>
-En 1993 : In Moscow, Russia, George H. W. Bush and Boris Yeltsin sign the second Strategic Arms Reduction Treaty (START).
+En 1990 : In Pakistan's deadliest train accident an overloaded passenger train collides with an empty freight train, resulting in 307 deaths and 700 injuries.
 <br/><br/>
-En 1992 : CommutAir Flight 4821 crashes on approach to Adirondack Regional Airport, in Saranac Lake, New York, killing two people.
+En 1989 : Second Gulf of Sidra incident: A pair of Libyan MiG-23 "Floggers" are shot down by a pair of US Navy F-14 Tomcats during an air-to-air confrontation.
 <br/><br/>
-En 1990 : United States invasion of Panama: Manuel Noriega, former leader of Panama, surrenders to American forces.
+En 1987 : The Maryland train collision: An Amtrak train en route to Boston from Washington, D.C., collides with Conrail engines in Chase, Maryland, United States, killing 16 people.
 <br/><br/>
-En 1987 : Varig Flight 797 crashes near Akouré in the Ivory Coast, resulting in 50 deaths.
+En 1976 : The Troubles: The Ulster Volunteer Force shoots dead six Irish Catholic civilians in County Armagh, Northern Ireland. The next day, gunmen would shoot dead ten Protestant civilians nearby in retaliation.
 <br/><br/>
-En 1977 : Apple Computer is incorporated.
+En 1975 : This date overflowed the 12-bit field that had been used in TOPS-10. There were numerous problems and crashes related to this bug while an alternative format was developed.
 <br/><br/>
-En 1976 : The International Covenant on Economic, Social and Cultural Rights, adopted by the United Nations General Assembly, comes into force.
+En 1972 : Rose Heilbron becomes the first female judge to sit at the Old Bailey in London, UK.
 <br/><br/>
-En 1962 : Pope John XXIII excommunicates Fidel Castro.
+En 1959 : Luna 1 becomes the first spacecraft to reach the vicinity of the Moon.
 <br/><br/>
-En 1961 : Cold War: After a series of economic retaliations against one another, the United States severs diplomatic relations with Cuba.
+En 1958 : Sputnik 1, the first artificial Earth satellite, launched by the Soviet Union in 1957, falls to Earth from orbit.
 <br/><br/>
-En 1961 : The SL-1 nuclear reactor, near Idaho Falls, Idaho, is destroyed by a steam explosion in the only reactor incident in the United States to cause immediate fatalities.
+En 1956 : The Greek National Radical Union is formed by Konstantinos Karamanlis.
 <br/><br/>
-En 1961 : A protest by agricultural workers in Baixa de Cassanje, Portuguese Angola, turns into a revolt, opening the Angolan War of Independence, the first of the Portuguese Colonial Wars.
+En 1951 : Korean War: Chinese and North Korean forces capture Seoul for the second time.
 <br/><br/>
-En 1961 : Aero Flight 311 crashes into the forest in Kvevlax, Finland, killing 25 people.
+En 1948 : Burma gains its independence from the United Kingdom, becoming an independent republic.
 <br/><br/>
-En 1959 : Alaska is admitted as the 49th U.S. state.
+En 1946 : The first day of a three-day “disastrous” tornado outbreak across the south-central United States leaves 41 people dead and at least 412 others injured.
 <br/><br/>
-En 1958 : The West Indies Federation is formed.
+En 1944 : World War II: Operation Carpetbagger, involving the dropping of arms and supplies to resistance fighters in Europe, begins.
 <br/><br/>
-En 1957 : The Hamilton Watch Company introduces the first electric watch.
+En 1918 : The Finnish Declaration of Independence is recognized by Russia, Sweden, Germany and France.
 <br/><br/>
-En 1956 : A fire damages the top part of the Eiffel Tower.
+En 1912 : The Scout Association is incorporated throughout the British Empire by royal charter.
 <br/><br/>
-En 1953 : Frances P. Bolton and her son, Oliver from Ohio, become the first mother and son to serve simultaneously in the U.S. Congress.
+En 1909 : Explorer Aeneas Mackintosh of the Imperial Trans-Antarctic Expedition escaped death by fleeing across ice floes.
 <br/><br/>
-En 1949 : The Bangko Sentral ng Pilipinas, the central bank of the Philippines, is established.
+En 1903 : Topsy, an elephant, is electrocuted by the owners of Luna Park, Coney Island. The Edison film company records the film Electrocuting an Elephant of Topsy's death.
 <br/><br/>
-En 1947 : Proceedings of the U.S. Congress are televised for the first time.
+En 1896 : Utah is admitted as the 45th U.S. state.
 <br/><br/>
-En 1946 : Popular Canadian American jockey George Woolf suffers a concussion during a freak racing accident; he dies from the injury the following day. The annual George Woolf Memorial Jockey Award is created to honor him.
+En 1885 : Sino-French War: French troops under General Oscar de Négrier defeat a numerically superior Qing force at Núi Bop in northern Vietnam.
 <br/><br/>
-En 1944 : World War II: US flying ace Major Greg "Pappy" Boyington is shot down in his Vought F4U Corsair by Captain Masajiro Kawato flying a Mitsubishi A6M Zero.
+En 1884 : The Fabian Society is founded in London, United Kingdom.
 <br/><br/>
-En 1933 : Minnie D. Craig becomes the first woman elected as Speaker of the North Dakota House of Representatives, the first woman to hold a Speaker position anywhere in the United States.
+En 1878 : Russo-Turkish War (1877–78): Sofia is liberated from Ottoman rule.
 <br/><br/>
-En 1920 : Over 640 are killed after a magnitude 6.4 earthquake strikes the Mexican states Puebla and Veracruz.
+En 1863 : The New Apostolic Church, a Christian and chiliastic church, is established in Hamburg, Germany.
 <br/><br/>
-En 1913 : An Atlantic coast storm sets the lowest confirmed barometric pressure reading for a non-tropical system in the continental United States.
+En 1854 : The McDonald Islands are discovered by Captain William McDonald aboard the Samarang.
 <br/><br/>
-En 1913 : First Balkan War: Greece completes its capture of the eastern Aegean island of Chios, as the last Ottoman forces on the island surrender.
+En 1853 : After having been kidnapped and sold into slavery in the American South, Solomon Northup regains his freedom; his memoir Twelve Years a Slave later becomes a national bestseller.
 <br/><br/>
-En 1911 : A magnitude 7.7 earthquake destroys the city of Almaty in Russian Turkestan.
+En 1798 : Constantine Hangerli arrives in Bucharest, Wallachia, as its new Prince, invested by the Ottoman Empire.
 <br/><br/>
-En 1911 : A gun battle in the East End of London leaves two dead. It sparked a political row over the involvement of then-Home Secretary Winston Churchill.
+En 1762 : Great Britain declares war on Spain, which meant the entry of Spain into the Seven Years' War.
 <br/><br/>
-En 1885 : Sino-French War: Beginning of the Battle of Núi Bop.
+En 1717 : The Netherlands, Great Britain, and France sign the Triple Alliance.
 <br/><br/>
-En 1871 : In the Battle of Bapaume, an engagement in the Franco-Prussian War, General Louis Faidherbe's forces bring about a Prussian retreat.
+En 1649 : English Civil War: The Rump Parliament votes to put Charles I on trial.
 <br/><br/>
-En 1870 : Construction work begins on the Brooklyn Bridge in New York, United States.
+En 1642 : English Civil War: King Charles I, accompanied by 400 soldiers, attempts to arrest five members of Parliament for treason, only to discover the men had been tipped off and fled.
 <br/><br/>
-En 1868 : Meiji Restoration in Japan: The Tokugawa shogunate is abolished; agents of Satsuma and Chōshū seize power.
+En 871 : Battle of Reading: Æthelred of Wessex and his brother Alfred are defeated by a Danish invasion army.
 <br/><br/>
-En 1861 : American Civil War: Delaware votes not to secede from the United States.
-<br/><br/>
-En 1848 : Joseph Jenkins Roberts is sworn in as the first president of Liberia.
-<br/><br/>
-En 1833 : Captain James Onslow, in the Clio, reasserts British sovereignty over the Falkland Islands.
-<br/><br/>
-En 1815 : Austria, the United Kingdom, and France form a secret defensive alliance against Prussia and Russia.
-<br/><br/>
-En 1777 : American General George Washington defeats British General Lord Cornwallis at the Battle of Princeton.
-<br/><br/>
-En 1749 : Benning Wentworth issues the first of the New Hampshire Grants, leading to the establishment of Vermont.
-<br/><br/>
-En 1749 : The first issue of Berlingske, Denmark's oldest continually operating newspaper, is published.
-<br/><br/>
-En 1653 : By the Coonan Cross Oath, the Eastern Church in India cuts itself off from colonial Portuguese tutelage.
-<br/><br/>
-En 1521 : Pope Leo X excommunicates Martin Luther in the papal bull Decet Romanum Pontificem.
-<br/><br/>
-En 250 : Emperor Decius orders everyone in the Roman Empire (except Jews) to make sacrifices to the Roman gods.
-<br/><br/>
-En 69 : The Roman legions on the Rhine refuse to declare their allegiance to Galba, instead proclaiming their legate, Aulus Vitellius, as emperor.
+En -46 : Julius Caesar fights Titus Labienus in the Battle of Ruspina.
 <br/><br/>
