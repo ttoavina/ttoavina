@@ -4,107 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 6/1 ?(Hover on the year)</h1>
+<h1> What happen this day 7/1 ?(Hover on the year)</h1>
 
-En 2021 : Supporters of U.S. President Donald Trump attack the United States Capitol to disrupt certification of the 2020 presidential election, resulting in five deaths and evacuation of the U.S. Congress.
+En 2023 : The longest U.S. House of Representatives speaker election since the December 1859 – February 1860 U.S. speaker election concludes and Kevin McCarthy is elected 55th Speaker of the United States House of Representatives.
 <br/><br/>
-En 2019 : Forty people are killed in a gold mine collapse in Badakhshan province, in northern Afghanistan.
+En 2020 : The 6.4Mw  2019–20 Puerto Rico earthquakes kill four and injure nine in southern Puerto Rico.
 <br/><br/>
-En 2019 : Muhammad V of Kelantan resigns as the Yang di-Pertuan Agong of Malaysia, becoming the first monarch to do so.
+En 2015 : Two gunmen commit mass murder at the offices of Charlie Hebdo in Paris, shooting twelve people execution style, and wounding eleven others.
 <br/><br/>
-En 2017 : Five people are killed and six others injured in a mass shooting at Fort Lauderdale–Hollywood International Airport in Broward County, Florida.
+En 2015 : A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 63 injured.
 <br/><br/>
-En 2012 : Twenty-six people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus.
+En 2012 : A hot air balloon crashes near Carterton, New Zealand, killing all 11 people on board.
 <br/><br/>
-En 2005 : Edgar Ray Killen is indicted for the 1964 murders of Chaney, Goodman, and Schwerner during the American Civil Rights Movement.
+En 1999 : The Senate trial in the impeachment of U.S. President Bill Clinton begins.
 <br/><br/>
-En 2005 : A train collision in Graniteville, South Carolina, United States, releases about 60 tons of chlorine gas.
+En 1994 : A British Aerospace Jetstream 41 operating as United Express Flight 6291 crashes in Gahanna, Ohio, killing five of the eight people on board.
 <br/><br/>
-En 2000 : The last natural Pyrenean ibex, Celia, is killed by a falling tree, thus making the species extinct.
+En 1993 : The Fourth Republic of Ghana is inaugurated with Jerry Rawlings as president.
 <br/><br/>
-En 1995 : A chemical fire in an apartment complex in Manila, Philippines, leads to the discovery of plans for Project Bojinka, a mass-terrorist attack.
+En 1993 : Bosnian War: The Bosnian Army executes a surprise attack at the village of Kravica in Srebrenica.
 <br/><br/>
-En 1994 : U.S. figure skater Nancy Kerrigan is attacked and injured by an assailant hired by her rival Tonya Harding's ex-husband during the U.S. Figure Skating Championships.
+En 1991 : Roger Lafontant, former leader of the Tonton Macoute in Haiti under François Duvalier, attempts a coup d'état, which ends in his arrest.
 <br/><br/>
-En 1993 : Indian Border Security Force units kill 55 Kashmiri civilians in Sopore, Jammu and Kashmir, in revenge after militants ambushed a BSF patrol.
+En 1985 : Japan Aerospace Exploration Agency launches Sakigake, Japan's first interplanetary spacecraft and the first deep space probe to be launched by any country other than the United States or the Soviet Union.
 <br/><br/>
-En 1993 : Four people are killed when Lufthansa CityLine Flight 5634 crashes on approach to Charles de Gaulle Airport in Roissy-en-France, France.
+En 1984 : Brunei becomes the sixth member of the Association of Southeast Asian Nations (ASEAN).
 <br/><br/>
-En 1992 : President of Georgia Zviad Gamsakhurdia flees the country as a result of the military coup.
+En 1980 : U.S. President Jimmy Carter authorizes legislation giving $1.5 billion in loans to bail out the Chrysler Corporation.
 <br/><br/>
-En 1989 : Satwant Singh and Kehar Singh are sentenced to death for conspiracy in the assassination of Prime Minister Indira Gandhi; the two men are executed the same day.
+En 1979 : Third Indochina War: Cambodian–Vietnamese War: Phnom Penh falls to the advancing Vietnamese troops, driving out Pol Pot and the Khmer Rouge.
 <br/><br/>
-En 1974 : In response to the 1973 oil crisis, daylight saving time commences nearly four months early in the United States.
+En 1973 : In his second shooting spree of the week, Mark Essex fatally shoots seven people and wounds five others at Howard Johnson's Hotel in New Orleans, Louisiana, before being shot to death by police officers.
 <br/><br/>
-En 1969 : Allegheny Airlines Flight 737 crashes in Lafayette Township, McKean County, Pennsylvania, United States, killing 11.
+En 1972 : Iberia Flight 602 crashes near Ibiza Airport, killing all 104 people on board.
 <br/><br/>
-En 1967 : Vietnam War: United States Marine Corps and ARVN troops launch "Operation Deckhouse Five" in the Mekong River delta.
+En 1968 : Surveyor Program: Surveyor 7, the last spacecraft in the Surveyor series, lifts off from launch complex 36A, Cape Canaveral.
 <br/><br/>
-En 1960 : National Airlines Flight 2511 is destroyed in mid-air by a bomb, while en route from New York City to Miami.
+En 1959 : The United States recognizes the new Cuban government of Fidel Castro.
 <br/><br/>
-En 1960 : The Associations Law comes into force in Iraq, allowing registration of political parties.
+En 1955 : Contralto Marian Anderson becomes the first person of color to perform at the Metropolitan Opera in Giuseppe Verdi's Un ballo in maschera.
 <br/><br/>
-En 1951 : Korean War: Beginning of the Ganghwa massacre, in the course of which an estimated 200–1,300 South Korean communist sympathizers are slaughtered.
+En 1954 : Georgetown-IBM experiment: The first public demonstration of a machine translation system is held in New York at the head office of IBM.
 <br/><br/>
-En 1950 : The United Kingdom recognizes the People's Republic of China. The Republic of China severs diplomatic relations with the UK in response.
+En 1950 : In the Sverdlovsk air disaster, all 19 of those on board are killed, including almost the entire national ice hockey team (VVS Moscow) of the Soviet Air Force – 11 players, as well as a team doctor and a masseur.
 <br/><br/>
-En 1947 : Pan American Airlines becomes the first commercial airline to offer a round-the-world ticket.
+En 1948 : Kentucky Air National Guard pilot Thomas Mantell crashes while in pursuit of a supposed UFO.
 <br/><br/>
-En 1946 : The first general election ever in Vietnam is held.
+En 1940 : Winter War: Battle of Raate Road: The Finnish 9th Division finally defeat the numerically superior Soviet forces on the Raate-Suomussalmi road.
 <br/><br/>
-En 1941 : United States President Franklin D. Roosevelt delivers his Four Freedoms speech in the State of the Union address.
+En 1935 : Benito Mussolini and French Foreign minister Pierre Laval sign the Franco-Italian Agreement.
 <br/><br/>
-En 1930 : Clessie Cummins arrives at the National Automobile Show in New York City, having driven a car powered by one of his diesel engines from Indianapolis.
+En 1931 : Guy Menzies flies the first solo non-stop trans-Tasman flight (from Australia to New Zealand) in 11 hours and 45 minutes, crash-landing on New Zealand's west coast.
 <br/><br/>
-En 1929 : King Alexander of the Serbs, Croats and Slovenes suspends his country's constitution (the January 6th Dictatorship).
+En 1928 : A disastrous flood of the River Thames kills 14 people and causes extensive damage to much of riverside London.
 <br/><br/>
-En 1929 : Mother Teresa arrives by sea in Calcutta, India, to begin her work among India's poorest and sick people.
+En 1927 : The first transatlantic commercial telephone service is established from New York City to London.
 <br/><br/>
-En 1912 : New Mexico is admitted to the Union as the 47th U.S. state.
+En 1922 : Dáil Éireann ratifies the Anglo-Irish Treaty by a 64–57 vote.
 <br/><br/>
-En 1912 : German geophysicist Alfred Wegener first presents his theory of continental drift.
+En 1920 : The New York State Assembly refuses to seat five duly elected Socialist assemblymen.
 <br/><br/>
-En 1907 : Maria Montessori opens her first school and daycare center for working class children in Rome, Italy.
+En 1919 : Montenegrin guerrilla fighters rebel against the planned annexation of Montenegro by Serbia, but fail.
 <br/><br/>
-En 1900 : Second Boer War: Having already besieged the fortress at Ladysmith, Boer forces attack it, but are driven back by British defenders.
+En 1904 : The distress signal "CQD" is established only to be replaced two years later by "SOS".
 <br/><br/>
-En 1893 : The Washington National Cathedral is chartered by Congress. The charter is signed by President Benjamin Harrison.
+En 1894 : Thomas Edison makes a kinetoscopic film of someone sneezing. On the same day, his employee, William Kennedy Dickson, receives a patent for motion picture film.
 <br/><br/>
-En 1870 : The inauguration of the Musikverein in Vienna, Austria.
+En 1867 : The Kingstree jail fire kills 22 freedmen in Reconstruction-era South Carolina.
 <br/><br/>
-En 1847 : Samuel Colt obtains his first contract for the sale of revolver pistols to the United States government.
+En 1835 : HMS Beagle, with Charles Darwin on board, drops anchor off the Chonos Archipelago.
 <br/><br/>
-En 1839 : The Night of the Big Wind, the most damaging storm in 300 years, sweeps across Ireland, damaging or destroying more than 20% of the houses in Dublin.
+En 1785 : Frenchman Jean-Pierre Blanchard and American John Jeffries travel from Dover, England, to Calais, France, in a gas balloon.
 <br/><br/>
-En 1838 : Alfred Vail and colleagues demonstrate a telegraph system using dots and dashes (this is the forerunner of Morse code).
+En 1782 : The first American commercial bank, the Bank of North America, opens.
 <br/><br/>
-En 1809 : Combined British, Portuguese and colonial Brazilian forces begin the Invasion of Cayenne during the Napoleonic Wars.
+En 1738 : A peace treaty is signed between Peshwa Bajirao and Jai Singh II following Maratha victory in the Battle of Bhopal.
 <br/><br/>
-En 1781 : In the Battle of Jersey, the British defeat the last attempt by France to invade Jersey in the Channel Islands.
+En 1708 : Battle of Zlatoust (1707): Battle between Bashkir and Tatar rebels and the government troops of the Tsardom of Russia. It is one of the events of the Bashkir rebellion of 1704–1711.
 <br/><br/>
-En 1724 : Sie werden aus Saba alle kommen, BWV 65, a Bach cantata, for Epiphany, is performed the first time.
+En 1708 : Bashkir rebels besieged Yelabuga
 <br/><br/>
-En 1721 : The Committee of Inquiry on the South Sea Bubble publishes its findings, revealing details of fraud among company directors and corrupt politicians.
+En 1610 : Galileo Galilei makes his first observation of the four Galilean moons: Ganymede, Callisto, Io and Europa, although he is not able to distinguish the last two until the following night.
 <br/><br/>
-En 1661 : English Restoration: The Fifth Monarchists unsuccessfully attempt to seize control of London, England. The revolt is suppressed after a few days.
+En 1608 : Fire destroys Jamestown, Virginia.
 <br/><br/>
-En 1641 : Arauco War: The first Parliament of Quillín is celebrated, putting a temporary hold on hostilities between Mapuches and Spanish in Chile.
+En 1558 : French troops, led by Francis, Duke of Guise, take Calais, the last continental possession of England.
 <br/><br/>
-En 1579 : The Union of Arras unites the southern Netherlands under the Duke of Parma (Ottavio Farnese), governor in the name of King Philip II of Spain.
+En 1325 : Alfonso IV becomes King of Portugal.
 <br/><br/>
-En 1540 : King Henry VIII of England marries Anne of Cleves.
-<br/><br/>
-En 1536 : The first European school of higher learning in the Americas, Colegio de Santa Cruz de Tlatelolco, is founded by Viceroy Antonio de Mendoza and Bishop Juan de Zumárraga in Mexico City.
-<br/><br/>
-En 1492 : The Catholic Monarchs Ferdinand and Isabella enter Granada at the conclusion of the Granada War.
-<br/><br/>
-En 1449 : Constantine XI is crowned Byzantine Emperor at Mystras.
-<br/><br/>
-En 1355 : Charles IV of Bohemia is crowned with the Iron Crown of Lombardy as King of Italy in Milan.
-<br/><br/>
-En 1322 : Stephen Uroš III is crowned King of Serbia, having defeated his half-brother Stefan Konstantin in battle. His son is crowned "young king" in the same ceremony.
-<br/><br/>
-En 1205 : Philip of Swabia undergoes a second coronation as King of the Romans.
-<br/><br/>
-En 1066 : Following the death of Edward the Confessor on the previous day, the Witan meets to confirm Harold Godwinson as the new King of England; Harold is crowned the same day, sparking a succession crisis that will eventually lead to the Norman conquest of England.
+En -49 : The Senate of Rome says that Caesar will be declared a public enemy unless he disbands his army, prompting the tribunes who support him to flee to where Caesar is waiting in Ravenna.
 <br/><br/>
