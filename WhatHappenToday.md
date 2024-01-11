@@ -4,81 +4,99 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 10/1 ?(Hover on the year)</h1>
+<h1> What happen this day 11/1 ?(Hover on the year)</h1>
 
-En 2019 : A 13-year-old American girl, Jayme Closs, is found alive in Gordon, Wisconsin, having been kidnapped 88 days earlier from her parents' home whilst they were murdered.
+En 2020 : COVID-19 pandemic in Hubei: Municipal health officials in Wuhan announce the first recorded death from COVID-19.
 <br/><br/>
-En 2015 : A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, killing at least 62 people.
+En 2013 : One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia.
 <br/><br/>
-En 2013 : More than 100 people are killed and 270 injured in several bomb blasts in the Quetta area of Pakistan.
+En 2003 : Illinois Governor George Ryan commutes the death sentences of 167 prisoners on Illinois's death row based on the Jon Burge scandal.
 <br/><br/>
-En 2012 : A bombing at Jamrud in Pakistan, kills at least 30 people and injures 78 others.
+En 1998 : Over 100 people are killed in the Sidi-Hamed massacre in Algeria.
 <br/><br/>
-En 2007 : A general strike begins in Guinea in an attempt to get President Lansana Conté to resign.
+En 1996 : The Space Shuttle Endeavour is launched on mission STS-72 to retrieve the Japanese Space Flyer Unit.
 <br/><br/>
-En 2000 : Crossair Flight 498, a Saab 340 aircraft, crashes in Niederhasli, Switzerland, after taking off from Zurich Airport, killing 13 people.
+En 1995 : 51 people are killed in a plane crash in María La Baja, Colombia.
 <br/><br/>
-En 1990 : Time Warner is formed by the merger of Time Inc. and Warner Communications.
+En 1994 : The Irish Government announces the end of a 15-year broadcasting ban on the IRA and its political arm Sinn Féin.
 <br/><br/>
-En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.
+En 1986 : The Gateway Bridge, Brisbane, Queensland, Australia is officially opened.
 <br/><br/>
-En 1984 : Holy See–United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
+En 1983 : United Airlines Flight 2885 crashes after takeoff from Detroit Metropolitan Airport, killing three.
 <br/><br/>
-En 1981 : Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments
+En 1973 : Major League Baseball owners vote in approval of the American League adopting the designated hitter position.
 <br/><br/>
-En 1980 : The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.
+En 1972 : East Pakistan renames itself Bangladesh.
 <br/><br/>
-En 1972 : Sheikh Mujibur Rahman returns to the newly independent Bangladesh as president after spending over nine months in prison in Pakistan.
+En 1966 : The Tbilisi Metro is opened.
 <br/><br/>
-En 1966 : Tashkent Declaration, a peace agreement between India and Pakistan signed that resolved the Indo-Pakistani War of 1965.
+En 1964 : Surgeon General of the United States Dr. Luther Terry, M.D., publishes the landmark report Smoking and Health: Report of the Advisory Committee to the Surgeon General of the United States saying that smoking may be hazardous to health, sparking national and worldwide anti-smoking efforts.
 <br/><br/>
-En 1954 : BOAC Flight 781, a de Havilland DH.106 Comet 1, explodes and falls into the Tyrrhenian Sea, killing 35 people.
+En 1962 : Cold War: While tied to its pier in Polyarny, the Soviet submarine B-37 is destroyed when fire breaks out in its torpedo compartment.
 <br/><br/>
-En 1946 : The first General Assembly of the United Nations assembles in the Methodist Central Hall, Westminster. Fifty-one nations are represented.
+En 1962 : An avalanche on Huascarán in Peru causes around 4,000 deaths.
 <br/><br/>
-En 1946 : The United States Army Signal Corps successfully conducts Project Diana, bouncing radio waves off the Moon and receiving the reflected signals.
+En 1961 : Throgs Neck Bridge over the East River, linking New York City's boroughs of The Bronx and Queens, opens to road traffic.
 <br/><br/>
-En 1941 : World War II: The Greek army captures Kleisoura.
+En 1959 : 36 people are killed when Lufthansa Flight 502 crashes on approach to Rio de Janeiro/Galeão International Airport in Brazil.
 <br/><br/>
-En 1927 : Fritz Lang's futuristic film Metropolis is released in Germany.
+En 1957 : The African Convention is founded in Dakar, Senegal.
 <br/><br/>
-En 1920 : The Treaty of Versailles takes effect, officially ending World War I for all combatant nations except the United States.
+En 1949 : The first "networked" television broadcasts took place as KDKA-TV in Pittsburgh, Pennsylvania goes on the air connecting the east coast and mid-west programming.
 <br/><br/>
-En 1920 : League of Nations Covenant automatically enters into force after the Treaty of Versailles is ratified by Germany.
+En 1946 : Enver Hoxha, Secretary General of the Communist Party of Albania, declares the People's Republic of Albania with himself as head of state.
 <br/><br/>
-En 1917 : Imperial Trans-Antarctic Expedition: Seven survivors of the Ross Sea party were rescued after being stranded for several months.
+En 1943 : The Republic of China agrees to the Sino-British New Equal Treaty and the Sino-American New Equal Treaty.
 <br/><br/>
-En 1916 : World War I: Imperial Russia begins the Erzurum Offensive, leading to the defeat of the Ottoman Empire's Third Army.
+En 1943 : Italian-American anarchist Carlo Tresca is assassinated in New York City.
 <br/><br/>
-En 1901 : The first great Texas oil gusher is discovered at Spindletop in Beaumont, Texas.
+En 1942 : World War II: Japanese forces capture Kuala Lumpur, the capital of the Federated Malay States.
 <br/><br/>
-En 1901 : New York: Automobile Club of America installs signs on major highways.
+En 1942 : World War II: Japanese forces attack Tarakan in Borneo, Netherlands Indies (Battle of Tarakan)
 <br/><br/>
-En 1870 : John D. Rockefeller incorporates Standard Oil.
+En 1935 : Amelia Earhart becomes the first person to fly solo from Hawaii to California.
 <br/><br/>
-En 1863 : The Metropolitan Railway, the world's oldest underground railway, opens between Paddington and Farringdon, marking the beginning of the London Underground.
+En 1927 : Louis B. Mayer, head of film studio Metro-Goldwyn-Mayer (MGM), announces the creation of the Academy of Motion Picture Arts and Sciences, at a banquet in Los Angeles, California.
 <br/><br/>
-En 1861 : American Civil War: Florida becomes the third state to secede from the Union.
+En 1923 : Occupation of the Ruhr: Troops from France and Belgium occupy the Ruhr area to force Germany to make its World War I reparation payments.
 <br/><br/>
-En 1812 : The first steamboat on the Ohio River or the Mississippi River arrives in New Orleans, 82 days after departing from Pittsburgh.
+En 1922 : Leonard Thompson becomes the first person to be injected with insulin.
 <br/><br/>
-En 1791 : The Siege of Dunlap's Station begins near Cincinnati during the Northwest Indian War.
+En 1917 : The Kingsland munitions factory explosion occurs as a result of sabotage.
 <br/><br/>
-En 1776 : American Revolution: Thomas Paine publishes his pamphlet Common Sense.
+En 1914 : The Karluk, flagship of the Canadian Arctic Expedition, sank after being crushed by ice.
 <br/><br/>
-En 1645 : Archbishop William Laud is beheaded for treason at the Tower of London.
+En 1912 : Immigrant textile workers in Lawrence, Massachusetts, go on strike when wages are reduced in response to a mandated shortening of the work week.
 <br/><br/>
-En 1475 : Stephen III of Moldavia defeats the Ottoman Empire at the Battle of Vaslui.
+En 1908 : Grand Canyon National Monument is created.
 <br/><br/>
-En 1430 : Philip the Good, the Duke of Burgundy, establishes the Order of the Golden Fleece, the most prestigious, exclusive, and expensive order of chivalry in the world.
+En 1879 : The Anglo-Zulu War begins.
 <br/><br/>
-En 1072 : Robert Guiscard conquers Palermo in Sicily for the Normans.
+En 1863 : American Civil War: The three-day Battle of Arkansas Post concludes as General John McClernand and Admiral David Dixon Porter capture Fort Hindman and secure control over the Arkansas River for the Union.
 <br/><br/>
-En 236 : Pope Fabian succeeds Anterus to become the twentieth pope of Rome.
+En 1863 : American Civil War: CSS Alabama encounters and sinks the USS Hatteras off Galveston Lighthouse in Texas.
 <br/><br/>
-En 69 : Lucius Calpurnius Piso Licinianus is appointed by Galba as deputy Roman Emperor.
+En 1861 : American Civil War: Alabama secedes from the United States.
 <br/><br/>
-En 9 : The Western Han dynasty ends when Wang Mang claims that the divine Mandate of Heaven called for the end of the dynasty and the beginning of his own, the Xin dynasty.
+En 1805 : The Michigan Territory is created.
 <br/><br/>
-En -49 : Julius Caesar crosses the Rubicon, signalling the start of civil war.
+En 1787 : William Herschel discovers Titania and Oberon, two moons of Uranus.
+<br/><br/>
+En 1779 : Ching-Thang Khomba is crowned King of Manipur.
+<br/><br/>
+En 1759 : The first American life insurance company, the Corporation for Relief of Poor and Distressed Presbyterian Ministers and of the Poor and Distressed Widows and Children of the Presbyterian Ministers (now part of Unum Group), is incorporated in Philadelphia, Pennsylvania.
+<br/><br/>
+En 1654 : Arauco War: A Spanish army is defeated by local Mapuche-Huilliches as it tries to cross Bueno River in Southern Chile.
+<br/><br/>
+En 1569 : First recorded lottery in England.
+<br/><br/>
+En 1158 : Vladislaus II, Duke of Bohemia becomes King of Bohemia.
+<br/><br/>
+En 1055 : Theodora is crowned empress of the Byzantine Empire.
+<br/><br/>
+En 930 : Sack of Mecca by the Qarmatians.
+<br/><br/>
+En 630 : Conquest of Mecca: The prophet Muhammad and his followers conquer the city, and the Quraysh association of clans surrenders.
+<br/><br/>
+En 532 : Nika riots in Constantinople: A quarrel between supporters of different chariot teams—the Blues and the Greens—in the Hippodrome escalates into violence.
 <br/><br/>
