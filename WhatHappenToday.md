@@ -4,111 +4,99 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/1 ?(Hover on the year)</h1>
+<h1> What happen this day 20/1 ?(Hover on the year)</h1>
 
-En 2014 : A bomb attack on an army convoy in the city of Bannu kills at least 26 Pakistani soldiers and injures 38 others.
+En 2021 : Joe Biden is inaugurated as the 46th President of the United States of America.  At 78, he becomes the oldest person ever inaugurated.  Kamala Harris becomes the first female Vice President of the United States.
 <br/><br/>
-En 2012 : The Hong Kong-based file-sharing website Megaupload is shut down by the FBI.
+En 2018 : A group of four or five gunmen attack The Inter-Continental Hotel in Kabul, Afghanistan, sparking a 12-hour battle. The attack kills 40 people and injures many others.
 <br/><br/>
-En 2007 : Turkish-Armenian journalist Hrant Dink is assassinated in front of his newspaper's Istanbul office by 17-year-old Turkish ultra-nationalist Ogün Samast.
+En 2018 : Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region.
 <br/><br/>
-En 2007 : Four-man Team N2i, using only skis and kites, completes a 1,093-mile (1,759 km) trek to reach the Antarctic pole of inaccessibility for the first time since 1965 and for the first time ever without mechanical assistance.
+En 2009 : Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States.
 <br/><br/>
-En 1999 : British Aerospace agrees to acquire the defence subsidiary of the General Electric Company, forming BAE Systems in November 1999.
+En 2009 : A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start.
 <br/><br/>
-En 1997 : Yasser Arafat returns to Hebron after more than 30 years and joins celebrations over the handover of the last Israeli-controlled West Bank city.
+En 2001 : President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo.
 <br/><br/>
-En 1996 : The barge North Cape oil spill occurs as an engine fire forces the tugboat Scandia ashore on Moonstone Beach in South Kingstown, Rhode Island.
+En 1992 : Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board.
 <br/><br/>
-En 1995 : After being struck by lightning the crew of Bristow Helicopters Flight 56C are forced to ditch. All 18 aboard are later rescued.
+En 1991 : Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south.
 <br/><br/>
-En 1993 : Czech Republic and Slovakia join the United Nations.
+En 1990 : Protests in Azerbaijan, part of the Dissolution of the Soviet Union.
 <br/><br/>
-En 1991 : Gulf War: Iraq fires a second Scud missile into Israel, causing 15 injuries.
+En 1986 : In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time.
 <br/><br/>
-En 1990 : Exodus of Kashmiri Pandits from the Kashmir valley in Indian-administered Kashmir due to an insurgency.
+En 1986 : Leabua Jonathan, Prime Minister of Lesotho, is ousted from power in a coup d'état led by General Justin Lekhanya.
 <br/><br/>
-En 1988 : Trans-Colorado Airlines Flight 2286 crashes in Bayfield, Colorado, killing 19.
+En 1981 : Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages.
 <br/><br/>
-En 1986 : The first IBM PC computer virus is released into the wild. A boot sector virus dubbed (c)Brain, it was created by the Farooq Alvi Brothers in Lahore, Pakistan, reportedly to deter unauthorized copying of the software they had written.
+En 1974 : China gains control over all the Paracel Islands after a military engagement between the naval forces of China and South Vietnam.
 <br/><br/>
-En 1983 : Nazi war criminal Klaus Barbie is arrested in Bolivia.
+En 1973 : Amílcar Cabral, leader of the independence movement in Guinea-Bissau and Cape Verde, is assassinated in Conakry, Guinea.
 <br/><br/>
-En 1983 : The Apple Lisa, the first commercial personal computer from Apple to have a graphical user interface and a computer mouse, is announced.
+En 1972 : Pakistan launches its nuclear weapons program, a few weeks after its defeat in the Bangladesh Liberation War, as well as the Indo-Pakistani War of 1971.
 <br/><br/>
-En 1981 : Iran hostage crisis: United States and Iranian officials sign an agreement to release 52 American hostages after 14 months of captivity.
+En 1961 : John F. Kennedy is inaugurated the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Catholic.
 <br/><br/>
-En 1978 : The last Volkswagen Beetle made in Germany leaves VW's plant in Emden. Beetle production in Latin America continues until 2003.
+En 1954 : In the United States, the National Negro Network is established with 40 charter member radio stations.
 <br/><br/>
-En 1977 : President Gerald Ford pardons Iva Toguri D'Aquino (a.k.a. "Tokyo Rose").
+En 1953 : Dwight D. Eisenhower is inaugurated as the 34th President of the United States of America, becoming the first president to begin his presidency on January 20 since the 20th Amendment changed the dates of presidential terms.
 <br/><br/>
-En 1969 : Student Jan Palach dies after setting himself on fire three days earlier in Prague's Wenceslas Square to protest about the invasion of Czechoslovakia by the Soviet Union in 1968. His funeral turns into another major protest.
+En 1949 : Point Four Program, a program for economic aid to poor countries, is announced by United States President Harry S. Truman in his inaugural address for a full term as president.
 <br/><br/>
-En 1960 : Japan and the United States sign the US–Japan Mutual Security Treaty
+En 1945 : World War II: The provisional government of Béla Miklós in Hungary agrees to an armistice with the Allies.
 <br/><br/>
-En 1960 : Scandinavian Airlines System Flight 871 crashes near Ankara Esenboğa Airport in Turkey, killing all 42 aboard.
+En 1945 : World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months.
 <br/><br/>
-En 1953 : Almost 72 percent of all television sets in the United States are tuned into I Love Lucy to watch Lucy give birth.
+En 1942 : World War II: At the Wannsee Conference held in the Berlin suburb of Wannsee, senior Nazi German officials discuss the implementation of the "Final Solution to the Jewish question".
 <br/><br/>
-En 1946 : General Douglas MacArthur establishes the International Military Tribunal for the Far East in Tokyo to try Japanese war criminals.
+En 1941 : A German officer is killed in Bucharest, Romania, sparking a rebellion and pogrom by the Iron Guard, killing 125 Jews and 30 soldiers.
 <br/><br/>
-En 1945 : World War II: Soviet forces liberate the Łódź Ghetto. Of more than 200,000 inhabitants in 1940, fewer than 900 had survived the Nazi occupation.
+En 1937 : Franklin D. Roosevelt and John Nance Garner are sworn in for their second terms as U.S. President and U.S. Vice President; it is the first time a Presidential Inauguration takes place on January 20 since the 20th Amendment changed the dates of presidential terms.
 <br/><br/>
-En 1942 : World War II: The Japanese conquest of Burma begins.
+En 1936 : King George V of the United Kingdom dies. His eldest son succeeds to the throne, becoming Edward VIII. The title Prince of Wales is not used for another 22 years.
 <br/><br/>
-En 1941 : World War II: HMS Greyhound and other escorts of convoy AS-12 sink Italian submarine Neghelli with all hands 64 kilometres (40 mi) northeast of Falkonera.
+En 1929 : The first full-length talking motion picture filmed outdoors, In Old Arizona, is released.
 <br/><br/>
-En 1937 : Howard Hughes sets a new air record by flying from Los Angeles to New York City in seven hours, 28 minutes, 25 seconds.
+En 1921 : The British K-class submarine HMS K5 sinks in the English Channel; all 56 on board die.
 <br/><br/>
-En 1920 : The United States Senate votes against joining the League of Nations.
+En 1921 : The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty.
 <br/><br/>
-En 1920 : The American Civil Liberties Union (ACLU) is founded.
+En 1909 : Newly formed automaker General Motors (GM) buys into the Oakland Motor Car Company, which later becomes GM's long-running Pontiac division.
 <br/><br/>
-En 1917 : Silvertown explosion: A blast at a munitions factory in London kills 73 and injures over 400. The resulting fire causes over £2,000,000 worth of damage.
+En 1887 : The United States Senate allows the Navy to lease Pearl Harbor as a naval base.
 <br/><br/>
-En 1915 : Georges Claude patents the neon discharge tube for use in advertising.
+En 1877 : The last day of the Constantinople Conference results in agreement for political reforms in the Balkans.
 <br/><br/>
-En 1915 : German strategic bombing during World War I: German zeppelins bomb the towns of Great Yarmouth and King's Lynn in the United Kingdom killing at least 20 people, in the first major aerial bombardment of a civilian target.
+En 1874 : The Treaty of Pangkor is signed between the British and Sultan Abdullah of Perak, paving the way for further British colonization of Malaya.
 <br/><br/>
-En 1901 : Queen Victoria, Queen of the United Kingdom, stricken with paralysis. She dies three days later at the age of 81.
+En 1841 : Hong Kong Island is occupied by the British during the First Opium War.
 <br/><br/>
-En 1899 : Anglo-Egyptian Sudan is formed.
+En 1839 : In the Battle of Yungay, Chile defeats an alliance between Peru and Bolivia.
 <br/><br/>
-En 1883 : The first electric lighting system employing overhead wires, built by Thomas Edison, begins service at Roselle, New Jersey.
+En 1788 : The third and main part of First Fleet arrives at Botany Bay, beginning the British colonization of Australia. Arthur Phillip decides that Port Jackson is a more suitable location for a colony.
 <br/><br/>
-En 1871 : Franco-Prussian War: In the Siege of Paris, Prussia wins the Battle of St. Quentin. Meanwhile, the French attempt to break the siege in the Battle of Buzenval will end unsuccessfully the following day.
+En 1785 : Invading Siamese forces attempt to exploit the political chaos in Vietnam, but are ambushed and annihilated at the Mekong river by the Tây Sơn in the Battle of Rạch Gầm-Xoài Mút.
 <br/><br/>
-En 1862 : American Civil War: Battle of Mill Springs: The Confederacy suffers its first significant defeat in the conflict.
+En 1783 : The Kingdom of Great Britain signs preliminary articles of peace with the Kingdom of France, setting the stage for the official end of hostilities in the American Revolutionary War later that year.
 <br/><br/>
-En 1861 : American Civil War: Georgia joins South Carolina, Florida, Mississippi, and Alabama in declaring secession from the United States.
+En 1649 : The High Court of Justice for the trial of Charles I begins its proceedings.
 <br/><br/>
-En 1853 : Giuseppe Verdi's opera Il trovatore receives its premiere performance in Rome.
+En 1576 : The Mexican city of León is founded by order of the viceroy Don Martín Enríquez de Almanza.
 <br/><br/>
-En 1839 : The British East India Company captures Aden.
+En 1567 : Battle of Rio de Janeiro: Portuguese forces under the command of Estácio de Sá definitively drive the French out of Rio de Janeiro.
 <br/><br/>
-En 1829 : Johann Wolfgang von Goethe's Faust: The First Part of the Tragedy receives its premiere performance.
+En 1523 : Christian II is forced to abdicate as King of Denmark and Norway.
 <br/><br/>
-En 1817 : An army of 5,423 soldiers, led by General José de San Martín, crosses the Andes from Argentina to liberate Chile and then Peru.
+En 1356 : Edward Balliol surrenders his claim to the Scottish throne to Edward III in exchange for an English pension.
 <br/><br/>
-En 1795 : The Batavian Republic is proclaimed in the Netherlands, replacing the Dutch Republic.
+En 1320 : Duke Wladyslaw Lokietek becomes king of Poland.
 <br/><br/>
-En 1788 : The second group of ships of the First Fleet arrive at Botany Bay.
+En 1265 : The first English parliament to include not only Lords but also representatives of the major towns holds its first meeting in the Palace of Westminster, now commonly known as the "Houses of Parliament".
 <br/><br/>
-En 1764 : John Wilkes is expelled from the British House of Commons for seditious libel.
+En 1156 : Finnish peasant Lalli kills English clergyman Henry, the Bishop of Turku, on the ice of Lake Köyliö.
 <br/><br/>
-En 1764 : Bolle Willum Luxdorph records in his diary that a mail bomb, possibly the world's first, has severely injured the Danish Colonel Poulsen, residing at Børglum Abbey.
+En 649 : King Chindasuinth, at the urging of bishop Braulio of Zaragoza, crowns his son Recceswinth as co-ruler of the Visigothic Kingdom.[citation needed]
 <br/><br/>
-En 1639 : Hämeenlinna (Swedish: Tavastehus) is granted privileges after it separated from the Vanaja parish as its own city in Tavastia.
-<br/><br/>
-En 1607 : San Agustin Church in Manila is officially completed; it is the oldest church still standing in the Philippines.
-<br/><br/>
-En 1520 : Sten Sture the Younger, the Regent of Sweden, is mortally wounded at the Battle of Bogesund and dies on February 3.
-<br/><br/>
-En 1511 : The Italian Duchy of Mirandola surrenders to the Pope.
-<br/><br/>
-En 1419 : Hundred Years' War: Rouen surrenders to Henry V of England, completing his reconquest of Normandy.
-<br/><br/>
-En 649 : Conquest of Kucha: The forces of Kucha surrender after a forty-day siege led by Tang dynasty general Ashina She'er, establishing Tang control over the northern Tarim Basin in Xinjiang.
-<br/><br/>
-En 379 : Emperor Gratian elevates Flavius Theodosius at Sirmium to Augustus, and gives him authority over all the eastern provinces of the Roman Empire.
+En 250 : Pope Fabian is martyred during the Decian persecution.
 <br/><br/>
