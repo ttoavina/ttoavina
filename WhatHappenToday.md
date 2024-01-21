@@ -4,99 +4,99 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 20/1 ?(Hover on the year)</h1>
+<h1> What happen this day 21/1 ?(Hover on the year)</h1>
 
-En 2021 : Joe Biden is inaugurated as the 46th President of the United States of America.  At 78, he becomes the oldest person ever inaugurated.  Kamala Harris becomes the first female Vice President of the United States.
+En 2023 : Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.
 <br/><br/>
-En 2018 : A group of four or five gunmen attack The Inter-Continental Hotel in Kabul, Afghanistan, sparking a 12-hour battle. The attack kills 40 people and injures many others.
+En 2017 : Over 400 cities across America and 160+ countries worldwide participate in a large-scale women's march, on Donald Trump's first full day as President of the United States.
 <br/><br/>
-En 2018 : Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region.
+En 2014 : Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
 <br/><br/>
-En 2009 : Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States.
+En 2011 : Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
 <br/><br/>
-En 2009 : A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start.
+En 2009 : Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
 <br/><br/>
-En 2001 : President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo.
+En 2005 : In Belmopan, Belize, the unrest over the government's new taxes erupts into riots.
 <br/><br/>
-En 1992 : Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board.
+En 2004 : NASA's MER-A (the Mars Rover Spirit) ceases communication with mission control. The problem lies in the management of its flash memory and is fixed remotely from Earth on February 6.
 <br/><br/>
-En 1991 : Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south.
+En 2003 : A 7.6 magnitude earthquake strikes the Mexican state of Colima, killing 29 and leaving approximately 10,000 people homeless.
 <br/><br/>
-En 1990 : Protests in Azerbaijan, part of the Dissolution of the Soviet Union.
+En 2000 : Ecuador: After the Ecuadorian Congress is seized by indigenous organizations, Col. Lucio Gutiérrez, Carlos Solorzano and Antonio Vargas depose President Jamil Mahuad. Gutierrez is later replaced by Gen. Carlos Mendoza, who resigns and allows Vice-President Gustavo Noboa to succeed Mahuad.
 <br/><br/>
-En 1986 : In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time.
+En 1999 : War on Drugs: In one of the largest drug busts in American history, the United States Coast Guard intercepts a ship with over 4,300 kilograms (9,500 lb) of cocaine on board.
 <br/><br/>
-En 1986 : Leabua Jonathan, Prime Minister of Lesotho, is ousted from power in a coup d'état led by General Justin Lekhanya.
+En 1997 : The U.S. House of Representatives votes 395–28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
 <br/><br/>
-En 1981 : Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages.
+En 1985 : Galaxy Airlines Flight 203 crashes near Reno–Tahoe International Airport in Reno, Nevada, killing 70 people.
 <br/><br/>
-En 1974 : China gains control over all the Paracel Islands after a military engagement between the naval forces of China and South Vietnam.
+En 1981 : Production of the DeLorean sports car begins in Dunmurry, Northern Ireland, United Kingdom.
 <br/><br/>
-En 1973 : Amílcar Cabral, leader of the independence movement in Guinea-Bissau and Cape Verde, is assassinated in Conakry, Guinea.
+En 1980 : Iran Air Flight 291 crashes in the Alborz Mountains while on approach to Mehrabad International Airport in Tehran, Iran, killing 128 people.
 <br/><br/>
-En 1972 : Pakistan launches its nuclear weapons program, a few weeks after its defeat in the Bangladesh Liberation War, as well as the Indo-Pakistani War of 1971.
+En 1976 : Commercial service of Concorde begins with the London-Bahrain and Paris-Rio routes.
 <br/><br/>
-En 1961 : John F. Kennedy is inaugurated the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Catholic.
+En 1971 : The current Emley Moor transmitting station, the tallest free-standing structure in the United Kingdom, begins transmitting UHF broadcasts.
 <br/><br/>
-En 1954 : In the United States, the National Negro Network is established with 40 charter member radio stations.
+En 1968 : Vietnam War, Battle of Khe Sanh: One of the most publicized and controversial battles of the war begins.
 <br/><br/>
-En 1953 : Dwight D. Eisenhower is inaugurated as the 34th President of the United States of America, becoming the first president to begin his presidency on January 20 since the 20th Amendment changed the dates of presidential terms.
+En 1968 : A B-52 bomber crashes near Thule Air Base, contaminating the area after its nuclear payload ruptures. One of the four bombs remains unaccounted for after the cleanup operation is complete.
 <br/><br/>
-En 1949 : Point Four Program, a program for economic aid to poor countries, is announced by United States President Harry S. Truman in his inaugural address for a full term as president.
+En 1963 : The Chicago North Shore and Milwaukee Railroad ends operation.
 <br/><br/>
-En 1945 : World War II: The provisional government of Béla Miklós in Hungary agrees to an armistice with the Allies.
+En 1960 : Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia with Miss Sam, a female rhesus monkey on board.
 <br/><br/>
-En 1945 : World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months.
+En 1960 : Avianca Flight 671 crashes at Montego Bay, Jamaica airport, killing 37 people.
 <br/><br/>
-En 1942 : World War II: At the Wannsee Conference held in the Berlin suburb of Wannsee, senior Nazi German officials discuss the implementation of the "Final Solution to the Jewish question".
+En 1960 : A coal mine collapses at Holly Country, South Africa, killing 435 miners.
 <br/><br/>
-En 1941 : A German officer is killed in Bucharest, Romania, sparking a rebellion and pogrom by the Iron Guard, killing 125 Jews and 30 soldiers.
+En 1954 : The first nuclear-powered submarine, the USS Nautilus, is launched in Groton, Connecticut by Mamie Eisenhower, the First Lady of the United States.
 <br/><br/>
-En 1937 : Franklin D. Roosevelt and John Nance Garner are sworn in for their second terms as U.S. President and U.S. Vice President; it is the first time a Presidential Inauguration takes place on January 20 since the 20th Amendment changed the dates of presidential terms.
+En 1951 : The catastrophic eruption of Mount Lamington in Papua New Guinea claims 2,942 lives.
 <br/><br/>
-En 1936 : King George V of the United Kingdom dies. His eldest son succeeds to the throne, becoming Edward VIII. The title Prince of Wales is not used for another 22 years.
+En 1950 : American lawyer and government official Alger Hiss is convicted of perjury.
 <br/><br/>
-En 1929 : The first full-length talking motion picture filmed outdoors, In Old Arizona, is released.
+En 1948 : The Flag of Quebec is adopted and flown for the first time over the National Assembly of Quebec. The day is marked annually as Québec Flag Day.
 <br/><br/>
-En 1921 : The British K-class submarine HMS K5 sinks in the English Channel; all 56 on board die.
+En 1943 : As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
 <br/><br/>
-En 1921 : The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty.
+En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto was established.
 <br/><br/>
-En 1909 : Newly formed automaker General Motors (GM) buys into the Oakland Motor Car Company, which later becomes GM's long-running Pontiac division.
+En 1941 : Sparked by the murder of a German officer in Bucharest, Romania the day before, members of the Iron Guard engaged in a rebellion and pogrom killing 125 Jews.
 <br/><br/>
-En 1887 : The United States Senate allows the Navy to lease Pearl Harbor as a naval base.
+En 1932 : Finland and the Soviet Union sign a non-aggression treaty.
 <br/><br/>
-En 1877 : The last day of the Constantinople Conference results in agreement for political reforms in the Balkans.
+En 1931 : Sir Isaac Isaacs is sworn in as the first Australian-born Governor-General of Australia.
 <br/><br/>
-En 1874 : The Treaty of Pangkor is signed between the British and Sultan Abdullah of Perak, paving the way for further British colonization of Malaya.
+En 1925 : Albania declares itself a republic.
 <br/><br/>
-En 1841 : Hong Kong Island is occupied by the British during the First Opium War.
+En 1919 : A revolutionary Irish parliament is founded and declares the independence of the Irish Republic. One of the first engagements of the Irish War of Independence takes place.
 <br/><br/>
-En 1839 : In the Battle of Yungay, Chile defeats an alliance between Peru and Bolivia.
+En 1915 : Kiwanis International is founded in Detroit.
 <br/><br/>
-En 1788 : The third and main part of First Fleet arrives at Botany Bay, beginning the British colonization of Australia. Arthur Phillip decides that Port Jackson is a more suitable location for a colony.
+En 1911 : The first Monte Carlo Rally takes place.
 <br/><br/>
-En 1785 : Invading Siamese forces attempt to exploit the political chaos in Vietnam, but are ambushed and annihilated at the Mekong river by the Tây Sơn in the Battle of Rạch Gầm-Xoài Mút.
+En 1908 : New York City passes the Sullivan Ordinance, making it illegal for women to smoke in public, only to have the measure vetoed by the mayor.
 <br/><br/>
-En 1783 : The Kingdom of Great Britain signs preliminary articles of peace with the Kingdom of France, setting the stage for the official end of hostilities in the American Revolutionary War later that year.
+En 1893 : The Tati Concessions Land, formerly part of Matabeleland, is formally annexed to the Bechuanaland Protectorate, now Botswana.
 <br/><br/>
-En 1649 : The High Court of Justice for the trial of Charles I begins its proceedings.
+En 1861 : American Civil War starts, and Jefferson Davis resigns from the United States Senate.
 <br/><br/>
-En 1576 : The Mexican city of León is founded by order of the viceroy Don Martín Enríquez de Almanza.
+En 1854 : The RMS Tayleur sinks off Lambay Island on her maiden voyage from Liverpool to Australia with great loss of life.
 <br/><br/>
-En 1567 : Battle of Rio de Janeiro: Portuguese forces under the command of Estácio de Sá definitively drive the French out of Rio de Janeiro.
+En 1793 : After being found guilty of treason by the French National Convention, Louis XVI of France is executed by guillotine.
 <br/><br/>
-En 1523 : Christian II is forced to abdicate as King of Denmark and Norway.
+En 1789 : The first American novel, The Power of Sympathy or the Triumph of Nature Founded in Truth by William Hill Brown, is printed in Boston.
 <br/><br/>
-En 1356 : Edward Balliol surrenders his claim to the Scottish throne to Edward III in exchange for an English pension.
+En 1774 : Abdul Hamid I becomes Sultan of the Ottoman Empire and Caliph of Islam.
 <br/><br/>
-En 1320 : Duke Wladyslaw Lokietek becomes king of Poland.
+En 1749 : The Teatro Filarmonico in Verona is destroyed by fire, as a result of a torch being left behind in the box of a nobleman after a performance. It is rebuilt in 1754.
 <br/><br/>
-En 1265 : The first English parliament to include not only Lords but also representatives of the major towns holds its first meeting in the Palace of Westminster, now commonly known as the "Houses of Parliament".
+En 1720 : Sweden and Prussia sign the Treaty of Stockholm.
 <br/><br/>
-En 1156 : Finnish peasant Lalli kills English clergyman Henry, the Bishop of Turku, on the ice of Lake Köyliö.
+En 1535 : Following the Affair of the Placards, the French king leads an anti-Protestant procession through Paris.
 <br/><br/>
-En 649 : King Chindasuinth, at the urging of bishop Braulio of Zaragoza, crowns his son Recceswinth as co-ruler of the Visigothic Kingdom.[citation needed]
+En 1525 : The Swiss Anabaptist Movement is founded when Conrad Grebel, Felix Manz, George Blaurock, and about a dozen others baptize each other in the home of Manz's mother in Zürich, breaking a thousand-year tradition of church-state union.
 <br/><br/>
-En 250 : Pope Fabian is martyred during the Decian persecution.
+En 763 : Following the Battle of Bakhamra between Alids and Abbasids near Kufa, the Alid rebellion ends with the death of Ibrahim, brother of Isa ibn Musa.
 <br/><br/>
