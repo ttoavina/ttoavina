@@ -4,119 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 31/1 ?(Hover on the year)</h1>
+<h1> What happen this day 1/2 ?(Hover on the year)</h1>
 
-En 2023 : The last Boeing 747, the first wide-body airliner, is delivered.
+En 2022 : Five-year-old Moroccan boy Rayan Aourram falls into a 32-meter (105 feet) deep well in Ighran village in Tamorot commune, Chefchaouen Province, Morocco, but dies four days later, before rescue workers reached him.
 <br/><br/>
-En 2022 : Sue Gray, a senior civil servant in the United Kingdom, publishes an initial version of her report on the Downing Street Partygate controversy.
+En 2021 : A coup d'état in Myanmar removes Aung San Suu Kyi from power and restores military rule.
 <br/><br/>
-En 2020 : The United Kingdom's membership within the European Union ceases in accordance with Article 50, after 47 years of being a member state.
+En 2013 : The Shard, the sixth-tallest building in Europe, opens its viewing gallery to the public.
 <br/><br/>
-En 2019 : Abdullah of Pahang is sworn in as the 16th Yang di-Pertuan Agong of Malaysia.
+En 2012 : Seventy-four people are killed and over 500 injured as a result of clashes between fans of Egyptian football teams Al Masry and Al Ahly in the city of Port Said.
 <br/><br/>
-En 2018 : Both a blue moon and a total lunar eclipse occur.
+En 2009 : The first cabinet of Jóhanna Sigurðardóttir was formed in Iceland, making her the country's first female prime minister and the world's first openly gay head of government.
 <br/><br/>
-En 2009 : In Kenya, at least 113 people are killed and over 200 injured following an oil spillage ignition in Molo, days after a massive fire at a Nakumatt supermarket in Nairobi killed at least 25 people.
+En 2007 : The National Weather Service in the United States switches from the Fujita scale to the new Enhanced Fujita scale to measure the intensity and strength of tornadoes.
 <br/><br/>
-En 2007 : Emergency officials in Boston mistakenly identified battery-powered LED placards depicting characters from Aqua Teen Hunger Force as Improvised explosive devices (IEDs), causing a panic.
+En 2005 : King Gyanendra of Nepal carries out a coup d'état to capture the democracy, becoming Chairman of the Councils of ministers.
 <br/><br/>
-En 2003 : The Waterfall rail accident occurs near Waterfall, New South Wales, Australia.
+En 2004 : Hajj pilgrimage stampede: In a stampede at the Hajj pilgrimage in Saudi Arabia, 251 people are trampled to death and 244 injured.
 <br/><br/>
-En 2001 : In the Netherlands, a Scottish court convicts Libyan Abdelbaset al-Megrahi and acquits another Libyan citizen for their part in the bombing of Pan Am Flight 103 over Lockerbie, Scotland in 1988.
+En 2004 : Double suicide attack in Erbil on the offices of Iraqi Kurdish political parties by members of Jama'at al-Tawhid wal-Jihad
 <br/><br/>
-En 2001 : Two Japan Airlines planes nearly collide over Suruga Bay in Japan.
+En 2003 : Space Shuttle Columbia disintegrated during the reentry of mission STS-107 into the Earth's atmosphere, killing all seven astronauts aboard.
 <br/><br/>
-En 2000 : Alaska Airlines Flight 261 crash: An MD-83, experiencing horizontal stabilizer problems, crashes in the Pacific Ocean off the coast of Point Mugu, California, killing all 88 aboard.
+En 2002 : Daniel Pearl, American journalist and South Asia Bureau Chief of The Wall Street Journal, kidnapped on January 23, is beheaded and mutilated by his captors.
 <br/><br/>
-En 1996 : An explosives-filled truck rams into the gates of the Central Bank of Sri Lanka in Colombo, killing at least 86 people and injuring 1,400.
+En 1998 : Rear Admiral Lillian E. Fishburne becomes the first female African American to be promoted to rear admiral.
 <br/><br/>
-En 1988 : Doug Williams becomes the first African American quarterback to play in a Super Bowl and leads the Washington Redskins to victory in Super Bowl XXII.
+En 1996 : The Communications Decency Act is passed by the U.S. Congress.
 <br/><br/>
-En 1978 : The Crown of St. Stephen (also known as the Holy Crown of Hungary) goes on public display after being returned to Hungary from the United States, where it was held after World War II.
+En 1992 : The Chief Judicial Magistrate of Bhopal court declares Warren Anderson, ex-CEO of Union Carbide, a fugitive under Indian law for failing to appear in the Bhopal disaster case.
 <br/><br/>
-En 1971 : Apollo program: Apollo 14: Astronauts Alan Shepard, Stuart Roosa, and Edgar Mitchell, aboard a Saturn V, lift off for a mission to the Fra Mauro Highlands on the Moon.
+En 1991 : A runway collision between USAir Flight 1493 and SkyWest Flight 5569 at Los Angeles International Airport results in the deaths of 34 people, and injuries to 30 others.
 <br/><br/>
-En 1971 : The Winter Soldier Investigation, organized by the Vietnam Veterans Against the War to publicize alleged war crimes and atrocities by Americans and allies in Vietnam, begins in Detroit.
+En 1981 : The Underarm bowling incident of 1981 occurred when Trevor Chappell bowls underarm on the final delivery of a game between Australia and New Zealand at the Melbourne Cricket Ground (MCG).
 <br/><br/>
-En 1968 : Vietnam War: Viet Cong guerrillas attack the United States embassy in Saigon, and other attacks, in the early morning hours, later grouped together as the Tet Offensive.
+En 1979 : Iranian Ayatollah Ruhollah Khomeini returns to Tehran after nearly 15 years of exile.
 <br/><br/>
-En 1968 : Nauru gains independence from Australia.
+En 1974 : A fire in the 25-story Joelma Building in São Paulo, Brazil kills 189 and injures 293.
 <br/><br/>
-En 1966 : The Soviet Union launches the unmanned Luna 9 spacecraft as part of the Luna program.
+En 1972 : Kuala Lumpur becomes a city by a royal charter granted by the Yang di-Pertuan Agong of Malaysia.
 <br/><br/>
-En 1961 : Project Mercury: Mercury-Redstone 2: The chimpanzee Ham travels into outer space.
+En 1968 : Vietnam War: The execution of Viet Cong officer Nguyễn Văn Lém by South Vietnamese National Police Chief Nguyễn Ngọc Loan is recorded on motion picture film, as well as in an iconic still photograph taken by Eddie Adams.
 <br/><br/>
-En 1958 : Cold War: Space Race: The first successful American satellite detects the Van Allen radiation belt.
+En 1968 : Canada's three military services, the Royal Canadian Navy, the Canadian Army and the Royal Canadian Air Force, are unified into the Canadian Forces.
 <br/><br/>
-En 1957 : Eight people (five total crew from two aircraft and three on the ground) in Pacoima, California are killed following the mid-air collision between a Douglas DC-7 airliner and a Northrop F-89 Scorpion fighter jet.
+En 1968 : The New York Central Railroad and the Pennsylvania Railroad are merged to form Penn Central Transportation.
 <br/><br/>
-En 1953 : A North Sea flood causes over 1,800 deaths in the Netherlands and over 300 in the United Kingdom.
+En 1964 : The Beatles have their first number one hit in the United States with "I Want to Hold Your Hand".
 <br/><br/>
-En 1951 : United Nations Security Council Resolution 90 relating to the Korean War is adopted.
+En 1960 : Four black students stage the first of the Greensboro sit-ins at a lunch counter in Greensboro, North Carolina.
 <br/><br/>
-En 1950 : President Truman orders the development of thermonuclear weapons.
+En 1957 : Northeast Airlines Flight 823 crashes on Rikers Island in New York City, killing 20 people and injuring 78 others.
 <br/><br/>
-En 1949 : These Are My Children, the first television daytime soap opera, is broadcast by the NBC station in Chicago.
+En 1950 : The first prototype of the MiG-17 makes its maiden flight.
 <br/><br/>
-En 1946 : Cold War: Yugoslavia's new constitution, modeling that of the Soviet Union, establishes six constituent republics (Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia and Slovenia).
+En 1946 : Trygve Lie of Norway is picked to be the first United Nations Secretary-General.
 <br/><br/>
-En 1946 : The Democratic Republic of Vietnam introduces the đồng to replace the French Indochinese piastre at par.
+En 1946 : The Parliament of Hungary abolishes the monarchy after nine centuries, and proclaims the Hungarian Republic.
 <br/><br/>
-En 1945 : US Army private Eddie Slovik is executed for desertion, the first such execution of an American soldier since the Civil War.
+En 1942 : World War II: Josef Terboven, Reichskommissar of German-occupied Norway, appoints Vidkun Quisling the Minister President of the National Government.
 <br/><br/>
-En 1945 : World War II: About 3,000 inmates from the Stutthof concentration camp are forcibly marched into the Baltic Sea at Palmnicken (now Yantarny, Russia) and executed.
+En 1942 : World War II: U.S. Navy conducts Marshalls–Gilberts raids, the first offensive action by the United States against Japanese forces in the Pacific Theater.
 <br/><br/>
-En 1945 : World War II: The end of fighting in the Battle of Hill 170 during the Burma Campaign, in which the British 3 Commando Brigade repulsed a Japanese counterattack on their positions and precipitated a general retirement from the Arakan Peninsula.
+En 1942 : Voice of America, the official external radio and television service of the United States government, begins broadcasting with programs aimed at areas controlled by the Axis powers.
 <br/><br/>
-En 1944 : World War II: American forces land on Kwajalein Atoll and other islands in the Japanese-held Marshall Islands.
+En 1942 : Mao Zedong makes a speech on "Reform in Learning, the Party and Literature", which puts into motion the Yan'an Rectification Movement.
 <br/><br/>
-En 1944 : World War II: During the Anzio campaign, the 1st Ranger Battalion (Darby's Rangers) is destroyed behind enemy lines in a heavily outnumbered encounter at Battle of Cisterna, Italy.
+En 1924 : Russia–United Kingdom relations are restored, over six years after the Communist revolution.
 <br/><br/>
-En 1943 : World War II: German field marshal Friedrich Paulus surrenders to the Soviets at Stalingrad, followed two days later by the remainder of his Sixth Army, ending one of the war's fiercest battles.
+En 1908 : Lisbon Regicide: King Carlos I of Portugal and Infante Luis Filipe are shot dead in Lisbon.
 <br/><br/>
-En 1942 : World War II: Allied forces are defeated by the Japanese at the Battle of Malaya and retreat to Singapore.
+En 1900 : Great Britain, defeated by Boers in key battles, names Lord Roberts commander of British forces in South Africa.
 <br/><br/>
-En 1928 : Leon Trotsky is exiled to Alma-Ata.
+En 1897 : Shinhan Bank, the oldest bank in South Korea, opens in Seoul.
 <br/><br/>
-En 1919 : The Battle of George Square takes place in Glasgow, Scotland, during a campaign for shorter working hours.
+En 1896 : La bohème premieres in Turin at the Teatro Regio (Turin), conducted by the young Arturo Toscanini.
 <br/><br/>
-En 1918 : A series of accidental collisions on a misty Scottish night leads to the loss of two Royal Navy submarines with over a hundred lives, and damage to another five British warships.
+En 1895 : Fountains Valley, Pretoria, the oldest nature reserve in Africa, is proclaimed by President Paul Kruger.
 <br/><br/>
-En 1918 : Finnish Civil War: The Suinula massacre, which changes the nature of the war in a more hostile direction, takes place in Kangasala.
+En 1893 : Thomas A. Edison finishes construction of the first motion picture studio, the Black Maria in West Orange, New Jersey.
 <br/><br/>
-En 1917 : World War I: Kaiser Wilhelm II orders the resumption of unrestricted submarine warfare.
+En 1884 : The first volume (A to Ant) of the Oxford English Dictionary is published.
 <br/><br/>
-En 1915 : World War I: Germany is the first to make large-scale use of poison gas in warfare in the Battle of Bolimów against Russia.
+En 1865 : President Abraham Lincoln signs the Thirteenth Amendment to the United States Constitution.
 <br/><br/>
-En 1901 : Anton Chekhov's Three Sisters premieres at Moscow Art Theatre in Russia.
+En 1864 : Second Schleswig War: Prussian forces crossed the border into Schleswig, starting the war.
 <br/><br/>
-En 1900 : Datu Muhammad Salleh is killed in Kampung Teboh, Tambunan, ending the Mat Salleh Rebellion.
+En 1861 : American Civil War: Texas secedes from the United States and joins the Confederacy a week later.
 <br/><br/>
-En 1891 : History of Portugal: The first attempt at a Portuguese republican revolution breaks out in the northern city of Porto.
+En 1835 : Slavery is abolished in Mauritius.
 <br/><br/>
-En 1865 : American Civil War: The United States Congress passes the Thirteenth Amendment to the United States Constitution, abolishing slavery, and submits it to the states for ratification.
+En 1814 : Mayon in the Philippines erupts, killing around 1,200 people, the most devastating eruption of the volcano.
 <br/><br/>
-En 1865 : American Civil War: Confederate General Robert E. Lee becomes general-in-chief of all Confederate armies.
+En 1796 : The capital of Upper Canada is moved from Newark to York.
 <br/><br/>
-En 1862 : Alvan Graham Clark discovers the white dwarf star Sirius B, a companion of Sirius, through an 18.5-inch (47 cm) telescope now located at Northwestern University.
+En 1793 : French Revolutionary Wars: France declares war on the United Kingdom and the Netherlands.
 <br/><br/>
-En 1848 : John C. Frémont is court-martialed for mutiny and disobeying orders.
+En 1713 : The Kalabalik or Skirmish at Bender results from the Ottoman sultan's order that his unwelcome guest, King Charles XII of Sweden, be seized.
 <br/><br/>
-En 1846 : After the Milwaukee Bridge War, the United States towns of Juneautown and Kilbourntown unify to create the City of Milwaukee.
+En 1662 : The Chinese general Koxinga seizes the island of Taiwan after a nine-month siege.
 <br/><br/>
-En 1814 : Gervasio Antonio de Posadas becomes Supreme Director of the United Provinces of the Río de la Plata (present-day Argentina).
+En 1411 : The First Peace of Thorn is signed in Thorn (Toruń), Monastic State of the Teutonic Knights (Prussia).
 <br/><br/>
-En 1747 : The first venereal diseases clinic opens at London Lock Hospital.
-<br/><br/>
-En 1609 : Wisselbank of Amsterdam established
-<br/><br/>
-En 1606 : Gunpowder Plot: Four of the conspirators, including Guy Fawkes, are executed for treason by hanging, drawing and quartering, for plotting against Parliament and King James.
-<br/><br/>
-En 1578 : Eighty Years' War and Anglo-Spanish War: The Battle of Gembloux is a victory for Spanish forces led by Don John of Austria over a rebel army of Dutch, Flemish, English, Scottish, German, French and Walloons.
-<br/><br/>
-En 1504 : The Treaty of Lyon ends the Italian War, confirming French domination of northern Italy, while Spain receives the Kingdom of Naples.
-<br/><br/>
-En 1208 : The Battle of Lena takes place between King Sverker II of Sweden and his rival, Prince Eric, whose victory puts him on the throne as King Eric X of Sweden.
-<br/><br/>
-En 314 : Pope Sylvester I is consecrated, as successor to the late Pope Miltiades.
+En 1327 : The teenaged Edward III is crowned King of England, but the country is ruled by his mother Queen Isabella and her lover Roger Mortimer.
 <br/><br/>
