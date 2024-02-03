@@ -4,105 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 2/2 ?(Hover on the year)</h1>
+<h1> What happen this day 3/2 ?(Hover on the year)</h1>
 
-En 2021 : The Burmese military establishes the State Administration Council, the military junta, after deposing the democratically elected government in the 2021 Myanmar coup d'état.
+En 2023 : 2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
 <br/><br/>
-En 2012 : The ferry MV Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 146–165 dead.
+En 2014 : Two people are shot and killed and 29 students are taken hostage at a high school in Moscow, Russia.
 <br/><br/>
-En 2007 : Police officer Filippo Raciti is killed when a clash breaks out in the Sicily derby between Catania and Palermo, in the Serie A, the top flight of Italian football. This event led to major changes in stadium regulations in Italy.
+En 2007 : A Baghdad market bombing kills at least 135 people and injures a further 339.
 <br/><br/>
-En 2005 : The Government of Canada introduces the Civil Marriage Act. This legislation would become law on July 20, 2005, legalizing same-sex marriage.
+En 2005 : One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
 <br/><br/>
-En 2004 : Swiss tennis player Roger Federer becomes the No. 1 ranked men's singles player, a position he will hold for a record 237 weeks.
+En 1998 : Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
 <br/><br/>
-En 2000 : First digital cinema projection in Europe (Paris) realized by Philippe Binant with the DLP CINEMA technology developed by Texas Instruments.
+En 1995 : Astronaut Eileen Collins becomes the first woman to pilot the Space Shuttle as mission STS-63 gets underway from Kennedy Space Center in Florida.
 <br/><br/>
-En 1998 : Cebu Pacific Flight 387 crashes into Mount Sumagaya in the Philippines, killing all 104 people on board.
+En 1994 : Space Shuttle program: STS-60 is launched, carrying Sergei Krikalev, the first Russian cosmonaut to fly aboard the Shuttle.
 <br/><br/>
-En 1990 : Apartheid: F. W. de Klerk announces the unbanning of the African National Congress and promises to release Nelson Mandela.
+En 1989 : After a stroke two weeks previously, South African President P. W. Botha resigns as leader of the National Party, but stays on as president for six more months.
 <br/><br/>
-En 1989 : Soviet–Afghan War: The last Soviet armoured column leaves Kabul.
+En 1989 : A military coup overthrows Alfredo Stroessner, dictator of Paraguay since 1954.
 <br/><br/>
-En 1987 : After the 1986 People Power Revolution, the Philippines enacts a new constitution.
+En 1984 : Doctor John Buster and a research team at Harbor-UCLA Medical Center in the United States announce history's first embryo transfer, from one woman to another resulting in a live birth.
 <br/><br/>
-En 1982 : Hama massacre: The government of Syria attacks the town of Hama.
+En 1984 : Space Shuttle program: STS-41-B is launched using Space Shuttle Challenger.
 <br/><br/>
-En 1980 : Reports surface that the FBI is targeting allegedly corrupt Congressmen in the Abscam operation.
+En 1972 : The first day of the seven-day 1972 Iran blizzard, which would kill at least 4,000 people, making it the deadliest snowstorm in history.
 <br/><br/>
-En 1971 : Idi Amin replaces President Milton Obote as leader of Uganda.
+En 1971 : New York Police Officer Frank Serpico is shot during a drug bust in Brooklyn and survives to later testify against police corruption.
 <br/><br/>
-En 1971 : The international Ramsar Convention for the conservation and sustainable utilization of wetlands is signed in Ramsar, Mazandaran, Iran.
+En 1966 : The Soviet Union's Luna 9 becomes the first spacecraft to make a soft landing on the Moon, and the first spacecraft to take pictures from the surface of the Moon.
 <br/><br/>
-En 1966 : Pakistan suggests a six-point agenda with Kashmir after the Indo-Pakistani War of 1965.
+En 1961 : The United States Air Force begins Operation Looking Glass, and over the next 30 years, a "Doomsday Plane" is always in the air, with the capability of taking direct control of the United States' bombers and missiles in the event of the destruction of the SAC's command post.
 <br/><br/>
-En 1959 : Nine experienced ski hikers in the northern Ural Mountains in the Soviet Union die under mysterious circumstances.
+En 1960 : British Prime Minister Harold Macmillan speaks of "a wind of change", signalling that his Government was likely to support decolonisation.
 <br/><br/>
-En 1954 : The Detroit Red Wings played in the first outdoor hockey game by any NHL team in an exhibition against the Marquette Branch Prison Pirates in Marquette, Michigan.
+En 1959 : Rock and roll musicians Buddy Holly, Ritchie Valens, and J. P. "The Big Bopper" Richardson are killed in a plane crash along with the pilot near Clear Lake, Iowa, an event later known as The Day the Music Died.
 <br/><br/>
-En 1943 : World War II: The Battle of Stalingrad comes to an end when Soviet troops accept the surrender of the last organized German troops in the city.
+En 1959 : Sixty-five people are killed when American Airlines Flight 320 crashes into the East River on approach to LaGuardia Airport in New York City.
 <br/><br/>
-En 1942 : The Osvald Group is responsible for the first, active event of anti-Nazi resistance in Norway, to protest the inauguration of Vidkun Quisling.
+En 1958 : Founding of the Benelux Economic Union, creating a testing ground for a later European Economic Community.
 <br/><br/>
-En 1935 : Leonarde Keeler administers polygraph tests to two murder suspects, the first time polygraph evidence was admitted in U.S. courts.
+En 1953 : The Batepá massacre occurred in São Tomé when the colonial administration and Portuguese landowners unleashed a wave of violence against the native creoles known as forros.
 <br/><br/>
-En 1934 : The Export-Import Bank of the United States is incorporated.
+En 1945 : World War II: As part of Operation Thunderclap, 1,000 B-17s of the Eighth Air Force bomb Berlin, a raid which kills between 2,500 and 3,000 and dehouses another 120,000.
 <br/><br/>
-En 1925 : Serum run to Nome: Dog sleds reach Nome, Alaska with diphtheria serum, inspiring the Iditarod race.
+En 1945 : World War II: The United States and the Philippine Commonwealth begin a month-long battle to retake Manila from Japan.
 <br/><br/>
-En 1922 : Ulysses by James Joyce is published.
+En 1944 : World War II: During the Gilbert and Marshall Islands campaign, U.S. Army and Marine forces seize Kwajalein Atoll from the defending Japanese garrison.
 <br/><br/>
-En 1922 : The uprising called the "pork mutiny" starts in the region between Kuolajärvi and Savukoski in Finland.
+En 1943 : The SS Dorchester is sunk by a German U-boat. Only 230 of 902 men aboard survive.
 <br/><br/>
-En 1920 : The Tartu Peace Treaty is signed between Estonia and Russia.
+En 1933 : Adolf Hitler announces that the expansion of Lebensraum into Eastern Europe, and its ruthless Germanisation, are the ultimate geopolitical objectives of Nazi foreign policy.
 <br/><br/>
-En 1913 : Grand Central Terminal opens in New York City.
+En 1931 : The Hawke's Bay earthquake, New Zealand's worst natural disaster, kills 258.
 <br/><br/>
-En 1909 : The Paris Film Congress opens, an attempt by European producers to form an equivalent to the MPCC cartel in the United States.
+En 1930 : Communist Party of Vietnam is founded at a "Unification Conference" held in Kowloon, British Hong Kong.
 <br/><br/>
-En 1901 : Funeral of Queen Victoria.
+En 1927 : A revolt against the military dictatorship of Portugal breaks out at Oporto.
 <br/><br/>
-En 1900 : Boston, Detroit, Milwaukee, Baltimore, Chicago and St. Louis, agree to form baseball's American League.
+En 1918 : The Twin Peaks Tunnel in San Francisco, California begins service as the longest streetcar tunnel in the world at 11,920 feet (3,630 meters) long.
 <br/><br/>
-En 1899 : The Australian Premiers' Conference held in Melbourne decides to locate Australia's capital city, Canberra, between Sydney and Melbourne.
+En 1917 : World War I: The American entry into World War I begins when diplomatic relations with Germany are severed due to its unrestricted submarine warfare.
 <br/><br/>
-En 1887 : In Punxsutawney, Pennsylvania, the first Groundhog Day is observed.
+En 1916 : The Centre Block of the Parliament buildings in Ottawa, Ontario, Canada burns down with the loss of seven lives.
 <br/><br/>
-En 1881 : The sentences of the trial of the warlocks of Chiloé are imparted.
+En 1913 : The Sixteenth Amendment to the United States Constitution is ratified, authorizing the Federal government to impose and collect an income tax.
 <br/><br/>
-En 1876 : The National League of Professional Baseball Clubs of Major League Baseball is formed.
+En 1870 : The Fifteenth Amendment to the United States Constitution is ratified, guaranteeing voting rights to male citizens regardless of race.
 <br/><br/>
-En 1870 : The Seven Brothers (Seitsemän veljestä), a novel by Finnish author Aleksis Kivi, is published first time in several thin booklets.
+En 1830 : The London Protocol of 1830 establishes the full independence and sovereignty of Greece from the Ottoman Empire as the final result of the Greek War of Independence.
 <br/><br/>
-En 1868 : Pro-Imperial forces capture Osaka Castle from the Tokugawa shogunate and burn it to the ground.
+En 1813 : José de San Martín defeats a Spanish royalist army at the Battle of San Lorenzo, part of the Argentine War of Independence.
 <br/><br/>
-En 1850 : Brigham Young declares war on Timpanogos in the Battle at Fort Utah.
+En 1809 : The Territory of Illinois is created by the 10th United States Congress.
 <br/><br/>
-En 1848 : Mexican–American War: The Treaty of Guadalupe Hidalgo is signed.
+En 1807 : A British military force, under Brigadier-General Sir Samuel Auchmuty captures the Spanish Empire city of Montevideo, now the capital of Uruguay.
 <br/><br/>
-En 1814 : The last of the River Thames frost fairs comes to an end.
+En 1787 : Militia led by General Benjamin Lincoln crush the remnants of Shays' Rebellion in Petersham, Massachusetts.
 <br/><br/>
-En 1709 : Alexander Selkirk is rescued after being shipwrecked on a desert island, inspiring Daniel Defoe's adventure book Robinson Crusoe.
+En 1783 : Spain–United States relations are first established.
 <br/><br/>
-En 1653 : New Amsterdam (later renamed The City of New York) is incorporated.
+En 1781 : American Revolutionary War: British forces seize the Dutch-owned Caribbean island Sint Eustatius.
 <br/><br/>
-En 1645 : Scotland in the Wars of the Three Kingdoms: Battle of Inverlochy.
+En 1716 : The 1716 Algiers earthquake sequence began with an Mw  7.0 mainshock that caused severe damage and killed 20,000 in Algeria.
 <br/><br/>
-En 1536 : Spaniard Pedro de Mendoza founds Buenos Aires, Argentina.
+En 1706 : During the Battle of Fraustadt Swedish forces defeat a superior Saxon-Polish-Russian force by deploying a double envelopment.
 <br/><br/>
-En 1461 : Wars of the Roses: The Battle of Mortimer's Cross results in the death of Owen Tudor.
+En 1690 : The colony of Massachusetts issues the first paper money in the Americas.
 <br/><br/>
-En 1438 : Nine leaders of the Transylvanian peasant revolt are executed at Torda.
+En 1661 : Maratha forces under Chattrapati Shivaji Maharaj defeat the Mughals in the Battle of Umberkhind.
 <br/><br/>
-En 1207 : Terra Mariana, eventually comprising present-day Latvia and Estonia, is established.
+En 1639 : The House of Assembly of Barbados meets for the first time.
 <br/><br/>
-En 1141 : The Battle of Lincoln, at which Stephen, King of England is defeated and captured by the allies of Empress Matilda.
+En 1583 : Battle of São Vicente takes place off Portuguese Brazil where three English warships led by navigator Edward Fenton fight off three Spanish galleons sinking one in the process.
 <br/><br/>
-En 1032 : Conrad II, Holy Roman Emperor becomes king of Burgundy.
+En 1509 : The Portuguese navy defeats a joint fleet of the Ottoman Empire, the Republic of Venice, the Sultan of Gujarat, the Mamlûk Burji Sultanate of Egypt, the Zamorin of Calicut, and the Republic of Ragusa at the Battle of Diu in Diu, India.
 <br/><br/>
-En 962 : Translatio imperii: Pope John XII crowns Otto I, Holy Roman Emperor, the first Holy Roman Emperor in nearly 40 years.
+En 1488 : Bartolomeu Dias of Portugal lands in Mossel Bay after rounding the Cape of Good Hope, becoming the first known European to travel so far south.
 <br/><br/>
-En 880 : Battle of Lüneburg Heath: King Louis III of France is defeated by the Norse Great Heathen Army at Lüneburg Heath in Saxony.
+En 1451 : Sultan Mehmed II inherits the throne of the Ottoman Empire.
 <br/><br/>
-En 506 : Alaric II, eighth king of the Visigoths, promulgates the Breviary of Alaric (Breviarium Alaricianum or Lex Romana Visigothorum), a collection of "Roman law".
+En 1112 : Ramon Berenguer III, Count of Barcelona, and Douce I, Countess of Provence, marry, uniting the fortunes of those two states.
 <br/><br/>
