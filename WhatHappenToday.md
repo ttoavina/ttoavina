@@ -4,105 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 3/2 ?(Hover on the year)</h1>
+<h1> What happen this day 4/2 ?(Hover on the year)</h1>
 
-En 2023 : 2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
+En 2020 : The COVID-19 pandemic causes all casinos in Macau to be closed down for 15 days.
 <br/><br/>
-En 2014 : Two people are shot and killed and 29 students are taken hostage at a high school in Moscow, Russia.
+En 2015 : TransAsia Airways Flight 235, with 58 people on board, en route from the Taiwanese capital Taipei to Kinmen, crashes into the Keelung River just after takeoff, killing 43 people.
 <br/><br/>
-En 2007 : A Baghdad market bombing kills at least 135 people and injures a further 339.
+En 2008 : Civic mobilizations in Colombia against FARC, under the name A million voices against the FARC.
 <br/><br/>
-En 2005 : One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
+En 2004 : Facebook, a mainstream online social networking site, is founded by Mark Zuckerberg and Eduardo Saverin.
 <br/><br/>
-En 1998 : Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
+En 2003 : The Federal Republic of Yugoslavia adopts a new constitution, becoming a loose confederacy between Montenegro and Serbia.
 <br/><br/>
-En 1995 : Astronaut Eileen Collins becomes the first woman to pilot the Space Shuttle as mission STS-63 gets underway from Kennedy Space Center in Florida.
+En 2000 : The World Summit Against Cancer for the New Millennium, Charter of Paris is signed by the President of France, Jacques Chirac and the Director General of UNESCO, Koichiro Matsuura, initiating World Cancer Day which is held on February 4 every year.
 <br/><br/>
-En 1994 : Space Shuttle program: STS-60 is launched, carrying Sergei Krikalev, the first Russian cosmonaut to fly aboard the Shuttle.
+En 1999 : Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
 <br/><br/>
-En 1989 : After a stroke two weeks previously, South African President P. W. Botha resigns as leader of the National Party, but stays on as president for six more months.
+En 1998 : The 5.9 Mw  Afghanistan earthquake shakes the Takhar Province with a maximum Mercalli intensity of VII (Very strong). With 2,323 killed, and 818 injured, damage is considered extreme.
 <br/><br/>
-En 1989 : A military coup overthrows Alfredo Stroessner, dictator of Paraguay since 1954.
+En 1997 : En route to Lebanon, two Israeli Sikorsky CH-53 troop-transport helicopters collide in mid-air over northern Galilee, Israel, killing 73.
 <br/><br/>
-En 1984 : Doctor John Buster and a research team at Harbor-UCLA Medical Center in the United States announce history's first embryo transfer, from one woman to another resulting in a live birth.
+En 1997 : The Bojnurd earthquake measuring Mw  6.5 strikes Iran. With a Mercalli intensity of VIII, it kills at least 88 and damages 173 villages.
 <br/><br/>
-En 1984 : Space Shuttle program: STS-41-B is launched using Space Shuttle Challenger.
+En 1992 : A coup d'état is led by Hugo Chávez against Venezuelan President Carlos Andrés Pérez.
 <br/><br/>
-En 1972 : The first day of the seven-day 1972 Iran blizzard, which would kill at least 4,000 people, making it the deadliest snowstorm in history.
+En 1977 : A Chicago Transit Authority elevated train rear-ends another and derails, killing 11 and injuring 180, the worst accident in the agency's history.
 <br/><br/>
-En 1971 : New York Police Officer Frank Serpico is shot during a drug bust in Brooklyn and survives to later testify against police corruption.
+En 1976 : In Guatemala and Honduras an earthquake kills more than 22,000.
 <br/><br/>
-En 1966 : The Soviet Union's Luna 9 becomes the first spacecraft to make a soft landing on the Moon, and the first spacecraft to take pictures from the surface of the Moon.
+En 1975 : Haicheng earthquake (magnitude 7.3 on the Richter scale) occurs in Haicheng, Liaoning, China.
 <br/><br/>
-En 1961 : The United States Air Force begins Operation Looking Glass, and over the next 30 years, a "Doomsday Plane" is always in the air, with the capability of taking direct control of the United States' bombers and missiles in the event of the destruction of the SAC's command post.
+En 1974 : The Symbionese Liberation Army kidnaps Patty Hearst in Berkeley, California.
 <br/><br/>
-En 1960 : British Prime Minister Harold Macmillan speaks of "a wind of change", signalling that his Government was likely to support decolonisation.
+En 1974 : M62 coach bombing: The Provisional Irish Republican Army (IRA) explodes a bomb on a bus carrying off-duty British Armed Forces personnel in Yorkshire, England. Nine soldiers and three civilians are killed.
 <br/><br/>
-En 1959 : Rock and roll musicians Buddy Holly, Ritchie Valens, and J. P. "The Big Bopper" Richardson are killed in a plane crash along with the pilot near Clear Lake, Iowa, an event later known as The Day the Music Died.
+En 1967 : Lunar Orbiter program: Lunar Orbiter 3 lifts off from Cape Canaveral's Launch Complex 13 on its mission to identify possible landing sites for the Surveyor and Apollo spacecraft.
 <br/><br/>
-En 1959 : Sixty-five people are killed when American Airlines Flight 320 crashes into the East River on approach to LaGuardia Airport in New York City.
+En 1966 : All Nippon Airways Flight 60 plunges into Tokyo Bay, killing 133.
 <br/><br/>
-En 1958 : Founding of the Benelux Economic Union, creating a testing ground for a later European Economic Community.
+En 1961 : The Angolan War of Independence and the greater Portuguese Colonial War begin.
 <br/><br/>
-En 1953 : The Batepá massacre occurred in São Tomé when the colonial administration and Portuguese landowners unleashed a wave of violence against the native creoles known as forros.
+En 1948 : Ceylon (later renamed Sri Lanka) becomes independent within the British Commonwealth.
 <br/><br/>
-En 1945 : World War II: As part of Operation Thunderclap, 1,000 B-17s of the Eighth Air Force bomb Berlin, a raid which kills between 2,500 and 3,000 and dehouses another 120,000.
+En 1945 : World War II: Santo Tomas Internment Camp is liberated from Japanese authority.
 <br/><br/>
-En 1945 : World War II: The United States and the Philippine Commonwealth begin a month-long battle to retake Manila from Japan.
+En 1945 : World War II: The Yalta Conference between the "Big Three" (Churchill, Roosevelt, and Stalin) opens at the Livadia Palace in the Crimea.
 <br/><br/>
-En 1944 : World War II: During the Gilbert and Marshall Islands campaign, U.S. Army and Marine forces seize Kwajalein Atoll from the defending Japanese garrison.
+En 1945 : World War II: The British Indian Army and Imperial Japanese Army begin a series of battles known as the Battle of Pokoku and Irrawaddy River operations.
 <br/><br/>
-En 1943 : The SS Dorchester is sunk by a German U-boat. Only 230 of 902 men aboard survive.
+En 1941 : The United Service Organization (USO) is created to entertain American troops.
 <br/><br/>
-En 1933 : Adolf Hitler announces that the expansion of Lebensraum into Eastern Europe, and its ruthless Germanisation, are the ultimate geopolitical objectives of Nazi foreign policy.
+En 1938 : Adolf Hitler appoints himself as head of the Armed Forces High Command.
 <br/><br/>
-En 1931 : The Hawke's Bay earthquake, New Zealand's worst natural disaster, kills 258.
+En 1932 : Second Sino-Japanese War: Harbin, Manchuria, falls to Japan.
 <br/><br/>
-En 1930 : Communist Party of Vietnam is founded at a "Unification Conference" held in Kowloon, British Hong Kong.
+En 1899 : The Philippine–American War begins when four Filipino soldiers enter the "American Zone" in Manila, igniting the Battle of Manila.
 <br/><br/>
-En 1927 : A revolt against the military dictatorship of Portugal breaks out at Oporto.
+En 1861 : American Civil War: In Montgomery, Alabama, delegates from six breakaway U.S. states meet and initiate the process that would form the Confederate States of America on February 8.
 <br/><br/>
-En 1918 : The Twin Peaks Tunnel in San Francisco, California begins service as the longest streetcar tunnel in the world at 11,920 feet (3,630 meters) long.
+En 1859 : The Codex Sinaiticus is discovered in Egypt.
 <br/><br/>
-En 1917 : World War I: The American entry into World War I begins when diplomatic relations with Germany are severed due to its unrestricted submarine warfare.
+En 1846 : The first Mormon pioneers make their exodus from Nauvoo, Illinois, westward towards Salt Lake Valley.
 <br/><br/>
-En 1916 : The Centre Block of the Parliament buildings in Ottawa, Ontario, Canada burns down with the loss of seven lives.
+En 1825 : The Ohio Legislature authorizes the construction of the Ohio and Erie Canal and the Miami and Erie Canal.
 <br/><br/>
-En 1913 : The Sixteenth Amendment to the United States Constitution is ratified, authorizing the Federal government to impose and collect an income tax.
+En 1820 : The Chilean Navy under the command of Lord Cochrane completes the two-day long Capture of Valdivia with just 300 men and two ships.
 <br/><br/>
-En 1870 : The Fifteenth Amendment to the United States Constitution is ratified, guaranteeing voting rights to male citizens regardless of race.
+En 1810 : Napoleonic Wars: Britain seizes Guadeloupe.
 <br/><br/>
-En 1830 : The London Protocol of 1830 establishes the full independence and sovereignty of Greece from the Ottoman Empire as the final result of the Greek War of Independence.
+En 1801 : John Marshall is sworn in as Chief Justice of the United States.
 <br/><br/>
-En 1813 : José de San Martín defeats a Spanish royalist army at the Battle of San Lorenzo, part of the Argentine War of Independence.
+En 1797 : The Riobamba earthquake strikes Ecuador, causing up to 40,000 casualties.
 <br/><br/>
-En 1809 : The Territory of Illinois is created by the 10th United States Congress.
+En 1794 : The French legislature abolishes slavery throughout all territories of the French First Republic. It would be reestablished in the French West Indies in 1802.
 <br/><br/>
-En 1807 : A British military force, under Brigadier-General Sir Samuel Auchmuty captures the Spanish Empire city of Montevideo, now the capital of Uruguay.
+En 1789 : George Washington is unanimously elected as the first President of the United States by the U.S. Electoral College.
 <br/><br/>
-En 1787 : Militia led by General Benjamin Lincoln crush the remnants of Shays' Rebellion in Petersham, Massachusetts.
+En 1758 : The city of Macapá in Brazil is founded by Sebastião Veiga Cabral.
 <br/><br/>
-En 1783 : Spain–United States relations are first established.
+En 1703 : In Edo (now Tokyo), all but one of the Forty-seven Ronin commit seppuku (ritual suicide) as recompense for avenging their master's death.
 <br/><br/>
-En 1781 : American Revolutionary War: British forces seize the Dutch-owned Caribbean island Sint Eustatius.
+En 1555 : John Rogers is burned at the stake, becoming the first English Protestant martyr under Mary I of England.
 <br/><br/>
-En 1716 : The 1716 Algiers earthquake sequence began with an Mw  7.0 mainshock that caused severe damage and killed 20,000 in Algeria.
+En 1454 : Thirteen Years' War: The Secret Council of the Prussian Confederation sends a formal act of disobedience to the Grand Master of the Teutonic Knights, sparking the Thirteen Years' War.
 <br/><br/>
-En 1706 : During the Battle of Fraustadt Swedish forces defeat a superior Saxon-Polish-Russian force by deploying a double envelopment.
+En 1169 : A strong earthquake strikes the Ionian coast of Sicily, causing tens of thousands of injuries and deaths, especially in Catania.
 <br/><br/>
-En 1690 : The colony of Massachusetts issues the first paper money in the Americas.
+En 960 : Zhao Kuangyin declares himself Emperor Taizu of Song, ending the Later Zhou and beginning the Song dynasty.
 <br/><br/>
-En 1661 : Maratha forces under Chattrapati Shivaji Maharaj defeat the Mughals in the Battle of Umberkhind.
-<br/><br/>
-En 1639 : The House of Assembly of Barbados meets for the first time.
-<br/><br/>
-En 1583 : Battle of São Vicente takes place off Portuguese Brazil where three English warships led by navigator Edward Fenton fight off three Spanish galleons sinking one in the process.
-<br/><br/>
-En 1509 : The Portuguese navy defeats a joint fleet of the Ottoman Empire, the Republic of Venice, the Sultan of Gujarat, the Mamlûk Burji Sultanate of Egypt, the Zamorin of Calicut, and the Republic of Ragusa at the Battle of Diu in Diu, India.
-<br/><br/>
-En 1488 : Bartolomeu Dias of Portugal lands in Mossel Bay after rounding the Cape of Good Hope, becoming the first known European to travel so far south.
-<br/><br/>
-En 1451 : Sultan Mehmed II inherits the throne of the Ottoman Empire.
-<br/><br/>
-En 1112 : Ramon Berenguer III, Count of Barcelona, and Douce I, Countess of Provence, marry, uniting the fortunes of those two states.
+En 211 : Following the death of the Roman Emperor Septimius Severus at Eboracum (modern York, England) while preparing to lead a campaign against the Caledonians, the empire is left in the control of his two quarrelling sons, Caracalla and Geta, whom he had instructed to make peace.
 <br/><br/>
