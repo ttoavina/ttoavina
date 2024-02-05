@@ -4,93 +4,95 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 4/2 ?(Hover on the year)</h1>
+<h1> What happen this day 5/2 ?(Hover on the year)</h1>
 
-En 2020 : The COVID-19 pandemic causes all casinos in Macau to be closed down for 15 days.
+En 2021 : Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested.
 <br/><br/>
-En 2015 : TransAsia Airways Flight 235, with 58 people on board, en route from the Taiwanese capital Taipei to Kinmen, crashes into the Keelung River just after takeoff, killing 43 people.
+En 2020 : United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial.
 <br/><br/>
-En 2008 : Civic mobilizations in Colombia against FARC, under the name A million voices against the FARC.
+En 2019 : Pope Francis becomes the first Pope in history to visit and perform papal mass in the Arabian Peninsula during his visit to Abu Dhabi.
 <br/><br/>
-En 2004 : Facebook, a mainstream online social networking site, is founded by Mark Zuckerberg and Eduardo Saverin.
+En 2008 : A major tornado outbreak across the Southern United States kills 57.
 <br/><br/>
-En 2003 : The Federal Republic of Yugoslavia adopts a new constitution, becoming a loose confederacy between Montenegro and Serbia.
+En 2004 : Rebels from the Revolutionary Artibonite Resistance Front capture the city of Gonaïves, starting the 2004 Haiti rebellion.
 <br/><br/>
-En 2000 : The World Summit Against Cancer for the New Millennium, Charter of Paris is signed by the President of France, Jacques Chirac and the Director General of UNESCO, Koichiro Matsuura, initiating World Cancer Day which is held on February 4 every year.
+En 2000 : Russian forces massacre at least 60 civilians in the Novye Aldi suburb of Grozny, Chechnya.
 <br/><br/>
-En 1999 : Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
+En 1997 : The so-called Big Three banks in Switzerland announce the creation of a $71 million fund to aid Holocaust survivors and their families.
 <br/><br/>
-En 1998 : The 5.9 Mw  Afghanistan earthquake shakes the Takhar Province with a maximum Mercalli intensity of VII (Very strong). With 2,323 killed, and 818 injured, damage is considered extreme.
+En 1994 : Byron De La Beckwith is convicted of the 1963 murder of civil rights leader Medgar Evers.
 <br/><br/>
-En 1997 : En route to Lebanon, two Israeli Sikorsky CH-53 troop-transport helicopters collide in mid-air over northern Galilee, Israel, killing 73.
+En 1994 : Markale massacres, more than 60 people are killed and some 200 wounded as a mortar shell explodes in a downtown marketplace in Sarajevo.
 <br/><br/>
-En 1997 : The Bojnurd earthquake measuring Mw  6.5 strikes Iran. With a Mercalli intensity of VIII, it kills at least 88 and damages 173 villages.
+En 1988 : Manuel Noriega is indicted on drug smuggling and money laundering charges.
 <br/><br/>
-En 1992 : A coup d'état is led by Hugo Chávez against Venezuelan President Carlos Andrés Pérez.
+En 1985 : Ugo Vetere, then the mayor of Rome, and Chedli Klibi, then the mayor of Carthage, meet in Tunis to sign a treaty of friendship officially ending the Third Punic War which lasted 2,131 years.
 <br/><br/>
-En 1977 : A Chicago Transit Authority elevated train rear-ends another and derails, killing 11 and injuring 180, the worst accident in the agency's history.
+En 1981 : Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies.
 <br/><br/>
-En 1976 : In Guatemala and Honduras an earthquake kills more than 22,000.
+En 1975 : Riots break out in Lima, Peru after the police forces go on strike the day before. The uprising (locally known as the Limazo) is bloodily suppressed by the military dictatorship.
 <br/><br/>
-En 1975 : Haicheng earthquake (magnitude 7.3 on the Richter scale) occurs in Haicheng, Liaoning, China.
+En 1971 : Astronauts land on the Moon in the Apollo 14 mission.
 <br/><br/>
-En 1974 : The Symbionese Liberation Army kidnaps Patty Hearst in Berkeley, California.
+En 1967 : Cultural Revolution: The Shanghai People's Commune is formally proclaimed, with Yao Wenyuan and Zhang Chunqiao being appointed as its leaders.
 <br/><br/>
-En 1974 : M62 coach bombing: The Provisional Irish Republican Army (IRA) explodes a bomb on a bus carrying off-duty British Armed Forces personnel in Yorkshire, England. Nine soldiers and three civilians are killed.
+En 1963 : The European Court of Justice's ruling in Van Gend en Loos v Nederlandse Administratie der Belastingen establishes the principle of direct effect, one of the most important, if not the most important, decisions in the development of European Union law.
 <br/><br/>
-En 1967 : Lunar Orbiter program: Lunar Orbiter 3 lifts off from Cape Canaveral's Launch Complex 13 on its mission to identify possible landing sites for the Surveyor and Apollo spacecraft.
+En 1962 : French President Charles de Gaulle calls for Algeria to be granted independence.
 <br/><br/>
-En 1966 : All Nippon Airways Flight 60 plunges into Tokyo Bay, killing 133.
+En 1958 : Gamal Abdel Nasser is nominated to be the first president of the United Arab Republic.
 <br/><br/>
-En 1961 : The Angolan War of Independence and the greater Portuguese Colonial War begin.
+En 1958 : A hydrogen bomb known as the Tybee Bomb is lost by the US Air Force off the coast of Savannah, Georgia, never to be recovered.
 <br/><br/>
-En 1948 : Ceylon (later renamed Sri Lanka) becomes independent within the British Commonwealth.
+En 1945 : World War II: General Douglas MacArthur returns to Manila.
 <br/><br/>
-En 1945 : World War II: Santo Tomas Internment Camp is liberated from Japanese authority.
+En 1941 : World War II: Allied forces begin the Battle of Keren to capture Keren, Eritrea.
 <br/><br/>
-En 1945 : World War II: The Yalta Conference between the "Big Three" (Churchill, Roosevelt, and Stalin) opens at the Livadia Palace in the Crimea.
+En 1939 : Generalísimo Francisco Franco becomes the 68th "Caudillo de España", or Leader of Spain.
 <br/><br/>
-En 1945 : World War II: The British Indian Army and Imperial Japanese Army begin a series of battles known as the Battle of Pokoku and Irrawaddy River operations.
+En 1933 : Mutiny on Royal Netherlands Navy warship HNLMS De Zeven Provinciën off the coast of Sumatra, Dutch East Indies.
 <br/><br/>
-En 1941 : The United Service Organization (USO) is created to entertain American troops.
+En 1924 : The Royal Greenwich Observatory begins broadcasting the hourly time signals known as the Greenwich Time Signal.
 <br/><br/>
-En 1938 : Adolf Hitler appoints himself as head of the Armed Forces High Command.
+En 1919 : Charlie Chaplin, Mary Pickford, Douglas Fairbanks, and D. W. Griffith launch United Artists.
 <br/><br/>
-En 1932 : Second Sino-Japanese War: Harbin, Manchuria, falls to Japan.
+En 1918 : Stephen W. Thompson shoots down a German airplane; this is the first aerial victory by the U.S. military.
 <br/><br/>
-En 1899 : The Philippine–American War begins when four Filipino soldiers enter the "American Zone" in Manila, igniting the Battle of Manila.
+En 1918 : SS Tuscania is torpedoed off the coast of Ireland; it is the first ship carrying American troops to Europe to be torpedoed and sunk.
 <br/><br/>
-En 1861 : American Civil War: In Montgomery, Alabama, delegates from six breakaway U.S. states meet and initiate the process that would form the Confederate States of America on February 8.
+En 1917 : The current constitution of Mexico is adopted, establishing a federal republic with powers separated into independent executive, legislative, and judicial branches.
 <br/><br/>
-En 1859 : The Codex Sinaiticus is discovered in Egypt.
+En 1917 : The Congress of the United States passes the Immigration Act of 1917 over President Woodrow Wilson's veto.
 <br/><br/>
-En 1846 : The first Mormon pioneers make their exodus from Nauvoo, Illinois, westward towards Salt Lake Valley.
+En 1913 : Greek military aviators, Michael Moutoussis and Aristeidis Moraitinis perform the first naval air mission in history, with a Farman MF.7 hydroplane.
 <br/><br/>
-En 1825 : The Ohio Legislature authorizes the construction of the Ohio and Erie Canal and the Miami and Erie Canal.
+En 1913 : Claudio Monteverdi's last opera L'incoronazione di Poppea was performed theatrically for the first time in more than 250 years.
 <br/><br/>
-En 1820 : The Chilean Navy under the command of Lord Cochrane completes the two-day long Capture of Valdivia with just 300 men and two ships.
+En 1907 : Belgian chemist Leo Baekeland announces the creation of Bakelite, the world's first synthetic plastic.
 <br/><br/>
-En 1810 : Napoleonic Wars: Britain seizes Guadeloupe.
+En 1905 : In Mexico, the General Hospital of Mexico is inaugurated, started with four basic specialties.
 <br/><br/>
-En 1801 : John Marshall is sworn in as Chief Justice of the United States.
+En 1901 : J. P. Morgan incorporates U.S. Steel in the state of New Jersey, although the company would not start doing business until February 25 and the assets of Andrew Carnegie's Carnegie Steel Company, Elbert H. Gary's Federal Steel Company, and William Henry Moore's National Steel Company were not acquired until April 1.
 <br/><br/>
-En 1797 : The Riobamba earthquake strikes Ecuador, causing up to 40,000 casualties.
+En 1885 : King Leopold II of Belgium establishes the Congo as a personal possession.
 <br/><br/>
-En 1794 : The French legislature abolishes slavery throughout all territories of the French First Republic. It would be reestablished in the French West Indies in 1802.
+En 1869 : The largest alluvial gold nugget in history, called the "Welcome Stranger", is found in Moliagul, Victoria, Australia.
 <br/><br/>
-En 1789 : George Washington is unanimously elected as the first President of the United States by the U.S. Electoral College.
+En 1862 : Moldavia and Wallachia formally unite to create the Romanian United Principalities.
 <br/><br/>
-En 1758 : The city of Macapá in Brazil is founded by Sebastião Veiga Cabral.
+En 1859 : Alexandru Ioan Cuza, Prince of Moldavia, is also elected as prince of Wallachia, joining the two principalities as a personal union called the United Principalities, an autonomous region within the Ottoman Empire, which ushered in the birth of the modern Romanian state.
 <br/><br/>
-En 1703 : In Edo (now Tokyo), all but one of the Forty-seven Ronin commit seppuku (ritual suicide) as recompense for avenging their master's death.
+En 1852 : The New Hermitage Museum in Saint Petersburg, Russia, one of the largest and oldest museums in the world, opens to the public.
 <br/><br/>
-En 1555 : John Rogers is burned at the stake, becoming the first English Protestant martyr under Mary I of England.
+En 1818 : Jean-Baptiste Bernadotte ascends to the thrones of Sweden and Norway.
 <br/><br/>
-En 1454 : Thirteen Years' War: The Secret Council of the Prussian Confederation sends a formal act of disobedience to the Grand Master of the Teutonic Knights, sparking the Thirteen Years' War.
+En 1810 : Peninsular War: Siege of Cádiz begins.
 <br/><br/>
-En 1169 : A strong earthquake strikes the Ionian coast of Sicily, causing tens of thousands of injuries and deaths, especially in Catania.
+En 1783 : In Calabria, a sequence of strong earthquakes begins.
 <br/><br/>
-En 960 : Zhao Kuangyin declares himself Emperor Taizu of Song, ending the Later Zhou and beginning the Song dynasty.
+En 1597 : A group of early Japanese Christians are killed by the new government of Japan for being seen as a threat to Japanese society.
 <br/><br/>
-En 211 : Following the death of the Roman Emperor Septimius Severus at Eboracum (modern York, England) while preparing to lead a campaign against the Caledonians, the empire is left in the control of his two quarrelling sons, Caracalla and Geta, whom he had instructed to make peace.
+En 1576 : Henry of Navarre abjures Catholicism at Tours and rejoins the Protestant forces in the French Wars of Religion.
+<br/><br/>
+En 62 : Earthquake in Pompeii, Italy.
 <br/><br/>
