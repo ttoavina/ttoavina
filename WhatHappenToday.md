@@ -4,93 +4,91 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 7/2 ?(Hover on the year)</h1>
+<h1> What happen this day 8/2 ?(Hover on the year)</h1>
 
-En 2021 : The 2021 Uttarakhand flood begins.
+En 2014 : A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
 <br/><br/>
-En 2016 : North Korea launches Kwangmyŏngsŏng-4 into outer space violating multiple UN treaties and prompting condemnation from around the world.
+En 2013 : A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
 <br/><br/>
-En 2014 : Scientists announce that the Happisburgh footprints in Norfolk, England, date back to more than 800,000 years ago, making them the oldest known hominid footprints outside Africa.
+En 2010 : Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
 <br/><br/>
-En 2013 : The U.S. state of Mississippi officially certifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was formally ratified by Mississippi in 1995.
+En 1993 : An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
 <br/><br/>
-En 2012 : President Mohamed Nasheed of the Republic of Maldives resigns, after 23 days of anti-governmental protests calling for the release of the Chief Judge unlawfully arrested by the military.
+En 1989 : Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport, killing all 144 passengers on board.
 <br/><br/>
-En 2009 : Bushfires in Victoria leave 173 dead in the worst natural disaster in Australia's history.
+En 1986 : Twenty-three people are killed when a VIA Rail passenger train collides with a Canadian National freight train near the town of Hinton, Alberta, making it one of the worst rail accidents in Canada.
 <br/><br/>
-En 2001 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-98, carrying the Destiny laboratory module to the International Space Station.
+En 1983 : A dust storm hits Melbourne, resulting in the worst drought on record and severe weather conditions in the city.
 <br/><br/>
-En 1999 : Crown Prince Abdullah becomes the King of Jordan on the death of his father, King Hussein.
+En 1983 : Irish race horse Shergar is stolen and allegedly killed by gunmen in a ransom attempt.
 <br/><br/>
-En 1995 : Ramzi Yousef, the mastermind of the 1993 World Trade Center bombing, is arrested in Islamabad, Pakistan.
+En 1974 : The crew of Skylab 4, the last mission to visit the American space station Skylab, returns to Earth after 84 days in space.
 <br/><br/>
-En 1992 : The Maastricht Treaty is signed, leading to the creation of the European Union.
+En 1971 : The NASDAQ stock market index opens for the first time.
 <br/><br/>
-En 1991 : Haiti's first democratically elected president, Jean-Bertrand Aristide, is sworn in.
+En 1971 : South Vietnamese ground troops launch an incursion into Laos to try to cut off the Ho Chi Minh trail and stop communist infiltration into the country.
 <br/><br/>
-En 1991 : The Troubles: The Provisional IRA launches a mortar attack on 10 Downing Street in London, the headquarters of the British government.
+En 1968 : American civil rights movement: An attack on Black students from South Carolina State University who are protesting racial segregation leaves three dead and 28 injured in Orangeburg, South Carolina.
 <br/><br/>
-En 1990 : Dissolution of the Soviet Union: The Central Committee of the Soviet Communist Party agrees to give up its monopoly on power.
+En 1965 : Eastern Air Lines Flight 663 crashes into the Atlantic Ocean and explodes, killing all 84 people onboard.
 <br/><br/>
-En 1986 : Twenty-eight years of one-family rule end in Haiti, when President Jean-Claude Duvalier flees the Caribbean nation.
+En 1963 : The regime of Prime Minister of Iraq Abd al-Karim Qasim is overthrown by the Ba'ath Party.
 <br/><br/>
-En 1984 : Space Shuttle program: STS-41-B Mission: Astronauts Bruce McCandless II and Robert L. Stewart make the first untethered space walk using the Manned Maneuvering Unit (MMU).
+En 1962 : Nine protestors are killed at Charonne station, Paris, by French police under the command of ex-Vichy official and Parisian Prefect of Police Maurice Papon.
 <br/><br/>
-En 1981 : A plane crash at Pushkin Airport kills 50 people, including 16 members of the Pacific Fleet.
+En 1960 : Queen Elizabeth II issues an Order-in-Council, proclaiming the House of Windsor and declaring that her descendants will take the name Mountbatten-Windsor.
 <br/><br/>
-En 1979 : Pluto moves inside Neptune's orbit for the first time since either was discovered.
+En 1960 : The Hollywood Walk of Fame is founded.
 <br/><br/>
-En 1974 : Grenada gains independence from the United Kingdom.
+En 1950 : The Stasi, the secret police of East Germany, is established.
 <br/><br/>
-En 1962 : The United States bans all Cuban imports and exports.
+En 1946 : The People's Republic of Korea is dissolved in the North and replaced by the communist-controlled Provisional People's Committee of North Korea.
 <br/><br/>
-En 1951 : Korean War: More than 700 suspected communist sympathizers are massacred by South Korean forces.
+En 1945 : World War II: British and Canadian forces commence Operation Veritable to occupy land between the Maas and Rhine rivers.
 <br/><br/>
-En 1944 : World War II: In Anzio, Italy, German forces launch a counteroffensive during the Allied Operation Shingle.
+En 1945 : World War II: Mikhail Devyataev escapes with nine other Soviet POWs from a Nazi concentration camp in Peenemünde, Usedom.
 <br/><br/>
-En 1943 : World War II: Imperial Japanese Navy forces complete the evacuation of Imperial Japanese Army troops from Guadalcanal during Operation Ke, ending Japanese attempts to retake the island from Allied forces in the Guadalcanal Campaign.
+En 1942 : World War II: Japan invades Singapore.
 <br/><br/>
-En 1940 : The second full-length animated Walt Disney film, Pinocchio, premieres.
+En 1937 : Spanish Civil War: Republican forces establish the Interprovincial Council of Santander, Palencia and Burgos in Cantabria.
 <br/><br/>
-En 1904 : A fire begins in Baltimore, Maryland; it destroys over 1,500 buildings in 30 hours.
+En 1924 : The first state execution in the United States by gas chamber takes place in Nevada.
 <br/><br/>
-En 1900 : Second Boer War: British troops fail in their third attempt to lift the Siege of Ladysmith.
+En 1915 : D. W. Griffith's controversial landmark film The Birth of a Nation premieres in Los Angeles.
 <br/><br/>
-En 1900 : A Chinese immigrant in San Francisco falls ill to bubonic plague in the first plague epidemic in the continental United States.
+En 1910 : The Boy Scouts of America is incorporated by William D. Boyce.
 <br/><br/>
-En 1898 : Dreyfus affair: Émile Zola is brought to trial for libel for publishing J'Accuse...!
+En 1904 : Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.
 <br/><br/>
-En 1894 : The Cripple Creek miner's strike, led by the Western Federation of Miners, begins in Cripple Creek, Colorado, United States.
+En 1904 : The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.
 <br/><br/>
-En 1863 : HMS Orpheus sinks off the coast of Auckland, New Zealand, killing 189.
+En 1887 : The Dawes Act is enacted, authorizing the U.S. President to divide Native American tribal land into individual allotments.
 <br/><br/>
-En 1854 : A law is approved to found the Swiss Federal Institute of Technology. Lectures started October 16, 1855.
+En 1885 : The first Japanese immigrants arrive in Hawaii.
 <br/><br/>
-En 1842 : Battle of Debre Tabor: Ras Ali Alula, Regent of the Emperor of Ethiopia defeats warlord Wube Haile Maryam of Semien.
+En 1879 : Sandford Fleming first proposes the adoption of Universal Standard Time at a meeting of the Royal Canadian Institute.
 <br/><br/>
-En 1819 : Sir Thomas Stamford Raffles leaves Singapore after just taking it over, leaving it in the hands of William Farquhar.
+En 1879 : England's cricket team, led by Lord Harris, is attacked in a riot during a match in Sydney.
 <br/><br/>
-En 1813 : In the action of 7 February 1813 near the Îles de Los, the frigates Aréthuse and Amelia batter each other, but neither can gain the upper hand.
+En 1865 : Delaware refuses to ratify the Thirteenth Amendment to the U.S. Constitution, delaying the criminalization of slavery until the amendment's national adoption on December 6, 1865. The amendment is ultimately ratified by Delaware on February 12, 1901, the 92nd anniversary of Abraham Lincoln's birth.
 <br/><br/>
-En 1812 : The strongest in a series of earthquakes strikes New Madrid, Missouri.
+En 1837 : Richard Johnson becomes the first and only Vice President of the United States chosen by the Senate.
 <br/><br/>
-En 1807 : Napoleonic Wars: Napoleon finds Bennigsen's Russian forces taking a stand at Eylau. After bitter fighting, the French take the town, but the Russians resume the battle the next day.
+En 1817 : An army led by Grand Marshal Las Heras crosses the Andes to join San Martín in the liberation of Chile from Spain.
 <br/><br/>
-En 1795 : The 11th Amendment to the United States Constitution is ratified.
+En 1807 : Napoleon defeats the coalition forces of Russian General Bennigsen and Prussian General L'Estocq at the Battle of Eylau.
 <br/><br/>
-En 1783 : American Revolutionary War: French and Spanish forces lift the Great Siege of Gibraltar.
+En 1693 : The College of William & Mary in Williamsburg, Virginia, the second-oldest institution of higher education in the Thirteen Colonies, is granted a charter by King William III and Queen Mary II.
 <br/><br/>
-En 1756 : Guaraní War: The leader of the Guaraní rebels, Sepé Tiaraju, is killed in a skirmish with Spanish and Portuguese troops.
+En 1601 : Robert Devereux, 2nd Earl of Essex, unsuccessfully rebels against Queen Elizabeth I.
 <br/><br/>
-En 1497 : In Florence, Italy, supporters of Girolamo Savonarola burn cosmetics, art, and books, in a "Bonfire of the vanities".
+En 1587 : Mary, Queen of Scots is executed on suspicion of having been involved in the Babington Plot to murder her cousin, Queen Elizabeth I.
 <br/><br/>
-En 1365 : Albert III of Mecklenburg (King Albert of Sweden) grants city rights to Ulvila (Swedish: Ulvsby).
+En 1347 : The Byzantine civil war of 1341–47 ends with a power-sharing agreement between John VI Kantakouzenos and John V Palaiologos.
 <br/><br/>
-En 1313 : King Thihathu founds the Pinya Kingdom as the de jure successor state of the Pagan Kingdom.
+En 1250 : Seventh Crusade: Crusaders engage Ayyubid forces in the Battle of Al Mansurah.
 <br/><br/>
-En 1301 : Edward of Caernarvon (later king Edward II of England) becomes the first English Prince of Wales.
+En 1238 : The Mongols burn the Russian city of Vladimir.
 <br/><br/>
-En 987 : Bardas Phokas the Younger and Bardas Skleros, Byzantine generals of the military elite, begin a wide-scale rebellion against Emperor Basil II.
-<br/><br/>
-En 457 : Leo I becomes the Eastern Roman emperor.
+En 421 : Constantius III becomes co-emperor of the Western Roman Empire.
 <br/><br/>
