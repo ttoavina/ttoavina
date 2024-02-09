@@ -4,91 +4,113 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 8/2 ?(Hover on the year)</h1>
+<h1> What happen this day 9/2 ?(Hover on the year)</h1>
 
-En 2014 : A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
+En 2021 : Second impeachment trial of Donald Trump begins.
 <br/><br/>
-En 2013 : A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
+En 2020 : Salvadoran President Nayib Bukele has the army soldiers enter the Legislative Assembly to assist in pushing for the approval for a better government security plan, causing a brief political crisis.
 <br/><br/>
-En 2010 : Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
+En 2018 : Winter Olympics: Opening ceremony is performed in Pyeongchang County in South Korea.
 <br/><br/>
-En 1993 : An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
+En 2016 : Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. Twelve people die and 85 others are injured.
 <br/><br/>
-En 1989 : Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport, killing all 144 passengers on board.
+En 2001 : The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor.
 <br/><br/>
-En 1986 : Twenty-three people are killed when a VIA Rail passenger train collides with a Canadian National freight train near the town of Hinton, Alberta, making it one of the worst rail accidents in Canada.
+En 1996 : The Provisional Irish Republican Army declares the end to its 18-month ceasefire and explodes a large bomb in London's Canary Wharf, killing two people.
 <br/><br/>
-En 1983 : A dust storm hits Melbourne, resulting in the worst drought on record and severe weather conditions in the city.
+En 1996 : Copernicium is discovered by Sigurd Hofmann, Victor Ninov et al.
 <br/><br/>
-En 1983 : Irish race horse Shergar is stolen and allegedly killed by gunmen in a ransom attempt.
+En 1991 : Dissolution of the Soviet Union: Voters in Lithuania vote for independence from the Soviet Union.
 <br/><br/>
-En 1974 : The crew of Skylab 4, the last mission to visit the American space station Skylab, returns to Earth after 84 days in space.
+En 1986 : Halley's Comet last appeared in the inner Solar System.
 <br/><br/>
-En 1971 : The NASDAQ stock market index opens for the first time.
+En 1982 : Japan Air Lines Flight 350 crashes near Haneda Airport in an attempted pilot mass murder-suicide, killing 24 of the 174 people on board.
 <br/><br/>
-En 1971 : South Vietnamese ground troops launch an incursion into Laos to try to cut off the Ho Chi Minh trail and stop communist infiltration into the country.
+En 1978 : The Budd Company unveils its first SPV-2000 self-propelled railcar in Philadelphia, Pennsylvania.
 <br/><br/>
-En 1968 : American civil rights movement: An attack on Black students from South Carolina State University who are protesting racial segregation leaves three dead and 28 injured in Orangeburg, South Carolina.
+En 1976 : Aeroflot Flight 3739, a Tupolev Tu-104, crashes during takeoff from Irkutsk Airport, killing 24.
 <br/><br/>
-En 1965 : Eastern Air Lines Flight 663 crashes into the Atlantic Ocean and explodes, killing all 84 people onboard.
+En 1975 : The Soyuz 17 Soviet spacecraft returns to Earth.
 <br/><br/>
-En 1963 : The regime of Prime Minister of Iraq Abd al-Karim Qasim is overthrown by the Ba'ath Party.
+En 1971 : The 6.5–6.7 Mw  Sylmar earthquake hits the Greater Los Angeles Area with a maximum Mercalli intensity of XI (Extreme), killing 64 and injuring 2,000.
 <br/><br/>
-En 1962 : Nine protestors are killed at Charonne station, Paris, by French police under the command of ex-Vichy official and Parisian Prefect of Police Maurice Papon.
+En 1971 : Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame.
 <br/><br/>
-En 1960 : Queen Elizabeth II issues an Order-in-Council, proclaiming the House of Windsor and declaring that her descendants will take the name Mountbatten-Windsor.
+En 1971 : Apollo program: Apollo 14 returns to Earth after the third human Moon landing.
 <br/><br/>
-En 1960 : The Hollywood Walk of Fame is founded.
+En 1965 : Vietnam War: The United States Marine Corps sends a MIM-23 Hawk missile battalion to South Vietnam, the first American troops in-country without an official advisory or training mission.
 <br/><br/>
-En 1950 : The Stasi, the secret police of East Germany, is established.
+En 1964 : The Beatles make their first appearance on The Ed Sullivan Show, performing before a record-setting audience of 73 million viewers across the United States.
 <br/><br/>
-En 1946 : The People's Republic of Korea is dissolved in the North and replaced by the communist-controlled Provisional People's Committee of North Korea.
+En 1961 : The Beatles at The Cavern Club: Lunchtime – The Beatles perform under this name at The Cavern Club for the first time following their return to Liverpool from Hamburg.
 <br/><br/>
-En 1945 : World War II: British and Canadian forces commence Operation Veritable to occupy land between the Maas and Rhine rivers.
+En 1959 : The R-7 Semyorka, the first intercontinental ballistic missile, becomes operational at Plesetsk, USSR.
 <br/><br/>
-En 1945 : World War II: Mikhail Devyataev escapes with nine other Soviet POWs from a Nazi concentration camp in Peenemünde, Usedom.
+En 1951 : Korean War: The two-day Geochang massacre begins as a battalion of the 11th Division of the South Korean Army kills 719 unarmed citizens in Geochang, in the South Gyeongsang district of South Korea.
 <br/><br/>
-En 1942 : World War II: Japan invades Singapore.
+En 1950 : Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists.
 <br/><br/>
-En 1937 : Spanish Civil War: Republican forces establish the Interprovincial Council of Santander, Palencia and Burgos in Cantabria.
+En 1945 : World War II: Battle of the Atlantic: HMS Venturer sinks U-864 off the coast of Fedje, Norway, in a rare instance of submarine-to-submarine combat.
 <br/><br/>
-En 1924 : The first state execution in the United States by gas chamber takes place in Nevada.
+En 1945 : World War II: A force of Allied aircraft unsuccessfully attack a German destroyer in Førdefjorden, Norway.
 <br/><br/>
-En 1915 : D. W. Griffith's controversial landmark film The Birth of a Nation premieres in Los Angeles.
+En 1943 : World War II: Pacific War: Allied authorities declare Guadalcanal secure after Imperial Japan evacuates its remaining forces from the island, ending the Battle of Guadalcanal.
 <br/><br/>
-En 1910 : The Boy Scouts of America is incorporated by William D. Boyce.
+En 1942 : Year-round Daylight saving time (aka War Time) is reinstated in the United States as a wartime measure to help conserve energy resources.
 <br/><br/>
-En 1904 : Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.
+En 1941 : World War II: Bombing of Genoa: The Cathedral of San Lorenzo in Genoa, Italy, is struck by a bomb which fails to detonate.
 <br/><br/>
-En 1904 : The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.
+En 1934 : The Balkan Entente is formed between Greece, Romania, Yugoslavia, and Turkey.
 <br/><br/>
-En 1887 : The Dawes Act is enacted, authorizing the U.S. President to divide Native American tribal land into individual allotments.
+En 1932 : Prohibition law is abolished in Finland after a national referendum, where 70% voted for a repeal of the law.
 <br/><br/>
-En 1885 : The first Japanese immigrants arrive in Hawaii.
+En 1929 : Members of the Việt Nam Quốc Dân Đảng assassinate the labor recruiter Bazin, prompting a crackdown by French colonial authorities.
 <br/><br/>
-En 1879 : Sandford Fleming first proposes the adoption of Universal Standard Time at a meeting of the Royal Canadian Institute.
+En 1922 : Brazil becomes a member of the Berne Convention copyright treaty.
 <br/><br/>
-En 1879 : England's cricket team, led by Lord Harris, is attacked in a riot during a match in Sydney.
+En 1920 : Under the terms of the Svalbard Treaty, international diplomacy recognizes Norwegian sovereignty over Arctic archipelago Svalbard, and designates it as demilitarized.
 <br/><br/>
-En 1865 : Delaware refuses to ratify the Thirteenth Amendment to the U.S. Constitution, delaying the criminalization of slavery until the amendment's national adoption on December 6, 1865. The amendment is ultimately ratified by Delaware on February 12, 1901, the 92nd anniversary of Abraham Lincoln's birth.
+En 1913 : A group of meteors is visible across much of the eastern seaboard of the Americas, leading astronomers to conclude the source had been a small, short-lived natural satellite of the Earth.
 <br/><br/>
-En 1837 : Richard Johnson becomes the first and only Vice President of the United States chosen by the Senate.
+En 1907 : The Mud March is the first large procession organised by the National Union of Women's Suffrage Societies (NUWSS).
 <br/><br/>
-En 1817 : An army led by Grand Marshal Las Heras crosses the Andes to join San Martín in the liberation of Chile from Spain.
+En 1904 : Russo-Japanese War: Battle of Port Arthur concludes.
 <br/><br/>
-En 1807 : Napoleon defeats the coalition forces of Russian General Bennigsen and Prussian General L'Estocq at the Battle of Eylau.
+En 1900 : The Davis Cup competition is established.
 <br/><br/>
-En 1693 : The College of William & Mary in Williamsburg, Virginia, the second-oldest institution of higher education in the Thirteen Colonies, is granted a charter by King William III and Queen Mary II.
+En 1895 : William G. Morgan creates a game called Mintonette, which soon comes to be referred to as volleyball.
 <br/><br/>
-En 1601 : Robert Devereux, 2nd Earl of Essex, unsuccessfully rebels against Queen Elizabeth I.
+En 1893 : Verdi's last opera, Falstaff premieres at La Scala, Milan.
 <br/><br/>
-En 1587 : Mary, Queen of Scots is executed on suspicion of having been involved in the Babington Plot to murder her cousin, Queen Elizabeth I.
+En 1889 : US president Grover Cleveland signs a bill elevating the United States Department of Agriculture to a Cabinet-level agency.
 <br/><br/>
-En 1347 : The Byzantine civil war of 1341–47 ends with a power-sharing agreement between John VI Kantakouzenos and John V Palaiologos.
+En 1870 : US president Ulysses S. Grant signs a joint resolution of Congress establishing the U.S. Weather Bureau.
 <br/><br/>
-En 1250 : Seventh Crusade: Crusaders engage Ayyubid forces in the Battle of Al Mansurah.
+En 1861 : American Civil War: Jefferson Davis is elected the Provisional President of the Confederate States of America by the Provisional Confederate Congress at Montgomery, Alabama
 <br/><br/>
-En 1238 : The Mongols burn the Russian city of Vladimir.
+En 1849 : The new Roman Republic is declared.
 <br/><br/>
-En 421 : Constantius III becomes co-emperor of the Western Roman Empire.
+En 1825 : After no candidate receives a majority of electoral votes in the US presidential election of 1824, the United States House of Representatives elects John Quincy Adams as sixth President of the United States in a contingent election.
+<br/><br/>
+En 1822 : Haiti attacks the newly established Dominican Republic on the other side of the island of Hispaniola.
+<br/><br/>
+En 1788 : The Habsburg Empire joins the Russo-Turkish War in the Russian camp.
+<br/><br/>
+En 1778 : Rhode Island becomes the fourth US state to ratify the Articles of Confederation.
+<br/><br/>
+En 1775 : American Revolutionary War: The British Parliament declares Massachusetts in rebellion.
+<br/><br/>
+En 1654 : The Capture of Fort Rocher takes place during the Anglo-Spanish War.
+<br/><br/>
+En 1621 : Gregory XV becomes Pope, the last Pope elected by acclamation.
+<br/><br/>
+En 1555 : Bishop of Gloucester John Hooper is burned at the stake.
+<br/><br/>
+En 1539 : The first recorded race is held on Chester Racecourse, known as the Roodee.
+<br/><br/>
+En 1098 : A First Crusade army led by Bohemond of Taranto wins a major battle against the Seljuq emir Ridwan of Aleppo during the siege of Antioch
+<br/><br/>
+En 1003 : Boleslaus III is restored to authority with armed support from Bolesław I the Brave of Poland.
+<br/><br/>
+En 474 : Zeno is crowned as co-emperor of the Byzantine Empire.
 <br/><br/>
