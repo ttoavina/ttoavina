@@ -4,113 +4,81 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 9/2 ?(Hover on the year)</h1>
+<h1> What happen this day 10/2 ?(Hover on the year)</h1>
 
-En 2021 : Second impeachment trial of Donald Trump begins.
+En 2021 : The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
 <br/><br/>
-En 2020 : Salvadoran President Nayib Bukele has the army soldiers enter the Legislative Assembly to assist in pushing for the approval for a better government security plan, causing a brief political crisis.
+En 2018 : Nineteen people are killed and 66 injured when a Kowloon Motor Bus double decker on route 872 in Hong Kong overturns.
 <br/><br/>
-En 2018 : Winter Olympics: Opening ceremony is performed in Pyeongchang County in South Korea.
+En 2016 : South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4.
 <br/><br/>
-En 2016 : Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. Twelve people die and 85 others are injured.
+En 2013 : Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.
 <br/><br/>
-En 2001 : The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor.
+En 2009 : The communications satellites Iridium 33 and Kosmos 2251 collide in orbit, destroying both.
 <br/><br/>
-En 1996 : The Provisional Irish Republican Army declares the end to its 18-month ceasefire and explodes a large bomb in London's Canary Wharf, killing two people.
+En 2004 : Forty-three people are killed and three are injured when a Fokker 50 crashes near Sharjah International Airport.
 <br/><br/>
-En 1996 : Copernicium is discovered by Sigurd Hofmann, Victor Ninov et al.
+En 2003 : France and Belgium break the NATO procedure of silent approval concerning the timing of protective measures for Turkey in case of a possible war with Iraq.
 <br/><br/>
-En 1991 : Dissolution of the Soviet Union: Voters in Lithuania vote for independence from the Soviet Union.
+En 1996 : IBM supercomputer Deep Blue defeats Garry Kasparov in chess for the first time.
 <br/><br/>
-En 1986 : Halley's Comet last appeared in the inner Solar System.
+En 1989 : Ron Brown is elected chairman of the Democratic National Committee, becoming the first African American to lead a major American political party.
 <br/><br/>
-En 1982 : Japan Air Lines Flight 350 crashes near Haneda Airport in an attempted pilot mass murder-suicide, killing 24 of the 174 people on board.
+En 1984 : Kenyan soldiers kill an estimated 5,000 ethnic Somali Kenyans in the Wagalla massacre.
 <br/><br/>
-En 1978 : The Budd Company unveils its first SPV-2000 self-propelled railcar in Philadelphia, Pennsylvania.
+En 1972 : Ras Al Khaimah joins the United Arab Emirates, now making up seven emirates.
 <br/><br/>
-En 1976 : Aeroflot Flight 3739, a Tupolev Tu-104, crashes during takeoff from Irkutsk Airport, killing 24.
+En 1967 : The 25th Amendment to the United States Constitution is ratified.
 <br/><br/>
-En 1975 : The Soyuz 17 Soviet spacecraft returns to Earth.
+En 1964 : Melbourne–Voyager collision: The aircraft carrier HMAS Melbourne collides with and sinks the destroyer HMAS Voyager off the south coast of New South Wales, Australia, killing 82.
 <br/><br/>
-En 1971 : The 6.5–6.7 Mw  Sylmar earthquake hits the Greater Los Angeles Area with a maximum Mercalli intensity of XI (Extreme), killing 64 and injuring 2,000.
+En 1962 : Cold War: Captured American U2 spy-plane pilot Gary Powers is exchanged for captured Soviet spy Rudolf Abel.
 <br/><br/>
-En 1971 : Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame.
+En 1954 : U.S. President Dwight D. Eisenhower warns against United States intervention in Vietnam.
 <br/><br/>
-En 1971 : Apollo program: Apollo 14 returns to Earth after the third human Moon landing.
+En 1947 : The Paris Peace Treaties are signed by Italy, Romania, Hungary, Bulgaria, Finland and the Allies of World War II.
 <br/><br/>
-En 1965 : Vietnam War: The United States Marine Corps sends a MIM-23 Hawk missile battalion to South Vietnam, the first American troops in-country without an official advisory or training mission.
+En 1943 : World War II: Attempting to completely lift the Siege of Leningrad, the Soviet Red Army engages German troops and Spanish volunteers in the Battle of Krasny Bor.
 <br/><br/>
-En 1964 : The Beatles make their first appearance on The Ed Sullivan Show, performing before a record-setting audience of 73 million viewers across the United States.
+En 1940 : The Soviet Union begins mass deportations of Polish citizens from occupied eastern Poland to Siberia.
 <br/><br/>
-En 1961 : The Beatles at The Cavern Club: Lunchtime – The Beatles perform under this name at The Cavern Club for the first time following their return to Liverpool from Hamburg.
+En 1939 : Spanish Civil War: The Nationalists conclude their conquest of Catalonia and seal the border with France.
 <br/><br/>
-En 1959 : The R-7 Semyorka, the first intercontinental ballistic missile, becomes operational at Plesetsk, USSR.
+En 1936 : Second Italo-Abyssinian War: Italian troops launch the Battle of Amba Aradam against Ethiopian defenders.
 <br/><br/>
-En 1951 : Korean War: The two-day Geochang massacre begins as a battalion of the 11th Division of the South Korean Army kills 719 unarmed citizens in Geochang, in the South Gyeongsang district of South Korea.
+En 1933 : In round 13 of a boxing match at New York City's Madison Square Garden, Primo Carnera knocks out Ernie Schaaf. Schaaf dies four days later.
 <br/><br/>
-En 1950 : Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists.
+En 1930 : The Việt Nam Quốc Dân Đảng launches the failed Yên Bái mutiny in hope of overthrowing French protectorate over Vietnam.
 <br/><br/>
-En 1945 : World War II: Battle of the Atlantic: HMS Venturer sinks U-864 off the coast of Fedje, Norway, in a rare instance of submarine-to-submarine combat.
+En 1923 : Texas Tech University is founded as Texas Technological College in Lubbock, Texas.
 <br/><br/>
-En 1945 : World War II: A force of Allied aircraft unsuccessfully attack a German destroyer in Førdefjorden, Norway.
+En 1920 : Józef Haller de Hallenburg performs the symbolic wedding of Poland to the sea, celebrating restitution of Polish access to open sea.
 <br/><br/>
-En 1943 : World War II: Pacific War: Allied authorities declare Guadalcanal secure after Imperial Japan evacuates its remaining forces from the island, ending the Battle of Guadalcanal.
+En 1920 : About 75% of the population in Zone I votes to join Denmark in the 1920 Schleswig plebiscites.
 <br/><br/>
-En 1942 : Year-round Daylight saving time (aka War Time) is reinstated in the United States as a wartime measure to help conserve energy resources.
+En 1906 : HMS Dreadnought, the first of a revolutionary new breed of battleships, is christened.
 <br/><br/>
-En 1941 : World War II: Bombing of Genoa: The Cathedral of San Lorenzo in Genoa, Italy, is struck by a bomb which fails to detonate.
+En 1862 : American Civil War: A Union naval flotilla destroys the bulk of the Confederate Mosquito Fleet in the Battle of Elizabeth City on the Pasquotank River in North Carolina.
 <br/><br/>
-En 1934 : The Balkan Entente is formed between Greece, Romania, Yugoslavia, and Turkey.
+En 1861 : Jefferson Davis is notified by telegraph that he has been chosen as provisional President of the Confederate States of America.
 <br/><br/>
-En 1932 : Prohibition law is abolished in Finland after a national referendum, where 70% voted for a repeal of the law.
+En 1846 : First Anglo-Sikh War: Battle of Sobraon: British defeat Sikhs in the final battle of the war.
 <br/><br/>
-En 1929 : Members of the Việt Nam Quốc Dân Đảng assassinate the labor recruiter Bazin, prompting a crackdown by French colonial authorities.
+En 1840 : Queen Victoria of the United Kingdom marries Prince Albert of Saxe-Coburg-Gotha.
 <br/><br/>
-En 1922 : Brazil becomes a member of the Berne Convention copyright treaty.
+En 1814 : Napoleonic Wars: The Battle of Champaubert ends in French victory over the Russians and the Prussians.
 <br/><br/>
-En 1920 : Under the terms of the Svalbard Treaty, international diplomacy recognizes Norwegian sovereignty over Arctic archipelago Svalbard, and designates it as demilitarized.
+En 1763 : French and Indian War: The Treaty of Paris ends the war and France cedes Quebec to Great Britain.
 <br/><br/>
-En 1913 : A group of meteors is visible across much of the eastern seaboard of the Americas, leading astronomers to conclude the source had been a small, short-lived natural satellite of the Earth.
+En 1712 : Huilliches in Chiloé rebel against Spanish encomenderos.
 <br/><br/>
-En 1907 : The Mud March is the first large procession organised by the National Union of Women's Suffrage Societies (NUWSS).
+En 1567 : Lord Darnley, second husband of Mary, Queen of Scots, is found strangled following an explosion at the Kirk o' Field house in Edinburgh, Scotland, a suspected assassination.
 <br/><br/>
-En 1904 : Russo-Japanese War: Battle of Port Arthur concludes.
+En 1502 : Vasco da Gama sets sail from Lisbon, Portugal, on his second voyage to India.
 <br/><br/>
-En 1900 : The Davis Cup competition is established.
+En 1355 : The St Scholastica Day riot breaks out in Oxford, England, leaving 63 scholars and perhaps 30 locals dead in two days.
 <br/><br/>
-En 1895 : William G. Morgan creates a game called Mintonette, which soon comes to be referred to as volleyball.
+En 1306 : In front of the high altar of Greyfriars Church in Dumfries, Robert the Bruce murders John Comyn, sparking the revolution in the Wars of Scottish Independence.
 <br/><br/>
-En 1893 : Verdi's last opera, Falstaff premieres at La Scala, Milan.
-<br/><br/>
-En 1889 : US president Grover Cleveland signs a bill elevating the United States Department of Agriculture to a Cabinet-level agency.
-<br/><br/>
-En 1870 : US president Ulysses S. Grant signs a joint resolution of Congress establishing the U.S. Weather Bureau.
-<br/><br/>
-En 1861 : American Civil War: Jefferson Davis is elected the Provisional President of the Confederate States of America by the Provisional Confederate Congress at Montgomery, Alabama
-<br/><br/>
-En 1849 : The new Roman Republic is declared.
-<br/><br/>
-En 1825 : After no candidate receives a majority of electoral votes in the US presidential election of 1824, the United States House of Representatives elects John Quincy Adams as sixth President of the United States in a contingent election.
-<br/><br/>
-En 1822 : Haiti attacks the newly established Dominican Republic on the other side of the island of Hispaniola.
-<br/><br/>
-En 1788 : The Habsburg Empire joins the Russo-Turkish War in the Russian camp.
-<br/><br/>
-En 1778 : Rhode Island becomes the fourth US state to ratify the Articles of Confederation.
-<br/><br/>
-En 1775 : American Revolutionary War: The British Parliament declares Massachusetts in rebellion.
-<br/><br/>
-En 1654 : The Capture of Fort Rocher takes place during the Anglo-Spanish War.
-<br/><br/>
-En 1621 : Gregory XV becomes Pope, the last Pope elected by acclamation.
-<br/><br/>
-En 1555 : Bishop of Gloucester John Hooper is burned at the stake.
-<br/><br/>
-En 1539 : The first recorded race is held on Chester Racecourse, known as the Roodee.
-<br/><br/>
-En 1098 : A First Crusade army led by Bohemond of Taranto wins a major battle against the Seljuq emir Ridwan of Aleppo during the siege of Antioch
-<br/><br/>
-En 1003 : Boleslaus III is restored to authority with armed support from Bolesław I the Brave of Poland.
-<br/><br/>
-En 474 : Zeno is crowned as co-emperor of the Byzantine Empire.
+En 1258 : The Siege of Baghdad ends with the surrender of the last Abbasid caliph to Hulegu Khan, a prince of the Mongol Empire.
 <br/><br/>
