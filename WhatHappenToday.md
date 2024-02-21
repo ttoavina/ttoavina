@@ -4,105 +4,85 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 20/2 ?(Hover on the year)</h1>
+<h1> What happen this day 21/2 ?(Hover on the year)</h1>
 
-En 2016 : Six people are killed and two injured in multiple shooting incidents in Kalamazoo County, Michigan.
+En 2022 : In the  Russo-Ukrainian crisis Russian President Vladimir Putin declares the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, and moves troops into the region. The action is condemned by the United Nations.
 <br/><br/>
-En 2015 : Two trains collide in the Swiss town of Rafz resulting in as many as 49 people injured and Swiss Federal Railways cancelling some services.
+En 2013 : At least 17 people are killed and 119 injured following several bombings in the Indian city of Hyderabad.
 <br/><br/>
-En 2014 : Dozens of Euromaidan anti-government protesters died in Ukraine's capital Kyiv, many reportedly killed by snipers.
+En 1995 : Steve Fossett lands in Leader, Saskatchewan, Canada becoming the first person to make a solo flight across the Pacific Ocean in a balloon.
 <br/><br/>
-En 2010 : In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago.
+En 1994 : Aldrich Ames is arrested by the Federal Bureau of Investigation for selling national secrets to the Soviet Union in Arlington County, Virginia.
 <br/><br/>
-En 2009 : Two Tamil Tigers aircraft packed with C4 explosives en route to the national airforce headquarters are shot down by the Sri Lankan military before reaching their target, in a kamikaze style attack.
+En 1975 : Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison.
 <br/><br/>
-En 2005 : Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout.
+En 1974 : The last Israeli soldiers leave the west bank of the Suez Canal pursuant to a truce with Egypt.
 <br/><br/>
-En 2003 : During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
+En 1973 : Over the Sinai Desert, Israeli fighter aircraft shoot down Libyan Arab Airlines Flight 114 jet killing 108 people.
 <br/><br/>
-En 1998 : American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan.
+En 1972 : United States President Richard Nixon visits China to normalize Sino-American relations.
 <br/><br/>
-En 1991 : In the Albanian capital Tirana, a gigantic statue of Albania's long-time leader, Enver Hoxha, is brought down by mobs of angry protesters.
+En 1972 : The Soviet uncrewed spaceship Luna 20 lands on the Moon.
 <br/><br/>
-En 1988 : The Nagorno-Karabakh Autonomous Oblast votes to secede from Azerbaijan and join Armenia, triggering the First Nagorno-Karabakh War.
+En 1971 : The Convention on Psychotropic Substances is signed at Vienna.
 <br/><br/>
-En 1986 : The Soviet Union launches its Mir spacecraft. Remaining in orbit for 15 years, it is occupied for ten of those years.
+En 1958 : The CND symbol, aka peace symbol, commissioned by the Direct Action Committee in protest against the Atomic Weapons Research Establishment, is designed and completed by Gerald Holtom.
 <br/><br/>
-En 1979 : An earthquake cracks open the Sinila volcanic crater on the Dieng Plateau, releasing poisonous H2S gas and killing 149 villagers in the Indonesian province of Central Java.
+En 1952 : The British government, under Winston Churchill, abolishes identity cards in the UK to "set the people free".
 <br/><br/>
-En 1971 : The United States Emergency Broadcast System is accidentally activated in an erroneous national alert.
+En 1952 : The Bengali Language Movement protests occur at the University of Dhaka in East Pakistan (now Bangladesh).
 <br/><br/>
-En 1968 : The China Academy of Space Technology, China's main arm for the research, development, and creation of space satellites, is established in Beijing.
+En 1948 : NASCAR is incorporated.
 <br/><br/>
-En 1965 : Ranger 8 crashes into the Moon after a successful mission of photographing possible landing sites for  the Apollo program astronauts.
+En 1947 : In New York City, Edwin Land demonstrates the first "instant camera", the Polaroid Land Camera, to a meeting of the Optical Society of America.
 <br/><br/>
-En 1962 : Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes.
+En 1945 : World War II: During the Battle of Iwo Jima, Japanese kamikaze planes sink the escort carrier USS Bismarck Sea and damage the USS Saratoga.
 <br/><br/>
-En 1959 : The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate.
+En 1945 : World War II:  the Brazilian Expeditionary Force defeat the German forces in the Battle of Monte Castello on the Italian front.
 <br/><br/>
-En 1956 : The United States Merchant Marine Academy becomes a permanent Service Academy.
+En 1937 : The League of Nations bans foreign national "volunteers" in the Spanish Civil War.
 <br/><br/>
-En 1952 : Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League.
+En 1929 : In the first battle of the Warlord Rebellion in northeastern Shandong against the Nationalist government of China, a 24,000-strong rebel force led by Zhang Zongchang was defeated at Zhifu by 7,000 NRA troops.
 <br/><br/>
-En 1944 : World War II: The "Big Week" began with American bomber raids on German aircraft manufacturing centers.
+En 1925 : The New Yorker publishes its first issue.
 <br/><br/>
-En 1944 : World War II: The United States takes Eniwetok Atoll.
+En 1921 : Constituent Assembly of the Democratic Republic of Georgia adopts the country's first constitution.
 <br/><br/>
-En 1943 : World War II: American movie studio executives agree to allow the Office of War Information to censor movies.
+En 1921 : Rezā Shāh takes control of Tehran during a successful coup.
 <br/><br/>
-En 1943 : The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms.
+En 1919 : German socialist Kurt Eisner is assassinated. His death results in the establishment of the Bavarian Soviet Republic and parliament and government fleeing Munich, Germany.
 <br/><br/>
-En 1942 : World War II: Lieutenant Edward O'Hare becomes America's first World War II flying ace.
+En 1918 : The last Carolina parakeet dies in captivity at the Cincinnati Zoo.
 <br/><br/>
-En 1939 : Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present.
+En 1916 : World War I: In France, the Battle of Verdun begins.
 <br/><br/>
-En 1935 : Caroline Mikkelsen becomes the first woman to set foot in Antarctica.
+En 1913 : Ioannina is incorporated into the Greek state after the Balkan Wars.
 <br/><br/>
-En 1933 : The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval.
+En 1896 : An Englishman raised in Australia, Bob Fitzsimmons, fought an Irishman, Peter Maher, in an American promoted event which technically took place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
 <br/><br/>
-En 1933 : Adolf Hitler secretly meets with German industrialists to arrange for financing of the Nazi Party's upcoming election campaign.
+En 1885 : The newly completed Washington Monument is dedicated.
 <br/><br/>
-En 1931 : The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California.
+En 1878 : The first telephone directory is issued in New Haven, Connecticut.
 <br/><br/>
-En 1931 : An anarchist uprising in Encarnación, Paraguay briefly transforms the city into a revolutionary commune.
+En 1874 : The Oakland Daily Tribune publishes its first edition.
 <br/><br/>
-En 1920 : An earthquake kills between 114 and 130 in Georgia and heavily damages the town of Gori.
+En 1862 : American Civil War: Battle of Valverde is fought near Fort Craig in New Mexico Territory.
 <br/><br/>
-En 1913 : King O'Malley drives in the first survey peg to mark commencement of work on the construction of Canberra.
+En 1848 : Karl Marx and Friedrich Engels publish The Communist Manifesto.
 <br/><br/>
-En 1909 : Publication of the Futurist Manifesto in the French journal Le Figaro.
+En 1842 : John Greenough is granted the first U.S. patent for the sewing machine.
 <br/><br/>
-En 1905 : The U.S. Supreme Court upholds the constitutionality of Massachusetts's mandatory smallpox vaccination program in Jacobson v. Massachusetts.
+En 1828 : Initial issue of the Cherokee Phoenix is the first periodical to use the Cherokee syllabary invented by Sequoyah.
 <br/><br/>
-En 1901 : The legislature of Hawaii Territory convenes for the first time.
+En 1808 : Without a previous declaration of war, Russian troops cross the border to Sweden at Abborfors in eastern Finland, thus beginning the Finnish War, in which Sweden will lose the eastern half of the country (i.e. Finland) to Russia.
 <br/><br/>
-En 1877 : Tchaikovsky's ballet Swan Lake receives its premiere at the Bolshoi Theatre in Moscow.
+En 1804 : The first self-propelling steam locomotive makes its outing at the Pen-y-Darren Ironworks in Wales.
 <br/><br/>
-En 1872 : The Metropolitan Museum of Art opens in New York City.
+En 1797 : A force of 1,400 French soldiers invaded Britain at Fishguard in support of the Society of United Irishmen. They were defeated by 500 British reservists.
 <br/><br/>
-En 1865 : End of the Uruguayan War, with a peace agreement between President Tomás Villalba and rebel leader Venancio Flores, setting the scene for the destructive War of the Triple Alliance.
+En 1613 : Mikhail I is unanimously elected Tsar by a national assembly, beginning the Romanov dynasty of Imperial Russia.
 <br/><br/>
-En 1864 : American Civil War: Battle of Olustee: The largest battle fought in Florida during the war.
+En 1440 : The Prussian Confederation is formed.
 <br/><br/>
-En 1846 : Polish insurgents lead an uprising in Kraków to incite a fight for national independence.
-<br/><br/>
-En 1835 : The 1835 Concepción earthquake destroys Concepción, Chile.
-<br/><br/>
-En 1816 : Rossini's opera The Barber of Seville premieres at the Teatro Argentina in Rome.
-<br/><br/>
-En 1813 : Manuel Belgrano defeats the royalist army of Pío de Tristán during the Battle of Salta.
-<br/><br/>
-En 1798 : Louis-Alexandre Berthier removes Pope Pius VI from power.
-<br/><br/>
-En 1792 : The Postal Service Act, establishing the United States Post Office Department, is signed by United States President George Washington.
-<br/><br/>
-En 1685 : René-Robert Cavelier establishes Fort St. Louis at Matagorda Bay thus forming the basis for France's claim to Texas.
-<br/><br/>
-En 1547 : Edward VI of England is crowned King of England at Westminster Abbey.
-<br/><br/>
-En 1521 : Juan Ponce de León sets out from Spain for Florida with about 200 prospective colonists.
-<br/><br/>
-En 1472 : Orkney and Shetland are pawned by Norway to Scotland in lieu of a dowry for Margaret of Denmark.
-<br/><br/>
-En 1339 : The Milanese army and the St. George's (San Giorgio) Mercenaries of Lodrisio Visconti clash in the Battle of Parabiago; Visconti is defeated.
+En 1245 : Thomas, the first known Bishop of Finland, is granted resignation after confessing to torture and forgery.
 <br/><br/>
