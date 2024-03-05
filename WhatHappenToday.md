@@ -4,151 +4,97 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 4/3 ?(Hover on the year)</h1>
+<h1> What happen this day 5/3 ?(Hover on the year)</h1>
 
-En 2020 : Nik Wallenda becomes the first person to walk over the Masaya Volcano in Nicaragua.
+En 2023 : The 2023 Estonian parliamentary election is held, with two centre-right liberal parties gaining an absolute majority for the first time.
 <br/><br/>
-En 2018 : Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved.
+En 2023 : A group of four prisoners escape from the Nouakchott Civil Prison, before being caught the next day.
 <br/><br/>
-En 2015 : At least 34 miners die in a suspected gas explosion at the Zasyadko coal mine in the rebel-held Donetsk region of Ukraine.
+En 2021 : Pope Francis begins a historical visit to Iraq amidst the COVID-19 pandemic.
 <br/><br/>
-En 2012 : A series of explosions is reported at a munitions dump in Brazzaville, the capital of the Republic of the Congo, killing at least 250 people.
+En 2021 : Twenty people are killed and 30 injured in a suicide car bombing in Mogadishu, Somalia.
 <br/><br/>
-En 2009 : The International Criminal Court (ICC) issues an arrest warrant for Sudanese President Omar Hassan al-Bashir for war crimes and crimes against humanity in Darfur. Al-Bashir is the first sitting head of state to be indicted by the ICC since its establishment in 2002.
+En 2018 : Syrian civil war: The Syrian Democratic Forces (SDF) pause the Deir ez-Zor campaign due to the Turkish-led invasion of Afrin.
 <br/><br/>
-En 2002 : Afghanistan: Seven American Special Operations Forces soldiers and 200 Al-Qaeda Fighters are killed as American forces attempt to infiltrate the Shah-i-Kot Valley on a low-flying helicopter reconnaissance mission.
+En 2012 : Tropical Storm Irina kills over 75 as it passes through Madagascar.
 <br/><br/>
-En 2001 : BBC bombing: A massive car bomb explodes in front of the BBC Television Centre in London, seriously injuring one person; the attack was attributed to the Real IRA.
+En 2003 : In Haifa, 17 Israeli civilians are killed in the Haifa bus 37 suicide bombing.
 <br/><br/>
-En 1998 : Gay rights: Oncale v. Sundowner Offshore Services, Inc.: The Supreme Court of the United States rules that federal laws banning on-the-job sexual harassment also apply when both parties are the same sex.
+En 1993 : Palair Macedonian Airlines Flight 301 crashes at Skopje International Airport in Petrovec, North Macedonia, killing 83.
 <br/><br/>
-En 1996 : A derailed train in Weyauwega, Wisconsin (USA) causes the emergency evacuation of 2,300 people for 16 days.
+En 1991 : Aeropostal Alas de Venezuela Flight 108 crashes in Venezuela, killing 45.
 <br/><br/>
-En 1994 : Space Shuttle program: the Space Shuttle Columbia is launched on STS-62.
+En 1982 : Soviet probe Venera 14 lands on Venus.
 <br/><br/>
-En 1990 : American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.
+En 1981 : The ZX81, a pioneering British home computer, is launched by Sinclair Research and would go on to sell over 11⁄2 million units around the world.
 <br/><br/>
-En 1990 : Lennox Sebe, President for life of the South African Bantustan of Ciskei, is ousted from power in a bloodless military coup led by Brigadier Oupa Gqozo.
+En 1979 : Soviet probes Venera 11, Venera 12 and the German-American solar satellite Helios II all are hit by "off the scale" gamma rays leading to the discovery of soft gamma repeaters.
 <br/><br/>
-En 1986 : The Soviet Vega 1 begins returning images of Halley's Comet and the first images of its nucleus.
+En 1978 : The Landsat 3 is launched from Vandenberg Air Force Base in California.
 <br/><br/>
-En 1985 : The Food and Drug Administration approves a blood test for HIV infection, used since then for screening all blood donations in the United States.
+En 1974 : Yom Kippur War: Israeli forces withdraw from the west bank of the Suez Canal.
 <br/><br/>
-En 1980 : Nationalist leader Robert Mugabe wins a sweeping election victory to become Zimbabwe's first black prime minister.
+En 1970 : The Treaty on the Non-Proliferation of Nuclear Weapons goes into effect after ratification by 43 nations.
 <br/><br/>
-En 1977 : The 1977 Vrancea earthquake in eastern and southern Europe kills more than 1,500, mostly in Bucharest, Romania.
+En 1966 : BOAC Flight 911, a Boeing 707 aircraft, breaks apart in mid-air due to clear-air turbulence and crashes into Mount Fuji, Japan, killing all 124 people on board.
 <br/><br/>
-En 1976 : The Northern Ireland Constitutional Convention is formally dissolved in Northern Ireland resulting in direct rule of Northern Ireland from London by the British parliament.
+En 1965 : March Intifada: A Leftist uprising erupts in Bahrain against British colonial presence.
 <br/><br/>
-En 1970 : French submarine Eurydice explodes underwater, resulting in the loss of the entire 57-man crew.
+En 1963 : American country music stars Patsy Cline, Hawkshaw Hawkins, Cowboy Copas and their pilot Randy Hughes are killed in a plane crash in Camden, Tennessee.
 <br/><br/>
-En 1966 : A Canadian Pacific Air Lines DC-8-43 explodes on landing at Tokyo International Airport, killing 64 people.
+En 1960 : Indonesian President Sukarno dismissed the Dewan Perwakilan Rakyat (DPR), 1955 democratically elected parliament, and replaced with DPR-GR, the parliament of his own selected members.
 <br/><br/>
-En 1966 : In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is "more popular than Jesus now".
+En 1953 : Joseph Stalin, the longest serving leader of the Soviet Union, dies at his Volynskoe dacha in Moscow after suffering a cerebral hemorrhage four days earlier.
 <br/><br/>
-En 1962 : A Caledonian Airways Douglas DC-7 crashes shortly after takeoff from Cameroon, killing 111 – the worst crash of a DC-7.
+En 1946 : Cold War: Winston Churchill coins the phrase "Iron Curtain" in his speech at Westminster College, Missouri.
 <br/><br/>
-En 1960 : The French freighter La Coubre explodes in Havana, Cuba, killing 100.
+En 1944 : World War II: The Red Army begins the Uman–Botoșani Offensive in the western Ukrainian SSR.
 <br/><br/>
-En 1957 : The S&P 500 stock market index is introduced, replacing the S&P 90.
+En 1943 : First Flight of the Gloster Meteor, Britain's first combat jet aircraft.
 <br/><br/>
-En 1955 : An order to protect the endangered Saimaa ringed seal (Pusa hispida saimensis) was legalized.
+En 1942 : World War II: Japanese forces capture Batavia, capital of Dutch East Indies, which is left undefended after the withdrawal of the KNIL garrison and Australian Blackforce battalion to Buitenzorg and Bandung.
 <br/><br/>
-En 1944 : World War II: After the success of Big Week, the USAAF begins a daylight bombing campaign of Berlin.
+En 1940 : Six high-ranking members of the Soviet politburo, including Joseph Stalin, sign an order for the execution of 25,700 Polish intelligentsia, including 14,700 Polish POWs, in what will become known as the Katyn massacre.
 <br/><br/>
-En 1943 : World War II: The Battle of the Bismarck Sea in the south-west Pacific comes to an end.
+En 1939 : Spanish Civil War: The National Defence Council seizes control of the republican government in a coup d'etat, with the intention of negotiating an end to the war.
 <br/><br/>
-En 1943 : World War II: The Battle of Fardykambos, one of the first major battles between the Greek Resistance and the occupying Royal Italian Army, begins. It ends on 6 March with the surrender of an entire Italian battalion and the liberation of the town of Grevena.
+En 1936 : First flight of K5054, the first prototype Supermarine Spitfire advanced monoplane fighter aircraft in the United Kingdom.
 <br/><br/>
-En 1941 : World War II: The United Kingdom launches Operation Claymore on the Lofoten Islands; the first large scale British Commando raid.
+En 1933 : Adolf Hitler's Nazi Party receives 43.9% at the Reichstag elections, which allows the Nazis to later pass the Enabling Act and establish a dictatorship.
 <br/><br/>
-En 1933 : Franklin D. Roosevelt becomes the 32nd President of the United States. He was the last president to be inaugurated on March 4.
+En 1931 : The British Raj: Gandhi–Irwin Pact is signed.
 <br/><br/>
-En 1933 : Frances Perkins becomes United States Secretary of Labor, the first female member of the United States Cabinet.
+En 1912 : Italo-Turkish War: Italian forces are the first to use airships for military purposes, employing them for reconnaissance behind Turkish lines.
 <br/><br/>
-En 1933 : The Parliament of Austria is suspended because of a quibble over procedure – Chancellor Engelbert Dollfuss initiates an authoritarian rule by decree.
+En 1906 : Moro Rebellion: United States Army troops bring overwhelming force against the native Moros in the First Battle of Bud Dajo, leaving only six survivors.
 <br/><br/>
-En 1917 : Jeannette Rankin of Montana becomes the first female member of the United States House of Representatives.
+En 1872 : George Westinghouse patents the air brake.
 <br/><br/>
-En 1913 : First Balkan War: The Greek army engages the Turks at Bizani, resulting in victory two days later.
+En 1868 : Mefistofele, an opera by Arrigo Boito, receives its premiere performance at La Scala.
 <br/><br/>
-En 1913 : The United States Department of Labor is formed.
+En 1860 : Parma, Tuscany, Modena and Romagna vote in referendums to join the Kingdom of Sardinia.
 <br/><br/>
-En 1909 : U.S. President William Taft used what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State.
+En 1850 : The Britannia Bridge across the Menai Strait between the island of Anglesey and the mainland of Wales is opened.
 <br/><br/>
-En 1908 : The Collinwood school fire, Collinwood near Cleveland, Ohio, kills 174 people.
+En 1836 : Samuel Colt patents the first production-model revolver, the .34-caliber.
 <br/><br/>
-En 1901 : McKinley inaugurated president for second time; Theodore Roosevelt is vice president.
+En 1825 : Roberto Cofresí, one of the last successful Caribbean pirates, is defeated in combat and captured by authorities.
 <br/><br/>
-En 1899 : Cyclone Mahina sweeps in north of Cooktown, Queensland, with a 12 metres (39 ft) wave that reaches up to 5 kilometres (3.1 mi) inland, killing over 300.
+En 1824 : First Anglo-Burmese War: The British officially declare war on Burma.
 <br/><br/>
-En 1890 : The longest bridge in Great Britain, the Forth Bridge in Scotland, measuring 8,094 feet (2,467 m) long, is opened by the Duke of Rothesay, later King Edward VII.
+En 1811 : Peninsular War: A French force under the command of Marshal Victor is routed while trying to prevent an Anglo-Spanish-Portuguese army from lifting the Siege of Cádiz in the Battle of Barrosa.
 <br/><br/>
-En 1882 : Britain's first electric trams run in east London.
+En 1770 : Boston Massacre: Five Americans, including Crispus Attucks, are fatally shot by British troops in an event that would contribute to the outbreak of the American Revolutionary War (also known as the American War of Independence) five years later.
 <br/><br/>
-En 1878 : Pope Leo XIII reestablishes the Catholic Church in Scotland, recreating sees and naming bishops for the first time since 1603.
+En 1766 : Antonio de Ulloa, the first Spanish governor of Louisiana, arrives in New Orleans.
 <br/><br/>
-En 1865 : The third and final national flag of the Confederate States of America is adopted by the Confederate Congress.
+En 1616 : Nicolaus Copernicus's book On the Revolutions of the Heavenly Spheres is added to the Index of Forbidden Books 73 years after it was first published.
 <br/><br/>
-En 1865 : U.S. politician Andrew Johnson made his drunk vice-presidential inaugural address in Washington, D.C.
+En 1496 : King Henry VII of England issues letters patent to John Cabot and his sons, authorising them to explore unknown lands.
 <br/><br/>
-En 1861 : The first national flag of the Confederate States of America (the "Stars and Bars") is adopted.
+En 1279 : The Livonian Order is defeated in the Battle of Aizkraukle by the Grand Duchy of Lithuania.
 <br/><br/>
-En 1849 : President-elect of the United States Zachary Taylor and Vice President-elect Millard Fillmore did not take their respective oaths of office (they did so the following day), leading to the erroneous theory that outgoing President pro tempore of the United States Senate David Rice Atchison had assumed the role of acting president for one day.
+En 1046 : Nasir Khusraw begins the seven-year Middle Eastern journey which he will later describe in his book Safarnama.
 <br/><br/>
-En 1848 : Carlo Alberto di Savoia signs the Statuto Albertino that will later represent the first constitution of the Regno d'Italia.
-<br/><br/>
-En 1837 : The city of Chicago is incorporated.
-<br/><br/>
-En 1814 : Americans defeat British forces at the Battle of Longwoods between London, Ontario and Thamesville, near present-day Wardsville, Ontario.
-<br/><br/>
-En 1813 : Cyril VI of Constantinople is elected Ecumenical Patriarch of Constantinople.
-<br/><br/>
-En 1804 : Castle Hill Rebellion: Irish convicts rebel against British colonial authority in the Colony of New South Wales.
-<br/><br/>
-En 1797 : John Adams is inaugurated as the 2nd President of the United States of America, becoming the first President to begin his presidency on March 4.
-<br/><br/>
-En 1794 : The 11th Amendment to the U.S. Constitution is passed by the U.S. Congress.
-<br/><br/>
-En 1791 : Vermont is admitted to the United States as the fourteenth state.
-<br/><br/>
-En 1790 : France is divided into 83 départements, cutting across the former provinces in an attempt to dislodge regional loyalties based on ownership of land by the nobility.
-<br/><br/>
-En 1789 : In New York City, the first Congress of the United States meets, putting the United States Constitution into effect.
-<br/><br/>
-En 1776 : American Revolutionary War: The Continental Army fortifies Dorchester Heights with cannon, leading the British troops to abandon the Siege of Boston.
-<br/><br/>
-En 1769 : Mozart departed Italy after the last of his three tours there.
-<br/><br/>
-En 1681 : Charles II grants a land charter to William Penn for the area that will later become Pennsylvania.
-<br/><br/>
-En 1675 : John Flamsteed is appointed the first Astronomer Royal of England.
-<br/><br/>
-En 1665 : English King Charles II declares war on the Netherlands marking the start of the Second Anglo-Dutch War.
-<br/><br/>
-En 1628 : The Massachusetts Bay Colony is granted a Royal charter.
-<br/><br/>
-En 1519 : Hernán Cortés arrives in Mexico in search of the Aztec civilization and its wealth.
-<br/><br/>
-En 1493 : Explorer Christopher Columbus arrives back in Lisbon, Portugal, aboard his ship Niña from his voyage to what are now The Bahamas and other islands in the Caribbean.
-<br/><br/>
-En 1461 : Wars of the Roses in England: Lancastrian King Henry VI is deposed by his House of York cousin, who then becomes King Edward IV.
-<br/><br/>
-En 1386 : Władysław II Jagiełło (Jogaila) is crowned King of Poland.
-<br/><br/>
-En 1351 : Ramathibodi becomes King of Siam.
-<br/><br/>
-En 1238 : The Battle of the Sit River begins two centuries of Mongol horde domination of Russia.
-<br/><br/>
-En 1152 : Frederick I Barbarossa is elected King of Germany.
-<br/><br/>
-En 938 : Translation of the relics of martyr Wenceslaus I, Duke of Bohemia, Prince of the Czechs.
-<br/><br/>
-En 852 : Croatian Knez Trpimir I issues a statute, a document with the first known written mention of the Croats name in Croatian sources.
-<br/><br/>
-En 581 : Yang Jian declares himself Emperor Wen of Sui, ending the Northern Zhou and beginning the Sui dynasty.
-<br/><br/>
-En 306 : Martyrdom of Saint Adrian of Nicomedia.
-<br/><br/>
-En 51 : Nero, later to become Roman emperor, is given the title princeps iuventutis (head of the youth).
+En 363 : Roman emperor Julian leaves Antioch with an army of 90,000 to attack the Sasanian Empire, in a campaign which would bring about his own death.
 <br/><br/>
