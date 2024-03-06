@@ -4,97 +4,99 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 5/3 ?(Hover on the year)</h1>
+<h1> What happen this day 6/3 ?(Hover on the year)</h1>
 
-En 2023 : The 2023 Estonian parliamentary election is held, with two centre-right liberal parties gaining an absolute majority for the first time.
+En 2020 : Thirty-two people are killed and 81 are injured when gunmen open fire on a ceremony in Kabul, Afghanistan. The Islamic State claims responsibility for the attack.
 <br/><br/>
-En 2023 : A group of four prisoners escape from the Nouakchott Civil Prison, before being caught the next day.
+En 2018 : Forbes names Jeff Bezos as the world's richest person, for the first time, at $112 billion net worth.
 <br/><br/>
-En 2021 : Pope Francis begins a historical visit to Iraq amidst the COVID-19 pandemic.
+En 2008 : A suicide bomber kills 68 people (including first responders) in Baghdad on the same day that a gunman kills eight students in Jerusalem.
 <br/><br/>
-En 2021 : Twenty people are killed and 30 injured in a suicide car bombing in Mogadishu, Somalia.
+En 2003 : Air Algérie Flight 6289 crashes at the Aguenar – Hadj Bey Akhamok Airport in Tamanrasset, Algeria, killing 102 out of the 103 people on board.
 <br/><br/>
-En 2018 : Syrian civil war: The Syrian Democratic Forces (SDF) pause the Deir ez-Zor campaign due to the Turkish-led invasion of Afrin.
+En 1992 : The Michelangelo computer virus begins to affect computers.
 <br/><br/>
-En 2012 : Tropical Storm Irina kills over 75 as it passes through Madagascar.
+En 1988 : Three Provisional Irish Republican Army volunteers are shot dead by the SAS in Gibraltar in Operation Flavius.
 <br/><br/>
-En 2003 : In Haifa, 17 Israeli civilians are killed in the Haifa bus 37 suicide bombing.
+En 1987 : The British ferry MS Herald of Free Enterprise capsizes in about 90 seconds, killing 193.
 <br/><br/>
-En 1993 : Palair Macedonian Airlines Flight 301 crashes at Skopje International Airport in Petrovec, North Macedonia, killing 83.
+En 1984 : In the United Kingdom, a walkout at Cortonwood Colliery in Brampton Bierlow signals the start of a strike that lasted almost a year and involved the majority of the country's miners.
 <br/><br/>
-En 1991 : Aeropostal Alas de Venezuela Flight 108 crashes in Venezuela, killing 45.
+En 1975 : For the first time the Zapruder film of the assassination of John F. Kennedy is shown in motion to a national TV audience by Robert J. Groden and Dick Gregory.
 <br/><br/>
-En 1982 : Soviet probe Venera 14 lands on Venus.
+En 1975 : Algiers Accord: Iran and Iraq announce a settlement of their border dispute.
 <br/><br/>
-En 1981 : The ZX81, a pioneering British home computer, is launched by Sinclair Research and would go on to sell over 11⁄2 million units around the world.
+En 1970 : An explosion at the Weather Underground safe house in Greenwich Village kills three.
 <br/><br/>
-En 1979 : Soviet probes Venera 11, Venera 12 and the German-American solar satellite Helios II all are hit by "off the scale" gamma rays leading to the discovery of soft gamma repeaters.
+En 1968 : Three rebels are executed by Rhodesia, the first executions since UDI, prompting international condemnation.
 <br/><br/>
-En 1978 : The Landsat 3 is launched from Vandenberg Air Force Base in California.
+En 1967 : Cold War: Joseph Stalin's daughter Svetlana Alliluyeva defects to the United States.
 <br/><br/>
-En 1974 : Yom Kippur War: Israeli forces withdraw from the west bank of the Suez Canal.
+En 1965 : Premier Tom Playford of South Australia loses power after 27 years in office.
 <br/><br/>
-En 1970 : The Treaty on the Non-Proliferation of Nuclear Weapons goes into effect after ratification by 43 nations.
+En 1964 : Nation of Islam leader Elijah Muhammad officially gives boxing champion Cassius Clay the name Muhammad Ali.
 <br/><br/>
-En 1966 : BOAC Flight 911, a Boeing 707 aircraft, breaks apart in mid-air due to clear-air turbulence and crashes into Mount Fuji, Japan, killing all 124 people on board.
+En 1964 : Constantine II becomes the last King of Greece.
 <br/><br/>
-En 1965 : March Intifada: A Leftist uprising erupts in Bahrain against British colonial presence.
+En 1957 : Ghana becomes the first Sub-Saharan country to gain independence from the British.
 <br/><br/>
-En 1963 : American country music stars Patsy Cline, Hawkshaw Hawkins, Cowboy Copas and their pilot Randy Hughes are killed in a plane crash in Camden, Tennessee.
+En 1953 : Georgy Malenkov succeeds Joseph Stalin as Premier of the Soviet Union and First Secretary of the Communist Party of the Soviet Union.
 <br/><br/>
-En 1960 : Indonesian President Sukarno dismissed the Dewan Perwakilan Rakyat (DPR), 1955 democratically elected parliament, and replaced with DPR-GR, the parliament of his own selected members.
+En 1951 : Cold War: The trial of Ethel and Julius Rosenberg begins.
 <br/><br/>
-En 1953 : Joseph Stalin, the longest serving leader of the Soviet Union, dies at his Volynskoe dacha in Moscow after suffering a cerebral hemorrhage four days earlier.
+En 1946 : Ho Chi Minh signs an agreement with France which recognizes Vietnam as an autonomous state in the Indochinese Federation and the French Union.
 <br/><br/>
-En 1946 : Cold War: Winston Churchill coins the phrase "Iron Curtain" in his speech at Westminster College, Missouri.
+En 1945 : World War II: Cologne is captured by American troops. On the same day, Operation Spring Awakening, the last major German offensive of the war, begins.
 <br/><br/>
-En 1944 : World War II: The Red Army begins the Uman–Botoșani Offensive in the western Ukrainian SSR.
+En 1944 : World War II: Soviet Air Forces bomb an evacuated town of Narva in German-occupied Estonia, destroying the entire historical Swedish-era town.
 <br/><br/>
-En 1943 : First Flight of the Gloster Meteor, Britain's first combat jet aircraft.
+En 1943 : Norman Rockwell published Freedom from Want in The Saturday Evening Post with a matching essay by Carlos Bulosan as part of the Four Freedoms series.
 <br/><br/>
-En 1942 : World War II: Japanese forces capture Batavia, capital of Dutch East Indies, which is left undefended after the withdrawal of the KNIL garrison and Australian Blackforce battalion to Buitenzorg and Bandung.
+En 1943 : World War II: Generalfeldmarschall Erwin Rommel launches the Battle of Medenine in an attempt to slow down the British Eight Army. It fails, and he leaves Africa three days later.
 <br/><br/>
-En 1940 : Six high-ranking members of the Soviet politburo, including Joseph Stalin, sign an order for the execution of 25,700 Polish intelligentsia, including 14,700 Polish POWs, in what will become known as the Katyn massacre.
+En 1943 : World War II: The Battle of Fardykambos, one of the first major battles between the Greek Resistance and the occupying Royal Italian Army, ends with the surrender of an entire Italian battalion, the bulk of the garrison of the town of Grevena, leading to its liberation a fortnight later.
 <br/><br/>
-En 1939 : Spanish Civil War: The National Defence Council seizes control of the republican government in a coup d'etat, with the intention of negotiating an end to the war.
+En 1933 : Great Depression: President Franklin D. Roosevelt declares a "bank holiday", closing all U.S. banks and freezing all financial transactions.
 <br/><br/>
-En 1936 : First flight of K5054, the first prototype Supermarine Spitfire advanced monoplane fighter aircraft in the United Kingdom.
+En 1930 : International Unemployment Day demonstrations globally initiated by the Comintern.
 <br/><br/>
-En 1933 : Adolf Hitler's Nazi Party receives 43.9% at the Reichstag elections, which allows the Nazis to later pass the Enabling Act and establish a dictatorship.
+En 1912 : Italo-Turkish War: Italian forces become the first to use airships in war, as two dirigibles drop bombs on Turkish troops encamped at Janzur, from an altitude of 1,800 m.
 <br/><br/>
-En 1931 : The British Raj: Gandhi–Irwin Pact is signed.
+En 1904 : Scottish National Antarctic Expedition: Led by William Speirs Bruce, the Antarctic region of Coats Land was discovered from the Scotia.
 <br/><br/>
-En 1912 : Italo-Turkish War: Italian forces are the first to use airships for military purposes, employing them for reconnaissance behind Turkish lines.
+En 1901 : Anarchist assassin tries to kill German Emperor Wilhelm II.
 <br/><br/>
-En 1906 : Moro Rebellion: United States Army troops bring overwhelming force against the native Moros in the First Battle of Bud Dajo, leaving only six survivors.
+En 1899 : Bayer registers "Aspirin" as a trademark.
 <br/><br/>
-En 1872 : George Westinghouse patents the air brake.
+En 1882 : The Serbian kingdom is re-founded.
 <br/><br/>
-En 1868 : Mefistofele, an opera by Arrigo Boito, receives its premiere performance at La Scala.
+En 1869 : Dmitri Mendeleev presents the first periodic table to the Russian Chemical Society.
 <br/><br/>
-En 1860 : Parma, Tuscany, Modena and Romagna vote in referendums to join the Kingdom of Sardinia.
+En 1857 : The Supreme Court of the United States rules 7–2 in the Dred Scott v. Sandford case that the Constitution does not confer citizenship on black people.
 <br/><br/>
-En 1850 : The Britannia Bridge across the Menai Strait between the island of Anglesey and the mainland of Wales is opened.
+En 1836 : Texas Revolution: Battle of the Alamo: After a thirteen-day siege by an army of 3,000 Mexican troops, the 187 Texas volunteers, including frontiersman Davy Crockett and colonel Jim Bowie, defending the Alamo are killed and the fort is captured.
 <br/><br/>
-En 1836 : Samuel Colt patents the first production-model revolver, the .34-caliber.
+En 1834 : York, Upper Canada, is incorporated as Toronto.
 <br/><br/>
-En 1825 : Roberto Cofresí, one of the last successful Caribbean pirates, is defeated in combat and captured by authorities.
+En 1820 : The Missouri Compromise is signed into law by President James Monroe. The compromise allows Missouri to enter the Union as a slave state, brings Maine into the Union as a free state, and makes the rest of the northern part of the Louisiana Purchase territory slavery-free.
 <br/><br/>
-En 1824 : First Anglo-Burmese War: The British officially declare war on Burma.
+En 1788 : The First Fleet arrives at Norfolk Island in order to found a convict settlement.
 <br/><br/>
-En 1811 : Peninsular War: A French force under the command of Marshal Victor is routed while trying to prevent an Anglo-Spanish-Portuguese army from lifting the Siege of Cádiz in the Battle of Barrosa.
+En 1665 : The first joint Secretary of the Royal Society, Henry Oldenburg, publishes the first issue of Philosophical Transactions of the Royal Society, the world's longest-running scientific journal.
 <br/><br/>
-En 1770 : Boston Massacre: Five Americans, including Crispus Attucks, are fatally shot by British troops in an event that would contribute to the outbreak of the American Revolutionary War (also known as the American War of Independence) five years later.
+En 1521 : Ferdinand Magellan arrives at Guam.
 <br/><br/>
-En 1766 : Antonio de Ulloa, the first Spanish governor of Louisiana, arrives in New Orleans.
+En 1454 : Thirteen Years' War: Delegates of the Prussian Confederation pledge allegiance to King Casimir IV of Poland who agrees to commit his forces in aiding the Confederation's struggle for independence from the Teutonic Knights.
 <br/><br/>
-En 1616 : Nicolaus Copernicus's book On the Revolutions of the Heavenly Spheres is added to the Index of Forbidden Books 73 years after it was first published.
+En 1323 : Treaty of Paris of 1323 is signed.
 <br/><br/>
-En 1496 : King Henry VII of England issues letters patent to John Cabot and his sons, authorising them to explore unknown lands.
+En 1204 : The Siege of Château Gaillard ends in a French victory over King John of England, who loses control of Normandy to King Philip II Augustus.
 <br/><br/>
-En 1279 : The Livonian Order is defeated in the Battle of Aizkraukle by the Grand Duchy of Lithuania.
+En 961 : Byzantine conquest of Chandax by Nikephoros Phokas, end of the Emirate of Crete.
 <br/><br/>
-En 1046 : Nasir Khusraw begins the seven-year Middle Eastern journey which he will later describe in his book Safarnama.
+En 845 : The 42 Martyrs of Amorium are killed after refusing to convert to Islam.
 <br/><br/>
-En 363 : Roman emperor Julian leaves Antioch with an army of 90,000 to attack the Sasanian Empire, in a campaign which would bring about his own death.
+En 632 : The Farewell Sermon (Khutbah, Khutbatul Wada') of the Islamic prophet Muhammad.
+<br/><br/>
+En -12 : The Roman emperor Augustus is named Pontifex Maximus, incorporating the position into that of the emperor.
 <br/><br/>
