@@ -4,85 +4,83 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 8/3 ?(Hover on the year)</h1>
+<h1> What happen this day 9/3 ?(Hover on the year)</h1>
 
-En 2021 : International Women's Day marches in Mexico become violent with 62 police officers and 19 civilians injured in Mexico City alone.
+En 2012 : A truce between the Salvadoran government and gangs in the country goes into effect when 30 gang leaders are transferred to lower security prisons.
 <br/><br/>
-En 2021 : Twenty-eight political institutions in Myanmar establish the National Unity Consultative Council, a historic alliance of ethnic armed organizations and democratically elected leaders in response to the 2021 Myanmar coup d'état
+En 2011 : Space Shuttle Discovery makes its final landing after 39 flights.
 <br/><br/>
-En 2018 : The first Aurat March (social/political demonstration) was held being International Women's Day in Karachi, Pakistan, since then annually held  across Pakistan and feminist slogan Mera Jism Meri Marzi (My body, my choice), in demand for women's right to bodily autonomy and against gender-based violence came into vogue in Pakistan.
+En 1997 : Comet Hale–Bopp: Observers in China, Mongolia and eastern Siberia are treated to a rare double feature as an eclipse permits Hale-Bopp to be seen during the day.
 <br/><br/>
-En 2017 : The Azure Window, a natural arch on the Maltese island of Gozo, collapses in stormy weather.
+En 1987 : Chrysler announces its acquisition of American Motors Corporation
 <br/><br/>
-En 2014 : In one of aviation's greatest mysteries, Malaysia Airlines Flight 370, carrying a total of 239 people, disappears en route from Kuala Lumpur to Beijing. The fate of the flight remains unknown.
+En 1978 : President Soeharto inaugurated Jagorawi Toll Road, the first toll highway in Indonesia, connecting Jakarta, Bogor and Ciawi, West Java.
 <br/><br/>
-En 2010 : Headlined by Hulk Hogan and Ric Flair, TNA Wrestling moved its flagship program, Impact! (TV_series), to Monday night. This effort to go “big time live” failed but is notable in the history of professional wrestling television.
+En 1977 : The Hanafi Siege: In a 39-hour standoff, armed Hanafi Muslims seize three Washington, D.C., buildings.
 <br/><br/>
-En 2004 : A new constitution is signed by Iraq's Governing Council.
+En 1976 : Forty-two people die in the Cavalese cable car disaster, the deadliest cable car accident in history.
 <br/><br/>
-En 1988 : Aeroflot Flight 3379 is hijacked by the Ovechkin family and diverted to Veshchevo in the Soviet Union.
+En 1974 : The Mars 7 Flyby bus releases the descent module too early, missing Mars.
 <br/><br/>
-En 1985 : A supposed failed assassination attempt on Islamic cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon, killing 80 and injuring 200 others.
+En 1967 : Trans World Airlines Flight 553 crashes in a field in Concord Township, Ohio, following a mid-air collision with a Beechcraft Baron, killing 26 people.
 <br/><br/>
-En 1983 : Cold War: While addressing a convention of Evangelicals, U.S. President Ronald Reagan labels the Soviet Union an "evil empire".
+En 1961 : Sputnik 9 successfully launches, carrying a dog and a human dummy, and demonstrating that the Soviet Union was ready to begin human spaceflight.
 <br/><br/>
-En 1979 : Philips demonstrates the compact disc publicly for the first time.
+En 1960 : Dr. Belding Hibbard Scribner implants for the first time a shunt he invented into a patient, which allows the patient to receive hemodialysis on a regular basis.
 <br/><br/>
-En 1979 : Images taken by Voyager I proved the existence of volcanoes on Io, a moon of Jupiter.
+En 1959 : The Barbie doll makes its debut at the American International Toy Fair in New York.
 <br/><br/>
-En 1966 : Nelson's Pillar in Dublin, Ireland, destroyed by a bomb.
+En 1957 : The 8.6 Mw  Andreanof Islands earthquake shakes the Aleutian Islands, causing over $5 million in damage from ground movement and a destructive tsunami.
 <br/><br/>
-En 1965 : Vietnam War: US Marines arrive at Da Nang.
+En 1956 : Soviet forces suppress mass demonstrations in the Georgian SSR, reacting to Nikita Khrushchev's de-Stalinization policy.
 <br/><br/>
-En 1963 : The Ba'ath Party comes to power in Syria in a coup d'état
+En 1954 : McCarthyism: CBS television broadcasts the See It Now episode, "A Report on Senator Joseph McCarthy", produced by Fred Friendly.
 <br/><br/>
-En 1950 : The iconic Volkswagen Type 2 "Bus" begins production.
+En 1946 : Bolton Wanderers stadium disaster at Burnden Park, Bolton, England, kills 33 and injures hundreds more.
 <br/><br/>
-En 1942 : World War II: The Dutch East Indies surrender Java to the Imperial Japanese Army
+En 1945 : World War II: A coup d'état by Japanese forces in French Indochina removes the French from power.
 <br/><br/>
-En 1942 : World War II: Imperial Japanese Army forces captured Rangoon, Burma from British.
+En 1945 : World War II: Allied forces carry out firebombing over Tokyo, destroying most of the capital and killing over 100,000 civilians.
 <br/><br/>
-En 1937 : Spanish Civil War: The Battle of Guadalajara begins.
+En 1944 : World War II: Soviet Army planes attack Tallinn, Estonia.
 <br/><br/>
-En 1936 : Daytona Beach and Road Course holds its first oval stock car race.
+En 1942 : World War II: Dutch East Indies unconditionally surrendered to the Japanese forces in Kalijati, Subang, West Java, and the Japanese completed their Dutch East Indies campaign.
 <br/><br/>
-En 1924 : A mine disaster kills 172 coal miners near Castle Gate, Utah.
+En 1933 : Great Depression: President Franklin D. Roosevelt submits the Emergency Banking Act to Congress, the first of his New Deal policies.
 <br/><br/>
-En 1921 : Spanish Prime Minister Eduardo Dato Iradier is assassinated while on his way home from the parliament building in Madrid.
+En 1916 : Mexican Revolution: Pancho Villa leads nearly 500 Mexican raiders in an attack against the border town of Columbus, New Mexico.
 <br/><br/>
-En 1917 : International Women's Day protests in Petrograd mark the beginning of the February Revolution (February 23 in the Julian calendar).
+En 1908 : Inter Milan was founded on Football Club Internazionale, following a schism from A.C. Milan.
 <br/><br/>
-En 1917 : The United States Senate votes to limit filibusters by adopting the cloture rule.
+En 1862 : American Civil War: USS Monitor and CSS Virginia (rebuilt from the engines and lower hull of the USS Merrimack) fight to a draw in the Battle of Hampton Roads, the first battle between two ironclad warships.
 <br/><br/>
-En 1916 : World War I: A British force unsuccessfully attempts to relieve the siege of Kut (present-day Iraq) in the Battle of Dujaila.
+En 1847 : Mexican–American War: The first large-scale amphibious assault in U.S. history is launched in the Siege of Veracruz.
 <br/><br/>
-En 1910 : French aviator Raymonde de Laroche becomes the first woman to receive a pilot's license.
+En 1842 : Giuseppe Verdi's third opera, Nabucco, receives its première performance in Milan; its success establishes Verdi as one of Italy's foremost opera composers.
 <br/><br/>
-En 1868 : Sakai incident: Japanese samurai kill 11 French sailors in the port of Sakai, Osaka.
+En 1842 : The first documented discovery of gold in California occurs at Rancho San Francisco, six years before the California Gold Rush.
 <br/><br/>
-En 1844 : King Oscar I ascends to the thrones of Sweden and Norway.
+En 1841 : The U.S. Supreme Court rules in the United States v. The Amistad case that captive Africans who had seized control of the ship carrying them had been taken into slavery illegally.
 <br/><br/>
-En 1844 : The Althing, the parliament of Iceland, was reopened after 45 years of closure.
+En 1815 : Francis Ronalds describes the first battery-operated clock in the Philosophical Magazine.
 <br/><br/>
-En 1801 : War of the Second Coalition: At the Battle of Abukir, a British force under Sir Ralph Abercromby lands in Egypt with the aim of ending the French campaign in Egypt and Syria.
+En 1811 : Paraguayan forces defeat Manuel Belgrano at the Battle of Tacuarí.
 <br/><br/>
-En 1782 : Gnadenhutten massacre: Ninety-six Native Americans in Gnadenhutten, Ohio, who had converted to Christianity, are killed by Pennsylvania militiamen in retaliation for raids carried out by other Indian tribes.
+En 1796 : Napoléon Bonaparte marries his first wife, Joséphine de Beauharnais.
 <br/><br/>
-En 1775 : An anonymous writer, thought by some to be Thomas Paine, publishes "African Slavery in America", the first article in the American colonies calling for the emancipation of slaves and the abolition of slavery.
+En 1776 : The Wealth of Nations by Scottish economist and philosopher Adam Smith is published.
 <br/><br/>
-En 1736 : Nader Shah, founder of the Afsharid dynasty, is crowned Shah of Iran.
+En 1765 : After a campaign by the writer Voltaire, judges in Paris posthumously exonerate Jean Calas of murdering his son. Calas had been tortured and executed in 1762 on the charge, though his son may have actually died by suicide.
 <br/><br/>
-En 1722 : The Safavid Empire of Iran is defeated by an army from Afghanistan at the Battle of Gulnabad.
+En 1701 : Safavid troops retreat from Basra, ending a three-year occupation.
 <br/><br/>
-En 1702 : Queen Anne, the younger sister of Mary II, becomes Queen regnant of England, Scotland, and Ireland.
+En 1500 : The fleet of Pedro Álvares Cabral leaves Lisbon for the Indies. The fleet will discover Brazil which lies within boundaries granted to Portugal in the Treaty of Tordesillas in 1494.
 <br/><br/>
-En 1658 : Treaty of Roskilde: After a devastating defeat in the Northern Wars (1655–1661), Frederick III, the King of Denmark–Norway is forced to give up nearly half his territory to Sweden.
+En 1230 : Bulgarian Tsar Ivan Asen II defeats Theodore of Epirus in the Battle of Klokotnitsa.
 <br/><br/>
-En 1558 : The city of Pori (Swedish: Björneborg) is founded by Duke John on the shores of the Gulf of Bothnia.
+En 1226 : Khwarazmian sultan Jalal ad-Din conquers the Georgian capital of Tbilisi.
 <br/><br/>
-En 1262 : Battle of Hausbergen between bourgeois militias and the army of the bishop of Strasbourg.
+En 1009 : First known mention of Lithuania, in the annals of the monastery of Quedlinburg.
 <br/><br/>
-En 1126 : Following the death of his mother, queen Urraca of León, Alfonso VII is proclaimed king of León.
-<br/><br/>
-En 1010 : Ferdowsi completes his epic poem Shahnameh.
+En -141 : Liu Che, posthumously known as Emperor Wu of Han, assumes the throne over the Han dynasty of China.
 <br/><br/>
