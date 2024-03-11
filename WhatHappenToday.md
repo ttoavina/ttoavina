@@ -4,83 +4,91 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 10/3 ?(Hover on the year)</h1>
+<h1> What happen this day 11/3 ?(Hover on the year)</h1>
 
-En 2023 : Silicon Valley Bank collapses due to a run on its deposits, in the second largest bank failure in US history. Its operations are taken over by the FDIC.
+En 2023 : The Burmese military kills at least 30 villagers, including 3 Buddhist monks, during the Pinlaung massacre in Shan State, Myanmar.
 <br/><br/>
-En 2019 : Ethiopian Airlines Flight 302, a Boeing 737 MAX, crashes, leading to all 737 MAX aircraft being grounded worldwide.
+En 2021 : US President Joe Biden signs the $1.9 trillion American Rescue Plan into law.
 <br/><br/>
-En 2017 : The impeachment of President Park Geun-hye of South Korea in response to a major political scandal is unanimously upheld by the country's Constitutional Court, ending her presidency.
+En 2020 : The World Health Organization (WHO) declares the COVID-19 virus epidemic a pandemic.
 <br/><br/>
-En 2006 : The Mars Reconnaissance Orbiter arrives at Mars.
+En 2018 : A Bombardier Challenger 604 crashes into the Zagros Mountains near the Iranian city of Shar-e-kord, killing all 11 people on board.
 <br/><br/>
-En 2000 : The Dot-com bubble peaks with the NASDAQ Composite stock market index reaching 5,048.62.
+En 2012 : A U.S. soldier kills 16 civilians in the Panjwayi District of Afghanistan near Kandahar.
 <br/><br/>
-En 1990 : In Haiti, Prosper Avril is ousted 18 months after seizing power in a coup.
+En 2011 : An earthquake measuring 9.0 in magnitude strikes 130 km (81 mi) east of Sendai, Japan, triggering a tsunami killing thousands of people. This event also triggered the second largest nuclear accident in history, and one of only two events to be classified as a Level 7 on the International Nuclear Event Scale.
 <br/><br/>
-En 1989 : Air Ontario Flight 1363, a Fokker F-28 Fellowship, crashes at Dryden Regional Airport in Dryden, Ontario, Canada, killing 24.
+En 2010 : Economist and businessman Sebastián Piñera is sworn in as President of Chile. Aftershocks of the 2010 Pichilemu earthquakes hit central Chile during the ceremony.
 <br/><br/>
-En 1977 : Astronomers discover the rings of Uranus.
+En 2009 : Winnenden school shooting: Sixteen are killed and 11 are injured before recent graduate Tim Kretschmer shoots and kills himself, leading to tightened weapons restrictions in Germany.
 <br/><br/>
-En 1975 : Vietnam War: Ho Chi Minh Campaign: North Vietnamese troops attack Ban Mê Thuột in the South on their way to capturing Saigon in the final push for victory over South Vietnam.
+En 2006 : Michelle Bachelet is inaugurated as the first female president of Chile.
 <br/><br/>
-En 1970 : Vietnam War: Captain Ernest Medina is charged by the U.S. military with My Lai war crimes.
+En 2004 : Madrid train bombings: Simultaneous explosions on rush hour trains in Madrid, Spain kill 191 people.
 <br/><br/>
-En 1969 : In Memphis, Tennessee, James Earl Ray pleads guilty to assassinating Martin Luther King Jr. He later unsuccessfully attempts to recant.
+En 2003 : The International Criminal Court holds its inaugural session in The Hague.
 <br/><br/>
-En 1966 : Military Prime Minister of South Vietnam Nguyễn Cao Kỳ sacks rival General Nguyễn Chánh Thi, precipitating large-scale civil and military dissension in parts of the nation.
+En 1990 : Lithuania declares independence from the Soviet Union.
 <br/><br/>
-En 1959 : Tibetan uprising: Fearing an abduction attempt by China, thousands of Tibetans surround the Dalai Lama's palace to prevent his removal.
+En 1990 : Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.
 <br/><br/>
-En 1952 : Fulgencio Batista leads a successful coup in Cuba.
+En 1985 : Mikhail Gorbachev is elected to the position of General Secretary of the Communist Party of the Soviet Union, making Gorbachev the USSR's de facto, and last, head of state.
 <br/><br/>
-En 1949 : Mildred Gillars ("Axis Sally") is convicted of treason.
+En 1983 : Bob Hawke is appointed Prime Minister of Australia.
 <br/><br/>
-En 1945 : World War II: The U.S. Army Air Force firebombs Tokyo, and the resulting conflagration kills more than 100,000 people, mostly civilians.
+En 1982 : Fifteen people are killed when Widerøe Flight 933 crashes into the Barents Sea near Gamvik, Norway.
 <br/><br/>
-En 1944 : Greek Civil War: The Political Committee of National Liberation is established in Greece by the National Liberation Front.
+En 1981 : Hundreds of students protest in the University of Pristina in Kosovo, then part of Yugoslavia, to give their province more political rights. The protests then became a nationwide movement.
 <br/><br/>
-En 1933 : The Long Beach earthquake affects the Greater Los Angeles Area, leaving around 108 people dead.
+En 1978 : Coastal Road massacre: At least 37 are killed and more than 70 are wounded when Fatah hijack an Israeli bus, prompting Israel's Operation Litani.
 <br/><br/>
-En 1922 : Mahatma Gandhi is arrested in India, tried for sedition, and sentenced to six years in prison, only to be released after nearly two years for an appendicitis operation.
+En 1977 : The 1977 Hanafi Siege: Around 150 hostages held in Washington, D.C., by Hanafi Muslims are set free after ambassadors from three Islamic nations join negotiations.
 <br/><br/>
-En 1909 : By signing the Anglo-Siamese Treaty of 1909, Thailand relinquishes its sovereignty over the Malay states of Kedah, Kelantan, Perlis and Terengganu, which become British protectorates.
+En 1946 : Rudolf Höss, the first commandant of Auschwitz concentration camp, is captured by British troops.
 <br/><br/>
-En 1906 : The Courrières mine disaster, Europe's worst ever, kills 1099 miners in northern France.
+En 1945 : World War II:  The Imperial Japanese Navy attempts a large-scale kamikaze attack on the U.S. Pacific Fleet anchored at Ulithi atoll in Operation Tan No. 2.
 <br/><br/>
-En 1891 : Almon Strowger patents the Strowger switch, a device which led to the automation of telephone circuit switching.
+En 1945 : World War II: The Empire of Vietnam, a short-lived Japanese puppet state, is established.
 <br/><br/>
-En 1876 : The first successful test of a telephone is made by Alexander Graham Bell.
+En 1941 : World War II: United States President Franklin D. Roosevelt signs the Lend-Lease Act into law, allowing American-built war supplies to be shipped to the Allies on loan.
 <br/><br/>
-En 1873 : The first Azerbaijani play, The Adventures of the Vizier of the Khan of Lenkaran, prepared by Akhundov, is performed by Hassan-bey Zardabi and dramatist and Najaf-bey Vezirov.
+En 1927 : In New York City, Samuel Roxy Rothafel opens the Roxy Theatre.
 <br/><br/>
-En 1861 : El Hadj Umar Tall seizes the city of Ségou, destroying the Bamana Empire of Mali.
+En 1917 : World War I: Mesopotamian campaign: Baghdad falls to Anglo-Indian forces commanded by General Frederick Stanley Maude.
 <br/><br/>
-En 1848 : The Treaty of Guadalupe Hidalgo is ratified by the United States Senate, ending the Mexican–American War.
+En 1888 : The Great Blizzard of 1888 begins along the eastern seaboard of the United States, shutting down commerce and killing more than 400 people.
 <br/><br/>
-En 1831 : The French Foreign Legion is created by Louis Philippe, the King of France, from the foreign regiments of the Kingdom of France.
+En 1879 : Shō Tai formally abdicates his position of King of Ryūkyū, under orders from Tokyo, ending the Ryukyu Kingdom.
 <br/><br/>
-En 1830 : The Royal Netherlands East Indies Army is created.
+En 1872 : Construction of the Seven Sisters Colliery, South Wales, begins; it is located on one of the richest coal sources in Britain.
 <br/><br/>
-En 1814 : Emperor Napoleon I is defeated at the Battle of Laon in France.
+En 1864 : The Great Sheffield Flood kills 238 people in Sheffield, England.
 <br/><br/>
-En 1762 : French Huguenot Jean Calas, who had been wrongly convicted of killing his son, dies after being tortured by authorities; the event inspired Voltaire to begin a campaign for religious tolerance and legal reform.
+En 1861 : American Civil War: The Constitution of the Confederate States of America is adopted.
 <br/><br/>
-En 1735 : An agreement between Nader Shah and Russia is signed near Ganja, Azerbaijan and Russian troops are withdrawn from occupied territories.
+En 1851 : The first performance of Rigoletto by Giuseppe Verdi takes place in Venice.
 <br/><br/>
-En 1661 : French "Sun King" Louis XIV begins his personal rule of France after the death of his premier, the Cardinal Mazarin.
+En 1848 : Louis-Hippolyte Lafontaine and Robert Baldwin become the first Prime Ministers of the Province of Canada to be democratically elected under a system of responsible government.
 <br/><br/>
-En 1629 : Charles I dissolves the Parliament of England, beginning the eleven-year period known as the Personal Rule.
+En 1845 : Flagstaff War: Unhappy with translational differences regarding the Treaty of Waitangi, chiefs Hōne Heke, Kawiti and Māori tribe members chop down the British flagpole for a fourth time and drive settlers out of Kororāreka, New Zealand.
 <br/><br/>
-En 1607 : Susenyos I defeats the combined armies of Yaqob and Abuna Petros II at the Battle of Gol in Gojjam, making him Emperor of Ethiopia.
+En 1795 : The Battle of Kharda is fought between the Maratha Confederacy and the Nizam of Hyderabad, resulting in Maratha victory.
 <br/><br/>
-En 1535 : Spaniard Fray Tomás de Berlanga, the fourth Bishop of Panama, discovers the Galápagos Islands by chance on his way to Peru.
+En 1784 : The signing of the Treaty of Mangalore brings the Second Anglo-Mysore War to an end.
 <br/><br/>
-En 1496 : After establishing the city of Santo Domingo, Christopher Columbus departs for Spain, leaving his brother in command.
+En 1708 : Queen Anne withholds Royal Assent from the Scottish Militia Bill, the last time a British monarch vetoes legislation.
 <br/><br/>
-En 947 : The Later Han is founded by Liu Zhiyuan. He declares himself emperor.
+En 1702 : The Daily Courant, England's first national daily newspaper, is published for the first time.
 <br/><br/>
-En 298 : Roman Emperor Maximian concludes his campaign in North Africa and makes a triumphal entry into Carthage.
+En 1649 : The Frondeurs and the French government sign the Peace of Rueil.
 <br/><br/>
-En -241 : First Punic War: Battle of the Aegates: The Romans sink the Carthaginian fleet bringing the First Punic War to an end.
+En 1641 : Guaraní forces living in the Jesuit reductions defeat bandeirantes loyal to the Portuguese Empire at the Battle of Mbororé in present-day Panambí, Argentina.
+<br/><br/>
+En 1387 : Battle of Castagnaro: Padua, led by John Hawkwood, is victorious over Giovanni Ordelaffi of Verona.
+<br/><br/>
+En 1343 : Arnošt of Pardubice becomes the last Bishop of Prague (3 March 1343 O.S.), and, a year later, the first Archbishop of Prague.
+<br/><br/>
+En 843 : Triumph of Orthodoxy: Empress Theodora II restores the veneration of icons in the Orthodox churches in the Byzantine Empire.
+<br/><br/>
+En 222 : Roman emperor Elagabalus is murdered alongside his mother, Julia Soaemias. He is replaced by his 14-year old cousin, Severus Alexander.
 <br/><br/>
