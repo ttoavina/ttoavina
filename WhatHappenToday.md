@@ -4,79 +4,79 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 12/3 ?(Hover on the year)</h1>
+<h1> What happen this day 13/3 ?(Hover on the year)</h1>
 
-En 2020 : The United States suspends travel from Europe due to the COVID-19 pandemic.
+En 2020 : President Donald Trump declares the COVID-19 pandemic to be a national emergency in the United States.
 <br/><br/>
-En 2019 : In the House of Commons, the revised EU Withdrawal Bill was rejected by a margin of 149 votes.
+En 2020 : Breonna Taylor is killed by police officers who were forcibly entering her home in Louisville, Kentucky; her death sparked extensive protests against racism and police brutality.
 <br/><br/>
-En 2018 : US-Bangla Airlines Flight 211 crashes at Tribhuvan International Airport in Katmandu, killing 51 and injuring 20.
+En 2016 : The Ankara bombing kills at least 37 people.
 <br/><br/>
-En 2014 : A gas explosion in the New York City neighborhood of East Harlem kills eight and injures 70 others.
+En 2016 : Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.
 <br/><br/>
-En 2011 : A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and releases radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami.
+En 2013 : The 2013 papal conclave elects Cardinal Jorge Mario Bergoglio taking the name Pope Francis as the 266th Pope of the Catholic Church.
 <br/><br/>
-En 2009 : Financier Bernie Madoff pleads guilty to one of the largest frauds in Wall Street's history.
+En 2012 : The Sierre coach crash kills 28 people, including 22 children.
 <br/><br/>
-En 2004 : The President of South Korea, Roh Moo-hyun, is impeached by its National Assembly: the first such impeachment in the nation's history.
+En 2003 : An article in Nature identifies the Ciampate del Diavolo as 350,000-year-old hominid footprints.
 <br/><br/>
-En 2003 : Zoran Đinđić, Prime Minister of Serbia, is assassinated in Belgrade.
+En 1997 : The Missionaries of Charity choose Sister Nirmala to succeed Mother Teresa as their leader.
 <br/><br/>
-En 2003 : The World Health Organization officially release a global warning of outbreaks of Severe acute respiratory syndrome (SARS).
+En 1996 : The Dunblane massacre leads to the death of sixteen primary school children and one teacher in Dunblane, Scotland.
 <br/><br/>
-En 1999 : Former Warsaw Pact members the Czech Republic, Hungary and Poland join NATO.
+En 1993 : The 1993 Storm of the Century affects the eastern United States, dropping feet of snow in many areas.
 <br/><br/>
-En 1993 : Several bombs explode in Mumbai, India, killing about 300 people and injuring hundreds more.
+En 1992 : The Mw  6.6 Erzincan earthquake strikes eastern Turkey with a maximum Mercalli intensity of VIII (Severe).
 <br/><br/>
-En 1993 : North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites.
+En 1988 : The Seikan Tunnel, the longest tunnel in the world with an undersea segment, opens between Aomori and Hakodate, Japan.
 <br/><br/>
-En 1992 : Mauritius becomes a republic while remaining a member of the Commonwealth of Nations.
+En 1979 : The New Jewel Movement, headed by Maurice Bishop, ousts the Prime Minister of Grenada, Eric Gairy, in a coup d'état.
 <br/><br/>
-En 1989 : Sir Tim Berners-Lee submits his proposal to CERN for an information management system, which subsequently develops into the World Wide Web.
+En 1974 : Sierra Pacific Airlines Flight 802 crashes into the White Mountains near Bishop, California, killing 36.
 <br/><br/>
-En 1971 : The 1971 Turkish military memorandum is sent to the Süleyman Demirel government of Turkey and the government resigns.
+En 1969 : Apollo 9 returns safely to Earth after testing the Lunar Module.
 <br/><br/>
-En 1968 : Mauritius gains independence from the United Kingdom.
+En 1957 : Cuban student revolutionaries storm the presidential palace in Havana in a failed attempt on the life of President Fulgencio Batista.
 <br/><br/>
-En 1967 : Suharto takes power from Sukarno when the People's Consultative Assembly inaugurate him as Acting President of Indonesia.
+En 1954 : The Battle of Điện Biên Phủ begins with an artillery barrage by Viet Minh forces under Võ Nguyên Giáp; Viet Minh victory led to the end of the First Indochina War and French withdrawal from Vietnam.
 <br/><br/>
-En 1950 : The Llandow air disaster kills 80 people when the aircraft they are travelling in crashes near Sigingstone, Wales. At the time this was the world's deadliest air disaster.
+En 1943 : The Holocaust: German forces liquidate the Jewish ghetto in Kraków.
 <br/><br/>
-En 1947 : Cold War: The Truman Doctrine is proclaimed to help stem the spread of Communism.
+En 1940 : The Winter War between Finland and the Soviet Union officially ends after the signing of the Moscow Peace Treaty.
 <br/><br/>
-En 1942 : The Battle of Java ends with the surrender of the American-British-Dutch-Australian Command to the Japanese Empire in Bandung, West Java, Dutch East Indies.
+En 1930 : The news of the discovery of Pluto is announced by Lowell Observatory.
 <br/><br/>
-En 1940 : Winter War: Finland signs the Moscow Peace Treaty with the Soviet Union, ceding almost all of Finnish Karelia.
+En 1920 : The Kapp Putsch briefly ousts the Weimar Republic government from Berlin.
 <br/><br/>
-En 1940 : The most destructive train accident in Finnish history kills 39 and injures 69 people in Turenki, Janakkala.
+En 1900 : British forces occupy Bloemfontein, Orange Free State, during the Second Boer War.
 <br/><br/>
-En 1938 : Anschluss: German troops occupy and absorb Austria.
+En 1888 : The eruption of Ritter Island triggers tsunamis that kill up to 3,000 people on nearby islands.
 <br/><br/>
-En 1933 : Great Depression: Franklin D. Roosevelt addresses the nation for the first time as President of the United States. This is also the first of his "fireside chats".
+En 1884 : The Siege of Khartoum begins. It lasts until January 26, 1885.
 <br/><br/>
-En 1930 : Mahatma Gandhi begins the Salt March, a 200-mile (320 km) march to the sea to protest the British monopoly on salt in India.
+En 1862 : The Act Prohibiting the Return of Slaves is passed by the United States Congress, effectively annulling the Fugitive Slave Act of 1850 and setting the stage for the Emancipation Proclamation.
 <br/><br/>
-En 1928 : In California, the St. Francis Dam fails; the resulting floods kill 431 people.
+En 1848 : The German revolutions of 1848–1849 begin in Vienna.
 <br/><br/>
-En 1920 : The Kapp Putsch begins when the Marinebrigade Ehrhardt is ordered to march on Berlin.
+En 1845 : Felix Mendelssohn's Violin Concerto receives its première performance in Leipzig with Ferdinand David as soloist.
 <br/><br/>
-En 1918 : Moscow becomes the capital of Russia again after Saint Petersburg held this status for most of the period since 1713.
+En 1826 : Pope Leo XII publishes the apostolic constitution Quo Graviora in which he renewed the prohibition on Catholics joining freemasonry.
 <br/><br/>
-En 1913 : The future capital of Australia is officially named Canberra.
+En 1811 : A French and Italian fleet is defeated by a British squadron off the island of Vis in the Adriatic during the Napoleonic Wars.
 <br/><br/>
-En 1912 : The Girl Guides (later renamed the Girl Scouts of the USA) are founded in the United States.
+En 1809 : Gustav IV Adolf of Sweden is deposed in the Coup of 1809.
 <br/><br/>
-En 1811 : Peninsular War: A day after a successful rearguard action, French Marshal Michel Ney once again successfully delays the pursuing Anglo-Portuguese force at the Battle of Redinha.
+En 1781 : William Herschel discovers Uranus.
 <br/><br/>
-En 1689 : James II of England landed at Kinsale, starting the Williamite War in Ireland.
+En 1741 : The Battle of Cartagena de Indias (part of the War of Jenkins' Ear) begins.
 <br/><br/>
-En 1622 : Ignatius of Loyola and Francis Xavier, founders of the Society of Jesus, are canonized by the Roman Catholic Church.
+En 1697 : Nojpetén, capital of the last independent Maya kingdom, falls to Spanish conquistadors, the final step in the Spanish conquest of Guatemala.
 <br/><br/>
-En 1579 : Start of the Siege of Maastricht, part of the Eighty Years' War.
+En 1639 : Harvard College is named after clergyman John Harvard.
 <br/><br/>
-En 1158 : German city Munich (München) is first mentioned as forum apud Munichen in the Augsburg arbitration by Holy Roman Emperor Friedrich I.
+En 1591 : At the Battle of Tondibi in Mali, Moroccan forces of the Saadi dynasty, led by Judar Pasha, defeat the Songhai Empire, despite being outnumbered by at least five to one.
 <br/><br/>
-En 1088 : Election of Urban II as the 159th Pope of the Catholic Church. He is best known for initiating the Crusades.
+En 1567 : The Battle of Oosterweel, traditionally regarded as the start of the Eighty Years' War.
 <br/><br/>
-En 538 : Vitiges, king of the Ostrogoths ends his siege of Rome and retreats to Ravenna, leaving the city to the victorious Byzantine general, Belisarius.
+En 624 : The Battle of Badr, the first major battle between the Muslims and Quraysh.
 <br/><br/>
