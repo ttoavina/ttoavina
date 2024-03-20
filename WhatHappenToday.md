@@ -4,105 +4,99 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/3 ?(Hover on the year)</h1>
+<h1> What happen this day 20/3 ?(Hover on the year)</h1>
 
-En 2023 : The Swiss Government brokers a deal for UBS to buy out rival Credit Suisse in an attempt to calm the 2023 banking crisis.
+En 2019 : Kassym-Jomart Tokayev is sworn in as acting president of Kazakhstan, following the resignation of long-time president Nursultan Nazarbayev.
 <br/><br/>
-En 2019 : The first President of Kazakhstan, Nursultan Nazarbayev, resigns from office after nearly three decades, leaving Senate Chairman Kassym-Jomart Tokayev as the acting President and successor.
+En 2015 : A Solar eclipse, equinox, and a supermoon all occur on the same day.
 <br/><br/>
-En 2016 : Flydubai Flight 981 crashes while attempting to land at Rostov-on-Don international airport, killing all 62 on board.
+En 2015 : Syrian civil war: The Siege of Kobanî is broken by the People's Protection Units (YPG) and Free Syrian Army (FSA), marking a turning point in the Rojava–Islamist conflict.
 <br/><br/>
-En 2016 : An explosion occurs in Taksim Square in Istanbul, Turkey, killing five people and injuring 36.
+En 2014 : Four suspected Taliban members attack the Kabul Serena Hotel, killing at least nine people.
 <br/><br/>
-En 2013 : A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq.
+En 2012 : At least 52 people are killed and more than 250 injured in a wave of terror attacks across ten cities in Iraq.
 <br/><br/>
-En 2011 : Libyan Civil War: After the failure of Muammar Gaddafi's forces to take Benghazi, the French Air Force launches Opération Harmattan, beginning foreign military intervention in Libya.
+En 2010 : Eyjafjallajökull in Iceland begins eruptions that would last for three months, heavily disrupting air travel in Europe.
 <br/><br/>
-En 2008 : GRB 080319B: A cosmic burst that is the farthest object visible to the naked eye is briefly observed.
+En 2006 : Over 150 Chadian soldiers are killed in eastern Chad by members of the rebel UFDC. The rebel movement sought to overthrow Chadian president Idriss Déby.
 <br/><br/>
-En 2004 : Catalina affair: A Swedish DC-3 shot down by a Soviet MiG-15 in 1952 over the Baltic Sea is finally recovered after years of work.
+En 2003 : Iraq War: The United States, the United Kingdom, Australia, and Poland begin an invasion of Iraq.
 <br/><br/>
-En 2004 : March 19 Shooting Incident: The Republic of China (Taiwan) president Chen Shui-bian is shot just before the country's presidential election on March 20.
+En 2000 : Jamil Abdullah Al-Amin, a former Black Panther once known as H. Rap Brown, is captured after murdering Georgia sheriff's deputy Ricky Kinchen and critically wounding Deputy Aldranon English.
 <br/><br/>
-En 2003 : United States President George W. Bush addresses the nation, announcing the beginning of hostilities in the illegal Coalition invasion of Iraq.
+En 1999 : Legoland California, the first Legoland outside of Europe, opens in Carlsbad, California, US.
 <br/><br/>
-En 2002 : Zimbabwe is suspended from the Commonwealth on charges of human rights abuses and of electoral fraud, following a turbulent presidential election.
+En 1995 : The Japanese cult Aum Shinrikyo carries out a sarin gas attack on the Tokyo subway, killing 13 and wounding over 6,200 people.
 <br/><br/>
-En 2001 : German trade union ver.di is formed.
+En 1993 : The Troubles: A Provisional IRA bomb kills two children in Warrington, England. It leads to mass protests in both Britain and Ireland.
 <br/><br/>
-En 1998 : An Ariana Afghan Airlines Boeing 727 crashes on approach to Kabul International Airport, killing all 45 on board.
+En 1990 : Ferdinand Marcos's widow, Imelda Marcos, goes on trial for bribery, embezzlement, and racketeering.
 <br/><br/>
-En 1990 : The ethnic clashes of Târgu Mureș begin four days after the anniversary of the Revolutions of 1848 in the Austrian Empire.
+En 1988 : Eritrean War of Independence: Having defeated the Nadew Command, the Eritrean People's Liberation Front enters the town of Afabet, victoriously concluding the Battle of Afabet.
 <br/><br/>
-En 1989 : The Egyptian flag is raised at Taba, marking the end of Israeli occupation since the Six Days War in 1967 and the Egypt–Israel peace treaty in 1979.
+En 1987 : The Food and Drug Administration approves the anti-AIDS drug, AZT.
 <br/><br/>
-En 1982 : Falklands War: Argentinian forces land on South Georgia Island, precipitating war with the United Kingdom.
+En 1985 : Libby Riddles becomes the first woman to win the 1,135-mile Iditarod Trail Sled Dog Race.
 <br/><br/>
-En 1979 : The United States House of Representatives begins broadcasting its day-to-day business via the cable television network C-SPAN.
+En 1985 : Canadian paraplegic athlete and humanitarian Rick Hansen begins his circumnavigation of the globe in a wheelchair in the name of spinal cord injury medical research.
 <br/><br/>
-En 1969 : The 385-metre-tall (1,263 ft) TV-mast at Emley Moor transmitting station, United Kingdom, collapses due to ice build-up.
+En 1972 : The Troubles: The first car bombing by the Provisional IRA in Belfast kills seven people and injures 148 others in Northern Ireland.
 <br/><br/>
-En 1965 : The wreck of the SS Georgiana, valued at over $50,000,000 and said to have been the most powerful Confederate cruiser, is discovered by teenage diver and pioneer underwater archaeologist E. Lee Spence, exactly 102 years after its destruction.
+En 1969 : A United Arab airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan international Airport, killing 100 people.
 <br/><br/>
-En 1964 : Over 500,000 Brazilians attend the March of the Family with God for Liberty, in protest against the government of João Goulart and against communism.
+En 1964 : The precursor of the European Space Agency, ESRO (European Space Research Organisation) is established per an agreement signed on June 14, 1962.
 <br/><br/>
-En 1962 : The Algerian War of Independence ends.
+En 1956 : Tunisia gains independence from France.
 <br/><br/>
-En 1958 : The Monarch Underwear Company fire leaves 24 dead and 15 injured.
+En 1952 : The US Senate ratifies the Security Treaty Between the United States and Japan.
 <br/><br/>
-En 1946 : French Guiana, Guadeloupe, Martinique, and Réunion become overseas départements of France.
+En 1951 : Fujiyoshida, a city located in Yamanashi Prefecture, Japan, in the center of the Japanese main island of Honshū is founded.
 <br/><br/>
-En 1945 : World War II: Off the coast of Japan, a dive bomber hits the aircraft carrier USS Franklin, killing 724 of her crew. Badly damaged, the ship is able to return to the US under her own power.
+En 1948 : With a Musicians Union ban lifted, the first telecasts of classical music in the United States, under Eugene Ormandy and Arturo Toscanini, are given on CBS and NBC.
 <br/><br/>
-En 1945 : World War II: Adolf Hitler issues his "Nero Decree" ordering all industries, military installations, shops, transportation facilities, and communications facilities in Germany to be destroyed.
+En 1942 : World War II: General Douglas MacArthur, at Terowie, South Australia, makes his famous speech regarding the fall of the Philippines, in which he says: "I came out of Bataan and I shall return".
 <br/><br/>
-En 1944 : World War II: The German army occupies Hungary.
+En 1933 : Reichsführer-SS Heinrich Himmler ordered the creation of Dachau concentration camp as Chief of Police of Munich and appointed Theodor Eicke as the camp commandant.
 <br/><br/>
-En 1943 : Frank Nitti, the Chicago Outfit Boss after Al Capone, commits suicide at the Chicago Central Railyard.
+En 1926 : Chiang Kai-shek initiates a purge of communist elements within the National Revolutionary Army in Guangzhou.
 <br/><br/>
-En 1932 : The Sydney Harbour Bridge is opened.
+En 1923 : The Arts Club of Chicago hosts the opening of Pablo Picasso's first United States showing, entitled Original Drawings by Pablo Picasso, becoming an early proponent of modern art in the United States.
 <br/><br/>
-En 1931 : Governor Fred B. Balzar signs a bill legalizing gambling in Nevada.
+En 1922 : The USS Langley is commissioned as the first United States Navy aircraft carrier.
 <br/><br/>
-En 1921 : Irish War of Independence: One of the biggest engagements of the war takes place at Crossbarry, County Cork. About 100 Irish Republican Army (IRA) volunteers escape an attempt by over 1,300 British forces to encircle them.
+En 1921 : The Upper Silesia plebiscite was a plebiscite mandated by the Versailles Treaty to determine a section of the border between Weimar Germany and Poland.
 <br/><br/>
-En 1920 : The United States Senate rejects the Treaty of Versailles for the second time (the first time was on November 19, 1919).
+En 1916 : Albert Einstein publishes his general theory of relativity.[citation needed]
 <br/><br/>
-En 1918 : The US Congress establishes time zones and approves daylight saving time.
+En 1913 : Sung Chiao-jen, a founder of the Chinese Nationalist Party, is wounded in an assassination attempt and dies 2 days later.
 <br/><br/>
-En 1900 : The British archeologist Sir Arthur John Evans begins excavating Knossos Palace, the center of Cretan civilization.
+En 1896 : With the approval of Emperor Guangxu, the Qing dynasty post office is opened, marking the beginning of a postal service in China.
 <br/><br/>
-En 1895 : Auguste and Louis Lumière record their first footage using their newly patented cinematograph.
+En 1890 : Chancellor of the German Empire Otto von Bismarck is dismissed by Emperor Wilhelm II.
 <br/><br/>
-En 1885 : Louis Riel declares a provisional government in Saskatchewan, beginning the North-West Rebellion.
+En 1888 : The premiere of the very first Romani language operetta is staged in Moscow, Russia.
 <br/><br/>
-En 1865 : American Civil War: The Battle of Bentonville begins. By the end of the battle two days later, Confederate forces had retreated from Four Oaks, North Carolina.
+En 1883 : The Paris Convention for the Protection of Industrial Property is signed.
 <br/><br/>
-En 1863 : The SS Georgiana, said to have been the most powerful Confederate cruiser, is destroyed on her maiden voyage with a cargo of munitions, medicines, and merchandise then valued at over $1,000,000.
+En 1861 : An earthquake destroys Mendoza, Argentina.
 <br/><br/>
-En 1861 : The First Taranaki War ends in New Zealand.
+En 1854 : The Republican Party of the United States is organized in Ripon, Wisconsin, US.
 <br/><br/>
-En 1853 : The Taiping Heavenly Kingdom occupies and makes Nanjing its capital until 1864.
+En 1852 : Harriet Beecher Stowe's Uncle Tom's Cabin is published.
 <br/><br/>
-En 1831 : First documented bank heist in U.S. history, when burglars stole $245,000 (1831 values) from the City Bank (now Citibank) on Wall Street. Most of the money was recovered.
+En 1848 : German revolutions of 1848–49: King Ludwig I of Bavaria abdicates.
 <br/><br/>
-En 1824 : American explorer Benjamin Morrell departed Antarctica after a voyage later plagued by claims of fraud.
+En 1815 : After escaping from Elba, Napoleon enters Paris with a regular army of 140,000 and a volunteer force of around 200,000, beginning his "Hundred Days" rule.
 <br/><br/>
-En 1812 : The Cortes of Cádiz promulgates the Spanish Constitution of 1812.
+En 1760 : The Great Boston Fire of 1760 destroys 349 buildings.
 <br/><br/>
-En 1808 : Charles IV, king of Spain, abdicates after riots and a popular revolt at the winter palace Aranjuez. His son, Ferdinand VII, takes the throne.
+En 1616 : Sir Walter Raleigh is freed from the Tower of London after 13 years of imprisonment.
 <br/><br/>
-En 1687 : Explorer Robert Cavelier de La Salle, searching for the mouth of the Mississippi River, is murdered by his own men.
+En 1602 : The Dutch East India Company is established.
 <br/><br/>
-En 1649 : The House of Commons of England passes an act abolishing the House of Lords, declaring it "useless and dangerous to the people of England".
+En 1600 : The Linköping Bloodbath takes place on Maundy Thursday in Linköping, Sweden: five Swedish noblemen are publicly beheaded in the aftermath of the War against Sigismund (1598–1599).
 <br/><br/>
-En 1563 : The Edict of Amboise is signed, ending the first phase of the French Wars of Religion and granting certain freedoms to the Huguenots.
+En 1206 : Michael IV Autoreianos is appointed Ecumenical Patriarch of Constantinople.
 <br/><br/>
-En 1452 : Frederick III of Habsburg is the last Holy Roman Emperor crowned by medieval tradition in Rome by Pope Nicholas V.
-<br/><br/>
-En 1284 : The Statute of Rhuddlan incorporates the Principality of Wales into England.
-<br/><br/>
-En 1279 : A Mongol victory at the Battle of Yamen ends the Song dynasty in China.
-<br/><br/>
-En 1277 : The Byzantine–Venetian treaty of 1277 is concluded, stipulating a two-year truce and renewing Venetian commercial privileges in the Byzantine Empire.
+En 673 : Emperor Tenmu of Japan assumes the Chrysanthemum Throne at the Palace of Kiyomihara in Asuka.
 <br/><br/>
