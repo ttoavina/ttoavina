@@ -4,131 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 22/3 ?(Hover on the year)</h1>
+<h1> What happen this day 23/3 ?(Hover on the year)</h1>
 
-En 2021 : Ten people are killed in a mass shooting in Boulder, Colorado.
+En 2021 : A container ship runs aground and obstructs the Suez Canal for six days.
 <br/><br/>
-En 2020 : Indian Prime Minister Narendra Modi announces the country's largest ever self-imposed curfew, in an effort to fight the spread of COVID-19.
+En 2020 : Prime Minister Boris Johnson put the United Kingdom into its first national lockdown in response to COVID-19.
 <br/><br/>
-En 2020 : Greek Prime Minister Kyriakos Mitsotakis announces a national lockdown and the country's first ever self-imposed curfew, in an effort to fight the spread of COVID-19.
+En 2019 : The Kazakh capital of Astana was renamed to Nur-Sultan.
 <br/><br/>
-En 2019 : The Special Counsel investigation on the 2016 United States presidential election concludes when Robert Mueller submits his report to the United States Attorney General.
+En 2019 : The US-backed Syrian Democratic Forces capture the town of Baghuz in Eastern Syria, declaring military victory over the Islamic State of Iraq and the Levant after four years of fighting, although the group maintains a scattered presence and sleeper cells across Syria and Iraq.
 <br/><br/>
-En 2019 : Two buses crashed in Kitampo, a town north of Ghana's capital Accra, killing at least 50 people.
+En 2018 : President of Peru Pedro Pablo Kuczynski resigns from the presidency amid a mass corruption scandal before certain impeachment by the opposition-majority Congress of Peru.
 <br/><br/>
-En 2017 : A terrorist attack in London near the Houses of Parliament leaves four people dead and at least 20 injured.
+En 2010 : The Affordable Care Act becomes law in the United States.
 <br/><br/>
-En 2017 : Syrian civil war: Five hundred members of the Syrian Democratic Forces (SDF) are airlifted south of the Euphrates by United States Air Force helicopters, beginning the Battle of Tabqa.
+En 2009 : FedEx Express Flight 80: A McDonnell Douglas MD-11 flying from Guangzhou, China crashes at Tokyo's Narita International Airport, killing both the captain and the co-pilot.
 <br/><br/>
-En 2016 : Three suicide bombers kill 32 people and injure 316 in the 2016 Brussels bombings at the airport and at the Maelbeek/Maalbeek metro station.
+En 2008 : Official opening of Rajiv Gandhi International Airport in Hyderabad, India
 <br/><br/>
-En 2013 : At least 37 people are killed and 200 are injured after a fire destroys a camp containing Burmese refugees near Ban Mae, Thailand.
+En 2003 : Battle of Nasiriyah, first major conflict during the invasion of Iraq.
 <br/><br/>
-En 2006 : Three Christian Peacemaker Team (CPT) hostages are freed by British forces in Baghdad after 118 days of captivity and the murder of their colleague from the U.S., Tom Fox.
+En 2001 : The Russian Mir space station is disposed of, breaking up in the atmosphere before falling into the southern Pacific Ocean near Fiji.
 <br/><br/>
-En 2004 : Ahmed Yassin, co-founder and leader of the Palestinian Sunni Islamist group Hamas, two bodyguards, and nine civilian bystanders are killed in the Gaza Strip when hit by Israeli Air Force Hellfire missiles.
+En 1999 : Gunmen assassinate Paraguay's Vice President Luis María Argaña.
 <br/><br/>
-En 1997 : Tara Lipinski, aged 14 years and nine months, becomes the youngest women's World Figure Skating Champion.
+En 1996 : Taiwan holds its first direct elections and chooses Lee Teng-hui as President.
 <br/><br/>
-En 1997 : Comet Hale–Bopp reaches its closest approach to Earth at 1.315 AU.
+En 1994 : At an election rally in Tijuana, Mexican presidential candidate Luis Donaldo Colosio is assassinated by Mario Aburto Martínez.
 <br/><br/>
-En 1996 : NASA's Space Shuttle Atlantis is launched on its 16th mission, STS-76.
+En 1994 : A United States Air Force (USAF) F-16 aircraft collides with a USAF C-130 at Pope Air Force Base and then crashes, killing 24 United States Army soldiers on the ground. This later became known as the Green Ramp disaster.
 <br/><br/>
-En 1995 : Cosmonaut Valeri Polyakov returns to earth after setting a record of 438 days in space.
+En 1994 : Aeroflot Flight 593 crashed into the Kuznetsk Alatau mountain, Kemerovo Oblast, Russia, killing 75.
 <br/><br/>
-En 1993 : The Intel Corporation ships the first Pentium chips (80586), featuring a 60 MHz clock speed, 100+ MIPS, and a 64 bit data path.
+En 1991 : The Revolutionary United Front, with support from the special forces of Charles Taylor's National Patriotic Front of Liberia, invades Sierra Leone in an attempt to overthrow Joseph Saidu Momoh, sparking the 11-year Sierra Leone Civil War.
 <br/><br/>
-En 1992 : USAir Flight 405 crashes shortly after takeoff from New York City's LaGuardia Airport, leading to a number of studies into the effect that ice has on aircraft.
+En 1988 : Angolan and Cuban forces defeat South Africa in the Battle of Cuito Cuanavale.
 <br/><br/>
-En 1992 : Fall of communism in Albania: The Democratic Party of Albania wins a decisive majority in the parliamentary election.
+En 1983 : Strategic Defense Initiative: President Ronald Reagan makes his initial proposal to develop technology to intercept enemy missiles.
 <br/><br/>
-En 1988 : The United States Congress votes to override President Ronald Reagan's veto of the Civil Rights Restoration Act of 1987.
+En 1982 : Guatemala's government, headed by Fernando Romeo Lucas García is overthrown in a military coup by right-wing General Efraín Ríos Montt.
 <br/><br/>
-En 1982 : NASA's Space Shuttle Columbia is launched from the Kennedy Space Center on its third mission, STS-3.
+En 1980 : Archbishop Óscar Romero of El Salvador gives his famous speech appealing to men of the El Salvadoran armed forces to stop killing the Salvadorans.
 <br/><br/>
-En 1978 : Karl Wallenda of The Flying Wallendas dies after falling off a tight-rope suspended between two hotels in San Juan, Puerto Rico.
+En 1978 : The first UNIFIL troops arrived in Lebanon for peacekeeping mission along the Blue Line.
 <br/><br/>
-En 1975 : A fire at the Browns Ferry Nuclear Power Plant in Decatur, Alabama, causes a dangerous reduction in cooling water levels.
+En 1977 : The first of The Nixon Interviews (12 will be recorded over four weeks) is videotaped with British journalist David Frost interviewing former United States President Richard Nixon about the Watergate scandal and the Nixon tapes.
 <br/><br/>
-En 1972 : The United States Congress sends the Equal Rights Amendment to the states for ratification.
+En 1965 : NASA launches Gemini 3, the United States' first two-man space flight (crew: Gus Grissom and John Young).
 <br/><br/>
-En 1972 : In Eisenstadt v. Baird, the United States Supreme Court decides that unmarried persons have the right to possess contraceptives.
+En 1956 : Pakistan becomes the first Islamic republic in the world. This date is now celebrated as Republic Day in Pakistan.
 <br/><br/>
-En 1970 : Chicano residents in San Diego, California occupy a site under the Coronado Bridge, leading to the creation of Chicano Park.
+En 1940 : The Lahore Resolution (Qarardad-e-Pakistan or Qarardad-e-Lahore) is put forward at the Annual General Convention of the All-India Muslim League.
 <br/><br/>
-En 1963 : The Beatles release their debut album Please Please Me.
+En 1939 : The Hungarian air force attacks the headquarters of the Slovak air force in Spišská Nová Ves, killing 13 people and beginning the Slovak–Hungarian War.
 <br/><br/>
-En 1960 : Arthur Leonard Schawlow and Charles Hard Townes receive the first patent for a laser.
+En 1935 : Signing of the Constitution of the Commonwealth of the Philippines.
 <br/><br/>
-En 1955 : A United States Navy Douglas R6D-1 Liftmaster crashes into Hawaii's Waiʻanae Range, killing 66.
+En 1933 : The Reichstag passes the Enabling Act of 1933, making Adolf Hitler dictator of Germany.
 <br/><br/>
-En 1946 : The United Kingdom grants full independence to Transjordan.
+En 1931 : Bhagat Singh, Shivaram Rajguru and Sukhdev Thapar are hanged for the killing of a deputy superintendent of police during the Indian independence movement.
 <br/><br/>
-En 1945 : World War II: The city of Hildesheim, Germany, is heavily damaged in a British air raid, though it had little military significance and Germany was on the verge of final defeat.
+En 1919 : In Milan, Italy, Benito Mussolini founds his Fascist political movement.
 <br/><br/>
-En 1945 : The Arab League is founded when a charter is adopted in Cairo, Egypt.
+En 1918 : First World War: On the third day of the German Spring Offensive, the 10th Battalion of the Royal West Kent Regiment is annihilated with many of the men becoming prisoners of war
 <br/><br/>
-En 1943 : World War II: The entire village of Khatyn (in present-day Republic of Belarus) is burnt alive by Schutzmannschaft Battalion 118.
+En 1913 : A tornado outbreak kills more than 240 people in the central United States, while an ongoing flood in the Ohio River watershed was killing 650 people.
 <br/><br/>
-En 1942 : World War II: In the Mediterranean Sea, the Royal Navy confronts Italy's Regia Marina in the Second Battle of Sirte.
+En 1909 : Theodore Roosevelt leaves New York for a post-presidency safari in Africa. The trip is sponsored by the Smithsonian Institution and National Geographic Society.
 <br/><br/>
-En 1939 : Germany takes Memel from Lithuania.
+En 1905 : Eleftherios Venizelos calls for Crete's union with Greece, and begins what is to be known as the Theriso revolt.
 <br/><br/>
-En 1934 : The first Masters Tournament is held at Augusta National Golf Club in Georgia.
+En 1901 : Emilio Aguinaldo, only President of the First Philippine Republic, is captured at Palanan, Isabela by the forces of General Frederick Funston.
 <br/><br/>
-En 1933 : Cullen–Harrison Act: President Franklin D. Roosevelt signs an amendment to the Volstead Act, legalizing the manufacture and sale of "3.2 beer" (3.2% alcohol by weight, approximately 4% alcohol by volume) and light wines.
+En 1889 : The Ahmadiyya Muslim Community is established by Mirza Ghulam Ahmad in Qadian, British India.
 <br/><br/>
-En 1933 : Nazi Germany opens its first concentration camp, Dachau.
+En 1888 : In England, The Football League, the world's oldest professional association football league, meets for the first time.
 <br/><br/>
-En 1920 : Azeri and Turkish army soldiers with participation of Kurdish gangs attack the Armenian inhabitants of Shushi (Nagorno Karabakh).
+En 1885 : Sino-French War: Chinese victory in the Battle of Phu Lam Tao near Hưng Hóa, northern Vietnam.
 <br/><br/>
-En 1916 : Yuan Shikai abdicates as Emperor of China, restoring the Republic and returning to the Presidency.
+En 1879 : War of the Pacific: The Battle of Topáter, the first battle of the war is fought between Chile and the joint forces of Bolivia and Peru.
 <br/><br/>
-En 1913 : Mystic Phan Xích Long, the self-proclaimed Emperor of Vietnam, is arrested for organising a revolt against the colonial rule of French Indochina, which was nevertheless carried out by his supporters the following day.
+En 1868 : The University of California is founded in Oakland, California when the Organic Act is signed into law.
 <br/><br/>
-En 1906 : The first England vs France rugby union match is played at Parc des Princes in Paris.
+En 1862 : American Civil War: The First Battle of Kernstown, Virginia, marks the start of Stonewall Jackson's Valley Campaign. Although a Confederate defeat, the engagement distracts Federal efforts to capture Richmond.
 <br/><br/>
-En 1896 : Charilaos Vasilakos wins the first modern Olympic marathon race with a time of three hours and 18 minutes.
+En 1857 : Elisha Otis's first elevator is installed at 488 Broadway New York City.
 <br/><br/>
-En 1895 : Before the Société pour L'Encouragement à l'Industrie, brothers Auguste and Louis Lumière demonstrate movie film technology publicly for the first time.
+En 1848 : The ship John Wickliffe arrives at Port Chalmers carrying the first Scottish settlers for Dunedin, New Zealand. Otago province is founded.
 <br/><br/>
-En 1894 : The Stanley Cup ice hockey competition is held for the first time, in Montreal, Canada.
+En 1839 : A massive earthquake destroys the former capital Inwa of the Konbaung dynasty, present-day Myanmar.
 <br/><br/>
-En 1873 : The Spanish National Assembly abolishes slavery in Puerto Rico.
+En 1821 : Greek War of Independence: Battle and fall of city of Kalamata.
 <br/><br/>
-En 1871 : In North Carolina, William Woods Holden becomes the first governor of a U.S. state to be removed from office by impeachment.
+En 1806 : After traveling through the Louisiana Purchase and reaching the Pacific Ocean, explorers Lewis and Clark and their "Corps of Discovery" begin their arduous journey home.
 <br/><br/>
-En 1849 : The Austrians defeat the Piedmontese at the Battle of Novara.
+En 1801 : Tsar Paul I of Russia is struck with a sword, then strangled, and finally trampled to death inside his bedroom at St. Michael's Castle.
 <br/><br/>
-En 1829 : In the London Protocol, the three protecting powers (United Kingdom, France and Russia) establish the borders of Greece.
+En 1775 : American Revolutionary War: Patrick Henry delivers his speech – "Give me liberty, or give me death!" – at St. John's Episcopal Church, Richmond, Virginia.
 <br/><br/>
-En 1794 : The Slave Trade Act of 1794 bans the export of slaves from the United States, and prohibits American citizens from outfitting a ship for the purpose of importing slaves.
+En 1568 : The Peace of Longjumeau is signed, ending the second phase of the French Wars of Religion.
 <br/><br/>
-En 1792 : Battle of Croix-des-Bouquets: Black slave insurgents gain a victory in the first major battle of the Haitian Revolution.
+En 1540 : Waltham Abbey is surrendered to King Henry VIII of England; the last religious community to be closed during the Dissolution of the Monasteries.
 <br/><br/>
-En 1784 : The Emerald Buddha is moved with great ceremony to its current location in Wat Phra Kaew, Thailand.
-<br/><br/>
-En 1765 : The British Parliament passes the Stamp Act that introduces a tax to be levied directly on its American colonies.
-<br/><br/>
-En 1739 : Nader Shah occupies Delhi in India and sacks the city, stealing the jewels of the Peacock Throne.
-<br/><br/>
-En 1638 : Anne Hutchinson is expelled from Massachusetts Bay Colony for religious dissent.
-<br/><br/>
-En 1631 : The Massachusetts Bay Colony outlaws the possession of cards, dice, and gaming tables.
-<br/><br/>
-En 1622 : Jamestown massacre: Algonquians kill 347 English settlers around Jamestown, Virginia, a third of the colony's population, during the Second Anglo-Powhatan War.
-<br/><br/>
-En 1621 : The Pilgrims of Plymouth Colony sign a peace treaty with Massasoit of the Wampanoags.
-<br/><br/>
-En 1508 : Ferdinand II of Aragon commissions Amerigo Vespucci chief navigator of the Spanish Empire.
-<br/><br/>
-En 1312 : Vox in excelso: Pope Clement V dissolves the Order of the Knights Templar.
-<br/><br/>
-En 1185 : Battle of Yashima: the Japanese forces of the Taira clan are defeated by the Minamoto clan.
-<br/><br/>
-En 871 : Æthelred of Wessex is defeated by a Danish invasion army at the Battle of Marton.
-<br/><br/>
-En 235 : Roman emperor Severus Alexander is murdered, marking the start of the Crisis of the Third Century.
-<br/><br/>
-En 106 : Start of the Bostran era, the calendar of the province of Arabia Petraea.
+En 1400 : The Trần dynasty of Vietnam is deposed, after one hundred and seventy-five years of rule, by Hồ Quý Ly, a court official.
 <br/><br/>
