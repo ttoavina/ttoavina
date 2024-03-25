@@ -4,103 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 24/3 ?(Hover on the year)</h1>
+<h1> What happen this day 25/3 ?(Hover on the year)</h1>
 
-En 2019 : Jakarta MRT, a rapid transit system in Jakarta, began operation.
+En 2018 : Syrian civil war: Following the completion of the Afrin offensive, the Syrian Democratic Forces (SDF) initiate an insurgency against the Turkish occupation of the Afrin District.
 <br/><br/>
-En 2018 : Syrian civil war: The Turkish Armed Forces (TAF) and Syrian National Army (SNA) take full control of Afrin District, marking the end of the Afrin offensive.
+En 2006 : Capitol Hill massacre: A gunman kills six people before taking his own life at a party in Seattle's Capitol Hill neighborhood.
 <br/><br/>
-En 2018 : Students across the United States stage the March for Our Lives demanding gun control in response to the Stoneman Douglas High School shooting.
+En 2006 : Protesters demanding a new election in Belarus, following the rigged 2006 Belarusian presidential election, clash with riot police. Opposition leader Aleksander Kozulin is among several protesters arrested.
 <br/><br/>
-En 2015 : Germanwings Flight 9525 crashes in the French Alps in an apparent pilot mass murder-suicide, killing all 150 people on board.
+En 1996 : The European Union's Veterinarian Committee bans the export of British beef and its by-products as a result of mad cow disease (Bovine spongiform encephalopathy).
 <br/><br/>
-En 2008 : Bhutan officially becomes a democracy, with its first ever general election.
+En 1995 : WikiWikiWeb, the world's first wiki, and part of the Portland Pattern Repository, is made public by Ward Cunningham.
 <br/><br/>
-En 2003 : The Arab League votes 21–1 in favor of a resolution demanding an end to the 2003 invasion of Iraq.
+En 1988 : The Candle demonstration in Bratislava is the first mass demonstration of the 1980s against the communist regime in Czechoslovakia.
 <br/><br/>
-En 1999 : Kosovo War: NATO began attacks on Yugoslavia without United Nations Security Council (UNSC) approval, marking the first time NATO has attacked a sovereign country.
+En 1979 : The first fully functional Space Shuttle orbiter, Columbia, is delivered to the John F. Kennedy Space Center to be prepared for its first launch.
 <br/><br/>
-En 1999 : A lorry carrying margarine and flour catches fire inside the Mont Blanc Tunnel, creating an inferno that kills 38 people.
+En 1975 : Faisal of Saudi Arabia is shot and killed by his nephew.
 <br/><br/>
-En 1998 : Mitchell Johnson and Andrew Golden, aged 11 and 13 respectively, fire upon teachers and students at Westside Middle School in Jonesboro, Arkansas; five people are killed and ten are wounded.
+En 1971 : The Army of the Republic of Vietnam abandon an attempt to cut off the Ho Chi Minh trail in Laos.
 <br/><br/>
-En 1998 : A tornado sweeps through Dantan in India, killing 250 people and injuring 3,000 others.
+En 1965 : Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
 <br/><br/>
-En 1998 : Dr. Rüdiger Marmulla performed the first computer-assisted Bone Segment Navigation at the University of Regensburg, Germany.
+En 1959 : Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a "hunting and fishing retreat", for $5,258.20 ($52,784 in 2022).
 <br/><br/>
-En 1993 : Comet Shoemaker–Levy 9 is discovered by Carolyn and Eugene Shoemaker, and David Levy at the Palomar Observatory in California.
+En 1957 : United States Customs seizes copies of Allen Ginsberg's poem "Howl" on obscenity grounds.
 <br/><br/>
-En 1990 : Indian intervention in the Sri Lankan Civil War ends with last ship of Indian Peace Keeping Force leaving Sri Lanka.
+En 1957 : The European Economic Community is established with West Germany, France, Italy, Belgium, Netherlands and Luxembourg as the first members.
 <br/><br/>
-En 1989 : In Prince William Sound in Alaska, the Exxon Valdez spills 240,000 barrels (38,000 m3) of crude oil after running aground.
+En 1949 : More than 92,000 kulaks are suddenly deported from the Baltic states to Siberia.
 <br/><br/>
-En 1986 : The Loscoe gas explosion leads to new UK laws on landfill gas migration and gas protection on landfill sites.
+En 1948 : The first successful tornado forecast predicts that a tornado will strike Tinker Air Force Base, Oklahoma.
 <br/><br/>
-En 1982 : Bangladeshi President Abdus Sattar is deposed in a bloodless coup led by Army Chief Lieutenant general Hussain Muhammad Ershad, who suspends the Constitution and imposes martial law.
+En 1947 : An explosion in a coal mine in Centralia, Illinois kills 111.
 <br/><br/>
-En 1980 : El Salvadorian Archbishop Óscar Romero is assassinated while celebrating Mass in San Salvador.
+En 1941 : The Kingdom of Yugoslavia joins the Axis powers with the signing of the Tripartite Pact.
 <br/><br/>
-En 1977 : Morarji Desai became the Prime Minister of India, the first Prime Minister not to belong to Indian National Congress.
+En 1932 : The famous Tomb of the Unknown Soldier is unveiled in Athens.
 <br/><br/>
-En 1976 : In Argentina, the armed forces overthrow the constitutional government of President Isabel Perón and start a seven-year dictatorial period self-styled the National Reorganization Process.
+En 1931 : The Scottsboro Boys are arrested in Alabama and charged with rape.
 <br/><br/>
-En 1972 : Direct rule is imposed on Northern Ireland by the Government of the United Kingdom under Edward Heath.
+En 1924 : On the anniversary of Greek Independence, Alexandros Papanastasiou proclaims the Second Hellenic Republic.
 <br/><br/>
-En 1961 : The Quebec Board of the French Language is established.
+En 1919 : The Tetiev pogrom occurs in Ukraine, becoming the prototype of mass murder during the Holocaust.
 <br/><br/>
-En 1949 : Hanns Albin Rauter, a chief SS and Police Leader, in the Netherlands, is convicted and executed for crimes against humanity.
+En 1918 : The Belarusian People's Republic is established.
 <br/><br/>
-En 1946 : A British Cabinet Mission arrives in India to discuss and plan for the transfer of power from the British Raj to Indian leadership.
+En 1917 : The Georgian Orthodox Church restores its autocephaly abolished by Imperial Russia in 1811.
 <br/><br/>
-En 1944 : German troops massacre 335 Italian civilians in Rome.
+En 1914 : The Greek multi-sport club Aris Thessaloniki is founded in Thessaloniki.
 <br/><br/>
-En 1944 : World War II: In an event later dramatized in the movie The Great Escape, 76 Allied prisoners of war begin breaking out of the German camp Stalag Luft III.
+En 1911 : In New York City, the Triangle Shirtwaist Factory fire kills 146 garment workers.
 <br/><br/>
-En 1939 : The 1939 Liechtenstein putsch takes place; approximately 40 members of the VBDL starting from Nendeln march towards Vaduz with the intention of overthrowing the government and provoking Liechtenstein's annexation into Germany.
+En 1911 : Andrey Yushchinsky is murdered in Kiev, leading to the Beilis affair.
 <br/><br/>
-En 1934 : The Tydings–McDuffie Act is passed by the United States Congress, allowing the Philippines to become a self-governing commonwealth.
+En 1905 : The Greek football club P.A.E. G.S. Diagoras is founded in the city of Rhodes.
 <br/><br/>
-En 1927 : Nanking Incident: Foreign warships bombard Nanjing, China, in defence of the foreign citizens within the city.
+En 1894 : Coxey's Army, the first significant American protest march, departs Massillon, Ohio for Washington, D.C.
 <br/><br/>
-En 1921 : The 1921 Women's Olympiad began in Monte Carlo, becoming the first international women's sports event.
+En 1865 : American Civil War: In Virginia during the Siege of Petersburg, Confederate forces temporarily capture Fort Stedman from the Union before being repulsed.
 <br/><br/>
-En 1900 : Mayor of New York City Robert Anderson Van Wyck breaks ground for a new underground "Rapid Transit Railroad" that would link Manhattan and Brooklyn.
+En 1845 : New Zealand Legislative Council pass the first Militia Act constituting the New Zealand Army.
 <br/><br/>
-En 1900 : Carnegie Steel Company is formed in New Jersey; its capitalization of $160 million is the largest to date.
+En 1821 : Greek War of Independence: Traditional date of the start of the Greek War of Independence. The war had actually begun on 23 February 1821 (Julian calendar).
 <br/><br/>
-En 1882 : Robert Koch announces the discovery of Mycobacterium tuberculosis, the bacterium responsible for tuberculosis.
+En 1811 : Percy Bysshe Shelley is expelled from the University of Oxford for publishing the pamphlet The Necessity of Atheism.
 <br/><br/>
-En 1878 : The British frigate HMS Eurydice sinks, killing more than 300.
+En 1807 : The Swansea and Mumbles Railway, then known as the Oystermouth Railway, becomes the first passenger-carrying railway in the world.
 <br/><br/>
-En 1870 : a Chilean prospecting party led by José Díaz Gana discovers the silver ores of Caracoles in the Bolivian portion of Atacama Desert,  leading to the last of the Chilean silver rushes  and a diplomatic dispute over its taxation between Chile and Bolivia.
+En 1802 : The Treaty of Amiens is signed as a "Definitive Treaty of Peace" between France and the United Kingdom.
 <br/><br/>
-En 1869 : The last of Tītokowaru's forces surrendered to the New Zealand government, ending his uprising.
+En 1770 : Daskalogiannis, leads the people of Sfakia in the first Greek uprising against the Ottoman rule
 <br/><br/>
-En 1860 : Sakuradamon Incident: Japanese Chief Minister (Tairō) Ii Naosuke is assassinated by rōnin samurai outside the Sakurada Gate of Edo Castle.
+En 1725 : Bach's chorale cantata Wie schön leuchtet der Morgenstern, BWV 1, is first performed on the Feast of the Annunciation, coinciding with Palm Sunday.
 <br/><br/>
-En 1854 : President José Gregorio Monagas abolishes slavery in Venezuela.
+En 1708 : A French fleet anchors nears Fife Ness as part of the planned French invasion of Britain.
 <br/><br/>
-En 1832 : In Hiram, Ohio, a group of men beat and tar and feather Mormon leader Joseph Smith.
+En 1655 : Saturn's largest moon, Titan, is discovered by Christiaan Huygens.
 <br/><br/>
-En 1829 : The Parliament of the United Kingdom passes the Roman Catholic Relief Act 1829, allowing Catholics to serve in Parliament.
+En 1584 : Sir Walter Raleigh is granted a patent to colonize Virginia.
 <br/><br/>
-En 1794 : In Kraków, Tadeusz Kościuszko announces a general uprising against Imperial Russia and the Kingdom of Prussia, and assumes the powers of the Commander in Chief of all of the Polish forces.
+En 1576 : Jerome Savage takes out a sub-lease to start the Newington Butts Theatre outside London.
 <br/><br/>
-En 1765 : Great Britain passes the Quartering Act, which requires the Thirteen Colonies to house British troops.
+En 1519 : Hernando Cortes, entering province of Tabasco, defeats Tabascan Indians.
 <br/><br/>
-En 1721 : Johann Sebastian Bach dedicated six concertos to Margrave Christian Ludwig of Brandenburg-Schwedt, now commonly called the Brandenburg Concertos, BWV 1046–1051.
+En 1410 : The Yongle Emperor of Ming China launches the first of his military campaigns against the Mongols, resulting in the fall of the Mongol khan Bunyashiri.
 <br/><br/>
-En 1720 : Count Frederick of Hesse-Kassel is elected King of Sweden by the Riksdag of the Estates, after his consort Ulrika Eleonora abdicated the throne on 29 February.
+En 1409 : The Council of Pisa convenes, in an attempt to heal the Western Schism.
 <br/><br/>
-En 1663 : The Province of Carolina is granted by charter to eight Lords Proprietor in reward for their assistance in restoring Charles II of England to the throne.
+En 1306 : Robert the Bruce becomes King of Scots (Scotland).
 <br/><br/>
-En 1603 : James VI of Scotland is proclaimed King James I of England and Ireland, upon the death of Elizabeth I.
+En 1065 : The Great German Pilgrimage is attacked on Good Friday by Beduin bandits, suffering heavy losses.
 <br/><br/>
-En 1603 : Tokugawa Ieyasu is granted the title of shōgun from Emperor Go-Yōzei, and establishes the Tokugawa shogunate in Edo, Japan.
+En 1000 : Fatimid caliph al-Hakim bi-Amr Allah assassinates the eunuch chief minister Barjawan and assumes control of the government.
 <br/><br/>
-En 1401 : Turco-Mongol emperor Timur sacks Damascus.
+En 919 : Romanos Lekapenos seizes the Boukoleon Palace in Constantinople and becomes regent of the Byzantine emperor Constantine VII.
 <br/><br/>
-En 1387 : English victory over a Franco-Castilian-Flemish fleet in the Battle of Margate off the coast of Margate.
+En 717 : Theodosius III resigns the throne to the Byzantine Empire to enter the clergy allowing Leo III to take the throne and begin the Isaurian dynasty.
 <br/><br/>
-En 1199 : King Richard I of England is wounded by a crossbow bolt while fighting in France, leading to his death on April 6.
+En 708 : Pope Constantine becomes the 88th pope. He would be the last pope to visit Constantinople until 1967.
+<br/><br/>
+En 421 : Italian city Venice is founded with the dedication of the first church, that of San Giacomo di Rialto on the islet of Rialto.
+<br/><br/>
+En 410 : The Southern Yan capital of Guanggu falls to the Jin dynasty general Liu Yu, ending the Southern Yan dynasty.
 <br/><br/>
