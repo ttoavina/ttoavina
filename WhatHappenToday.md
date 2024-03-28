@@ -4,101 +4,85 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/3 ?(Hover on the year)</h1>
+<h1> What happen this day 28/3 ?(Hover on the year)</h1>
 
-En 2023 : Seven people, including the perpetrator, are killed in a mass shooting at the Covenant School in Nashville, Tennessee.
+En 2006 : At least one million union members, students and unemployed take to the streets in France in protest at the government's proposed First Employment Contract law.
 <br/><br/>
-En 2020 : North Macedonia becomes the 30th member of NATO.
+En 2005 : An earthquake shakes northern Sumatra with a magnitude of 8.6 and killing over 1000 people.
 <br/><br/>
-En 2016 : A suicide blast in Gulshan-e-Iqbal Park, Lahore claims over 70 lives and leaves almost 300 others injured. The target of the bombing are Christians celebrating Easter.
+En 2003 : In a friendly fire incident, two American A-10 Thunderbolt II aircraft attack British tanks participating in the 2003 invasion of Iraq, killing one soldier.
 <br/><br/>
-En 2015 : Al-Shabab militants attack and temporarily occupy a Mogadishu hotel leaving at least 20 people dead.
+En 2001 : Athens International Airport Eleftherios Venizelos begins operation.
 <br/><br/>
-En 2014 : Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict.
+En 1999 : Kosovo War: Serb paramilitary and military forces kill at least 130 Kosovo Albanians in Izbica.
 <br/><br/>
-En 2009 : The dam forming Situ Gintung, an artificial lake in Indonesia, fails, killing at least 99 people.
+En 1994 : In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters.
 <br/><br/>
-En 2004 : HMS Scylla, a decommissioned Leander-class frigate, is sunk as an artificial reef off Cornwall, the first of its kind in Europe.
+En 1990 : United States President George H. W. Bush posthumously awards Jesse Owens the Congressional Gold Medal.
 <br/><br/>
-En 2002 : Passover massacre: A Palestinian suicide bomber kills 29 people at a Passover seder in Netanya, Israel.
+En 1979 : A coolant leak at the Three Mile Island's Unit 2 nuclear reactor outside Harrisburg, Pennsylvania leads to the core overheating and a partial meltdown.
 <br/><br/>
-En 2002 : Nanterre massacre: In Nanterre, France, a gunman opens fire at the end of a town council meeting, resulting in the deaths of eight councilors; 19 other people are injured.
+En 1979 : The British House of Commons passes a vote of no confidence against James Callaghan's government by one vote, precipitating a general election.
 <br/><br/>
-En 2000 : A Phillips Petroleum plant explosion in Pasadena, Texas kills one person and injures 71 others.
+En 1978 : The US Supreme Court hands down 5–3 decision in Stump v. Sparkman, a controversial case involving involuntary sterilization and judicial immunity.
 <br/><br/>
-En 1999 : Kosovo War: An American Lockheed F-117A Nighthawk is shot down by a Yugoslav Army SAM, the first and only Nighthawk to be lost in combat.
+En 1970 : An earthquake strikes western Turkey at about 23:05 local time, killing 1,086 and injuring at least 1,200.
 <br/><br/>
-En 1998 : The Food and Drug Administration approves Viagra for use as a treatment for erectile dysfunction, the first pill to be approved for this condition in the United States.
+En 1969 : Greek poet and Nobel Prize laureate Giorgos Seferis makes a famous statement on the BBC World Service opposing the junta in Greece.
 <br/><br/>
-En 1993 : Jiang Zemin is appointed President of the People's Republic of China.
+En 1968 : Brazilian high school student Edson Luís de Lima Souto is killed by military police at a student protest.
 <br/><br/>
-En 1993 : Italian former minister and Christian Democracy leader Giulio Andreotti is accused of mafia allegiance by the tribunal of Palermo.
+En 1965 : An Mw  7.4 earthquake in Chile sets off a series of tailings dam failures, burying the town of El Cobre and killing at least 500 people.
 <br/><br/>
-En 1990 : The United States begins broadcasting anti-Castro propaganda to Cuba on TV Martí.
+En 1961 : ČSA Flight 511 crashes in Igensdorf, Germany, killing 52.
 <br/><br/>
-En 1986 : A car bomb explodes outside Russell Street Police HQ in Melbourne, Australia, killing one police officer and injuring 21 people.
+En 1959 : The State Council of the People's Republic of China dissolves the government of Tibet.
 <br/><br/>
-En 1981 : The Solidarity movement in Poland stages a warning strike, in which at least 12 million Poles walk off their jobs for four hours.
+En 1946 : Cold War: The United States Department of State releases the Acheson–Lilienthal Report, outlining a plan for the international control of nuclear power.
 <br/><br/>
-En 1980 : The Norwegian oil platform Alexander L. Kielland collapses in the North Sea, killing 123 of its crew of 212.
+En 1942 : World War II: A British combined force permanently disables the Louis Joubert Lock in Saint-Nazaire in order to keep the German battleship Tirpitz away from the mid-ocean convoy lanes.
 <br/><br/>
-En 1977 : Tenerife airport disaster: Two Boeing 747 airliners collide on a foggy runway on Tenerife in the Canary Islands, killing 583 (all 248 on KLM and 335 on Pan Am). Sixty-one survived on the Pan Am flight. This is the deadliest aviation accident in history.
+En 1941 : World War II: First day of the Battle of Cape Matapan in Greece between the navies of the United Kingdom and Australia, and the Royal Italian navy.
 <br/><br/>
-En 1976 : The first section of the Washington Metro opens to the public.
+En 1939 : Spanish Civil War: Generalissimo Francisco Franco conquers Madrid after a three-year siege.
 <br/><br/>
-En 1975 : Construction of the Trans-Alaska Pipeline System begins.
+En 1933 : The Imperial Airways biplane City of Liverpool is believed to be the first airliner lost to sabotage when a passenger sets a fire on board.
 <br/><br/>
-En 1964 : The Good Friday earthquake, the most powerful earthquake recorded in North American history at a magnitude of 9.2 strikes Southcentral Alaska, killing 125 people and inflicting massive damage to the city of Anchorage.
+En 1920 : Palm Sunday tornado outbreak of 1920 affects the Great Lakes region and Deep South states.
 <br/><br/>
-En 1958 : Nikita Khrushchev becomes Chairman of the Council of Ministers of the Soviet Union.
+En 1918 : General John J. Pershing, during World War I, cancels 42nd 'Rainbow' Division's orders to Rolampont for further training and diverted it to the occupy the Baccarat sector. Rainbow Division becomes "the first American division to take over an entire sector on its own, which it held longer than any other American division-occupied sector alone for a period of three months".
 <br/><br/>
-En 1945 : World War II: Operation Starvation, the aerial mining of Japan's ports and waterways begins. Argentina declares war on the Axis Powers.
+En 1918 : Finnish Civil War: On the so-called "Bloody Maundy Thursday of Tampere", the Whites force the Reds to attack the city center, where the city's fiercest battles being fought in Kalevankangas with large casualties on both sides. During the same day, an explosion at the Red headquarters of Tampere kills several commanders.
 <br/><br/>
-En 1943 : World War II: Battle of the Komandorski Islands: In the Aleutian Islands the battle begins when United States Navy forces intercept Japanese attempting to reinforce a garrison at Kiska.
+En 1910 : Henri Fabre becomes the first person to fly a seaplane, the Fabre Hydravion, after taking off from a water runway near in France.
 <br/><br/>
-En 1942 : The Holocaust: Nazi Germany and Vichy France begin the deportation of 65,000 Jews from Drancy internment camp to German extermination camps.
+En 1862 : American Civil War: In the Battle of Glorieta Pass, Union forces stop the Confederate invasion of the New Mexico Territory. The battle began on March 26.
 <br/><br/>
-En 1941 : World War II: Yugoslav Air Force officers topple the pro-Axis government in a bloodless coup.
+En 1860 : First Taranaki War: The Battle of Waireka begins.
 <br/><br/>
-En 1938 : Second Sino-Japanese War: The Battle of Taierzhuang begins, resulting several weeks later in the war's first major Chinese victory over Japan.
+En 1854 : Crimean War: France and Britain declare war on Russia.
 <br/><br/>
-En 1933 : Japanese invasion of Manchuria: Japan leaves the League of Nations after it approves the Lytton Report that ruled in favour of China.
+En 1842 : First concert of the Vienna Philharmonic Orchestra, conducted by Otto Nicolai.
 <br/><br/>
-En 1918 : The National Council of Bessarabia proclaims union with the Kingdom of Romania.
+En 1814 : War of 1812: In the Battle of Valparaíso, two American naval vessels are captured by two Royal Navy vessels.
 <br/><br/>
-En 1915 : Typhoid Mary, the first healthy carrier of disease ever identified in the United States, is put in quarantine for the second time, where she would remain for the rest of her life.
+En 1809 : Peninsular War: France defeats Spain in the Battle of Medellín.
 <br/><br/>
-En 1912 : First Lady Helen Taft and the Viscountess Chinda, wife of the Japanese ambassador, plant two Yoshino cherry trees on the northern bank of the Potomac River in Washington, D.C., the origin of the National Cherry Blossom Festival.
+En 1802 : Heinrich Wilhelm Matthäus Olbers discovers 2 Pallas, the second asteroid ever to be discovered.
 <br/><br/>
-En 1901 : Philippine–American War: Emilio Aguinaldo, leader of the First Philippine Republic, is captured by the Americans.
+En 1801 : Treaty of Florence is signed, ending the war between the French Republic and the Kingdom of Naples.
 <br/><br/>
-En 1899 : Emilio Aguinaldo leads Filipino forces for the only time during the Philippine–American War at the Battle of Marilao River.
+En 1795 : Partitions of Poland: The Duchy of Courland and Semigallia, a northern fief of the Polish–Lithuanian Commonwealth, ceases to exist and becomes part of Imperial Russia.
 <br/><br/>
-En 1886 : Geronimo, Apache warrior, surrenders to the U.S. Army, ending the main phase of the Apache Wars.
+En 1776 : Juan Bautista de Anza finds the site for the Presidio of San Francisco.
 <br/><br/>
-En 1884 : A mob in Cincinnati, Ohio, United States attacks members of a jury which had returned a verdict of manslaughter in what was seen as a clear case of murder; over the next few days the mob would riot and burn down the courthouse.
+En 1566 : The foundation stone of Valletta, Malta's capital city, is laid by Jean Parisot de Valette, Grand Master of the Sovereign Military Order of Malta.
 <br/><br/>
-En 1871 : The first international rugby football match, when Scotland defeats England in Edinburgh at Raeburn Place.
+En 1065 : The Great German Pilgrimage, which had been under attack by Bedouin bandits for three days, is rescued by the Fatimid governor of Ramla.
 <br/><br/>
-En 1866 : President of the United States of America Andrew Johnson vetoes the Civil Rights Act of 1866. His veto is overridden by Congress and the bill passes into law on April 9.
+En 364 : Roman Emperor Valentinian I appoints his brother Flavius Valens co-emperor.
 <br/><br/>
-En 1836 : Texas Revolution: On the orders of General Antonio López de Santa Anna, the Mexican Army massacres 342 Texian Army POWs at Goliad, Texas.
+En 193 : After assassinating the Roman Emperor Pertinax, his Praetorian Guards auction off the throne to Didius Julianus.
 <br/><br/>
-En 1814 : War of 1812: In central Alabama, U.S. forces under General Andrew Jackson defeat the Creek at the Battle of Horseshoe Bend.
-<br/><br/>
-En 1809 : Peninsular War: A combined Franco-Polish force defeats the Spanish in the Battle of Ciudad Real.
-<br/><br/>
-En 1794 : The United States Government establishes a permanent navy and authorizes the building of six frigates.
-<br/><br/>
-En 1782 : The Second Rockingham ministry assumes office in Great Britain and begins negotiations to end the American War of Independence.
-<br/><br/>
-En 1638 : The first of four destructive Calabrian earthquakes strikes southern Italy. Measuring magnitude 6.8 and assigned a Mercalli intensity of XI, it kills 10,000–30,000 people.
-<br/><br/>
-En 1625 : Charles I becomes King of England, Scotland and Ireland as well as claiming the title King of France.
-<br/><br/>
-En 1513 : Spanish explorer Juan Ponce de León reaches the northern end of The Bahamas on his first voyage to Florida.
-<br/><br/>
-En 1329 : Pope John XXII issues his In Agro Dominico condemning some writings of Meister Eckhart as heretical.
-<br/><br/>
-En 1309 : Pope Clement V imposes excommunication and interdiction on Venice, and a general prohibition of all commercial intercourse with Venice, which had seized Ferrara, a papal fiefdom.
+En 37 : Roman emperor Caligula accepts the titles of the Principate, bestowed on him by the Senate.
 <br/><br/>
