@@ -4,97 +4,95 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 29/3 ?(Hover on the year)</h1>
+<h1> What happen this day 30/3 ?(Hover on the year)</h1>
 
-En 2021 : The ship Ever Given was dislodged from the Suez Canal.
+En 2023 : Donald Trump becomes the first former United States president to be indicted by a grand jury.
 <br/><br/>
-En 2017 : Prime Minister Theresa May invokes Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union.
+En 2019 : Pope Francis visits Morocco.
 <br/><br/>
-En 2016 : A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan.
+En 2018 : The Israeli Army kills 17 Palestinians and wounds 1,400 in Gaza during Land Day protests.
 <br/><br/>
-En 2015 : Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and five crews on board survive, with 23 treated for minor injuries.
+En 2017 : SpaceX conducts the world's first reflight of an orbital class rocket.
 <br/><br/>
-En 2014 : The first same-sex marriages in England and Wales are performed.
+En 2011 : Min Aung Hlaing is appointed as the Commander-in-Chief of Myanmar's armed forces.
 <br/><br/>
-En 2013 : At least 36 people are killed when a 16-floor building collapses in the commercial capital Dar es Salaam, Tanzania.
+En 2009 : Twelve gunmen attack the Manawan Police Academy in Lahore, Pakistan.
 <br/><br/>
-En 2010 : Two suicide bombers hit the Moscow Metro system at the peak of the morning rush hour, killing 40.
+En 2008 : Drolma Kyi arrested by Chinese authorities.
 <br/><br/>
-En 2004 : Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia join NATO as full members.
+En 2006 : Cyclone Glenda, one of the strongest tropical cyclones in the Australian region makes landfall near Onslow, Western Australia.
 <br/><br/>
-En 2002 : In reaction to the Passover massacre two days prior, Israel launches Operation Defensive Shield against Palestinian militants, its largest military operation in the West Bank since the 1967 Six-Day War.
+En 2002 : The 2002 Lyon car attack takes place.
 <br/><br/>
-En 2001 : A Gulfstream III crashes on approach to Aspen/Pitkin County Airport in Aspen, Colorado. All 18 people on board are killed.
+En 1982 : Space Shuttle program: STS-3 mission is completed with the landing of Columbia at White Sands Missile Range, New Mexico.
 <br/><br/>
-En 1999 : The Dow Jones Industrial Average closes above the 10,000 mark (10,006.78) for the first time, during the height of the dot-com bubble.
+En 1981 : U.S. President Ronald Reagan is shot in the chest outside a Washington, D.C., hotel by John Hinckley Jr.; three others are wounded in the same incident.
 <br/><br/>
-En 1999 : A magnitude 6.8 earthquake in India strikes the Chamoli district in Uttar Pradesh, killing 103.
+En 1979 : Airey Neave, a British Member of Parliament (MP), is killed by a car bomb as he exits the Palace of Westminster. The Irish National Liberation Army claims responsibility.
 <br/><br/>
-En 1990 : The Czechoslovak parliament is unable to reach an agreement on what to call the country after the fall of Communism, sparking the so-called Hyphen War.
+En 1976 : Israeli-Palestinian conflict: in the first organized response against Israeli policies by a Palestinian collective since 1948, Palestinians create the first Land Day.
 <br/><br/>
-En 1984 : The Baltimore Colts load its possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer its operations to Indianapolis.
+En 1972 : Vietnam War: The Easter Offensive begins after North Vietnamese forces cross into the Demilitarized Zone (DMZ) of South Vietnam.
 <br/><br/>
-En 1982 : The Canada Act 1982 receives the Royal Assent from Queen Elizabeth II, setting the stage for the Queen of Canada to proclaim the Constitution Act, 1982.
+En 1967 : Delta Air Lines Flight 9877 crashes at Louis Armstrong New Orleans International Airport, killing 19.
 <br/><br/>
-En 1974 : NASA's Mariner 10 becomes the first space probe to fly by Mercury.
+En 1965 : Vietnam War: A car bomb explodes in front of the United States Embassy, Saigon, killing 22 and wounding 183 others.
 <br/><br/>
-En 1974 : Terracotta Army was discovered in Shaanxi province, China.
+En 1961 : The Single Convention on Narcotic Drugs is signed in New York City.
 <br/><br/>
-En 1973 : Vietnam War: The last United States combat soldiers leave South Vietnam.
+En 1959 : Tenzin Gyatso, the 14th Dalai Lama, flees Tibet for India.
 <br/><br/>
-En 1973 : Operation Barrel Roll, a covert American bombing campaign in Laos to stop communist infiltration of South Vietnam, ends.
+En 1949 : Cold War: A riot breaks out in Austurvöllur square in Reykjavík, when Iceland joins NATO.
 <br/><br/>
-En 1971 : My Lai Massacre: Lieutenant William Calley is convicted of premeditated murder and sentenced to life in prison.
+En 1945 : World War II: Soviet forces invade Austria and capture Vienna. Polish and Soviet forces liberate Danzig.
 <br/><br/>
-En 1962 : Arturo Frondizi, the president of Argentina, is overthrown in a military coup by Argentina's armed forces, ending an 111⁄2 day constitutional crisis.
+En 1944 : World War II: Allied bombers conduct their most severe bombing run on Sofia, Bulgaria.
 <br/><br/>
-En 1961 : The Twenty-third Amendment to the United States Constitution is ratified, allowing residents of Washington, D.C., to vote in presidential elections.
+En 1944 : Out of 795 Lancasters, Halifaxes and Mosquitos sent to attack Nuremberg, 95 bombers do not return, making it the largest RAF Bomber Command loss of the war.
 <br/><br/>
-En 1957 : The New York, Ontario and Western Railway makes its final run, the first major U.S. railroad to be abandoned in its entirety.
+En 1940 : Second Sino-Japanese War: Japan declares Nanking capital of a new Chinese puppet government, nominally controlled by Wang Jingwei.
 <br/><br/>
-En 1951 : Julius and Ethel Rosenberg are convicted of conspiracy to commit espionage.
+En 1939 : The Heinkel He 100 fighter sets a world airspeed record of 463 mph (745 km/h).
 <br/><br/>
-En 1951 : Hypnosis murders in Copenhagen
+En 1918 : Beginning of the bloody March Events in Baku and other locations of Baku Governorate.
 <br/><br/>
-En 1947 : Malagasy Uprising against French colonial rule begins in Madagascar.
+En 1912 : Sultan Abd al-Hafid signs the Treaty of Fez, making Morocco a French protectorate.
 <br/><br/>
-En 1942 : The Bombing of Lübeck in World War II is the first major success for the RAF Bomber Command against Germany and a German city.
+En 1900 : Archaeologists in Knossos, Crete, discover the first clay tablet with hieroglyphic writing in a script later called Linear B.
 <br/><br/>
-En 1941 : The North American Regional Broadcasting Agreement goes into effect at 03:00 local time.
+En 1899 : German Society of Chemistry issues an invitation to other national scientific organizations to appoint delegates to the International Committee on Atomic Weights.
 <br/><br/>
-En 1941 : World War II: British Royal Navy and Royal Australian Navy forces defeat those of the Italian Regia Marina off the Peloponnesian coast of Greece in the Battle of Cape Matapan.
+En 1885 : The Battle for Kushka triggers the Panjdeh Incident which nearly gives rise to war between the Russian and British Empires.
 <br/><br/>
-En 1936 : The 1936 German parliamentary election and referendum seeks approval for the recent remilitarization of the Rhineland.
+En 1870 : Texas is readmitted to the United States Congress following Reconstruction.
 <br/><br/>
-En 1927 : Sunbeam 1000hp breaks the land speed record at Daytona Beach, Florida.
+En 1867 : Alaska is purchased from Russia for $7.2 million, about two cents/acre ($4.19/km2), by United States Secretary of State William H. Seward.
 <br/><br/>
-En 1882 : The Knights of Columbus is established.
+En 1863 : Danish prince Wilhelm Georg is chosen as King George of Greece.
 <br/><br/>
-En 1879 : Anglo-Zulu War: Battle of Kambula: British forces defeat 20,000 Zulus.
+En 1861 : Discovery of the chemical elements: Sir William Crookes announces his discovery of thallium.
 <br/><br/>
-En 1871 : Royal Albert Hall is opened by Queen Victoria.
+En 1856 : The Treaty of Paris is signed, ending the Crimean War.
 <br/><br/>
-En 1867 : Queen Victoria gives Royal Assent to the British North America Act which establishes Canada on July 1.
+En 1855 : Origins of the American Civil War: "Border Ruffians" from Missouri invade Kansas and force election of a pro-slavery legislature.
 <br/><br/>
-En 1857 : Sepoy Mangal Pandey of the 34th Regiment, Bengal Native Infantry mutinies against the East India Company's rule in India and inspires the protracted Indian Rebellion of 1857, also known as the Sepoy Mutiny.
+En 1844 : One of the most important battles of the Dominican War of Independence from Haiti takes place near the city of Santiago de los Caballeros.
 <br/><br/>
-En 1849 : The United Kingdom annexes the Punjab.
+En 1842 : Ether anesthesia is used for the first time, in an operation by the American surgeon Dr. Crawford Long.
 <br/><br/>
-En 1847 : Mexican–American War: United States forces led by General Winfield Scott take Veracruz after a siege.
+En 1841 : The National Bank of Greece is founded in Athens.
 <br/><br/>
-En 1809 : King Gustav IV Adolf of Sweden abdicates after a coup d'état.
+En 1822 : The Florida Territory is created in the United States.
 <br/><br/>
-En 1809 : At the Diet of Porvoo, Finland's four Estates pledge allegiance to Alexander I of Russia, commencing the secession of the Grand Duchy of Finland from Sweden.
+En 1818 : Physicist Augustin Fresnel reads a memoir on optical rotation to the French Academy of Sciences, reporting that when polarized light is "depolarized" by a Fresnel rhomb, its properties are preserved in any subsequent passage through an optically-rotating crystal or liquid.
 <br/><br/>
-En 1806 : Construction is authorized of the Great National Pike, better known as the Cumberland Road, becoming the first United States federal highway.
+En 1815 : Joachim Murat issues the Rimini Proclamation, among the earliest calls for Italian unification.
 <br/><br/>
-En 1792 : King Gustav III of Sweden dies after being shot in the back at a midnight masquerade ball at Stockholm's Royal Opera 13 days earlier.
+En 1699 : Guru Gobind Singh establishes the Khalsa in Anandpur Sahib, Punjab.
 <br/><br/>
-En 1632 : Treaty of Saint-Germain is signed returning Quebec to French control after the English had seized it in 1629.
+En 1296 : Edward I sacks Berwick-upon-Tweed, during armed conflict between Scotland and England.
 <br/><br/>
-En 1549 : The city of Salvador, Bahia, the first capital of Brazil, is founded.
+En 1282 : The people of Sicily rebel against the Angevin king Charles I, in what becomes known as the Sicilian Vespers.
 <br/><br/>
-En 1461 : Battle of Towton: Edward of York defeats Queen Margaret to become King Edward IV of England, bringing a temporary stop to the Wars of the Roses.
-<br/><br/>
-En 1430 : The Ottoman Empire under Murad II captures Thessalonica from the Republic of Venice.
+En 598 : Avar–Byzantine wars: The Avars lift the siege at the Byzantine stronghold of Tomis. Their leader Bayan I retreats north of the Danube River after the Avaro-Slavic army is decimated by the plague.
 <br/><br/>
