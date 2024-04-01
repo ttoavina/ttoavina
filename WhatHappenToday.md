@@ -4,115 +4,115 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 31/3 ?(Hover on the year)</h1>
+<h1> What happen this day 1/4 ?(Hover on the year)</h1>
 
-En 2023 : A historic tornado outbreak occurs in the Midwest and the northern South
+En 2016 : The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact.
 <br/><br/>
-En 2018 : Start of the 2018 Armenian revolution.
+En 2011 : After protests against the burning of the Quran turn violent, a mob attacks a United Nations compound in Mazar-i-Sharif, Afghanistan, resulting in the deaths of thirteen people, including eight foreign workers.
 <br/><br/>
-En 2016 : NASA astronaut Scott Kelly and Roscosmos cosmonaut Mikhail Kornienko return to Earth after a yearlong mission at the International Space Station.
+En 2006 : Serious Organised Crime Agency (SOCA) of the Government of the United Kingdom is enforced, but later merged into National Crime Agency on 7 October 2013.
 <br/><br/>
-En 2004 : Iraq War in Anbar Province: In Fallujah, Iraq, four American private military contractors working for Blackwater USA, are killed after being ambushed.
+En 2004 : Google launches its Email service Gmail.
 <br/><br/>
-En 1998 : Netscape releases Mozilla source code under an open source license.
+En 2001 : An EP-3E United States Navy surveillance aircraft collides with a Chinese People's Liberation Army Shenyang J-8 fighter jet. The Chinese pilot ejected but is subsequently lost. The Navy crew makes an emergency landing in Hainan, China and is detained.
 <br/><br/>
-En 1995 : Selena is murdered by her fan club president Yolanda Saldívar at a Days Inn in Corpus Christi, Texas.
+En 2001 : Former President of Federal Republic of Yugoslavia Slobodan Milošević surrenders to police special forces, to be tried on war crimes charges.
 <br/><br/>
-En 1995 : TAROM Flight 371, an Airbus A310-300, crashes near Balotesti, Romania, killing all 60 people on board.
+En 2001 : Same-sex marriage becomes legal in the Netherlands, the first contemporary country to allow it.
 <br/><br/>
-En 1993 : The Macao Basic Law is adopted by the Eighth National People's Congress of China to take effect December 20, 1999. Resumption by China of the Exercise of Sovereignty over Macao
+En 1999 : Nunavut is established as a Canadian territory carved out of the eastern part of the Northwest Territories.
 <br/><br/>
-En 1992 : The USS Missouri, the last active United States Navy battleship, is decommissioned in Long Beach, California.
+En 1997 : Comet Hale–Bopp is seen passing at perihelion.
 <br/><br/>
-En 1992 : The Treaty of Federation is signed in Moscow.
+En 1993 : NASCAR racer Alan Kulwicki is killed in a plane crash near the Tri-Cities Regional Airport in Blountville, Tennessee.
 <br/><br/>
-En 1991 : Georgian independence referendum: Nearly 99 percent of the voters support the country's independence from the Soviet Union.
+En 1989 : Margaret Thatcher's new local government tax, the Community Charge (commonly known as the "poll tax"), is introduced in Scotland.
 <br/><br/>
-En 1991 : The Warsaw Pact formally disbands.
+En 1986 : Communist Party of Nepal (Mashal) cadres attack a number of police stations in Kathmandu, seeking to incite a popular rebellion.
 <br/><br/>
-En 1990 : Approximately 200,000 protesters take to the streets of London to protest against the newly introduced Poll Tax.
+En 1984 : Singer Marvin Gaye is shot to death by his father in his home in Arlington Heights, Los Angeles, California.
 <br/><br/>
-En 1986 : Mexicana de Aviación Flight 940 crashes into the Sierra Madre Oriental mountain range near the Mexican town of Maravatío, killing 167.
+En 1979 : Iran becomes an Islamic republic by a 99% vote, officially overthrowing the Shah.
 <br/><br/>
-En 1980 : The Chicago, Rock Island and Pacific Railroad operates its final train after being ordered to liquidate its assets because of bankruptcy and debts owed to creditors.
+En 1976 : Steve Jobs and Steve Wozniak found Apple Computer, Inc.
 <br/><br/>
-En 1970 : Explorer 1 re-enters the Earth's atmosphere after 12 years in orbit.
+En 1974 : The Local Government Act 1972 of England and Wales comes into effect.
 <br/><br/>
-En 1968 : American President Lyndon B. Johnson speaks to the nation of "Steps to Limit the War in Vietnam" in a television address. At the conclusion of his speech, he announces: "I shall not seek, and I will not accept, the nomination of my party for another term as your President."
+En 1973 : Project Tiger, a tiger conservation project, is launched in the Jim Corbett National Park, India.
 <br/><br/>
-En 1966 : The Soviet Union launches Luna 10 which later becomes the first space probe to enter orbit around the Moon.
+En 1971 : Bangladesh Liberation War: The Pakistan Army massacre more than a thousand people in Keraniganj Upazila, Bangladesh.
 <br/><br/>
-En 1966 : The Labour Party under Harold Wilson wins the 1966 United Kingdom general election.
+En 1970 : President Richard Nixon signs the Public Health Cigarette Smoking Act into law.
 <br/><br/>
-En 1964 : Brazilian General Olímpio Mourão Filho orders his troops to move towards Rio de Janeiro, beginning the coup d'état and 21 years of military dictatorship.
+En 1970 : A Royal Air Maroc Sud Aviation Caravelle crashes near Berrechid, Morocco, killing 61.
 <br/><br/>
-En 1959 : The 14th Dalai Lama, crosses the border into India and is granted political asylum.
+En 1969 : The Hawker Siddeley Harrier, the first operational fighter aircraft with Vertical/Short Takeoff and Landing capabilities, enters service with the Royal Air Force.
 <br/><br/>
-En 1958 : In the Canadian federal election, the Progressive Conservatives, led by John Diefenbaker, win the largest percentage of seats in Canadian history, with 208 seats of 265.
+En 1964 : The British Admiralty, War Office and Air Ministry are replaced by a unified Defence Council of the United Kingdom.
 <br/><br/>
-En 1957 : Elections to the Territorial Assembly of the French colony Upper Volta are held. After the elections PDU and MDV form a government.
+En 1960 : The TIROS-1 satellite transmits the first television picture from space.
 <br/><br/>
-En 1951 : Remington Rand delivers the first UNIVAC I computer to the United States Census Bureau.
+En 1955 : The EOKA rebellion against the British Empire begins in Cyprus, with the goal of unifying with Greece.
 <br/><br/>
-En 1949 : The Dominion of Newfoundland joins the Canadian Confederation and becomes the 10th Province of Canada.
+En 1954 : United States President Dwight D. Eisenhower authorizes the creation of the United States Air Force Academy in Colorado Springs, Colorado.
 <br/><br/>
-En 1945 : World War II: A defecting German pilot delivers a Messerschmitt Me 262A-1, the world's first operational jet-powered fighter aircraft, to the Americans, the first to fall into Allied hands.
+En 1949 : Chinese Civil War: The Chinese Communist Party holds unsuccessful peace talks with the Nationalist Party in Beijing, after three years of fighting.
 <br/><br/>
-En 1942 : World War II: Japanese forces invade Christmas Island, then a British possession.
+En 1949 : The Government of Canada repeals Japanese-Canadian internment after seven years.
 <br/><br/>
-En 1939 : Events preceding World War II in Europe: Prime Minister Neville Chamberlain pledges British military support to the Second Polish Republic in the event of an invasion by Nazi Germany.
+En 1948 : Cold War: Communist forces respond to the introduction of the Deutsche Mark by attempting to force the western powers to withdraw from Berlin.
 <br/><br/>
-En 1933 : The Civilian Conservation Corps is established with the mission of relieving rampant unemployment in the United States.
+En 1948 : Faroe Islands gain autonomy from Denmark.
 <br/><br/>
-En 1931 : An earthquake in Nicaragua destroys Managua; killing 2,000.
+En 1947 : The only mutiny in the history of the Royal New Zealand Navy begins.
 <br/><br/>
-En 1931 : A Transcontinental & Western Air airliner crashes near Bazaar, Kansas, killing eight, including University of Notre Dame head football coach Knute Rockne.
+En 1946 : The 8.6 Mw  Aleutian Islands earthquake shakes the Aleutian Islands with a maximum Mercalli intensity of VI (Strong). A destructive tsunami reaches the Hawaiian Islands resulting in dozens of deaths, mostly in Hilo, Hawaii.
 <br/><br/>
-En 1930 : The Motion Picture Production Code is instituted, imposing strict guidelines on the treatment of sex, crime, religion and violence in film, in the U.S., for the next thirty-eight years.
+En 1946 : The Malayan Union is established. Protests from locals led to the establishment of the Federation of Malaya two years later.
 <br/><br/>
-En 1921 : The Royal Australian Air Force is formed.
+En 1945 : World War II: The Tenth United States Army attacks the Thirty-Second Japanese Army on Okinawa.
 <br/><br/>
-En 1918 : Massacre of ethnic Azerbaijanis is committed by allied armed groups of Armenian Revolutionary Federation and Bolsheviks. Nearly 12,000 Azerbaijani Muslims are killed.
+En 1944 : World War II: Navigation errors lead to an accidental American bombing of the Swiss city of Schaffhausen.
 <br/><br/>
-En 1918 : Daylight saving time goes into effect in the United States for the first time.
+En 1941 : Fântâna Albă massacre: Between two hundred and two thousand Romanian civilians are killed by Soviet Border Troops.
 <br/><br/>
-En 1917 : According to the terms of the Treaty of the Danish West Indies, the islands become American possessions.
+En 1941 : A military coup in Iraq overthrows the regime of 'Abd al-Ilah and installs Rashid Ali al-Gaylani as Prime Minister.
 <br/><br/>
-En 1913 : The Vienna Concert Society rioted during a performance of modernist music by Arnold Schoenberg, Alban Berg, Alexander von Zemlinsky, and Anton von Webern, causing a premature end to the concert due to violence; this concert became known as the Skandalkonzert.
+En 1939 : Spanish Civil War: Generalísimo Francisco Franco of the Spanish State announces the end of the Spanish Civil War, when the last of the Republican forces surrender.
 <br/><br/>
-En 1909 : Serbia formally withdraws its opposition to Austro-Hungarian actions in the Bosnian Crisis.
+En 1937 : Aden becomes a British crown colony.
 <br/><br/>
-En 1906 : The Intercollegiate Athletic Association of the United States (later the National Collegiate Athletic Association) is established to set rules for college sports in the United States.
+En 1937 : The Royal New Zealand Air Force is formed as an independent service.
 <br/><br/>
-En 1905 : Kaiser Wilhelm II of Germany declares his support for Moroccan independence in Tangier, beginning the First Moroccan Crisis.
+En 1935 : India's central banking institution, the Reserve Bank of India, is formed.
 <br/><br/>
-En 1901 : Rusalka by Antonín Dvořák premieres at the National Opera House in Prague.
+En 1933 : The recently elected Nazis under Julius Streicher organize a one-day boycott of all Jewish-owned businesses in Germany, ushering in a series of anti-Semitic acts.
 <br/><br/>
-En 1899 : Malolos, capital of the First Philippine Republic, is captured by American forces.
+En 1924 : Adolf Hitler is sentenced to five years imprisonment for his participation in the "Beer Hall Putsch" but spends only nine months in jail.
 <br/><br/>
-En 1889 : The Eiffel Tower is officially opened.
+En 1924 : The Royal Canadian Air Force is formed.
 <br/><br/>
-En 1885 : The United Kingdom establishes the Bechuanaland Protectorate.
+En 1922 : In newly formed Northern Ireland, six Catholics are murdered in the Arnon Street killings, one week after six others were killed in the  McMahon killings.
 <br/><br/>
-En 1854 : Commodore Matthew Perry signs the Convention of Kanagawa with the Tokugawa Shogunate, opening the ports of Shimoda and Hakodate to American trade.
+En 1918 : The Royal Air Force is created by the merger of the Royal Flying Corps and the Royal Naval Air Service.
 <br/><br/>
-En 1814 : The Sixth Coalition occupies Paris after Napoleon's Grande Armée capitulates.
+En 1908 : The Territorial Force (renamed Territorial Army in 1920) is formed as a volunteer reserve component of the British Army.
 <br/><br/>
-En 1774 : American Revolution: The Kingdom of Great Britain orders the port of Boston, Massachusetts closed pursuant to the Boston Port Act.
+En 1900 : Prince George becomes absolute monarch of the Cretan State.
 <br/><br/>
-En 1761 : The 1761 Lisbon earthquake strikes off the Iberian Peninsula with an estimated magnitude of 8.5, six years after another quake destroyed the city.
+En 1873 : The White Star steamer SS Atlantic sinks off Nova Scotia, killing 547 in one of the worst marine disasters of the 19th century.
 <br/><br/>
-En 1717 : A sermon on "The Nature of the Kingdom of Christ" by Benjamin Hoadly, the Bishop of Bangor, preached in the presence of King George I of Great Britain, provokes the Bangorian Controversy.
+En 1867 : Singapore becomes a British crown colony.
 <br/><br/>
-En 1706 : The last session of history of the Catalan Courts, the parliamentary body of the Principality of Catalonia, ends. Catalonia's constitutional modernisation passed by the Courts aims to improve the guarantee of individual, political and economic rights (among them, the secrecy of correspondence).
+En 1865 : American Civil War: Union troops led by Philip Sheridan decisively defeat Confederate troops led by George Pickett, cutting the Army of Northern Virginia's last supply line during the Siege of Petersburg.
 <br/><br/>
-En 1657 : The Long Parliament presents the Humble Petition and Advice offering Oliver Cromwell the British throne, which he eventually declines.
+En 1833 : The Convention of 1833, a political gathering of settlers in Mexican Texas to help draft a series of petitions to the Mexican government, begins in San Felipe de Austin.
 <br/><br/>
-En 1521 : Ferdinand Magellan and fifty of his men came ashore to present-day Limasawa to participate in the first Catholic mass in the Philippines.
+En 1789 : In New York City, the United States House of Representatives achieves its first quorum and elects Frederick Muhlenberg of Pennsylvania as its first Speaker.
 <br/><br/>
-En 1492 : Queen Isabella of Castile issues the Alhambra Decree, ordering her 150,000 Jewish and Muslim subjects to convert to Christianity or face expulsion.
+En 1572 : In the Eighty Years' War, the Watergeuzen capture Brielle from the Seventeen Provinces, gaining the first foothold on land for what would become the Dutch Republic.
 <br/><br/>
-En 1146 : Bernard of Clairvaux preaches his famous sermon in a field at Vézelay, urging the necessity of a Second Crusade. Louis VII is present, and joins the Crusade.
+En 1081 : Alexios I Komnenos overthrows the Byzantine emperor Nikephoros III Botaneiates, and, after his troops spend three days extensively looting Constantinople, is formally crowned on April 4.
 <br/><br/>
-En 307 : After divorcing his wife Minervina, Constantine marries Fausta, daughter of the retired Roman emperor Maximian.
+En 527 : Byzantine Emperor Justin I names his nephew Justinian I as co-ruler and successor to the throne.
 <br/><br/>
