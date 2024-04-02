@@ -4,115 +4,87 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 1/4 ?(Hover on the year)</h1>
+<h1> What happen this day 2/4 ?(Hover on the year)</h1>
 
-En 2016 : The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact.
+En 2021 : At least 49 people are killed in a train derailment in Taiwan after a truck accidentally rolls onto the track.
 <br/><br/>
-En 2011 : After protests against the burning of the Quran turn violent, a mob attacks a United Nations compound in Mazar-i-Sharif, Afghanistan, resulting in the deaths of thirteen people, including eight foreign workers.
+En 2021 : A Capitol Police officer is killed and another injured when an attacker rams his car into a barricade outside the United States Capitol.
 <br/><br/>
-En 2006 : Serious Organised Crime Agency (SOCA) of the Government of the United Kingdom is enforced, but later merged into National Crime Agency on 7 October 2013.
+En 2020 : COVID-19 pandemic: The total number of confirmed cases reach one million.
 <br/><br/>
-En 2004 : Google launches its Email service Gmail.
+En 2015 : Gunmen attack Garissa University College in Kenya, killing at least 148 people and wounding 79 others.
 <br/><br/>
-En 2001 : An EP-3E United States Navy surveillance aircraft collides with a Chinese People's Liberation Army Shenyang J-8 fighter jet. The Chinese pilot ejected but is subsequently lost. The Navy crew makes an emergency landing in Hainan, China and is detained.
+En 2015 : Four men steal items worth up to £200 million from an underground safe deposit facility in London's Hatton Garden area in what has been called the "largest burglary in English legal history."
 <br/><br/>
-En 2001 : Former President of Federal Republic of Yugoslavia Slobodan Milošević surrenders to police special forces, to be tried on war crimes charges.
+En 2014 : A spree shooting occurs at the Fort Hood army base in Texas, with four dead, including the gunman, and 16 others injured.
 <br/><br/>
-En 2001 : Same-sex marriage becomes legal in the Netherlands, the first contemporary country to allow it.
+En 2012 : A mass shooting at Oikos University in California leaves seven people dead and three injured.
 <br/><br/>
-En 1999 : Nunavut is established as a Canadian territory carved out of the eastern part of the Northwest Territories.
+En 2006 : Over 60 tornadoes break out in the United States; Tennessee is hardest hit with 29 people killed.
 <br/><br/>
-En 1997 : Comet Hale–Bopp is seen passing at perihelion.
+En 2004 : Islamist terrorists involved in the 11 March 2004 Madrid attacks attempt to bomb the Spanish high-speed train AVE near Madrid; the attack is thwarted.
 <br/><br/>
-En 1993 : NASCAR racer Alan Kulwicki is killed in a plane crash near the Tri-Cities Regional Airport in Blountville, Tennessee.
+En 2002 : Israeli forces surround the Church of the Nativity in Bethlehem, into which armed Palestinians had retreated.
 <br/><br/>
-En 1989 : Margaret Thatcher's new local government tax, the Community Charge (commonly known as the "poll tax"), is introduced in Scotland.
+En 1992 : In New York, Mafia boss John Gotti is convicted of murder and racketeering and is later sentenced to life in prison.
 <br/><br/>
-En 1986 : Communist Party of Nepal (Mashal) cadres attack a number of police stations in Kathmandu, seeking to incite a popular rebellion.
+En 1992 : Forty-two civilians are massacred in the town of Bijeljina in Bosnia and Herzegovina.
 <br/><br/>
-En 1984 : Singer Marvin Gaye is shot to death by his father in his home in Arlington Heights, Los Angeles, California.
+En 1991 : Rita Johnston becomes the first female Premier of a Canadian province when she succeeds William Vander Zalm (who had resigned) as Premier of British Columbia.
 <br/><br/>
-En 1979 : Iran becomes an Islamic republic by a 99% vote, officially overthrowing the Shah.
+En 1989 : Soviet leader Mikhail Gorbachev arrives in Havana, Cuba, to meet with Fidel Castro in an attempt to mend strained relations.
 <br/><br/>
-En 1976 : Steve Jobs and Steve Wozniak found Apple Computer, Inc.
+En 1986 : Alabama governor George Wallace, a former segregationist, best known for the "Stand in the Schoolhouse Door", announces that he will not seek a fifth four-year term and will retire from public life upon the end of his term in January 1987.
 <br/><br/>
-En 1974 : The Local Government Act 1972 of England and Wales comes into effect.
+En 1982 : Falklands War: Argentina invades the Falkland Islands.
 <br/><br/>
-En 1973 : Project Tiger, a tiger conservation project, is launched in the Jim Corbett National Park, India.
+En 1980 : United States President Jimmy Carter signs the Crude Oil Windfall Profits Tax Act.
 <br/><br/>
-En 1971 : Bangladesh Liberation War: The Pakistan Army massacre more than a thousand people in Keraniganj Upazila, Bangladesh.
+En 1979 : A Soviet bio-warfare laboratory at Sverdlovsk accidentally releases airborne anthrax spores, killing 66 plus an unknown amount of livestock.
 <br/><br/>
-En 1970 : President Richard Nixon signs the Public Health Cigarette Smoking Act into law.
+En 1976 : Prince Norodom Sihanouk resigns as leader of Cambodia and is placed under house arrest.
 <br/><br/>
-En 1970 : A Royal Air Maroc Sud Aviation Caravelle crashes near Berrechid, Morocco, killing 61.
+En 1975 : Vietnam War: Thousands of civilian refugees flee from Quảng Ngãi Province in front of advancing North Vietnamese troops.
 <br/><br/>
-En 1969 : The Hawker Siddeley Harrier, the first operational fighter aircraft with Vertical/Short Takeoff and Landing capabilities, enters service with the Royal Air Force.
+En 1973 : Launch of the LexisNexis computerized legal research service.
 <br/><br/>
-En 1964 : The British Admiralty, War Office and Air Ministry are replaced by a unified Defence Council of the United Kingdom.
+En 1972 : Actor Charlie Chaplin returns to the United States for the first time since being labeled a communist during the Red Scare in the early 1950s.
 <br/><br/>
-En 1960 : The TIROS-1 satellite transmits the first television picture from space.
+En 1969 : LOT Polish Airlines Flight 165 crashes into the Polica mountain near Zawoja, Poland, killing 53.
 <br/><br/>
-En 1955 : The EOKA rebellion against the British Empire begins in Cyprus, with the goal of unifying with Greece.
+En 1964 : The Soviet Union launches Zond 1.
 <br/><br/>
-En 1954 : United States President Dwight D. Eisenhower authorizes the creation of the United States Air Force Academy in Colorado Springs, Colorado.
+En 1956 : As the World Turns and The Edge of Night premiere on CBS. The two soaps become the first daytime dramas to debut in the 30-minute format.
 <br/><br/>
-En 1949 : Chinese Civil War: The Chinese Communist Party holds unsuccessful peace talks with the Nationalist Party in Beijing, after three years of fighting.
+En 1954 : A 19-month-old infant is swept up in the ocean tides at Hermosa Beach, California. Local photographer John L. Gaunt photographs the incident; 1955 Pulitzer winner "Tragedy by the Sea".
 <br/><br/>
-En 1949 : The Government of Canada repeals Japanese-Canadian internment after seven years.
+En 1930 : After the mysterious death of Empress Zewditu, Haile Selassie is proclaimed emperor of Ethiopia.
 <br/><br/>
-En 1948 : Cold War: Communist forces respond to the introduction of the Deutsche Mark by attempting to force the western powers to withdraw from Berlin.
+En 1921 : The Autonomous Government of Khorasan, a military government encompassing the modern state of Iran, is established.
 <br/><br/>
-En 1948 : Faroe Islands gain autonomy from Denmark.
+En 1917 : American entry into World War I: President Wilson asks the U.S. Congress for a declaration of war on Germany.
 <br/><br/>
-En 1947 : The only mutiny in the history of the Royal New Zealand Navy begins.
+En 1912 : The ill-fated RMS Titanic begins sea trials.
 <br/><br/>
-En 1946 : The 8.6 Mw  Aleutian Islands earthquake shakes the Aleutian Islands with a maximum Mercalli intensity of VI (Strong). A destructive tsunami reaches the Hawaiian Islands resulting in dozens of deaths, mostly in Hilo, Hawaii.
+En 1911 : The Australian Bureau of Statistics conducts the country's first national census.
 <br/><br/>
-En 1946 : The Malayan Union is established. Protests from locals led to the establishment of the Federation of Malaya two years later.
+En 1902 : Dmitry Sipyagin, Minister of Interior of the Russian Empire, is assassinated in the Mariinsky Palace, Saint Petersburg.
 <br/><br/>
-En 1945 : World War II: The Tenth United States Army attacks the Thirty-Second Japanese Army on Okinawa.
+En 1902 : "Electric Theatre", the first full-time movie theater in the United States, opens in Los Angeles.
 <br/><br/>
-En 1944 : World War II: Navigation errors lead to an accidental American bombing of the Swiss city of Schaffhausen.
+En 1885 : Canadian Cree warriors attack the village of Frog Lake, killing nine.
 <br/><br/>
-En 1941 : Fântâna Albă massacre: Between two hundred and two thousand Romanian civilians are killed by Soviet Border Troops.
+En 1865 : American Civil War: Defeat at the Third Battle of Petersburg forces the Army of Northern Virginia and the Confederate government to abandon Richmond, Virginia.
 <br/><br/>
-En 1941 : A military coup in Iraq overthrows the regime of 'Abd al-Ilah and installs Rashid Ali al-Gaylani as Prime Minister.
+En 1863 : American Civil War: The largest in a series of Southern bread riots occurs in Richmond, Virginia.
 <br/><br/>
-En 1939 : Spanish Civil War: Generalísimo Francisco Franco of the Spanish State announces the end of the Spanish Civil War, when the last of the Republican forces surrender.
+En 1801 : French Revolutionary Wars: In the Battle of Copenhagen a British Royal Navy squadron defeats a hastily assembled, smaller, mostly-volunteer Dano-Norwegian Navy at high cost, forcing Denmark out of the Second League of Armed Neutrality.
 <br/><br/>
-En 1937 : Aden becomes a British crown colony.
+En 1800 : Ludwig van Beethoven leads the premiere of his First Symphony in Vienna.
 <br/><br/>
-En 1937 : The Royal New Zealand Air Force is formed as an independent service.
+En 1792 : The Coinage Act is passed by Congress, establishing the United States Mint.
 <br/><br/>
-En 1935 : India's central banking institution, the Reserve Bank of India, is formed.
+En 1755 : Commodore William James captures the Maratha fortress of Suvarnadurg on the west coast of India.
 <br/><br/>
-En 1933 : The recently elected Nazis under Julius Streicher organize a one-day boycott of all Jewish-owned businesses in Germany, ushering in a series of anti-Semitic acts.
-<br/><br/>
-En 1924 : Adolf Hitler is sentenced to five years imprisonment for his participation in the "Beer Hall Putsch" but spends only nine months in jail.
-<br/><br/>
-En 1924 : The Royal Canadian Air Force is formed.
-<br/><br/>
-En 1922 : In newly formed Northern Ireland, six Catholics are murdered in the Arnon Street killings, one week after six others were killed in the  McMahon killings.
-<br/><br/>
-En 1918 : The Royal Air Force is created by the merger of the Royal Flying Corps and the Royal Naval Air Service.
-<br/><br/>
-En 1908 : The Territorial Force (renamed Territorial Army in 1920) is formed as a volunteer reserve component of the British Army.
-<br/><br/>
-En 1900 : Prince George becomes absolute monarch of the Cretan State.
-<br/><br/>
-En 1873 : The White Star steamer SS Atlantic sinks off Nova Scotia, killing 547 in one of the worst marine disasters of the 19th century.
-<br/><br/>
-En 1867 : Singapore becomes a British crown colony.
-<br/><br/>
-En 1865 : American Civil War: Union troops led by Philip Sheridan decisively defeat Confederate troops led by George Pickett, cutting the Army of Northern Virginia's last supply line during the Siege of Petersburg.
-<br/><br/>
-En 1833 : The Convention of 1833, a political gathering of settlers in Mexican Texas to help draft a series of petitions to the Mexican government, begins in San Felipe de Austin.
-<br/><br/>
-En 1789 : In New York City, the United States House of Representatives achieves its first quorum and elects Frederick Muhlenberg of Pennsylvania as its first Speaker.
-<br/><br/>
-En 1572 : In the Eighty Years' War, the Watergeuzen capture Brielle from the Seventeen Provinces, gaining the first foothold on land for what would become the Dutch Republic.
-<br/><br/>
-En 1081 : Alexios I Komnenos overthrows the Byzantine emperor Nikephoros III Botaneiates, and, after his troops spend three days extensively looting Constantinople, is formally crowned on April 4.
-<br/><br/>
-En 527 : Byzantine Emperor Justin I names his nephew Justinian I as co-ruler and successor to the throne.
+En 1513 : Having spotted land on March 27, Spanish explorer Juan Ponce de León comes ashore on what is now the U.S. state of Florida, landing somewhere between the modern city of St. Augustine and the mouth of the St. Johns River.
 <br/><br/>
