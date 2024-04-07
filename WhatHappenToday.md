@@ -4,121 +4,145 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 6/4 ?(Hover on the year)</h1>
+<h1> What happen this day 7/4 ?(Hover on the year)</h1>
 
-En 2018 : A bus carrying the Humboldt Broncos junior ice hockey team collides with a semi-truck in Saskatchewan, Canada, killing 16 people and injuring 13 others.
+En 2022 : Ketanji Brown Jackson is confirmed for the Supreme Court of the United States, becoming the first black female justice.
 <br/><br/>
-En 2017 : U.S. military launches 59 Tomahawk cruise missiles at an air base in Syria. Russia describes the strikes as an "aggression", adding they significantly damage US-Russia ties.
+En 2021 : COVID-19 pandemic: The Centers for Disease Control and Prevention announces that the SARS-CoV-2 Alpha variant has become the dominant strain of COVID-19 in the United States.
 <br/><br/>
-En 2012 : Azawad declares itself independent from the Republic of Mali.
+En 2020 : COVID-19 pandemic: China ends its lockdown in Wuhan.
 <br/><br/>
-En 2011 : In San Fernando, Tamaulipas, Mexico, over 193 victims of Los Zetas were exhumed from several mass graves.
+En 2020 : COVID-19 pandemic: Acting Secretary of the Navy Thomas Modly resigns for his handling of the COVID-19 pandemic on USS Theodore Roosevelt and the dismissal of Brett Crozier.
 <br/><br/>
-En 2010 : Maoist rebels kill 76 CRPF officers in Dantewada district, India.
+En 2018 : Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the “Car-Wash Operation”. Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court.
 <br/><br/>
-En 2009 : A 6.3 magnitude earthquake strikes near L'Aquila, Italy, killing 307.
+En 2018 : Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War.
 <br/><br/>
-En 2008 : The 2008 Egyptian general strike starts led by Egyptian workers later to be adopted by April 6 Youth Movement and Egyptian activists.
+En 2017 : A man deliberately drives a hijacked truck into a crowd of people in Stockholm, Sweden, killing five people and injuring fifteen others.
 <br/><br/>
-En 2005 : Kurdish leader Jalal Talabani becomes Iraqi president; Shiite Arab Ibrahim al-Jaafari is named premier the next day.
+En 2017 : U.S. President Donald Trump orders the 2017 Shayrat missile strike against Syria in retaliation for the Khan Shaykhun chemical attack.
 <br/><br/>
-En 2004 : Rolandas Paksas becomes the first president of Lithuania to be peacefully removed from office by impeachment.
+En 2011 : The Israel Defense Forces use their Iron Dome missile system to successfully intercept a BM-21 Grad launched from Gaza, marking the first short-range missile intercept ever.
 <br/><br/>
-En 1998 : Nuclear weapons testing: Pakistan tests medium-range missiles capable of reaching India.
+En 2009 : Former Peruvian President Alberto Fujimori is sentenced to 25 years in prison for ordering killings and kidnappings by security forces.
 <br/><br/>
-En 1997 : In Greene County, Tennessee, the Lillelid murders occur.
+En 2009 : Mass protests begin across Moldova under the belief that results from the parliamentary election are fraudulent.
 <br/><br/>
-En 1994 : The Rwandan genocide begins when the aircraft carrying Rwandan president Juvénal Habyarimana and Burundian president Cyprien Ntaryamira is shot down.
+En 2003 : Iraq War: U.S. troops capture Baghdad; Saddam Hussein's Ba'athist regime falls two days later.
 <br/><br/>
-En 1992 : The Bosnian War begins.
+En 2001 : NASA launches the 2001 Mars Odyssey orbiter.
 <br/><br/>
-En 1985 : Sudanese President Gaafar Nimeiry is ousted from power in a coup d'état led by Field Marshal Abdel Rahman Swar al-Dahab.
+En 1999 : Turkish Airlines Flight 5904 crashes near Ceyhan in southern Turkey, killing six people.
 <br/><br/>
-En 1984 : Members of Cameroon's Republican Guard unsuccessfully attempt to overthrow the government headed by Paul Biya.
+En 1995 : First Chechen War: Russian paramilitary troops begin a massacre of civilians in Samashki, Chechnya.
 <br/><br/>
-En 1974 : In Brighton, United Kingdom, ABBA wins the 1974 edition of the Eurovision Song Contest with "Waterloo", the first of a joint-record seven Swedish wins
+En 1994 : Rwandan genocide: Massacres of Tutsis begin in Kigali, Rwanda, and soldiers kill the civilian Prime Minister Agathe Uwilingiyimana.
 <br/><br/>
-En 1973 : Launch of Pioneer 11 spacecraft.
+En 1994 : Auburn Calloway attempts to destroy Federal Express Flight 705 in order to allow his family to benefit from his life insurance policy.
 <br/><br/>
-En 1973 : The American League of Major League Baseball begins using the designated hitter.
+En 1990 : A fire breaks out on the passenger ferry Scandinavian Star, killing 159 people.
 <br/><br/>
-En 1972 : Vietnam War: Easter Offensive: American forces begin sustained air strikes and naval bombardments.
+En 1990 : John Poindexter is convicted for his role in the Iran–Contra affair. In 1991 the convictions are reversed on appeal.
 <br/><br/>
-En 1970 : Newhall massacre: Four California Highway Patrol officers are killed in a shootout.
+En 1989 : Soviet submarine Komsomolets sinks in the Barents Sea off the coast of Norway, killing 42 sailors.
 <br/><br/>
-En 1968 : In the downtown district of Richmond, Indiana, a double explosion kills 41 and injures 150.
+En 1988 : Soviet Defense Minister Dmitry Yazov orders the Soviet withdrawal from Afghanistan.
 <br/><br/>
-En 1968 : Pierre Elliott Trudeau wins the Liberal Party leadership election, and becomes Prime Minister of Canada soon afterward.
+En 1983 : During STS-6, astronauts Story Musgrave and Don Peterson perform the first Space Shuttle spacewalk.
 <br/><br/>
-En 1965 : Launch of Early Bird, the first commercial communications satellite to be placed in geosynchronous orbit.
+En 1982 : Iranian Foreign Affairs Minister Sadegh Ghotbzadeh is arrested.
 <br/><br/>
-En 1958 : Capital Airlines Flight 67 crashes into Saginaw Bay near Freeland, Michigan, killing 47.
+En 1980 : During the Iran hostage crisis, the United States severs relations with Iran.
 <br/><br/>
-En 1957 : The flag carrier airline of Greece for decades, Olympic Airways, is founded by Aristotle Onassis following the acquisition of "TAE - Greek National Airlines".
+En 1978 : Development of the neutron bomb is canceled by President Jimmy Carter.
 <br/><br/>
-En 1947 : The first Tony Awards are presented for theatrical achievement.
+En 1977 : German Federal prosecutor Siegfried Buback and his driver are shot by two Red Army Faction members while waiting at a red light.
 <br/><br/>
-En 1945 : World War II: Sarajevo is liberated from German and Croatian forces by the Yugoslav Partisans.
+En 1976 : Member of Parliament and suspected spy John Stonehouse resigns from the Labour Party after being arrested for faking his own death.
 <br/><br/>
-En 1945 : World War II: The Battle of Slater's Knoll on Bougainville comes to an end.
+En 1972 : Vietnam War: Communist forces overrun the South Vietnamese town of Loc Ninh.
 <br/><br/>
-En 1941 : World War II: Nazi Germany launches Operation 25 (the invasion of Kingdom of Yugoslavia) and Operation Marita (the invasion of Greece).
+En 1971 : Vietnam War: President Richard Nixon announces his decision to quicken the pace of Vietnamization.
 <br/><br/>
-En 1936 : Tupelo–Gainesville tornado outbreak: Another tornado from the same storm system as the Tupelo tornado hits Gainesville, Georgia, killing 203.
+En 1969 : The Internet's symbolic birth date: Publication of RFC 1.
 <br/><br/>
-En 1930 : At the end of the Salt March, Gandhi raises a lump of mud and salt and declares, "With this, I am shaking the foundations of the British Empire."
+En 1968 : Two-time Formula One British World Champion Jim Clark dies in an accident during a Formula Two race in Hockenheim.
 <br/><br/>
-En 1929 : Huey P. Long, Governor of Louisiana, is impeached by the Louisiana House of Representatives.
+En 1965 : Representatives of the National Congress of American Indians testify before members of the US Senate in Washington, D.C. against the termination of the Colville tribe.
 <br/><br/>
-En 1926 : Varney Airlines makes its first commercial flight (Varney is the root company of United Airlines).
+En 1964 : IBM announces the System/360.
 <br/><br/>
-En 1918 : Finnish Civil War: The battle of Tampere ends.
+En 1956 : Francoist Spain agrees to surrender its protectorate in Morocco.
 <br/><br/>
-En 1917 : World War I: The United States declares war on Germany.
+En 1955 : Winston Churchill resigns as Prime Minister of the United Kingdom amid indications of failing health.
 <br/><br/>
-En 1911 : During the Battle of Deçiq, Dedë Gjon Luli Dedvukaj, leader of the Malësori Albanians, raises the Albanian flag in the town of Tuzi, Montenegro, for the first time after George Kastrioti (Skanderbeg).
+En 1954 : United States President Dwight D. Eisenhower gives his "domino theory" speech during a news conference.
 <br/><br/>
-En 1909 : Robert Peary and Matthew Henson become the first people to reach the North Pole; Peary's claim has been disputed because of failings in his navigational ability.
+En 1948 : The World Health Organization is established by the United Nations.
 <br/><br/>
-En 1896 : In Athens, the opening of the first modern Olympic Games is celebrated, 1,500 years after the original games are banned by Roman emperor Theodosius I.
+En 1946 : The Soviet Union annexes East Prussia as the Kaliningrad Oblast of the Russian Soviet Federative Socialist Republic.
 <br/><br/>
-En 1866 : The Grand Army of the Republic, an American patriotic organization composed of Union veterans of the American Civil War, is founded. It lasts until 1956.
+En 1945 : World War II: The Imperial Japanese Navy battleship Yamato, one of the two largest ever constructed, is sunk by United States Navy aircraft during Operation Ten-Go.
 <br/><br/>
-En 1865 : American Civil War: The Battle of Sailor's Creek: Confederate General Robert E. Lee's Army of Northern Virginia fights and loses its last major battle while in retreat from Richmond, Virginia, during the Appomattox Campaign.
+En 1943 : The Holocaust in Ukraine: In Terebovlia, Germans order 1,100 Jews to undress and march through the city to the nearby village of Plebanivka, where they are shot and buried in ditches.
 <br/><br/>
-En 1862 : American Civil War: The Battle of Shiloh begins: In Tennessee, forces under Union General Ulysses S. Grant meet Confederate troops led by General Albert Sidney Johnston.
+En 1943 : Ioannis Rallis becomes collaborationist Prime Minister of Greece during the Axis Occupation.
 <br/><br/>
-En 1860 : The Reorganized Church of Jesus Christ of Latter Day Saints, later renamed Community of Christ, is organized by Joseph Smith III and others at Amboy, Illinois.
+En 1943 : The National Football League makes helmets mandatory.
 <br/><br/>
-En 1841 : U.S. President John Tyler is sworn in, two days after having become president upon William Henry Harrison's death.
+En 1940 : Booker T. Washington becomes the first African American to be depicted on a United States postage stamp.
 <br/><br/>
-En 1830 : Church of Christ, the original church of the Latter Day Saint movement, is organized by Joseph Smith and others at either Fayette or Manchester, New York.
+En 1939 : Benito Mussolini declares an Italian protectorate over Albania and forces King Zog I into exile.
 <br/><br/>
-En 1814 : Nominal beginning of the Bourbon Restoration; anniversary date that Napoleon abdicates and is exiled to Elba.
+En 1933 : Prohibition in the United States is repealed for beer of no more than 3.2% alcohol by weight, eight months before the ratification of the Twenty-first Amendment to the United States Constitution. (Now celebrated as National Beer Day in the United States.)
 <br/><br/>
-En 1812 : British forces under the command of the Duke of Wellington assault the fortress of Badajoz. This would be the turning point in the Peninsular War against Napoleon-led France.
+En 1933 : Nazi Germany issues the Law for the Restoration of the Professional Civil Service banning Jews and political dissidents from civil service posts.
 <br/><br/>
-En 1808 : John Jacob Astor incorporates the American Fur Company, that would eventually make him America's first millionaire.
+En 1927 : AT&T engineer Herbert Ives transmits the first long-distance public television broadcast (from Washington, D.C., to New York City, displaying the image of Commerce Secretary Herbert Hoover).
 <br/><br/>
-En 1800 : The Treaty of Constantinople establishes the Septinsular Republic, the first autonomous Greek state since the Fall of the Byzantine Empire. (Under the Old Style calendar then still in use in the Ottoman Empire, the treaty was signed on 21 March.)
+En 1926 : Violet Gibson attempts to assassinate Italian Prime Minister Benito Mussolini.
 <br/><br/>
-En 1793 : During the French Revolution, the Committee of Public Safety becomes the executive organ of the republic.
+En 1922 : Teapot Dome scandal: United States Secretary of the Interior Albert B. Fall leases federal petroleum reserves to private oil companies on excessively generous terms.
 <br/><br/>
-En 1782 : King Buddha Yodfa Chulaloke (Rama I) of Siam (modern day Thailand) establishes the Chakri dynasty.
+En 1906 : Mount Vesuvius erupts and devastates Naples.
 <br/><br/>
-En 1776 : American Revolutionary War: Ships of the Continental Navy fail in their attempt to capture a Royal Navy dispatch boat.
+En 1906 : The Algeciras Conference gives France and Spain control over Morocco.
 <br/><br/>
-En 1712 : The New York Slave Revolt of 1712 begins near Broadway.
+En 1868 : Thomas D'Arcy McGee, one of the Canadian Fathers of Confederation, is assassinated by a Fenian activist.
 <br/><br/>
-En 1652 : At the Cape of Good Hope, Dutch sailor Jan van Riebeeck establishes a resupply camp that eventually becomes Cape Town.
+En 1862 : American Civil War: The Union's Army of the Tennessee and the Army of the Ohio defeat the Confederate Army of Mississippi near Shiloh, Tennessee.
 <br/><br/>
-En 1580 : One of the largest earthquakes recorded in the history of England, Flanders, or Northern France, takes place.
+En 1831 : Pedro II becomes Emperor of Empire of Brazil.
 <br/><br/>
-En 1453 : Mehmed II begins his siege of Constantinople. The city falls on May 29, and is renamed Istanbul.
+En 1824 : The Mechanics' Institution is established in Manchester, England at the Bridgewater Arms hotel, as part of a national movement for the education of working men. The institute is the precursor to three Universities in the city: the University of Manchester, UMIST and the Metropolitan University of Manchester (MMU).
 <br/><br/>
-En 1320 : The Scots reaffirm their independence by signing the Declaration of Arbroath.
+En 1805 : Lewis and Clark Expedition: The Corps of Discovery breaks camp among the Mandan tribe and resumes its journey West along the Missouri River.
 <br/><br/>
-En 402 : Stilicho defeats the Visigoths under Alaric in the Battle of Pollentia.
+En 1805 : German composer Ludwig van Beethoven premieres his Third Symphony, at the Theater an der Wien in Vienna.
 <br/><br/>
-En -46 : Julius Caesar defeats Caecilius Metellus Scipio and Marcus Porcius Cato (Cato the Younger) at the Battle of Thapsus.
+En 1798 : The Mississippi Territory is organized from disputed territory claimed by both the United States and the Spanish Empire. It is expanded in 1804 and again in 1812.
+<br/><br/>
+En 1795 : The French First Republic adopts the kilogram and gram as its primary unit of mass.
+<br/><br/>
+En 1790 : Greek War of Independence: Greek revolutionary Lambros Katsonis loses three of his ships in the Battle of Andros.
+<br/><br/>
+En 1788 : Settlers establish Marietta, Ohio, the first permanent settlement created by U.S. citizens in the recently organized Northwest Territory.
+<br/><br/>
+En 1767 : End of Burmese–Siamese War (1765–1767).
+<br/><br/>
+En 1724 : Premiere performance of Bach's St John Passion, BWV 245, at St. Nicholas Church, Leipzig.
+<br/><br/>
+En 1541 : Francis Xavier leaves Lisbon on a mission to the Portuguese East Indies.
+<br/><br/>
+En 1521 : Ferdinand Magellan arrives at Cebu.
+<br/><br/>
+En 1449 : Felix V abdicates his claim to the papacy, ending the reign of the final Antipope.
+<br/><br/>
+En 1348 : Holy Roman Emperor Charles IV charters Prague University.
+<br/><br/>
+En 1141 : Empress Matilda becomes the first female ruler of England, adopting the title "Lady of the English".
+<br/><br/>
+En 529 : First Corpus Juris Civilis, a fundamental work in jurisprudence, is issued by Eastern Roman Emperor Justinian I.
+<br/><br/>
+En 451 : Attila the Hun captures Metz in France, killing most of its inhabitants and burning the town.
 <br/><br/>
