@@ -4,113 +4,113 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 8/4 ?(Hover on the year)</h1>
+<h1> What happen this day 9/4 ?(Hover on the year)</h1>
 
-En 2024 : Solar eclipse of April 8, 2024: A total solar eclipse takes place at the Moon's ascending node, visible across North America.
+En 2021 : Burmese military and security forces commit the Bago massacre, during which at least 82 civilians are killed.
 <br/><br/>
-En 2020 : Bernie Sanders ends his presidential campaign, leaving Joe Biden as the Democratic Party's nominee.
+En 2017 : The Palm Sunday church bombings at Coptic churches in Tanta and Alexandria, Egypt, take place.
 <br/><br/>
-En 2014 : Windows XP reaches its standard End Of Life and is no longer supported.
+En 2017 : After refusing to give up his seat on an overbooked United Express flight, Dr. David Dao Duy Anh is forcibly dragged off the flight by aviation security officers, leading to major criticism of United Airlines.
 <br/><br/>
-En 2013 : The Islamic State of Iraq enters the Syrian Civil War and begins by declaring a merger with the Al-Nusra Front under the name Islamic State of Iraq and ash-Sham.
+En 2014 : A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania.
 <br/><br/>
-En 2010 : U.S. President Barack Obama and Russian President Dmitry Medvedev sign the New START Treaty.
+En 2013 : A 6.1–magnitude earthquake strikes Iran killing 32 people and injuring over 850 people.
 <br/><br/>
-En 2008 : The construction of the world's first skyscraper to integrate wind turbines is completed in Bahrain.
+En 2013 : At least 13 people are killed and another three injured after a man goes on a spree shooting in the Serbian village of Velika Ivanča.
 <br/><br/>
-En 2006 : Shedden massacre: The bodies of eight men, all shot to death, are found in a field in Shedden, Elgin County, Ontario. The murders are soon linked to the Bandidos Motorcycle Club.
+En 2009 : In Tbilisi, Georgia, up to 60,000 people protest against the government of Mikheil Saakashvili.
 <br/><br/>
-En 2005 : A solar eclipse occurs, visible over areas of the Pacific Ocean and Latin American countries such as Costa Rica, Panama, Colombia and Venezuela.
+En 2003 : Iraq War: Baghdad falls to American forces.
 <br/><br/>
-En 2004 : War in Darfur: The Humanitarian Ceasefire Agreement is signed by the Sudanese government, the Justice and Equality Movement, and the Sudan Liberation Movement/Army.
+En 1994 : Space Shuttle program: Space Shuttle Endeavour is launched on STS-59.
 <br/><br/>
-En 2002 : The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights.
+En 1992 : A U.S. Federal Court finds former Panamanian dictator Manuel Noriega guilty of drug and racketeering charges. He is sentenced to 30 years in prison.
 <br/><br/>
-En 1993 : The Republic of North Macedonia joins the United Nations.
+En 1991 : Georgia declares independence from the Soviet Union.
 <br/><br/>
-En 1993 : The Space Shuttle Discovery is launched on mission STS-56.
+En 1990 : An IRA bombing in County Down, Northern Ireland, kills three members of the UDR.
 <br/><br/>
-En 1992 : Retired tennis great Arthur Ashe announces that he has AIDS, acquired from blood transfusions during one of his two heart surgeries.
+En 1990 : The Sahtu Dene and Metis Comprehensive Land Claim Agreement is signed for 180,000 square kilometres (69,000 sq mi) in the Mackenzie Valley of the western Arctic.
 <br/><br/>
-En 1987 : Los Angeles Dodgers executive Al Campanis resigns amid controversy over racist remarks he had made while on Nightline.
+En 1990 : An Embraer EMB 120 Brasilia collides in mid-air with a Cessna 172 over Gadsden, Alabama, killing both of the Cessna's occupants.
 <br/><br/>
-En 1975 : Frank Robinson manages the Cleveland Indians in his first game as major league baseball's first African American manager.
+En 1989 : Tbilisi massacre: An anti-Soviet peaceful demonstration and hunger strike in Tbilisi, demanding restoration of Georgian independence, is dispersed by the Soviet Army, resulting in 20 deaths and hundreds of injuries.
 <br/><br/>
-En 1970 : Bahr El-Baqar primary school bombing: Israeli bombers strike an Egyptian school. Forty-six children are killed.
+En 1981 : The U.S. Navy nuclear submarine USS George Washington accidentally collides with the Nissho Maru, a Japanese cargo ship, sinking it and killing two Japanese sailors.
 <br/><br/>
-En 1968 : BOAC Flight 712 catches fire shortly after takeoff. As a result of her actions in the accident, Barbara Jane Harrison is awarded a posthumous George Cross, the only GC awarded to a woman in peacetime.
+En 1980 : The Iraqi regime of Saddam Hussein kills philosopher Muhammad Baqir al-Sadr and his sister Bint al-Huda after three days of torture.
 <br/><br/>
-En 1960 : The Netherlands and West Germany sign an agreement to negotiate the return of German land annexed by the Dutch in return for 280 million German marks as Wiedergutmachung.
+En 1969 : The first British-built Concorde 002 makes its maiden flight from Filton to RAF Fairford with Brian Trubshaw as the test pilot.
 <br/><br/>
-En 1959 : A team of computer manufacturers, users, and university people led by Grace Hopper meets to discuss the creation of a new programming language that would be called COBOL.
+En 1967 : The first Boeing 737 (a 100 series) makes its maiden flight.
 <br/><br/>
-En 1959 : The Organization of American States drafts an agreement to create the Inter-American Development Bank.
+En 1960 : Dr. Hendrik Verwoerd, Prime Minister of South Africa and architect of apartheid, narrowly survives an assassination attempt by a white farmer, David Pratt in Johannesburg.
 <br/><br/>
-En 1954 : A Royal Canadian Air Force Canadair Harvard collides with a Trans-Canada Airlines Canadair North Star over Moose Jaw, Saskatchewan, killing 37 people.
+En 1959 : Project Mercury: NASA announces the selection of the United States' first seven astronauts, whom the news media quickly dub the "Mercury Seven".
 <br/><br/>
-En 1954 : South African Airways Flight 201: A de Havilland DH.106 Comet 1 crashes into the sea during night killing 21 people.
+En 1957 : The Suez Canal in Egypt is cleared and opens to shipping following the Suez Crisis.
 <br/><br/>
-En 1953 : Mau Mau leader Jomo Kenyatta is convicted by British Kenya's rulers.
+En 1952 : Hugo Ballivián's government is overthrown by the Bolivian National Revolution, starting a period of agrarian reform, universal suffrage and the nationalization of tin mines
 <br/><br/>
-En 1952 : U.S. President Harry Truman calls for the seizure of all domestic steel mills in an attempt to prevent the 1952 steel strike.
+En 1952 : Japan Air Lines Flight 301 crashes into Mount Mihara, Izu Ōshima, Japan, killing 37.
 <br/><br/>
-En 1950 : India and Pakistan sign the Liaquat–Nehru Pact.
+En 1948 : Jorge Eliécer Gaitán's assassination provokes a violent riot in Bogotá (the Bogotazo), and a further ten years of violence in Colombia.
 <br/><br/>
-En 1946 : Électricité de France, the world's largest utility company, is formed as a result of the nationalisation of a number of electricity producers, transporters and distributors.
+En 1948 : Fighters from the Irgun and Lehi Zionist paramilitary groups attacked Deir Yassin near Jerusalem, killing over 100.
 <br/><br/>
-En 1945 : World War II: After an air raid accidentally destroys a train carrying about 4,000 Nazi concentration camp internees in Prussian Hanover, the survivors are massacred by Nazis.
+En 1947 : The Glazier–Higgins–Woodward tornadoes kill 181 and injure 970 in Texas, Oklahoma, and Kansas.
 <br/><br/>
-En 1943 : U.S. President Franklin D. Roosevelt, in an attempt to check inflation, freezes wages and prices, prohibits workers from changing jobs unless the war effort would be aided thereby, and bars rate increases by common carriers and public utilities.
+En 1947 : The Journey of Reconciliation, the first interracial Freedom Ride begins through the upper South in violation of Jim Crow laws. The riders wanted enforcement of the United States Supreme Court's 1946 Irene Morgan decision that banned racial segregation in interstate travel.
 <br/><br/>
-En 1943 : Otto and Elise Hampel are executed in Berlin for their anti-Nazi activities.
+En 1947 : United Nations Security Council Resolution 22 relating to Corfu Channel incident is adopted.
 <br/><br/>
-En 1942 : World War II: The Japanese take Bataan in the Philippines.
+En 1945 : Dietrich Bonhoeffer, Lutheran pastor and anti-Nazi dissident, is executed by the Nazi regime.
 <br/><br/>
-En 1940 : The Central Committee of the Mongolian People's Revolutionary Party elects Yumjaagiin Tsedenbal as General Secretary, marking the beginning of his 44-year-long tenure as de facto leader of Mongolia.
+En 1945 : World War II: The German heavy cruiser Admiral Scheer is sunk by the Royal Air Force.
 <br/><br/>
-En 1935 : The Works Progress Administration is formed when the Emergency Relief Appropriation Act of 1935 becomes law.
+En 1945 : World War II: The Battle of Königsberg, in East Prussia, ends.
 <br/><br/>
-En 1929 : Indian independence movement: At the Delhi Central Assembly, Bhagat Singh and Batukeshwar Dutt throw handouts and bombs to court arrest.
+En 1945 : The United States Atomic Energy Commission is formed.
 <br/><br/>
-En 1924 : Sharia courts are abolished in Turkey, as part of Atatürk's Reforms.
+En 1942 : World War II: The Battle of Bataan ends. An Indian Ocean raid by Japan's 1st Air Fleet sinks the British aircraft carrier HMS Hermes and the Australian destroyer HMAS Vampire.
 <br/><br/>
-En 1918 : World War I: Actors Douglas Fairbanks and Charlie Chaplin sell war bonds on the streets of New York City's financial district.
+En 1940 : World War II: Operation Weserübung: Germany invades Denmark and Norway.
 <br/><br/>
-En 1913 : The 17th Amendment to the United States Constitution, requiring direct election of Senators, becomes law.
+En 1940 : Vidkun Quisling seizes power in Norway.
 <br/><br/>
-En 1911 : Dutch physicist Heike Kamerlingh Onnes discovers superconductivity.
+En 1939 : African-American singer Marian Anderson gives a concert at the Lincoln Memorial after being denied the use of Constitution Hall by the Daughters of the American Revolution.
 <br/><br/>
-En 1908 : Harvard University votes to establish the Harvard Business School.
+En 1937 : The Kamikaze arrives at Croydon Airport in London. It is the first Japanese-built aircraft to fly to Europe.
 <br/><br/>
-En 1906 : Auguste Deter, the first person to be diagnosed with Alzheimer's disease, dies.
+En 1918 : World War I: The Battle of the Lys: The Portuguese Expeditionary Corps is crushed by the German forces during what is called the Spring Offensive on the Belgian region of Flanders.
 <br/><br/>
-En 1904 : The French Third Republic and the United Kingdom of Great Britain and Ireland sign the Entente cordiale.
+En 1917 : World War I: The Battle of Arras: The battle begins with Canadian Corps executing a massive assault on Vimy Ridge.
 <br/><br/>
-En 1895 : In Pollock v. Farmers' Loan & Trust Co. the Supreme Court of the United States declares unapportioned income tax to be unconstitutional.
+En 1909 : The U.S. Congress passes the Payne–Aldrich Tariff Act.
 <br/><br/>
-En 1886 : William Ewart Gladstone introduces the first Irish Home Rule Bill into the British House of Commons.
+En 1865 : American Civil War: Robert E. Lee surrenders the Army of Northern Virginia (26,765 troops) to Ulysses S. Grant at Appomattox Court House, Virginia, effectively ending the war.
 <br/><br/>
-En 1866 : Austro-Prussian War: Italy and Prussia sign a secret alliance against the Austrian Empire.
+En 1860 : On his phonautograph machine, Édouard-Léon Scott de Martinville makes the oldest known recording of an audible human voice.
 <br/><br/>
-En 1832 : Black Hawk War: Around 300 United States 6th Infantry troops leave St. Louis, Missouri to fight the Sauk Native Americans.
+En 1784 : The Treaty of Paris, ratified by the United States Congress on January 14, 1784, is ratified by King George III of the Kingdom of Great Britain, ending the American Revolutionary War. Copies of the ratified documents are exchanged on May 12, 1784.
 <br/><br/>
-En 1820 : The Venus de Milo is discovered on the Aegean island of Milos.
+En 1682 : Robert Cavelier de La Salle discovers the mouth of the Mississippi River, claims it for France and names it Louisiana.
 <br/><br/>
-En 1812 : Czar Alexander I, the Russian Emperor and the Grand Duke of Finland, officially announces the transfer of the status of the Finnish capital from Turku to Helsinki.
+En 1609 : Eighty Years' War: Spain and the Dutch Republic sign the Treaty of Antwerp to initiate twelve years of truce.
 <br/><br/>
-En 1730 : Shearith Israel, the first synagogue in continental North America, is dedicated.
+En 1609 : Philip III of Spain issues the decree of the "Expulsion of the Moriscos".
 <br/><br/>
-En 1605 : The city of Oulu, Finland, is founded by Charles IX of Sweden.
+En 1454 : The Treaty of Lodi is signed, establishing a balance of power among northern Italian city-states for almost 50 years.
 <br/><br/>
-En 1271 : In Syria, sultan Baibars conquers the Krak des Chevaliers.
+En 1388 : Despite being outnumbered 16:1, forces of the Old Swiss Confederacy are victorious over the Archduchy of Austria in the Battle of Näfels.
 <br/><br/>
-En 1250 : Seventh Crusade: Ayyubids of Egypt capture King Louis IX of France in the Battle of Fariskur.
+En 1288 : Mongol invasions of Vietnam: Yuan forces are defeated by Trần forces in the Battle of Bach Dang in present-day northern Vietnam.
 <br/><br/>
-En 1232 : Mongol–Jin War: The Mongols begin their siege on Kaifeng, the capital of the Jin dynasty.
+En 1241 : Battle of Liegnitz: Mongol forces defeat the Polish and German armies.
 <br/><br/>
-En 1139 : Roger II of Sicily is excommunicated by Innocent II for supporting Anacletus II as pope for seven years, even though Roger had already publicly recognized Innocent's claim to the papacy.
+En 537 : Siege of Rome: The Byzantine general Belisarius receives his promised reinforcements, 1,600 cavalry, mostly of Hunnic or Slavic origin and expert bowmen. He starts, despite shortages, raids against the Gothic camps and Vitiges is forced into a stalemate.
 <br/><br/>
-En 876 : The Battle of Dayr al-'Aqul saves Baghdad from the Saffarids.
+En 475 : Byzantine Emperor Basiliscus issues a circular letter (Enkyklikon) to the bishops of his empire, supporting the Monophysite christological position.
 <br/><br/>
-En 217 : Roman emperor Caracalla is assassinated and is succeeded by his Praetorian Guard prefect, Marcus Opellius Macrinus.
+En 193 : The distinguished soldier Septimius Severus is proclaimed emperor by the army in Illyricum.
 <br/><br/>
