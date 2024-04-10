@@ -4,113 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 9/4 ?(Hover on the year)</h1>
+<h1> What happen this day 10/4 ?(Hover on the year)</h1>
 
-En 2021 : Burmese military and security forces commit the Bago massacre, during which at least 82 civilians are killed.
+En 2023 : A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded.
 <br/><br/>
-En 2017 : The Palm Sunday church bombings at Coptic churches in Tanta and Alexandria, Egypt, take place.
+En 2019 : Scientists from the Event Horizon Telescope project announce the first ever image of a black hole, which was located in the centre of the M87 galaxy.
 <br/><br/>
-En 2017 : After refusing to give up his seat on an overbooked United Express flight, Dr. David Dao Duy Anh is forcibly dragged off the flight by aviation security officers, leading to major criticism of United Airlines.
+En 2016 : The Paravur temple accident in which a devastating fire caused by the explosion of firecrackers stored for Vishu, kills more than one hundred people out of the thousands gathered for seventh day of Bhadrakali worship.
 <br/><br/>
-En 2014 : A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania.
+En 2016 : An earthquake of 6.6 magnitude strikes 39 km west-southwest of Ashkasham, impacting India, Afghanistan, Tajikistan, Srinagar and Pakistan.
 <br/><br/>
-En 2013 : A 6.1–magnitude earthquake strikes Iran killing 32 people and injuring over 850 people.
+En 2010 : Polish Air Force Tu-154M crashes near Smolensk, Russia, killing 96 people, including Polish President Lech Kaczyński, his wife, and dozens of other senior officials and dignitaries.
 <br/><br/>
-En 2013 : At least 13 people are killed and another three injured after a man goes on a spree shooting in the Serbian village of Velika Ivanča.
+En 2009 : President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis.
 <br/><br/>
-En 2009 : In Tbilisi, Georgia, up to 60,000 people protest against the government of Mikheil Saakashvili.
+En 1998 : The Good Friday Agreement is signed in Northern Ireland.
 <br/><br/>
-En 2003 : Iraq War: Baghdad falls to American forces.
+En 1991 : Italian ferry MS Moby Prince collides with an oil tanker in dense fog off Livorno, Italy, killing 140.
 <br/><br/>
-En 1994 : Space Shuttle program: Space Shuttle Endeavour is launched on STS-59.
+En 1991 : A rare tropical storm develops in the South Atlantic Ocean near Angola; the first to be documented by satellites.
 <br/><br/>
-En 1992 : A U.S. Federal Court finds former Panamanian dictator Manuel Noriega guilty of drug and racketeering charges. He is sentenced to 30 years in prison.
+En 1988 : The Ojhri Camp explosion kills or injures more than 1,000 people in Rawalpindi and Islamabad, Pakistan.
 <br/><br/>
-En 1991 : Georgia declares independence from the Soviet Union.
+En 1979 : Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas killing 42 people.
 <br/><br/>
-En 1990 : An IRA bombing in County Down, Northern Ireland, kills three members of the UDR.
+En 1973 : Invicta International Airlines Flight 435 crashes in a snowstorm on approach to Basel, Switzerland, killing 108 people.
 <br/><br/>
-En 1990 : The Sahtu Dene and Metis Comprehensive Land Claim Agreement is signed for 180,000 square kilometres (69,000 sq mi) in the Mackenzie Valley of the western Arctic.
+En 1972 : Tombs containing bamboo slips, among them Sun Tzu's Art of War and Sun Bin's lost military treatise, are discovered by construction workers in Shandong.
 <br/><br/>
-En 1990 : An Embraer EMB 120 Brasilia collides in mid-air with a Cessna 172 over Gadsden, Alabama, killing both of the Cessna's occupants.
+En 1972 : Vietnam War: For the first time since November 1967, American B-52 bombers reportedly begin bombing North Vietnam.
 <br/><br/>
-En 1989 : Tbilisi massacre: An anti-Soviet peaceful demonstration and hunger strike in Tbilisi, demanding restoration of Georgian independence, is dispersed by the Soviet Army, resulting in 20 deaths and hundreds of injuries.
+En 1971 : Ping-pong diplomacy: In an attempt to thaw relations with the United States, China hosts the U.S. table tennis team for a week-long visit.
 <br/><br/>
-En 1981 : The U.S. Navy nuclear submarine USS George Washington accidentally collides with the Nissho Maru, a Japanese cargo ship, sinking it and killing two Japanese sailors.
+En 1970 : Paul McCartney announces that he is leaving The Beatles for personal and professional reasons.
 <br/><br/>
-En 1980 : The Iraqi regime of Saddam Hussein kills philosopher Muhammad Baqir al-Sadr and his sister Bint al-Huda after three days of torture.
+En 1968 : The TEV Wahine, a New Zealand ferry sinks in Wellington harbour due to a fierce storm – the strongest winds ever in Wellington. Out of the 734 people on board, fifty-three died.
 <br/><br/>
-En 1969 : The first British-built Concorde 002 makes its maiden flight from Filton to RAF Fairford with Brian Trubshaw as the test pilot.
+En 1963 : One hundred twenty-nine American sailors die when the submarine USS Thresher sinks at sea.
 <br/><br/>
-En 1967 : The first Boeing 737 (a 100 series) makes its maiden flight.
+En 1944 : Rudolf Vrba and Alfréd Wetzler escape from Birkenau death camp.
 <br/><br/>
-En 1960 : Dr. Hendrik Verwoerd, Prime Minister of South Africa and architect of apartheid, narrowly survives an assassination attempt by a white farmer, David Pratt in Johannesburg.
+En 1941 : World War II: The Axis powers establish the Independent State of Croatia.
 <br/><br/>
-En 1959 : Project Mercury: NASA announces the selection of the United States' first seven astronauts, whom the news media quickly dub the "Mercury Seven".
+En 1939 : Alcoholics Anonymous, A.A.'s "Big Book", is first published.
 <br/><br/>
-En 1957 : The Suez Canal in Egypt is cleared and opens to shipping following the Suez Crisis.
+En 1938 : The 1938 German parliamentary election and referendum seeks approval for a single list of Nazi candidates and the recent annexation of Austria.
 <br/><br/>
-En 1952 : Hugo Ballivián's government is overthrown by the Bolivian National Revolution, starting a period of agrarian reform, universal suffrage and the nationalization of tin mines
+En 1925 : The Great Gatsby by F. Scott Fitzgerald is first published in New York City, by Charles Scribner's Sons.
 <br/><br/>
-En 1952 : Japan Air Lines Flight 301 crashes into Mount Mihara, Izu Ōshima, Japan, killing 37.
+En 1919 : Mexican Revolution leader Emiliano Zapata is ambushed and shot dead by government forces in Morelos.
 <br/><br/>
-En 1948 : Jorge Eliécer Gaitán's assassination provokes a violent riot in Bogotá (the Bogotazo), and a further ten years of violence in Colombia.
+En 1919 : The Third Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Huliaipole.
 <br/><br/>
-En 1948 : Fighters from the Irgun and Lehi Zionist paramilitary groups attacked Deir Yassin near Jerusalem, killing over 100.
+En 1916 : The Professional Golfers' Association of America (PGA) is created in New York City.
 <br/><br/>
-En 1947 : The Glazier–Higgins–Woodward tornadoes kill 181 and injure 970 in Texas, Oklahoma, and Kansas.
+En 1912 : RMS Titanic sets sail from Southampton, England on her maiden and only voyage.
 <br/><br/>
-En 1947 : The Journey of Reconciliation, the first interracial Freedom Ride begins through the upper South in violation of Jim Crow laws. The riders wanted enforcement of the United States Supreme Court's 1946 Irene Morgan decision that banned racial segregation in interstate travel.
+En 1900 : British suffer a sharp defeat by the Boers south of Brandfort. 600 British troops are killed and wounded and 800 taken prisoner.
 <br/><br/>
-En 1947 : United Nations Security Council Resolution 22 relating to Corfu Channel incident is adopted.
+En 1896 : 1896 Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.
 <br/><br/>
-En 1945 : Dietrich Bonhoeffer, Lutheran pastor and anti-Nazi dissident, is executed by the Nazi regime.
+En 1887 : On Easter Sunday, Pope Leo XIII authorizes the establishment of the Catholic University of America.
 <br/><br/>
-En 1945 : World War II: The German heavy cruiser Admiral Scheer is sunk by the Royal Air Force.
+En 1875 : India: Arya Samaj is founded in Mumbai by Swami Dayananda Saraswati to propagate his goal of social reform.
 <br/><br/>
-En 1945 : World War II: The Battle of Königsberg, in East Prussia, ends.
+En 1872 : The first Arbor Day is celebrated in Nebraska.
 <br/><br/>
-En 1945 : The United States Atomic Energy Commission is formed.
+En 1868 : At Arogee in Abyssinia, British and Indian forces defeat an army of Emperor Tewodros II. While 700 Ethiopians are killed and many more injured, only two British/Indian troops die.
 <br/><br/>
-En 1942 : World War II: The Battle of Bataan ends. An Indian Ocean raid by Japan's 1st Air Fleet sinks the British aircraft carrier HMS Hermes and the Australian destroyer HMAS Vampire.
+En 1866 : The American Society for the Prevention of Cruelty to Animals (ASPCA) is founded in New York City by Henry Bergh.
 <br/><br/>
-En 1940 : World War II: Operation Weserübung: Germany invades Denmark and Norway.
+En 1865 : American Civil War: A day after his surrender to Union forces, Confederate General Robert E. Lee addresses his troops for the last time.
 <br/><br/>
-En 1940 : Vidkun Quisling seizes power in Norway.
+En 1864 : Archduke Maximilian of Habsburg is proclaimed emperor of Mexico during the French intervention in Mexico.
 <br/><br/>
-En 1939 : African-American singer Marian Anderson gives a concert at the Lincoln Memorial after being denied the use of Constitution Hall by the Daughters of the American Revolution.
+En 1858 : After the original Big Ben, a 14.5 tonnes (32,000 lb) bell for the Palace of Westminster, had cracked during testing, it is recast into the current 13.76 tonnes (30,300 lb) bell by Whitechapel Bell Foundry.
 <br/><br/>
-En 1937 : The Kamikaze arrives at Croydon Airport in London. It is the first Japanese-built aircraft to fly to Europe.
+En 1826 : The 10,500 inhabitants of the Greek town of Missolonghi begin leaving the town after a year's siege by Turkish forces. Very few of them survive.
 <br/><br/>
-En 1918 : World War I: The Battle of the Lys: The Portuguese Expeditionary Corps is crushed by the German forces during what is called the Spring Offensive on the Belgian region of Flanders.
+En 1821 : Patriarch Gregory V of Constantinople is hanged by the Ottoman government from the main gate of the Patriarchate and his body is thrown into the Bosphorus.
 <br/><br/>
-En 1917 : World War I: The Battle of Arras: The battle begins with Canadian Corps executing a massive assault on Vimy Ridge.
+En 1821 : Greek War of Independence: the island of Psara joins the Greek struggle for independence.
 <br/><br/>
-En 1909 : The U.S. Congress passes the Payne–Aldrich Tariff Act.
+En 1816 : The Federal government of the United States approves the creation of the Second Bank of the United States.
 <br/><br/>
-En 1865 : American Civil War: Robert E. Lee surrenders the Army of Northern Virginia (26,765 troops) to Ulysses S. Grant at Appomattox Court House, Virginia, effectively ending the war.
+En 1815 : The Mount Tambora volcano begins a three-month-long eruption, lasting until July 15. The eruption ultimately kills 71,000 people and affects Earth's climate for the next two years.
 <br/><br/>
-En 1860 : On his phonautograph machine, Édouard-Léon Scott de Martinville makes the oldest known recording of an audible human voice.
+En 1809 : Napoleonic Wars: The War of the Fifth Coalition begins when forces of the Austrian Empire invade Bavaria.
 <br/><br/>
-En 1784 : The Treaty of Paris, ratified by the United States Congress on January 14, 1784, is ratified by King George III of the Kingdom of Great Britain, ending the American Revolutionary War. Copies of the ratified documents are exchanged on May 12, 1784.
+En 1741 : War of the Austrian Succession: Prussia gains control of Silesia at the Battle of Mollwitz.
 <br/><br/>
-En 1682 : Robert Cavelier de La Salle discovers the mouth of the Mississippi River, claims it for France and names it Louisiana.
+En 1717 : Robert Walpole resigns from the British government, commencing the Whig Split which lasts until 1720.
 <br/><br/>
-En 1609 : Eighty Years' War: Spain and the Dutch Republic sign the Treaty of Antwerp to initiate twelve years of truce.
+En 1710 : The Statute of Anne, the first law regulating copyright, comes into force in Great Britain.
 <br/><br/>
-En 1609 : Philip III of Spain issues the decree of the "Expulsion of the Moriscos".
+En 1606 : The Virginia Company of London is established by royal charter by James I of England with the purpose of establishing colonial settlements in North America.
 <br/><br/>
-En 1454 : The Treaty of Lodi is signed, establishing a balance of power among northern Italian city-states for almost 50 years.
+En 1545 : The settlement of Villa Imperial de Carlos V (now the city of Potosí) in Bolivia is founded after the discovery of huge silver deposits in the area.
 <br/><br/>
-En 1388 : Despite being outnumbered 16:1, forces of the Old Swiss Confederacy are victorious over the Archduchy of Austria in the Battle of Näfels.
+En 1500 : Ludovico Sforza is captured by Swiss troops at Novara and is handed over to the French.
 <br/><br/>
-En 1288 : Mongol invasions of Vietnam: Yuan forces are defeated by Trần forces in the Battle of Bach Dang in present-day northern Vietnam.
+En 1407 : Deshin Shekpa, 5th Karmapa Lama visits the Ming dynasty capital at Nanjing and is awarded the title "Great Treasure Prince of Dharma".
 <br/><br/>
-En 1241 : Battle of Liegnitz: Mongol forces defeat the Polish and German armies.
+En 837 : Halley's Comet makes its closest approach to Earth at a distance equal to 0.0342 AU (5.1 million kilometres/3.2 million miles).
 <br/><br/>
-En 537 : Siege of Rome: The Byzantine general Belisarius receives his promised reinforcements, 1,600 cavalry, mostly of Hunnic or Slavic origin and expert bowmen. He starts, despite shortages, raids against the Gothic camps and Vitiges is forced into a stalemate.
-<br/><br/>
-En 475 : Byzantine Emperor Basiliscus issues a circular letter (Enkyklikon) to the bishops of his empire, supporting the Monophysite christological position.
-<br/><br/>
-En 193 : The distinguished soldier Septimius Severus is proclaimed emperor by the army in Illyricum.
+En 428 : Nestorius becomes the Patriarch of Constantinople.
 <br/><br/>
