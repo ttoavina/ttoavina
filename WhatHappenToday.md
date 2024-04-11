@@ -4,109 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 10/4 ?(Hover on the year)</h1>
+<h1> What happen this day 11/4 ?(Hover on the year)</h1>
 
-En 2023 : A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded.
+En 2023 : During the Pazigyi massacre, an airstrike conducted by the Myanmar Air Force kills at least 100 villagers in Pazigyi, Sagaing Region.
 <br/><br/>
-En 2019 : Scientists from the Event Horizon Telescope project announce the first ever image of a black hole, which was located in the centre of the M87 galaxy.
+En 2021 : Twenty year old Daunte Wright is shot and killed in Brooklyn Center, Minnesota by officer Kimberly Potter, sparking protests in the city, when the officer allegedly mistakes her own gun for her taser.
 <br/><br/>
-En 2016 : The Paravur temple accident in which a devastating fire caused by the explosion of firecrackers stored for Vishu, kills more than one hundred people out of the thousands gathered for seventh day of Bhadrakali worship.
+En 2018 : An Ilyushin Il-76 which was owned and operated by the Algerian Air Force crashes near Boufarik, Algeria, killing 257.
 <br/><br/>
-En 2016 : An earthquake of 6.6 magnitude strikes 39 km west-southwest of Ashkasham, impacting India, Afghanistan, Tajikistan, Srinagar and Pakistan.
+En 2012 : A pair of great earthquakes occur in the Wharton Basin west of Sumatra in Indonesia. The maximum Mercalli intensity of this strike-slip doublet earthquake is VII (Very strong). Ten are killed, twelve are injured, and a non-destructive tsunami is observed on the island of Nias.
 <br/><br/>
-En 2010 : Polish Air Force Tu-154M crashes near Smolensk, Russia, killing 96 people, including Polish President Lech Kaczyński, his wife, and dozens of other senior officials and dignitaries.
+En 2011 : An explosion in the Minsk Metro, Belarus kills 15 people and injures 204 others.
 <br/><br/>
-En 2009 : President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis.
+En 2007 : Algiers bombings: Two bombings in Algiers kill 33 people and wound a further 222 others.
 <br/><br/>
-En 1998 : The Good Friday Agreement is signed in Northern Ireland.
+En 2006 : Iranian president Mahmoud Ahmadinejad announces Iran's claim to have successfully enriched uranium.
 <br/><br/>
-En 1991 : Italian ferry MS Moby Prince collides with an oil tanker in dense fog off Livorno, Italy, killing 140.
+En 2002 : The Ghriba synagogue bombing by al-Qaeda kills 21 in Tunisia.
 <br/><br/>
-En 1991 : A rare tropical storm develops in the South Atlantic Ocean near Angola; the first to be documented by satellites.
+En 2002 : Over two hundred thousand people march in Caracas towards the presidential palace to demand the resignation of President Hugo Chávez. Nineteen protesters are killed.
 <br/><br/>
-En 1988 : The Ojhri Camp explosion kills or injures more than 1,000 people in Rawalpindi and Islamabad, Pakistan.
+En 2001 : The detained crew of a United States EP-3E aircraft that landed in Hainan, China after a collision with a J-8 fighter, is released.
 <br/><br/>
-En 1979 : Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas killing 42 people.
+En 1993 : Four hundred fifty prisoners rioted at the Southern Ohio Correctional Facility in Lucasville, Ohio, and continued to do so for ten days, citing grievances related to prison conditions, as well as the forced vaccination of Nation of Islam prisoners (for tuberculosis) against their religious beliefs.
 <br/><br/>
-En 1973 : Invicta International Airlines Flight 435 crashes in a snowstorm on approach to Basel, Switzerland, killing 108 people.
+En 1990 : Customs officers in Middlesbrough, England, seize what they believe to be the barrel of a massive gun on a ship bound for Iraq.
 <br/><br/>
-En 1972 : Tombs containing bamboo slips, among them Sun Tzu's Art of War and Sun Bin's lost military treatise, are discovered by construction workers in Shandong.
+En 1987 : The London Agreement is secretly signed between Israeli Foreign Affairs Minister Shimon Peres and King Hussein of Jordan.
 <br/><br/>
-En 1972 : Vietnam War: For the first time since November 1967, American B-52 bombers reportedly begin bombing North Vietnam.
+En 1986 : FBI Miami Shootout: A gun battle in broad daylight in Dade County, Florida between two bank/armored car robbers and pursuing FBI agents. During the firefight, FBI agents Jerry L. Dove and Benjamin P. Grogan were killed, while five other agents were wounded. As a result, the popular .40 S&W cartridge was developed.
 <br/><br/>
-En 1971 : Ping-pong diplomacy: In an attempt to thaw relations with the United States, China hosts the U.S. table tennis team for a week-long visit.
+En 1981 : A massive riot in Brixton, south London results in almost 300 police injuries and 65 serious civilian injuries.
 <br/><br/>
-En 1970 : Paul McCartney announces that he is leaving The Beatles for personal and professional reasons.
+En 1979 : Ugandan dictator Idi Amin is deposed.
 <br/><br/>
-En 1968 : The TEV Wahine, a New Zealand ferry sinks in Wellington harbour due to a fierce storm – the strongest winds ever in Wellington. Out of the 734 people on board, fifty-three died.
+En 1977 : London Transport's Silver Jubilee AEC Routemaster buses are launched.
 <br/><br/>
-En 1963 : One hundred twenty-nine American sailors die when the submarine USS Thresher sinks at sea.
+En 1976 : The Apple I is created.
 <br/><br/>
-En 1944 : Rudolf Vrba and Alfréd Wetzler escape from Birkenau death camp.
+En 1970 : Apollo Program: Apollo 13 is launched.
 <br/><br/>
-En 1941 : World War II: The Axis powers establish the Independent State of Croatia.
+En 1968 : US President Lyndon B. Johnson signs the Civil Rights Act of 1968, prohibiting discrimination in the sale, rental, and financing of housing.
 <br/><br/>
-En 1939 : Alcoholics Anonymous, A.A.'s "Big Book", is first published.
+En 1968 : A failed assassination attempt on Rudi Dutschke, leader of the German student movement, leaves Dutschke suffering from brain damage.
 <br/><br/>
-En 1938 : The 1938 German parliamentary election and referendum seeks approval for a single list of Nazi candidates and the recent annexation of Austria.
+En 1965 : The Palm Sunday tornado outbreak of 1965: Fifty-five tornadoes hit in six Midwestern states of the United States, killing 266 people.
 <br/><br/>
-En 1925 : The Great Gatsby by F. Scott Fitzgerald is first published in New York City, by Charles Scribner's Sons.
+En 1964 : Brazilian Marshal Humberto de Alencar Castelo Branco is elected president by the National Congress.
 <br/><br/>
-En 1919 : Mexican Revolution leader Emiliano Zapata is ambushed and shot dead by government forces in Morelos.
+En 1963 : Pope John XXIII issues Pacem in terris, the first encyclical addressed to all Christians instead of only Catholics, and which described the conditions for world peace in human terms.
 <br/><br/>
-En 1919 : The Third Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Huliaipole.
+En 1961 : The trial of Adolf Eichmann begins in Jerusalem.
 <br/><br/>
-En 1916 : The Professional Golfers' Association of America (PGA) is created in New York City.
+En 1957 : United Kingdom agrees to Singaporean self-rule.
 <br/><br/>
-En 1912 : RMS Titanic sets sail from Southampton, England on her maiden and only voyage.
+En 1955 : The Air India Kashmir Princess is bombed and crashes in a failed assassination attempt on Zhou Enlai by the Kuomintang.
 <br/><br/>
-En 1900 : British suffer a sharp defeat by the Boers south of Brandfort. 600 British troops are killed and wounded and 800 taken prisoner.
+En 1952 : Bolivian National Revolution: Rebels take over Palacio Quemado.
 <br/><br/>
-En 1896 : 1896 Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.
+En 1952 : Pan Am Flight 526A ditches near San Juan-Isla Grande Airport in San Juan, Puerto Rico, after experiencing an engine failure, killing 52 people.
 <br/><br/>
-En 1887 : On Easter Sunday, Pope Leo XIII authorizes the establishment of the Catholic University of America.
+En 1951 : Korean War: President Truman relieves Douglas MacArthur of the command of American forces in Korea and Japan.
 <br/><br/>
-En 1875 : India: Arya Samaj is founded in Mumbai by Swami Dayananda Saraswati to propagate his goal of social reform.
+En 1951 : The Stone of Scone, the stone upon which Scottish monarchs were traditionally crowned, is found on the site of the altar of Arbroath Abbey. It had been taken by Scottish nationalist students from its place in Westminster Abbey.
 <br/><br/>
-En 1872 : The first Arbor Day is celebrated in Nebraska.
+En 1945 : World War II: American forces liberate the Buchenwald concentration camp.
 <br/><br/>
-En 1868 : At Arogee in Abyssinia, British and Indian forces defeat an army of Emperor Tewodros II. While 700 Ethiopians are killed and many more injured, only two British/Indian troops die.
+En 1935 : Stresa Front: opening of the conference between the British Prime Minister Ramsay MacDonald, the Italian Prime Minister Benito Mussolini and the French Minister for Foreign Affairs Pierre Laval to condemn the German violations of the Treaty of Versailles.
 <br/><br/>
-En 1866 : The American Society for the Prevention of Cruelty to Animals (ASPCA) is founded in New York City by Henry Bergh.
+En 1921 : Emir Abdullah establishes the first centralised government in the newly created British protectorate of Transjordan.
 <br/><br/>
-En 1865 : American Civil War: A day after his surrender to Union forces, Confederate General Robert E. Lee addresses his troops for the last time.
+En 1909 : The city of Tel Aviv is founded.
 <br/><br/>
-En 1864 : Archduke Maximilian of Habsburg is proclaimed emperor of Mexico during the French intervention in Mexico.
+En 1908 : SMS Blücher, the last armored cruiser to be built by the Imperial German Navy, is launched.
 <br/><br/>
-En 1858 : After the original Big Ben, a 14.5 tonnes (32,000 lb) bell for the Palace of Westminster, had cracked during testing, it is recast into the current 13.76 tonnes (30,300 lb) bell by Whitechapel Bell Foundry.
+En 1881 : Spelman College is founded in Atlanta, Georgia as the Atlanta Baptist Female Seminary, an institute of higher education for African-American women.
 <br/><br/>
-En 1826 : The 10,500 inhabitants of the Greek town of Missolonghi begin leaving the town after a year's siege by Turkish forces. Very few of them survive.
+En 1876 : The Benevolent and Protective Order of Elks is organized.
 <br/><br/>
-En 1821 : Patriarch Gregory V of Constantinople is hanged by the Ottoman government from the main gate of the Patriarchate and his body is thrown into the Bosphorus.
+En 1868 : Former shōgun Tokugawa Yoshinobu surrenders Edo Castle to Imperial forces, marking the end of the Tokugawa shogunate.
 <br/><br/>
-En 1821 : Greek War of Independence: the island of Psara joins the Greek struggle for independence.
+En 1856 : Second Battle of Rivas: Juan Santamaría burns down the hostel where William Walker's filibusters are holed up.
 <br/><br/>
-En 1816 : The Federal government of the United States approves the creation of the Second Bank of the United States.
+En 1814 : The Treaty of Fontainebleau ends the War of the Sixth Coalition against Napoleon Bonaparte, and forces him to abdicate unconditionally for the first time.
 <br/><br/>
-En 1815 : The Mount Tambora volcano begins a three-month-long eruption, lasting until July 15. The eruption ultimately kills 71,000 people and affects Earth's climate for the next two years.
+En 1809 : Battle of the Basque Roads: Admiral Lord Gambier fails to support Captain Lord Cochrane, leading to an incomplete British victory over the French fleet.
 <br/><br/>
-En 1809 : Napoleonic Wars: The War of the Fifth Coalition begins when forces of the Austrian Empire invade Bavaria.
+En 1727 : Premiere of Johann Sebastian Bach's St Matthew Passion BWV 244b at St. Thomas Church in Leipzig, Electorate of Saxony (now Germany).
 <br/><br/>
-En 1741 : War of the Austrian Succession: Prussia gains control of Silesia at the Battle of Mollwitz.
+En 1713 : France and Great Britain sign the Treaty of Utrecht, bringing an end to the War of the Spanish Succession (Queen Anne's War). Britain accepts Philip V as King of Spain, while Philip renounces any claim to the French throne.
 <br/><br/>
-En 1717 : Robert Walpole resigns from the British government, commencing the Whig Split which lasts until 1720.
+En 1689 : William III and Mary II are crowned as joint sovereigns of Great Britain on the same day that the Scottish Parliament concurs with the English decision of 12 February.
 <br/><br/>
-En 1710 : The Statute of Anne, the first law regulating copyright, comes into force in Great Britain.
+En 1544 : Italian War of 1542–46: A French army defeats Habsburg forces at the Battle of Ceresole, but fails to exploit its victory.
 <br/><br/>
-En 1606 : The Virginia Company of London is established by royal charter by James I of England with the purpose of establishing colonial settlements in North America.
+En 1512 : War of the League of Cambrai: Franco-Ferrarese forces led by Gaston de Foix and Alfonso I d'Este win the Battle of Ravenna against the Papal-Spanish forces.
 <br/><br/>
-En 1545 : The settlement of Villa Imperial de Carlos V (now the city of Potosí) in Bolivia is founded after the discovery of huge silver deposits in the area.
+En 1241 : Batu Khan defeats Béla IV of Hungary at the Battle of Mohi.
 <br/><br/>
-En 1500 : Ludovico Sforza is captured by Swiss troops at Novara and is handed over to the French.
-<br/><br/>
-En 1407 : Deshin Shekpa, 5th Karmapa Lama visits the Ming dynasty capital at Nanjing and is awarded the title "Great Treasure Prince of Dharma".
-<br/><br/>
-En 837 : Halley's Comet makes its closest approach to Earth at a distance equal to 0.0342 AU (5.1 million kilometres/3.2 million miles).
-<br/><br/>
-En 428 : Nestorius becomes the Patriarch of Constantinople.
+En 491 : Flavius Anastasius becomes Byzantine emperor, with the name of Anastasius I.
 <br/><br/>
