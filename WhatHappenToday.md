@@ -4,99 +4,77 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 12/4 ?(Hover on the year)</h1>
+<h1> What happen this day 13/4 ?(Hover on the year)</h1>
 
-En 2014 : The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying over 2,000 homes.
+En 2023 : The house of Jack Teixeira was raided in an investigation into leaked Pentagon documents, where he was later arrested on the same day.
 <br/><br/>
-En 2013 : Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
+En 2017 : The US drops the largest ever non-nuclear weapon on Nangarhar Province, Afghanistan.
 <br/><br/>
-En 2010 : Merano derailment: A rail accident in South Tyrol kills nine people and injures a further 28.
+En 1997 : Tiger Woods becomes the youngest golfer to win the Masters Tournament.
 <br/><br/>
-En 2009 : Zimbabwe officially abandons the Zimbabwean dollar as its official currency.
+En 1996 : Two women and four children are killed after Israeli helicopter fired rockets at an ambulance in Mansouri, Lebanon.
 <br/><br/>
-En 2007 : A suicide bomber penetrates the Green Zone and detonates in a cafeteria within a parliament building, killing Iraqi MP Mohammed Awad and wounding more than twenty other people.
+En 1976 : The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration.
 <br/><br/>
-En 2002 : A suicide bomber blows herself up at the entrance to Jerusalem's Mahane Yehuda Market, killing seven people and wounding 104.
+En 1976 : Forty workers die in an explosion at the Lapua ammunition factory, the deadliest accidental disaster in modern history in Finland.
 <br/><br/>
-En 1999 : United States President Bill Clinton is cited for contempt of court for giving "intentionally false statements" in a civil lawsuit; he is later fined and disbarred.
+En 1975 : An attack by the Phalangist resistance kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War.
 <br/><br/>
-En 1999 : During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people.
+En 1972 : The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
 <br/><br/>
-En 1992 : The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Paris.
+En 1972 : Vietnam War: The Battle of An Lộc begins.
 <br/><br/>
-En 1990 : Jim Gary's "Twentieth Century Dinosaurs" exhibition opens at the Smithsonian Institution National Museum of Natural History in Washington, D.C. He is the only sculptor ever invited to present a solo exhibition there.
+En 1970 : An oxygen tank aboard the Apollo 13 Service Module explodes, putting the crew in great danger and causing major damage to the Apollo command and service module (codenamed "Odyssey") while en route to the Moon.
 <br/><br/>
-En 1990 : Widerøe Flight 839 crashes after takeoff from Værøy Airport in Norway, killing five people.
+En 1964 : At the Academy Awards, Sidney Poitier becomes the first African-American man to win the Best Actor award for the 1963 film Lilies of the Field.
 <br/><br/>
-En 1985 : Space Shuttle Discovery launches on STS-51D to deploy two communications satellites.
+En 1960 : The United States launches Transit 1-B, the world's first satellite navigation system.
 <br/><br/>
-En 1983 : Harold Washington is elected as the first black mayor of Chicago.
+En 1958 : American pianist Van Cliburn is awarded first prize at the inaugural International Tchaikovsky Competition in Moscow.
 <br/><br/>
-En 1981 : The first launch of a Space Shuttle (Columbia) takes place: The STS-1 mission.
+En 1953 : CIA director Allen Dulles launches the mind-control program Project MKUltra.
 <br/><br/>
-En 1980 : The Americo-Liberian government of Liberia is violently deposed.
+En 1948 : In an ambush, 78 Jewish doctors, nurses and medical students from Hadassah Hospital, and a British soldier, are massacred by Arabs in Sheikh Jarrah. This event came to be known as the Hadassah medical convoy massacre.
 <br/><br/>
-En 1980 : Transbrasil Flight 303, a Boeing 727, crashes on approach to Hercílio Luz International Airport in Florianópolis, Brazil. Fifty-five out of the 58 people on board are killed.
+En 1945 : World War II: German troops kill more than 1,000 political and military prisoners in Gardelegen, Germany.
 <br/><br/>
-En 1980 : Canadian runner and athlete, Terry Fox begins his Marathon of Hope Run in St. John's, NF
+En 1945 : World War II: Soviet and Bulgarian forces capture Vienna.
 <br/><br/>
-En 1970 : Soviet submarine K-8, carrying four nuclear torpedoes, sinks in the Bay of Biscay four days after a fire on board.
+En 1943 : World War II: The discovery of mass graves of Polish prisoners of war killed by Soviet forces in the Katyń Forest Massacre is announced, causing a diplomatic rift between the Polish government-in-exile in London and the Soviet Union, which denies responsibility.
 <br/><br/>
-En 1963 : The Soviet nuclear-powered submarine K-33 collides with the Finnish merchant vessel M/S Finnclipper in the Danish straits.
+En 1943 : The Jefferson Memorial is dedicated in Washington, D.C., on the 200th anniversary of President Thomas Jefferson's birth.
 <br/><br/>
-En 1961 : Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human to travel into outer space and perform the first crewed orbital flight, Vostok 1.
+En 1941 : A pact of neutrality between the USSR and Japan is signed.
 <br/><br/>
-En 1955 : The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.
+En 1919 : Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379–1,000 unarmed demonstrators including men and women in Amritsar, India; and approximately 1,500 injured.
 <br/><br/>
-En 1945 : U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death.
+En 1909 : The 31 March Incident leads to the overthrow of Sultan Abdul Hamid II.
 <br/><br/>
-En 1945 : World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 50 miles from Berlin.
+En 1873 : The Colfax massacre: More than 60 to 150 black men are murdered in Colfax, Louisiana, while surrendering to a mob of former Confederate soldiers and members of the Ku Klux Klan.
 <br/><br/>
-En 1937 : Sir Frank Whittle ground-tests the first jet engine designed to power an aircraft, at Rugby, England.
+En 1870 : The New York City Metropolitan Museum of Art is founded.
 <br/><br/>
-En 1934 : The strongest surface wind gust in the world at the time of 231 mph, is measured on the summit of Mount Washington, New Hampshire. It has since been surpassed.
+En 1865 : American Civil War: Raleigh, North Carolina is occupied by Union forces.
 <br/><br/>
-En 1934 : The U.S. Auto-Lite strike begins, culminating in a five-day melee between Ohio National Guard troops and 6,000 strikers and picketers.
+En 1861 : American Civil War: Union forces surrender Fort Sumter to Confederate forces.
 <br/><br/>
-En 1928 : The Bremen, a German Junkers W 33 type aircraft, takes off for the first successful transatlantic aeroplane flight from east to west.
+En 1849 : Lajos Kossuth presents the Hungarian Declaration of Independence in a closed session of the National Assembly.
 <br/><br/>
-En 1927 : Shanghai massacre of 1927: Chiang Kai-shek orders the Chinese Communist Party members executed in Shanghai, ending the First United Front.
+En 1829 : The Roman Catholic Relief Act 1829 gives Roman Catholics in the United Kingdom the right to vote and to sit in Parliament.
 <br/><br/>
-En 1927 : Rocksprings, Texas is hit by an F5 tornado that destroys 235 of the 247 buildings in the town, kills 72 townspeople and injures 205; third deadliest tornado in Texas history.
+En 1777 : American Revolutionary War: American forces are ambushed and defeated in the Battle of Bound Brook, New Jersey.
 <br/><br/>
-En 1917 : World War I: Canadian forces successfully complete the taking of Vimy Ridge from the Germans.
+En 1742 : George Frideric Handel's oratorio Messiah makes its world premiere in Dublin, Ireland.
 <br/><br/>
-En 1910 : SMS Zrínyi, one of the last pre-dreadnought battleships built by the Austro-Hungarian Navy, is launched.
+En 1699 : The Sikh religion is formalised as the Khalsa – the brotherhood of Warrior-Saints – by Guru Gobind Singh in northern India, in accordance with the Nanakshahi calendar.
 <br/><br/>
-En 1900 : One day after its enactment by the Congress, President William McKinley signs the Foraker Act into law, giving Puerto Rico limited self-rule.
+En 1613 : Samuel Argall, having captured Pocahontas in Passapatanzy, Virginia, sets off with her to Jamestown with the intention of exchanging her for English prisoners held by her father.
 <br/><br/>
-En 1877 : The United Kingdom annexes the Transvaal.
+En 1612 : Samurai Miyamoto Musashi defeats Sasaki Kojirō in a duel at Funajima island.
 <br/><br/>
-En 1865 : American Civil War: Mobile, Alabama, falls to the Union Army.
+En 1455 : Thirteen Years' War: the beginning of the Battle for Kneiphof.
 <br/><br/>
-En 1864 : American Civil War: The Battle of Fort Pillow: Confederate forces kill most of the African American soldiers that surrendered at Fort Pillow, Tennessee.
+En 1204 : Constantinople falls to the Crusaders of the Fourth Crusade, temporarily ending the Byzantine Empire.
 <br/><br/>
-En 1862 : American Civil War: The Andrews Raid (the Great Locomotive Chase) occurs, starting from Big Shanty, Georgia (now Kennesaw).
-<br/><br/>
-En 1861 : American Civil War: Battle of Fort Sumter. The war begins with Confederate forces firing on Fort Sumter, in the harbor of Charleston, South Carolina.
-<br/><br/>
-En 1831 : Soldiers marching on the Broughton Suspension Bridge in Manchester, England, cause it to collapse.
-<br/><br/>
-En 1820 : Alexander Ypsilantis is declared leader of Filiki Eteria, a secret organization to overthrow Ottoman rule over Greece.
-<br/><br/>
-En 1807 : The Froberg mutiny on Malta ends when the remaining mutineers blow up the magazine of Fort Ricasoli.
-<br/><br/>
-En 1776 : American Revolution: With the Halifax Resolves, the North Carolina Provincial Congress authorizes its Congressional delegation to vote for independence from Britain.
-<br/><br/>
-En 1606 : The Union Flag is adopted as the flag of English and Scottish ships.
-<br/><br/>
-En 1204 : The Crusaders of the Fourth Crusade breach the walls of Constantinople and enter the city, which they completely occupy the following day.
-<br/><br/>
-En 1012 : Duke Oldřich of Bohemia deposes and blinds his brother Jaromír, who flees to Poland.
-<br/><br/>
-En 627 : King Edwin of Northumbria is converted to Christianity by Paulinus, bishop of York.
-<br/><br/>
-En 467 : Anthemius is elevated to Emperor of the Western Roman Empire.
-<br/><br/>
-En 240 : Shapur I becomes co-emperor of the Sasanian Empire with his father Ardashir I.
+En 1111 : Henry V is crowned Holy Roman Emperor.
 <br/><br/>
