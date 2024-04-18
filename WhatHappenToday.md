@@ -4,85 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/4 ?(Hover on the year)</h1>
+<h1> What happen this day 18/4 ?(Hover on the year)</h1>
 
-En 2021 : The funeral of Prince Philip, Duke of Edinburgh, takes place at St George's Chapel, Windsor Castle.
+En 2019 : A redacted version of the Mueller report is released to the United States Congress and the public.
 <br/><br/>
-En 2014 : NASA's Kepler space telescope confirms the discovery of the first Earth-size planet in the habitable zone of another star.
+En 2018 : King Mswati III of Swaziland announces that his country's name will change to Eswatini.
 <br/><br/>
-En 2013 : An explosion at a fertilizer plant in the city of West, Texas, kills 15 people and injures 160 others.
+En 2018 : Anti-government protests start in Nicaragua
 <br/><br/>
-En 2006 : A Palestinian suicide bomber detonates an explosive device in a Tel Aviv restaurant, killing 11 people and injuring 70.
+En 1988 : The United States launches Operation Praying Mantis against Iranian naval forces in the largest naval battle since World War II.
 <br/><br/>
-En 2003 : Anneli Jäätteenmäki takes office as the first female prime minister of Finland.
+En 1988 : In Israel John Demjanjuk is sentenced to death for war crimes committed in World War II, although the verdict is later overturned.
 <br/><br/>
-En 1992 : The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
+En 1980 : The Republic of Zimbabwe (formerly Rhodesia) comes into being, with Canaan Banana as the country's first President. The Zimbabwean dollar replaces the Rhodesian dollar as the official currency.
 <br/><br/>
-En 1986 : An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly declared peace bringing an end to any hypothetical war that may have been legally considered to exist.
+En 1980 : The town of Elmore City, Oklahoma holds its first dance in the town’s history.
 <br/><br/>
-En 1982 : Constitution Act, 1982 Patriation of the Canadian constitution in Ottawa by Proclamation of Elizabeth II, Queen of Canada.
+En 1972 : East African Airways Flight 720 crashes during a rejected takeoff from Addis Ababa Bole International Airport in Addis Ababa, Ethiopia, killing 43.
 <br/><br/>
-En 1978 : Mir Akbar Khyber is assassinated, provoking the Saur Revolution in Afghanistan.
+En 1955 : Twenty-nine nations meet at Bandung, Indonesia, for the first Asian-African Conference.
 <br/><br/>
-En 1975 : The Cambodian Civil War ends. The Khmer Rouge captures the capital Phnom Penh and Cambodian government forces surrender.
+En 1954 : Gamal Abdel Nasser seizes power in Egypt.
 <br/><br/>
-En 1971 : The Provisional Government of Bangladesh is formed.
+En 1949 : The Republic of Ireland Act comes into force, declaring Éire to be a republic and severing Ireland's "association" with the Commonwealth of Nations.
 <br/><br/>
-En 1970 : Apollo program: The damaged Apollo 13 spacecraft returns to Earth safely.
+En 1947 : The Operation Big Bang, the largest non-nuclear man-made explosion to that time, destroys bunkers and military installations on the North Sea island of Heligoland, Germany.
 <br/><br/>
-En 1969 : Sirhan Sirhan is convicted of assassinating Robert F. Kennedy.
+En 1946 : The International Court of Justice holds its inaugural meeting in The Hague, Netherlands.
 <br/><br/>
-En 1969 : Communist Party of Czechoslovakia chairman Alexander Dubček is deposed.
+En 1946 : Jackie Robinson makes his regular season debut for the Montreal Royals of the International League, to make them the first integrated modern professional baseball team.
 <br/><br/>
-En 1961 : Bay of Pigs Invasion: A group of Cuban exiles financed and trained by the CIA lands at the Bay of Pigs in Cuba with the aim of ousting Fidel Castro.
+En 1945 : World War II: Over 1,000 bombers attack the small island of Heligoland, Germany.
 <br/><br/>
-En 1951 : The Peak District becomes the United Kingdom's first National Park.
+En 1945 : Italian resistance movement: In Turin, despite the harsh repressive measures adopted by Nazi-fascists, a great pre-insurrectional strike begins.
 <br/><br/>
-En 1946 : The last French troops are withdrawn from Syria.
+En 1943 : World War II: Operation Vengeance, Admiral Isoroku Yamamoto is killed when his aircraft is shot down by U.S. fighters over Bougainville Island.
 <br/><br/>
-En 1945 : World War II: Montese, Italy, is liberated from Nazi forces.
+En 1942 : World War II: The Doolittle Raid on Japan: Tokyo, Yokohama, Kobe and Nagoya are bombed.
 <br/><br/>
-En 1945 : Historian Tran Trong Kim is appointed the Prime Minister of the Empire of Vietnam.
+En 1942 : Pierre Laval becomes Prime Minister of Vichy France.
 <br/><br/>
-En 1944 : Forces of the Communist-controlled Greek People's Liberation Army attack the smaller National and Social Liberation resistance group, which surrenders. Its leader Dimitrios Psarros is murdered.
+En 1939 : Robert Menzies, who became Australia's longest-serving prime minister, is elected as leader of the United Australia Party after the death of Prime Minister Joseph Lyons.
 <br/><br/>
-En 1942 : French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
+En 1930 : A fire kills 118 people at a wooden church in the small Romanian town of Costești, most of them schoolchildren, after starting during Good Friday services.
 <br/><br/>
-En 1941 : World War II: The Axis powers invasion of Yugoslavia is completed when it signs an armistice with Germany and Italy.
+En 1916 : World War I: During a mine warfare in high altitude on the Dolomites, the Italian troops conquer the Col di Lana held by the Austrian army.
 <br/><br/>
-En 1931 : After negotiations between Catalan and Spanish provisional governments, the Catalan Republic proclaimed in April 14 becomes the Generalitat de Catalunya, the autonomous government of Catalonia within the Spanish Republic.
+En 1915 : World War I: French pilot Roland Garros is shot down and glides to a landing on the German side of the lines.
 <br/><br/>
-En 1912 : Russian troops open fire on striking goldfield workers in northeast Siberia, killing at least 150.
+En 1912 : The Cunard liner RMS Carpathia brings 705 survivors from the RMS Titanic to New York City.
 <br/><br/>
-En 1907 : The Ellis Island immigration center processes 11,747 people, more than on any other day.
+En 1909 : Joan of Arc is beatified in Rome.
 <br/><br/>
-En 1905 : The Supreme Court of the United States decides Lochner v. New York, which holds that the "right to free contract" is implicit in the due process clause of the Fourteenth Amendment to the United States Constitution.
+En 1906 : The 7.9 Mw earthquake and fire destroy much of San Francisco, California, killing more than 3,000 people, making one of the worst natural disaster in American history.
 <br/><br/>
-En 1895 : The Treaty of Shimonoseki between China and Japan is signed. This marks the end of the First Sino-Japanese War, and the defeated Qing Empire is forced to renounce its claims on Korea and to concede the southern portion of the Fengtian province, Taiwan and the Penghu to Japan.
+En 1902 : The 7.5 Mw  Guatemala earthquake shakes Guatemala with a maximum Mercalli intensity of VIII (Severe), killing between 800 and 2,000.
 <br/><br/>
-En 1876 : Catalpa rescue: The rescue of six Fenian prisoners from Fremantle Prison in Western Australia.
+En 1899 : The St. Andrew's Ambulance Association is granted a royal charter by Queen Victoria.
 <br/><br/>
-En 1869 : Morelos is admitted as the 27th state of Mexico.
+En 1897 : The Greco-Turkish War is declared between Greece and the Ottoman Empire.
 <br/><br/>
-En 1864 : American Civil War: The Battle of Plymouth begins: Confederate forces attack Plymouth, North Carolina.
+En 1864 : Battle of Dybbøl: A Prussian-Austrian army defeats Denmark and gains control of Schleswig. Denmark surrenders the province in the following peace settlement.
 <br/><br/>
-En 1863 : American Civil War: Grierson's Raid begins: Troops under Union Army Colonel Benjamin Grierson attack central Mississippi.
+En 1857 : "The Spirits Book" by Allan Kardec is published, marking the birth of Spiritualism in France.
 <br/><br/>
-En 1861 : The state of Virginia's secession convention votes to secede from the United States; Virginia later becomes the eighth state to join the Confederate States of America.
+En 1847 : American victory at the battle of Cerro Gordo opens the way for invasion of Mexico.
 <br/><br/>
-En 1797 : Sir Ralph Abercromby attacks San Juan, Puerto Rico, in what would be one of the largest invasions of the Spanish territories in the Americas.
+En 1831 : The University of Alabama is founded in Tuscaloosa, Alabama.
 <br/><br/>
-En 1797 : Citizens of Verona begin an unsuccessful eight-day rebellion against the French occupying forces.
+En 1783 : Three-Fifths Compromise: The first instance of black slaves in the United States of America being counted as three fifths of persons (for the purpose of taxation), in a resolution of the Congress of the Confederation. This was later adopted in the 1787 Constitution.
 <br/><br/>
-En 1524 : Giovanni da Verrazzano reaches New York harbor.
+En 1775 : American Revolution: The British advancement by sea begins; Paul Revere and other riders warn the countryside of the troop movements.
 <br/><br/>
-En 1521 : Trial of Martin Luther over his teachings begins during the assembly of the Diet of Worms. Initially intimidated, he asks for time to reflect before answering and is given a stay of one day.
+En 1738 : Real Academia de la Historia ("Royal Academy of History") is founded in Madrid.
 <br/><br/>
-En 1492 : Spain and Christopher Columbus sign the Capitulations of Santa Fe for his voyage to Asia to acquire spices.
+En 1689 : Bostonians rise up in rebellion against Sir Edmund Andros.
 <br/><br/>
-En 1362 : Kaunas Castle falls to the Teutonic Order after a month-long siege.
+En 1521 : Trial of Martin Luther begins its second day during the assembly of the Diet of Worms. He refuses to recant his teachings despite the risk of excommunication.
 <br/><br/>
-En 1349 : The rule of the Bavand dynasty in Mazandaran is brought to an end by the murder of Hasan II.
+En 1518 : Bona Sforza is crowned as queen consort of Poland.
 <br/><br/>
-En 1080 : Harald III of Denmark dies and is succeeded by Canute IV, who would later be the first Dane to be canonized.
+En 1506 : The cornerstone of the current St. Peter's Basilica is laid.
+<br/><br/>
+En 1428 : Peace of Ferrara between Republic of Venice, Duchy of Milan, Republic of Florence and House of Gonzaga: ending of the second campaign of the Wars in Lombardy fought until the Treaty of Lodi in 1454, which will then guarantee the conditions for the development of the Italian Renaissance.
+<br/><br/>
+En 796 : King Æthelred I of Northumbria is murdered in Corbridge by a group led by his ealdormen, Ealdred and Wada. The patrician Osbald is crowned, but abdicates within 27 days.
 <br/><br/>
