@@ -4,89 +4,97 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 18/4 ?(Hover on the year)</h1>
+<h1> What happen this day 19/4 ?(Hover on the year)</h1>
 
-En 2019 : A redacted version of the Mueller report is released to the United States Congress and the public.
+En 2021 : The Ingenuity helicopter becomes the first aircraft to achieve flight on another planet.
 <br/><br/>
-En 2018 : King Mswati III of Swaziland announces that his country's name will change to Eswatini.
+En 2020 : A killing spree in Nova Scotia, Canada, leaves 22 people and the perpetrator dead, making it the deadliest rampage in the country's history.
 <br/><br/>
-En 2018 : Anti-government protests start in Nicaragua
+En 2013 : Boston Marathon bombing suspect Tamerlan Tsarnaev is killed in a shootout with police. His brother Dzhokhar is later captured hiding in a boat inside a backyard in the suburb of Watertown.
 <br/><br/>
-En 1988 : The United States launches Operation Praying Mantis against Iranian naval forces in the largest naval battle since World War II.
+En 2011 : Fidel Castro resigns as First Secretary of the Communist Party of Cuba after holding the title since July 1961.
 <br/><br/>
-En 1988 : In Israel John Demjanjuk is sentenced to death for war crimes committed in World War II, although the verdict is later overturned.
+En 2005 : Cardinal Joseph Ratzinger is elected to the papacy and becomes Pope Benedict XVI.
 <br/><br/>
-En 1980 : The Republic of Zimbabwe (formerly Rhodesia) comes into being, with Canaan Banana as the country's first President. The Zimbabwean dollar replaces the Rhodesian dollar as the official currency.
+En 2001 : Space Shuttle Endeavour is launched on STS-100 carrying the Canadarm2 to the International Space Station.
 <br/><br/>
-En 1980 : The town of Elmore City, Oklahoma holds its first dance in the town’s history.
+En 2000 : Air Philippines Flight 541 crashes in Samal, Davao del Norte, killing all 131 people on board.
 <br/><br/>
-En 1972 : East African Airways Flight 720 crashes during a rejected takeoff from Addis Ababa Bole International Airport in Addis Ababa, Ethiopia, killing 43.
+En 1999 : The German Bundestag returns to Berlin.
 <br/><br/>
-En 1955 : Twenty-nine nations meet at Bandung, Indonesia, for the first Asian-African Conference.
+En 1995 : Oklahoma City bombing: The Alfred P. Murrah Federal Building in Oklahoma City, USA, is bombed, killing 168 people including 19 children under the age of six.
 <br/><br/>
-En 1954 : Gamal Abdel Nasser seizes power in Egypt.
+En 1993 : The 51-day FBI siege of the Branch Davidian building in Waco, Texas, USA, ends when a fire breaks out. Seventy-six Davidians, including 18 children under age 10, died in the fire.
 <br/><br/>
-En 1949 : The Republic of Ireland Act comes into force, declaring Éire to be a republic and severing Ireland's "association" with the Commonwealth of Nations.
+En 1989 : A gun turret explodes on the USS Iowa, killing 47 sailors.
 <br/><br/>
-En 1947 : The Operation Big Bang, the largest non-nuclear man-made explosion to that time, destroys bunkers and military installations on the North Sea island of Heligoland, Germany.
+En 1987 : The Simpsons first appear as a series of shorts on The Tracey Ullman Show, first starting with "Good Night".
 <br/><br/>
-En 1946 : The International Court of Justice holds its inaugural meeting in The Hague, Netherlands.
+En 1985 : Two hundred ATF and FBI agents lay siege to the compound of the white supremacist survivalist group The Covenant, the Sword, and the Arm of the Lord in Arkansas; the CSA surrenders two days later.
 <br/><br/>
-En 1946 : Jackie Robinson makes his regular season debut for the Montreal Royals of the International League, to make them the first integrated modern professional baseball team.
+En 1984 : Advance Australia Fair is proclaimed as Australia's national anthem, and green and gold as the national colours.
 <br/><br/>
-En 1945 : World War II: Over 1,000 bombers attack the small island of Heligoland, Germany.
+En 1976 : A violent F5 tornado strikes around Brownwood, Texas, injuring 11 people. Two people were thrown at least 1,000 yards (910 m) by the tornado and survived uninjured.
 <br/><br/>
-En 1945 : Italian resistance movement: In Turin, despite the harsh repressive measures adopted by Nazi-fascists, a great pre-insurrectional strike begins.
+En 1975 : India's first satellite Aryabhata launched in orbit from Kapustin Yar, Russia.
 <br/><br/>
-En 1943 : World War II: Operation Vengeance, Admiral Isoroku Yamamoto is killed when his aircraft is shot down by U.S. fighters over Bougainville Island.
+En 1975 : South Vietnamese forces withdrew from the town of Xuan Loc in the last major battle of the Vietnam War.
 <br/><br/>
-En 1942 : World War II: The Doolittle Raid on Japan: Tokyo, Yokohama, Kobe and Nagoya are bombed.
+En 1973 : The Portuguese Socialist Party is founded in the German town of Bad Münstereifel.
 <br/><br/>
-En 1942 : Pierre Laval becomes Prime Minister of Vichy France.
+En 1971 : Sierra Leone becomes a republic, and Siaka Stevens the president.
 <br/><br/>
-En 1939 : Robert Menzies, who became Australia's longest-serving prime minister, is elected as leader of the United Australia Party after the death of Prime Minister Joseph Lyons.
+En 1971 : Launch of Salyut 1, the first space station.
 <br/><br/>
-En 1930 : A fire kills 118 people at a wooden church in the small Romanian town of Costești, most of them schoolchildren, after starting during Good Friday services.
+En 1971 : Charles Manson is sentenced to death (later commuted to life imprisonment) for conspiracy in the Tate–LaBianca murders.
 <br/><br/>
-En 1916 : World War I: During a mine warfare in high altitude on the Dolomites, the Italian troops conquer the Col di Lana held by the Austrian army.
+En 1960 : Students in South Korea hold a nationwide pro-democracy protest against president Syngman Rhee, eventually forcing him to resign.
 <br/><br/>
-En 1915 : World War I: French pilot Roland Garros is shot down and glides to a landing on the German side of the lines.
+En 1956 : Actress Grace Kelly marries Prince Rainier of Monaco.
 <br/><br/>
-En 1912 : The Cunard liner RMS Carpathia brings 705 survivors from the RMS Titanic to New York City.
+En 1943 : World War II: In German-occupied Poland, the Warsaw Ghetto Uprising begins, after German troops enter the Warsaw Ghetto to round up the remaining Jews.
 <br/><br/>
-En 1909 : Joan of Arc is beatified in Rome.
+En 1943 : Albert Hofmann deliberately doses himself with LSD for the first time, three days after having discovered its effects on April 16, an event commonly known and celebrated as Bicycle Day.
 <br/><br/>
-En 1906 : The 7.9 Mw earthquake and fire destroy much of San Francisco, California, killing more than 3,000 people, making one of the worst natural disaster in American history.
+En 1942 : World War II: In German-occupied Poland, the Majdan-Tatarski ghetto is established, situated between the Lublin Ghetto and a Majdanek subcamp.
 <br/><br/>
-En 1902 : The 7.5 Mw  Guatemala earthquake shakes Guatemala with a maximum Mercalli intensity of VIII (Severe), killing between 800 and 2,000.
+En 1936 : The Jaffa riots commence, initiating the 1936–1939 Arab revolt in Palestine.
 <br/><br/>
-En 1899 : The St. Andrew's Ambulance Association is granted a royal charter by Queen Victoria.
+En 1927 : Mae West is sentenced to ten days in jail for obscenity for her play Sex.
 <br/><br/>
-En 1897 : The Greco-Turkish War is declared between Greece and the Ottoman Empire.
+En 1903 : The Kishinev pogrom in Kishinev (Bessarabia) begins, forcing tens of thousands of Jews to later seek refuge in Palestine and the Western world.
 <br/><br/>
-En 1864 : Battle of Dybbøl: A Prussian-Austrian army defeats Denmark and gains control of Schleswig. Denmark surrenders the province in the following peace settlement.
+En 1861 : American Civil War: Baltimore riot of 1861: A pro-Secession mob in Baltimore attacks United States Army troops marching through the city.
 <br/><br/>
-En 1857 : "The Spirits Book" by Allan Kardec is published, marking the birth of Spiritualism in France.
+En 1839 : The Treaty of London establishes Belgium as a kingdom and guarantees its neutrality.
 <br/><br/>
-En 1847 : American victory at the battle of Cerro Gordo opens the way for invasion of Mexico.
+En 1818 : French physicist Augustin Fresnel signs his preliminary "Note on the Theory of Diffraction" (deposited on the following day). The document ends with what we now call the Fresnel integrals.
 <br/><br/>
-En 1831 : The University of Alabama is founded in Tuscaloosa, Alabama.
+En 1810 : Venezuela achieves home rule: Vicente Emparán, Governor of the Captaincy General is removed by the people of Caracas and a junta is installed.
 <br/><br/>
-En 1783 : Three-Fifths Compromise: The first instance of black slaves in the United States of America being counted as three fifths of persons (for the purpose of taxation), in a resolution of the Congress of the Confederation. This was later adopted in the 1787 Constitution.
+En 1809 : An Austrian corps is defeated by the forces of the Duchy of Warsaw in the Battle of Raszyn, part of the struggles of the Fifth Coalition. On the same day the Austrian main army is defeated by a First French Empire Corps led by Louis-Nicolas Davout at the Battle of Teugen-Hausen in Bavaria, part of a four-day campaign that ended in a French victory.
 <br/><br/>
-En 1775 : American Revolution: The British advancement by sea begins; Paul Revere and other riders warn the countryside of the troop movements.
+En 1782 : John Adams secures Dutch recognition of the United States as an independent government. The house which he had purchased in The Hague becomes the first American embassy.
 <br/><br/>
-En 1738 : Real Academia de la Historia ("Royal Academy of History") is founded in Madrid.
+En 1775 : American Revolutionary War: The war begins with an American victory in Concord during the battles of Lexington and Concord.
 <br/><br/>
-En 1689 : Bostonians rise up in rebellion against Sir Edmund Andros.
+En 1770 : Captain James Cook, still holding the rank of lieutenant, sights the eastern coast of what is now Australia.
 <br/><br/>
-En 1521 : Trial of Martin Luther begins its second day during the assembly of the Diet of Worms. He refuses to recant his teachings despite the risk of excommunication.
+En 1770 : Marie Antoinette marries Louis XVI of France in a proxy wedding.
 <br/><br/>
-En 1518 : Bona Sforza is crowned as queen consort of Poland.
+En 1713 : With no living male heirs, Charles VI, Holy Roman Emperor, issues the Pragmatic Sanction of 1713 to ensure that Habsburg lands and the Austrian throne would be inheritable by a female; his daughter and successor, Maria Theresa, was not born until 1717.
 <br/><br/>
-En 1506 : The cornerstone of the current St. Peter's Basilica is laid.
+En 1677 : The French army captures the town of Cambrai held by Spanish troops.
 <br/><br/>
-En 1428 : Peace of Ferrara between Republic of Venice, Duchy of Milan, Republic of Florence and House of Gonzaga: ending of the second campaign of the Wars in Lombardy fought until the Treaty of Lodi in 1454, which will then guarantee the conditions for the development of the Italian Renaissance.
+En 1608 : In Ireland, O'Doherty's Rebellion is launched by the Burning of Derry.
 <br/><br/>
-En 796 : King Æthelred I of Northumbria is murdered in Corbridge by a group led by his ealdormen, Ealdred and Wada. The patrician Osbald is crowned, but abdicates within 27 days.
+En 1539 : The Treaty of Frankfurt between Protestants and the Holy Roman Emperor is signed.
+<br/><br/>
+En 1529 : Beginning of the Protestant Reformation: After the Second Diet of Speyer bans Lutheranism, a group of rulers (German: Fürst) and independent cities protests the reinstatement of the Edict of Worms.
+<br/><br/>
+En 1506 : The Lisbon Massacre begins, in which accused Jews are slaughtered by Portuguese Catholics.
+<br/><br/>
+En 531 : Battle of Callinicum: A Byzantine army under Belisarius is defeated by the Persians at Raqqa (northern Syria).
+<br/><br/>
+En 65 : The freedman Milichus betrays Piso's plot to kill the Emperor Nero and all of the conspirators are arrested.
 <br/><br/>
