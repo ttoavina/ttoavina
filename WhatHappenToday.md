@@ -4,93 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 23/4 ?(Hover on the year)</h1>
+<h1> What happen this day 24/4 ?(Hover on the year)</h1>
 
-En 2019 : The April 2019 Hpakant jade mine collapse in Myanmar kills four miners and two rescuers, with at least 50 others missing and presumed dead.
+En 2013 : A building collapses near Dhaka, Bangladesh, killing 1,129 people and injuring 2,500 others.
 <br/><br/>
-En 2018 : A vehicle-ramming attack kills 11 people and injures 15 in Toronto. A 25-year-old suspect, Alek Minassian, is arrested.
+En 2013 : Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in death of 21 people.
 <br/><br/>
-En 2013 : At least 111 people are killed and 233 injured as violence breaks out in Hawija, Iraq.
+En 2011 : WikiLeaks starts  publishing the Guantanamo Bay files leak.
 <br/><br/>
-En 2005 : The first YouTube video, titled "Me at the zoo", was published by co-founder Jawed Karim.
+En 2006 : Bombings in the Egyptian resort city of Dahab kill 23 people and injure 80.
 <br/><br/>
-En 1999 : NATO bombs the headquarters of Radio Television of Serbia, as part of their aerial campaign against the Federal Republic of Yugoslavia.
+En 2005 : Cardinal Joseph Ratzinger is inaugurated as the 265th Pope of the Catholic Church taking the name Pope Benedict XVI.
 <br/><br/>
-En 1993 : Eritreans vote overwhelmingly for independence from Ethiopia in a United Nations-monitored referendum.
+En 2004 : The United States lifts economic sanctions imposed on Libya 18 years previously, as a reward for its cooperation in eliminating weapons of mass destruction.
 <br/><br/>
-En 1993 : Sri Lankan politician Lalith Athulathmudali is assassinated while addressing a gathering, approximately four weeks ahead of the Provincial Council elections for the Western Province.
+En 1996 : In the United States, the Antiterrorism and Effective Death Penalty Act of 1996 is passed into law.
 <br/><br/>
-En 1990 : Namibia becomes the 160th member of the United Nations and the 50th member of the Commonwealth of Nations.
+En 1994 : A Douglas DC-3 ditches in Botany Bay after takeoff from Sydney Airport. All 25 people on board survive.
 <br/><br/>
-En 1985 : Coca-Cola changes its formula and releases New Coke. The response is overwhelmingly negative, and the original formula is back on the market in less than three months.
+En 1993 : An IRA bomb devastates the Bishopsgate area of London.
 <br/><br/>
-En 1979 : SAETA Flight 011 crashes in Pastaza Province, Ecuador, killing all 57 people on board. The wreckage was not discovered until 1984.
+En 1990 : STS-31: The Hubble Space Telescope is launched from the Space Shuttle Discovery.
 <br/><br/>
-En 1971 : Bangladesh Liberation War: The Pakistan Army and Razakars massacre approximately 3,000 Hindu emigrants in the Jathibhanga area of East Pakistan (now Bangladesh).
+En 1990 : Gruinard Island, Scotland, is officially declared free of the anthrax disease after 48 years of quarantine.
 <br/><br/>
-En 1968 : Vietnam War: Student protesters at Columbia University in New York City take over administration buildings and shut down the university.
+En 1980 : Eight U.S. servicemen die in Operation Eagle Claw as they attempt to end the Iran hostage crisis.
 <br/><br/>
-En 1967 : Soviet space program: Soyuz 1 (Russian: Союз 1, Union 1) a crewed spaceflight carrying cosmonaut Colonel Vladimir Komarov is launched into orbit.
+En 1970 : China launches Dong Fang Hong I, becoming the fifth nation to put an object into orbit using its own booster.
 <br/><br/>
-En 1961 : Algiers putsch by French generals.
+En 1970 : The Gambia becomes a republic within the Commonwealth of Nations, with Dawda Jawara as its first President.
 <br/><br/>
-En 1951 : Cold War: American journalist William N. Oatis is arrested for espionage by the Communist government of Czechoslovakia.
+En 1967 : Cosmonaut Vladimir Komarov dies in Soyuz 1 when its parachute fails to open. He is the first human to die during a space mission.
 <br/><br/>
-En 1949 : Chinese Civil War: Establishment of the People's Liberation Army Navy.
+En 1967 : Vietnam War: American General William Westmoreland says in a news conference that the enemy had "gained support in the United States that gives him hope that he can win politically that which he cannot win militarily".
 <br/><br/>
-En 1946 : Manuel Roxas is elected the last President of the Commonwealth of the Philippines.
+En 1965 : Civil war breaks out in the Dominican Republic when Colonel Francisco Caamaño overthrows the triumvirate that had been in power since the coup d'état against Juan Bosch.
 <br/><br/>
-En 1945 : World War II: Adolf Hitler's designated successor, Hermann Göring, sends him a telegram asking permission to take leadership of Nazi Germany. Martin Bormann and Joseph Goebbels advise Hitler that the telegram is treasonous.
+En 1963 : Marriage of Princess Alexandra of Kent to Angus Ogilvy at Westminster Abbey in London.
 <br/><br/>
-En 1942 : World War II: Baedeker Blitz: German bombers hit Exeter, Bath and York in retaliation for the British raid on Lübeck.
+En 1957 : Suez Crisis: The Suez Canal is reopened following the introduction of UNEF peacekeepers to the region.
 <br/><br/>
-En 1941 : World War II: The Greek government and King George II evacuate Athens before the invading Wehrmacht.
+En 1955 : The Bandung Conference ends: Twenty-nine non-aligned nations of Asia and Africa finish a meeting that condemns colonialism, racism, and the Cold War.
 <br/><br/>
-En 1940 : The Rhythm Club fire at a dance hall in Natchez, Mississippi, kills 198 people.
+En 1953 : Winston Churchill is knighted by Queen Elizabeth II.
 <br/><br/>
-En 1935 : The Polish Constitution of 1935 is adopted.
+En 1944 : World War II: The SBS launches a raid against the garrison of Santorini in Greece.
 <br/><br/>
-En 1927 : Cardiff City defeat Arsenal in the FA Cup Final, the only time it has been won by a team not based in England.
+En 1933 : Nazi Germany begins its persecution of Jehovah's Witnesses by shutting down the Watch Tower Society office in Magdeburg.
 <br/><br/>
-En 1920 : The Grand National Assembly of Turkey (TBMM) is founded in Ankara. The assembly denounces the government of Sultan Mehmed VI and announces the preparation of a temporary constitution.
+En 1932 : Benny Rothman leads the mass trespass of Kinder Scout, leading to substantial legal reforms in the United Kingdom.
 <br/><br/>
-En 1919 : The Estonian Constituent Assembly is held in Estonia, which marks the birth of the Estonian Parliament, the Riigikogu.
+En 1926 : The Treaty of Berlin is signed. Germany and the Soviet Union each pledge neutrality in the event of an attack on the other by a third party for the next five years.
 <br/><br/>
-En 1918 : World War I: The British Royal Navy makes a raid in an attempt to neutralise the Belgian port of Bruges-Zeebrugge.
+En 1924 : Thorvald Stauning becomes premier of Denmark (first term).
 <br/><br/>
-En 1891 : Chilean Civil War: The ironclad Blanco Encalada is sunk at Caldera Bay by torpedo boats.
+En 1922 : The first segment of the Imperial Wireless Chain providing wireless telegraphy between Leafield in Oxfordshire, England, and Cairo, Egypt, comes into operation.
 <br/><br/>
-En 1879 : Fire burns down the second main building and dome of the University of Notre Dame, which prompts the construction of the third, and current, Main Building with its golden dome.
+En 1918 : World War I: First tank-to-tank combat, during the second Battle of Villers-Bretonneux. Three British Mark IVs meet three German A7Vs.
 <br/><br/>
-En 1815 : The Second Serbian Uprising: A second phase of the national revolution of the Serbs against the Ottoman Empire, erupts shortly after the annexation of the country to the Ottoman Empire.
+En 1916 : Easter Rising: Irish rebels, led by Patrick Pearse and James Connolly, launch an uprising in Dublin against British rule and proclaim an Irish Republic.
 <br/><br/>
-En 1724 : Johann Sebastian Bach leads the first performance of his cantata Du Hirte Israel, höre, BWV 104, illustrating the topic of the Good Shepherd in pastoral music.
+En 1916 : Ernest Shackleton and five men of the Imperial Trans-Antarctic Expedition launch a lifeboat from uninhabited Elephant Island in the Southern Ocean to organise a rescue for the crew of the sunken Endurance.
 <br/><br/>
-En 1661 : King Charles II of England, Scotland and Ireland is crowned in Westminster Abbey.
+En 1915 : The arrest of 250 Armenian intellectuals and community leaders in Istanbul marks the beginning of the Armenian genocide.
 <br/><br/>
-En 1660 : Treaty of Oliva is established between Sweden and Poland.
+En 1914 : The Franck–Hertz experiment, a pillar of quantum mechanics, is presented to the German Physical Society.
 <br/><br/>
-En 1655 : The Siege of Santo Domingo begins during the Anglo-Spanish War, and fails seven days later.
+En 1913 : The Woolworth Building, a skyscraper in New York City, is opened.
 <br/><br/>
-En 1635 : The first public school in the United States, the Boston Latin School, is founded.
+En 1895 : Joshua Slocum, the first person to sail single-handedly around the world, sets sail from Boston, Massachusetts aboard the sloop "Spray".
 <br/><br/>
-En 1521 : Battle of Villalar: King Charles I of Spain defeats the Comuneros.
+En 1885 : American sharpshooter Annie Oakley is hired by Nate Salsbury to be a part of Buffalo Bill's Wild West.
 <br/><br/>
-En 1516 : The Munich Reinheitsgebot (regarding the ingredients of beer) takes effect in all of Bavaria.
+En 1877 : Russo-Turkish War: Russian Empire declares war on Ottoman Empire.
 <br/><br/>
-En 1500 : Portuguese explorer Pedro Alvarez Cabral reaches new coastline (Brazil).
+En 1837 : The great fire in Surat city of India caused more than 500 deaths and destruction of more than 9,000 houses.
 <br/><br/>
-En 1348 : The founding of the Order of the Garter by King Edward III is announced on St. George's Day.
+En 1800 : The United States Library of Congress is established when President John Adams signs legislation to appropriate $5,000 to purchase "such books as may be necessary for the use of Congress".
 <br/><br/>
-En 1343 : St. George's Night Uprising commences in the Duchy of Estonia.
+En 1793 : French revolutionary Jean-Paul Marat is acquitted by the Revolutionary Tribunal of charges brought by the Girondin in Paris.
 <br/><br/>
-En 1016 : Edmund Ironside succeeds his father Æthelred the Unready as King of England.
+En 1704 : The first regular newspaper in British Colonial America, The Boston News-Letter, is published.
 <br/><br/>
-En 1014 : Battle of Clontarf: High King of Ireland Brian Boru defeats Viking invaders, but is killed in battle.
+En 1558 : Mary, Queen of Scots, marries the Dauphin of France, François, at Notre Dame de Paris.
 <br/><br/>
-En 711 : Dagobert III succeeds his father King Childebert III as King of the Franks.
+En 1547 : Battle of Mühlberg. Duke of Alba, commanding Spanish-Imperial forces of Charles I of Spain, defeats the troops of Schmalkaldic League.
 <br/><br/>
-En 599 : Maya king Uneh Chan of Calakmul attacks rival city-state Palenque in southern Mexico, defeating queen Yohl Ik'nal and sacking the city.
+En -1183 : Traditional reckoning of the Fall of Troy marking the end of the legendary Trojan War, given by chief librarian of the Library of Alexandria Eratosthenes, among others.
 <br/><br/>
-En -215 : A temple is built on the Capitoline Hill dedicated to Venus Erycina to commemorate the Roman defeat at Lake Trasimene.
+En -1479 : Thutmose III ascends to the throne of Egypt, although power effectively shifts to Hatshepsut (according to the Low Chronology of the 18th dynasty).
 <br/><br/>
