@@ -4,85 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 29/4 ?(Hover on the year)</h1>
+<h1> What happen this day 30/4 ?(Hover on the year)</h1>
 
-En 2015 : A baseball game between the Baltimore Orioles and the Chicago White Sox sets the all-time low attendance mark for Major League Baseball. Zero fans were in attendance for the game, as the stadium was officially closed to the public due to the 2015 Baltimore protests.
+En 2021 : Forty-five men and boys are killed in the Meron stampede in Israel.
 <br/><br/>
-En 2013 : A powerful explosion occurs in an office building in Prague, believed to have been caused by natural gas, and injures 43 people.
+En 2014 : A bomb blast in Ürümqi, China kills three people and injures 79 others.
 <br/><br/>
-En 2013 : National Airlines Flight 102, a Boeing 747-400 freighter aircraft, crashes during takeoff from Bagram Airfield in Parwan Province, Afghanistan, killing seven people.
+En 2013 : Willem-Alexander is inaugurated as King of the Netherlands following the abdication of Beatrix.
 <br/><br/>
-En 2011 : The Wedding of Prince William and Catherine Middleton takes place at Westminster Abbey in London.
+En 2012 : An overloaded ferry capsizes on the Brahmaputra River in India killing at least 103 people.
 <br/><br/>
-En 2004 : The final Oldsmobile is built in Lansing, Michigan, ending 107 years of vehicle production.
+En 2009 : Chrysler files for Chapter 11 bankruptcy.
 <br/><br/>
-En 1997 : The Chemical Weapons Convention of 1993 enters into force, outlawing the production, stockpiling and use of chemical weapons by its signatories.
+En 2009 : Seven civilians and the perpetrator are killed and another ten injured at a Queen's Day parade in Apeldoorn, Netherlands in an attempted assassination on Queen Beatrix.
 <br/><br/>
-En 1992 : Riots in Los Angeles begin, following the acquittal of police officers charged with excessive force in the beating of Rodney King. Over the next three days 63 people are killed and hundreds of buildings are destroyed.
+En 2008 : Two skeletal remains found near Yekaterinburg, Russia are confirmed by Russian scientists to be the remains of Alexei and Anastasia, two of the children of the last Tsar of Russia, whose entire family was executed at Yekaterinburg by the Bolsheviks.
 <br/><br/>
-En 1991 : A cyclone strikes the Chittagong district of southeastern Bangladesh with winds of around 155 miles per hour (249 km/h), killing at least 138,000 people and leaving as many as ten million homeless.
+En 2004 : U.S. media release graphic photos of American soldiers committing war crimes against Iraqi prisoners at Abu Ghraib prison.
 <br/><br/>
-En 1991 : The 7.0 Mw  Racha earthquake affects Georgia with a maximum MSK intensity of IX (Destructive), killing 270 people.
+En 2000 : Canonization of Faustina Kowalska in the presence of 200,000 people and the first Divine Mercy Sunday celebrated worldwide.
 <br/><br/>
-En 1986 : A fire at the Central library of the Los Angeles Public Library damages or destroys 400,000 books and other items.
+En 1999 : Neo-Nazi David Copeland carries out the last of his three nail bombings in London at the Admiral Duncan gay pub, killing three people and injuring 79 others.
 <br/><br/>
-En 1986 : The United States Navy aircraft carrier USS Enterprise becomes the first nuclear-powered aircraft carrier to transit the Suez Canal, navigating from the Red Sea to the Mediterranean Sea to relieve the USS Coral Sea.
+En 1994 : Formula One racing driver Roland Ratzenberger is killed in a crash during the qualifying session of the San Marino Grand Prix run at Autodromo Enzo e Dino Ferrari outside Imola, Italy.
 <br/><br/>
-En 1975 : Vietnam War: Operation Frequent Wind: The U.S. begins to evacuate U.S. citizens from Saigon before an expected North Vietnamese takeover. U.S. involvement in the war comes to an end.
+En 1993 : CERN announces World Wide Web protocols will be free.
 <br/><br/>
-En 1975 : Vietnam War: The North Vietnamese army completes its capture of all parts of South Vietnam-held Trường Sa Islands.
+En 1982 : The Bijon Setu massacre occurs in Calcutta, India.
 <br/><br/>
-En 1974 : Watergate scandal: United States President Richard Nixon announces the release of edited transcripts of White House tape recordings relating to the scandal.
+En 1980 : Beatrix is inaugurated as Queen of the Netherlands following the abdication of Juliana.
 <br/><br/>
-En 1970 : Vietnam War: United States and South Vietnamese forces invade Cambodia to hunt Viet Cong.
+En 1980 : The Iranian Embassy siege begins in London.
 <br/><br/>
-En 1967 : After refusing induction into the United States Army the previous day, Muhammad Ali is stripped of his boxing title.
+En 1979 : Eruption of Mount Marapi: Mount Marapi, a complex volcano on the Indonesian island of Sumatra, erupted. 80 up to 100 people were killed.
 <br/><br/>
-En 1953 : The first U.S. experimental 3D television broadcast shows an episode of Space Patrol on Los Angeles ABC affiliate KECA-TV.
+En 1975 : Fall of Saigon: Communist forces gain control of Saigon. The Vietnam War formally ends with the unconditional surrender of South Vietnamese president Dương Văn Minh.
 <br/><br/>
-En 1952 : Pan Am Flight 202 crashes into the Amazon basin near Carolina, Maranhão, Brazil, killing 50 people.
+En 1973 : Watergate scandal: U.S. President Richard Nixon fires White House Counsel John Dean; other top aides, most notably H. R. Haldeman and John Ehrlichman, resign.
 <br/><br/>
-En 1946 : The International Military Tribunal for the Far East convenes and indicts former Prime Minister of Japan Hideki Tojo and 28 former Japanese leaders for war crimes.
+En 1963 : The Bristol Bus Boycott is held in Bristol to protest the Bristol Omnibus Company's refusal to employ Black or Asian bus crews, drawing national attention to racial discrimination in the United Kingdom.
 <br/><br/>
-En 1945 : World War II: The Surrender of Caserta is signed by the commander of German forces in Italy.
+En 1961 : K-19, the first Soviet nuclear submarine equipped with nuclear missiles, is commissioned.
 <br/><br/>
-En 1945 : World War II: Airdrops of food begin over German-occupied regions of the Netherlands.
+En 1957 : Supplementary Convention on the Abolition of Slavery entered into force.
 <br/><br/>
-En 1945 : World War II: Adolf Hitler marries his longtime partner Eva Braun in a Berlin bunker and designates Admiral Karl Dönitz as his successor.
+En 1956 : Former Vice President and Democratic Senator Alben Barkley dies during a speech in Virginia.
 <br/><br/>
-En 1945 : Dachau concentration camp is liberated by United States troops.
+En 1948 : In Bogotá, Colombia, the Organization of American States is established.
 <br/><br/>
-En 1916 : World War I: The UK's 6th Indian Division surrenders to Ottoman Forces at the Siege of Kut in one of the largest surrenders of British forces up to that point.
+En 1947 : In Nevada, Boulder Dam is renamed Hoover Dam.
 <br/><br/>
-En 1916 : Easter Rising: After six days of fighting, Irish rebel leaders surrender to British forces in Dublin, bringing the Easter Rising to an end.
+En 1945 : World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours. Soviet soldiers raise the Victory Banner over the Reichstag building.
 <br/><br/>
-En 1911 : Tsinghua University, one of mainland China's leading universities, is founded.
+En 1945 : World War II: Stalag Luft I prisoner-of-war camp near Barth, Germany is liberated by Soviet soldiers, freeing nearly 9,000 American and British airmen.
 <br/><br/>
-En 1910 : The Parliament of the United Kingdom passes the People's Budget, the first budget in British history with the expressed intent of redistributing wealth among the British public.
+En 1943 : World War II: The British submarine HMS Seraph surfaces near Huelva to cast adrift a dead man dressed as a courier and carrying false invasion plans.
 <br/><br/>
-En 1903 : A landslide kills 70 people in Frank, in the District of Alberta, Canada.
+En 1939 : The 1939–40 New York World's Fair opens.
 <br/><br/>
-En 1864 : Theta Xi fraternity is founded at Rensselaer Polytechnic Institute, the only fraternity to be founded during the American Civil War.
+En 1939 : NBC inaugurates its regularly scheduled television service in New York City, broadcasting President Franklin D. Roosevelt's N.Y. World's Fair opening day ceremonial address.
 <br/><br/>
-En 1862 : American Civil War: The Capture of New Orleans by Union forces under David Farragut.
+En 1937 : The Commonwealth of the Philippines holds a plebiscite for Filipino women on whether they should be extended the right to suffrage; over 90% would vote in the affirmative.
 <br/><br/>
-En 1861 : Maryland in the American Civil War: Maryland's House of Delegates votes not to secede from the Union.
+En 1927 : The Federal Industrial Institute for Women opens in Alderson, West Virginia, as the first women's federal prison in the United States.
 <br/><br/>
-En 1826 : The galaxy Centaurus A or NGC 5128 is discovered by James Dunlop.
+En 1925 : Automaker Dodge Brothers, Inc is sold to Dillon, Read & Co. for US$146 million plus $50 million for charity.
 <br/><br/>
-En 1781 : American Revolutionary War: British and French ships clash in the Battle of Fort Royal off the coast of Martinique.
+En 1905 : Albert Einstein completes his doctoral thesis at the University of Zurich.
 <br/><br/>
-En 1770 : James Cook arrives in Australia at Botany Bay, which he names.
+En 1900 : Hawaii becomes a territory of the United States, with Sanford B. Dole as governor.
 <br/><br/>
-En 1760 : French forces commence the siege of Quebec which is held by the British.
+En 1897 : J. J. Thomson of the Cavendish Laboratory announces his discovery of the electron as a subatomic particle, over 1,800 times smaller than a proton (in the atomic nucleus), at a lecture at the Royal Institution in London.
 <br/><br/>
-En 1521 : Swedish War of Liberation: Swedish troops defeat a Danish force in the Battle of Västerås.
+En 1885 : Governor of New York David B. Hill signs legislation creating the Niagara Reservation, New York's first state park, ensuring that Niagara Falls will not be devoted solely to industrial and commercial use.
 <br/><br/>
-En 1483 : Gran Canaria, the main island of the Canary Islands, is conquered by the Kingdom of Castile.
+En 1871 : The Camp Grant massacre takes place in Arizona Territory.
 <br/><br/>
-En 1429 : Joan of Arc arrives to relieve the Siege of Orléans.
+En 1863 : A 65-man French Foreign Legion infantry patrol fights a force of nearly 2,000 Mexican soldiers to nearly the last man in Hacienda Camarón, Mexico.
 <br/><br/>
-En 1091 : Battle of Levounion: The Pechenegs are defeated by Byzantine Emperor Alexios I Komnenos.
+En 1838 : Nicaragua declares independence from the Central American Federation.
 <br/><br/>
-En 801 : An earthquake in the Central Apennines hits Rome and Spoleto, damaging the basilica of San Paolo Fuori le Mura.
+En 1812 : The Territory of Orleans becomes the 18th U.S. state under the name Louisiana.
+<br/><br/>
+En 1803 : Louisiana Purchase: The United States purchases the Louisiana Territory from France for $15 million, more than doubling the size of the young nation.
+<br/><br/>
+En 1789 : On the balcony of Federal Hall on Wall Street in New York City, George Washington takes the oath of office to become the first President of the United States.
+<br/><br/>
+En 1636 : Eighty Years' War: Dutch Republic forces recapture a strategically important fort from Spain after a nine-month siege.
+<br/><br/>
+En 1598 : Juan de Oñate begins the conquest of Santa Fe de Nuevo México.
+<br/><br/>
+En 1598 : Henry IV of France issues the Edict of Nantes, allowing freedom of religion to the Huguenots.
+<br/><br/>
+En 1557 : Mapuche leader Lautaro is killed by Spanish forces at the Battle of Mataquito in Chile.
+<br/><br/>
+En 1513 : Edmund de la Pole, Yorkist pretender to the English throne, is executed on the orders of Henry VIII.
+<br/><br/>
+En 1492 : Spain gives Christopher Columbus his commission of exploration. He is named admiral of the ocean sea, viceroy and governor of any territory he discovers.
+<br/><br/>
+En 1315 : Enguerrand de Marigny is hanged at the instigation of Charles, Count of Valois.
+<br/><br/>
+En 311 : The Diocletianic Persecution of Christians in the Roman Empire ends.
 <br/><br/>
