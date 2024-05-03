@@ -4,95 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 2/5 ?(Hover on the year)</h1>
+<h1> What happen this day 3/5 ?(Hover on the year)</h1>
 
-En 2014 : Two mudslides in Badakhshan, Afghanistan, leave up to 2,500 people missing.
+En 2023 : Nine students and a security guard are killed in the Belgrade school shooting, the first attack of its kind in Serbia.
 <br/><br/>
-En 2012 : A pastel version of The Scream, by Norwegian painter Edvard Munch, sells for $120 million in a New York City auction, setting a new world record for a work of art at auction.
+En 2016 : Eighty-eight thousand people are evacuated from their homes in Fort McMurray, Alberta, Canada as a wildfire rips through the community, destroying approximately 2,400 homes and buildings.
 <br/><br/>
-En 2011 : Osama bin Laden, the suspected mastermind behind the September 11 attacks and the FBI's most wanted man, is killed by the United States special forces in Abbottabad, Pakistan.
+En 2015 : Two gunmen launch an attempted attack on an anti-Islam event in Garland, Texas, which was held in response to the Charlie Hebdo shooting.
 <br/><br/>
-En 2011 : An E. coli outbreak strikes Europe, mostly in Germany, leaving more than 30 people dead and many others are taken ill.
+En 2007 : The three-year-old British girl Madeleine McCann disappears in Praia da Luz, Portugal, starting "the most heavily reported missing-person case in modern history".
 <br/><br/>
-En 2008 : Cyclone Nargis makes landfall in Burma killing over 138,000 people and leaving millions of people homeless.
+En 2006 : Armavia Flight 967 crashes into the Black Sea near Sochi International Airport in Sochi, Russia, killing 113 people.
 <br/><br/>
-En 2008 : Chaitén Volcano begins erupting in Chile, forcing the evacuation of more than 4,500 people.
+En 2001 : The United States loses its seat on the U.N. Human Rights Commission for the first time since the commission was formed in 1947.
 <br/><br/>
-En 2004 : The Yelwa massacre concludes. It began on 4 February 2004 when armed Muslims killed 78 Christians at Yelwa, Nigeria. In response, about 630 Muslims were killed by Christians on May 2.
+En 2000 : The sport of geocaching begins, with the first cache placed and the coordinates from a GPS posted on Usenet.
 <br/><br/>
-En 2000 : President Bill Clinton announces that accurate GPS access would no longer be restricted to the United States military.
+En 1999 : The southwestern portion of Oklahoma City is devastated by an F5 tornado, killing forty-five people, injuring 665, and causing $1 billion in damage. The tornado is one of 66 from the 1999 Oklahoma tornado outbreak. This tornado also produces the highest wind speed ever recorded, measured at 301 +/- 20 mph (484 +/- 32 km/h). In meteorology, the term “May 3” is synonymous with the F5 tornado.
 <br/><br/>
-En 1999 : Panamanian general election: Mireya Moscoso becomes the first woman to be elected President of Panama.
+En 1999 : Infiltration of Pakistani soldiers on Indian side results in the Kargil War.
 <br/><br/>
-En 1998 : The European Central Bank is founded in Brussels in order to define and execute the European Union's monetary policy.
+En 1987 : A crash by Bobby Allison at the Talladega Superspeedway, Alabama fencing at the start-finish line would lead NASCAR to develop the restrictor plate for the following season both at Daytona International Speedway and Talladega.
 <br/><br/>
-En 1995 : During the Croatian War of Independence, the Army of the Republic of Serb Krajina fires cluster bombs at Zagreb, killing seven and wounding over 175 civilians.
+En 1986 : Twenty-one people are killed and forty-one are injured after a bomb explodes on Air Lanka Flight 512 at Colombo airport in Sri Lanka.
 <br/><br/>
-En 1989 : Cold War: Hungary begins dismantling its border fence with Austria, which allows a number of East Germans to defect.
+En 1979 : Margaret Thatcher wins the United Kingdom general election. The following day, she becomes the first female British Prime Minister.
 <br/><br/>
-En 1986 : Chernobyl disaster: The City of Chernobyl is evacuated six days after the disaster.
+En 1978 : The first unsolicited bulk commercial email (which would later become known as "spam") is sent by a Digital Equipment Corporation marketing representative to every ARPANET address on the west coast of the United States.
 <br/><br/>
-En 1982 : Falklands War: The British nuclear submarine HMS Conqueror sinks the Argentine cruiser ARA General Belgrano.
+En 1971 : Erich Honecker becomes First Secretary of the Socialist Unity Party of Germany, remaining in power until 1989.
 <br/><br/>
-En 1972 : In the early morning hours a fire breaks out at the Sunshine Mine located between Kellogg and Wallace, Idaho, killing 91 workers.
+En 1968 : Eighty-five people are killed when Braniff International Airways Flight 352 crashes near Dawson, Texas.
 <br/><br/>
-En 1970 : ALM Flight 980 ditches in the Caribbean Sea near Saint Croix, killing 23.
+En 1963 : The police force in Birmingham, Alabama switches tactics and responds with violent force to stop the "Birmingham campaign" protesters. Images of the violent suppression are transmitted worldwide, bringing new-found attention to the civil rights movement.
 <br/><br/>
-En 1969 : The British ocean liner Queen Elizabeth 2 departs on her maiden voyage to New York City.
+En 1957 : Walter O'Malley, the owner of the Brooklyn Dodgers, agrees to move the team from Brooklyn to Los Angeles.
 <br/><br/>
-En 1964 : Vietnam War: An explosion sinks the American aircraft carrier USNS Card while it is docked at Saigon. Two Viet Cong combat swimmers had placed explosives on the ship's hull. She is raised and returned to service less than seven months later.
+En 1953 : Two men are rescued from a semitrailer that crashed over the side of the Pit River Bridge before it fell into the Sacramento River. Amateur photographer Virginia Schau photographs "Rescue on Pit River Bridge", the first and only winning submission for the Pulitzer Prize for Photography to have been taken by a woman.
 <br/><br/>
-En 1964 : First ascent of Shishapangma, the fourteenth highest mountain in the world and the lowest of the Eight-thousanders.
+En 1952 : Lieutenant Colonels Joseph O. Fletcher and William P. Benedict of the United States land a plane at the North Pole.
 <br/><br/>
-En 1963 : Berthold Seliger launches a rocket with three stages and a maximum flight altitude of more than 100 kilometres (62 mi) near Cuxhaven. It is the only sounding rocket developed in Germany.
+En 1952 : The Kentucky Derby is televised nationally for the first time, on the CBS network.
 <br/><br/>
-En 1952 : A De Havilland Comet makes the first jetliner flight with fare-paying passengers, from London to Johannesburg.
+En 1951 : London's Royal Festival Hall opens with the Festival of Britain.
 <br/><br/>
-En 1945 : World War II: The Soviet Union announces the fall of Berlin.
+En 1951 : The United States Senate Committee on Armed Services and United States Senate Committee on Foreign Relations begin their closed door hearings into the relief of Douglas MacArthur by U.S. President Harry Truman.
 <br/><br/>
-En 1945 : World War II: The surrender of Caserta comes into effect, by which German troops in Italy cease fighting.
+En 1948 : The U.S. Supreme Court rules in Shelley v. Kraemer that covenants prohibiting the sale of real estate to blacks and other minorities are legally unenforceable.
 <br/><br/>
-En 1945 : World War II: The US 82nd Airborne Division liberates Wöbbelin concentration camp finding 1,000 dead prisoners, most of whom starved to death.
+En 1947 : New post-war Japanese constitution goes into effect.
 <br/><br/>
-En 1945 : World War II: A death march from Dachau to the Austrian border is halted by the segregated, all-Nisei 522nd Field Artillery Battalion of the U.S. Army in southern Bavaria, saving several hundred prisoners.
+En 1945 : World War II: Sinking of the prison ships Cap Arcona, Thielbek and Deutschland by the Royal Air Force in  Lübeck Bay.
 <br/><br/>
-En 1941 : World War II: Following the coup d'état against Iraq Crown Prince 'Abd al-Ilah earlier that year, the United Kingdom launches the Anglo-Iraqi War to restore him to power.
+En 1942 : World War II: Japanese naval troops invade Tulagi Island in the Solomon Islands during the first part of Operation Mo that results in the Battle of the Coral Sea between Japanese forces and forces from the United States and Australia.
 <br/><br/>
-En 1933 : Germany's independent labor unions are replaced by the German Labour Front.
+En 1939 : The All India Forward Bloc is formed by Netaji Subhas Chandra Bose.
 <br/><br/>
-En 1920 : The first game of the Negro National League baseball is played in Indianapolis.
+En 1928 : The Jinan incident begins with the deaths of twelve Japanese civilians by Chinese forces in Jinan, China, which leads to Japanese retaliation and the deaths of over 2,000 Chinese civilians in the following days.
 <br/><br/>
-En 1906 : Closing ceremony of the Intercalated Games in Athens, Greece.
+En 1921 : Ireland is partitioned under British law by the Government of Ireland Act 1920, creating Northern Ireland and Southern Ireland.
 <br/><br/>
-En 1889 : Menelik II, Emperor of Ethiopia, signs the Treaty of Wuchale, giving Italy control over Eritrea.
+En 1921 : West Virginia becomes the first state to legislate a broad sales tax, but does not implement it until a number of years later due to enforcement issues.
 <br/><br/>
-En 1885 : Cree and Assiniboine warriors win the Battle of Cut Knife, their largest victory over Canadian forces during the North-West Rebellion.
+En 1920 : A Bolshevik coup fails in the Democratic Republic of Georgia.
 <br/><br/>
-En 1876 : The April Uprising breaks out in Ottoman Bulgaria.
+En 1913 : Raja Harishchandra, the first full-length Indian feature film, is released, marking the beginning of the Indian film industry.
 <br/><br/>
-En 1866 : Peruvian defenders fight off the Spanish fleet at the Battle of Callao.
+En 1901 : The Great Fire of 1901 begins in Jacksonville, Florida.
 <br/><br/>
-En 1863 : American Civil War: Stonewall Jackson is wounded by friendly fire while returning to camp after reconnoitering during the Battle of Chancellorsville. He succumbs to pneumonia eight days later.
+En 1855 : American adventurer William Walker departs from San Francisco with about 60 men to conquer Nicaragua.
 <br/><br/>
-En 1829 : After anchoring nearby, Captain Charles Fremantle of HMS Challenger, declares the Swan River Colony in Australia.
+En 1849 : The May Uprising in Dresden begins: The last of the German revolutions of 1848–49.
 <br/><br/>
-En 1812 : The Siege of Cuautla during the Mexican War of Independence ends with both sides claiming victory.
+En 1848 : The boar-crested Anglo-Saxon Benty Grange helmet is discovered in a barrow on the Benty Grange farm in Derbyshire.
 <br/><br/>
-En 1808 : Outbreak of the Peninsular War: The people of Madrid rise up in rebellion against French occupation. Francisco de Goya later memorializes this event in his painting The Second of May 1808.
+En 1837 : The University of Athens is founded in Athens, Greece.
 <br/><br/>
-En 1670 : King Charles II of England grants a permanent charter to the Hudson's Bay Company to open up the fur trade in North America.
+En 1830 : The Canterbury and Whitstable Railway is opened; it is the first steam-hauled passenger railway to issue season tickets and include a tunnel.
 <br/><br/>
-En 1625 : Afonso Mendes, appointed by Pope Gregory XV as Latin Patriarch of Ethiopia, arrives at Beilul from Goa.
+En 1815 : Neapolitan War: Joachim Murat, King of Naples, is defeated by the Austrians at the Battle of Tolentino, the decisive engagement of the war.
 <br/><br/>
-En 1611 : The King James Version of the Bible is published for the first time in London, England, by printer Robert Barker.
+En 1808 : Finnish War: Sweden loses the fortress of Sveaborg to Russia.
 <br/><br/>
-En 1568 : Mary, Queen of Scots, escapes from Lochleven Castle.
+En 1808 : Peninsular War: The Madrid rebels who rose up on May 2 are executed near Príncipe Pío hill.
 <br/><br/>
-En 1559 : John Knox returns from exile to Scotland to become the leader of the nascent Scottish Reformation.
+En 1802 : Washington, D.C. is incorporated as a city after Congress abolishes the Board of Commissioners, the District's founding government. The "City of Washington" is given a mayor-council form of government.
 <br/><br/>
-En 1536 : Anne Boleyn, Queen of England, is arrested and imprisoned on charges of adultery, incest, treason and witchcraft.
+En 1791 : The Constitution of May 3 (the first modern constitution in Europe) is proclaimed by the Sejm of Polish–Lithuanian Commonwealth.
 <br/><br/>
-En 1230 : William de Braose is hanged by Prince Llywelyn the Great.
+En 1715 : A total solar eclipse is visible across northern Europe and northern Asia, as predicted by Edmond Halley to within four minutes accuracy.
 <br/><br/>
-En 1194 : King Richard I of England gives Portsmouth its first royal charter.
+En 1616 : Treaty of Loudun ends a French civil war.
+<br/><br/>
+En 1568 : Angered by the brutal onslaught of Spanish troops at Fort Caroline, a French force burns the San Mateo fort and massacres hundreds of Spaniards.
+<br/><br/>
+En 1491 : Kongo monarch Nkuwu Nzinga is baptised by Portuguese missionaries, adopting the baptismal name of João I.
+<br/><br/>
+En 1481 : The largest of three earthquakes strikes the island of Rhodes and causes an estimated 30,000 casualties.
+<br/><br/>
+En 752 : Mayan king Bird Jaguar IV of Yaxchilan in modern-day Chiapas, Mexico, assumes the throne.
 <br/><br/>
