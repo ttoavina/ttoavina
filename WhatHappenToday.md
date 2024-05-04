@@ -4,103 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 3/5 ?(Hover on the year)</h1>
+<h1> What happen this day 4/5 ?(Hover on the year)</h1>
 
-En 2023 : Nine students and a security guard are killed in the Belgrade school shooting, the first attack of its kind in Serbia.
+En 2023 : Nine people are killed and thirteen injured in a spree shooting in Mladenovac and Smederevo, Serbia. It is the second mass shooting in the country in two days.
 <br/><br/>
-En 2016 : Eighty-eight thousand people are evacuated from their homes in Fort McMurray, Alberta, Canada as a wildfire rips through the community, destroying approximately 2,400 homes and buildings.
+En 2019 : The inaugural all-female motorsport series, W Series, takes place at Hockenheimring. The race was won by Jamie Chadwick, who would go on to become the inaugural season's champion.
 <br/><br/>
-En 2015 : Two gunmen launch an attempted attack on an anti-Islam event in Garland, Texas, which was held in response to the Charlie Hebdo shooting.
+En 2014 : Three people are killed and 62 injured in a pair of bombings on buses in Nairobi, Kenya.
 <br/><br/>
-En 2007 : The three-year-old British girl Madeleine McCann disappears in Praia da Luz, Portugal, starting "the most heavily reported missing-person case in modern history".
+En 2007 : Greensburg, Kansas is almost completely destroyed by a 1.7-mile wide EF5 tornado. It was the first-ever tornado to be rated as such with the new Enhanced Fujita scale.
 <br/><br/>
-En 2006 : Armavia Flight 967 crashes into the Black Sea near Sochi International Airport in Sochi, Russia, killing 113 people.
+En 2002 : One hundred three people are killed and 51 are injured in a plane crash near Mallam Aminu Kano International Airport in Kano, Nigeria.
 <br/><br/>
-En 2001 : The United States loses its seat on the U.N. Human Rights Commission for the first time since the commission was formed in 1947.
+En 2000 : Ken Livingstone becomes the first Mayor of London (an office separate from that of the Lord Mayor of London).
 <br/><br/>
-En 2000 : The sport of geocaching begins, with the first cache placed and the coordinates from a GPS posted on Usenet.
+En 1998 : A federal judge in Sacramento, California, gives "Unabomber" Theodore Kaczynski four life sentences plus 30 years after Kaczynski accepts a plea agreement sparing him from the death penalty.
 <br/><br/>
-En 1999 : The southwestern portion of Oklahoma City is devastated by an F5 tornado, killing forty-five people, injuring 665, and causing $1 billion in damage. The tornado is one of 66 from the 1999 Oklahoma tornado outbreak. This tornado also produces the highest wind speed ever recorded, measured at 301 +/- 20 mph (484 +/- 32 km/h). In meteorology, the term “May 3” is synonymous with the F5 tornado.
+En 1994 : Israeli Prime Minister Yitzhak Rabin and PLO leader Yasser Arafat sign a peace accord, granting self-rule in the Gaza Strip and Jericho.
 <br/><br/>
-En 1999 : Infiltration of Pakistani soldiers on Indian side results in the Kargil War.
+En 1990 : Latvia declares independence from the Soviet Union.
 <br/><br/>
-En 1987 : A crash by Bobby Allison at the Talladega Superspeedway, Alabama fencing at the start-finish line would lead NASCAR to develop the restrictor plate for the following season both at Daytona International Speedway and Talladega.
+En 1989 : Iran–Contra affair: Former White House aide Oliver North is convicted of three crimes and acquitted of nine other charges; the convictions are later overturned on appeal.
 <br/><br/>
-En 1986 : Twenty-one people are killed and forty-one are injured after a bomb explodes on Air Lanka Flight 512 at Colombo airport in Sri Lanka.
+En 1989 : Space Shuttle Atlantis launches on mission STS-30 to deploy the Venus-bound Magellan space probe.
 <br/><br/>
-En 1979 : Margaret Thatcher wins the United Kingdom general election. The following day, she becomes the first female British Prime Minister.
+En 1988 : The PEPCON disaster rocks Henderson, Nevada, as tons of Space Shuttle fuel detonate during a fire.
 <br/><br/>
-En 1978 : The first unsolicited bulk commercial email (which would later become known as "spam") is sent by a Digital Equipment Corporation marketing representative to every ARPANET address on the west coast of the United States.
+En 1982 : Twenty sailors are killed when the British Type 42 destroyer HMS Sheffield is hit by an Argentinian Exocet missile during the Falklands War.
 <br/><br/>
-En 1971 : Erich Honecker becomes First Secretary of the Socialist Unity Party of Germany, remaining in power until 1989.
+En 1979 : Margaret Thatcher becomes the first female Prime Minister of the United Kingdom.
 <br/><br/>
-En 1968 : Eighty-five people are killed when Braniff International Airways Flight 352 crashes near Dawson, Texas.
+En 1978 : The South African Defence Force attacks a SWAPO base at Cassinga in southern Angola, killing about 600 people.
 <br/><br/>
-En 1963 : The police force in Birmingham, Alabama switches tactics and responds with violent force to stop the "Birmingham campaign" protesters. Images of the violent suppression are transmitted worldwide, bringing new-found attention to the civil rights movement.
+En 1973 : The 108-story Sears Tower in Chicago is topped out at 1,451 feet (442 m) as the world's tallest building.
 <br/><br/>
-En 1957 : Walter O'Malley, the owner of the Brooklyn Dodgers, agrees to move the team from Brooklyn to Los Angeles.
+En 1972 : The Don't Make A Wave Committee, a fledgling environmental organization founded in Canada in 1971, officially changes its name to "Greenpeace Foundation".
 <br/><br/>
-En 1953 : Two men are rescued from a semitrailer that crashed over the side of the Pit River Bridge before it fell into the Sacramento River. Amateur photographer Virginia Schau photographs "Rescue on Pit River Bridge", the first and only winning submission for the Pulitzer Prize for Photography to have been taken by a woman.
+En 1970 : Vietnam War: Kent State shootings: The Ohio National Guard, sent to Kent State University after disturbances in the city of Kent the weekend before, opens fire killing four unarmed students and wounding nine others. The students were protesting the Cambodian Campaign of the United States and South Vietnam.
 <br/><br/>
-En 1952 : Lieutenant Colonels Joseph O. Fletcher and William P. Benedict of the United States land a plane at the North Pole.
+En 1961 : American civil rights movement: The "Freedom Riders" begin a bus trip through the South.
 <br/><br/>
-En 1952 : The Kentucky Derby is televised nationally for the first time, on the CBS network.
+En 1961 : Malcolm Ross and Victor Prather attain a new altitude record for manned balloon flight ascending in the Strato-Lab V open gondola to 113,740 feet (34.67 km).
 <br/><br/>
-En 1951 : London's Royal Festival Hall opens with the Festival of Britain.
+En 1959 : The 1st Annual Grammy Awards are held.
 <br/><br/>
-En 1951 : The United States Senate Committee on Armed Services and United States Senate Committee on Foreign Relations begin their closed door hearings into the relief of Douglas MacArthur by U.S. President Harry Truman.
+En 1953 : Ernest Hemingway wins the Pulitzer Prize for The Old Man and the Sea.
 <br/><br/>
-En 1948 : The U.S. Supreme Court rules in Shelley v. Kraemer that covenants prohibiting the sale of real estate to blacks and other minorities are legally unenforceable.
+En 1949 : The entire Torino football team (except for two players who did not take the trip: Sauro Tomà, due to an injury and Renato Gandolfi, because of coach request) is killed in a plane crash.
 <br/><br/>
-En 1947 : New post-war Japanese constitution goes into effect.
+En 1946 : In San Francisco Bay, U.S. Marines from the nearby Treasure Island Naval Base stop a two-day riot at Alcatraz Federal Penitentiary.  Five people are killed in the riot.
 <br/><br/>
-En 1945 : World War II: Sinking of the prison ships Cap Arcona, Thielbek and Deutschland by the Royal Air Force in  Lübeck Bay.
+En 1945 : World War II: Neuengamme concentration camp near Hamburg is liberated by the British Army.
 <br/><br/>
-En 1942 : World War II: Japanese naval troops invade Tulagi Island in the Solomon Islands during the first part of Operation Mo that results in the Battle of the Coral Sea between Japanese forces and forces from the United States and Australia.
+En 1945 : World War II: The German surrender at Lüneburg Heath is signed, coming into effect the following day. It encompasses all Wehrmacht units in the Netherlands, Denmark and northwest Germany.
 <br/><br/>
-En 1939 : The All India Forward Bloc is formed by Netaji Subhas Chandra Bose.
+En 1942 : World War II: The Battle of the Coral Sea begins with an attack by aircraft from the United States aircraft carrier USS Yorktown on Japanese naval forces at Tulagi Island in the Solomon Islands. The Japanese forces had invaded Tulagi the day before.
 <br/><br/>
-En 1928 : The Jinan incident begins with the deaths of twelve Japanese civilians by Chinese forces in Jinan, China, which leads to Japanese retaliation and the deaths of over 2,000 Chinese civilians in the following days.
+En 1932 : In Atlanta, mobster Al Capone begins serving an eleven-year prison sentence for tax evasion.
 <br/><br/>
-En 1921 : Ireland is partitioned under British law by the Government of Ireland Act 1920, creating Northern Ireland and Southern Ireland.
+En 1927 : The Academy of Motion Picture Arts and Sciences is incorporated.
 <br/><br/>
-En 1921 : West Virginia becomes the first state to legislate a broad sales tax, but does not implement it until a number of years later due to enforcement issues.
+En 1926 : The United Kingdom general strike begins.
 <br/><br/>
-En 1920 : A Bolshevik coup fails in the Democratic Republic of Georgia.
+En 1919 : May Fourth Movement: Student demonstrations take place in Tiananmen Square in Beijing, China, protesting the Treaty of Versailles, which transferred Chinese territory to Japan.
 <br/><br/>
-En 1913 : Raja Harishchandra, the first full-length Indian feature film, is released, marking the beginning of the Indian film industry.
+En 1912 : Italy occupies the Ottoman island of Rhodes.
 <br/><br/>
-En 1901 : The Great Fire of 1901 begins in Jacksonville, Florida.
+En 1910 : The Royal Canadian Navy is created.
 <br/><br/>
-En 1855 : American adventurer William Walker departs from San Francisco with about 60 men to conquer Nicaragua.
+En 1904 : The United States begins construction of the Panama Canal.
 <br/><br/>
-En 1849 : The May Uprising in Dresden begins: The last of the German revolutions of 1848–49.
+En 1886 : Haymarket affair: In Chicago, United States, a homemade bomb is thrown at police officers trying to break up a labor rally, killing one officer. Ensuing gunfire leads to the deaths of a further seven officers and four civilians.
 <br/><br/>
-En 1848 : The boar-crested Anglo-Saxon Benty Grange helmet is discovered in a barrow on the Benty Grange farm in Derbyshire.
+En 1871 : The National Association, the first professional baseball league, opens its first season in Fort Wayne, Indiana.
 <br/><br/>
-En 1837 : The University of Athens is founded in Athens, Greece.
+En 1869 : The Naval Battle of Hakodate is fought in Japan.
 <br/><br/>
-En 1830 : The Canterbury and Whitstable Railway is opened; it is the first steam-hauled passenger railway to issue season tickets and include a tunnel.
+En 1859 : The Cornwall Railway opens across the Royal Albert Bridge linking Devon and Cornwall in England.
 <br/><br/>
-En 1815 : Neapolitan War: Joachim Murat, King of Naples, is defeated by the Austrians at the Battle of Tolentino, the decisive engagement of the war.
+En 1836 : Formation of Ancient Order of Hibernians
 <br/><br/>
-En 1808 : Finnish War: Sweden loses the fortress of Sveaborg to Russia.
+En 1814 : Emperor Napoleon arrives at Portoferraio on the island of Elba to begin his exile.
 <br/><br/>
-En 1808 : Peninsular War: The Madrid rebels who rose up on May 2 are executed near Príncipe Pío hill.
+En 1814 : King Ferdinand VII abolishes the Spanish Constitution of 1812, returning Spain to absolutism.
 <br/><br/>
-En 1802 : Washington, D.C. is incorporated as a city after Congress abolishes the Board of Commissioners, the District's founding government. The "City of Washington" is given a mayor-council form of government.
+En 1799 : Fourth Anglo-Mysore War: The Battle of Seringapatam: The siege of Seringapatam ends when the city is invaded and Tipu Sultan killed by the besieging British army, under the command of General George Harris.
 <br/><br/>
-En 1791 : The Constitution of May 3 (the first modern constitution in Europe) is proclaimed by the Sejm of Polish–Lithuanian Commonwealth.
+En 1776 : Rhode Island becomes the first American colony to renounce allegiance to King George III.
 <br/><br/>
-En 1715 : A total solar eclipse is visible across northern Europe and northern Asia, as predicted by Edmond Halley to within four minutes accuracy.
+En 1738 : The Imperial Theatrical School, now known as Vaganova Academy of Russian Ballet, was founded under the reign of Empress Anna. It is the first ballet school in Russia and second in the world.
 <br/><br/>
-En 1616 : Treaty of Loudun ends a French civil war.
+En 1686 : The Municipality of Ilagan is founded in the Philippines.
 <br/><br/>
-En 1568 : Angered by the brutal onslaught of Spanish troops at Fort Caroline, a French force burns the San Mateo fort and massacres hundreds of Spaniards.
+En 1626 : Dutch explorer Peter Minuit arrives in New Netherland (present day Manhattan Island) aboard the See Meeuw.
 <br/><br/>
-En 1491 : Kongo monarch Nkuwu Nzinga is baptised by Portuguese missionaries, adopting the baptismal name of João I.
+En 1493 : Pope Alexander VI divides the New World between Spain and Portugal along the Line of Demarcation.
 <br/><br/>
-En 1481 : The largest of three earthquakes strikes the island of Rhodes and causes an estimated 30,000 casualties.
+En 1471 : Wars of the Roses: The Battle of Tewkesbury: Edward IV defeats a Lancastrian Army and kills Edward of Westminster, Prince of Wales.
 <br/><br/>
-En 752 : Mayan king Bird Jaguar IV of Yaxchilan in modern-day Chiapas, Mexico, assumes the throne.
+En 1436 : Assassination of the Swedish rebel (later national hero) Engelbrekt Engelbrektsson
+<br/><br/>
+En 1415 : Religious reformers John Wycliffe and Jan Hus are condemned as heretics at the Council of Constance.
+<br/><br/>
+En 1256 : The Augustinian monastic order is constituted at the Lecceto Monastery when Pope Alexander IV issues a papal bull Licet ecclesiae catholicae.
 <br/><br/>
