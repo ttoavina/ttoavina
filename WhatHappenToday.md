@@ -4,101 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 14/5 ?(Hover on the year)</h1>
+<h1> What happen this day 15/5 ?(Hover on the year)</h1>
 
-En 2022 : Ten people are killed in a mass shooting in Buffalo, New York.
+En 2013 : An upsurge in violence in Iraq leaves more than 389 people dead over three days.
 <br/><br/>
-En 2021 : China successfully lands Zhurong, the country's first Mars rover.
+En 2010 : Jessica Watson becomes the youngest person to sail, non-stop and unassisted around the world solo.
 <br/><br/>
-En 2012 : Agni Air Flight CHT crashes in Nepal after a failed go-around, killing 15 people.
+En 2008 : California becomes the second U.S. state after Massachusetts in 2004 to legalize same-sex marriage after the state's own Supreme Court rules a previous ban unconstitutional.
 <br/><br/>
-En 2010 : Space Shuttle Atlantis launches on the STS-132 mission to deliver the first shuttle-launched Russian ISS component — Rassvet. This was originally slated to be the final launch of Atlantis, before Congress approved STS-135.
+En 2004 : Arsenal F.C. go an entire league campaign unbeaten in the English Premier League, joining Preston North End F.C. with the right to claim the title "The Invincibles".
 <br/><br/>
-En 2008 : Battle of Piccadilly Gardens in Manchester city centre between Zenit supporters and Rangers supporters and the Greater Manchester Police, 39 policemen injured, one police-dog injured and 39 arrested.
+En 2001 : A CSX EMD SD40-2 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it was brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
 <br/><br/>
-En 2004 : The Constitutional Court of South Korea overturns the impeachment of President Roh Moo-hyun.
+En 1997 : The United States government acknowledges the existence of the "Secret War" in Laos and dedicates the Laos Memorial in honor of Hmong and other "Secret War" veterans.
 <br/><br/>
-En 2004 : Crown Prince Frederik of Denmark and Mary Donaldson are married at Copenhagen Cathedral.
+En 1997 : The Space Shuttle Atlantis launches on STS-84 to dock with the Russian space station Mir.
 <br/><br/>
-En 2004 : Rico Linhas Aéreas Flight 4815 crashes into the Amazon rainforest during approach to Eduardo Gomes International Airport in Manaus, Brazil, killing 33 people.
+En 1991 : Édith Cresson becomes France's first female Prime Minister.
 <br/><br/>
-En 1988 : Carrollton bus collision: A drunk driver traveling the wrong way on Interstate 71 near Carrollton, Kentucky hits a converted school bus carrying a church youth group. Twenty-seven die in the crash and ensuing fire.
+En 1988 : Soviet–Afghan War: After more than eight years of fighting, the Soviet Army begins to withdraw 115,000 troops from Afghanistan.
 <br/><br/>
-En 1987 : Fijian Prime Minister Timoci Bavadra is ousted from power in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.
+En 1974 : Ma'alot massacre: Members of the Democratic Front for the Liberation of Palestine attack and take hostages at an Israeli school; a total of 31 people are killed, including 22 schoolchildren.
 <br/><br/>
-En 1980 : Salvadoran Civil War: the Sumpul River massacre occurs in Chalatenango, El Salvador.
+En 1972 : The Ryukyu Islands, under U.S. military governance since its conquest in 1945, reverts to Japanese control.
 <br/><br/>
-En 1977 : A Dan-Air Boeing 707 leased to IAS Cargo Airlines crashes on approach to Lusaka International Airport in Lusaka, Zambia, killing six people.
+En 1972 : Governor George C. Wallace of Alabama is shot and paralyzed by Arthur Bremer at a political rally in Laurel, Maryland.
 <br/><br/>
-En 1973 : Skylab, the United States' first space station, is launched.
+En 1970 : President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
 <br/><br/>
-En 1970 : Andreas Baader is freed from custody by Ulrike Meinhof, Gudrun Ensslin and others, a pivotal moment in the formation of the Red Army Faction.
+En 1963 : Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone.
 <br/><br/>
-En 1961 : Civil rights movement: A white mob twice attacks a Freedom Riders bus near Anniston, Alabama, before fire-bombing the bus and attacking the civil rights protesters who flee the burning vehicle.
+En 1957 : At Malden Island in the Pacific Ocean, Britain tests its first hydrogen bomb in Operation Grapple.
 <br/><br/>
-En 1955 : Cold War: Eight Communist bloc countries, including the Soviet Union, sign a mutual defense treaty called the Warsaw Pact.
+En 1948 : Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel thus starting the 1948 Arab–Israeli War.
 <br/><br/>
-En 1953 : Approximately 7,100 brewery workers in Milwaukee perform a walkout, marking the start of the 1953 Milwaukee brewery strike.
+En 1945 : World War II: The Battle of Poljana, the final skirmish in Europe is fought near Prevalje, Slovenia.
 <br/><br/>
-En 1951 : Trains run on the Talyllyn Railway in Wales for the first time since preservation, making it the first railway in the world to be operated by volunteers.
+En 1943 : Joseph Stalin dissolves the Comintern (or Third International).
 <br/><br/>
-En 1948 : Israel is declared to be an independent state and a provisional government is established. Immediately after the declaration, Israel is attacked by the neighboring Arab states, triggering the 1948 Arab–Israeli War.
+En 1942 : World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law.
 <br/><br/>
-En 1943 : World War II: A Japanese submarine sinks AHS Centaur off the coast of Queensland.
+En 1941 : First flight of the Gloster E.28/39 the first British and Allied jet aircraft.
 <br/><br/>
-En 1940 : World War II: Rotterdam, Netherlands is bombed by the Luftwaffe of Nazi Germany despite a ceasefire, killing about 900 people and destroying the historic city center.
+En 1940 : USS Sailfish is recommissioned. It was originally the USS Squalus.
 <br/><br/>
-En 1939 : Lina Medina becomes the youngest confirmed mother in medical history at the age of five.
+En 1940 : World War II: The Battle of the Netherlands: After fierce fighting, the poorly trained and equipped Dutch troops surrender to Germany, marking the beginning of five years of occupation.
 <br/><br/>
-En 1935 : The Constitution of the Philippines is ratified by a popular vote.
+En 1940 : Richard and Maurice McDonald open the first McDonald's restaurant.
 <br/><br/>
-En 1931 : Five unarmed civilians are killed in the Ådalen shootings, as the Swedish military is called in to deal with protesting workers.
+En 1934 : A self coup by prime minister Kārlis Ulmanis succeeded in Latvia, suspending its constitution and dissolving its Saeima.
 <br/><br/>
-En 1918 : Cape Town Mayor, Sir Harry Hands, inaugurates the Two-minute silence.
+En 1933 : All military aviation organizations within or under the control of the RLM of Germany were officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
 <br/><br/>
-En 1915 : The May 14 Revolt takes place in Lisbon, Portugal.
+En 1932 : In an attempted coup d'état, the Prime Minister of Japan Inukai Tsuyoshi is assassinated.
 <br/><br/>
-En 1913 : Governor of New York William Sulzer approves the charter for the Rockefeller Foundation, which begins operations with a $100 million donation from John D. Rockefeller.
+En 1929 : A fire at the Cleveland Clinic in Cleveland, Ohio kills 123.
 <br/><br/>
-En 1900 : Opening of World Amateur championship at the Paris Exposition Universelle, also known as Olympic Games.
+En 1919 : The Winnipeg general strike begins. By 11:00, almost the whole working population of Winnipeg had walked off the job.
 <br/><br/>
-En 1879 : The first group of 463 Indian indentured laborers arrives in Fiji aboard the Leonidas.
+En 1919 : Greek occupation of Smyrna. During the occupation, the Greek army kills or wounds 350 Turks; those responsible are punished by Greek commander Aristides Stergiades.
 <br/><br/>
-En 1878 : The last witchcraft trial held in the United States begins in Salem, Massachusetts, after Lucretia Brown, an adherent of Christian Science, accused Daniel Spofford of attempting to harm her through his mental powers.
+En 1918 : The Finnish Civil War ends when the Whites took over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops.
 <br/><br/>
-En 1870 : The first game of rugby in New Zealand is played in Nelson between Nelson College and the Nelson Rugby Football Club.
+En 1911 : In Standard Oil Co. of New Jersey v. United States, the United States Supreme Court declares Standard Oil to be an "unreasonable" monopoly under the Sherman Antitrust Act and orders the company to be broken up.
 <br/><br/>
-En 1868 : Boshin War: The Battle of Utsunomiya Castle ends as former Tokugawa shogunate forces withdraw northward.
+En 1911 : More than 300 Chinese immigrants are killed in the Torreón massacre when the forces of the Mexican Revolution led by Emilio Madero take the city of Torreón from the Federales.
 <br/><br/>
-En 1863 : American Civil War: The Battle of Jackson takes place.
+En 1905 : The city of Las Vegas is founded in Nevada, United States.
 <br/><br/>
-En 1857 : Mindon Min was crowned as King of Burma in Mandalay, Burma.
+En 1891 : Pope Leo XIII defends workers' rights and property rights in the encyclical Rerum novarum, the beginning of modern Catholic social teaching.
 <br/><br/>
-En 1836 : The Treaties of Velasco are signed in Velasco, Texas.
+En 1864 : American Civil War: Battle of New Market, Virginia: Students from the Virginia Military Institute fight alongside the Confederate army to force Union General Franz Sigel out of the Shenandoah Valley.
 <br/><br/>
-En 1811 : Paraguay: Pedro Juan Caballero, Fulgencio Yegros and José Gaspar Rodríguez de Francia start actions to depose the Spanish governor.
+En 1851 : The first Australian gold rush is proclaimed, although the discovery had been made three months earlier.
 <br/><br/>
-En 1804 : William Clark and 42 men depart from Camp Dubois to join Meriwether Lewis at St Charles, Missouri, marking the beginning of the Lewis and Clark Expedition's historic journey up the Missouri River.
+En 1850 : The Arana–Southern Treaty is ratified, ending "the existing differences" between Great Britain and Argentina.
 <br/><br/>
-En 1800 : The 6th United States Congress recesses, and the process of moving the Federal government of the United States from Philadelphia to Washington, D.C., begins the following day.
+En 1849 : The Sicilian revolution of 1848 is finally extinguished.
 <br/><br/>
-En 1796 : Edward Jenner administers the first smallpox inoculation.
+En 1836 : Francis Baily observes "Baily's beads" during an annular eclipse.
 <br/><br/>
-En 1747 : War of the Austrian Succession: A British fleet under Admiral George Anson defeats the French at the First Battle of Cape Finisterre.
+En 1817 : Opening of the first private mental health hospital in the United States, the Asylum for the Relief of Persons Deprived of the Use of Their Reason (now Friends Hospital, Philadelphia, Pennsylvania).
 <br/><br/>
-En 1643 : Four-year-old Louis XIV becomes King of France upon the death of his father, Louis XIII.
+En 1791 : French Revolution: Maximilien Robespierre proposes the Self-denying Ordinance.
 <br/><br/>
-En 1610 : Henry IV of France is assassinated by Catholic zealot François Ravaillac, and Louis XIII ascends the throne.
+En 1648 : The Peace of Münster is ratified, by which Spain acknowledges Dutch sovereignty.
 <br/><br/>
-En 1608 : The Protestant Union, a coalition of Protestant German states, is founded to defend the rights, land and safety of each member against the Catholic Church and Catholic German states.
+En 1618 : Johannes Kepler confirms his previously rejected discovery of the third law of planetary motion (he first discovered it on March 8 but soon rejected the idea after some initial calculations were made).
 <br/><br/>
-En 1607 : English colonists establish "James Fort," which would become Jamestown, Virginia, the earliest permanent English settlement in the Americas.
+En 1602 : Cape Cod is sighted by English navigator Bartholomew Gosnold.
 <br/><br/>
-En 1509 : Battle of Agnadello: In northern Italy, French forces defeat the Republic of Venice.
+En 1536 : Anne Boleyn, Queen of England, stands trial in London on charges of treason, adultery and incest; she is condemned to death by a specially-selected jury.
 <br/><br/>
-En 1264 : Battle of Lewes: Henry III of England is captured and forced to sign the Mise of Lewes, making Simon de Montfort the effective ruler of England.
+En 1525 : Insurgent peasants led by Anabaptist pastor Thomas Müntzer were defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire.
 <br/><br/>
-En 1097 : The Siege of Nicaea begins during the First Crusade.
+En 1252 : Pope Innocent IV issues the papal bull ad extirpanda, which authorizes, but also limits, the torture of heretics in the Medieval Inquisition.
 <br/><br/>
-En 1027 : Robert II of France names his son Henry I as junior King of the Franks.
+En 756 : Abd al-Rahman I, the founder of the Arab dynasty that ruled the greater part of Iberia for nearly three centuries, becomes emir of Cordova, Spain.
+<br/><br/>
+En 589 : King Authari marries Theodelinda, daughter of the Bavarian duke Garibald I. A Catholic, she has great influence among the Lombard nobility.
+<br/><br/>
+En 392 : Emperor Valentinian II is assassinated while advancing into Gaul against the Frankish usurper Arbogast. He is found hanging in his residence at Vienne.
+<br/><br/>
+En 221 : Liu Bei, Chinese warlord, proclaims himself emperor of Shu Han, the successor of the Han dynasty.
 <br/><br/>
