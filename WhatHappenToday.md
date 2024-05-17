@@ -4,101 +4,113 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/5 ?(Hover on the year)</h1>
+<h1> What happen this day 17/5 ?(Hover on the year)</h1>
 
-En 2014 : Twelve people are killed in two explosions in the Gikomba market area of Nairobi, Kenya.
+En 2014 : A military plane crash in northern Laos kills 17 people.
 <br/><br/>
-En 2011 : STS-134 (ISS assembly flight ULF6), launched from the Kennedy Space Center on the 25th and final flight for Space Shuttle Endeavour.
+En 2010 : Pamir Airways Flight 112 crashes in Afghanistan's Shakardara District, killing 44.
 <br/><br/>
-En 2005 : Kuwait permits women's suffrage in a 35–23 National Assembly vote.
+En 2007 : Trains from North and South Korea cross the 38th Parallel in a test-run agreed by both governments. This is the first time that trains have crossed the Demilitarized Zone since 1953.
 <br/><br/>
-En 2003 : In Morocco, 33 civilians are killed and more than 100 people are injured in the Casablanca terrorist attacks.
+En 2006 : The aircraft carrier USS Oriskany is sunk in the Gulf of Mexico as an artificial reef.
 <br/><br/>
-En 1997 : Mobutu Sese Seko, the President of Zaire, flees the country.
+En 2004 : The first legal same-sex marriages in the U.S. are performed in the state of Massachusetts.
 <br/><br/>
-En 1991 : Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress.
+En 2000 : Arsenal and Galatasaray fans clash in the 2000 UEFA Cup Final riots in Copenhagen
 <br/><br/>
-En 1988 : A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine.
+En 1997 : Troops of Laurent Kabila march into Kinshasa. Zaire is officially renamed Democratic Republic of the Congo.
 <br/><br/>
-En 1975 : Junko Tabei from Japan becomes the first woman to reach the summit of Mount Everest.
+En 1995 : Shawn Nelson steals an M60 tank from the California Army National Guard Armory in San Diego and proceeds to go on a rampage.
 <br/><br/>
-En 1974 : Josip Broz Tito is elected president for life of Yugoslavia.
+En 1994 : Malawi holds its first multi-party elections.
 <br/><br/>
-En 1969 : Venera program: Venera 5, a Soviet space probe, lands on Venus.
+En 1992 : Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests.
 <br/><br/>
-En 1966 : The Chinese Communist Party issues the "May 16 Notice", marking the beginning of the Cultural Revolution.
+En 1990 : The General Assembly of the World Health Organization (WHO) eliminates homosexuality from the list of psychiatric diseases.
 <br/><br/>
-En 1961 : Park Chung Hee leads a coup d'état to overthrow the Second Republic of South Korea.
+En 1987 : Iran–Iraq War: An Iraqi Dassault Mirage F1 fighter jet fires two missiles into the U.S. Navy warship USS Stark, killing 37 and injuring 21 of her crew.
 <br/><br/>
-En 1960 : Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.
+En 1984 : Prince Charles calls a proposed addition to the National Gallery, London, a "monstrous carbuncle on the face of a much-loved and elegant friend", sparking controversies on the proper role of the Royal Family and the course of modern architecture.
 <br/><br/>
-En 1959 : The Tritons' Fountain in Valletta, Malta is turned on for the first time.
+En 1983 : The U.S. Department of Energy declassifies documents showing world's largest mercury pollution event in Oak Ridge, Tennessee (ultimately found to be 4.2 million pounds [1.9 kt]), in response to the Appalachian Observer's Freedom of Information Act request.
 <br/><br/>
-En 1954 : Beginning of the Kengir uprising in the Gulag.
+En 1983 : Lebanon, Israel, and the United States sign an agreement on Israeli withdrawal from Lebanon.
 <br/><br/>
-En 1951 : The first regularly scheduled transatlantic flights begin between Idlewild Airport (now John F Kennedy International Airport) in New York City and Heathrow Airport in London, operated by El Al Israel Airlines.
+En 1980 : General Chun Doo-hwan of South Korea seizes control of the government and declares martial law in order to suppress student demonstrations.
 <br/><br/>
-En 1945 : Beginning of the Levant Crisis between Britain and France in Syria. The latter try to quell nationalist protests but backs down after threat of military action by the British.
+En 1980 : On the eve of presidential elections, Maoist guerrilla group Shining Path attacks a polling location in Chuschi (a town in Ayacucho), starting the Internal conflict in Peru.
 <br/><br/>
-En 1943 : The Holocaust: The Warsaw Ghetto Uprising ends.
+En 1977 : Nolan Bushnell opened the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California.
 <br/><br/>
-En 1943 : Operation Chastise is undertaken by RAF Bomber Command with specially equipped Avro Lancasters to destroy the Mohne, Sorpe, and Eder dams in the Ruhr valley.
+En 1974 : The Troubles: Thirty-three civilians are killed and 300 injured when the Ulster Volunteer Force (UVF) detonates four car bombs in Dublin and Monaghan, Republic of Ireland.
 <br/><br/>
-En 1929 : In Hollywood, the first Academy Awards ceremony takes place.
+En 1974 : Police in Los Angeles raid the Symbionese Liberation Army's headquarters, killing six members, including Camilla Hall.
 <br/><br/>
-En 1925 : The first modern performance of Claudio Monteverdi's opera Il ritorno d'Ulisse in patria occurred in Paris.
+En 1973 : Watergate scandal: Televised hearings begin in the United States Senate.
 <br/><br/>
-En 1920 : In Rome, Pope Benedict XV canonizes Joan of Arc.
+En 1969 : Venera program: Soviet Venera 6 begins its descent into the atmosphere of Venus, sending back atmospheric data before being crushed by pressure.
 <br/><br/>
-En 1919 : A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight.
+En 1967 : Six-Day War: President Gamal Abdel Nasser of Egypt demands dismantling of the peace-keeping UN Emergency Force in Egypt.
 <br/><br/>
-En 1918 : The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later.
+En 1954 : The United States Supreme Court hands down a unanimous decision in Brown v. Board of Education of Topeka, Kansas, outlawing racial segregation in public schools.
 <br/><br/>
-En 1916 : The United Kingdom of Great Britain and Ireland and the French Third Republic sign the secret wartime Sykes-Picot Agreement partitioning former Ottoman territories such as Iraq and Syria.
+En 1953 : Delta Air Lines Flight 318 crashes near Marshall, Texas, killing 19.
 <br/><br/>
-En 1891 : The International Electrotechnical Exhibition opened in Frankfurt, Germany, featuring the world's first long-distance transmission of high-power, three-phase electric current (the most common form today).
+En 1943 : World War II: Dambuster Raids commence by No. 617 Squadron RAF.
 <br/><br/>
-En 1888 : Nikola Tesla delivers a lecture describing the equipment which will allow efficient generation and use of alternating currents to transmit electric power over long distances.
+En 1940 : World War II: Germany occupies Brussels, Belgium.
 <br/><br/>
-En 1877 : The 16 May 1877 crisis occurs in France, ending with the dissolution of the National Assembly 22 June and affirming the interpretation of the Constitution of 1875 as a parliamentary rather than presidential system. The elections held in October 1877 led to the defeat of the royalists as a formal political movement in France.
+En 1939 : The Columbia Lions and the Princeton Tigers play in the United States' first televised sporting event, a collegiate baseball game in New York City.
 <br/><br/>
-En 1874 : A flood on the Mill River in Massachusetts destroys much of four villages and kills 139 people.
+En 1937 : Spanish Civil War: The Largo Caballero government resigns in the wake of the Barcelona May Days, leading Juan Negrín to form a government, without the anarcho-syndicalist CNT, in its stead.
 <br/><br/>
-En 1868 : The United States Senate fails to convict President Andrew Johnson by one vote.
+En 1933 : Vidkun Quisling and Johan Bernhard Hjort form Nasjonal Samling — the national-socialist party of Norway.
 <br/><br/>
-En 1866 : The United States Congress establishes the nickel.
+En 1915 : The last British Liberal Party government (led by H. H. Asquith) falls.
 <br/><br/>
-En 1842 : The first major wagon train heading for the Pacific Northwest sets out on the Oregon Trail from Elm Grove, Missouri, with 100 pioneers.
+En 1914 : The Protocol of Corfu is signed, recognising full autonomy to Northern Epirus under nominal Albanian sovereignty.
 <br/><br/>
-En 1834 : The Battle of Asseiceira is fought; it was the final and decisive engagement of the Liberal Wars in Portugal.
+En 1902 : Greek archaeologist Valerios Stais discovers the Antikythera mechanism, an ancient mechanical analog computer.
 <br/><br/>
-En 1832 : Juan Godoy discovers the rich silver outcrops of Chañarcillo sparking the Chilean silver rush.
+En 1900 : The children's novel The Wonderful Wizard of Oz, by L. Frank Baum, is first published in the United States. The first copy is given to the author's sister.
 <br/><br/>
-En 1822 : Greek War of Independence: The Turks capture the Greek town of Souli.
+En 1875 : Aristides wins the first Kentucky Derby with the jockey Oliver Lewis (2:37.75).
 <br/><br/>
-En 1812 : Imperial Russia signs the Treaty of Bucharest, ending the Russo-Turkish War. The Ottoman Empire cedes Bessarabia to Russia.
+En 1865 : The International Telegraph Union (later the International Telecommunication Union) is established in Paris.
 <br/><br/>
-En 1811 : Peninsular War: The allies Spain, Portugal and United Kingdom fight an inconclusive battle against the French at the Albuera. It is, in proportion to the numbers involved, the bloodiest battle of the war.
+En 1863 : Rosalía de Castro publishes Cantares Gallegos, the first book in the Galician language.
 <br/><br/>
-En 1771 : The Battle of Alamance, a pre-American Revolutionary War battle between local militia and a group of rebels called The "Regulators", occurs in present-day Alamance County, North Carolina.
+En 1859 : Members of the Melbourne Football Club codified the first rules of Australian rules football.
 <br/><br/>
-En 1770 : The 14-year-old Marie Antoinette marries 15-year-old Louis-Auguste, who later becomes king of France.
+En 1814 : Occupation of Monaco changes from French to Austrian.
 <br/><br/>
-En 1739 : The Battle of Vasai concludes as the Marathas defeat the Portuguese army.
+En 1814 : The Constitution of Norway is signed and Crown Prince Christian Frederick of Denmark is elected King of Norway by the Norwegian Constituent Assembly.
 <br/><br/>
-En 1584 : Santiago de Vera becomes sixth Governor-General of the Spanish colony of the Philippines.
+En 1809 : Emperor Napoleon I orders the annexation of the Papal States to the French Empire.
 <br/><br/>
-En 1568 : Mary, Queen of Scots, flees to England.
+En 1805 : Muhammad Ali becomes Wāli of Egypt.
 <br/><br/>
-En 1532 : Sir Thomas More resigns as Lord Chancellor of England.
+En 1792 : The New York Stock Exchange is formed under the Buttonwood Agreement.
 <br/><br/>
-En 1527 : The Florentines drive out the Medici for a second time and Florence re-establishes itself as a republic.
+En 1760 : French forces besieging Quebec retreat after the Royal Navy arrives to relieve the British garrison.
 <br/><br/>
-En 1426 : Gov. Thado of Mohnyin becomes king of Ava.
+En 1756 : Seven Years' War formally begins when Great Britain declares war on France
 <br/><br/>
-En 1364 : Hundred Years' War: Bertrand du Guesclin and a French army defeat the Anglo-Navarrese army of Charles the Bad at Cocherel.
+En 1673 : Louis Jolliet and Jacques Marquette begin exploring the Mississippi River.
 <br/><br/>
-En 1204 : Baldwin IX, Count of Flanders is crowned as the first Emperor of the Latin Empire.
+En 1648 : Emperor Ferdinand III defeats Maximilian I of Bavaria in the Battle of Zusmarshausen.
 <br/><br/>
-En 946 : Emperor Suzaku abdicates the throne in favor of his brother Murakami who becomes the 62nd emperor of Japan.
+En 1642 : Paul de Chomedey, Sieur de Maisonneuve founds the Ville Marie de Montréal.
+<br/><br/>
+En 1590 : Anne of Denmark is crowned Queen of Scotland.
+<br/><br/>
+En 1536 : George Boleyn, 2nd Viscount Rochford and four other men are executed for treason.
+<br/><br/>
+En 1536 : Henry VIII and Anne Boleyn's marriage is annulled.
+<br/><br/>
+En 1527 : Pánfilo de Narváez departs Spain to explore Florida with 600 men – by 1536 only four survive.
+<br/><br/>
+En 1521 : Edward Stafford, 3rd Duke of Buckingham, is executed for treason.
+<br/><br/>
+En 1395 : Battle of Rovine: The Wallachians defeat an invading Ottoman army.
 <br/><br/>
