@@ -4,113 +4,121 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/5 ?(Hover on the year)</h1>
+<h1> What happen this day 18/5 ?(Hover on the year)</h1>
 
-En 2014 : A military plane crash in northern Laos kills 17 people.
+En 2019 : United States presidential election: Joe Biden announces his presidential campaign.
 <br/><br/>
-En 2010 : Pamir Airways Flight 112 crashes in Afghanistan's Shakardara District, killing 44.
+En 2018 : A school shooting at Santa Fe High School in Texas kills ten people.
 <br/><br/>
-En 2007 : Trains from North and South Korea cross the 38th Parallel in a test-run agreed by both governments. This is the first time that trains have crossed the Demilitarized Zone since 1953.
+En 2018 : Cubana de Aviación Flight 972 crashes in Santiago de las Vegas after takeoff from José Martí International Airport in Havana, Cuba, killing 112 of the 113 people on board.
 <br/><br/>
-En 2006 : The aircraft carrier USS Oriskany is sunk in the Gulf of Mexico as an artificial reef.
+En 2015 : At least 78 people die in a landslide caused by heavy rains in the Colombian town of Salgar.
 <br/><br/>
-En 2004 : The first legal same-sex marriages in the U.S. are performed in the state of Massachusetts.
+En 2009 : The LTTE are defeated by the Sri Lankan government, ending almost 26 years of fighting between the two sides.
 <br/><br/>
-En 2000 : Arsenal and Galatasaray fans clash in the 2000 UEFA Cup Final riots in Copenhagen
+En 2006 : The post Loktantra Andolan government passes a landmark bill curtailing the power of the monarchy and making Nepal a secular country.
 <br/><br/>
-En 1997 : Troops of Laurent Kabila march into Kinshasa. Zaire is officially renamed Democratic Republic of the Congo.
+En 2005 : A second photo from the Hubble Space Telescope confirms that Pluto has two additional moons, Nix and Hydra.
 <br/><br/>
-En 1995 : Shawn Nelson steals an M60 tank from the California Army National Guard Armory in San Diego and proceeds to go on a rampage.
+En 1994 : Israeli troops finish withdrawing from the Gaza Strip, ceding the area to the Palestinian National Authority to govern.
 <br/><br/>
-En 1994 : Malawi holds its first multi-party elections.
+En 1993 : Riots in Nørrebro, Copenhagen, caused by the approval of the four Danish exceptions in the Maastricht Treaty referendum. Police open fire against civilians for the first time since World War II and injure 11 demonstrators.
 <br/><br/>
-En 1992 : Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests.
+En 1991 : Northern Somalia declares independence from the rest of Somalia as the Republic of Somaliland.
 <br/><br/>
-En 1990 : The General Assembly of the World Health Organization (WHO) eliminates homosexuality from the list of psychiatric diseases.
+En 1990 : In France, a modified TGV train achieves a new rail world speed record of 515.3 km/h (320.2 mph).
 <br/><br/>
-En 1987 : Iran–Iraq War: An Iraqi Dassault Mirage F1 fighter jet fires two missiles into the U.S. Navy warship USS Stark, killing 37 and injuring 21 of her crew.
+En 1980 : Mount St. Helens erupts in Washington, United States, killing 57 people and causing $3 billion in damage.
 <br/><br/>
-En 1984 : Prince Charles calls a proposed addition to the National Gallery, London, a "monstrous carbuncle on the face of a much-loved and elegant friend", sparking controversies on the proper role of the Royal Family and the course of modern architecture.
+En 1980 : Students in Gwangju, South Korea begin demonstrations calling for democratic reforms.
 <br/><br/>
-En 1983 : The U.S. Department of Energy declassifies documents showing world's largest mercury pollution event in Oak Ridge, Tennessee (ultimately found to be 4.2 million pounds [1.9 kt]), in response to the Appalachian Observer's Freedom of Information Act request.
+En 1977 : Likud party wins the 1977 Israeli legislative election, with Menachem Begin, its founder, as the sixth Prime Minister of Israel.
 <br/><br/>
-En 1983 : Lebanon, Israel, and the United States sign an agreement on Israeli withdrawal from Lebanon.
+En 1974 : Nuclear weapons testing: Under project Smiling Buddha, India successfully detonates its first nuclear weapon becoming the sixth nation to do so.
 <br/><br/>
-En 1980 : General Chun Doo-hwan of South Korea seizes control of the government and declares martial law in order to suppress student demonstrations.
+En 1973 : Aeroflot Flight 109 is hijacked mid-flight and the aircraft is subsequently destroyed when the hijacker's bomb explodes, killing all 82 people on board.
 <br/><br/>
-En 1980 : On the eve of presidential elections, Maoist guerrilla group Shining Path attacks a polling location in Chuschi (a town in Ayacucho), starting the Internal conflict in Peru.
+En 1969 : Apollo program: Apollo 10 is launched.
 <br/><br/>
-En 1977 : Nolan Bushnell opened the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California.
+En 1965 : Israeli spy Eli Cohen is hanged in Damascus, Syria.
 <br/><br/>
-En 1974 : The Troubles: Thirty-three civilians are killed and 300 injured when the Ulster Volunteer Force (UVF) detonates four car bombs in Dublin and Monaghan, Republic of Ireland.
+En 1955 : Operation Passage to Freedom, the evacuation of 310,000 Vietnamese civilians, soldiers and non-Vietnamese members of the French Army from communist North Vietnam to South Vietnam following the end of the First Indochina War, ends.
 <br/><br/>
-En 1974 : Police in Los Angeles raid the Symbionese Liberation Army's headquarters, killing six members, including Camilla Hall.
+En 1953 : Jacqueline Cochran becomes the first woman to break the sound barrier.
 <br/><br/>
-En 1973 : Watergate scandal: Televised hearings begin in the United States Senate.
+En 1948 : The First Legislative Yuan of the Republic of China officially convenes in Nanking.
 <br/><br/>
-En 1969 : Venera program: Soviet Venera 6 begins its descent into the atmosphere of Venus, sending back atmospheric data before being crushed by pressure.
+En 1944 : World War II: Battle of Monte Cassino: Conclusion after seven days of the fourth battle as German paratroopers evacuate Monte Cassino.
 <br/><br/>
-En 1967 : Six-Day War: President Gamal Abdel Nasser of Egypt demands dismantling of the peace-keeping UN Emergency Force in Egypt.
+En 1944 : Deportation of Crimean Tatars by the Soviet Union.
 <br/><br/>
-En 1954 : The United States Supreme Court hands down a unanimous decision in Brown v. Board of Education of Topeka, Kansas, outlawing racial segregation in public schools.
+En 1933 : New Deal: President Franklin D. Roosevelt signs an act creating the Tennessee Valley Authority.
 <br/><br/>
-En 1953 : Delta Air Lines Flight 318 crashes near Marshall, Texas, killing 19.
+En 1927 : The Bath School disaster: Forty-five people, including many children, are killed by bombs planted by a disgruntled school-board member in Bath Township, Michigan.
 <br/><br/>
-En 1943 : World War II: Dambuster Raids commence by No. 617 Squadron RAF.
+En 1927 : After being founded for 20 years, the Nationalist government approves Tongji University to be among the first national universities of the Republic of China.
 <br/><br/>
-En 1940 : World War II: Germany occupies Brussels, Belgium.
+En 1926 : Evangelist Aimee Semple McPherson disappears in Venice, California.
 <br/><br/>
-En 1939 : The Columbia Lions and the Princeton Tigers play in the United States' first televised sporting event, a collegiate baseball game in New York City.
+En 1922 : Seamus Woods leads an Irish Republican Army attack on the headquarters of the Royal Irish Constabulary in Belfast.
 <br/><br/>
-En 1937 : Spanish Civil War: The Largo Caballero government resigns in the wake of the Barcelona May Days, leading Juan Negrín to form a government, without the anarcho-syndicalist CNT, in its stead.
+En 1917 : World War I: The Selective Service Act of 1917 is passed, giving the President of the United States the power of conscription.
 <br/><br/>
-En 1933 : Vidkun Quisling and Johan Bernhard Hjort form Nasjonal Samling — the national-socialist party of Norway.
+En 1912 : The first Indian film, Shree Pundalik by Dadasaheb Torne, is released in Mumbai.
 <br/><br/>
-En 1915 : The last British Liberal Party government (led by H. H. Asquith) falls.
+En 1900 : The United Kingdom proclaims a protectorate over Tonga.
 <br/><br/>
-En 1914 : The Protocol of Corfu is signed, recognising full autonomy to Northern Epirus under nominal Albanian sovereignty.
+En 1896 : The United States Supreme Court rules in Plessy v. Ferguson that the "separate but equal" doctrine is constitutional.
 <br/><br/>
-En 1902 : Greek archaeologist Valerios Stais discovers the Antikythera mechanism, an ancient mechanical analog computer.
+En 1896 : Khodynka Tragedy: A mass panic on Khodynka Field in Moscow during the festivities of the coronation of Russian Tsar Nicholas II results in the deaths of 1,389 people.
 <br/><br/>
-En 1900 : The children's novel The Wonderful Wizard of Oz, by L. Frank Baum, is first published in the United States. The first copy is given to the author's sister.
+En 1863 : American Civil War: The Siege of Vicksburg begins.
 <br/><br/>
-En 1875 : Aristides wins the first Kentucky Derby with the jockey Oliver Lewis (2:37.75).
+En 1860 : United States presidential election: Abraham Lincoln wins the Republican Party presidential nomination over William H. Seward, who later becomes the United States Secretary of State.
 <br/><br/>
-En 1865 : The International Telegraph Union (later the International Telecommunication Union) is established in Paris.
+En 1848 : Opening of the first German National Assembly (Nationalversammlung) in Frankfurt, Germany.
 <br/><br/>
-En 1863 : Rosalía de Castro publishes Cantares Gallegos, the first book in the Galician language.
+En 1843 : The Disruption in Edinburgh of the Free Church of Scotland from the Church of Scotland.
 <br/><br/>
-En 1859 : Members of the Melbourne Football Club codified the first rules of Australian rules football.
+En 1812 : John Bellingham is found guilty and sentenced to death by hanging for the assassination of British Prime Minister Spencer Perceval.
 <br/><br/>
-En 1814 : Occupation of Monaco changes from French to Austrian.
+En 1811 : Battle of Las Piedras: The first great military triumph of the revolution of the Río de la Plata in Uruguay led by José Artigas.
 <br/><br/>
-En 1814 : The Constitution of Norway is signed and Crown Prince Christian Frederick of Denmark is elected King of Norway by the Norwegian Constituent Assembly.
+En 1804 : Napoleon Bonaparte is proclaimed Emperor of the French by the French Senate.
 <br/><br/>
-En 1809 : Emperor Napoleon I orders the annexation of the Papal States to the French Empire.
+En 1803 : Napoleonic Wars: The United Kingdom revokes the Treaty of Amiens and declares war on France.
 <br/><br/>
-En 1805 : Muhammad Ali becomes Wāli of Egypt.
+En 1794 : Battle of Tourcoing during the Flanders Campaign of the War of the First Coalition.
 <br/><br/>
-En 1792 : The New York Stock Exchange is formed under the Buttonwood Agreement.
+En 1783 : First United Empire Loyalists reach Parrtown (later called Saint John, New Brunswick), Canada, after leaving the United States.
 <br/><br/>
-En 1760 : French forces besieging Quebec retreat after the Royal Navy arrives to relieve the British garrison.
+En 1756 : The Seven Years' War begins when Great Britain declares war on France.
 <br/><br/>
-En 1756 : Seven Years' War formally begins when Great Britain declares war on France
+En 1695 : The 1695 Linfen earthquake in Shannxi, Qing dynasty causes extreme damage and kills at least 52,000 people.
 <br/><br/>
-En 1673 : Louis Jolliet and Jacques Marquette begin exploring the Mississippi River.
+En 1652 : Slavery in Rhode Island is abolished, although the law is not rigorously enforced.
 <br/><br/>
-En 1648 : Emperor Ferdinand III defeats Maximilian I of Bavaria in the Battle of Zusmarshausen.
+En 1631 : In Dorchester, Massachusetts, John Winthrop takes the oath of office and becomes the first Governor of Massachusetts.
 <br/><br/>
-En 1642 : Paul de Chomedey, Sieur de Maisonneuve founds the Ville Marie de Montréal.
+En 1593 : Playwright Thomas Kyd's accusations of heresy lead to an arrest warrant for Christopher Marlowe.
 <br/><br/>
-En 1590 : Anne of Denmark is crowned Queen of Scotland.
+En 1565 : The Great Siege of Malta begins, in which Ottoman forces attempt and fail to conquer Malta.
 <br/><br/>
-En 1536 : George Boleyn, 2nd Viscount Rochford and four other men are executed for treason.
+En 1499 : Alonso de Ojeda sets sail from Cádiz on his voyage to what is now Venezuela.
 <br/><br/>
-En 1536 : Henry VIII and Anne Boleyn's marriage is annulled.
+En 1388 : During the Battle of Buyur Lake, General Lan Yu leads a Ming army forward to crush the Mongol hordes of Tögüs Temür, the Khan of Northern Yuan.
 <br/><br/>
-En 1527 : Pánfilo de Narváez departs Spain to explore Florida with 600 men – by 1536 only four survive.
+En 1302 : Bruges Matins, the nocturnal massacre of the French garrison in Bruges by members of the local Flemish militia.
 <br/><br/>
-En 1521 : Edward Stafford, 3rd Duke of Buckingham, is executed for treason.
+En 1291 : Fall of Acre, the end of Crusader presence in the Holy Land.
 <br/><br/>
-En 1395 : Battle of Rovine: The Wallachians defeat an invading Ottoman army.
+En 1268 : The Principality of Antioch, a crusader state, falls to the Mamluk Sultan Baibars in the Siege of Antioch.
+<br/><br/>
+En 1152 : The future Henry II of England marries Eleanor of Aquitaine. He would become king two years later, after the death of his cousin once removed King Stephen of England.
+<br/><br/>
+En 1096 : First Crusade: Around 800 Jews are massacred in Worms, Germany.
+<br/><br/>
+En 872 : Louis II of Italy is crowned for the second time as Holy Roman Emperor at Rome, at the age of 47. His first coronation was 28 years earlier, in 844, during the reign of his father Lothair I.
+<br/><br/>
+En 332 : Emperor Constantine the Great announces free distributions of food to the citizens in Constantinople.
 <br/><br/>
