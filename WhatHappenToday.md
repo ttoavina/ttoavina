@@ -4,129 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 30/5 ?(Hover on the year)</h1>
+<h1> What happen this day 31/5 ?(Hover on the year)</h1>
 
-En 2020 : The Crew Dragon Demo-2 launches from the Kennedy Space Center, becoming the first crewed orbital spacecraft to launch from the United States since 2011 and the first commercial flight to the International Space Station.
+En 2019 : A shooting occurs inside a municipal building at Virginia Beach, Virginia, leaving 13 people dead, including the shooter, and four others injured.
 <br/><br/>
-En 2013 : Nigeria passes a law banning same-sex marriage.
+En 2017 : A car bomb explodes in a crowded intersection in Kabul near the German embassy during rush hour, killing over 90 and injuring 463.
 <br/><br/>
-En 2012 : Former Liberian president Charles Taylor is sentenced to 50 years in prison for his role in atrocities committed during the Sierra Leone Civil War.
+En 2016 : Syrian civil war: The Syrian Democratic Forces (SDF) launch the Manbij offensive, in order to capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
 <br/><br/>
-En 2008 : Convention on Cluster Munitions is adopted.
+En 2013 : The asteroid 1998 QE2 and its moon make their closest approach to Earth for the next two centuries.
 <br/><br/>
-En 2008 : TACA Flight 390 overshoots the runway at Toncontín International Airport in Tegucigalpa, Honduras and crashes, killing five people.
+En 2013 : A record breaking 2.6 mile wide tornado strikes near El Reno, Oklahoma, United States, causing eight fatalities (including three storm chasers) and over 150 injuries.
 <br/><br/>
-En 2003 : Depayin massacre: At least 70 people associated with the National League for Democracy are killed by government-sponsored mob in Burma. Aung San Suu Kyi flees the scene, but is arrested soon afterwards.
+En 2010 : Israeli Shayetet 13 commandos boarded the Gaza Freedom Flotilla while still in international waters trying to break the ongoing blockade of the Gaza Strip; nine Turkish citizens on the flotilla were killed in the ensuing violent affray.
 <br/><br/>
-En 1998 : The 6.5 Mw  Afghanistan earthquake shook the Takhar Province of northern Afghanistan with a maximum Mercalli intensity of VII (Very strong), killing around 4,000–4,500.
+En 2008 : Usain Bolt breaks the world record in the 100m sprint, with a wind-legal (+1.7 m/s) 9.72 seconds
 <br/><br/>
-En 1998 : Nuclear Testing: Pakistan conducts an underground test in the Kharan Desert. It is reported to be a plutonium device with yield of 20kt TNT equivalent.
+En 2005 : Vanity Fair reveals that Mark Felt was "Deep Throat".
 <br/><br/>
-En 1990 : Croatian Parliament is constituted after the first free, multi-party elections, today celebrated as the National Day of Croatia.
+En 2003 : Air France retires its fleet of Concorde aircraft.
 <br/><br/>
-En 1989 : Tiananmen Square protests of 1989: The 10-metre high "Goddess of Democracy" statue is unveiled in Tiananmen Square by student demonstrators.
+En 1991 : Bicesse Accords in Angola lay out a transition to multi-party democracy under the supervision of the United Nations' UNAVEM II peacekeeping mission.
 <br/><br/>
-En 1982 : Cold War: Spain joins NATO.
+En 1985 : United States–Canada tornado outbreak: Forty-one tornadoes hit Ohio, Pennsylvania, New York, and Ontario, leaving 76 dead.
 <br/><br/>
-En 1979 : Downeast Flight 46 crashes on approach to Knox County Regional Airport in Rockland, Maine, killing 17.
+En 1977 : The Trans-Alaska Pipeline System is completed.
 <br/><br/>
-En 1975 : European Space Agency is established.
+En 1973 : The United States Senate votes to cut off funding for the bombing of Khmer Rouge targets within Cambodia, hastening the end of the Cambodian Civil War.
 <br/><br/>
-En 1974 : The Airbus A300 passenger aircraft first enters service.
+En 1973 : Indian Airlines Flight 440 crashes near Palam Airport in Delhi, killing 48.
 <br/><br/>
-En 1972 : The Angry Brigade goes on trial over a series of 25 bombings throughout the United Kingdom.
+En 1971 : In accordance with the Uniform Monday Holiday Act passed by the U.S. Congress in 1968, observation of Memorial Day occurs on the last Monday in May for the first time, rather than on the traditional Memorial Day of May 30.
 <br/><br/>
-En 1972 : In Ben Gurion Airport (at the time: Lod Airport), Israel, members of the Japanese Red Army carry out the Lod Airport massacre, killing 24 people and injuring 78 others.
+En 1970 : The 7.9 Mw  Ancash earthquake shakes Peru with a maximum Mercalli intensity of VIII (Severe) and a landslide buries the town of Yungay, Peru. Between 66,794 and 70,000 were killed and 50,000 were injured.
 <br/><br/>
-En 1971 : Mariner program: Mariner 9 is launched to map 70% of the surface, and to study temporal changes in the atmosphere and surface, of Mars.
+En 1962 : The West Indies Federation dissolves.
 <br/><br/>
-En 1968 : Charles de Gaulle reappears publicly after his flight to Baden-Baden, West Germany, and dissolves the French National Assembly by a radio appeal. Immediately after, less than one million of his supporters march on the Champs-Élysées in Paris. This is the turning point of May 1968 events in France.
+En 1961 : The South African Constitution of 1961 becomes effective, thus creating the Republic of South Africa, which remains outside the Commonwealth of Nations until 1 June 1994, when South Africa is returned to Commonwealth membership.
 <br/><br/>
-En 1967 : The Nigerian Eastern Region declares independence as the Republic of Biafra, sparking a civil war.
+En 1961 : In Moscow City Court, the Rokotov–Faibishenko show trial begins, despite the Khrushchev Thaw to reverse Stalinist elements in Soviet society.
 <br/><br/>
-En 1966 : Former Congolese Prime Minister, Évariste Kimba, and several other politicians are publicly executed in Kinshasa on the orders of President Joseph Mobutu.
+En 1955 : The U.S. Supreme Court expands on its Brown v. Board of Education decision by ordering district courts and school districts to enforce educational desegregation "at all deliberate speed."
 <br/><br/>
-En 1963 : A protest against pro-Catholic discrimination during the Buddhist crisis is held outside South Vietnam's National Assembly, the first open demonstration during the eight-year presidency of Ngo Dinh Diem.
+En 1951 : The Uniform Code of Military Justice takes effect as the legal system of the United States Armed Forces.
 <br/><br/>
-En 1961 : The long-time Dominican dictator Rafael Trujillo is assassinated in Santo Domingo, Dominican Republic.
+En 1947 : Ferenc Nagy, the democratically elected Prime Minister of Hungary, resigns from office after blackmail from the Hungarian Communist Party accusing him of being part of a plot against the state. This grants the Communists effective control of the Hungarian government.
 <br/><br/>
-En 1961 : Viasa Flight 897 crashes after takeoff from Lisbon Airport, killing 61.
+En 1942 : World War II: Imperial Japanese Navy midget submarines begin a series of attacks on Sydney, Australia.
 <br/><br/>
-En 1959 : The Auckland Harbour Bridge, crossing the Waitemata Harbour in Auckland, New Zealand, is officially opened by Governor-General Charles Lyttelton, 10th Viscount Cobham.
+En 1941 : Anglo-Iraqi War: The United Kingdom completes the re-occupation of Iraq and returns 'Abd al-Ilah to power as regent for Faisal II.
 <br/><br/>
-En 1958 : Memorial Day: The remains of two unidentified American servicemen, killed in action during World War II and the Korean War respectively, are buried at the Tomb of the Unknown Soldier in Arlington National Cemetery.
+En 1935 : A 7.7 Mw  earthquake destroys Quetta in modern-day Pakistan killing 40,000.
 <br/><br/>
-En 1948 : A dike along the flooding Columbia River breaks, obliterating Vanport, Oregon within minutes. Fifteen people die and tens of thousands are left homeless.
+En 1924 : Hope Development School fire kills 24 people, mostly disabled children.
 <br/><br/>
-En 1943 : The Holocaust: Josef Mengele becomes chief medical officer of the Zigeunerfamilienlager (Romani family camp) at Auschwitz concentration camp.
+En 1921 : The Tulsa race massacre kills at least 39, but other estimates of black fatalities vary from 55 to about 300.
 <br/><br/>
-En 1942 : World War II: One thousand British bombers launch a 90-minute attack on Cologne, Germany.
+En 1916 : World War I: Battle of Jutland: The British Grand Fleet engages the High Seas Fleet in the largest naval battle of the war, which proves indecisive.
 <br/><br/>
-En 1941 : World War II: Manolis Glezos and Apostolos Santas climb the Athenian Acropolis and tear down the German flag.
+En 1911 : The RMS Titanic is launched in Belfast, Northern Ireland.
 <br/><br/>
-En 1937 : Memorial Day massacre: Chicago police shoot and kill ten labor demonstrators.
+En 1911 : The President of Mexico Porfirio Díaz flees the country during the Mexican Revolution.
 <br/><br/>
-En 1925 : May Thirtieth Movement: Shanghai Municipal Police Force shoot and kill 13 protesting workers.
+En 1910 : The South Africa Act comes into force, establishing the Union of South Africa.
 <br/><br/>
-En 1922 : The Lincoln Memorial is dedicated in Washington, D.C..
+En 1909 : The National Negro Committee, forerunner to the National Association for the Advancement of Colored People (NAACP), convenes for the first time.
 <br/><br/>
-En 1914 : The new, and then the largest, Cunard ocean liner RMS Aquitania, 45,647 tons, sets sails on her maiden voyage from Liverpool, England, to New York City.
+En 1902 : Second Boer War: The Treaty of Vereeniging ends the war and ensures British control of South Africa.
 <br/><br/>
-En 1913 : The Treaty of London is signed, ending the First Balkan War; Albania becomes an independent nation.
+En 1889 : Johnstown Flood: Over 2,200 people die after a dam fails and sends a 60-foot (18-meter) wall of water over the town of Johnstown, Pennsylvania.
 <br/><br/>
-En 1911 : At the Indianapolis Motor Speedway, the first Indianapolis 500 ends with Ray Harroun in his Marmon Wasp becoming the first winner of the 500-mile auto race.
+En 1884 : The arrival at Plymouth of Tāwhiao, King of Maoris, to claim the protection of Queen Victoria.
 <br/><br/>
-En 1899 : Pearl Hart, a female outlaw of the Old West, robs a stage coach 30 miles southeast of Globe, Arizona.
+En 1879 : Gilmore's Garden in New York City is renamed Madison Square Garden by William Henry Vanderbilt and is opened to the public at 26th Street and Madison Avenue.
 <br/><br/>
-En 1883 : In New York City, a stampede on the recently opened Brooklyn Bridge killed twelve people.
+En 1864 : American Civil War: Overland Campaign: Battle of Cold Harbor: The Army of Northern Virginia engages the Army of the Potomac.
 <br/><br/>
-En 1876 : Ottoman sultan Abdülaziz is deposed and succeeded by his nephew Murad V.
+En 1862 : American Civil War: Peninsula Campaign: Confederate forces under Joseph E. Johnston and G.W. Smith engage Union forces under George B. McClellan outside the Confederate capital of Richmond, Virginia.
 <br/><br/>
-En 1876 : The secret decree of Ems Ukaz, issued by Russian Tsar Alexander II in the German city of Bad Ems, was aimed at stopping the printing and distribution of Ukrainian-language publications in the Russian Empire.
+En 1859 : The clock tower at the Houses of Parliament, which houses Big Ben, starts keeping time.
 <br/><br/>
-En 1868 : Decoration Day (the predecessor of the modern "Memorial Day") is observed in the United States for the first time after a proclamation by John A. Logan, head of the Grand Army of the Republic (a veterans group).
+En 1813 : In Australia, William Lawson, Gregory Blaxland and William Wentworth reach Mount Blaxland, effectively marking the end of a route across the Blue Mountains.
 <br/><br/>
-En 1866 : Bedrich Smetana's comic opera The Bartered Bride premiered in Prague.
+En 1805 : French and Spanish forces begin the assault against British forces occupying Diamond Rock, Martinique.
 <br/><br/>
-En 1854 : The Kansas–Nebraska Act becomes law establishing the U.S. territories of Kansas and Nebraska.
+En 1795 : French Revolution: The Revolutionary Tribunal is suppressed.
 <br/><br/>
-En 1845 : The Fatel Razack coming from India, lands in the Gulf of Paria in Trinidad and Tobago carrying the first Indians to the country.
+En 1790 : Manuel Quimper explores the Strait of Juan de Fuca.
 <br/><br/>
-En 1842 : John Francis attempts to murder Queen Victoria as she drives down Constitution Hill in London with Prince Albert.
+En 1790 : The United States enacts its first copyright statute, the Copyright Act of 1790.
 <br/><br/>
-En 1834 : Minister of Justice Joaquim António de Aguiar issues a law seizing "all convents, monasteries, colleges, hospices and any other houses" from the Catholic religious orders in Portugal, earning him the nickname of "The Friar-Killer".
+En 1775 : American Revolution: The Mecklenburg Resolves are adopted in the Province of North Carolina.
 <br/><br/>
-En 1815 : The East Indiaman Arniston is wrecked during a storm at Waenhuiskrans, near Cape Agulhas, in present-day South Africa, with the loss of 372 lives.
+En 1669 : Citing poor eyesight as a reason, Samuel Pepys records the last event in his diary.
 <br/><br/>
-En 1814 : The First Treaty of Paris is signed, returning the French frontiers to their 1792 extent, and restoring the House of Bourbon to power.
+En 1610 : The pageant London's Love to Prince Henry on the River Thames celebrates the creation of Prince Henry as Prince of Wales.
 <br/><br/>
-En 1806 : Future U.S. President Andrew Jackson kills Charles Dickinson in a duel.
+En 1578 : King Henry III lays the first stone of the Pont Neuf (New Bridge), the oldest bridge of Paris, France.
 <br/><br/>
-En 1723 : Johann Sebastian Bach assumed the office of Thomaskantor in Leipzig, presenting his first new cantata, Die Elenden sollen essen, BWV 75, in the St. Nicholas Church on the first Sunday after Trinity.
+En 1293 : Mongol invasion of Java was a punitive expedition against King Kertanegara of Singhasari, who had refused to pay tribute to the Yuan and maimed one of its ministers. However, it ended with failure for the Mongols. Regarded as establish City of Surabaya
 <br/><br/>
-En 1642 : From this date all honors granted by Charles I of England are retroactively annulled by Parliament.
+En 1223 : Mongol invasion of the Cumans: Battle of the Kalka River: Mongol armies of Genghis Khan led by Subutai defeat Kievan Rus' and Cumans.
 <br/><br/>
-En 1635 : Thirty Years' War: The Peace of Prague is signed.
-<br/><br/>
-En 1631 : Publication of Gazette de France, the first French newspaper.
-<br/><br/>
-En 1588 : The last ship of the Spanish Armada sets sail from Lisbon heading for the English Channel.
-<br/><br/>
-En 1574 : Henry III becomes King of France.
-<br/><br/>
-En 1539 : In Florida, Hernando de Soto lands at Tampa Bay with 600 soldiers with the goal of finding gold.
-<br/><br/>
-En 1536 : King Henry VIII of England marries Jane Seymour, a lady-in-waiting to his first two wives.
-<br/><br/>
-En 1510 : During the reign of the Zhengde Emperor, Ming dynasty rebel leader Zhu Zhifan is defeated by commander Qiu Yue, ending the Prince of Anhua rebellion.
-<br/><br/>
-En 1434 : Hussite Wars: Battle of Lipany: Effectively ending the war, Utraquist forces led by Diviš Bořek of Miletínek defeat and almost annihilate Taborite forces led by Prokop the Great.
-<br/><br/>
-En 1431 : Hundred Years' War: In Rouen, France, the 19-year-old Joan of Arc is burned at the stake by an English-dominated tribunal.
-<br/><br/>
-En 1416 : The Council of Constance, called by Emperor Sigismund, a supporter of Antipope John XXIII, burns Jerome of Prague following a trial for heresy.
-<br/><br/>
-En 1381 : Beginning of the Peasants' Revolt in England.
-<br/><br/>
-En 70 : Siege of Jerusalem: Titus and his Roman legions breach the Second Wall of Jerusalem. Jewish defenders retreat to the First Wall. The Romans build a circumvallation, cutting down all trees within fifteen kilometres (9.3 mi).
+En 455 : Emperor Petronius Maximus is stoned to death by an angry mob while fleeing Rome.
 <br/><br/>
