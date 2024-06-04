@@ -4,105 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 3/6 ?(Hover on the year)</h1>
+<h1> What happen this day 4/6 ?(Hover on the year)</h1>
 
-En 2019 : Khartoum massacre: In Sudan, over 100 people are killed when security forces accompanied by Janjaweed militiamen storm and open fire on a sit-in protest.
+En 2023 : Protests begin in Poland against the Duda government.
 <br/><br/>
-En 2017 : London Bridge attack: Eight people are murdered and dozens of civilians are wounded by Islamist terrorists. Three of the attackers are shot dead by the police.
+En 2023 : Four people are killed when a Cessna Citation V crashes into Mine Bank Mountain in Augusta County, Virginia.
 <br/><br/>
-En 2015 : An explosion at a gasoline station in Accra, Ghana, kills more than 200 people.
+En 2010 : Falcon 9 Flight 1 is the maiden flight of the SpaceX Falcon 9 rocket, which launches from Cape Canaveral Air Force Station Space Launch Complex 40.
 <br/><br/>
-En 2013 : The trial of United States Army private Chelsea Manning for leaking classified material to WikiLeaks begins in Fort Meade, Maryland.
+En 2005 : The Civic Forum of the Romanians of Covasna, Harghita and Mureș is founded.
 <br/><br/>
-En 2013 : At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China.
+En 1998 : Terry Nichols is sentenced to life in prison for his role in the Oklahoma City bombing.
 <br/><br/>
-En 2012 : A plane carrying 153 people on board crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board and six people on the ground.
+En 1996 : The first flight of Ariane 5 explodes after roughly 37 seconds. It was a Cluster mission.
 <br/><br/>
-En 2012 : The pageant for the Diamond Jubilee of Elizabeth II takes place on the River Thames.
+En 1989 : In the 1989 Iranian Supreme Leader election, Ali Khamenei is elected as the new Supreme Leader of Iran after the death and funeral of Ruhollah Khomeini.
 <br/><br/>
-En 2006 : The union of Serbia and Montenegro comes to an end with Montenegro's formal declaration of independence.
+En 1989 : The Tiananmen Square protests and massacre are suppressed in Beijing by the People's Liberation Army, with between 241 and 10,000 dead (an unofficial estimate).
 <br/><br/>
-En 1998 : After suffering a mechanical failure, a high speed train derails at Eschede, Germany, killing 101 people.
+En 1989 : Solidarity's victory in the 1989 Polish legislative election, the first election since the Communist Polish United Workers Party abandoned its monopoly of power. It sparks off the Revolutions of 1989 in Eastern Europe.
 <br/><br/>
-En 1992 : Australian Aboriginal land rights are recognised in Mabo v Queensland (No 2), a case brought by Torres Strait Islander Eddie Mabo which led to the Native Title Act 1993  overturning the long-held colonial assumption of terra nullius.
+En 1989 : Ufa train disaster: A natural gas explosion near Ufa, Russia, kills 575 as two trains passing each other throw sparks near a leaky pipeline.
 <br/><br/>
-En 1991 : Mount Unzen erupts in Kyūshū, Japan, killing 43 people, all of them either researchers or journalists.
+En 1988 : Three cars on a train carrying hexogen to Kazakhstan explode in Arzamas, Gorky Oblast, USSR, killing 91 and injuring about 1,500.
 <br/><br/>
-En 1989 : The government of China sends troops to force protesters out of Tiananmen Square after seven weeks of occupation.
+En 1986 : Jonathan Pollard pleads guilty to espionage for selling top secret United States military intelligence to Israel.
 <br/><br/>
-En 1984 : Operation Blue Star, a military offensive, is launched by the Indian government at Harmandir Sahib, also known as the Golden Temple, the holiest shrine for Sikhs, in Amritsar. The operation continues until June 6, with casualties, most of them civilians, in excess of 5,000.
+En 1983 : Gordon Kahl, who killed two US Marshals in Medina, North Dakota on February 13, is killed in a shootout in Smithville, Arkansas, along with a local sheriff, after a four-month manhunt.
 <br/><br/>
-En 1982 : The Israeli ambassador to the United Kingdom, Shlomo Argov, is shot on a London street; he survives but is left paralysed.
+En 1979 : Flight Lieutenant Jerry Rawlings takes power in Ghana after a military coup in which General Fred Akuffo is overthrown.
 <br/><br/>
-En 1980 : An explosive device is detonated at the Statue of Liberty. The FBI suspects Croatian nationalists.
+En 1977 : JVC introduces its VHS videotape at the Consumer Electronics Show in Chicago. It will eventually prevail against Sony's rival Betamax system in a format war to become the predominant home video medium.
 <br/><br/>
-En 1980 : The 1980 Grand Island tornado outbreak hits Nebraska, causing five deaths and $300 million (equivalent to $1109 million in 2023) worth of damage.
+En 1975 : The Governor of California Jerry Brown signs the California Agricultural Labor Relations Act into law, the first law in the United States giving farmworkers collective bargaining rights.
 <br/><br/>
-En 1979 : A blowout at the Ixtoc I oil well in the southern Gulf of Mexico causes at least 3,000,000 barrels (480,000 m3) of oil to be spilled into the waters, the second-worst accidental oil spill ever recorded.
+En 1970 : Tonga gains independence from the British Empire.
 <br/><br/>
-En 1973 : A Soviet supersonic Tupolev Tu-144 crashes near Goussainville, France, killing 14, the first crash of a supersonic passenger aircraft.
+En 1967 : Seventy-two people are killed when a Canadair C-4 Argonaut crashes at Stockport in England.
 <br/><br/>
-En 1969 : Melbourne–Evans collision: off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half; resulting in 74 deaths.
+En 1961 : Cold War: In the Vienna summit, the Soviet premier Nikita Khrushchev sparks the Berlin Crisis by threatening to sign a separate peace treaty with East Germany and ending American, British and French access to East Berlin.
 <br/><br/>
-En 1965 : The launch of Gemini 4, the first multi-day space mission by a NASA crew. Ed White, a crew member, performs the first American spacewalk.
+En 1944 : World War II: A hunter-killer group of the United States Navy captures the German Kriegsmarine submarine U-505: The first time a U.S. Navy vessel had captured an enemy vessel at sea since the 19th century.
 <br/><br/>
-En 1963 : Soldiers of the South Vietnamese Army attack protesting Buddhists in Huế with liquid chemicals from tear-gas grenades, causing 67 people to be hospitalized for blistering of the skin and respiratory ailments.
+En 1944 : World War II: The United States Fifth Army captures Rome, although much of the German Fourteenth Army is able to withdraw to the north.
 <br/><br/>
-En 1962 : At Paris Orly Airport, Air France Flight 007 overruns the runway and explodes when the crew attempts to abort takeoff, killing 130.
+En 1943 : A military coup in Argentina ousts Ramón Castillo.
 <br/><br/>
-En 1950 : Herzog and Lachenal of the French Annapurna expedition become the first climbers to reach the summit of an 8,000-metre peak.
+En 1942 : World War II: The Battle of Midway begins. The Japanese Admiral Chūichi Nagumo orders a strike on Midway Island by much of the Imperial Japanese Navy.
 <br/><br/>
-En 1943 : In Los Angeles, California, white U.S. Navy sailors and Marines attack Latino youths in the five-day Zoot Suit Riots.
+En 1942 : World War II: Gustaf Mannerheim, the Commander-in-Chief of the Finnish Army, is granted the title of Marshal of Finland by the government on his 75th birthday. On the same day, Adolf Hitler arrives in Finland for a surprise visit to meet Mannerheim.
 <br/><br/>
-En 1942 : World War II: Japan begins the Aleutian Islands Campaign by bombing Unalaska Island.
+En 1940 : World War II: The Dunkirk evacuation ends: the British Armed Forces completes evacuation of 338,000 troops from Dunkirk in France. To rally the morale of the country, Winston Churchill delivers, only to the House of Commons, his famous "We shall fight on the beaches" speech.
 <br/><br/>
-En 1941 : World War II: The Wehrmacht razes the Greek village of Kandanos to the ground and murders 180 of its inhabitants.
+En 1939 : The Holocaust: The MS St. Louis, a ship carrying 963 German Jewish refugees, is denied permission to land in Florida, in the United States, after already being turned away from Cuba. Forced to return to Europe, more than 200 of its passengers later die in Nazi concentration camps.
 <br/><br/>
-En 1940 : World War II: The Luftwaffe bombs Paris.
+En 1932 : Marmaduke Grove and other Chilean military officers lead a coup d'état establishing the short-lived Socialist Republic of Chile.
 <br/><br/>
-En 1940 : Franz Rademacher proposes plans to make Madagascar the "Jewish homeland", an idea that had first been considered by 19th century journalist Theodor Herzl.
+En 1928 : The President of the Republic of China, Zhang Zuolin, is assassinated by Japanese agents.
 <br/><br/>
-En 1937 : The Duke of Windsor marries Wallis Simpson.
+En 1920 : Hungary loses 71% of its territory and 63% of its population when the Treaty of Trianon is signed in Paris.
 <br/><br/>
-En 1935 : One thousand unemployed Canadian workers board freight cars in Vancouver, beginning a protest trek to Ottawa.
+En 1919 : Women's rights: The U.S. Congress approves the 19th Amendment to the United States Constitution, which guarantees suffrage to women, and sends it to the U.S. states for ratification.
 <br/><br/>
-En 1916 : The National Defense Act is signed into law, increasing the size of the United States National Guard by 450,000 men.
+En 1919 : Leon Trotsky bans the Planned Fourth Regional Congress of Peasants, Workers and Insurgents.
 <br/><br/>
-En 1889 : The first long-distance electric power transmission line in the United States is completed, running 14 miles (23 km) between a generator at Willamette Falls and downtown Portland, Oregon.
+En 1917 : The first Pulitzer Prizes are awarded: Laura E. Richards, Maude H. Elliott, and Florence Hall receive the first Pulitzer for biography (for Julia Ward Howe). Jean Jules Jusserand receives the first Pulitzer for history for his work With Americans of Past and Present Days. Herbert B. Swope receives the first Pulitzer for journalism for his work for the New York World.
 <br/><br/>
-En 1885 : In the last military engagement fought on Canadian soil, the Cree leader, Big Bear, escapes the North-West Mounted Police.
+En 1916 : World War I: Russia opens the Brusilov Offensive with an artillery barrage of Austro-Hungarian lines in Galicia.
 <br/><br/>
-En 1866 : The Fenians are driven out of Fort Erie, Ontario back into the United States.
+En 1913 : Emily Davison, a suffragette, runs out in front of King George V's horse at The Derby. She is trampled, never regains consciousness, and dies four days later.
 <br/><br/>
-En 1864 : American Civil War: Battle of Cold Harbor: Union forces attack Confederate troops in Hanover County, Virginia.
+En 1912 : Massachusetts becomes the first state of the United States to set a minimum wage.
 <br/><br/>
-En 1861 : American Civil War: Battle of Philippi (also called the Philippi Races): Union forces rout Confederate troops in Barbour County, Virginia, now West Virginia.
+En 1896 : Henry Ford completes the Ford Quadricycle, his first gasoline-powered automobile, and gives it a successful test run.
 <br/><br/>
-En 1844 : The last pair of great auks is killed.
+En 1878 : Cyprus Convention: The Ottoman Empire cedes Cyprus to the United Kingdom but retains nominal title.
 <br/><br/>
-En 1839 : In Humen, China, Lin Zexu destroys 1.2 million kilograms of opium confiscated from British merchants, providing Britain with a casus belli to open hostilities, resulting in the First Opium War.
+En 1876 : An express train called the Transcontinental Express arrives in San Francisco, via the First transcontinental railroad only 83 hours and 39 minutes after leaving New York City.
 <br/><br/>
-En 1781 : Jack Jouett begins his midnight ride to warn Thomas Jefferson and the Virginia legislature of an impending British raid.
+En 1862 : American Civil War: Confederate troops evacuate Fort Pillow on the Mississippi River, leaving the way clear for Union troops to take Memphis, Tennessee.
 <br/><br/>
-En 1665 : James Stuart, Duke of York (later to become King James II of England), defeats the Dutch fleet off the coast of Lowestoft.
+En 1859 : Italian Independence wars: In the Battle of Magenta, the French army, under Louis-Napoleon, defeat the Austrian army.
 <br/><br/>
-En 1658 : Pope Alexander VII appoints François de Laval vicar apostolic in New France.
+En 1855 : Major Henry C. Wayne departs New York aboard the USS Supply to procure camels to establish the U.S. Camel Corps.
 <br/><br/>
-En 1621 : The Dutch West India Company receives a charter for New Netherland.
+En 1825 : General Lafayette, a French officer in the American Revolutionary War, speaks at what would become Lafayette Square in Buffalo, New York, during his visit to the United States.
 <br/><br/>
-En 1608 : Samuel de Champlain lands at Tadoussac, Quebec, in the course of his third voyage to New France, and begins erecting fortifications.
+En 1812 : Following Louisiana's admittance as a U.S. state, the Louisiana Territory is renamed the Missouri Territory.
 <br/><br/>
-En 1602 : An English naval force defeats a fleet of Spanish galleys, and captures a large Portuguese carrack at the Battle of Sesimbra Bay
+En 1802 : King Charles Emmanuel IV of Sardinia abdicates his throne in favor of his brother, Victor Emmanuel.
 <br/><br/>
-En 1539 : Hernando de Soto claims Florida for Spain.
+En 1792 : Captain George Vancouver claims Puget Sound for the Kingdom of Great Britain.
 <br/><br/>
-En 1326 : The Treaty of Novgorod delineates borders between Russia and Norway in Finnmark.
+En 1784 : Élisabeth Thible becomes the first woman to fly in an untethered hot air balloon. Her flight covers four kilometres (2.5 mi) in 45 minutes, and reached 1,500 metres (4,900 ft) altitude (estimated).
 <br/><br/>
-En 1140 : The French scholar Peter Abelard is found guilty of heresy.
+En 1783 : The Montgolfier brothers publicly demonstrate their montgolfière (hot air balloon).
 <br/><br/>
-En 1098 : After a five-month siege during the First Crusade, the Crusaders seize Antioch (today's Turkey).
+En 1760 : Great Upheaval: New England planters arrive to claim land in Nova Scotia, Canada, taken from the Acadians.
 <br/><br/>
-En 713 : The Byzantine emperor Philippicus is blinded, deposed and sent into exile by conspirators of the Opsikion army in Thrace. He is succeeded by Anastasios II, who begins the reorganization of the Byzantine army.
+En 1745 : Battle of Hohenfriedberg: Frederick the Great's Prussian army decisively defeated an Austrian army under Prince Charles Alexander of Lorraine during the War of the Austrian Succession.
 <br/><br/>
-En 350 : The Roman usurper Nepotianus, of the Constantinian dynasty, proclaims himself Roman emperor, entering Rome at the head of a group of gladiators.
+En 1615 : Siege of Osaka: Forces under Tokugawa Ieyasu take Osaka Castle in Japan.
+<br/><br/>
+En 1561 : The steeple of St Paul's, the medieval cathedral of London, is destroyed in a fire caused by lightning and is never rebuilt.
+<br/><br/>
+En 1411 : King Charles VI granted a monopoly for the ripening of Roquefort cheese to the people of Roquefort-sur-Soulzon as they had been doing for centuries.
 <br/><br/>
