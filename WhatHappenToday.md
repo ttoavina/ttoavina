@@ -4,89 +4,133 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 9/6 ?(Hover on the year)</h1>
+<h1> What happen this day 10/6 ?(Hover on the year)</h1>
 
-En 2010 : At least 40 people are killed and more than 70 wounded in a suicide bombing at a wedding party in Arghandab, Kandahar.
+En 2019 : An Agusta A109E Power crashes onto the AXA Equitable Center on Seventh Avenue in Manhattan, New York City, sparking a fire on the top of the building. The pilot of the helicopter is killed.
 <br/><br/>
-En 2009 : An explosion kills 17 people and injures at least 46 at a hotel in Peshawar, Pakistan.
+En 2018 : Opportunity rover, sends it last message back to earth. The mission was finally declared over on February 13, 2019.
 <br/><br/>
-En 2008 : Two bombs explode at a train station near Algiers, Algeria, killing at least 13 people.
+En 2009 : Eighty-eight year-old James Wenneker von Brunn opens fire inside the United States Holocaust Memorial Museum and fatally shoots Museum Special Police Officer Stephen Tyrone Johns. Other security guards returned fire, wounding von Brunn, who was apprehended.
 <br/><br/>
-En 1999 : Kosovo War: The Federal Republic of Yugoslavia and NATO sign a peace treaty.
+En 2008 : Sudan Airways Flight 109 crashes at Khartoum International Airport, killing 30 people.
 <br/><br/>
-En 1995 : Ansett New Zealand Flight 703 crashes into the Tararua Range during approach to Palmerston North Airport on the North Island of New Zealand, killing four.
+En 2003 : The Spirit rover is launched, beginning NASA's Mars Exploration Rover mission.
 <br/><br/>
-En 1979 : The Ghost Train fire at Luna Park Sydney, Australia, kills seven.
+En 2002 : The first direct electronic communication experiment between the nervous systems of two humans is carried out by Kevin Warwick in the United Kingdom.
 <br/><br/>
-En 1978 : The Church of Jesus Christ of Latter-day Saints opens its priesthood to "all worthy men", ending a 148-year-old policy of excluding black men.
+En 2001 : Pope John Paul II canonizes Lebanon's first female saint, Saint Rafqa.
 <br/><br/>
-En 1973 : In horse racing, Secretariat wins the U.S. Triple Crown.
+En 1999 : Kosovo War: NATO suspends its airstrikes after Slobodan Milošević agrees to withdraw Serbian forces from Kosovo.
 <br/><br/>
-En 1972 : Severe rainfall causes a dam in the Black Hills of South Dakota to burst, creating a flood that kills 238 people and causes $160 million in damage.
+En 1997 : Before fleeing his northern stronghold, Khmer Rouge leader Pol Pot orders the killing of his defense chief Son Sen and 11 of Sen's family members.
 <br/><br/>
-En 1968 : U.S. President Lyndon B. Johnson declares a national day of mourning following the assassination of Senator Robert F. Kennedy.
+En 1996 : Peace talks begin in Northern Ireland without the participation of Sinn Féin.
 <br/><br/>
-En 1967 : Six-Day War: Israel captures the Golan Heights from Syria.
+En 1994 : China conducts a nuclear test for DF-31 warhead at Area C (Beishan), Lop Nur, its prominence being due to the Cox Report.
 <br/><br/>
-En 1965 : The civilian Prime Minister of South Vietnam, Phan Huy Quát, resigns after being unable to work with a junta led by Nguyễn Cao Kỳ.
+En 1991 : Eleven-year-old Jaycee Lee Dugard is kidnapped in South Lake Tahoe, California; she would remain a captive until 2009.
 <br/><br/>
-En 1965 : Vietnam War: The Viet Cong commences combat with the Army of the Republic of Vietnam in the Battle of Đồng Xoài, one of the largest battles in the war.
+En 1990 : British Airways Flight 5390 lands safely at Southampton Airport after a blowout in the cockpit causes the captain to be partially sucked from the cockpit. There are no fatalities.
 <br/><br/>
-En 1959 : The USS George Washington is launched. It is the first nuclear-powered ballistic missile submarine.
+En 1987 : June Democratic Struggle: The June Democratic Struggle starts in South Korea, and people protest against the government.
 <br/><br/>
-En 1957 : First ascent of Broad Peak by Fritz Wintersteller, Marcus Schmuck, Kurt Diemberger, and Hermann Buhl.
+En 1982 : Lebanon War: The Syrian Arab Army defeats the Israeli Defense Forces in the Battle of Sultan Yacoub.
 <br/><br/>
-En 1954 : Joseph N. Welch, special counsel for the United States Army, lashes out at Senator Joseph McCarthy during the Army–McCarthy hearings, giving McCarthy the famous rebuke, "You've done enough. Have you no sense of decency, sir, at long last? Have you left no sense of decency?"
+En 1980 : The African National Congress in South Africa publishes a call to fight from their imprisoned leader Nelson Mandela.
 <br/><br/>
-En 1953 : The Flint–Worcester tornado outbreak sequence kills 94 people in Massachusetts.
+En 1977 : James Earl Ray escapes from Brushy Mountain State Penitentiary in Petros, Tennessee. He is recaptured three days later.
 <br/><br/>
-En 1948 : Foundation of the International Council on Archives under the auspices of the UNESCO.
+En 1967 : The Six-Day War ends: Israel and Syria agree to a cease-fire.
 <br/><br/>
-En 1944 : World War II: Ninety-nine civilians are hanged from lampposts and balconies by German troops in Tulle, France, in reprisal for maquisards attacks.
+En 1964 : United States Senate breaks a 75-day filibuster against the Civil Rights Act of 1964, leading to the bill's passage.
 <br/><br/>
-En 1944 : World War II: The Soviet Union invades East Karelia and the previously Finnish part of Karelia, occupied by Finland since 1941.
+En 1963 : The Equal Pay Act of 1963, aimed at abolishing wage disparity based on sex, was signed into law by John F. Kennedy as part of his New Frontier Program.
 <br/><br/>
-En 1930 : A Chicago Tribune reporter, Jake Lingle, is killed during rush hour at the Illinois Central train station by Leo Vincent Brothers, allegedly over a $100,000 gambling debt owed to Al Capone.
+En 1960 : Trans Australia Airlines Flight 538 crashes near Mackay Airport in Mackay, Queensland, Australia, killing 29.
 <br/><br/>
-En 1928 : Charles Kingsford Smith completes the first trans-Pacific flight in a Fokker Trimotor monoplane, the Southern Cross.
+En 1957 : John Diefenbaker leads the Progressive Conservative Party of Canada to a stunning upset in the 1957 Canadian federal election, ending 22 years of Liberal Party government.
 <br/><br/>
-En 1923 : Bulgaria's military takes over the government in a coup.
+En 1947 : Saab produces its first automobile.
 <br/><br/>
-En 1922 : Åland's Regional Assembly convened for its first plenary session in Mariehamn, Åland; today, the day is celebrated as Self-Government Day of Åland.
+En 1945 : Australian Imperial Forces land in Brunei Bay to liberate Brunei.
 <br/><br/>
-En 1915 : William Jennings Bryan resigns as Woodrow Wilson's Secretary of State over a disagreement regarding the United States' handling of the sinking of the RMS Lusitania.
+En 1944 : World War II: Six hundred forty-two men, women and children massacred at Oradour-sur-Glane, France.
 <br/><br/>
-En 1900 : Indian nationalist Birsa Munda dies of cholera in a British prison.
+En 1944 : World War II: In Distomo, Boeotia, Greece, 218 men, women and children are massacred by German troops.
 <br/><br/>
-En 1885 : Treaty of Tientsin is signed to end the Sino-French War, with China eventually giving up Tonkin and Annam – most of present-day Vietnam – to France.
+En 1944 : In baseball, 15-year-old Joe Nuxhall of the Cincinnati Reds becomes the youngest player ever in a major-league game.
 <br/><br/>
-En 1863 : American Civil War: The Battle of Brandy Station in Virginia, the largest cavalry battle on American soil, ends Confederate cavalry dominance in the eastern theater.
+En 1942 : World War II: The Lidice massacre is perpetrated as a reprisal for the assassination of Obergruppenführer Reinhard Heydrich.
 <br/><br/>
-En 1862 : American Civil War: Stonewall Jackson concludes his successful Shenandoah Valley Campaign with a victory in the Battle of Port Republic; his tactics during the campaign are now studied by militaries around the world.
+En 1940 : World War II: Fascist Italy declares war on France and the United Kingdom, beginning an invasion of southern France.
 <br/><br/>
-En 1856 : Five hundred Mormons leave Iowa City, Iowa for the Mormon Trail.
+En 1940 : World War II: U.S. President Franklin D. Roosevelt denounces Italy's actions in his "Stab in the Back" speech at the graduation ceremonies of the University of Virginia.
 <br/><br/>
-En 1815 : End of the Congress of Vienna: The new European political situation is set.
+En 1940 : World War II: Military resistance to the German occupation of Norway ends.
 <br/><br/>
-En 1798 : Irish Rebellion of 1798: Battles of Arklow and Saintfield.
+En 1935 : Dr. Robert Smith takes his last drink, and Alcoholics Anonymous is founded in Akron, Ohio, United States, by him and Bill Wilson.
 <br/><br/>
-En 1772 : The British schooner Gaspee is burned in Narragansett Bay, Rhode Island.
+En 1935 : Chaco War ends: A truce is called between Bolivia and Paraguay who had been fighting since 1932.
 <br/><br/>
-En 1732 : James Oglethorpe is granted a royal charter for the colony of the future U.S. state of Georgia.
+En 1924 : Fascists kidnap and kill Italian Socialist leader Giacomo Matteotti in Rome.
 <br/><br/>
-En 1534 : Jacques Cartier is the first European to describe and map the Saint Lawrence River.
+En 1918 : The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel.
 <br/><br/>
-En 1523 : The Parisian Faculty of Theology fines Simon de Colines for publishing the Biblical commentary Commentarii initiatorii in quatuor Evangelia by Jacques Lefèvre d'Étaples.
+En 1916 : The Arab Revolt against the Ottoman Empire was declared by Hussein bin Ali, Sharif of Mecca.
 <br/><br/>
-En 1311 : Duccio's Maestà, a seminal artwork of the early Italian Renaissance, is unveiled and installed in Siena Cathedral in Siena, Italy.
+En 1898 : Spanish–American War: In the Battle of Guantánamo Bay, U.S. Marines begin the American invasion of Spanish-held Cuba.
 <br/><br/>
-En 747 : Abbasid Revolution: Abu Muslim Khorasani begins an open revolt against Umayyad rule, which is carried out under the sign of the Black Standard.
+En 1886 : Mount Tarawera in New Zealand erupts, killing 153 people and burying the famous Pink and White Terraces. Eruptions continue for three months creating a large, 17 km (11 mi) long fissure across the mountain peak.
 <br/><br/>
-En 721 : Odo of Aquitaine defeats the Moors in the Battle of Toulouse.
+En 1878 : League of Prizren is established, to oppose the decisions of the Congress of Berlin and the Treaty of San Stefano, as a consequence of which the Albanian lands in the Balkans were being partitioned and given to the neighbor states of Serbia, Montenegro, Bulgaria, and Greece.
 <br/><br/>
-En 68 : Nero dies by suicide after quoting Vergil's Aeneid, thus ending the Julio-Claudian dynasty and starting the civil war known as the Year of the Four Emperors.
+En 1871 : Sinmiyangyo: Captain McLane Tilton leads 109 US Marines in a naval attack on Han River forts on Kanghwa Island, Korea.
 <br/><br/>
-En 53 : The Roman emperor Nero marries Claudia Octavia.
+En 1868 : Mihailo Obrenović III, Prince of Serbia is assassinated.
 <br/><br/>
-En -411 : The Athenian coup succeeds, forming a short-lived oligarchy.
+En 1864 : American Civil War: Battle of Brice's Crossroads: Confederate troops under Nathan Bedford Forrest defeat a much larger Union force led by General Samuel D. Sturgis in Mississippi.
+<br/><br/>
+En 1863 : During the French intervention in Mexico, Mexico City is captured by French troops.
+<br/><br/>
+En 1861 : American Civil War: Battle of Big Bethel: Confederate troops under John B. Magruder defeat a much larger Union force led by General Ebenezer W. Pierce in Virginia.
+<br/><br/>
+En 1854 : The United States Naval Academy graduates its first class of students.
+<br/><br/>
+En 1838 : Myall Creek massacre: Twenty-eight Aboriginal Australians are murdered.
+<br/><br/>
+En 1829 : The first Boat Race between the University of Oxford and the University of Cambridge takes place on the Thames in London.
+<br/><br/>
+En 1805 : First Barbary War: Yusuf Karamanli signs a treaty ending the hostilities between Tripolitania and the United States.
+<br/><br/>
+En 1793 : The Jardin des Plantes museum opens in Paris. A year later, it becomes the first public zoo.
+<br/><br/>
+En 1793 : French Revolution: Following the arrests of Girondin leaders, the Jacobins gain control of the Committee of Public Safety installing the revolutionary dictatorship.
+<br/><br/>
+En 1786 : A landslide dam on the Dadu River created by an earthquake ten days earlier collapses, killing 100,000 in the Sichuan province of China.
+<br/><br/>
+En 1782 : King Buddha Yodfa Chulaloke (Rama I) of Siam (modern day Thailand) is crowned.
+<br/><br/>
+En 1719 : Jacobite risings: Battle of Glen Shiel.
+<br/><br/>
+En 1692 : Salem witch trials: Bridget Bishop is hanged at Gallows Hill near Salem, Massachusetts, for "certaine Detestable Arts called Witchcraft and Sorceries".
+<br/><br/>
+En 1624 : Signing of the Treaty of Compiègne between France and the Netherlands.
+<br/><br/>
+En 1619 : Thirty Years' War: Battle of Záblatí, a turning point in the Bohemian Revolt.
+<br/><br/>
+En 1596 : Willem Barents and Jacob van Heemskerk discover Bear Island.
+<br/><br/>
+En 1539 : Council of Trent: Pope Paul III sends out letters to his bishops, delaying the Council due to war and the difficulty bishops had traveling to Venice.
+<br/><br/>
+En 1523 : Copenhagen is surrounded by the army of Frederick I of Denmark, as the city will not recognise him as the successor of Christian II of Denmark.
+<br/><br/>
+En 1358 : Battle of Mello: The peasant forces of the Jacquerie are crushed by the army of the French nobility.
+<br/><br/>
+En 1329 : The Battle of Pelekanon is the last attempt of the Byzantine Empire to retain its cities in Asia Minor.
+<br/><br/>
+En 1225 : Pope Honorius III issues the bull Vineae Domini custodes in which he approves the mission of Dominican friars to Morocco.
+<br/><br/>
+En 1190 : Third Crusade: Frederick I Barbarossa drowns in the river Saleph while leading an army to Jerusalem.
+<br/><br/>
+En 671 : Emperor Tenji of Japan introduces a water clock (clepsydra) called Rokoku. The instrument, which measures time and indicates hours, is placed in the capital of Ōtsu.
 <br/><br/>
