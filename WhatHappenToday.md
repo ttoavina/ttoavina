@@ -4,109 +4,95 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 18/6 ?(Hover on the year)</h1>
+<h1> What happen this day 19/6 ?(Hover on the year)</h1>
 
-En 2023 : Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including the co-founder and CEO of the company, Stockton Rush in the North Atlantic Ocean.
+En 2020 : Animal rights advocate Regan Russell was run over and killed by a transport truck outside of a pig slaughterhouse in Burlington, Ontario.
 <br/><br/>
-En 2018 : An earthquake of magnitude 6.1 strikes northern Osaka.
+En 2018 : The 10,000,000th United States Patent is issued.
 <br/><br/>
-En 2009 : The Lunar Reconnaissance Orbiter (LRO), a NASA robotic spacecraft is launched.
+En 2018 : Antwon Rose II was fatally shot in East Pittsburgh by East Pittsburgh Police Officer Michael Rosfeld after being involved in a near-fatal drive-by shooting.
 <br/><br/>
-En 2007 : The Charleston Sofa Super Store fire happened in Charleston, South Carolina, killing nine firefighters.
+En 2012 : WikiLeaks founder Julian Assange requested asylum in London's Ecuadorian Embassy for fear of extradition to the US after publication of previously classified documents including footage of civilian killings by the US army.
 <br/><br/>
-En 2006 : The first Kazakh space satellite, KazSat-1 is launched.
+En 2009 : Mass riots involving over 10,000 people and 10,000 police officers break out in Shishou, China, over the dubious circumstances surrounding the death of a local chef.
 <br/><br/>
-En 1998 : Propair Flight 420 crashes near Montréal–Mirabel International Airport in Quebec, Canada, killing 11.
+En 2009 : War in North-West Pakistan: The Pakistani Armed Forces open Operation Rah-e-Nijat against the Taliban and other Islamist rebels in the South Waziristan area of the Federally Administered Tribal Areas.
 <br/><br/>
-En 1994 : The Troubles: Members of the Ulster Volunteer Force (UVF) attack a crowded pub with assault rifles in Loughinisland, Northern Ireland. Six Catholic civilians are killed and five wounded. It was crowded with people watching the 1994 FIFA World Cup.
+En 2007 : The al-Khilani Mosque bombing in Baghdad leaves 78 people dead and another 218 injured.
 <br/><br/>
-En 1984 : A major clash between about 5,000 police and a similar number of miners takes place at Orgreave, South Yorkshire, during the 1984–85 UK miners' strike.
+En 2005 : Following a series of Michelin tire failures during the United States Grand Prix weekend at Indianapolis, and without an agreement being reached, 14 cars from seven teams in Michelin tires withdrew after completing the formation lap, leaving only six cars from three teams on Bridgestone tires to race.
 <br/><br/>
-En 1983 : Space Shuttle program: STS-7, Astronaut Sally Ride becomes the first American woman in space.
+En 1991 : The last Soviet army units in Hungary are withdrawn.
 <br/><br/>
-En 1983 : Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran over her religious beliefs.
+En 1990 : The current international law defending indigenous peoples, Indigenous and Tribal Peoples Convention, 1989, is ratified for the first time by Norway.
 <br/><br/>
-En 1982 : Italian banker Roberto Calvi's body is discovered hanging beneath Blackfriars Bridge in London, England.
+En 1990 : The Communist Party of the Russian Soviet Federative Socialist Republic is founded in Moscow.
 <br/><br/>
-En 1981 : The Lockheed F-117 Nighthawk, the first operational aircraft initially designed around stealth technology, makes its first flight.
+En 1988 : Pope John Paul II canonizes 117 Vietnamese Martyrs.
 <br/><br/>
-En 1979 : SALT II is signed by the United States and the Soviet Union.
+En 1987 : Basque separatist group ETA commits one of its most violent attacks, in which a bomb is set off in a supermarket, Hipercor, killing 21 and injuring 45.
 <br/><br/>
-En 1972 : Staines air disaster: One hundred eighteen people are killed when a BEA H.S. Trident crashes minutes after takeoff from London's Heathrow Airport.
+En 1987 : Aeroflot Flight N-528 crashes at Berdiansk Airport in present-day Ukraine, killing eight people.
 <br/><br/>
-En 1965 : Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam.
+En 1985 : Members of the Revolutionary Party of Central American Workers, dressed as Salvadoran soldiers, attack the Zona Rosa area of San Salvador.
 <br/><br/>
-En 1958 : Benjamin Britten's one-act opera Noye's Fludde premiered at the Aldeburgh Festival.
+En 1978 : Garfield's first comic strip, originally published locally as Jon in 1976, goes into nationwide syndication.
 <br/><br/>
-En 1954 : Carlos Castillo Armas leads an invasion force across the Guatemalan border, setting in motion the 1954 Guatemalan coup d'état.
+En 1965 : Nguyễn Cao Kỳ becomes Prime Minister of South Vietnam at the head of a military junta; General Nguyễn Văn Thiệu becomes the figurehead chief of state.
 <br/><br/>
-En 1953 : The Egyptian revolution of 1952 ends with the overthrow of the Muhammad Ali dynasty and the declaration of the Republic of Egypt.
+En 1964 : The Civil Rights Act of 1964 is approved after surviving an 83-day filibuster in the United States Senate.
 <br/><br/>
-En 1953 : A United States Air Force C-124 crashes and burns near Tachikawa, Japan, killing 129.
+En 1961 : Kuwait declares independence from the United Kingdom.
 <br/><br/>
-En 1948 : Columbia Records introduces the long-playing record album in a public demonstration at the Waldorf-Astoria Hotel in New York City.
+En 1960 : The first NASCAR race was held at Charlotte Motor Speedway.
 <br/><br/>
-En 1948 : Britain, France and the United States announce that on June 21, the Deutsche Mark will be introduced in western Germany and West Berlin. Over the next six days, Communists increasingly restrict access to Berlin.
+En 1953 : Cold War: Julius and Ethel Rosenberg are executed at Sing Sing, in New York.
 <br/><br/>
-En 1946 : Dr. Ram Manohar Lohia, a Socialist, calls for a Direct Action Day against the Portuguese in Goa.
+En 1947 : Pan Am Flight 121 crashes in the Syrian Desert near Mayadin, Syria, killing 15 and injuring 21.
 <br/><br/>
-En 1945 : William Joyce ("Lord Haw-Haw") is charged with treason for his pro-German propaganda broadcasting during World War II.
+En 1943 : The Philadelphia Eagles and Pittsburgh Steelers of the NFL merge for one season due to player shortages caused by World War II.
 <br/><br/>
-En 1940 : Appeal of 18 June by Charles de Gaulle.
+En 1934 : The Communications Act of 1934 establishes the United States' Federal Communications Commission (FCC).
 <br/><br/>
-En 1940 : The "Finest Hour" speech is delivered by Winston Churchill.
+En 1921 : The village of Knockcroghery, Ireland, was burned by British forces.
 <br/><br/>
-En 1935 : Police in Vancouver, British Columbia, Canada, clash with striking longshoremen, resulting in a total of 60 injuries and 24 arrests.
+En 1913 : Natives Land Act, 1913 in South Africa implemented.
 <br/><br/>
-En 1928 : Aviator Amelia Earhart becomes the first woman to fly in an aircraft across the Atlantic Ocean (she is a passenger; Wilmer Stultz is the pilot and Lou Gordon the mechanic).
+En 1910 : The first Father's Day is celebrated in Spokane, Washington.
 <br/><br/>
-En 1920 : The Troubles in Northern Ireland (1920–1922) begin with a week of sectarian violence in Derry.
+En 1903 : Benito Mussolini, at the time a radical Socialist, is arrested by Bern police for advocating a violent general strike.
 <br/><br/>
-En 1908 : Japanese immigration to Brazil begins when 781 people arrive in Santos aboard the ship Kasato-Maru.
+En 1875 : The Herzegovinian rebellion against the Ottoman Empire begins.
 <br/><br/>
-En 1908 : The University of the Philippines is established.
+En 1867 : Maximilian I of the Second Mexican Empire is executed by a firing squad in Querétaro, Querétaro.
 <br/><br/>
-En 1900 : Empress Dowager Cixi of China orders all foreigners killed, including foreign diplomats and their families.
+En 1865 : Over two years after the Emancipation Proclamation, slaves in Galveston, Texas, United States, are officially informed of their freedom. The anniversary was officially celebrated in Texas and other states as Juneteenth. On June 17, 2021, Juneteenth officially became a federal holiday in the United States.
 <br/><br/>
-En 1887 : The Reinsurance Treaty between Germany and Russia is signed.
+En 1862 : Congress prohibits slavery in all current and future United States territories, and President Lincoln quickly signs the legislation.
 <br/><br/>
-En 1873 : Susan B. Anthony is fined $100 for attempting to vote in the 1872 presidential election.
+En 1850 : Princess Louise of the Netherlands marries Crown Prince Karl of Sweden–Norway.
 <br/><br/>
-En 1859 : First ascent of Aletschhorn, second summit of the Bernese Alps.
+En 1846 : The first officially recorded, organized baseball game is played under Alexander Cartwright's rules on Hoboken, New Jersey's Elysian Fields with the New York Base Ball Club defeating the Knickerbockers 23–1. Cartwright umpired.
 <br/><br/>
-En 1858 : Charles Darwin receives a paper from Alfred Russel Wallace that includes nearly identical conclusions about evolution as Darwin's own, prompting Darwin to publish his theory.
+En 1821 : Decisive defeat of the Filiki Eteria by the Ottomans at Drăgășani (in Wallachia).
 <br/><br/>
-En 1822 : Konstantinos Kanaris blows up the Ottoman navy's flagship at Chios, killing the Kapudan Pasha Nasuhzade Ali Pasha.
+En 1816 : Battle of Seven Oaks between North West Company and Hudson's Bay Company, near Winnipeg, Manitoba, Canada.
 <br/><br/>
-En 1815 : Napoleonic Wars: The Battle of Waterloo results in the defeat of Napoleon Bonaparte by the Duke of Wellington and Gebhard Leberecht von Blücher forcing him to abdicate the throne of France for the second and last time.
+En 1811 : The Carlton House Fête is held in London to celebrate the establishment of the Regency era.
 <br/><br/>
-En 1812 : The United States declaration of war upon the United Kingdom is signed by President James Madison, beginning the War of 1812.
+En 1800 : War of the Second Coalition Battle of Höchstädt results in a French victory over Austria.
 <br/><br/>
-En 1803 : Haitian Revolution: The Royal Navy led by Rear-Admiral John Thomas Duckworth commence the blockade of Saint-Domingue against French forces.
+En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
 <br/><br/>
-En 1799 : Action of 18 June 1799: A frigate squadron under Rear-admiral Jean-Baptiste Perrée is captured by the British fleet under Lord Keith.
+En 1770 : New Church Day: Emanuel Swedenborg wrote: "The Lord sent forth His twelve disciples, who followed Him in the world into the whole spiritual world to preach the Gospel that the Lord God Jesus Christ reigns. This took place on the 19th day of June, in the year 1770."
 <br/><br/>
-En 1778 : American Revolutionary War: The British Army abandons Philadelphia.
+En 1718 : At least 73,000 people died in the 1718 Tongwei–Gansu earthquake due to landslides in the Qing dynasty.
 <br/><br/>
-En 1757 : Battle of Kolín between Prussian forces under Frederick the Great and an Austrian army under the command of Field Marshal Count Leopold Joseph von Daun in the Seven Years' War.
+En 1586 : English colonists leave Roanoke Island, after failing to establish England's first permanent settlement in North America.
 <br/><br/>
-En 1684 : The charter of the Massachusetts Bay Colony is revoked via a scire facias writ issued by an English court.
+En 1306 : The Earl of Pembroke's army defeats Bruce's Scottish army at the Battle of Methven.
 <br/><br/>
-En 1633 : Charles I is crowned King of Scots at St Giles' Cathedral, Edinburgh.
+En 1179 : The Battle of Kalvskinnet takes place outside Nidaros (now Trondheim), Norway. Earl Erling Skakke is killed, and the battle changes the tide of the civil wars.
 <br/><br/>
-En 1429 : Charles VII's army defeats an English army under John Talbot at the Battle of Patay during the Hundred Years' War. The English lost 2,200 men, over half their army, crippling their efforts during this segment of the war.
-<br/><br/>
-En 1391 : Tokhtamysh–Timur war: Battle of the Kondurcha River: Timur defeats Tokhtamysh of the Golden Horde in present-day southeast Russia.
-<br/><br/>
-En 1265 : A draft Byzantine–Venetian treaty is concluded between Venetian envoys and Emperor Michael VIII Palaiologos, but is not ratified by Doge Reniero Zeno.
-<br/><br/>
-En 1264 : The Parliament of Ireland meets at Castledermot in County Kildare, the first definitively known meeting of this Irish legislature.
-<br/><br/>
-En 1053 : Battle of Civitate: Three thousand Norman horsemen of Count Humphrey rout the troops of Pope Leo IX.
-<br/><br/>
-En 860 : Byzantine–Rus' War: A fleet of about 200 Rus' vessels sails into the Bosphorus and starts pillaging the suburbs of the Byzantine capital Constantinople.
-<br/><br/>
-En 656 : Ali becomes Caliph of the Rashidun Caliphate.
-<br/><br/>
-En 618 : Li Yuan becomes Emperor Gaozu of Tang, initiating three centuries of Tang dynasty rule over China.
+En 325 : The original Nicene Creed is adopted at the First Council of Nicaea.
 <br/><br/>
