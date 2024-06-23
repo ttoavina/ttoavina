@@ -4,101 +4,121 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 22/6 ?(Hover on the year)</h1>
+<h1> What happen this day 23/6 ?(Hover on the year)</h1>
 
-En 2022 : An earthquake occurs in eastern Afghanistan resulting in over 1,000 deaths.
+En 2018 : Twelve boys and an assistant coach from a soccer team in Thailand are trapped in a flooding cave, leading to an 18-day rescue operation.
 <br/><br/>
-En 2015 : The Afghan National Assembly building is attacked by gunmen after a suicide bombing. All six of the gunmen are killed and 18 people are injured.
+En 2017 : A series of terrorist attacks take place in Pakistan, resulting in 96 deaths and wounding 200 others.
 <br/><br/>
-En 2012 : Paraguayan President Fernando Lugo is removed from office by impeachment and succeeded by Federico Franco.
+En 2016 : The United Kingdom votes in a referendum to leave the European Union, by 52% to 48%.
 <br/><br/>
-En 2012 : A Turkish Air Force McDonnell Douglas F-4 Phantom II fighter plane is shot down by the Syrian Armed Forces, killing both of the plane's pilots and worsening already-strained relations between Turkey and Syria.
+En 2014 : The last of Syria's declared chemical weapons are shipped out for destruction.
 <br/><br/>
-En 2009 : A Washington D.C Metro train traveling southbound near Fort Totten station collides into another train waiting to enter the station. Nine people are killed in the collision (eight passengers and the train operator) and at least 80 others are injured.
+En 2013 : Nik Wallenda becomes the first man to successfully walk across the Grand Canyon on a tight rope.
 <br/><br/>
-En 2002 : An earthquake measuring 6.5 Mw strikes a region of northwestern Iran killing at least 261 people and injuring 1,300 others and eventually causing widespread public anger due to the slow official response.
+En 2013 : Militants storm a high-altitude mountaineering base camp near Nanga Parbat in Gilgit–Baltistan, Pakistan, killing ten climbers and a local guide.
 <br/><br/>
-En 2000 : Wuhan Airlines Flight 343 is struck by lightning and crashes into Wuhan's Hanyang District, killing 49 people.
+En 2012 : Ashton Eaton breaks the decathlon world record at the United States Olympic Trials.
 <br/><br/>
-En 1990 : Cold War: Checkpoint Charlie is dismantled in Berlin.
+En 2001 : The 8.4 Mw  southern Peru earthquake shakes coastal Peru with a maximum Mercalli intensity of VIII (Severe). A destructive tsunami followed, leaving at least 74 people dead, and 2,687 injured.
 <br/><br/>
-En 1986 : The famous Hand of God goal, scored by Diego Maradona in the quarter-finals of the 1986 FIFA World Cup match between Argentina and England, ignites controversy. This was later followed by the Goal of the Century. Argentina wins 2–1 and later goes on to win the World Cup.
+En 1994 : NASA's Space Station Processing Facility, a new state-of-the-art manufacturing building for the International Space Station, officially opens at Kennedy Space Center.
 <br/><br/>
-En 1984 : Virgin Atlantic launches with its first flight from London to Newark.
+En 1991 : Sonic the Hedgehog is released in North America on the Sega Genesis platform, beginning the popular video game franchise.
 <br/><br/>
-En 1979 : Former Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him.
+En 1985 : A terrorist bomb explodes at Narita International Airport near Tokyo, killing two and injuring four. An hour later, the same group detonates a second bomb aboard Air India Flight 182, bringing the Boeing 747 down off the coast of Ireland killing all 329 aboard.
 <br/><br/>
-En 1978 : Charon, the first of Pluto's satellites to be discovered, was first seen at the United States Naval Observatory by James W. Christy.
+En 1973 : A fire at a house in Hull, England, which kills a six-year-old boy is passed off as an accident; it later emerges as the first of 26 deaths by fire caused over the next seven years by serial arsonist Peter Dinsdale.
 <br/><br/>
-En 1969 : The Cuyahoga River catches fire in Cleveland, Ohio, drawing national attention to water pollution, and spurring the passing of the Clean Water Act and the creation of the Environmental Protection Agency.
+En 1972 : Watergate scandal: U.S. President Richard M. Nixon and White House Chief of Staff H. R. Haldeman are taped talking about illegally using the Central Intelligence Agency to obstruct the Federal Bureau of Investigation's investigation into the Watergate break-ins.
 <br/><br/>
-En 1966 : Vietnamese Buddhist activist leader Thích Trí Quang was arrested as the military junta of Nguyen Cao Ky crushed the Buddhist Uprising.
+En 1972 : Title IX of the United States Civil Rights Act of 1964 is amended to prohibit sexual discrimination to any educational program receiving federal funds.
 <br/><br/>
-En 1965 : The Treaty on Basic Relations between Japan and the Republic of Korea is signed.
+En 1969 : Warren E. Burger is sworn in as Chief Justice of the United States Supreme Court by retiring Chief Justice Earl Warren.
 <br/><br/>
-En 1962 : Air France Flight 117 crashes on approach to Pointe-à-Pitre International Airport in Guadeloupe, killing 112 people.
+En 1969 : IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry.
 <br/><br/>
-En 1948 : The ship HMT Empire Windrush brought the first group of 802 West Indian immigrants to Tilbury, marking the start of modern immigration to the United Kingdom.
+En 1967 : Cold War: U.S. President Lyndon B. Johnson meets with Soviet Premier Alexei Kosygin in Glassboro, New Jersey for the three-day Glassboro Summit Conference.
 <br/><br/>
-En 1948 : King George VI formally gives up the title "Emperor of India", half a year after Britain actually gave up its rule of India.
+En 1961 : The Antarctic Treaty System, which sets aside Antarctica as a scientific preserve and limits military activity on the continent, its islands and ice shelves, comes into force.
 <br/><br/>
-En 1945 : World War II: The Battle of Okinawa comes to an end with an American flag-raising ceremony.
+En 1960 : The United States Food and Drug Administration declares Enovid to be the first officially approved combined oral contraceptive pill in the world.
 <br/><br/>
-En 1944 : World War II: Opening day of the Soviet Union's Operation Bagration against the Army Group Centre.
+En 1959 : Convicted Manhattan Project spy Klaus Fuchs is released after only nine years in prison and allowed to emigrate to Dresden, East Germany where he resumes a scientific career.
 <br/><br/>
-En 1944 : U.S. President Franklin D. Roosevelt signs into law the Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill.
+En 1956 : The French National Assembly takes the first step in creating the French Community by passing the Loi Cadre, transferring a number of powers from Paris to elected territorial governments in French West Africa.
 <br/><br/>
-En 1942 : World War II: Erwin Rommel is promoted to Field Marshal after the Axis capture of Tobruk.
+En 1951 : The ocean liner SS United States is christened and launched.
 <br/><br/>
-En 1942 : The Pledge of Allegiance is formally adopted by U.S. Congress.
+En 1947 : The United States Senate follows the United States House of Representatives in overriding U.S. President Harry S. Truman's veto of the Taft–Hartley Act.
 <br/><br/>
-En 1941 : World War II: Nazi Germany invades the Soviet Union in Operation Barbarossa.
+En 1946 : The 1946 Vancouver Island earthquake strikes Vancouver Island, British Columbia, Canada.
 <br/><br/>
-En 1940 : World War II: France is forced to sign the Second Compiègne armistice with Germany, in the same railroad car in which the Germans signed the Armistice in 1918.
+En 1942 : World War II: Germany's latest fighter aircraft, a Focke-Wulf Fw 190, is captured intact when it mistakenly lands at RAF Pembrey in Wales.
 <br/><br/>
-En 1922 : British Army Field Marshal Sir Henry Wilson is killed by the Irish Republican Army helping to spark the Irish Civil War.
+En 1941 : The Lithuanian Activist Front declares independence from the Soviet Union and forms the Provisional Government of Lithuania; it lasts only briefly as the Nazis will occupy Lithuania a few weeks later.
 <br/><br/>
-En 1918 : The Hammond Circus Train Wreck kills 86 and injures 127 near Hammond, Indiana.
+En 1940 : Adolf Hitler goes on a three-hour tour of the architecture of Paris with architect Albert Speer and sculptor Arno Breker in his only visit to the city.
 <br/><br/>
-En 1911 : George V and Mary of Teck are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
+En 1940 : Henry Larsen begins the first successful west-to-east navigation of Northwest Passage from Vancouver, British Columbia, Canada.
 <br/><br/>
-En 1911 : Mexican Revolution: Government forces bring an end to the Magonista rebellion of 1911 in the Second Battle of Tijuana.
+En 1938 : The Civil Aeronautics Act is signed into law, forming the Civil Aeronautics Authority in the United States.
 <br/><br/>
-En 1907 : The London Underground's Charing Cross, Euston and Hampstead Railway opens.
+En 1931 : Wiley Post and Harold Gatty take off from Roosevelt Field, Long Island in an attempt to circumnavigate the world in a single-engine plane.
 <br/><br/>
-En 1898 : Spanish–American War: In a chaotic operation, 6,000 men of the U.S. Fifth Army Corps begins landing at Daiquirí, Cuba, about 16 miles (26 km) east of Santiago de Cuba. Lt. Gen. Arsenio Linares y Pombo of the Spanish Army outnumbers them two-to-one, but does not oppose the landings.
+En 1926 : The College Board administers the first SAT exam.
 <br/><br/>
-En 1897 : British colonial officers Charles Walter Rand and Lt. Charles Egerton Ayerst are assassinated in Pune, Maharashtra, India by the Chapekar brothers and Mahadeo Vinayak Ranade, who are later caught and hanged.
+En 1919 : Estonian War of Independence: The decisive defeat of the Baltische Landeswehr in the Battle of Cēsis; this date is celebrated as Victory Day in Estonia.
 <br/><br/>
-En 1893 : The Royal Navy battleship HMS Camperdown accidentally rams the British Mediterranean Fleet flagship HMS Victoria which sinks taking 358 crew with her, including the fleet's commander, Vice-Admiral Sir George Tryon.
+En 1917 : In a game against the Washington Senators, Boston Red Sox pitcher Ernie Shore retires 26 batters in a row after replacing Babe Ruth, who had been ejected for punching the umpire.
 <br/><br/>
-En 1870 : The United States Department of Justice is created by the U.S. Congress.
+En 1914 : Mexican Revolution: Pancho Villa takes Zacatecas from Victoriano Huerta.
 <br/><br/>
-En 1839 : Cherokee leaders Major Ridge, John Ridge, and Elias Boudinot are assassinated for signing the Treaty of New Echota, which had resulted in the Trail of Tears.
+En 1913 : Second Balkan War: The Greeks defeat the Bulgarians in the Battle of Doiran.
 <br/><br/>
-En 1813 : War of 1812: After learning of American plans for a surprise attack on Beaver Dams in Ontario, Laura Secord sets out on a thirty kilometres (19 mi) journey on foot to warn Lieutenant James FitzGibbon.
+En 1894 : The International Olympic Committee is founded at the Sorbonne in Paris, at the initiative of Baron Pierre de Coubertin.
 <br/><br/>
-En 1812 : France declares war on Russia, starting Napoleon's invasion.
+En 1887 : The Rocky Mountains Park Act becomes law in Canada creating the nation's first national park, Banff National Park.
 <br/><br/>
-En 1807 : In the Chesapeake–Leopard affair, the British warship HMS Leopard attacks and boards the American frigate USS Chesapeake.
+En 1868 : Christopher Latham Sholes received a patent for an invention he called the "Type-Writer".
 <br/><br/>
-En 1793 : Haitian Revolution: The Battle of Cap-Français ends with French Republican troops and black slave insurgents capturing the city.
+En 1865 : American Civil War: At Fort Towson in the Oklahoma Territory, Confederate Brigadier General Stand Watie surrenders the last significant Confederate army.
 <br/><br/>
-En 1783 : A poisonous cloud caused by the eruption of the Laki volcano in Iceland reaches Le Havre in France.
+En 1860 : The United States Congress establishes the Government Printing Office.
 <br/><br/>
-En 1774 : The British pass the Quebec Act, setting out rules of governance for the colony of Quebec in British North America.
+En 1812 : War of 1812: Great Britain revokes the restrictions on American commerce, thus eliminating one of the chief reasons for going to war.
 <br/><br/>
-En 1633 : The Holy Office in Rome forces Galileo Galilei to recant his view that the Sun, not the Earth, is the center of the Universe in the form he presented it in, after heated controversy.
+En 1810 : John Jacob Astor forms the Pacific Fur Company.
 <br/><br/>
-En 1593 : Battle of Sisak: Allied Christian troops defeat the Ottomans.
+En 1794 : Empress Catherine II of Russia grants Jews permission to settle in Kyiv.
 <br/><br/>
-En 1527 : Fatahillah expels Portuguese forces from Sunda Kelapa, now regarded as the foundation of Jakarta.
+En 1780 : American Revolution: Battle of Springfield fought in and around Springfield, New Jersey (including Short Hills, formerly of Springfield, now of Millburn Township).
 <br/><br/>
-En 910 : The Hungarians defeat the East Frankish army near the Rednitz River, killing its leader Gebhard, Duke of Lotharingia (Lorraine).
+En 1760 : Seven Years' War: Battle of Landeshut: Austria defeats Prussia.
 <br/><br/>
-En 813 : Battle of Versinikia: The Bulgars led by Krum defeat the Byzantine army near Edirne. Emperor Michael I is forced to abdicate in favor of Leo V the Armenian.
+En 1758 : Seven Years' War: Battle of Krefeld: British, Hanoverian, and Prussian forces defeat French troops at Krefeld in Germany.
 <br/><br/>
-En -168 : Battle of Pydna: Romans under Lucius Aemilius Paullus defeat Macedonian King Perseus who surrenders after the battle, ending the Third Macedonian War.
+En 1757 : Battle of Plassey: Three thousand British troops under Robert Clive defeat a 50,000-strong Indian army under Siraj ud-Daulah at Plassey.
 <br/><br/>
-En -217 : Battle of Raphia: Ptolemy IV Philopator of Egypt defeats Antiochus III the Great of the Seleucid kingdom.
+En 1713 : The French residents of Acadia are given one year to declare allegiance to Britain or leave Nova Scotia, Canada.
+<br/><br/>
+En 1683 : William Penn signs a friendship treaty with Lenape Indians in Pennsylvania.
+<br/><br/>
+En 1611 : The mutinous crew of Henry Hudson's fourth voyage sets Henry, his son and seven loyal crew members adrift in an open boat in what is now Hudson Bay; they are never heard from again.
+<br/><br/>
+En 1594 : The Action of Faial, Azores. The Portuguese carrack Cinco Chagas, loaded with slaves and treasure, is attacked and sunk by English ships with only 13 survivors out of over 700 on board.
+<br/><br/>
+En 1565 : Dragut, commander of the Ottoman navy, dies during the Great Siege of Malta.
+<br/><br/>
+En 1532 : Henry VIII of England and Francis I of France sign the "Treaty of Closer Amity With France" (also known as the Pommeraye treaty), pledging mutual aid against Charles V, Holy Roman Emperor.
+<br/><br/>
+En 1314 : First War of Scottish Independence: The Battle of Bannockburn (south of Stirling) begins.
+<br/><br/>
+En 1305 : A peace treaty between the Flemish and the French is signed at Athis-sur-Orge.
+<br/><br/>
+En 1280 : The Spanish Reconquista: In the Battle of Moclín the Emirate of Granada ambush a superior pursuing force, killing most of them in a military disaster for the Kingdom of Castile.
+<br/><br/>
+En 1266 : War of Saint Sabas: In the Battle of Trapani, the Venetians defeat a larger Genoese fleet, capturing all its ships.
+<br/><br/>
+En 229 : Sun Quan proclaims himself emperor of Eastern Wu.
 <br/><br/>
