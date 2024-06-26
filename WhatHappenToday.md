@@ -4,95 +4,143 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 25/6 ?(Hover on the year)</h1>
+<h1> What happen this day 26/6 ?(Hover on the year)</h1>
 
-En 2022 : The prime minister of Bangladesh, Sheikh Hasina inaugurates the longest bridge of Bangladesh, Padma Bridge.
+En 2015 : Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
 <br/><br/>
-En 2022 : Russo-Ukrainian War: The Battle of Sievierodonetsk ends after weeks of heavy fighting with the Russian capture of the city, leading to the Battle of Lysychansk.
+En 2015 : The U.S. Supreme Court ruled, 5–4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
 <br/><br/>
-En 2022 : Two people are killed and 21 more injured after a gunman opens fire at three sites in Oslo in a suspected Islamist anti-LGBTQ+ attack.
+En 2013 : Riots in China's Xinjiang region kill at least 36 people and injure 21 others.
 <br/><br/>
-En 2007 : PMTair Flight 241 crashes in the Dâmrei Mountains in Kampot Province, Cambodia, killing all 22 people on board.
+En 2013 : The U.S. Supreme Court ruled, 5–4, that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution.
 <br/><br/>
-En 1998 : In Clinton v. City of New York, the United States Supreme Court decides that the Line Item Veto Act of 1996 is unconstitutional.
+En 2012 : The Waldo Canyon fire descends into the Mountain Shadows neighborhood in Colorado Springs burning 347 homes in a matter of hours and killing two people.
 <br/><br/>
-En 1997 : An uncrewed Progress spacecraft collides with the Russian space station Mir.
+En 2008 : A suicide bomber dressed as an Iraqi policeman detonates an explosive vest, killing 25 people.
 <br/><br/>
-En 1997 : The National Hockey League approved expansion franchises for Nashville (1998), Atlanta (1999), Columbus (2000), and Minneapolis-Saint Paul (2000).
+En 2007 : Pope Benedict XVI reinstates the traditional laws of papal election in which a successful candidate must receive two-thirds of the votes.
 <br/><br/>
-En 1996 : The Khobar Towers bombing in Saudi Arabia kills 19 U.S. servicemen.
+En 2006 : Mari Alkatiri, the first Prime Minister of East Timor, resigns after weeks of political unrest.
 <br/><br/>
-En 1993 : Kim Campbell is sworn in as the first female Prime Minister of Canada.
+En 2003 : The U.S. Supreme Court rules in Lawrence v. Texas that sex-based sodomy laws are unconstitutional.
 <br/><br/>
-En 1992 : Space Shuttle Columbia launches on STS-50, the first shuttle mission to carry Extended Duration Orbiter hardware.
+En 2000 : The Human Genome Project announces the completion of a "rough draft" sequence.
 <br/><br/>
-En 1991 : The breakup of Yugoslavia begins when Slovenia and Croatia declare their independence from Yugoslavia.
+En 1997 : The U.S. Supreme Court rules that the Communications Decency Act violates the First Amendment to the United States Constitution.
 <br/><br/>
-En 1981 : Microsoft is restructured to become an incorporated business in its home state of Washington.
+En 1997 : J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone in United Kingdom.
 <br/><br/>
-En 1978 : The rainbow flag representing gay pride is flown for the first time during the San Francisco Gay Freedom Day Parade.
+En 1995 : Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
 <br/><br/>
-En 1976 : Missouri Governor Kit Bond issues an executive order rescinding the Extermination Order, formally apologizing on behalf of the state of Missouri for the suffering it had caused to members of the Church of Jesus Christ of Latter-day Saints.
+En 1991 : Yugoslav Wars: The Yugoslav People's Army begins the Ten-Day War in Slovenia.
 <br/><br/>
-En 1975 : Mozambique achieves independence from Portugal.
+En 1988 : The first crash of an Airbus A320 occurs when Air France Flight 296Q crashes at Mulhouse–Habsheim Airfield in Habsheim, France, during an air show, killing three of the 136 people on board.
 <br/><br/>
-En 1975 : Prime Minister Indira Gandhi declares a state of internal emergency in India.
+En 1981 : Dan-Air Flight 240, flying to East Midlands Airport, crashes in Nailstone, Leicestershire. All three crew members perish.
 <br/><br/>
-En 1960 : Cold War: Two cryptographers working for the United States National Security Agency left for vacation to Mexico, and from there defected to the Soviet Union.
+En 1978 : Air Canada Flight 189, flying to Toronto, overruns the runway and crashes into the Etobicoke Creek ravine. Two of the 107 passengers on board perish.
 <br/><br/>
-En 1950 : The Korean War begins with the invasion of South Korea by North Korea.
+En 1977 : Elvis Presley held his final concert in Indianapolis, Indiana at Market Square Arena.
 <br/><br/>
-En 1948 : The United States Congress passes the Displaced Persons Act to allow World War II refugees to immigrate to the United States above quota restrictions.
+En 1975 : Two FBI agents and a member of the American Indian Movement are killed in a shootout on the Pine Ridge Indian Reservation in South Dakota; Leonard Peltier is later convicted of the murders in a controversial trial.
 <br/><br/>
-En 1947 : The Diary of a Young Girl (better known as The Diary of Anne Frank) is published.
+En 1974 : The Universal Product Code is scanned for the first time to sell a package of Wrigley's chewing gum at the Marsh Supermarket in Troy, Ohio.
 <br/><br/>
-En 1944 : World War II: The Battle of Tali-Ihantala, the largest battle ever fought in the Nordic countries, begins.
+En 1967 : Karol Wojtyła (later John Paul II) made a cardinal by Pope Paul VI.
 <br/><br/>
-En 1944 : World War II: United States Navy and British Royal Navy ships bombard Cherbourg to support United States Army units engaged in the Battle of Cherbourg.
+En 1963 : Cold War: U.S. President John F. Kennedy gave his "Ich bin ein Berliner" speech, underlining the support of the United States for democratic West Germany shortly after Soviet-supported East Germany erected the Berlin Wall.
 <br/><br/>
-En 1944 : The final page of the comic Krazy Kat is published, exactly two months after its author George Herriman died.
+En 1960 : The former British Protectorate of British Somaliland gains its independence as Somaliland.
 <br/><br/>
-En 1943 : The Holocaust and World War II: Jews in the Częstochowa Ghetto in Poland stage an uprising against the Nazis.
+En 1960 : Madagascar gains its independence from France.
 <br/><br/>
-En 1943 : The left-wing German Jewish exile Arthur Goldstein is murdered in Auschwitz.
+En 1959 : Swedish boxer Ingemar Johansson becomes world champion of heavy weight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
 <br/><br/>
-En 1941 : World War II: The Continuation War between the Soviet Union and Finland, supported by Nazi Germany, began.
+En 1955 : The South African Congress Alliance adopts the Freedom Charter at the Congress of the People in Kliptown.
 <br/><br/>
-En 1940 : World War II: The French armistice with Nazi Germany comes into effect.
+En 1953 : Lavrentiy Beria, head of MVD, is arrested by Nikita Khrushchev and other members of the Politburo.
 <br/><br/>
-En 1938 : Dr. Douglas Hyde is inaugurated as the first President of Ireland.
+En 1952 : The Pan-Malayan Labour Party is founded in Malaya, as a union of statewide labour parties.
 <br/><br/>
-En 1935 : Colombia–Soviet Union relations are established.
+En 1948 : Cold War: The first supply flights are made in response to the Berlin Blockade.
 <br/><br/>
-En 1913 : American Civil War veterans begin arriving at the Great Reunion of 1913.
+En 1948 : William Shockley files the original patent for the grown-junction transistor, the first bipolar junction transistor.
 <br/><br/>
-En 1910 : The United States Congress passes the Mann Act, which prohibits interstate transport of women or girls for "immoral purposes"; the ambiguous language would be used to selectively prosecute people for years to come.
+En 1948 : Shirley Jackson's short story The Lottery is published in The New Yorker magazine.
 <br/><br/>
-En 1910 : Igor Stravinsky's ballet The Firebird is premiered in Paris, bringing him to prominence as a composer.
+En 1945 : The United Nations Charter is signed by 50 Allied nations in San Francisco, California.
 <br/><br/>
-En 1906 : Pittsburgh, Pennsylvania millionaire Harry Thaw shoots and kills prominent architect Stanford White.
+En 1944 : World War II: San Marino, a neutral state, is mistakenly bombed by the RAF based on faulty information, leading to 35 civilian deaths.
 <br/><br/>
-En 1900 : The Taoist monk Wang Yuanlu discovers the Dunhuang manuscripts, a cache of ancient texts that are of great historical and religious significance, in the Mogao Caves of Dunhuang, China.
+En 1944 : World War II: The Battle of Osuchy in Osuchy, Poland, one of the largest battles between Nazi Germany and Polish resistance forces, ends with the defeat of the latter.
 <br/><br/>
-En 1876 : American Indian Wars: Battle of the Little Bighorn: 300 men of the U.S. 7th Cavalry Regiment under Lieutenant Colonel George Armstrong Custer are wiped out by 5,000 Lakota, Cheyenne and Arapaho, led by Sitting Bull and Crazy Horse.
+En 1942 : The first flight of the Grumman F6F Hellcat.
 <br/><br/>
-En 1848 : A photograph of the June Days uprising becomes the first known instance of photojournalism.
+En 1941 : World War II: Soviet planes bomb Kassa, Hungary (now Košice, Slovakia), giving Hungary the impetus to declare war the next day.
 <br/><br/>
-En 1788 : Virginia becomes the tenth state to ratify the United States Constitution.
+En 1940 : World War II: Under the Molotov–Ribbentrop Pact, the Soviet Union presents an ultimatum to Romania requiring it to cede Bessarabia and the northern part of Bukovina.
 <br/><br/>
-En 1786 : Gavriil Pribylov discovers St. George Island of the Pribilof Islands in the Bering Sea.
+En 1936 : Initial flight of the Focke-Wulf Fw 61, the first practical helicopter.
 <br/><br/>
-En 1741 : Maria Theresa is crowned Queen of Hungary.
+En 1934 : United States President Franklin D. Roosevelt signs the Federal Credit Union Act, which establishes credit unions.
 <br/><br/>
-En 1678 : Venetian Elena Cornaro Piscopia is the first woman awarded a doctorate of philosophy when she graduates from the University of Padua.
+En 1927 : The Cyclone roller coaster opens on Coney Island.
 <br/><br/>
-En 1658 : Spanish forces fail to retake Jamaica at the Battle of Rio Nuevo during the Anglo-Spanish War.
+En 1924 : The American occupation of the Dominican Republic ends after eight years.
 <br/><br/>
-En 1530 : At the Diet of Augsburg the Augsburg Confession is presented to the Holy Roman Emperor by the Lutheran princes and Electors of Germany.
+En 1918 : World War I: Allied forces under John J. Pershing and James Harbord defeat Imperial German forces under Wilhelm, German Crown Prince in the Battle of Belleau Wood.
 <br/><br/>
-En 1258 : War of Saint Sabas: In the Battle of Acre, the Venetians defeat a larger Genoese fleet sailing to relieve Acre.
+En 1917 : World War I: The American Expeditionary Forces begin to arrive in France. They will first enter combat in the Battle of Hamel on the 4th of July.
 <br/><br/>
-En 841 : In the Battle of Fontenay-en-Puisaye, forces led by Charles the Bald and Louis the German defeat the armies of Lothair I of Italy and Pepin II of Aquitaine.
+En 1909 : The Science Museum in London comes into existence as an independent entity.
 <br/><br/>
-En 524 : The Franks are defeated by the Burgundians in the Battle of Vézeronce.
+En 1906 : The first Grand Prix motor race is held at Le Mans.
+<br/><br/>
+En 1889 : Bangui is founded by Albert Dolisie and Alfred Uzac in what was then the upper reaches of the French Congo.
+<br/><br/>
+En 1886 : Henri Moissan isolated elemental Fluorine for the first time.
+<br/><br/>
+En 1857 : The first investiture of the Victoria Cross in Hyde Park, London.
+<br/><br/>
+En 1848 : End of the June Days Uprising in Paris.
+<br/><br/>
+En 1843 : Treaty of Nanking comes into effect, Hong Kong Island is ceded to the British "in perpetuity".
+<br/><br/>
+En 1830 : William IV becomes king of Britain and Hanover.
+<br/><br/>
+En 1794 : French Revolutionary Wars: Battle of Fleurus marks the first successful military use of aircraft and turns the tide of the War of the First Coalition.
+<br/><br/>
+En 1740 : A combined force of Spanish, free blacks and allied Indians defeat a British garrison at the Siege of Fort Mose near St. Augustine during the War of Jenkins' Ear.
+<br/><br/>
+En 1723 : After a siege and bombardment by cannon, Baku surrenders to the Russians.
+<br/><br/>
+En 1718 : Alexei Petrovich, Tsarevich of Russia, Peter the Great's son, mysteriously dies after being sentenced to death by his father for plotting against him.
+<br/><br/>
+En 1579 : Livonian campaign of Stephen Báthory begins.
+<br/><br/>
+En 1541 : Francisco Pizarro is assassinated in Lima by the son of his former companion and later antagonist, Diego de Almagro the younger. Almagro is later caught and executed.
+<br/><br/>
+En 1522 : Ottomans begin the second Siege of Rhodes.
+<br/><br/>
+En 1483 : Richard III becomes King of England.
+<br/><br/>
+En 1460 : War of the Roses: Richard Neville, 16th Earl of Warwick, and Edward, Earl of March, land in England with a rebel army and march on London.
+<br/><br/>
+En 1409 : Western Schism: The Roman Catholic Church is led into a double schism as Petros Philargos is crowned Pope Alexander V after the Council of Pisa, joining Pope Gregory XII in Rome and Pope Benedict XIII in Avignon.
+<br/><br/>
+En 1407 : Ulrich von Jungingen becomes Grand Master of the Teutonic Knights.
+<br/><br/>
+En 1295 : Przemysł II crowned king of Poland, following Ducal period. The white eagle is added to the Polish coat of arms.
+<br/><br/>
+En 1243 : Mongols defeat the Seljuk Turks at the Battle of Köse Dağ.
+<br/><br/>
+En 699 : En no Ozuno, a Japanese mystic and apothecary who will later be regarded as the founder of a folk religion Shugendō, is banished to Izu Ōshima.
+<br/><br/>
+En 684 : Pope Benedict II is the last pope to require confirmation by the Byzantine emperor before taking office.
+<br/><br/>
+En 363 : Roman emperor Julian is killed during the retreat from the Sasanian Empire.
+<br/><br/>
+En 221 : Roman emperor Elagabalus adopts his cousin Alexander Severus as his heir and receives the title of Caesar.
+<br/><br/>
+En 4 : Augustus adopts Tiberius.
 <br/><br/>
