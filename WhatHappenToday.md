@@ -4,89 +4,123 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/6 ?(Hover on the year)</h1>
+<h1> What happen this day 28/6 ?(Hover on the year)</h1>
 
-En 2017 : A series of powerful cyberattacks using the Petya malware target websites of Ukrainian organizations and counterparts with Ukrainian connections around the globe.
+En 2016 : A terrorist attack in Turkey's Istanbul Atatürk Airport kills 42 people and injures more than 230 others.
 <br/><br/>
-En 2015 : Formosa Fun Coast fire: A dust fire occurs at a recreational water park in Taiwan, killing 15 people and injuring 497 others, 199 critically.
+En 2009 : Honduran president Manuel Zelaya is ousted by a local military coup following a failed request to hold a referendum to rewrite the Honduran Constitution. This was the start of the 2009 Honduran constitutional crisis.
 <br/><br/>
-En 2014 : At least fourteen people are killed when a Gas Authority of India Limited pipeline explodes in the East Godavari district of Andhra Pradesh, India.
+En 2004 : Iraq War: Sovereign power is handed to the interim government of Iraq by the Coalition Provisional Authority, ending the U.S.-led rule of that nation.
 <br/><br/>
-En 2013 : NASA launches the Interface Region Imaging Spectrograph space probe to observe the Sun.
+En 2001 : Slobodan Milošević is extradited to the ICTY in The Hague to stand trial.
 <br/><br/>
-En 2008 : In a highly scrutinized election, President of Zimbabwe Robert Mugabe is re-elected in a landslide after his opponent Morgan Tsvangirai had withdrawn a week earlier, citing violence against his party's supporters.
+En 1997 : Holyfield–Tyson II: Mike Tyson is disqualified in the third round for biting a piece off Evander Holyfield's ear.
 <br/><br/>
-En 2007 : Tony Blair resigns as British Prime Minister, a position he had held since 1997. His Chancellor, Gordon Brown succeeds him.
+En 1989 : On the 600th anniversary of the Battle of Kosovo, Slobodan Milošević delivers the Gazimestan speech at the site of the historic battle.
 <br/><br/>
-En 2007 : The Brazilian Military Police invades the favelas of Complexo do Alemão in an episode which is remembered as the Complexo do Alemão massacre.
+En 1987 : For the first time in military history, a civilian population is targeted for chemical attack when Iraqi warplanes bombed the Iranian town of Sardasht.
 <br/><br/>
-En 1994 : Members of the Aum Shinrikyo cult release sarin gas in Matsumoto, Japan. Seven people are killed, 660 injured.
+En 1982 : Aeroflot Flight 8641 crashes in Mazyr, Belarus, killing 132 people.
 <br/><br/>
-En 1991 : Two days after it had declared independence, Slovenia is invaded by Yugoslav troops, tanks, and aircraft, starting the Ten-Day War.
+En 1981 : A powerful bomb explodes in Tehran, killing 73 officials of the Islamic Republican Party.
 <br/><br/>
-En 1988 : The Gare de Lyon rail accident in Paris, France, kills 56 people.
+En 1978 : The United States Supreme Court, in Regents of the University of California v. Bakke bars quota systems in college admissions.
 <br/><br/>
-En 1988 : Villa Tunari massacre: Bolivian anti-narcotics police kill nine to 12 and injure over a hundred protesting coca-growing peasants.
+En 1976 : The Angolan court sentences US and UK mercenaries to death sentences and prison terms in the Luanda Trial.
 <br/><br/>
-En 1982 : Space Shuttle Columbia launched from the Kennedy Space Center on the final research and development flight mission, STS-4.
+En 1973 : Elections are held for the Northern Ireland Assembly, which will lead to power-sharing between unionists and nationalists in Northern Ireland for the first time.
 <br/><br/>
-En 1981 : The Central Committee of the Chinese Communist Party issues its "Resolution on Certain Questions in the History of Our Party Since the Founding of the People's Republic of China", laying the blame for the Cultural Revolution on Mao Zedong.
+En 1969 : Stonewall riots begin in New York City, marking the start of the Gay Rights Movement.
 <br/><br/>
-En 1980 : The 'Ustica massacre': Itavia Flight 870 crashes in the sea while en route from Bologna to Palermo, Italy, killing all 81 on board.
+En 1964 : Malcolm X forms the Organization of Afro-American Unity.
 <br/><br/>
-En 1977 : France grants independence to Djibouti.
+En 1956 : In Poznań, workers from HCP factory go to the streets, sparking one of the first major protests against communist government both in Poland and Europe.
 <br/><br/>
-En 1977 : Constitution for the Federation of Earth, also known as Earth Constitution, was adopted by the second session of the World Constituent Assembly, held at Innsbruck, Austria.
+En 1950 : Korean War: Suspected communist sympathizers (between 60,000 and 200,000) are executed in the Bodo League massacre.
 <br/><br/>
-En 1976 : Air France Flight 139 (Tel Aviv-Athens-Paris) is hijacked en route to Paris by the PFLP and redirected to Entebbe, Uganda.
+En 1950 : Korean War: Packed with its own refugees fleeing Seoul and leaving their 5th Division stranded, South Korean forces blow up the Hangang Bridge in an attempt to slow North Korea's offensive. The city falls later that day.
 <br/><br/>
-En 1974 : U.S. president Richard Nixon visits the Soviet Union.
+En 1950 : Korean War: The Korean People's Army kills almost a thousand doctors, nurses, inpatient civilians and wounded soldiers in the Seoul National University Hospital massacre.
 <br/><br/>
-En 1973 : The President of Uruguay Juan María Bordaberry dissolves Parliament and establishes a dictatorship.
+En 1948 : Cold War: The Tito–Stalin Split results in the expulsion of the League of Communists of Yugoslavia from the Cominform.
 <br/><br/>
-En 1957 : Hurricane Audrey makes landfall near the Texas–Louisiana border, killing over 400 people, mainly in and around Cameron, Louisiana.
+En 1948 : Boxer Dick Turpin beats Vince Hawkins at Villa Park in Birmingham to become the first black British boxing champion in the modern era.
 <br/><br/>
-En 1954 : The Obninsk Nuclear Power Plant, the Soviet Union's first nuclear power station, opens in Obninsk, near Moscow.
+En 1945 : Poland's Soviet-allied Provisional Government of National Unity is formed over a month after V-E Day.
 <br/><br/>
-En 1954 : The FIFA World Cup quarterfinal match between Hungary and Brazil, highly anticipated to be exciting, instead turns violent, with three players ejected and further fighting continuing after the game.
+En 1942 : World War II: Nazi Germany starts its strategic summer offensive against the Soviet Union, codenamed Case Blue.
 <br/><br/>
-En 1950 : The United States decides to send troops to fight in the Korean War.
+En 1940 : Romania cedes Bessarabia and Northern Bukovina to the Soviet Union after facing an ultimatum.
 <br/><br/>
-En 1946 : In the Canadian Citizenship Act, the Parliament of Canada establishes the definition of Canadian citizenship.
+En 1936 : The Japanese puppet state of Mengjiang is formed in northern China.
 <br/><br/>
-En 1944 : World War II: Mogaung is the first place in Burma to be liberated from the Japanese by British Chindits, supported by the Chinese.
+En 1926 : Mercedes-Benz is formed by Gottlieb Daimler and Karl Benz merging their two companies.
 <br/><br/>
-En 1941 : Romanian authorities launch one of the most violent pogroms in Jewish history in the city of Iași, resulting in the murder of at least 13,266 Jews.
+En 1922 : The Irish Civil War begins with the shelling of the Four Courts in Dublin by Free State forces.
 <br/><br/>
-En 1941 : World War II: German troops capture the city of Białystok during Operation Barbarossa.
+En 1921 : Serbian King Alexander I proclaims the new constitution of the Kingdom of Serbs, Croats and Slovenes, known thereafter as the Vidovdan Constitution.
 <br/><br/>
-En 1928 : The Rovaniemi township decree was promulgated, as a result of which Rovaniemi seceded from the old rural municipality as its own market town on January 1, 1929.
+En 1919 : The Treaty of Versailles is signed, ending the state of war between Germany and the Allies of World War I.
 <br/><br/>
-En 1927 : Prime Minister of Japan Tanaka Giichi convenes an eleven-day conference to discuss Japan's strategy in China. The Tanaka Memorial, a forged plan for world domination, is later claimed to be a secret report leaked from this conference.
+En 1917 : World War I: Greece joins the Allied powers.
 <br/><br/>
-En 1914 : The Illinois Monument is dedicated at Cheatham Hill in what is now the Kennesaw Mountain National Battlefield Park.
+En 1914 : Archduke Franz Ferdinand of Austria and his wife Sophie are assassinated in Sarajevo; this is the casus belli of World War I.
 <br/><br/>
-En 1905 : During the Russo-Japanese War, sailors start a mutiny aboard the Russian battleship Potemkin.
+En 1911 : The Nakhla meteorite,  the first one to suggest signs of aqueous processes on Mars, falls to Earth, landing in Egypt.
 <br/><br/>
-En 1898 : The first solo circumnavigation of the globe is completed by Joshua Slocum from Briar Island, Nova Scotia.
+En 1904 : The SS Norge runs aground on Hasselwood Rock in the North Atlantic 430 kilometres (270 mi) northwest of Ireland. More than 635 people die during the sinking.
 <br/><br/>
-En 1895 : The inaugural run of the Baltimore and Ohio Railroad's Royal Blue from Washington, D.C., to New York City, the first U.S. passenger train to use electric locomotives.
+En 1902 : The U.S. Congress passes the Spooner Act, authorizing President Theodore Roosevelt to acquire rights from Colombia for the Panama Canal.
 <br/><br/>
-En 1864 : American Civil War: Confederate forces defeat Union forces during the Battle of Kennesaw Mountain during the Atlanta Campaign.
+En 1896 : An explosion in the Newton Coal Company's Twin Shaft Mine in Pittston, Pennsylvania results in a massive cave-in that kills 58 miners.
 <br/><br/>
-En 1844 : Joseph Smith, founder of the Latter Day Saint movement, and his brother Hyrum Smith, are killed by a mob at the Carthage, Illinois jail.
+En 1895 : The United States Court of Private Land Claims rules James Reavis’s claim to Barony of Arizona is "wholly fictitious and fraudulent."
 <br/><br/>
-En 1806 : British forces take Buenos Aires during the first of the British invasions of the River Plate.
+En 1894 : Labor Day becomes an official US holiday.
 <br/><br/>
-En 1760 : Anglo-Cherokee War: Cherokee warriors defeat British forces at the Battle of Echoee near present-day Otto, North Carolina.
+En 1882 : The Anglo-French Convention of 1882 marks the territorial boundaries between Guinea and Sierra Leone.
 <br/><br/>
-En 1743 : In the Battle of Dettingen, George II becomes the last reigning British monarch to participate in a battle.
+En 1881 : The Austro–Serbian Alliance of 1881 is secretly signed.
 <br/><br/>
-En 1556 : The thirteen Stratford Martyrs are burned at the stake near London for their Protestant beliefs.
+En 1880 : Australian bushranger Ned Kelly is captured at Glenrowan.
 <br/><br/>
-En 1499 : Amerigo Vespucci sights what is now Amapá State in Brazil.
+En 1870 : The US Congress establishes the first federal holidays (New Year Day, July 4th, Thanksgiving, and Christmas).
 <br/><br/>
-En 1497 : Cornish rebels Michael An Gof and Thomas Flamank are executed at Tyburn, London, England.
+En 1865 : The Army of the Potomac is disbanded.
 <br/><br/>
-En 1358 : The Republic of Ragusa is founded.
+En 1859 : The first conformation dog show is held in Newcastle upon Tyne, England.
+<br/><br/>
+En 1855 : Sigma Chi fraternity is founded in North America.
+<br/><br/>
+En 1841 : The Paris Opera Ballet premieres Giselle in the Salle Le Peletier.
+<br/><br/>
+En 1838 : Coronation of Queen Victoria of the United Kingdom.
+<br/><br/>
+En 1807 : Second British invasion of the Río de la Plata; John Whitelocke lands at Ensenada on an attempt to recapture Buenos Aires and is defeated by the locals.
+<br/><br/>
+En 1797 : French troops disembark in Corfu, beginning the French rule in the Ionian Islands.
+<br/><br/>
+En 1778 : American Revolutionary War: The American Continentals engage the British in the Battle of Monmouth Courthouse resulting in standstill and British withdrawal under cover of darkness.
+<br/><br/>
+En 1776 : American Revolutionary War: The Battle of Sullivan's Island ends with the American victory, leading to the commemoration of Carolina Day.
+<br/><br/>
+En 1776 : American Revolutionary War: Thomas Hickey, Continental Army private and bodyguard to General George Washington, is hanged for mutiny and sedition.
+<br/><br/>
+En 1745 : A New England colonial army captures the French fortifications at Louisbourg (New Style).
+<br/><br/>
+En 1651 : The Battle of Berestechko between Poland and Ukraine starts.
+<br/><br/>
+En 1635 : Guadeloupe becomes a French colony.
+<br/><br/>
+En 1575 : Sengoku period of Japan: The combined forces of Oda Nobunaga and Tokugawa Ieyasu are victorious in the Battle of Nagashino.
+<br/><br/>
+En 1519 : Charles V is elected Emperor of the Holy Roman Empire.
+<br/><br/>
+En 1495 : A French force heavily defeats a much larger Neapolitan and Spanish army at the battle of Seminara, leading to the creation of the Tercios by Gonzalo de Córdoba.
+<br/><br/>
+En 1461 : Edward, Earl of March, is crowned King Edward IV of England.
+<br/><br/>
+En 1360 : Muhammed VI becomes the tenth Nasrid king of Granada after killing his brother-in-law Ismail II.
+<br/><br/>
+En 1098 : Fighters of the First Crusade defeat Kerbogha of Mosul at the battle of Antioch.
 <br/><br/>
