@@ -4,175 +4,125 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 4/7 ?(Hover on the year)</h1>
+<h1> What happen this day 5/7 ?(Hover on the year)</h1>
 
-En 2015 : Chile claims its first title in international football by defeating Argentina in the 2015 Copa América Final.
+En 2022 : British government ministers Sajid Javid and Rishi Sunak resign from the second Johnson ministry, beginning the July 2022 United Kingdom government crisis.
 <br/><br/>
-En 2012 : The discovery of particles consistent with the Higgs boson at the Large Hadron Collider is announced at CERN.
+En 2016 : The Juno space probe arrives at Jupiter and begins a 20-month survey of the planet.
 <br/><br/>
-En 2009 : The Statue of Liberty's crown reopens to the public after eight years of closure due to security concerns following the September 11 attacks.
+En 2012 : The Shard in London is inaugurated as the tallest building in Europe, with a height of 310 metres (1,020 ft).
 <br/><br/>
-En 2009 : The first of four days of bombings begins on the southern Philippine island group of Mindanao.
+En 2009 : A series of violent riots break out in Ürümqi, the capital city of the Xinjiang Uyghur Autonomous Region in China.
 <br/><br/>
-En 2008 : A bomb explodes at a concert in Minsk's Independence Square, injuring 50 people.
+En 2009 : The largest hoard of Anglo-Saxon gold ever discovered in Britain, consisting of more than 1,500 items, is found near the village of Hammerwich, near Lichfield, Staffordshire.
 <br/><br/>
-En 2006 : Space Shuttle program: Discovery launches STS-121 to the International Space Station. The event gained wide media attention as it was the only shuttle launch in the program's history to occur on the United States' Independence Day.
+En 2006 : North Korea tests four short-range missiles, one medium-range missile and a long-range Taepodong-2. The long-range Taepodong-2 reportedly fails in mid-air over the Sea of Japan.
 <br/><br/>
-En 2005 : The Deep Impact collider hits the comet Tempel 1.
+En 2004 : The first direct Indonesian presidential election is held.
 <br/><br/>
-En 2004 : The cornerstone of the Freedom Tower is laid on the World Trade Center site in New York City.
+En 2003 : The World Health Organization announces that the 2002–2004 SARS outbreak has been contained.
 <br/><br/>
-En 2004 : Greece beats Portugal in the UEFA Euro 2004 Final and becomes European Champion for first time in its history.
+En 1999 : U.S. President Bill Clinton imposes trade and economic sanctions against the Taliban regime in Afghanistan.
 <br/><br/>
-En 2002 : A Boeing 707 crashes near Bangui M'Poko International Airport in Bangui, Central African Republic, killing 28.
+En 1997 : Sri Lankan Civil War: Sri Lankan Tamil MP A. Thangathurai is shot dead at Sri Shanmuga Hindu Ladies College in Trincomalee.
 <br/><br/>
-En 2001 : Vladivostok Air Flight 352 crashes on approach to Irkutsk Airport killing all 145 people on board.
+En 1996 : Dolly the sheep becomes the first mammal cloned from an adult cell.
 <br/><br/>
-En 1998 : Japan launches the Nozomi probe to Mars, joining the United States and Russia as a space exploring nation.
+En 1995 : Armenia adopts its constitution, four years after its independence from the Soviet Union.
 <br/><br/>
-En 1997 : NASA's Pathfinder space probe lands on the surface of Mars.
+En 1994 : Jeff Bezos founds Amazon.
 <br/><br/>
-En 1994 : Rwandan genocide: Kigali, the Rwandan capital, is captured by the Rwandan Patriotic Front, ending the genocide in the city.
+En 1989 : Iran–Contra affair: Oliver North is sentenced by U.S. District Judge Gerhard A. Gesell to a three-year suspended prison term, two years probation, $150,000 in fines and 1,200 hours community service. His convictions are later overturned.
 <br/><br/>
-En 1982 : Three Iranian diplomats and a journalist are kidnapped in Lebanon by Phalange forces, and their fate remains unknown.
+En 1987 : Sri Lankan Civil War: The LTTE uses suicide attacks on the Sri Lankan Army for the first time. The Black Tigers are born and, in the following years, will continue to kill with the tactic.
 <br/><br/>
-En 1982 : Space Shuttle program: Columbia lands at Edwards Air Force Base at the end of the program's final test flight, STS-4. President Ronald Reagan declares the Space Shuttle to be operational.
+En 1984 : The United States Supreme Court gives its United States v. Leon decision providing a good-faith exception from the Fourth Amendment exclusionary rule against use of evidence obtained through defective warrants in criminal trials.
 <br/><br/>
-En 1977 : The George Jackson Brigade plants a bomb at the main power substation for the Washington state capitol in Olympia, in solidarity with a prison strike at the Walla Walla State Penitentiary Intensive Security Unit.
+En 1980 : Swedish tennis player Björn Borg wins his fifth Wimbledon final and becomes the first male tennis player to win the championships five times in a row (1976–1980).
 <br/><br/>
-En 1976 : Israeli commandos raid Entebbe airport in Uganda, rescuing all but four of the passengers and crew of an Air France jetliner seized by Palestinian terrorists.
+En 1977 : The Pakistan Armed Forces under Muhammad Zia-ul-Haq seize power in Operation Fair Play and begin 11 years of martial law. Zulfikar Ali Bhutto, the first elected Prime Minister of Pakistan, is overthrown.
 <br/><br/>
-En 1966 : U.S. President Lyndon B. Johnson signs the Freedom of Information Act into United States law. The act went into effect the next year.
+En 1975 : Arthur Ashe becomes the first black man to win the Wimbledon singles title.
 <br/><br/>
-En 1961 : On its maiden voyage, the Soviet nuclear-powered submarine K-19 suffers a complete loss of coolant to its reactor. The crew are able to effect repairs, but 22 of them die of radiation poisoning over the following two years.
+En 1975 : Cape Verde gains its independence from Portugal.
 <br/><br/>
-En 1960 : Due to the post-Independence Day admission of Hawaii as the 50th U.S. state on August 21, 1959, the 50-star flag of the United States debuts in Philadelphia, almost ten and a half months later (see Flag Acts (United States)).
+En 1973 : A boiling liquid expanding vapor explosion (BLEVE) in Kingman, Arizona, following a fire that broke out as propane was being transferred from a railroad car to a storage tank, kills eleven firefighters.
 <br/><br/>
-En 1954 : Food rationing in Great Britain ends, with the lifting of restrictions on sale and purchase of meat, 14 years after it began early in World War II, and nearly a decade after the war's end.
+En 1973 : Juvénal Habyarimana seizes power over Rwanda in a coup d'état.
 <br/><br/>
-En 1951 : Cold War: A court in Czechoslovakia sentences American journalist William N. Oatis to ten years in prison on charges of espionage.
+En 1971 : The Twenty-sixth Amendment to the United States Constitution, lowering the voting age from 21 to 18 years, is formally certified by President Richard Nixon.
 <br/><br/>
-En 1951 : William Shockley announces the invention of the junction transistor.
+En 1970 : Air Canada Flight 621 crashes in Brampton, Ontario, Canada, killing all 109 people on board.
 <br/><br/>
-En 1950 : Cold War: Radio Free Europe first broadcasts.
+En 1962 : The official independence of Algeria is proclaimed after an eight-year-long war with France.
 <br/><br/>
-En 1947 : The "Indian Independence Bill" is presented before the British House of Commons, proposing the independence of the Provinces of British India into two sovereign countries: India and Pakistan.
+En 1954 : The BBC broadcasts its first daily television news bulletin.
 <br/><br/>
-En 1946 : The Kielce pogrom against Jewish Holocaust survivors in Poland.
+En 1954 : Elvis Presley records his first single, "That's All Right", at Sun Records in Memphis, Tennessee.
 <br/><br/>
-En 1946 : After 381 years of near-continuous colonial rule by various powers, the Philippines attains full independence from the United States.
+En 1950 : Korean War: Task Force Smith: American and North Korean forces first clash, in the Battle of Osan.
 <br/><br/>
-En 1943 : World War II: The Battle of Kursk, the largest full-scale battle in history and the world's largest tank battle, begins in the village of Prokhorovka.
+En 1950 : The Knesset of Israel passes the Law of Return which grants all Jews the right to immigrate to the Land of Israel.
 <br/><br/>
-En 1943 : World War II: In Gibraltar, a Royal Air Force B-24 Liberator bomber crashes into the sea in an apparent accident moments after takeoff, killing sixteen passengers on board, including general Władysław Sikorski, the commander-in-chief of the Polish Army and the Prime Minister of the Polish government-in-exile; only the pilot survives.
+En 1948 : National Health Service Acts create the national public health system in the United Kingdom.
 <br/><br/>
-En 1942 : World War II: The 250-day Siege of Sevastopol in the Crimea ends when the city falls to Axis forces.
+En 1946 : Micheline Bernardini models the first modern bikini at a swimming pool in Paris.
 <br/><br/>
-En 1941 : Nazi crimes against the Polish nation: Nazi troops massacre Polish scientists and writers in the captured Ukrainian city of Lviv.
+En 1945 : The United Kingdom holds its first general election in 10 years, which would be won by Clement Attlee's Labour Party.
 <br/><br/>
-En 1941 : World War II: The Burning of the Riga synagogues: The Great Choral Synagogue in German-occupied Riga is burnt with 300 Jews locked in the basement.
+En 1943 : World War II: An Allied invasion fleet sails for Sicily (Operation Husky, July 10, 1943).
 <br/><br/>
-En 1939 : Lou Gehrig, recently diagnosed with Amyotrophic lateral sclerosis, informs a crowd at Yankee Stadium that he considers himself "The luckiest man on the face of the earth", then announces his retirement from major league baseball.
+En 1943 : World War II: German forces begin a massive offensive against the Soviet Union at the Battle of Kursk, also known as Operation Citadel.
 <br/><br/>
-En 1927 : First flight of the Lockheed Vega.
+En 1941 : World War II: Operation Barbarossa: German troops reach the Dnieper river.
 <br/><br/>
-En 1918 : Mehmed V died at the age of 73 and Ottoman sultan Mehmed VI ascends to the throne.
+En 1940 : World War II: Foreign relations of Vichy France are severed with the United Kingdom.
 <br/><br/>
-En 1918 : World War I: The Battle of Hamel, a successful attack by the Australian Corps against German positions near the town of Le Hamel on the Western Front.
+En 1937 : Spam, the luncheon meat, is introduced into the market by the Hormel Foods Corporation.
 <br/><br/>
-En 1914 : The funeral of Archduke Franz Ferdinand and his wife Sophie takes place in Vienna, six days after their assassinations in Sarajevo.
+En 1935 : The National Labor Relations Act, which governs labor relations in the United States, is signed into law by President Franklin D. Roosevelt.
 <br/><br/>
-En 1913 : President Woodrow Wilson addresses American Civil War veterans at the Great Reunion of 1913.
+En 1934 : "Bloody Thursday": The police open fire on striking longshoremen in San Francisco.
 <br/><br/>
-En 1911 : A massive heat wave strikes the northeastern United States, killing 380 people in eleven days and breaking temperature records in several cities.
+En 1915 : The Liberty Bell leaves Philadelphia by special train on its way to the Panama–Pacific International Exposition.  This is the last trip outside Philadelphia that the custodians of the bell intend to permit.
 <br/><br/>
-En 1910 : The Johnson–Jeffries riots occur after African-American boxer Jack Johnson knocks out white boxer Jim Jeffries in the 15th round. Between 11 and 26 people are killed and hundreds more injured.
+En 1884 : Germany takes possession of Cameroon.
 <br/><br/>
-En 1903 : The Philippine–American War is officially concluded.
+En 1865 : The United States Secret Service begins operation.
 <br/><br/>
-En 1901 : William Howard Taft becomes American governor of the Philippines.
+En 1859 : The United States discovers and claims Midway Atoll.
 <br/><br/>
-En 1898 : En route from New York to Le Havre, the SS La Bourgogne collides with another ship and sinks off the coast of Sable Island, with the loss of 549 lives.
+En 1852 : Frederick Douglass delivers his "What to the Slave Is the Fourth of July?" speech in Rochester, New York.
 <br/><br/>
-En 1894 : The short-lived Republic of Hawaii is proclaimed by Sanford B. Dole.
+En 1841 : Thomas Cook organises the first package excursion, from Leicester to Loughborough.
 <br/><br/>
-En 1892 : Western Samoa changes the International Date Line, causing Monday (July 4) to occur twice, resulting in a leap year with 367 days.
+En 1833 : Lê Văn Khôi along with 27 soldiers stage a mutiny taking over the Phiên An citadel, developing into the Lê Văn Khôi revolt against Emperor Minh Mạng.
 <br/><br/>
-En 1887 : The founder of Pakistan, Quaid-i-Azam Muhammad Ali Jinnah, joins Sindh-Madrasa-tul-Islam, Karachi.
+En 1833 : Admiral Charles Napier vanquishes the navy of the Portuguese usurper Dom Miguel at the third Battle of Cape St. Vincent.
 <br/><br/>
-En 1886 : The Canadian Pacific Railway's first scheduled train from Montreal arrives in Port Moody on the Pacific coast, after six days of travel.
+En 1814 : War of 1812: Battle of Chippawa: American Major General Jacob Brown defeats British General Phineas Riall at Chippawa, Ontario.
 <br/><br/>
-En 1881 : In Alabama, the Tuskegee Institute opens.
+En 1813 : War of 1812: Three weeks of British raids on Fort Schlosser, Black Rock and Plattsburgh, New York commence.
 <br/><br/>
-En 1879 : Anglo-Zulu War: The Zululand capital of Ulundi is captured by British troops and burned to the ground, ending the war and forcing King Cetshwayo to flee.
+En 1811 : The Venezuelan Declaration of Independence is adopted by a congress of the provinces.
 <br/><br/>
-En 1863 : American Civil War: Siege of Vicksburg: The Confederate army in Vicksburg, Mississippi surrenders to Union forces under Ulysses S. Grant after 47 days of siege, contributing to the Union capture of the Mississippi River.
+En 1809 : The Battle of Wagram between the French and Austrian Empires begins.
 <br/><br/>
-En 1863 : American Civil War: Union forces repulse a Confederate army at the Battle of Helena in Arkansas. The battle thwarts a Rebel attempt to relieve pressure on the besieged city of Vicksburg, and paves the way for the Union capture of Little Rock.
+En 1807 : In Buenos Aires the local militias repel the British soldiers within the Second English Invasion.
 <br/><br/>
-En 1863 : American Civil War: Retreat from Gettysburg: The Confederate Army of Northern Virginia under Robert E. Lee withdraws from the battlefield after losing the Battle of Gettysburg, signaling an end to his last invasion of the North.
+En 1803 : The Convention of Artlenburg is signed, leading to the French occupation of the Electorate of Hanover (which had been ruled by the British king).
 <br/><br/>
-En 1862 : Lewis Carroll tells Alice Liddell a story that would grow into Alice's Adventures in Wonderland and its sequels.
+En 1775 : The Second Continental Congress adopts the Olive Branch Petition.
 <br/><br/>
-En 1855 : The first edition of Walt Whitman's book of poems, Leaves of Grass, is published in Brooklyn.
+En 1770 : The Battle of Chesma between the Russian Empire and the Ottoman Empire begins.
 <br/><br/>
-En 1845 : Henry David Thoreau moves into a small cabin on Walden Pond in Concord, Massachusetts. Thoreau's account of his two years there, Walden, will become a touchstone of the environmental movement.
+En 1687 : Isaac Newton publishes Philosophiæ Naturalis Principia Mathematica.
 <br/><br/>
-En 1838 : The Iowa Territory is organized.
+En 1610 : John Guy sets sail from Bristol with 39 other colonists for Newfoundland.
 <br/><br/>
-En 1837 : Grand Junction Railway, the world's first long-distance railway, opens between Birmingham and Liverpool.
+En 1594 : Portuguese forces under the command of Pedro Lopes de Sousa begin an unsuccessful invasion of the Kingdom of Kandy during the Campaign of Danture in Sri Lanka.
 <br/><br/>
-En 1832 : John Neal delivers the first public lecture in the US to advocate the rights of women.
+En 1316 : The Burgundian and Majorcan claimants of the Principality of Achaea meet in the Battle of Manolada.
 <br/><br/>
-En 1832 : Durham University established by Act of Parliament; the first recognized university to be founded in England since Cambridge over 600 years earlier.
-<br/><br/>
-En 1831 : Samuel Francis Smith writes "My Country, 'Tis of Thee" for the Boston, Massachusetts July 4 festivities.
-<br/><br/>
-En 1827 : Slavery is abolished in the State of New York.
-<br/><br/>
-En 1818 : US Flag Act of 1818 goes into effect creating a 13 stripe flag with a star for each state. New stars would be added on July 4 after a new state had been admitted.
-<br/><br/>
-En 1817 : In Rome, New York, construction on the Erie Canal begins.
-<br/><br/>
-En 1803 : The Louisiana Purchase is announced to the American people.
-<br/><br/>
-En 1802 : The United States Military Academy opens at West Point, New York.
-<br/><br/>
-En 1778 : American Revolutionary War: U.S. forces under George Clark capture Kaskaskia during the Illinois campaign.
-<br/><br/>
-En 1776 : American Revolution: The United States Declaration of Independence is adopted by the Second Continental Congress.
-<br/><br/>
-En 1774 : Orangetown Resolutions are adopted in the Province of New York, one of many protests against the British Parliament's Coercive Acts.
-<br/><br/>
-En 1744 : The Treaty of Lancaster, in which the Iroquois cede lands between the Allegheny Mountains and the Ohio River to the British colonies, was signed in Lancaster, Pennsylvania.
-<br/><br/>
-En 1634 : The city of Trois-Rivières is founded in New France (now Quebec, Canada).
-<br/><br/>
-En 1610 : The Battle of Klushino is fought between forces of the Polish–Lithuanian Commonwealth and Russia during the Polish–Muscovite War.
-<br/><br/>
-En 1584 : Philip Amadas and Arthur Barlowe arrive at Roanoke Island.
-<br/><br/>
-En 1534 : Christian III is elected King of Denmark and Norway in the town of Rye.
-<br/><br/>
-En 1456 : Ottoman–Hungarian wars: The Siege of Nándorfehérvár (Belgrade) begins.
-<br/><br/>
-En 1359 : Francesco II Ordelaffi of Forlì surrenders to the Papal commander Gil de Albornoz.
-<br/><br/>
-En 1333 : Genkō War: Forces loyal to Emperor Go-Daigo seize Tōshō-ji during the Siege of Kamakura. Hōjō Takatoki and other members of the Hōjō clan commit suicide, ending the rule of the Kamakura shogunate.
-<br/><br/>
-En 1253 : Battle of West-Capelle: John I of Avesnes defeats Guy of Dampierre.
-<br/><br/>
-En 1187 : The Crusades: Battle of Hattin: Saladin defeats Guy of Lusignan, King of Jerusalem.
-<br/><br/>
-En 1120 : Jordan II of Capua is anointed as prince after his infant nephew's death.
-<br/><br/>
-En 1054 : A supernova, called SN 1054, is seen by Chinese Song dynasty, Arab, and possibly Amerindian observers near the star Zeta Tauri. For several months it remains bright enough to be seen during the day. Its remnants form the Crab Nebula.
-<br/><br/>
-En 993 : Ulrich of Augsburg is canonized as a saint.
-<br/><br/>
-En 836 : Pactum Sicardi, a peace treaty between the Principality of Benevento and the Duchy of Naples, is signed.
-<br/><br/>
-En 414 : Emperor Theodosius II, age 13, yields power to his older sister Aelia Pulcheria, who reigned as regent and proclaimed herself empress (Augusta) of the Eastern Roman Empire.
-<br/><br/>
-En -362 : Battle of Mantinea: The Thebans, led by Epaminondas, defeated the Spartans.
+En 328 : The official opening of Constantine's Bridge built over the Danube between Sucidava (Corabia, Romania) and Oescus (Gigen, Bulgaria) by the Roman architect Theophilus Patricius.
 <br/><br/>
