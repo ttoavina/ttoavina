@@ -4,113 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/7 ?(Hover on the year)</h1>
+<h1> What happen this day 18/7 ?(Hover on the year)</h1>
 
-En 2019 : A 100-year-old building in Mumbai, India, collapses, killing at least 10 people and leaving many others trapped.
+En 2019 : A man sets fire to an anime studio in Fushimi-ku, Kyoto, Japan, killing at least 35 people and injuring dozens of others.
 <br/><br/>
-En 2015 : Four U.S. Marines and one gunman die in a shooting spree targeting military installations in Chattanooga, Tennessee.
+En 2014 : The Islamic State of Iraq and the Levant requires Christians to either accept dhimmi status, emigrate from ISIL lands, or be killed.
 <br/><br/>
-En 2013 : As many as 27 children die and 25 others are hospitalized after eating lunch served at their school in eastern India.
+En 2013 : The Government of Detroit, with up to $20 billion in debt, files for the largest municipal bankruptcy in U.S. history.
 <br/><br/>
-En 2013 : Syrian civil war: The Battle of Ras al-Ayn resumes between the People's Protection Units (YPG) and Islamist forces, beginning the Rojava–Islamist conflict.
+En 2012 : At least seven people are killed and 32 others are injured after a bomb explodes on an Israeli tour bus at Burgas Airport, Bulgaria.
 <br/><br/>
-En 2009 : Teoh Beng Hock, an aide to a politician in Malaysia is found dead on the rooftop of a building adjacent to the offices of the Anti-Corruption Commission, sparking an inquest that gains nationwide attention.
+En 2002 : A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members.
 <br/><br/>
-En 2007 : An earthquake of magnitude 6.8 and 6.6 aftershock occurs off the Niigata coast of Japan killing eight people, injuring at least 800 and damaging a nuclear power plant.
+En 1996 : Storms provoke severe flooding on the Saguenay River, beginning one of Quebec's costliest natural disasters ever.
 <br/><br/>
-En 2005 : An Antonov An-24 crashes near Baney in Bioko Norte, Equatorial Guinea, killing 60 people.
+En 1996 : Battle of Mullaitivu: The Liberation Tigers of Tamil Eelam capture the Sri Lanka Army's base, killing over 1,200 soldiers.
 <br/><br/>
-En 2004 : Millennium Park, considered Chicago's first and most ambitious early 21st-century architectural project, is opened to the public by Mayor Richard M. Daley.
+En 1995 : On the Caribbean island of Montserrat, the Soufrière Hills volcano erupts. Over the course of several years, it devastates the island, destroying the capital, forcing most of the population to flee.
 <br/><br/>
-En 1999 : John F. Kennedy Jr., his wife, Carolyn Bessette-Kennedy, and her sister, Lauren Bessette, die when the aircraft he is piloting crashes into the Atlantic Ocean off the coast of Martha's Vineyard.
+En 1994 : The bombing of the Asociación Mutual Israelita Argentina (Argentine Jewish Community Center) in Buenos Aires kills 85 people (mostly Jewish) and injures 300.
 <br/><br/>
-En 1994 : The comet Shoemaker-Levy 9 is destroyed in a head-on collision with Jupiter.
+En 1994 : Rwandan genocide: The Rwandan Patriotic Front takes control of Gisenyi and north western Rwanda, forcing the interim government into Zaire and ending the genocide.
 <br/><br/>
-En 1990 : The Luzon earthquake strikes the Philippines with an intensity of 7.7, affecting Benguet, Pangasinan, Nueva Ecija, La Union, Aurora, Bataan, Zambales and Tarlac.
+En 1992 : A picture of Les Horribles Cernettes was taken, which became the first ever photo posted to the World Wide Web.
 <br/><br/>
-En 1990 : The Parliament of the Ukrainian SSR declares state sovereignty over the territory of the Ukrainian SSR.
+En 1984 : McDonald's massacre in San Ysidro, California: James Oliver Huberty kills 21 people and injures 19 others before being shot dead by police.
 <br/><br/>
-En 1983 : Sikorsky S-61 disaster: A helicopter crashes off the Isles of Scilly, causing 20 fatalities.
+En 1982 : Two hundred sixty-eight Guatemalan campesinos ("peasants" or "country people") are slain in the Plan de Sánchez massacre.
 <br/><br/>
-En 1979 : Iraqi President Ahmed Hassan al-Bakr resigns and is replaced by Saddam Hussein.
+En 1981 : A Canadair CL-44 and Sukhoi Su-15 collide in mid-air near Yerevan, Armenia, killing four.
 <br/><br/>
-En 1969 : Apollo program: Apollo 11, the first mission to land astronauts on the Moon, is launched from the Kennedy Space Center at Cape Kennedy, Florida.
+En 1976 : Nadia Comăneci becomes the first person in Olympic Games history to score a perfect 10 in gymnastics at the 1976 Summer Olympics.
 <br/><br/>
-En 1965 : The Mont Blanc Tunnel linking France and Italy opens.
+En 1968 : Intel is founded in Mountain View, California.
 <br/><br/>
-En 1965 : South Vietnamese Colonel Phạm Ngọc Thảo, a formerly undetected communist spy and double agent, is hunted down and killed by unknown individuals after being sentenced to death in absentia for a February 1965 coup attempt against Nguyễn Khánh.
+En 1966 : Human spaceflight: Gemini 10 is launched from Cape Kennedy on a 70-hour mission that includes docking with an orbiting Agena target vehicle.
 <br/><br/>
-En 1957 : KLM Flight 844 crashes off the Schouten Islands in present day Indonesia (then Netherlands New Guinea), killing 58 people.
+En 1966 : A racially charged incident in a bar sparks the six-day Hough riots in Cleveland, Ohio; 1,700 Ohio National Guard troops intervene to restore order.
 <br/><br/>
-En 1956 : Ringling Bros. and Barnum & Bailey Circus closes its last "Big Tent" show in Pittsburgh, Pennsylvania; due to changing economics, all subsequent circus shows will be held in arenas.
+En 1944 : World War II: Hideki Tōjō resigns as Prime Minister of Japan because of numerous setbacks in the war effort.
 <br/><br/>
-En 1951 : King Leopold III of Belgium abdicates in favor of his son, Baudouin I of Belgium.
+En 1942 : World War II: During the Beisfjord massacre in Norway, 15 Norwegian paramilitary guards help members of the SS to kill 288 political prisoners from Yugoslavia.
 <br/><br/>
-En 1951 : J. D. Salinger publishes his popular yet controversial novel, The Catcher in the Rye.
+En 1942 : The Germans test fly the Messerschmitt Me 262 using its jet engines for the first time.
 <br/><br/>
-En 1950 : Chaplain–Medic massacre: American POWs are massacred by North Korean Army.
+En 1925 : Adolf Hitler publishes Mein Kampf.
 <br/><br/>
-En 1948 : Following token resistance, the city of Nazareth, revered by Christians as the hometown of Jesus, capitulates to Israeli troops during Operation Dekel in the 1948 Arab–Israeli War.
+En 1914 : The U.S. Congress forms the Aviation Section, U.S. Signal Corps, giving official status to aircraft within the U.S. Army for the first time.
 <br/><br/>
-En 1948 : The storming of the cockpit of the Miss Macao passenger seaplane, operated by a subsidiary of the Cathay Pacific Airways, marks the first aircraft hijacking of a commercial plane.
+En 1872 : The Ballot Act 1872 in the United Kingdom introduced the requirement that parliamentary and local government elections be held by secret ballot.
 <br/><br/>
-En 1945 : Manhattan Project: The Atomic Age begins when the United States successfully detonates a plutonium-based test nuclear weapon near Alamogordo, New Mexico.
+En 1870 : The First Vatican Council decrees the dogma of papal infallibility.
 <br/><br/>
-En 1945 : World War II: The heavy cruiser USS Indianapolis leaves San Francisco with parts for the atomic bomb "Little Boy" bound for Tinian Island.
+En 1863 : American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner.
 <br/><br/>
-En 1942 : Holocaust: Vel' d'Hiv Roundup (Rafle du Vel' d'Hiv): The government of Vichy France orders the mass arrest of 13,152 Jews who are held at the Vélodrome d'Hiver in Paris before deportation to Auschwitz.
+En 1862 : First ascent of Dent Blanche, one of the highest summits in the Alps.
 <br/><br/>
-En 1941 : Joe DiMaggio hits safely for the 56th consecutive game, a streak that still stands as an MLB record.
+En 1857 : Louis Faidherbe, French governor of Senegal, arrives to relieve French forces at Kayes, effectively ending El Hajj Umar Tall's war against the French.
 <br/><br/>
-En 1935 : The world's first parking meter is installed in Oklahoma City, Oklahoma.
+En 1841 : Coronation of Emperor Pedro II of Brazil.
 <br/><br/>
-En 1931 : Emperor Haile Selassie signs the first constitution of Ethiopia.
+En 1812 : The Treaties of Orebro end both the Anglo-Russian and Anglo-Swedish Wars.
 <br/><br/>
-En 1927 : Augusto César Sandino leads a raid on U.S. Marines and Nicaraguan Guardia Nacional that had been sent to apprehend him in the village of Ocotal, but is repulsed by one of the first dive-bombing attacks in history.
+En 1806 : A gunpowder magazine explosion in Birgu, Malta, kills around 200 people.
 <br/><br/>
-En 1915 : Henry James becomes a British citizen to highlight his commitment to Britain during the first World War.
+En 1723 : Johann Sebastian Bach leads the first performance of his cantata Erforsche mich, Gott, und erfahre mein Herz, BWV 136, in Leipzig on the eighth Sunday after Trinity.
 <br/><br/>
-En 1915 : At Treasure Island on the Delaware River in the United States, the First Order of the Arrow ceremony takes place and the Order of the Arrow is founded to honor American Boy Scouts who best exemplify the Scout Oath and Law.
+En 1555 : The College of Arms is reincorporated by Royal charter signed by Queen Mary I of England and King Philip II of Spain.
 <br/><br/>
-En 1910 : John Robertson Duigan makes the first flight of the Duigan pusher biplane, the first aircraft built in Australia.
+En 1507 : In Brussels, Prince Charles I is crowned Duke of Burgundy and Count of Flanders, a year after inheriting the title.
 <br/><br/>
-En 1909 : Persian Constitutional Revolution: Mohammad Ali Shah Qajar is forced out as Shah of Persia and is replaced by his son Ahmad Shah Qajar.
+En 1389 : France and England agree to the Truce of Leulinghem, inaugurating a 13-year peace, the longest period of sustained peace during the Hundred Years' War.
 <br/><br/>
-En 1862 : American Civil War: David Farragut is promoted to rear admiral, becoming the first officer in United States Navy to hold an admiral rank.
+En 1334 : The bishop of Florence blesses the first foundation stone for the new campanile (bell tower) of the Florence Cathedral, designed by the artist Giotto di Bondone.
 <br/><br/>
-En 1861 : American Civil War: At the order of President Abraham Lincoln, Union troops begin a 25-mile march into Virginia for what will become the First Battle of Bull Run, the first major land battle of the war.
+En 1290 : King Edward I of England issues the Edict of Expulsion, banishing all Jews (numbering about 16,000) from England.
 <br/><br/>
-En 1858 : The last apparition of the Blessed Virgin Mary to Bernadette Soubirous in Lourdes, France.
+En 1195 : Battle of Alarcos: Almohad forces defeat the Castilian army of Alfonso VIII and force its retreat to Toledo.
 <br/><br/>
-En 1849 : Antonio María Claret y Clará founds the Congregation of the Missionary Sons of the Immaculate Heart of Mary, popularly known as the Claretians in Vic, in the province of Barcelona, Catalonia, Spain.
+En 645 : Chinese forces under general Li Shiji besiege the strategic fortress city of Anshi (Liaoning) during the Goguryeo–Tang War.
 <br/><br/>
-En 1809 : The city of La Paz, in what is today Bolivia, declares its independence from the Spanish Crown during the La Paz revolution and forms the Junta Tuitiva, the first independent government in Spanish America, led by Pedro Domingo Murillo.
+En 452 : Sack of Aquileia: After an earlier defeat on the Catalaunian Plains, Attila lays siege to the metropolis of Aquileia and eventually destroys it.
 <br/><br/>
-En 1790 : The District of Columbia is established as the capital of the United States after signature of the Residence Act.
+En 362 : Roman–Persian Wars: Emperor Julian arrives at Antioch with a Roman expeditionary force (60,000 men) and stays there for nine months to launch a campaign against the Persian Empire.
 <br/><br/>
-En 1779 : American Revolutionary War: Light infantry of the Continental Army seize a fortified British Army position in a midnight bayonet attack at the Battle of Stony Point.
-<br/><br/>
-En 1769 : Father Junípero Serra founds California's first mission, Mission San Diego de Alcalá. Over the following decades, it evolves into the city of San Diego, California.
-<br/><br/>
-En 1683 : Manchu Qing dynasty naval forces under traitorous commander Shi Lang defeat the Kingdom of Tungning in the Battle of Penghu near the Pescadores Islands.
-<br/><br/>
-En 1661 : The first banknotes in Europe are issued by the Swedish bank Stockholms Banco.
-<br/><br/>
-En 1536 : Jacques Cartier, navigator and explorer, returns home to St. Malo after claiming Stadacona (Quebec), Hochelaga (Montereal) and the River of Canada (St. Lawrence River) region for France.
-<br/><br/>
-En 1377 : King Richard II of England is crowned.
-<br/><br/>
-En 1251 : Celebrated by the Carmelite Order–but doubted by modern historians–as the day when Saint Simon Stock had a vision of the Virgin Mary.
-<br/><br/>
-En 1232 : The Spanish town of Arjona declares independence and names its native Muhammad ibn Yusuf as ruler. This marks the Muhammad's first rise to prominence; he would later establish the Nasrid Emirate of Granada, the last independent Muslim state in Spain.
-<br/><br/>
-En 1228 : The canonization of Saint Francis of Assisi
-<br/><br/>
-En 1212 : Battle of Las Navas de Tolosa: After Pope Innocent III calls European knights to a crusade, forces of Kings Alfonso VIII of Castile, Sancho VII of Navarre, Peter II of Aragon and Afonso II of Portugal defeat those of the Berber Muslim leader Almohad, thus marking a significant turning point in the Reconquista and in the medieval history of Spain.
-<br/><br/>
-En 1054 : Three Roman legates break relations between Western and Eastern Christian Churches through the act of placing a Papal bull (of doubtful validity) of Excommunication on the altar of Hagia Sophia during Saturday afternoon divine liturgy. Historians frequently describe the event as the formal start of the East–West Schism.
-<br/><br/>
-En 997 : Battle of Spercheios: Bulgarian forces of Tsar Samuel are defeated by a Byzantine army under general Nikephoros Ouranos at the Spercheios River in Greece.
-<br/><br/>
-En 622 : The Hijrah of Muhammad begins, marking the beginning of the Islamic calendar.
+En -477 : Battle of the Cremera as part of the Roman–Etruscan Wars.  Veii ambushes and defeats the Roman army.
 <br/><br/>
