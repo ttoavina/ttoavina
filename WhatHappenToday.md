@@ -4,89 +4,119 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 18/7 ?(Hover on the year)</h1>
+<h1> What happen this day 19/7 ?(Hover on the year)</h1>
 
-En 2019 : A man sets fire to an anime studio in Fushimi-ku, Kyoto, Japan, killing at least 35 people and injuring dozens of others.
+En 2018 : The Knesset passes the controversial Nationality Bill, which defines the State of Israel as the nation-state of the Jewish people.
 <br/><br/>
-En 2014 : The Islamic State of Iraq and the Levant requires Christians to either accept dhimmi status, emigrate from ISIL lands, or be killed.
+En 2014 : Gunmen in Egypt's western desert province of New Valley Governorate attack a military checkpoint, killing at least 21 soldiers. Egypt reportedly declares a state of emergency on its border with Sudan.
 <br/><br/>
-En 2013 : The Government of Detroit, with up to $20 billion in debt, files for the largest municipal bankruptcy in U.S. history.
+En 2012 : Syrian civil war: The People's Protection Units (YPG) capture the city of Kobanî without resistance, starting the Rojava conflict in Northeast Syria.
 <br/><br/>
-En 2012 : At least seven people are killed and 32 others are injured after a bomb explodes on an Israeli tour bus at Burgas Airport, Bulgaria.
+En 2011 : Guinean President Alpha Condé survives an attempted assassination and coup d'état at his residence in Conakry.
 <br/><br/>
-En 2002 : A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members.
+En 1997 : The Troubles: The Provisional Irish Republican Army resumes a ceasefire to end their 25-year paramilitary campaign to end British rule in Northern Ireland.
 <br/><br/>
-En 1996 : Storms provoke severe flooding on the Saguenay River, beginning one of Quebec's costliest natural disasters ever.
+En 1992 : A car bomb kills Judge Paolo Borsellino and five members of his escort.
 <br/><br/>
-En 1996 : Battle of Mullaitivu: The Liberation Tigers of Tamil Eelam capture the Sri Lanka Army's base, killing over 1,200 soldiers.
+En 1989 : United Airlines Flight 232 crashes in Sioux City, Iowa killing 111.
 <br/><br/>
-En 1995 : On the Caribbean island of Montserrat, the Soufrière Hills volcano erupts. Over the course of several years, it devastates the island, destroying the capital, forcing most of the population to flee.
+En 1985 : The Val di Stava dam collapses killing 268 people in Val di Stava, Italy.
 <br/><br/>
-En 1994 : The bombing of the Asociación Mutual Israelita Argentina (Argentine Jewish Community Center) in Buenos Aires kills 85 people (mostly Jewish) and injures 300.
+En 1983 : The first three-dimensional reconstruction of a human head in a CT is published.
 <br/><br/>
-En 1994 : Rwandan genocide: The Rwandan Patriotic Front takes control of Gisenyi and north western Rwanda, forcing the interim government into Zaire and ending the genocide.
+En 1982 : In one of the first militant attacks by Hezbollah, David S. Dodge, president of the American University of Beirut, is kidnapped.
 <br/><br/>
-En 1992 : A picture of Les Horribles Cernettes was taken, which became the first ever photo posted to the World Wide Web.
+En 1981 : In a private meeting with U.S. President Ronald Reagan, French President François Mitterrand reveals the existence of the Farewell Dossier, a collection of documents showing the Soviet Union had been stealing American technological research and development.
 <br/><br/>
-En 1984 : McDonald's massacre in San Ysidro, California: James Oliver Huberty kills 21 people and injures 19 others before being shot dead by police.
+En 1980 : Opening of the Summer Olympics in Moscow.
 <br/><br/>
-En 1982 : Two hundred sixty-eight Guatemalan campesinos ("peasants" or "country people") are slain in the Plan de Sánchez massacre.
+En 1979 : The Sandinista rebels overthrow the government of the Somoza family in Nicaragua.
 <br/><br/>
-En 1981 : A Canadair CL-44 and Sukhoi Su-15 collide in mid-air near Yerevan, Armenia, killing four.
+En 1979 : The oil tanker SS Atlantic Empress collides with another oil tanker, causing the largest ever ship-borne oil spill.
 <br/><br/>
-En 1976 : Nadia Comăneci becomes the first person in Olympic Games history to score a perfect 10 in gymnastics at the 1976 Summer Olympics.
+En 1977 : The world's first Global Positioning System (GPS) signal was transmitted from Navigation Technology Satellite 2 (NTS-2) and received at Rockwell Collins in Cedar Rapids, Iowa, at 12:41 a.m. Eastern time (ET).
 <br/><br/>
-En 1968 : Intel is founded in Mountain View, California.
+En 1976 : Sagarmatha National Park in Nepal is created.
 <br/><br/>
-En 1966 : Human spaceflight: Gemini 10 is launched from Cape Kennedy on a 70-hour mission that includes docking with an orbiting Agena target vehicle.
+En 1972 : Dhofar Rebellion: British SAS units help the Omani government against Popular Front for the Liberation of Oman rebels in the Battle of Mirbat.
 <br/><br/>
-En 1966 : A racially charged incident in a bar sparks the six-day Hough riots in Cleveland, Ohio; 1,700 Ohio National Guard troops intervene to restore order.
+En 1969 : Chappaquiddick incident: U.S. Senator Ted Kennedy crashes his car into a tidal pond at Chappaquiddick Island, Massachusetts, killing his passenger Mary Jo Kopechne.
 <br/><br/>
-En 1944 : World War II: Hideki Tōjō resigns as Prime Minister of Japan because of numerous setbacks in the war effort.
+En 1967 : Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22 and a twin-engine Cessna 310 collided over Hendersonville, North Carolina, USA. Both aircraft were destroyed and all passengers and crew were killed, including John T. McNaughton, an advisor to Robert McNamara.
 <br/><br/>
-En 1942 : World War II: During the Beisfjord massacre in Norway, 15 Norwegian paramilitary guards help members of the SS to kill 288 political prisoners from Yugoslavia.
+En 1964 : Vietnam War: At a rally in Saigon, South Vietnamese Prime Minister Nguyễn Khánh calls for expanding the war into North Vietnam.
 <br/><br/>
-En 1942 : The Germans test fly the Messerschmitt Me 262 using its jet engines for the first time.
+En 1963 : Joe Walker flies a North American X-15 to a record altitude of 106,010 meters (347,800 feet) on X-15 Flight 90. Exceeding an altitude of 100 km, this flight qualifies as a human spaceflight under international convention.
 <br/><br/>
-En 1925 : Adolf Hitler publishes Mein Kampf.
+En 1961 : Tunisia imposes a blockade on the French naval base at Bizerte; the French would capture the entire town four days later.
 <br/><br/>
-En 1914 : The U.S. Congress forms the Aviation Section, U.S. Signal Corps, giving official status to aircraft within the U.S. Army for the first time.
+En 1957 : The largely autobiographical novel The Ordeal of Gilbert Pinfold by Evelyn Waugh was published.
 <br/><br/>
-En 1872 : The Ballot Act 1872 in the United Kingdom introduced the requirement that parliamentary and local government elections be held by secret ballot.
+En 1952 : Opening of the Summer Olympics in Helsinki, Finland.
 <br/><br/>
-En 1870 : The First Vatican Council decrees the dogma of papal infallibility.
+En 1947 : Prime Minister of the shadow Burmese government, Bogyoke Aung San and eight others are assassinated.
 <br/><br/>
-En 1863 : American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner.
+En 1947 : Korean politician Lyuh Woon-hyung is assassinated.
 <br/><br/>
-En 1862 : First ascent of Dent Blanche, one of the highest summits in the Alps.
+En 1943 : World War II: Rome is heavily bombed by more than 500 Allied aircraft, inflicting thousands of casualties.
 <br/><br/>
-En 1857 : Louis Faidherbe, French governor of Senegal, arrives to relieve French forces at Kayes, effectively ending El Hajj Umar Tall's war against the French.
+En 1942 : World War II: The Second Happy Time of Hitler's submarines comes to an end, as the increasingly effective American convoy system compels them to return to the central Atlantic.
 <br/><br/>
-En 1841 : Coronation of Emperor Pedro II of Brazil.
+En 1940 : World War II: Battle of Cape Spada: The Royal Navy and the Regia Marina clash; the Italian light cruiser Bartolomeo Colleoni sinks, with 121 casualties.
 <br/><br/>
-En 1812 : The Treaties of Orebro end both the Anglo-Russian and Anglo-Swedish Wars.
+En 1940 : Field Marshal Ceremony: First occasion in World War II that Adolf Hitler appoints field marshals due to military achievements.
 <br/><br/>
-En 1806 : A gunpowder magazine explosion in Birgu, Malta, kills around 200 people.
+En 1940 : World War II: Army order 112 forms the Intelligence Corps of the British Army.
 <br/><br/>
-En 1723 : Johann Sebastian Bach leads the first performance of his cantata Erforsche mich, Gott, und erfahre mein Herz, BWV 136, in Leipzig on the eighth Sunday after Trinity.
+En 1936 : Spanish Civil War: The CNT and UGT call a general strike in Spain – mobilizing workers' militias against the Nationalist forces.
 <br/><br/>
-En 1555 : The College of Arms is reincorporated by Royal charter signed by Queen Mary I of England and King Philip II of Spain.
+En 1934 : The rigid airship USS Macon surprised the USS Houston near Clipperton Island with a mail delivery for President Franklin D. Roosevelt, demonstrating its potential for tracking ships at sea.
 <br/><br/>
-En 1507 : In Brussels, Prince Charles I is crowned Duke of Burgundy and Count of Flanders, a year after inheriting the title.
+En 1916 : World War I: Battle of Fromelles: British and Australian troops attack German trenches as part of the Battle of the Somme.
 <br/><br/>
-En 1389 : France and England agree to the Truce of Leulinghem, inaugurating a 13-year peace, the longest period of sustained peace during the Hundred Years' War.
+En 1903 : Maurice Garin wins the first Tour de France.
 <br/><br/>
-En 1334 : The bishop of Florence blesses the first foundation stone for the new campanile (bell tower) of the Florence Cathedral, designed by the artist Giotto di Bondone.
+En 1900 : The first line of the Paris Métro opens for operation.
 <br/><br/>
-En 1290 : King Edward I of England issues the Edict of Expulsion, banishing all Jews (numbering about 16,000) from England.
+En 1870 : Franco-Prussian War: France declares war on Prussia.
 <br/><br/>
-En 1195 : Battle of Alarcos: Almohad forces defeat the Castilian army of Alfonso VIII and force its retreat to Toledo.
+En 1864 : Taiping Rebellion: Third Battle of Nanking: The Qing dynasty finally defeats the Taiping Heavenly Kingdom.
 <br/><br/>
-En 645 : Chinese forces under general Li Shiji besiege the strategic fortress city of Anshi (Liaoning) during the Goguryeo–Tang War.
+En 1863 : American Civil War: Morgan's Raid: At Buffington Island in Ohio, Confederate General John Hunt Morgan's raid into the north is mostly thwarted when a large group of his men are captured while trying to escape across the Ohio River.
 <br/><br/>
-En 452 : Sack of Aquileia: After an earlier defeat on the Catalaunian Plains, Attila lays siege to the metropolis of Aquileia and eventually destroys it.
+En 1848 : Women's rights: A two-day Women's Rights Convention opens in Seneca Falls, New York.
 <br/><br/>
-En 362 : Roman–Persian Wars: Emperor Julian arrives at Antioch with a Roman expeditionary force (60,000 men) and stays there for nine months to launch a campaign against the Persian Empire.
+En 1845 : Great New York City Fire of 1845: The last great fire to affect Manhattan begins early in the morning and is subdued that afternoon. The fire kills four firefighters and 26 civilians and destroys 345 buildings.
 <br/><br/>
-En -477 : Battle of the Cremera as part of the Roman–Etruscan Wars.  Veii ambushes and defeats the Roman army.
+En 1843 : Brunel's steamship the SS Great Britain is launched, becoming the first ocean-going craft with an iron hull and screw propeller, becoming the largest vessel afloat in the world.
+<br/><br/>
+En 1832 : The British Medical Association is founded as the Provincial Medical and Surgical Association by Sir Charles Hastings at a meeting in the Board Room of the Worcester Infirmary.
+<br/><br/>
+En 1821 : Coronation of George IV of the United Kingdom.
+<br/><br/>
+En 1817 : Unsuccessful in his attempt to conquer the Kingdom of Hawaiʻi for the Russian-American Company, Georg Anton Schäffer is forced to admit defeat and leave Kauaʻi.
+<br/><br/>
+En 1702 : Great Northern War: A numerically superior Polish-Saxon army of Augustus II the Strong, operating from an advantageous defensive position, is defeated by a Swedish army half its size under the command of King Charles XII in the Battle of Klissow.
+<br/><br/>
+En 1701 : Representatives of the Iroquois Confederacy sign the Nanfan Treaty, ceding a large territory north of the Ohio River to England.
+<br/><br/>
+En 1588 : Anglo-Spanish War: Battle of Gravelines: The Spanish Armada is sighted in the English Channel.
+<br/><br/>
+En 1553 : The attempt to install Lady Jane Grey as Queen of England   collapses after only nine days.
+<br/><br/>
+En 1545 : The Tudor warship Mary Rose sinks off Portsmouth; in 1982 the wreck is salvaged in one of the most complex and expensive projects in the history of maritime archaeology.
+<br/><br/>
+En 1544 : Italian War of 1542–46: The first Siege of Boulogne begins.
+<br/><br/>
+En 1333 : Wars of Scottish Independence: Battle of Halidon Hill: The English win a decisive victory over the Scots.
+<br/><br/>
+En 998 : Arab–Byzantine wars: Battle of Apamea: Fatimids defeat a Byzantine army near Apamea.
+<br/><br/>
+En 939 : Battle of Simancas: King Ramiro II of León defeats the Moorish army under Caliph Abd-al-Rahman III near the city of Simancas.
+<br/><br/>
+En 711 : Umayyad conquest of Hispania: Battle of Guadalete: Umayyad forces under Tariq ibn Ziyad defeat the Visigoths led by King Roderic.
+<br/><br/>
+En 484 : Leontius, Roman usurper, is crowned Eastern emperor at Tarsus (modern Turkey). He is recognized in Antioch and makes it his capital.
+<br/><br/>
+En 64 : The Great Fire of Rome causes widespread devastation and rages on for six days, destroying half of the city.
 <br/><br/>
