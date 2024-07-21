@@ -4,139 +4,119 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 20/7 ?(Hover on the year)</h1>
+<h1> What happen this day 21/7 ?(Hover on the year)</h1>
 
-En 2021 : American businessman Jeff Bezos flies to space aboard New Shepard  NS-16 operated by his private spaceflight company Blue Origin.
+En 2023 : The Barbenheimer phenomenon begins as two major motion pictures, Greta Gerwig's fantasy comedy Barbie and Christopher Nolan's epic biographical thriller Oppenheimer, are released in theaters on the same day and audiences, instead of creating a rivalry between the extremely dissimilar films, instead attend and praise both as an informal, surreal double feature.
 <br/><br/>
-En 2017 : O. J. Simpson is granted parole to be released from prison after serving nine years of a 33-year sentence after being convicted of armed robbery in Las Vegas.
+En 2019 : Yuen Long attack or "721 incident" in Hong Kong. Triad members indiscriminately beat civilians returning from protests while police failed to take action.
 <br/><br/>
-En 2015 : A huge explosion in the mostly Kurdish border town of Suruç, Turkey, targeting the Socialist Youth Associations Federation, kills at least 31 people and injures over 100.
+En 2012 : Erden Eruç completes the first solo human-powered circumnavigation of the world.
 <br/><br/>
-En 2015 : The United States and Cuba resume full diplomatic relations after five decades.
+En 2011 : NASA's Space Shuttle program ends with the landing of Space Shuttle Atlantis on mission STS-135 at NASA's Kennedy Space Center.
 <br/><br/>
-En 2013 : Seventeen government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca.
+En 2010 : President Barack Obama signs the Dodd–Frank Wall Street Reform and Consumer Protection Act.
 <br/><br/>
-En 2013 : Syrian civil war: The Battle of Ras al-Ayn ends with the expulsion of Islamist forces from the city by the People's Protection Units (YPG).
+En 2008 : Ram Baran Yadav is declared the first President of Nepal.
 <br/><br/>
-En 2012 : James Holmes opened fire at a movie theater in Aurora, Colorado, killing 12 and injuring 70 others.
+En 2005 : Four attempted bomb attacks by Islamist extremists disrupt part of London's public transport system.
 <br/><br/>
-En 2012 : Syrian civil war: The People's Protection Units (YPG) capture the cities of Amuda and Efrîn without resistance.
+En 2001 : At the conclusion of a fireworks display on Okura Beach in Akashi, Hyōgo, Japan, 11 people are killed and more than 120 are injured when a pedestrian footbridge connecting the beach to JR Asagiri Station becomes overcrowded and people leaving the event fall down in a domino effect.
 <br/><br/>
-En 2005 : The Civil Marriage Act legalizes same-sex marriage in Canada.
+En 1995 : Third Taiwan Strait Crisis: The People's Liberation Army begins firing missiles into the waters north of Taiwan.
 <br/><br/>
-En 1999 : The Chinese Communist Party begins a persecution campaign against Falun Gong, arresting thousands nationwide.
+En 1990 : Taiwan's military police forces mainland Chinese illegal immigrants into sealed holds of a fishing boat Min Ping Yu No. 5540 for repatriation to Fujian, causing 25 people to die from suffocation.
 <br/><br/>
-En 1997 : The fully restored USS Constitution (a.k.a. Old Ironsides) celebrates its 200th birthday by setting sail for the first time in 116 years.
+En 1983 : The world's lowest temperature in an inhabited location is recorded at Vostok Station, Antarctica at −89.2 °C (−128.6 °F).
 <br/><br/>
-En 1992 : Václav Havel resigns as president of Czechoslovakia.
+En 1979 : Jay Silverheels, a Mohawk actor, becomes the first Native American to have a star commemorated in the Hollywood Walk of Fame.
 <br/><br/>
-En 1989 : Burma's ruling junta puts opposition leader Aung San Suu Kyi under house arrest.
+En 1977 : The start of the four-day-long Libyan–Egyptian War.
 <br/><br/>
-En 1985 : The government of Aruba passes legislation to secede from the Netherlands Antilles.
+En 1976 : Christopher Ewart-Biggs, the British ambassador to the Republic of Ireland, is assassinated by the Provisional IRA.
 <br/><br/>
-En 1982 : Hyde Park and Regent's Park bombings: The Provisional IRA detonates two bombs in Hyde Park and Regent's Park in central London, killing eight soldiers, wounding forty-seven people, and leading to the deaths of seven horses.
+En 1973 : In Lillehammer, Norway, Mossad agents kill a waiter whom they mistakenly thought was involved in the 1972 Munich Olympics Massacre.
 <br/><br/>
-En 1981 : Somali Airlines Flight 40 crashes in the Balad District of Somalia, killing 40 people.
+En 1972 : The Troubles: Bloody Friday: The Provisional IRA detonate 22 bombs in central Belfast, Northern Ireland, United Kingdom in the space of 80 minutes, killing nine and injuring 130.
 <br/><br/>
-En 1977 : The Central Intelligence Agency releases documents under the Freedom of Information Act revealing it had engaged in mind-control experiments.
+En 1970 : After 11 years of construction, the Aswan High Dam in Egypt is completed.
 <br/><br/>
-En 1977 : The Johnstown flood of 1977 kills 84 people and causes millions of dollars in damages.
+En 1969 : Apollo program: At 02:56 UTC, astronaut Neil Armstrong becomes the first person to walk on the Moon, followed 19 minutes later by Edwin "Buzz" Aldrin.
 <br/><br/>
-En 1976 : The American Viking 1 lander successfully lands on Mars.
+En 1964 : A series of racial riots break out in Singapore. In the next six weeks, 23 die with 454 others injured.
 <br/><br/>
-En 1974 : Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organised by the dictator of Greece, against president Makarios.
+En 1961 : Mercury program: Mercury-Redstone 4 Mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
 <br/><br/>
-En 1969 : Apollo program: Apollo 11's crew successfully makes the first human landing on the Moon in the Sea of Tranquility. Americans Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon six and a half hours later.
+En 1961 : Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska killing six.
 <br/><br/>
-En 1969 : A cease fire is announced between Honduras and El Salvador, six days after the beginning of the "Football War".
+En 1960 : Sirimavo Bandaranaike is elected Prime Minister of Sri Lanka, becoming the world's first female head of government
 <br/><br/>
-En 1968 : The first International Special Olympics Summer Games are held at Soldier Field in Chicago, with about 1,000 athletes with intellectual disabilities.
+En 1959 : NS Savannah, the first nuclear-powered cargo-passenger ship, is launched as a showcase for Dwight D. Eisenhower's "Atoms for Peace" initiative.
 <br/><br/>
-En 1964 : Vietnam War: Viet Cong forces attack the capital of Định Tường Province, Cái Bè, killing 11 South Vietnamese military personnel and 40 civilians (30 of whom are children).
+En 1959 : Elijah Jerry "Pumpsie" Green becomes the first African-American to play for the Boston Red Sox, the last team to integrate. He came in as a pinch runner for Vic Wertz and stayed in as shortstop in a 2–1 loss to the Chicago White Sox.
 <br/><br/>
-En 1961 : French military forces break the Tunisian siege of Bizerte.
+En 1954 : First Indochina War: The Geneva Conference partitions Vietnam into North Vietnam and South Vietnam.
 <br/><br/>
-En 1960 : Ceylon (now Sri Lanka) elects Sirimavo Bandaranaike Prime Minister, the world's first elected female head of government.
+En 1952 : The 7.3 Mw  Kern County earthquake strikes Southern California with a maximum Mercalli intensity of XI (Extreme), killing 12 and injuring hundreds.
 <br/><br/>
-En 1960 : The Polaris missile is successfully launched from a submarine, the USS George Washington, for the first time.
+En 1951 : Canadian Pacific Air Lines Flight 3505 disappears while flying from Vancouver to Tokyo. The aircraft and its 37 occupants are never found.
 <br/><br/>
-En 1954 : Germany: Otto John, head of West Germany's secret service, defects to East Germany.
+En 1949 : The United States Senate ratifies the North Atlantic Treaty.
 <br/><br/>
-En 1951 : King Abdullah I of Jordan is assassinated by a Palestinian while attending Friday prayers in Jerusalem.
+En 1944 : World War II: Battle of Guam: American troops land on Guam, starting a battle that will end on August 10.
 <br/><br/>
-En 1950 : Cold War: In Philadelphia, Harry Gold pleads guilty to spying for the Soviet Union by passing secrets from atomic scientist Klaus Fuchs.
+En 1944 : World War II: Claus von Stauffenberg and four fellow conspirators are executed for the July 20 plot to assassinate Adolf Hitler.
 <br/><br/>
-En 1950 : After a month-long campaign, the majority of North Korea's Air Force was destroyed by anti-communist forces.
+En 1936 : Spanish Civil War: The Central Committee of Antifascist Militias of Catalonia is constituted, establishing an anarcho-syndicalist economy in Catalonia.
 <br/><br/>
-En 1949 : The Israel–Syria Mixed Armistice Commission brokers the last of four ceasefire agreements to end the 1948 Arab–Israeli War.
+En 1925 : Scopes Trial: In Dayton, Tennessee, high school biology teacher John T. Scopes is found guilty of teaching human evolution in class and fined $100.
 <br/><br/>
-En 1944 : World War II: Adolf Hitler survives an assassination attempt led by German Army Colonel Claus von Stauffenberg.
+En 1925 : Malcolm Campbell becomes the first man to exceed 150 mph (241 km/h) on land. At Pendine Sands in Wales, he drives Sunbeam 350HP built by Sunbeam at a two-way average speed of 150.33 mph (242 km/h).
 <br/><br/>
-En 1941 : Soviet leader Joseph Stalin consolidates the Commissariats of Home Affairs and National Security to form the NKVD and names Lavrentiy Beria its chief.
+En 1920 : The "Belfast Pogrom" begins two years of violence with the expulsion of thousands of Catholic shipyard, factory and linen mill workers from their jobs.
 <br/><br/>
-En 1940 : Denmark leaves the League of Nations.
+En 1919 : The dirigible Wingfoot Air Express crashes into the Illinois Trust and Savings Building in Chicago, killing 12 people.
 <br/><br/>
-En 1940 : California opens its first freeway, the Arroyo Seco Parkway.
+En 1907 : The passenger steamer SS Columbia sinks after colliding with the steam schooner San Pedro off Shelter Cove, California, killing 88 people.
 <br/><br/>
-En 1938 : The United States Department of Justice files suit in New York City against the motion picture industry charging violations of the Sherman Antitrust Act in regards to the studio system.  The case would eventually result in a break-up of the industry in 1948.
+En 1904 : Louis Rigolly, a Frenchman, becomes the first man to break the 100 mph (161 km/h) barrier on land. He drove a 15-liter Gobron-Brillié in Ostend, Belgium.
 <br/><br/>
-En 1936 : The Montreux Convention is signed in Switzerland, authorizing Turkey to fortify the Dardanelles and Bosphorus but guaranteeing free passage to ships of all nations in peacetime.
+En 1877 : After rioting by Baltimore and Ohio Railroad workers and the deaths of nine rail workers at the hands of the Maryland militia, workers in Pittsburgh, Pennsylvania, stage a sympathy strike that is met with an assault by the state militia.
 <br/><br/>
-En 1935 : Switzerland: A Royal Dutch Airlines plane en route from Milan to Frankfurt crashes into a Swiss mountain, killing thirteen.
+En 1873 : At Adair, Iowa, Jesse James and the James–Younger Gang pull off the first successful train robbery in the American Old West.
 <br/><br/>
-En 1934 : Labor unrest in the U.S.: Police in Minneapolis fire upon striking truck drivers, during the Minneapolis Teamsters Strike of 1934, killing two and wounding sixty-seven.
+En 1865 : In the market square of Springfield, Missouri, Wild Bill Hickok shoots and kills Davis Tutt in what is regarded as the first western showdown.
 <br/><br/>
-En 1934 : West Coast waterfront strike: In Seattle, police fire tear gas on and club 2,000 striking longshoremen. The governor of Oregon calls out the National Guard to break a strike on the Portland docks.
+En 1861 : American Civil War: First Battle of Bull Run: At Manassas Junction, Virginia, the first major battle of the war begins and ends in a victory for the Confederate army.
 <br/><br/>
-En 1932 : In the Preußenschlag, German President Hindenburg places Prussia directly under the rule of the national government.
+En 1831 : Inauguration of Leopold I of Belgium, first king of the Belgians.
 <br/><br/>
-En 1922 : The League of Nations awards mandates of Togoland to France and Tanganyika to the United Kingdom.
+En 1798 : French campaign in Egypt and Syria: Napoleon's forces defeat an Ottoman-Mamluk army near Cairo in the Battle of the Pyramids.
 <br/><br/>
-En 1920 : The Greek Army takes control of Silivri after Greece is awarded the city by the Paris Peace Conference; by 1923 Greece effectively lost control to the Turks.
+En 1774 : Russo-Turkish War (1768–74): Russia and the Ottoman Empire sign the Treaty of Küçük Kaynarca ending the war.
 <br/><br/>
-En 1917 : World War I: The Corfu Declaration, which leads to the creation of the post-war Kingdom of Yugoslavia, is signed by the Yugoslav Committee and Kingdom of Serbia.
+En 1718 : The Treaty of Passarowitz between the Ottoman Empire, Austria and the Republic of Venice is signed.
 <br/><br/>
-En 1906 : In Finland, a new electoral law is ratified, guaranteeing the country the first and equal right to vote in the world. Finnish women are the first in Europe to receive the right to vote.
+En 1674 : A Dutch assault on the French island of Martinique is repulsed against all odds.
 <br/><br/>
-En 1903 : The Ford Motor Company ships its first automobile.
+En 1656 : The Raid on Málaga takes place during the Anglo-Spanish War.
 <br/><br/>
-En 1885 : The Football Association legalizes professionalism in association football under pressure from the British Football Association.
+En 1645 : Qing dynasty regent Dorgon issues an edict ordering all Han Chinese men to shave their forehead and braid the rest of their hair into a queue identical to those of the Manchus.
 <br/><br/>
-En 1871 : British Columbia joins the Canadian Confederation.
+En 1568 : Eighty Years' War: Battle of Jemmingen: Fernando Álvarez de Toledo, Duke of Alva defeats Louis of Nassau.
 <br/><br/>
-En 1866 : Austro-Prussian War: Battle of Lissa: The Austrian Navy, led by Admiral Wilhelm von Tegetthoff, defeats the Italian Navy near the island of Vis in the Adriatic Sea.
+En 1545 : The first landing of French troops on the coast of the Isle of Wight during the French invasion of the Isle of Wight.
 <br/><br/>
-En 1864 : American Civil War: Battle of Peachtree Creek: Near Atlanta, Georgia, Confederate forces led by General John Bell Hood unsuccessfully attack Union troops under General William T. Sherman.
+En 1403 : Battle of Shrewsbury: King Henry IV of England defeats rebels to the north of the county town of Shropshire, England.
 <br/><br/>
-En 1848 : The first Women's Rights Convention in Seneca Falls, New York, a two-day event, concludes.
+En 1242 : Battle of Taillebourg: Louis IX of France puts an end to the revolt of his vassals Henry III of England and Hugh X of Lusignan.
 <br/><br/>
-En 1831 : Seneca and Shawnee people agree to relinquish their land in western Ohio for 60,000 acres west of the Mississippi River.
+En 905 : King Berengar I of Italy and a hired Hungarian army defeats the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
 <br/><br/>
-En 1810 : Citizens of Bogotá, New Granada declare independence from Spain.
+En 365 : The 365 Crete earthquake affected the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
 <br/><br/>
-En 1807 : Nicéphore Niépce is awarded a patent by Napoleon for the Pyréolophore, the world's first internal combustion engine, after it successfully powered a boat upstream on the river Saône in France.
+En 285 : Diocletian appoints Maximian as Caesar and co-ruler.
 <br/><br/>
-En 1799 : Tekle Giyorgis I begins his first of six reigns as Emperor of Ethiopia.
+En 230 : Pope Pontian succeeds Urban I as the eighteenth pope. After being exiled to Sardinia, he became the first pope to resign his office.
 <br/><br/>
-En 1738 : Canadian explorer Pierre Gaultier de Varennes et de La Vérendrye reaches the western shore of Lake Michigan.
-<br/><br/>
-En 1715 : Seventh Ottoman–Venetian War: The Ottoman Empire captures Nauplia, the capital of the Republic of Venice's "Kingdom of the Morea", thereby opening the way to the swift Ottoman reconquest of the Morea.
-<br/><br/>
-En 1705 : A fire in Oulu, Finland almost completely destroyed the fourth district, which covered the southern part of the city and was by far the largest of the city districts.
-<br/><br/>
-En 1592 : During the first Japanese invasion of Korea, Japanese forces led by Toyotomi Hideyoshi captured Pyongyang, although they were ultimately unable to hold it.
-<br/><br/>
-En 1402 : Ottoman-Timurid Wars: Battle of Ankara: Timur, ruler of Timurid Empire, defeats forces of the Ottoman Empire sultan Bayezid I.
-<br/><br/>
-En 1398 : The Battle of Kellistown was fought on this day between the forces of the English led by Roger Mortimer, 4th Earl of March against the O'Byrnes and O'Tooles under the command of Art Óg mac Murchadha Caomhánach, the most powerful Chieftain in Leinster.
-<br/><br/>
-En 1225 : Treaty of San Germano is signed at San Germano between Holy Roman Emperor Frederick II and Pope Gregory IX. A Dominican named Guala is responsible for the negotiations.
-<br/><br/>
-En 1189 : Richard I of England officially invested as Duke of Normandy.
-<br/><br/>
-En 911 : Rollo lays siege to Chartres.
-<br/><br/>
-En 792 : Kardam of Bulgaria defeats Byzantine Emperor Constantine VI at the Battle of Marcellae.
-<br/><br/>
-En 70 : Siege of Jerusalem: Titus, son of emperor Vespasian, storms the Fortress of Antonia north of the Temple Mount. The Roman army is drawn into street fights with the Zealots.
+En -356 : The Temple of Artemis in Ephesus, one of the Seven Wonders of the World, is destroyed by arson.
 <br/><br/>
