@@ -4,119 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 21/7 ?(Hover on the year)</h1>
+<h1> What happen this day 22/7 ?(Hover on the year)</h1>
 
-En 2023 : The Barbenheimer phenomenon begins as two major motion pictures, Greta Gerwig's fantasy comedy Barbie and Christopher Nolan's epic biographical thriller Oppenheimer, are released in theaters on the same day and audiences, instead of creating a rivalry between the extremely dissimilar films, instead attend and praise both as an informal, surreal double feature.
+En 2019 : Chandrayaan-2, the second lunar exploration mission developed by Indian Space Research Organisation after Chandrayaan-1 is launched from Satish Dhawan Space Centre in a GSLV Mark III M1. It consists of a lunar orbiter, and also included the Vikram lander, and the Pragyan lunar rover.
 <br/><br/>
-En 2019 : Yuen Long attack or "721 incident" in Hong Kong. Triad members indiscriminately beat civilians returning from protests while police failed to take action.
+En 2013 : Dingxi earthquakes: A series of earthquakes in Dingxi, China, kills at least 89 people and injures more than 500 others.
 <br/><br/>
-En 2012 : Erden Eruç completes the first solo human-powered circumnavigation of the world.
+En 2012 : Syrian civil war: The People's Protection Units (YPG) captured the cities of Serê Kaniyê and Dirbêsiyê, during clashes with pro-government forces in Al-Hasakah.
 <br/><br/>
-En 2011 : NASA's Space Shuttle program ends with the landing of Space Shuttle Atlantis on mission STS-135 at NASA's Kennedy Space Center.
+En 2011 : Norway attacks: A bomb explodes, targeted at government buildings in central Oslo, followed by a massacre at a youth camp on the island of Utøya.
 <br/><br/>
-En 2010 : President Barack Obama signs the Dodd–Frank Wall Street Reform and Consumer Protection Act.
+En 2005 : Jean Charles de Menezes is killed by police as the hunt begins for the London Bombers responsible for the 7 July 2005 London bombings and the 21 July 2005 London bombings.
 <br/><br/>
-En 2008 : Ram Baran Yadav is declared the first President of Nepal.
+En 2003 : Members of 101st Airborne of the United States, aided by Special Forces, attack a compound in Iraq, killing Saddam Hussein's sons Uday and Qusay, along with Mustapha Hussein, Qusay's 14-year-old son, and a bodyguard.
 <br/><br/>
-En 2005 : Four attempted bomb attacks by Islamist extremists disrupt part of London's public transport system.
+En 1997 : The second Blue Water Bridge opens between Port Huron, Michigan and Sarnia, Ontario.
 <br/><br/>
-En 2001 : At the conclusion of a fireworks display on Okura Beach in Akashi, Hyōgo, Japan, 11 people are killed and more than 120 are injured when a pedestrian footbridge connecting the beach to JR Asagiri Station becomes overcrowded and people leaving the event fall down in a domino effect.
+En 1993 : Great Flood of 1993: Levees near Kaskaskia, Illinois rupture, forcing the entire town to evacuate by barges operated by the Army Corps of Engineers.
 <br/><br/>
-En 1995 : Third Taiwan Strait Crisis: The People's Liberation Army begins firing missiles into the waters north of Taiwan.
+En 1992 : Near Medellín, Colombian drug lord Pablo Escobar escapes from his luxury prison fearing extradition to the United States.
 <br/><br/>
-En 1990 : Taiwan's military police forces mainland Chinese illegal immigrants into sealed holds of a fishing boat Min Ping Yu No. 5540 for repatriation to Fujian, causing 25 people to die from suffocation.
+En 1990 : Greg LeMond, an American road racing cyclist, wins his third Tour de France after leading the majority of the race. It was LeMond's second consecutive Tour de France victory.
 <br/><br/>
-En 1983 : The world's lowest temperature in an inhabited location is recorded at Vostok Station, Antarctica at −89.2 °C (−128.6 °F).
+En 1983 : Martial law in Poland is officially revoked.
 <br/><br/>
-En 1979 : Jay Silverheels, a Mohawk actor, becomes the first Native American to have a star commemorated in the Hollywood Walk of Fame.
+En 1981 : The first game of the 1981 South Africa rugby union tour of New Zealand and the United States is held in Gisborne, New Zealand.
 <br/><br/>
-En 1977 : The start of the four-day-long Libyan–Egyptian War.
+En 1977 : Chinese leader Deng Xiaoping is restored to power.
 <br/><br/>
-En 1976 : Christopher Ewart-Biggs, the British ambassador to the Republic of Ireland, is assassinated by the Provisional IRA.
+En 1976 : Japan completes its last reparation to the Philippines for war crimes committed during imperial Japan's conquest of the country in the Second World War.
 <br/><br/>
-En 1973 : In Lillehammer, Norway, Mossad agents kill a waiter whom they mistakenly thought was involved in the 1972 Munich Olympics Massacre.
+En 1973 : Pan Am Flight 816 crashes after takeoff from Faa'a International Airport in Papeete, French Polynesia, killing 78.
 <br/><br/>
-En 1972 : The Troubles: Bloody Friday: The Provisional IRA detonate 22 bombs in central Belfast, Northern Ireland, United Kingdom in the space of 80 minutes, killing nine and injuring 130.
+En 1963 : Crown Colony of Sarawak gains self-governance.
 <br/><br/>
-En 1970 : After 11 years of construction, the Aswan High Dam in Egypt is completed.
+En 1962 : Mariner program: Mariner 1 spacecraft flies erratically several minutes after launch and has to be destroyed.
 <br/><br/>
-En 1969 : Apollo program: At 02:56 UTC, astronaut Neil Armstrong becomes the first person to walk on the Moon, followed 19 minutes later by Edwin "Buzz" Aldrin.
+En 1946 : King David Hotel bombing: A Zionist underground organisation, the Irgun, bombs the King David Hotel in Jerusalem, site of the civil administration and military headquarters for Mandatory Palestine, resulting in 91 deaths.
 <br/><br/>
-En 1964 : A series of racial riots break out in Singapore. In the next six weeks, 23 die with 454 others injured.
+En 1944 : The Polish Committee of National Liberation publishes its manifesto, starting the period of Communist rule in Poland.
 <br/><br/>
-En 1961 : Mercury program: Mercury-Redstone 4 Mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
+En 1943 : World War II: Allied forces capture Palermo during the Allied invasion of Sicily.
 <br/><br/>
-En 1961 : Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska killing six.
+En 1943 : World War II: Axis occupation forces violently disperse a massive protest in Athens, killing 22.
 <br/><br/>
-En 1960 : Sirimavo Bandaranaike is elected Prime Minister of Sri Lanka, becoming the world's first female head of government
+En 1942 : The United States government begins compulsory civilian gasoline rationing due to the wartime demands.
 <br/><br/>
-En 1959 : NS Savannah, the first nuclear-powered cargo-passenger ship, is launched as a showcase for Dwight D. Eisenhower's "Atoms for Peace" initiative.
+En 1942 : Grossaktion Warsaw: The systematic deportation of Jews from the Warsaw ghetto begins.
 <br/><br/>
-En 1959 : Elijah Jerry "Pumpsie" Green becomes the first African-American to play for the Boston Red Sox, the last team to integrate. He came in as a pinch runner for Vic Wertz and stayed in as shortstop in a 2–1 loss to the Chicago White Sox.
+En 1937 : New Deal: The United States Senate votes down President Franklin D. Roosevelt's proposal to add more justices to the Supreme Court of the United States.
 <br/><br/>
-En 1954 : First Indochina War: The Geneva Conference partitions Vietnam into North Vietnam and South Vietnam.
+En 1936 : Spanish Civil War: The Popular Executive Committee of Valencia takes power in the Valencian Community.
 <br/><br/>
-En 1952 : The 7.3 Mw  Kern County earthquake strikes Southern California with a maximum Mercalli intensity of XI (Extreme), killing 12 and injuring hundreds.
+En 1933 : Aviator Wiley Post returns to Floyd Bennett Field in New York City, completing the first solo flight around the world in seven days, 18 hours and 49 minutes.
 <br/><br/>
-En 1951 : Canadian Pacific Air Lines Flight 3505 disappears while flying from Vancouver to Tokyo. The aircraft and its 37 occupants are never found.
+En 1921 : Rif War: The Spanish Army suffers its worst military defeat in modern times to the Berbers of the Rif region of Spanish Morocco.
 <br/><br/>
-En 1949 : The United States Senate ratifies the North Atlantic Treaty.
+En 1916 : Preparedness Day Bombing: In San Francisco, a bomb explodes on Market Street during a parade, killing ten and injuring 40.
 <br/><br/>
-En 1944 : World War II: Battle of Guam: American troops land on Guam, starting a battle that will end on August 10.
+En 1894 : The first ever motor race is held in France between the cities of Paris and Rouen. The fastest finisher was the Comte Jules-Albert de Dion, but the "official" victory was awarded to Albert Lemaître driving his three-horsepower petrol engined Peugeot.
 <br/><br/>
-En 1944 : World War II: Claus von Stauffenberg and four fellow conspirators are executed for the July 20 plot to assassinate Adolf Hitler.
+En 1893 : Katharine Lee Bates writes "America the Beautiful" after admiring the view from the top of Pikes Peak near Colorado Springs, Colorado.
 <br/><br/>
-En 1936 : Spanish Civil War: The Central Committee of Antifascist Militias of Catalonia is constituted, establishing an anarcho-syndicalist economy in Catalonia.
+En 1864 : American Civil War: Battle of Atlanta: Outside Atlanta, Confederate General John Bell Hood leads an unsuccessful attack on Union troops under General William T. Sherman on Bald Hill.
 <br/><br/>
-En 1925 : Scopes Trial: In Dayton, Tennessee, high school biology teacher John T. Scopes is found guilty of teaching human evolution in class and fined $100.
+En 1833 : The Slavery Abolition Act passes in the British House of Commons, initiating the gradual abolition of slavery in most parts of the British Empire.
 <br/><br/>
-En 1925 : Malcolm Campbell becomes the first man to exceed 150 mph (241 km/h) on land. At Pendine Sands in Wales, he drives Sunbeam 350HP built by Sunbeam at a two-way average speed of 150.33 mph (242 km/h).
+En 1812 : Napoleonic Wars: Peninsular War: Battle of Salamanca: British forces led by Arthur Wellesley (later the Duke of Wellington) defeat French troops near Salamanca, Spain.
 <br/><br/>
-En 1920 : The "Belfast Pogrom" begins two years of violence with the expulsion of thousands of Catholic shipyard, factory and linen mill workers from their jobs.
+En 1805 : Napoleonic Wars: War of the Third Coalition: Battle of Cape Finisterre: An inconclusive naval action is fought between a combined French and Spanish fleet under Admiral Pierre-Charles Villeneuve of France and a British fleet under Admiral Robert Calder.
 <br/><br/>
-En 1919 : The dirigible Wingfoot Air Express crashes into the Illinois Trust and Savings Building in Chicago, killing 12 people.
+En 1802 : Emperor Gia Long conquers Hanoi and unified Viet Nam, which had experienced centuries of feudal warfare.
 <br/><br/>
-En 1907 : The passenger steamer SS Columbia sinks after colliding with the steam schooner San Pedro off Shelter Cove, California, killing 88 people.
+En 1797 : Battle of Santa Cruz de Tenerife: Battle between Spanish and British naval forces during the French Revolutionary Wars. During the Battle, Rear-Admiral Nelson is wounded in the arm and the arm had to be partially amputated.
 <br/><br/>
-En 1904 : Louis Rigolly, a Frenchman, becomes the first man to break the 100 mph (161 km/h) barrier on land. He drove a 15-liter Gobron-Brillié in Ostend, Belgium.
+En 1796 : Surveyors of the Connecticut Land Company name an area in Ohio "Cleveland" after Gen. Moses Cleaveland, the superintendent of the surveying party.
 <br/><br/>
-En 1877 : After rioting by Baltimore and Ohio Railroad workers and the deaths of nine rail workers at the hands of the Maryland militia, workers in Pittsburgh, Pennsylvania, stage a sympathy strike that is met with an assault by the state militia.
+En 1793 : Alexander Mackenzie reaches the Pacific Ocean becoming the first recorded human to complete a transcontinental crossing of North America.
 <br/><br/>
-En 1873 : At Adair, Iowa, Jesse James and the James–Younger Gang pull off the first successful train robbery in the American Old West.
+En 1706 : The Acts of Union 1707 are agreed upon by commissioners from the Kingdom of England and the Kingdom of Scotland, which, when passed by each country's Parliament, leads to the creation of the Kingdom of Great Britain.
 <br/><br/>
-En 1865 : In the market square of Springfield, Missouri, Wild Bill Hickok shoots and kills Davis Tutt in what is regarded as the first western showdown.
+En 1686 : Albany, New York is formally chartered as a municipality by Governor Thomas Dongan.
 <br/><br/>
-En 1861 : American Civil War: First Battle of Bull Run: At Manassas Junction, Virginia, the first major battle of the war begins and ends in a victory for the Confederate army.
+En 1598 : William Shakespeare's play, The Merchant of Venice, is entered on the Stationers' Register. By decree of Queen Elizabeth, the Stationers' Register licensed printed works, giving the Crown tight control over all published material.
 <br/><br/>
-En 1831 : Inauguration of Leopold I of Belgium, first king of the Belgians.
+En 1594 : The Dutch city of Groningen defended by the Spanish and besieged by a Dutch and English army under Maurice of Orange, capitulates.
 <br/><br/>
-En 1798 : French campaign in Egypt and Syria: Napoleon's forces defeat an Ottoman-Mamluk army near Cairo in the Battle of the Pyramids.
+En 1587 : Roanoke Colony: A second group of English settlers arrives on Roanoke Island off North Carolina to re-establish the deserted colony.
 <br/><br/>
-En 1774 : Russo-Turkish War (1768–74): Russia and the Ottoman Empire sign the Treaty of Küçük Kaynarca ending the war.
+En 1499 : Battle of Dornach: The Swiss decisively defeat the army of Maximilian I, Holy Roman Emperor.
 <br/><br/>
-En 1718 : The Treaty of Passarowitz between the Ottoman Empire, Austria and the Republic of Venice is signed.
+En 1484 : Battle of Lochmaben Fair: A 500-man raiding party led by Alexander Stewart, Duke of Albany and James Douglas, 9th Earl of Douglas are defeated by Scots forces loyal to Albany's brother James III of Scotland; Douglas is captured.
 <br/><br/>
-En 1674 : A Dutch assault on the French island of Martinique is repulsed against all odds.
+En 1456 : Ottoman wars in Europe: Siege of Belgrade: John Hunyadi, Regent of the Kingdom of Hungary, defeats Mehmet II of the Ottoman Empire.
 <br/><br/>
-En 1656 : The Raid on Málaga takes place during the Anglo-Spanish War.
+En 1443 : Battle of St. Jakob an der Sihl in the Old Zürich War.
 <br/><br/>
-En 1645 : Qing dynasty regent Dorgon issues an edict ordering all Han Chinese men to shave their forehead and braid the rest of their hair into a queue identical to those of the Manchus.
+En 1342 : St. Mary Magdalene's flood is the worst such event on record for central Europe.
 <br/><br/>
-En 1568 : Eighty Years' War: Battle of Jemmingen: Fernando Álvarez de Toledo, Duke of Alva defeats Louis of Nassau.
+En 1298 : Wars of Scottish Independence: Battle of Falkirk: King Edward I of England and his longbowmen defeat William Wallace and his Scottish schiltrons outside the town of Falkirk.
 <br/><br/>
-En 1545 : The first landing of French troops on the coast of the Isle of Wight during the French invasion of the Isle of Wight.
+En 1209 : Massacre at Béziers: The first major military action of the Albigensian Crusade.
 <br/><br/>
-En 1403 : Battle of Shrewsbury: King Henry IV of England defeats rebels to the north of the county town of Shropshire, England.
+En 1099 : First Crusade: Godfrey of Bouillon is elected the first Defender of the Holy Sepulchre of The Kingdom of Jerusalem.
 <br/><br/>
-En 1242 : Battle of Taillebourg: Louis IX of France puts an end to the revolt of his vassals Henry III of England and Hugh X of Lusignan.
-<br/><br/>
-En 905 : King Berengar I of Italy and a hired Hungarian army defeats the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
-<br/><br/>
-En 365 : The 365 Crete earthquake affected the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
-<br/><br/>
-En 285 : Diocletian appoints Maximian as Caesar and co-ruler.
-<br/><br/>
-En 230 : Pope Pontian succeeds Urban I as the eighteenth pope. After being exiled to Sardinia, he became the first pope to resign his office.
-<br/><br/>
-En -356 : The Temple of Artemis in Ephesus, one of the Seven Wonders of the World, is destroyed by arson.
+En 838 : Battle of Anzen: The Byzantine emperor Theophilos suffers a heavy defeat by the Abbasids.
 <br/><br/>
