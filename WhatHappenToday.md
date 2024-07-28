@@ -4,103 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/7 ?(Hover on the year)</h1>
+<h1> What happen this day 28/7 ?(Hover on the year)</h1>
 
-En 2015 : At least seven people are killed and many injured after gunmen attack an Indian police station in Punjab.
+En 2018 : Australian Wendy Tuck becomes the first female skipper to win the Clipper Round the World Yacht Race.
 <br/><br/>
-En 2005 : After an incident during STS-114, NASA grounds the Space Shuttle, pending an investigation of the continuing problem with the shedding of foam insulation from the external fuel tank.
+En 2017 : Prime Minister of Pakistan, Nawaz Sharif was disqualified from office for life by Supreme Court of Pakistan after finding him guilty of corruption charges.
 <br/><br/>
-En 2002 : Ukraine airshow disaster: A Sukhoi Su-27 fighter crashes during an air show at Lviv, Ukraine killing 77 and injuring more than 500 others, making it the deadliest air show disaster in history.
+En 2011 : While flying from Seoul, South Korea to Shanghai, China, Asiana Airlines Flight 991 develops an in-flight fire in the cargo hold. The Boeing 747-400F freighter attempts to divert to Jeju International Airport, but crashes into the sea South-West of Jeju island, killing both crew members on board.
 <br/><br/>
-En 1997 : About 50 people are killed in the Si Zerrouk massacre in Algeria.
+En 2010 : Airblue Flight 202 crashes into the Margalla Hills north of Islamabad, Pakistan, killing all 152 people aboard. It is the deadliest aviation accident in Pakistan history and the first involving an Airbus A321.
 <br/><br/>
-En 1996 : In Atlanta, United States, a pipe bomb explodes at Centennial Olympic Park during the 1996 Summer Olympics.
+En 2005 : The Provisional Irish Republican Army calls an end to its thirty-year-long armed campaign against British rule in Northern Ireland.
 <br/><br/>
-En 1995 : The Korean War Veterans Memorial is dedicated in Washington, D.C.
+En 2002 : Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground.
 <br/><br/>
-En 1990 : The Supreme Soviet of the Belarusian Soviet Republic declares independence of Belarus from the Soviet Union. Until 1996 the day is celebrated as the Independence Day of Belarus; after a referendum held that year the celebration of independence is moved to June 3.
+En 2002 : Pulkovo Aviation Enterprise Flight 9560 crashes after takeoff from Sheremetyevo International Airport in Moscow, Russia, killing 14 of the 16 people on board.
 <br/><br/>
-En 1990 : The Jamaat al Muslimeen attempt a coup d'état in Trinidad and Tobago.
+En 2001 : Australian Ian Thorpe becomes the first swimmer to win six gold medals at a single World Championship meeting.
 <br/><br/>
-En 1989 : While attempting to land at Tripoli International Airport in Libya, Korean Air Flight 803 crashes just short of the runway. Seventy-five of the 199 passengers and crew and four people on the ground are killed, in the second accident involving a DC-10 in less than two weeks, the first being United Airlines Flight 232.
+En 1996 : The remains of a prehistoric man are discovered near Kennewick, Washington. Such remains will be known as the Kennewick Man.
 <br/><br/>
-En 1983 : Black July: Eighteen Tamil political prisoners at the Welikada high security prison in Colombo are massacred by Sinhalese prisoners, the second such massacre in two days.
+En 1984 : Olympic Games: Games of the XXIII Olympiad: The summer Olympics were opened in Los Angeles.
 <br/><br/>
-En 1981 : While landing at Chihuahua International Airport, Aeromexico Flight 230 overshoots the runway. Thirty-two of the 66 passengers and crew on board the DC-9 are killed.
+En 1976 : The Tangshan earthquake measuring between 7.8 and 8.2 moment magnitude flattens Tangshan in the People's Republic of China, killing 242,769 and injuring 164,851.
 <br/><br/>
-En 1975 : Mayor of Jaffna and former MP Alfred Duraiappah is shot dead.
+En 1974 : Spetsgruppa A, Russia's elite special force, was formed.
 <br/><br/>
-En 1974 : Watergate scandal: The House of Representatives Judiciary Committee votes 27 to 11 to recommend the first article of impeachment (for obstruction of justice) against President Richard Nixon.
+En 1973 : Summer Jam at Watkins Glen: Nearly 600,000 people attend a rock festival at the Watkins Glen International Raceway.
 <br/><br/>
-En 1964 : Vietnam War: Five thousand more American military advisers are sent to South Vietnam bringing the total number of United States forces in Vietnam to 21,000.
+En 1965 : Vietnam War: U.S. President Lyndon B. Johnson announces his order to increase the number of United States troops in South Vietnam from 75,000 to 125,000.
 <br/><br/>
-En 1963 : The Puijo observation tower is opened to the general public at Puijo Hill in Kuopio, Finland.
+En 1962 : Beginning of the 8th World Festival of Youth and Students
 <br/><br/>
-En 1959 : The Continental League is announced as baseball's "third major league" in the United States.
+En 1960 : The German Volkswagen Act comes into force.
 <br/><br/>
-En 1955 : The Austrian State Treaty restores Austrian sovereignty.
+En 1957 : Heavy rain and a mudslide in Isahaya, western Kyushu, Japan, kills 992.
 <br/><br/>
-En 1955 : El Al Flight 402 is shot down by two fighter jets after straying into Bulgarian air space. All 58 people on board are killed.
+En 1945 : A U.S. Army B-25 bomber crashes into the 79th floor of the Empire State Building killing 14 and injuring 26.
 <br/><br/>
-En 1953 : Cessation of hostilities is achieved in the Korean War when the United States, China, and North Korea sign an armistice agreement. Syngman Rhee, President of South Korea, refuses to sign but pledges to observe the armistice.
+En 1943 : World War II: Operation Gomorrah: The Royal Air Force bombs Hamburg, Germany causing a firestorm that kills 42,000 German civilians.
 <br/><br/>
-En 1949 : Initial flight of the de Havilland Comet, the first jet-powered airliner.
+En 1942 : World War II: Soviet leader Joseph Stalin issues Order No. 227. In response to alarming German advances, all those who retreat or otherwise leave their positions without orders to do so are to be tried in a military court, with punishment ranging from duty in a shtrafbat battalion, imprisonment in a Gulag, or execution.
 <br/><br/>
-En 1947 : In Vatican City, Rome, canonization of Catherine Labouré, the saint whose apparitions of the Virgin Mary originated the worldwide diffusion of the Miraculous Medal.
+En 1939 : The Sutton Hoo helmet is discovered.
 <br/><br/>
-En 1942 : World War II: Allied forces successfully halt the final Axis advance into Egypt.
+En 1938 : Hawaii Clipper disappears between Guam and Manila as the first loss of an airliner in trans-Pacific China Clipper service.
 <br/><br/>
-En 1940 : The animated short A Wild Hare is released, introducing the character of Bugs Bunny.
+En 1935 : First flight of the Boeing B-17 Flying Fortress.
 <br/><br/>
-En 1929 : The Geneva Convention of 1929, dealing with treatment of prisoners-of-war, is signed by 53 nations.
+En 1932 : U.S. President Herbert Hoover orders the United States Army to forcibly evict the "Bonus Army" of World War I veterans gathered in Washington, D.C.
 <br/><br/>
-En 1921 : Researchers at the University of Toronto, led by biochemist Frederick Banting, prove that the hormone insulin regulates blood sugar.
+En 1917 : The Silent Parade takes place in New York City, in protest against murders, lynchings, and other violence directed towards African Americans.
 <br/><br/>
-En 1919 : The Chicago Race Riot erupts after a racial incident occurred on a South Side beach, leading to 38 fatalities and 537 injuries over a five-day period.
+En 1915 : The United States begins a 19-year occupation of Haiti.
 <br/><br/>
-En 1917 : World War I: The Allies reach the Yser Canal at the Battle of Passchendaele.
+En 1914 : In the culmination of the July Crisis, Austria-Hungary declares war on Serbia, igniting World War I.
 <br/><br/>
-En 1900 : Kaiser Wilhelm II makes a speech comparing Germans to Huns; for years afterwards, "Hun" would be a disparaging name for Germans.
+En 1911 : The Australasian Antarctic Expedition began as the SY Aurora departed London.
 <br/><br/>
-En 1890 : Vincent van Gogh shoots himself and dies two days later.
+En 1896 : The city of Miami is incorporated.
 <br/><br/>
-En 1880 : Second Anglo-Afghan War: Battle of Maiwand: Afghan forces led by Mohammad Ayub Khan defeat the British Army in battle near Maiwand, Afghanistan.
+En 1883 : A moderate earthquake measuring magnitude 4.3–5.2 strikes the Italian island of Ischia, killing over 2,300 people.
 <br/><br/>
-En 1866 : The first permanent transatlantic telegraph cable is successfully completed, stretching from Valentia Island, Ireland, to Heart's Content, Newfoundland.
+En 1868 : The 14th Amendment to the United States Constitution is certified, establishing African American citizenship and guaranteeing due process of law.
 <br/><br/>
-En 1865 : Welsh settlers arrive at Chubut in Argentina.
+En 1866 : At the age of 18, Vinnie Ream becomes the first and youngest female artist to receive a commission from the United States government for a statue (of Abraham Lincoln).
 <br/><br/>
-En 1857 : Indian Rebellion: Sixty-eight men hold out for eight days against a force of 2,500 to 3,000 mutinying sepoys and 8,000 irregular forces.
+En 1864 : American Civil War: Battle of Ezra Church: Confederate troops make a third unsuccessful attempt to drive Union forces from Atlanta, Georgia.
 <br/><br/>
-En 1816 : Seminole Wars: The Battle of Negro Fort ends when a hot shot cannonball fired by US Navy Gunboat No. 154 explodes the fort's Powder Magazine, killing approximately 275. It is considered the deadliest single cannon shot in US history.
+En 1854 : USS Constellation (1854), the last all-sail warship built by the United States Navy and now a museum ship in Baltimore Harbor, is commissioned.
 <br/><br/>
-En 1794 : French Revolution: Maximilien Robespierre is arrested after encouraging the execution of more than 17,000 "enemies of the Revolution".
+En 1821 : José de San Martín declares the independence of Peru from Spain.
 <br/><br/>
-En 1789 : The first U.S. federal government agency, the Department of Foreign Affairs, is established (it will be later renamed Department of State).
+En 1809 : Peninsular War: Battle of Talavera: Sir Arthur Wellesley's British, Portuguese and Spanish army defeats a French force led by Joseph Bonaparte.
 <br/><br/>
-En 1778 : American Revolution: First Battle of Ushant: British and French fleets fight to a standoff.
+En 1808 : Mahmud II became Sultan of the Ottoman Empire and Caliph of Islam.
 <br/><br/>
-En 1775 : Founding of the U.S. Army Medical Department:  The Second Continental Congress passes legislation establishing "an hospital for an army consisting of 20,000 men."
+En 1794 : French Revolution: Maximilien Robespierre and Louis Antoine de Saint-Just are executed by guillotine in Paris, France.
 <br/><br/>
-En 1714 : The Great Northern War: The first significant victory of the Russian Navy in the naval battle of Gangut against the Swedish Navy near the Hanko Peninsula.
+En 1778 : Constitution of the province of Cantabria ratified at the Assembly Hall in Bárcena la Puente, Reocín, Spain.
 <br/><br/>
-En 1694 : A Royal charter is granted to the Bank of England.
+En 1656 : Second Northern War: Battle of Warsaw begins.
 <br/><br/>
-En 1689 : Glorious Revolution: The Battle of Killiecrankie is a victory for the Jacobites.
+En 1635 : In the Eighty Years' War, the Spanish capture the strategic Dutch fortress of Schenkenschans.
 <br/><br/>
-En 1663 : The English Parliament passes the second Navigation Act requiring that all goods bound for the American colonies have to be sent in English ships from English ports. After the Acts of Union 1707, Scotland would be included in the Act.
+En 1571 : La Laguna encomienda, known today as the Laguna province in the Philippines, is founded by the Spaniards as one of the oldest encomiendas (provinces) in the country.
 <br/><br/>
-En 1549 : The Jesuit priest Francis Xavier's ship reaches Japan.
+En 1540 : Henry VIII of England marries his fifth wife, Catherine Howard.
 <br/><br/>
-En 1302 : Battle of Bapheus: Decisive Ottoman victory over the Byzantines opening up Bithynia for Turkish conquest.
-<br/><br/>
-En 1299 : According to Edward Gibbon, Osman I invades the territory of Nicomedia for the first time, usually considered to be the founding day of the Ottoman state.
-<br/><br/>
-En 1214 : Battle of Bouvines: Philip II of France decisively defeats Imperial, English and Flemish armies, effectively ending John of England's Angevin Empire.
-<br/><br/>
-En 1202 : Georgian–Seljuk wars: At the Battle of Basian the Kingdom of Georgia defeats the Sultanate of Rum.
-<br/><br/>
-En 1189 : Friedrich Barbarossa arrives at Niš, the capital of Serbian King Stefan Nemanja, during the Third Crusade.
-<br/><br/>
-En 1054 : Siward, Earl of Northumbria, invades Scotland and defeats Macbeth, King of Scotland, somewhere north of the Firth of Forth. This is known as the Battle of Dunsinane.
+En 1364 : Troops of the Republic of Pisa and the Republic of Florence clash in the Battle of Cascina.
 <br/><br/>
