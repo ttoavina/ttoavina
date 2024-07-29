@@ -4,93 +4,117 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 28/7 ?(Hover on the year)</h1>
+<h1> What happen this day 29/7 ?(Hover on the year)</h1>
 
-En 2018 : Australian Wendy Tuck becomes the first female skipper to win the Clipper Round the World Yacht Race.
+En 2021 : The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka.
 <br/><br/>
-En 2017 : Prime Minister of Pakistan, Nawaz Sharif was disqualified from office for life by Supreme Court of Pakistan after finding him guilty of corruption charges.
+En 2019 : The 2019 Altamira prison riot between rival Brazilian drug gangs leaves 62 dead.
 <br/><br/>
-En 2011 : While flying from Seoul, South Korea to Shanghai, China, Asiana Airlines Flight 991 develops an in-flight fire in the cargo hold. The Boeing 747-400F freighter attempts to divert to Jeju International Airport, but crashes into the sea South-West of Jeju island, killing both crew members on board.
+En 2015 : The first piece of suspected debris from Malaysia Airlines Flight 370 is discovered on Réunion Island.
 <br/><br/>
-En 2010 : Airblue Flight 202 crashes into the Margalla Hills north of Islamabad, Pakistan, killing all 152 people aboard. It is the deadliest aviation accident in Pakistan history and the first involving an Airbus A321.
+En 2013 : Two passenger trains collide in the Swiss municipality of Granges-près-Marnand near Lausanne injuring 25 people.
 <br/><br/>
-En 2005 : The Provisional Irish Republican Army calls an end to its thirty-year-long armed campaign against British rule in Northern Ireland.
+En 2010 : An overloaded passenger ferry capsizes on the Kasai River in Bandundu Province, Democratic Republic of the Congo, resulting in at least 80 deaths.
 <br/><br/>
-En 2002 : Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground.
+En 2005 : Astronomers announce their discovery of the dwarf planet Eris.
 <br/><br/>
-En 2002 : Pulkovo Aviation Enterprise Flight 9560 crashes after takeoff from Sheremetyevo International Airport in Moscow, Russia, killing 14 of the 16 people on board.
+En 1996 : The child protection portion of the Communications Decency Act is struck down by a U.S. federal court as too broad.
 <br/><br/>
-En 2001 : Australian Ian Thorpe becomes the first swimmer to win six gold medals at a single World Championship meeting.
+En 1993 : The Supreme Court of Israel acquits alleged Nazi death camp guard John Demjanjuk of all charges and he is set free.
 <br/><br/>
-En 1996 : The remains of a prehistoric man are discovered near Kennewick, Washington. Such remains will be known as the Kennewick Man.
+En 1987 : British Prime Minister Margaret Thatcher and President of France François Mitterrand sign the agreement to build a tunnel under the English Channel (Eurotunnel).
 <br/><br/>
-En 1984 : Olympic Games: Games of the XXIII Olympiad: The summer Olympics were opened in Los Angeles.
+En 1987 : Prime Minister of India Rajiv Gandhi and President of Sri Lanka J. R. Jayewardene sign the Indo-Sri Lanka Accord on ethnic issues.
 <br/><br/>
-En 1976 : The Tangshan earthquake measuring between 7.8 and 8.2 moment magnitude flattens Tangshan in the People's Republic of China, killing 242,769 and injuring 164,851.
+En 1981 : A worldwide television audience of around 750 million people watch the wedding of Charles, Prince of Wales, and Lady Diana Spencer at St Paul's Cathedral in London.
 <br/><br/>
-En 1974 : Spetsgruppa A, Russia's elite special force, was formed.
+En 1981 : After impeachment on June 21, Abolhassan Banisadr flees with Massoud Rajavi to Paris, in an Iranian Air Force Boeing 707, piloted by Colonel Behzad Moezzi, to form the National Council of Resistance of Iran.
 <br/><br/>
-En 1973 : Summer Jam at Watkins Glen: Nearly 600,000 people attend a rock festival at the Watkins Glen International Raceway.
+En 1980 : Iran adopts a new "holy" flag after the Islamic Revolution.
 <br/><br/>
-En 1965 : Vietnam War: U.S. President Lyndon B. Johnson announces his order to increase the number of United States troops in South Vietnam from 75,000 to 125,000.
+En 1976 : In New York City, David Berkowitz (a.k.a. the "Son of Sam") kills one person and seriously wounds another in the first of a series of attacks.
 <br/><br/>
-En 1962 : Beginning of the 8th World Festival of Youth and Students
+En 1973 : Greeks vote to abolish the monarchy, beginning the first period of the Metapolitefsi.
 <br/><br/>
-En 1960 : The German Volkswagen Act comes into force.
+En 1973 : Driver Roger Williamson is killed during the Dutch Grand Prix, after a suspected tire failure causes his car to pitch into the barriers at high speed.
 <br/><br/>
-En 1957 : Heavy rain and a mudslide in Isahaya, western Kyushu, Japan, kills 992.
+En 1967 : Vietnam War: Off the coast of North Vietnam the USS Forrestal catches on fire in the worst U.S. naval disaster since World War II, killing 134.
 <br/><br/>
-En 1945 : A U.S. Army B-25 bomber crashes into the 79th floor of the Empire State Building killing 14 and injuring 26.
+En 1967 : During the fourth day of celebrating its 400th anniversary, the city of Caracas, Venezuela is shaken by an earthquake, leaving approximately 500 dead.
 <br/><br/>
-En 1943 : World War II: Operation Gomorrah: The Royal Air Force bombs Hamburg, Germany causing a firestorm that kills 42,000 German civilians.
+En 1965 : Vietnam War: The first 4,000 101st Airborne Division paratroopers arrive in Vietnam, landing at Cam Ranh Bay.
 <br/><br/>
-En 1942 : World War II: Soviet leader Joseph Stalin issues Order No. 227. In response to alarming German advances, all those who retreat or otherwise leave their positions without orders to do so are to be tried in a military court, with punishment ranging from duty in a shtrafbat battalion, imprisonment in a Gulag, or execution.
+En 1959 : First United States Congress elections in Hawaii as a state of the Union.
 <br/><br/>
-En 1939 : The Sutton Hoo helmet is discovered.
+En 1958 : U.S. President Dwight D. Eisenhower signs into law the National Aeronautics and Space Act, which creates the National Aeronautics and Space Administration (NASA).
 <br/><br/>
-En 1938 : Hawaii Clipper disappears between Guam and Manila as the first loss of an airliner in trans-Pacific China Clipper service.
+En 1957 : The International Atomic Energy Agency is established.
 <br/><br/>
-En 1935 : First flight of the Boeing B-17 Flying Fortress.
+En 1957 : Tonight Starring Jack Paar premieres on NBC with Jack Paar beginning the modern day talk show.
 <br/><br/>
-En 1932 : U.S. President Herbert Hoover orders the United States Army to forcibly evict the "Bonus Army" of World War I veterans gathered in Washington, D.C.
+En 1950 : Korean War: After four days, the No Gun Ri Massacre ends when the US Army 7th Cavalry Regiment is withdrawn.
 <br/><br/>
-En 1917 : The Silent Parade takes place in New York City, in protest against murders, lynchings, and other violence directed towards African Americans.
+En 1948 : Olympic Games: The Games of the XIV Olympiad: After a hiatus of 12 years caused by World War II, the first Summer Olympics to be held since the 1936 Summer Olympics in Berlin, open in London.
 <br/><br/>
-En 1915 : The United States begins a 19-year occupation of Haiti.
+En 1945 : The BBC Light Programme radio station is launched for mainstream light entertainment and music.
 <br/><br/>
-En 1914 : In the culmination of the July Crisis, Austria-Hungary declares war on Serbia, igniting World War I.
+En 1937 : Tongzhou mutiny: In Tongzhou, China, the East Hebei Army attacks Japanese troops and civilians.
 <br/><br/>
-En 1911 : The Australasian Antarctic Expedition began as the SY Aurora departed London.
+En 1932 : Great Depression: In Washington, D.C., troops disperse the last of the "Bonus Army" of World War I veterans.
 <br/><br/>
-En 1896 : The city of Miami is incorporated.
+En 1921 : Adolf Hitler becomes leader of the National Socialist German Workers' Party.
 <br/><br/>
-En 1883 : A moderate earthquake measuring magnitude 4.3–5.2 strikes the Italian island of Ischia, killing over 2,300 people.
+En 1920 : Construction of the Link River Dam begins as part of the Klamath Reclamation Project.
 <br/><br/>
-En 1868 : The 14th Amendment to the United States Constitution is certified, establishing African American citizenship and guaranteeing due process of law.
+En 1914 : The Cape Cod Canal opened.
 <br/><br/>
-En 1866 : At the age of 18, Vinnie Ream becomes the first and youngest female artist to receive a commission from the United States government for a statue (of Abraham Lincoln).
+En 1910 : The two-day Slocum massacre commences.
 <br/><br/>
-En 1864 : American Civil War: Battle of Ezra Church: Confederate troops make a third unsuccessful attempt to drive Union forces from Atlanta, Georgia.
+En 1907 : Sir Robert Baden-Powell sets up the Brownsea Island Scout camp in Poole Harbour on the south coast of England. The camp runs from August 1 to August 9 and is regarded as the foundation of the Scouting movement.
 <br/><br/>
-En 1854 : USS Constellation (1854), the last all-sail warship built by the United States Navy and now a museum ship in Baltimore Harbor, is commissioned.
+En 1901 : Land lottery begins in Oklahoma.
 <br/><br/>
-En 1821 : José de San Martín declares the independence of Peru from Spain.
+En 1900 : In Italy, King Umberto I of Italy is assassinated by the anarchist Gaetano Bresci. His son, Victor Emmanuel III, 31 years old, succeeds to the throne.
 <br/><br/>
-En 1809 : Peninsular War: Battle of Talavera: Sir Arthur Wellesley's British, Portuguese and Spanish army defeats a French force led by Joseph Bonaparte.
+En 1899 : The First Hague Convention is signed.
 <br/><br/>
-En 1808 : Mahmud II became Sultan of the Ottoman Empire and Caliph of Islam.
+En 1871 : The Connecticut Valley Railroad opens between Old Saybrook, Connecticut and Hartford, Connecticut in the United States.
 <br/><br/>
-En 1794 : French Revolution: Maximilien Robespierre and Louis Antoine de Saint-Just are executed by guillotine in Paris, France.
+En 1862 : American Civil War: Confederate spy Belle Boyd is arrested by Union troops and detained at the Old Capitol Prison in Washington, D.C.
 <br/><br/>
-En 1778 : Constitution of the province of Cantabria ratified at the Assembly Hall in Bárcena la Puente, Reocín, Spain.
+En 1858 : United States and Japan sign the Harris Treaty.
 <br/><br/>
-En 1656 : Second Northern War: Battle of Warsaw begins.
+En 1851 : Annibale de Gasparis discovers asteroid 15 Eunomia.
 <br/><br/>
-En 1635 : In the Eighty Years' War, the Spanish capture the strategic Dutch fortress of Schenkenschans.
+En 1848 : Great Famine of Ireland: Tipperary Revolt: In County Tipperary, Ireland, then in the United Kingdom, an unsuccessful nationalist revolt against British rule is put down by police.
 <br/><br/>
-En 1571 : La Laguna encomienda, known today as the Laguna province in the Philippines, is founded by the Spaniards as one of the oldest encomiendas (provinces) in the country.
+En 1836 : Inauguration of the Arc de Triomphe in Paris, France.
 <br/><br/>
-En 1540 : Henry VIII of England marries his fifth wife, Catherine Howard.
+En 1818 : French physicist Augustin Fresnel submits his prizewinning "Memoir on the Diffraction of Light", precisely accounting for the limited extent to which light spreads into shadows, and thereby demolishing the oldest objection to the wave theory of light.
 <br/><br/>
-En 1364 : Troops of the Republic of Pisa and the Republic of Florence clash in the Battle of Cascina.
+En 1775 : Founding of the U.S. Army Judge Advocate General's Corps: General George Washington appoints William Tudor as Judge Advocate of the Continental Army.
+<br/><br/>
+En 1693 : War of the Grand Alliance: Battle of Landen: France wins a victory over Allied forces in the Netherlands.
+<br/><br/>
+En 1588 : Anglo-Spanish War: Battle of Gravelines: English naval forces under the command of Lord Charles Howard and Sir Francis Drake defeat the Spanish Armada off the coast of Gravelines, France.
+<br/><br/>
+En 1567 : The infant James VI is crowned King of Scotland at Stirling.
+<br/><br/>
+En 1565 : The widowed Mary, Queen of Scots marries Henry Stuart, Lord Darnley, Duke of Albany, at Holyrood Palace, Edinburgh, Scotland, in a Catholic ceremony.
+<br/><br/>
+En 1148 : The Siege of Damascus ends in a decisive crusader defeat and leads to the disintegration of the Second Crusade.
+<br/><br/>
+En 1030 : Ladejarl-Fairhair succession wars: Battle of Stiklestad: King Olaf II fights and dies trying to regain his Norwegian throne from the Danes.
+<br/><br/>
+En 1018 : Count Dirk III defeats an army sent by Emperor Henry II in the Battle of Vlaardingen.
+<br/><br/>
+En 1014 : Byzantine–Bulgarian wars: Battle of Kleidion: Byzantine emperor Basil II inflicts a decisive defeat on the Bulgarian army, and his subsequent treatment of 15,000 prisoners reportedly causes Tsar Samuil of Bulgaria to die of a heart attack less than three months later, on October 6.
+<br/><br/>
+En 923 : Battle of Firenzuola: Lombard forces under King Rudolph II and Adalbert I, margrave of Ivrea, defeat the dethroned Emperor Berengar I of Italy at Firenzuola (Tuscany).
+<br/><br/>
+En 904 : Sack of Thessalonica: Saracen raiders under Leo of Tripoli sack Thessaloniki, the Byzantine Empire's second-largest city, after a short siege, and plunder it for a week.
+<br/><br/>
+En 615 : Pakal ascends the throne of Palenque at the age of 12.
+<br/><br/>
+En -587 : The Neo-Babylonian Empire sacks Jerusalem and destroys the First Temple.
 <br/><br/>
