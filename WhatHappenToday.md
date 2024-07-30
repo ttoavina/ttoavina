@@ -4,117 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 29/7 ?(Hover on the year)</h1>
+<h1> What happen this day 30/7 ?(Hover on the year)</h1>
 
-En 2021 : The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka.
+En 2020 : NASA's Mars 2020 mission was launched on an Atlas V rocket from Cape Canaveral Air Force Station.
 <br/><br/>
-En 2019 : The 2019 Altamira prison riot between rival Brazilian drug gangs leaves 62 dead.
+En 2014 : Twenty killed and 150 are trapped after a landslide in Maharashtra, India.
 <br/><br/>
-En 2015 : The first piece of suspected debris from Malaysia Airlines Flight 370 is discovered on Réunion Island.
+En 2012 : A train fire kills 32 passengers and injures 27 on the Tamil Nadu Express in Andhra Pradesh, India.
 <br/><br/>
-En 2013 : Two passenger trains collide in the Swiss municipality of Granges-près-Marnand near Lausanne injuring 25 people.
+En 2012 : A power grid failure in Delhi leaves more than 300 million people without power in northern India.
 <br/><br/>
-En 2010 : An overloaded passenger ferry capsizes on the Kasai River in Bandundu Province, Democratic Republic of the Congo, resulting in at least 80 deaths.
+En 2011 : Marriage of Queen Elizabeth II's eldest granddaughter Zara Phillips to former rugby union footballer Mike Tindall.
 <br/><br/>
-En 2005 : Astronomers announce their discovery of the dwarf planet Eris.
+En 2006 : The world's longest running music show Top of the Pops is broadcast for the last time on BBC Two. The show had aired for 42 years.
 <br/><br/>
-En 1996 : The child protection portion of the Communications Decency Act is struck down by a U.S. federal court as too broad.
+En 2006 : An Israeli airstrike kills 28 Lebanese civilians, including 16 children.
 <br/><br/>
-En 1993 : The Supreme Court of Israel acquits alleged Nazi death camp guard John Demjanjuk of all charges and he is set free.
+En 2003 : In Mexico, the last 'old style' Volkswagen Beetle rolls off the assembly line.
 <br/><br/>
-En 1987 : British Prime Minister Margaret Thatcher and President of France François Mitterrand sign the agreement to build a tunnel under the English Channel (Eurotunnel).
+En 2003 : Three years after the death the last Pyrenean ibex, Celia, a clone of her is born only to subsequently die from lung defects. Within minutes, the Pyrenean ibex becomes the first and so-far only species to have ever gone de-extinct as well as go extinct twice.
 <br/><br/>
-En 1987 : Prime Minister of India Rajiv Gandhi and President of Sri Lanka J. R. Jayewardene sign the Indo-Sri Lanka Accord on ethnic issues.
+En 1990 : Ian Gow, Conservative Member of Parliament, is assassinated at his home by the IRA in a car bombing after he assured the group that the British government would never surrender to them.
 <br/><br/>
-En 1981 : A worldwide television audience of around 750 million people watch the wedding of Charles, Prince of Wales, and Lady Diana Spencer at St Paul's Cathedral in London.
+En 1981 : As many as 50,000 demonstrators, mostly women and children, took to the streets in Łódź to protest food ration shortages in Communist Poland.
 <br/><br/>
-En 1981 : After impeachment on June 21, Abolhassan Banisadr flees with Massoud Rajavi to Paris, in an Iranian Air Force Boeing 707, piloted by Colonel Behzad Moezzi, to form the National Council of Resistance of Iran.
+En 1980 : Vanuatu gains independence.
 <br/><br/>
-En 1980 : Iran adopts a new "holy" flag after the Islamic Revolution.
+En 1980 : Israel's Knesset passes the Jerusalem Law.
 <br/><br/>
-En 1976 : In New York City, David Berkowitz (a.k.a. the "Son of Sam") kills one person and seriously wounds another in the first of a series of attacks.
+En 1978 : The 730: Okinawa Prefecture changes its traffic on the right-hand side of the road to the left-hand side.
 <br/><br/>
-En 1973 : Greeks vote to abolish the monarchy, beginning the first period of the Metapolitefsi.
+En 1975 : Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant in Bloomfield Hills, Michigan, a suburb of Detroit, at about 2:30 p.m. He is never seen or heard from again.
 <br/><br/>
-En 1973 : Driver Roger Williamson is killed during the Dutch Grand Prix, after a suspected tire failure causes his car to pitch into the barriers at high speed.
+En 1974 : Watergate scandal: U.S. President Richard Nixon releases subpoenaed White House recordings after being ordered to do so by the Supreme Court of the United States.
 <br/><br/>
-En 1967 : Vietnam War: Off the coast of North Vietnam the USS Forrestal catches on fire in the worst U.S. naval disaster since World War II, killing 134.
+En 1971 : Apollo program: On Apollo 15, David Scott and James Irwin on the Apollo Lunar Module Falcon land on the Moon with the first Lunar Rover.
 <br/><br/>
-En 1967 : During the fourth day of celebrating its 400th anniversary, the city of Caracas, Venezuela is shaken by an earthquake, leaving approximately 500 dead.
+En 1971 : An All Nippon Airways Boeing 727 and a Japanese Air Force F-86 collide over Morioka, Iwate, Japan killing 162.
 <br/><br/>
-En 1965 : Vietnam War: The first 4,000 101st Airborne Division paratroopers arrive in Vietnam, landing at Cam Ranh Bay.
+En 1969 : Vietnam War: US President Richard Nixon makes an unscheduled visit to South Vietnam and meets with President Nguyễn Văn Thiệu and U.S. military commanders.
 <br/><br/>
-En 1959 : First United States Congress elections in Hawaii as a state of the Union.
+En 1966 : England defeats West Germany to win the 1966 FIFA World Cup at Wembley Stadium after extra time.
 <br/><br/>
-En 1958 : U.S. President Dwight D. Eisenhower signs into law the National Aeronautics and Space Act, which creates the National Aeronautics and Space Administration (NASA).
+En 1965 : U.S. President Lyndon B. Johnson signs the Social Security Act of 1965 into law, establishing Medicare and Medicaid.
 <br/><br/>
-En 1957 : The International Atomic Energy Agency is established.
+En 1962 : The Trans-Canada Highway, the then longest national highway in the world, is officially opened.
 <br/><br/>
-En 1957 : Tonight Starring Jack Paar premieres on NBC with Jack Paar beginning the modern day talk show.
+En 1956 : A joint resolution of the U.S. Congress is signed by President Dwight D. Eisenhower, authorizing In God We Trust as the U.S. national motto.
 <br/><br/>
-En 1950 : Korean War: After four days, the No Gun Ri Massacre ends when the US Army 7th Cavalry Regiment is withdrawn.
+En 1945 : World War II: Japanese submarine I-58 sinks the USS Indianapolis, killing 883 seamen. Most die during the following four days, until an aircraft notices the survivors.
 <br/><br/>
-En 1948 : Olympic Games: The Games of the XIV Olympiad: After a hiatus of 12 years caused by World War II, the first Summer Olympics to be held since the 1936 Summer Olympics in Berlin, open in London.
+En 1932 : Premiere of Walt Disney's Flowers and Trees, the first cartoon short to use Technicolor and the first Academy Award winning cartoon short.
 <br/><br/>
-En 1945 : The BBC Light Programme radio station is launched for mainstream light entertainment and music.
+En 1930 : In Montevideo, Uruguay wins the first FIFA World Cup.
 <br/><br/>
-En 1937 : Tongzhou mutiny: In Tongzhou, China, the East Hebei Army attacks Japanese troops and civilians.
+En 1916 : The Black Tom explosion in New York Harbor kills four and destroys some $20,000,000 worth of military goods.
 <br/><br/>
-En 1932 : Great Depression: In Washington, D.C., troops disperse the last of the "Bonus Army" of World War I veterans.
+En 1912 : Japan's Emperor Meiji dies and is succeeded by his son Yoshihito, who is now known as the Emperor Taishō.
 <br/><br/>
-En 1921 : Adolf Hitler becomes leader of the National Socialist German Workers' Party.
+En 1871 : The Staten Island Ferry Westfield's boiler explodes, killing over 85 people.
 <br/><br/>
-En 1920 : Construction of the Link River Dam begins as part of the Klamath Reclamation Project.
+En 1866 : Armed Confederate veterans in New Orleans riot against a meeting of Radical Republicans, killing 48 people and injuring another 100.
 <br/><br/>
-En 1914 : The Cape Cod Canal opened.
+En 1865 : The steamboat Brother Jonathan sinks off the coast of Crescent City, California, killing 225 passengers, the deadliest shipwreck on the Pacific Coast of the U.S. at the time.
 <br/><br/>
-En 1910 : The two-day Slocum massacre commences.
+En 1864 : American Civil War: Battle of the Crater: Union forces attempt to break Confederate lines at Petersburg, Virginia by exploding a large bomb under their trenches.
 <br/><br/>
-En 1907 : Sir Robert Baden-Powell sets up the Brownsea Island Scout camp in Poole Harbour on the south coast of England. The camp runs from August 1 to August 9 and is regarded as the foundation of the Scouting movement.
+En 1863 : American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone)  sign the Treaty of Box Elder.
 <br/><br/>
-En 1901 : Land lottery begins in Oklahoma.
+En 1863 : Valuev Circular banned the publication of religious, educational and training books in Ukrainian in the Russian Empire.
 <br/><br/>
-En 1900 : In Italy, King Umberto I of Italy is assassinated by the anarchist Gaetano Bresci. His son, Victor Emmanuel III, 31 years old, succeeds to the throne.
+En 1859 : First ascent of Grand Combin, one of the highest summits in the Alps.
 <br/><br/>
-En 1899 : The First Hague Convention is signed.
+En 1811 : Father Miguel Hidalgo y Costilla, leader of the Mexican insurgency, is executed by the Spanish in Chihuahua City, Mexico.
 <br/><br/>
-En 1871 : The Connecticut Valley Railroad opens between Old Saybrook, Connecticut and Hartford, Connecticut in the United States.
+En 1756 : In Saint Petersburg, Bartolomeo Rastrelli presents the newly built Catherine Palace to Empress Elizabeth and her courtiers.
 <br/><br/>
-En 1862 : American Civil War: Confederate spy Belle Boyd is arrested by Union troops and detained at the Old Capitol Prison in Washington, D.C.
+En 1733 : The first Masonic Grand Lodge in the future United States is constituted in Massachusetts.
 <br/><br/>
-En 1858 : United States and Japan sign the Harris Treaty.
+En 1729 : Founding of Baltimore, Maryland.
 <br/><br/>
-En 1851 : Annibale de Gasparis discovers asteroid 15 Eunomia.
+En 1676 : Nathaniel Bacon issues the "Declaration of the People of Virginia", beginning Bacon's Rebellion against the rule of Governor William Berkeley.
 <br/><br/>
-En 1848 : Great Famine of Ireland: Tipperary Revolt: In County Tipperary, Ireland, then in the United Kingdom, an unsuccessful nationalist revolt against British rule is put down by police.
+En 1656 : The Battle of Warsaw ends with a Swedish-Brandenburger victory over a larger Polish-Lithuanian force.
 <br/><br/>
-En 1836 : Inauguration of the Arc de Triomphe in Paris, France.
+En 1645 : English Civil War: Scottish Covenanter forces under the Earl of Leven launch the Siege of Hereford, a remaining Royalist stronghold.
 <br/><br/>
-En 1818 : French physicist Augustin Fresnel submits his prizewinning "Memoir on the Diffraction of Light", precisely accounting for the limited extent to which light spreads into shadows, and thereby demolishing the oldest objection to the wave theory of light.
+En 1635 : Eighty Years' War: The Siege of Schenkenschans begins; Frederick Henry, Prince of Orange, begins the recapture of the strategically important fortress from the Spanish Army.
 <br/><br/>
-En 1775 : Founding of the U.S. Army Judge Advocate General's Corps: General George Washington appoints William Tudor as Judge Advocate of the Continental Army.
+En 1627 : An earthquake kills about 5,000 people in Gargano, Italy.
 <br/><br/>
-En 1693 : War of the Grand Alliance: Battle of Landen: France wins a victory over Allied forces in the Netherlands.
+En 1619 : In Jamestown, Virginia, the first Colonial European representative assembly in the Americas, the Virginia General Assembly, convenes for the first time.
 <br/><br/>
-En 1588 : Anglo-Spanish War: Battle of Gravelines: English naval forces under the command of Lord Charles Howard and Sir Francis Drake defeat the Spanish Armada off the coast of Gravelines, France.
+En 1609 : Beaver Wars: At Ticonderoga (now Crown Point, New York), Samuel de Champlain shoots and kills two Iroquois chiefs on behalf of his native allies.
 <br/><br/>
-En 1567 : The infant James VI is crowned King of Scotland at Stirling.
+En 1502 : Christopher Columbus lands at Guanaja in the Bay Islands off the coast of Honduras during his fourth voyage.
 <br/><br/>
-En 1565 : The widowed Mary, Queen of Scots marries Henry Stuart, Lord Darnley, Duke of Albany, at Holyrood Palace, Edinburgh, Scotland, in a Catholic ceremony.
+En 1419 : First Defenestration of Prague: A crowd of radical Hussites kill seven members of the Prague city council.
 <br/><br/>
-En 1148 : The Siege of Damascus ends in a decisive crusader defeat and leads to the disintegration of the Second Crusade.
-<br/><br/>
-En 1030 : Ladejarl-Fairhair succession wars: Battle of Stiklestad: King Olaf II fights and dies trying to regain his Norwegian throne from the Danes.
-<br/><br/>
-En 1018 : Count Dirk III defeats an army sent by Emperor Henry II in the Battle of Vlaardingen.
-<br/><br/>
-En 1014 : Byzantine–Bulgarian wars: Battle of Kleidion: Byzantine emperor Basil II inflicts a decisive defeat on the Bulgarian army, and his subsequent treatment of 15,000 prisoners reportedly causes Tsar Samuil of Bulgaria to die of a heart attack less than three months later, on October 6.
-<br/><br/>
-En 923 : Battle of Firenzuola: Lombard forces under King Rudolph II and Adalbert I, margrave of Ivrea, defeat the dethroned Emperor Berengar I of Italy at Firenzuola (Tuscany).
-<br/><br/>
-En 904 : Sack of Thessalonica: Saracen raiders under Leo of Tripoli sack Thessaloniki, the Byzantine Empire's second-largest city, after a short siege, and plunder it for a week.
-<br/><br/>
-En 615 : Pakal ascends the throne of Palenque at the age of 12.
-<br/><br/>
-En -587 : The Neo-Babylonian Empire sacks Jerusalem and destroys the First Temple.
+En 762 : Baghdad is founded.
 <br/><br/>
