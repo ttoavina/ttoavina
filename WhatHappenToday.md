@@ -4,107 +4,135 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 31/7 ?(Hover on the year)</h1>
+<h1> What happen this day 1/8 ?(Hover on the year)</h1>
 
-En 2014 : Gas explosions in the southern Taiwanese city of Kaohsiung kill at least 20 people and injure more than 270.
+En 2023 : Former US President Donald Trump is indicted for his role in the January 6 United States Capitol attack, his third indictment in 2023.
 <br/><br/>
-En 2012 : Michael Phelps breaks the record set in 1964 by Larisa Latynina for the most medals won at the Olympics.
+En 2017 : A suicide attack on a mosque in Herat, Afghanistan kills 20 people.
 <br/><br/>
-En 2008 : East Coast Jets Flight 81 crashes near Owatonna Degner Regional Airport in Owatonna, Minnesota, killing all eight people on board.
+En 2008 : The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
 <br/><br/>
-En 2007 : Operation Banner, the presence of the British Army in Northern Ireland, and the longest-running British Army operation ever, comes to an end.
+En 2008 : Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth in the worst single accident in the history of K2 mountaineering.
 <br/><br/>
-En 2006 : Fidel Castro hands over power to his brother, Raúl.
+En 2007 : The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.
 <br/><br/>
-En 1999 : Discovery Program: Lunar Prospector: NASA intentionally crashes the spacecraft into the Moon, thus ending its mission to detect frozen water on the Moon's surface.
+En 2004 : A supermarket fire kills 396 people and injures 500 others in Asunción, Paraguay.
 <br/><br/>
-En 1997 : FedEx Express Flight 14 crashes at Newark International Airport, injuring five.
+En 1998 : Puntland, an autonomous state in northeastern Somalia, was officially established following a constitutional conference in Garowe, Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
 <br/><br/>
-En 1992 : The nation of Georgia joins the United Nations.
+En 1993 : The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.
 <br/><br/>
-En 1992 : Thai Airways International Flight 311 crashes into a mountain north of Kathmandu, Nepal killing all 113 people on board.
+En 1988 : A British soldier was killed in the Inglis Barracks bombing in London, England.
 <br/><br/>
-En 1992 : China General Aviation Flight 7552 crashes during takeoff from Nanjing Dajiaochang Airport, killing 108.
+En 1984 : Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.
 <br/><br/>
-En 1992 : Space Shuttle program: Atlantis is launched on STS-46 to deploy the European Retrievable Carrier and the Tethered Satellite System.
+En 1981 : MTV begins broadcasting in the United States and airs its first video, "Video Killed the Radio Star" by The Buggles.
 <br/><br/>
-En 1991 : The United States and Soviet Union both sign the START I Strategic Arms Reduction Treaty, the first to reduce (with verification) both countries' stockpiles.
+En 1980 : Vigdís Finnbogadóttir is elected President of Iceland and becomes the world's first democratically elected female head of state.
 <br/><br/>
-En 1988 : Thirty-two people are killed and 1,674 injured when a bridge at the Sultan Abdul Halim ferry terminal collapses in Butterworth, Penang, Malaysia.
+En 1980 : A train crash kills 18 people in County Cork, Ireland.
 <br/><br/>
-En 1987 : A tornado occurs in Edmonton, Alberta, killing 27 people.
+En 1976 : Niki Lauda has a severe accident that almost claims his life at the German Grand Prix at Nurburgring.
 <br/><br/>
-En 1975 : The Troubles: Three members of a popular cabaret band and two gunmen are killed during a botched paramilitary attack in Northern Ireland.
+En 1974 : Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the "Green Line", dividing Cyprus into two zones.
 <br/><br/>
-En 1973 : A Delta Air Lines jetliner, flight DL 723 crashes while landing in fog at Logan International Airport, Boston, Massachusetts killing 89.
+En 1971 : The Concert for Bangladesh, organized by former Beatle George Harrison, is held at Madison Square Garden in New York City.
 <br/><br/>
-En 1972 : The Troubles: In Operation Motorman, the British Army re-takes the urban no-go areas of Northern Ireland. It is the biggest British military operation since the Suez Crisis of 1956, and the biggest in Ireland since the Irish War of Independence. Later that day, nine civilians are killed by car bombs in the village of Claudy.
+En 1968 : The coronation of Hassanal Bolkiah, the 29th Sultan of Brunei, is held.
 <br/><br/>
-En 1971 : Apollo program: the Apollo 15 astronauts become the first to ride in a lunar rover.
+En 1966 : Charles Whitman kills 16 people at the University of Texas at Austin before being killed by the police.
 <br/><br/>
-En 1970 : Black Tot Day: The last day of the officially sanctioned rum ration in the Royal Navy.
+En 1966 : Purges of intellectuals and imperialists becomes official China policy at the beginning of the Cultural Revolution.
 <br/><br/>
-En 1966 : The pleasure cruiser MV Darlwyne disappeared off the Cornwall coast with the loss of all 31 aboard.
+En 1965 : Frank Herbert's novel, Dune was published for the first time.  It was named as the world's best-selling science fiction novel in 2003.
 <br/><br/>
-En 1964 : Ranger program: Ranger 7 sends back the first close-up photographs of the moon, with images 1,000 times clearer than anything ever seen from earth-bound telescopes.
+En 1964 : The former Belgian Congo is renamed the Democratic Republic of the Congo.
 <br/><br/>
-En 1948 : At Idlewild Field in New York, New York International Airport (later renamed John F. Kennedy International Airport) is dedicated.
+En 1961 : U.S. Defense Secretary Robert McNamara orders the creation of the Defense Intelligence Agency (DIA), the nation's first centralized military espionage organization.
 <br/><br/>
-En 1948 : USS Nevada is sunk by an aerial torpedo after surviving hits from two atomic bombs (as part of post-war tests) and being used for target practice by three other ships.
+En 1960 : Dahomey (later renamed Benin) declares independence from France.
 <br/><br/>
-En 1945 : Pierre Laval, the fugitive former leader of Vichy France, surrenders to Allied soldiers in Austria.
+En 1960 : Islamabad is declared the federal capital of the Government of Pakistan.
 <br/><br/>
-En 1941 : The Holocaust: Under instructions from Adolf Hitler, Nazi official Hermann Göring orders SS General Reinhard Heydrich to "submit to me as soon as possible a general plan of the administrative material and financial measures necessary for carrying out the desired Final Solution of the Jewish question."
+En 1957 : The United States and Canada form the North American Aerospace Defense Command (NORAD).
 <br/><br/>
-En 1941 : World War II: The Battle of Smolensk concludes with Germany capturing about 300,000 Soviet Red Army prisoners.
+En 1950 : Guam is organized as an unincorporated territory of the United States as the President Harry S. Truman signs the Guam Organic Act.
 <br/><br/>
-En 1938 : Bulgaria signs a non-aggression pact with Greece and other states of Balkan Antanti (Turkey, Romania, Yugoslavia).
+En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners of war that collaborated with Nazi Germany, are executed in Moscow, Soviet Union for treason.
 <br/><br/>
-En 1938 : Archaeologists discover engraved gold and silver plates from King Darius the Great in Persepolis.
+En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
 <br/><br/>
-En 1932 : The NSDAP (Nazi Party) wins more than 38% of the vote in German elections.
+En 1943 : World War II: Operation Tidal Wave also known as "Black Sunday", was a failed American attempt to destroy Romanian oil fields.
 <br/><br/>
-En 1917 : World War I: The Battle of Passchendaele begins near Ypres in West Flanders, Belgium.
+En 1937 : Josip Broz Tito reads the resolution "Manifesto of constitutional congress of KPH" to the constitutive congress of KPH (Croatian Communist Party) in woods near Samobor.
 <br/><br/>
-En 1904 : Russo-Japanese War: Battle of Hsimucheng: Units of the Imperial Japanese Army defeat units of the Imperial Russian Army in a strategic confrontation.
+En 1936 : The Olympics opened in Berlin with a ceremony presided over by Adolf Hitler.
 <br/><br/>
-En 1874 : Patrick Francis Healy became the first African-American inaugurated as president of a predominantly white university, Georgetown University.
+En 1933 : Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.
 <br/><br/>
-En 1865 : The first narrow-gauge mainline railway in the world opens at Grandchester, Queensland, Australia.
+En 1927 : The Nanchang Uprising marks the first significant battle in the Chinese Civil War between the Kuomintang and Chinese Communist Party. This day is commemorated as the anniversary of the founding of the People's Liberation Army.
 <br/><br/>
-En 1856 : Christchurch, New Zealand is chartered as a city.
+En 1915 : Patrick Pearse gives his famous speech "Ireland unfree shall never be at peace" at O'Donovan Rossa's funeral in Dublin.
 <br/><br/>
-En 1790 : The first U.S. patent is issued, to inventor Samuel Hopkins for a potash process.
+En 1914 : World War I: The German Empire declares war on the Russian Empire.
 <br/><br/>
-En 1777 : The U.S. Second Continental Congress passes a resolution that the services of Gilbert du Motier, Marquis de Lafayette "be accepted, and that, in consideration of his zeal, illustrious family and connexions, he have the rank and commission of major-general of the United States."
+En 1914 : World War I: The Swiss Army mobilizes because of World War I.
 <br/><br/>
-En 1763 : Odawa Chief Pontiac's forces defeat British troops at the Battle of Bloody Run during Pontiac's War.
+En 1911 : Harriet Quimby takes her pilot's test and becomes the first U.S. woman to earn an Aero Club of America aviator's certificate.
 <br/><br/>
-En 1741 : Charles Albert of Bavaria invades Upper Austria and Bohemia.
+En 1907 : The start of the first Scout camp on Brownsea Island, the origin of the worldwide Scouting movement.
 <br/><br/>
-En 1715 : Seven days after a Spanish treasure fleet of 12 ships left Havana, Cuba for Spain, 11 of them sink in a storm off the coast of Florida. A few centuries later, treasure is salvaged from these wrecks.
+En 1894 : The Empire of Japan and Qing China declare war on each other after a week of fighting over Korea, formally inaugurating the First Sino-Japanese War.
 <br/><br/>
-En 1703 : Daniel Defoe is placed in a pillory for the crime of seditious libel after publishing a politically satirical pamphlet, but is pelted with flowers.
+En 1893 : Henry Perky patents shredded wheat.
 <br/><br/>
-En 1658 : Aurangzeb is proclaimed Mughal emperor of India.
+En 1876 : Colorado is admitted as the 38th U.S. state.
 <br/><br/>
-En 1655 : Russo-Polish War (1654–67): The Russian army enters the capital of the Grand Duchy of Lithuania, Vilnius, which it holds for six years.
+En 1863 : At the suggestion of Senator J. V. Snellman and the order of Emperor Alexander II, full rights are promised to the Finnish language by a language regulation in the Grand Duchy of Finland.
 <br/><br/>
-En 1618 : Maurice, Prince of Orange disbands the waardgelders militia in Utrecht, a pivotal event in the Remonstrant/Counter-Remonstrant tensions.
+En 1855 : The first ascent of Monte Rosa, the second highest summit in the Alps.
 <br/><br/>
-En 1498 : On his third voyage to the Western Hemisphere, Christopher Columbus becomes the first European to discover the island of Trinidad.
+En 1849 : Joven Daniel wrecks at the coast of Araucanía, Chile, leading to allegations that local Mapuche tribes murdered survivors and kidnapped Elisa Bravo.
 <br/><br/>
-En 1492 : All remaining Jews are expelled from Spain when the Alhambra Decree takes effect.
+En 1842 : The Lombard Street riot erupts in Philadelphia, Pennsylvania, United States.
 <br/><br/>
-En 1451 : Jacques Cœur is arrested by order of Charles VII of France.
+En 1834 : Slavery is abolished in the British Empire as the Slavery Abolition Act 1833 comes into force, although it remains legal in the possessions of the East India Company until the passage of the Indian Slavery Act, 1843.
 <br/><br/>
-En 1423 : Hundred Years' War: Battle of Cravant: A Franco-Scottish army is defeated by the Anglo-Burgundians at Cravant on the banks of the river Yonne.
+En 1834 : Construction begins on the Wilberforce Monument in Kingston Upon Hull.
 <br/><br/>
-En 1201 : Attempted usurpation by John Komnenos the Fat for the throne of Alexios III Angelos.
+En 1801 : First Barbary War: The American schooner USS Enterprise captures the Tripolitan polacca Tripoli in a single-ship action off the coast of modern-day Libya.
 <br/><br/>
-En 1009 : Pope Sergius IV becomes the 142nd pope, succeeding Pope John XVIII.
+En 1800 : The Acts of Union 1800 are passed which merge the Kingdom of Great Britain and the Kingdom of Ireland into the United Kingdom of Great Britain and Ireland.
 <br/><br/>
-En 781 : The oldest recorded eruption of Mount Fuji (Traditional Japanese date: Sixth day of the seventh month of the first year of the Ten'o (天応) era).
+En 1798 : French Revolutionary Wars: Battle of the Nile (Battle of Aboukir Bay): Battle begins when a British fleet engages the French Revolutionary Navy fleet in an unusual night action.
 <br/><br/>
-En -30 : Battle of Alexandria: Mark Antony achieves a minor victory over Octavian's forces, but most of his army subsequently deserts, leading to his suicide.
+En 1774 : British scientist Joseph Priestley discovers oxygen gas, corroborating the prior discovery of this element by German-Swedish chemist Carl Wilhelm Scheele.
+<br/><br/>
+En 1759 : Seven Years' War: The Battle of Minden, an allied Anglo-German army victory over the French. In Britain this was one of a number of events that constituted the Annus Mirabilis of 1759 and is celebrated as Minden Day by certain British Army regiments.
+<br/><br/>
+En 1714 : George, Elector of Hanover, becomes King George I of Great Britain, marking the beginning of the Georgian era of British history.
+<br/><br/>
+En 1664 : Ottoman forces are defeated in the battle of Saint Gotthard by an Austrian army led by Raimondo Montecuccoli, resulting in the Peace of Vasvár.
+<br/><br/>
+En 1620 : Speedwell leaves Delfshaven to bring pilgrims to America by way of England.
+<br/><br/>
+En 1571 : The Ottoman conquest of Cyprus is concluded, by the surrender of Famagusta.
+<br/><br/>
+En 1498 : Christopher Columbus becomes the first European to visit what is now Venezuela.
+<br/><br/>
+En 1469 : Louis XI of France founds the chivalric order called the Order of Saint Michael in Amboise.
+<br/><br/>
+En 1291 : The Old Swiss Confederacy is formed with the signature of the Federal Charter.
+<br/><br/>
+En 1203 : Isaac II Angelos, restored Byzantine Emperor, declares his son Alexios IV Angelos co-emperor after pressure from the forces of the Fourth Crusade.
+<br/><br/>
+En 902 : Taormina, the last Byzantine stronghold in Sicily, is captured by the Aghlabid army, concluding the Muslim conquest of Sicily.
+<br/><br/>
+En 607 : Ono no Imoko is dispatched as envoy to the Sui court in China (Traditional Japanese date: July 3, 607).
+<br/><br/>
+En 527 : Justinian I becomes the sole ruler of the Byzantine Empire.
+<br/><br/>
+En 69 : Batavian rebellion: The Batavians in Germania Inferior (Netherlands) revolt under the leadership of Gaius Julius Civilis.
+<br/><br/>
+En -30 : Octavian (later known as Augustus) enters Alexandria, Egypt, bringing it under the control of the Roman Republic.
 <br/><br/>
