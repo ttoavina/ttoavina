@@ -4,135 +4,101 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 1/8 ?(Hover on the year)</h1>
+<h1> What happen this day 2/8 ?(Hover on the year)</h1>
 
-En 2023 : Former US President Donald Trump is indicted for his role in the January 6 United States Capitol attack, his third indictment in 2023.
+En 2014 : At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
 <br/><br/>
-En 2017 : A suicide attack on a mosque in Herat, Afghanistan kills 20 people.
+En 2005 : Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.
 <br/><br/>
-En 2008 : The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
+En 1999 : The Gaisal train disaster claims 285 lives in Assam, India.
 <br/><br/>
-En 2008 : Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth in the worst single accident in the history of K2 mountaineering.
+En 1991 : Space Shuttle Atlantis is launched on STS-43 to deploy the TDRS-5 satellite.
 <br/><br/>
-En 2007 : The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.
+En 1990 : Iraq invades Kuwait, eventually leading to the Gulf War.
 <br/><br/>
-En 2004 : A supermarket fire kills 396 people and injures 500 others in Asunción, Paraguay.
+En 1989 : Pakistan is re-admitted to the Commonwealth of Nations after having restored democracy for the first time since 1972.
 <br/><br/>
-En 1998 : Puntland, an autonomous state in northeastern Somalia, was officially established following a constitutional conference in Garowe, Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
+En 1989 : A massacre is carried out by an Indian Peace Keeping Force in Sri Lanka killing 64 ethnic Tamil civilians.
 <br/><br/>
-En 1993 : The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.
+En 1985 : Delta Air Lines Flight 191, a Lockheed L-1011 TriStar, crashes at Dallas/Fort Worth International Airport killing 137.
 <br/><br/>
-En 1988 : A British soldier was killed in the Inglis Barracks bombing in London, England.
+En 1982 : The Helsinki Metro, the first rapid transit system of Finland, is opened to the general public.
 <br/><br/>
-En 1984 : Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.
+En 1980 : A bomb explodes at the railway station in Bologna, Italy, killing 85 people and wounding more than 200.
 <br/><br/>
-En 1981 : MTV begins broadcasting in the United States and airs its first video, "Video Killed the Radio Star" by The Buggles.
+En 1973 : A flash fire kills 50 people at the Summerland amusement centre at Douglas, Isle of Man.
 <br/><br/>
-En 1980 : Vigdís Finnbogadóttir is elected President of Iceland and becomes the world's first democratically elected female head of state.
+En 1968 : An earthquake hits Casiguran, Aurora, Philippines killing more than 270 people and wounding 261.
 <br/><br/>
-En 1980 : A train crash kills 18 people in County Cork, Ireland.
+En 1947 : A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.
 <br/><br/>
-En 1976 : Niki Lauda has a severe accident that almost claims his life at the German Grand Prix at Nurburgring.
+En 1945 : World War II: End of the Potsdam Conference.
 <br/><br/>
-En 1974 : Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the "Green Line", dividing Cyprus into two zones.
+En 1944 : ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia.
 <br/><br/>
-En 1971 : The Concert for Bangladesh, organized by former Beatle George Harrison, is held at Madison Square Garden in New York City.
+En 1944 : World War II: The largest trade convoy of the world wars arrives safely in the Western Approaches.
 <br/><br/>
-En 1968 : The coronation of Hassanal Bolkiah, the 29th Sultan of Brunei, is held.
+En 1943 : The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months.
 <br/><br/>
-En 1966 : Charles Whitman kills 16 people at the University of Texas at Austin before being killed by the police.
+En 1943 : World War II: The Motor Torpedo Boat PT-109 is rammed by the Japanese destroyer Amagiri and sinks. Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.
 <br/><br/>
-En 1966 : Purges of intellectuals and imperialists becomes official China policy at the beginning of the Cultural Revolution.
+En 1939 : Albert Einstein and Leo Szilard write a letter to Franklin D. Roosevelt, urging him to begin the Manhattan Project to develop a nuclear weapon.
 <br/><br/>
-En 1965 : Frank Herbert's novel, Dune was published for the first time.  It was named as the world's best-selling science fiction novel in 2003.
+En 1937 : The Marihuana Tax Act of 1937 is passed in America, the effect of which is to render marijuana and all its by-products illegal.
 <br/><br/>
-En 1964 : The former Belgian Congo is renamed the Democratic Republic of the Congo.
+En 1934 : Reichskanzler Adolf Hitler becomes Führer of Germany following the death of President Paul von Hindenburg.
 <br/><br/>
-En 1961 : U.S. Defense Secretary Robert McNamara orders the creation of the Defense Intelligence Agency (DIA), the nation's first centralized military espionage organization.
+En 1932 : The positron (antiparticle of the electron) is discovered by Carl D. Anderson.
 <br/><br/>
-En 1960 : Dahomey (later renamed Benin) declares independence from France.
+En 1923 : Vice President Calvin Coolidge becomes U.S. President upon the death of President Warren G. Harding.
 <br/><br/>
-En 1960 : Islamabad is declared the federal capital of the Government of Pakistan.
+En 1922 : A typhoon hits Shantou, Republic of China, killing more than 50,000 people.
 <br/><br/>
-En 1957 : The United States and Canada form the North American Aerospace Defense Command (NORAD).
+En 1918 : The first general strike in Canadian history takes place in Vancouver.
 <br/><br/>
-En 1950 : Guam is organized as an unincorporated territory of the United States as the President Harry S. Truman signs the Guam Organic Act.
+En 1916 : World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.
 <br/><br/>
-En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners of war that collaborated with Nazi Germany, are executed in Moscow, Soviet Union for treason.
+En 1914 : The German occupation of Luxembourg during World War I begins.
 <br/><br/>
-En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
+En 1903 : The Ilinden–Preobrazhenie Uprising against the Ottoman Empire begins.
 <br/><br/>
-En 1943 : World War II: Operation Tidal Wave also known as "Black Sunday", was a failed American attempt to destroy Romanian oil fields.
+En 1897 : Anglo-Afghan War: The Siege of Malakand ends when a relief column is able to reach the British garrison in the Malakand states.
 <br/><br/>
-En 1937 : Josip Broz Tito reads the resolution "Manifesto of constitutional congress of KPH" to the constitutive congress of KPH (Croatian Communist Party) in woods near Samobor.
+En 1873 : The Clay Street Hill Railroad begins operating the first cable car in San Francisco's famous cable car system.
 <br/><br/>
-En 1936 : The Olympics opened in Berlin with a ceremony presided over by Adolf Hitler.
+En 1870 : Tower Subway, the world's first underground tube railway, opens in London, England, United Kingdom.
 <br/><br/>
-En 1933 : Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.
+En 1869 : Japan's Edo society class system is abolished as part of the Meiji Restoration reforms.
 <br/><br/>
-En 1927 : The Nanchang Uprising marks the first significant battle in the Chinese Civil War between the Kuomintang and Chinese Communist Party. This day is commemorated as the anniversary of the founding of the People's Liberation Army.
+En 1858 : The Government of India Act 1858 replaces Company rule in India with that of the British Raj.
 <br/><br/>
-En 1915 : Patrick Pearse gives his famous speech "Ireland unfree shall never be at peace" at O'Donovan Rossa's funeral in Dublin.
+En 1830 : Charles X of France abdicates the throne in favor of his grandson Henri.
 <br/><br/>
-En 1914 : World War I: The German Empire declares war on the Russian Empire.
+En 1798 : French Revolutionary Wars: The Battle of the Nile concludes in a British victory.
 <br/><br/>
-En 1914 : World War I: The Swiss Army mobilizes because of World War I.
+En 1790 : The first United States Census is conducted.
 <br/><br/>
-En 1911 : Harriet Quimby takes her pilot's test and becomes the first U.S. woman to earn an Aero Club of America aviator's certificate.
+En 1776 : The signing of the United States Declaration of Independence took place.
 <br/><br/>
-En 1907 : The start of the first Scout camp on Brownsea Island, the origin of the worldwide Scouting movement.
+En 1610 : During Henry Hudson's search for the Northwest Passage, he sails into what is now known as Hudson Bay.
 <br/><br/>
-En 1894 : The Empire of Japan and Qing China declare war on each other after a week of fighting over Korea, formally inaugurating the First Sino-Japanese War.
+En 1492 : The Jews are expelled from Spain: 40,000–200,000 leave. Sultan Bayezid II of the Ottoman Empire, learning of this, dispatches the Ottoman Navy to bring the Jews safely to Ottoman lands, mainly  to the cities of Thessaloniki (in modern-day Greece) and İzmir (in modern-day Turkey).
 <br/><br/>
-En 1893 : Henry Perky patents shredded wheat.
+En 1415 : Thomas Grey is executed for participating in the Southampton Plot.
 <br/><br/>
-En 1876 : Colorado is admitted as the 38th U.S. state.
+En 1377 : Russian troops are defeated by forces of the Blue Horde Khan Arapsha in the Battle on Pyana River.
 <br/><br/>
-En 1863 : At the suggestion of Senator J. V. Snellman and the order of Emperor Alexander II, full rights are promised to the Finnish language by a language regulation in the Grand Duchy of Finland.
+En 1343 : After the execution of her husband, Jeanne de Clisson sells her estates and raises a force of men with which to attack French shipping and ports.
 <br/><br/>
-En 1855 : The first ascent of Monte Rosa, the second highest summit in the Alps.
+En 1274 : Edward I of England returns from the Ninth Crusade and is crowned King seventeen days later.
 <br/><br/>
-En 1849 : Joven Daniel wrecks at the coast of Araucanía, Chile, leading to allegations that local Mapuche tribes murdered survivors and kidnapped Elisa Bravo.
+En 932 : After a two-year siege, the city of Toledo, in Spain, surrenders to the forces of the Caliph of Córdoba Abd al-Rahman III, assuming an important victory in his campaign to subjugate the Central March.
 <br/><br/>
-En 1842 : The Lombard Street riot erupts in Philadelphia, Pennsylvania, United States.
+En 461 : Majorian is arrested near Tortona (northern Italy) and deposed by the Suebian general Ricimer as puppet emperor.
 <br/><br/>
-En 1834 : Slavery is abolished in the British Empire as the Slavery Abolition Act 1833 comes into force, although it remains legal in the possessions of the East India Company until the passage of the Indian Slavery Act, 1843.
+En -49 : Caesar, who marched to Spain earlier in the year, leaving Marcus Antonius in charge of Italy, defeats Pompey's general Afranius and Petreius in Ilerda (Lerida) north of the Ebro river.
 <br/><br/>
-En 1834 : Construction begins on the Wilberforce Monument in Kingston Upon Hull.
+En -216 : The Carthaginian army led by Hannibal defeats a numerically superior Roman army at the Battle of Cannae.
 <br/><br/>
-En 1801 : First Barbary War: The American schooner USS Enterprise captures the Tripolitan polacca Tripoli in a single-ship action off the coast of modern-day Libya.
-<br/><br/>
-En 1800 : The Acts of Union 1800 are passed which merge the Kingdom of Great Britain and the Kingdom of Ireland into the United Kingdom of Great Britain and Ireland.
-<br/><br/>
-En 1798 : French Revolutionary Wars: Battle of the Nile (Battle of Aboukir Bay): Battle begins when a British fleet engages the French Revolutionary Navy fleet in an unusual night action.
-<br/><br/>
-En 1774 : British scientist Joseph Priestley discovers oxygen gas, corroborating the prior discovery of this element by German-Swedish chemist Carl Wilhelm Scheele.
-<br/><br/>
-En 1759 : Seven Years' War: The Battle of Minden, an allied Anglo-German army victory over the French. In Britain this was one of a number of events that constituted the Annus Mirabilis of 1759 and is celebrated as Minden Day by certain British Army regiments.
-<br/><br/>
-En 1714 : George, Elector of Hanover, becomes King George I of Great Britain, marking the beginning of the Georgian era of British history.
-<br/><br/>
-En 1664 : Ottoman forces are defeated in the battle of Saint Gotthard by an Austrian army led by Raimondo Montecuccoli, resulting in the Peace of Vasvár.
-<br/><br/>
-En 1620 : Speedwell leaves Delfshaven to bring pilgrims to America by way of England.
-<br/><br/>
-En 1571 : The Ottoman conquest of Cyprus is concluded, by the surrender of Famagusta.
-<br/><br/>
-En 1498 : Christopher Columbus becomes the first European to visit what is now Venezuela.
-<br/><br/>
-En 1469 : Louis XI of France founds the chivalric order called the Order of Saint Michael in Amboise.
-<br/><br/>
-En 1291 : The Old Swiss Confederacy is formed with the signature of the Federal Charter.
-<br/><br/>
-En 1203 : Isaac II Angelos, restored Byzantine Emperor, declares his son Alexios IV Angelos co-emperor after pressure from the forces of the Fourth Crusade.
-<br/><br/>
-En 902 : Taormina, the last Byzantine stronghold in Sicily, is captured by the Aghlabid army, concluding the Muslim conquest of Sicily.
-<br/><br/>
-En 607 : Ono no Imoko is dispatched as envoy to the Sui court in China (Traditional Japanese date: July 3, 607).
-<br/><br/>
-En 527 : Justinian I becomes the sole ruler of the Byzantine Empire.
-<br/><br/>
-En 69 : Batavian rebellion: The Batavians in Germania Inferior (Netherlands) revolt under the leadership of Gaius Julius Civilis.
-<br/><br/>
-En -30 : Octavian (later known as Augustus) enters Alexandria, Egypt, bringing it under the control of the Roman Republic.
+En -338 : A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.
 <br/><br/>
