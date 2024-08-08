@@ -4,103 +4,117 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 7/8 ?(Hover on the year)</h1>
+<h1> What happen this day 8/8 ?(Hover on the year)</h1>
 
-En 2020 : Air India Express Flight 1344 overshoots the runway at Calicut International Airport in the Malappuram district of Kerala, India, and crashes, killing 21 of the 190 people on board.
+En 2023 : 2023 Hawaii wildfires: 17,000 acres of land are burned and at least 101 people are killed, with two others missing, when a series of wildfires break out on the island of Maui in Hawaii.
 <br/><br/>
-En 2008 : The start of the Russo-Georgian War over the territory of South Ossetia.
+En 2022 : The Federal Bureau of Investigation (FBI) executes a search warrant at former president Donald Trump's residence in Mar-a-Lago, Palm Beach, Florida.
 <br/><br/>
-En 2007 : At AT&T Park, Barry Bonds hits his 756th career home run to surpass Hank Aaron's 33-year-old record.
+En 2019 : An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
 <br/><br/>
-En 1999 : The Chechnya-based Islamic International Brigade invades neighboring Dagestan.
+En 2016 : Terrorists attack a government hospital in Quetta, Pakistan with a suicide blast and shooting, killing between 70 and 94 people, and injuring around 130 others.
 <br/><br/>
-En 1998 : Bombings at United States embassies in Dar es Salaam, Tanzania and Nairobi, Kenya kill approximately 212 people.
+En 2015 : Eight people are killed in a shooting in Harris County, Texas.
 <br/><br/>
-En 1997 : Space Shuttle Program: The Space Shuttle Discovery launches on STS-85 from the Kennedy Space Center in Cape Canaveral, Florida.
+En 2013 : A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 31 people.
 <br/><br/>
-En 1997 : Fine Air Flight 101 crashes after takeoff from Miami International Airport, killing five people.
+En 2010 : China Floods: A mudslide in Zhugqu County, Gansu, China, kills more than 1,400 people.
 <br/><br/>
-En 1995 : The Chilean government declares state of emergency in the southern half of the country in response to an event of intense, cold, wind, rain and snowfall known as the White Earthquake.
+En 2008 : A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
 <br/><br/>
-En 1993 : Ada Deer, a Menominee activist, is sworn in as the head of the Bureau of Indian Affairs.
+En 2008 : The 29th modern summer Olympic Games took place in Beijing, China until August 24.
 <br/><br/>
-En 1990 : First American soldiers arrive in Saudi Arabia as part of the Gulf War.
+En 2007 : An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
 <br/><br/>
-En 1989 : U.S. Congressman Mickey Leland (D-TX) and 15 others die in a plane crash in Ethiopia.
+En 2004 : A tour bus belonging to the Dave Matthews Band dumps approximately 800 pounds of human waste onto a boat full of passengers.
 <br/><br/>
-En 1987 : Cold War: Lynne Cox becomes the first person to swim from the United States to the Soviet Union, crossing the Bering Strait from Little Diomede Island in Alaska to Big Diomede in the Soviet Union.
+En 2001 : Albanian rebels ambush a convoy of the Army of the Republic of Macedonia near Tetovo, killing 10 soldiers.
 <br/><br/>
-En 1985 : Takao Doi, Mamoru Mohri and Chiaki Mukai are chosen to be Japan's first astronauts.
+En 2000 : Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence.
 <br/><br/>
-En 1981 : The Washington Star ceases all operations after 128 years of publication.
+En 1998 : Iranian consulate in Mazar-i-Sharif, Afghanistan is raided by Taliban leading to the deaths of ten Iranian diplomats and a journalist.
 <br/><br/>
-En 1978 : U.S. President Jimmy Carter declares a federal emergency at Love Canal due to toxic waste that had been disposed of negligently.
+En 1993 : The 7.8 Mw  Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people.
 <br/><br/>
-En 1976 : Viking program: Viking 2 enters orbit around Mars.
+En 1991 : The Warsaw radio mast, then the tallest construction ever built, collapses.
 <br/><br/>
-En 1974 : Philippe Petit performs a high wire act between the twin towers of the World Trade Center 1,368 feet (417 m) in the air.
+En 1990 : Iraq occupies Kuwait and the state is annexed to Iraq. This would lead to the Gulf War shortly afterward.
 <br/><br/>
-En 1970 : California judge Harold Haley is taken hostage in his courtroom and killed during an effort to free George Jackson from police custody.
+En 1989 : Space Shuttle program: STS-28 Mission: Space Shuttle Columbia takes off on a secret five-day military mission.
 <br/><br/>
-En 1969 : Richard Nixon appoints Luis R. Bruce, a Mohawk-Oglala Sioux and co-founder of the National Congress of American Indians, as the new commissioner of the Bureau of Indian Affairs.
+En 1988 : The 8888 Uprising begins in Rangoon (Yangon), Burma (Myanmar). Led by students, hundreds of thousands join in nationwide protests against the one-party regime. On September 18, the demonstrations end in a military crackdown, killing thousands.
 <br/><br/>
-En 1964 : Vietnam War: The U.S. Congress passes the Gulf of Tonkin Resolution giving U.S. President Lyndon B. Johnson broad war powers to deal with North Vietnamese attacks on American forces.
+En 1988 : The first night baseball game in the history of Chicago's Wrigley Field (game was rained out in the fourth inning).
 <br/><br/>
-En 1962 : Canadian-born American pharmacologist Frances Oldham Kelsey is awarded the U.S. President's Award for Distinguished Federal Civilian Service for her refusal to authorize thalidomide.
+En 1974 : President Richard Nixon, in a nationwide television address, announces his resignation from the office of the President of the United States effective noon the next day.
 <br/><br/>
-En 1960 : Ivory Coast becomes independent from France.
+En 1973 : Kim Dae-jung, a South Korean politician and later president of South Korea, is kidnapped.
 <br/><br/>
-En 1959 : Explorer program: Explorer 6 launches from the Atlantic Missile Range in Cape Canaveral, Florida.
+En 1969 : At a zebra crossing in London, photographer Iain Macmillan takes the iconic photo that becomes the cover image of the Beatles' album Abbey Road.
 <br/><br/>
-En 1947 : Thor Heyerdahl's balsa wood raft, the Kon-Tiki, smashes into the reef at Raroia in the Tuamotu Islands after a 101-day, 7,000 kilometres (4,300 mi) journey across the Pacific Ocean in an attempt to prove that pre-historic peoples could have traveled from South America.
+En 1967 : The Association of Southeast Asian Nations (ASEAN) is founded by Indonesia, Malaysia, the Philippines, Singapore and Thailand.
 <br/><br/>
-En 1947 : The Bombay Municipal Corporation formally takes over the Bombay Electric Supply and Transport (BEST).
+En 1963 : Great Train Robbery: In England, a gang of 15 train robbers steal £2.6 million in bank notes.
 <br/><br/>
-En 1946 : The government of the Soviet Union presented a note to its Turkish counterparts which refuted the latter's sovereignty over the Turkish Straits, thus beginning the Turkish Straits crisis.
+En 1963 : The Zimbabwe African National Union (ZANU), the current ruling party of Zimbabwe, is formed by a split from the Zimbabwe African People's Union.
 <br/><br/>
-En 1944 : IBM dedicates the first program-controlled calculator, the Automatic Sequence Controlled Calculator (known best as the Harvard Mark I).
+En 1956 : Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, were killed in one of the largest mining accidents in Belgian history.
 <br/><br/>
-En 1942 : World War II: The Battle of Guadalcanal begins as the United States Marines initiate the first American offensive of the war with landings on Guadalcanal and Tulagi in the Solomon Islands.
+En 1946 : First flight of the Convair B-36, the world's first mass-produced nuclear weapon delivery vehicle, the heaviest mass-produced piston-engined aircraft, with the longest wingspan of any military aircraft, and the first bomber with intercontinental range.
 <br/><br/>
-En 1933 : The Kingdom of Iraq slaughters over 3,000 Assyrians in the village of Simele. This date is recognized as Martyrs Day or National Day of Mourning by the Assyrian community in memory of the Simele massacre.
+En 1945 : The London Charter is signed by France, the United Kingdom, the Soviet Union and the United States, establishing the laws and procedures for the Nuremberg trials.
 <br/><br/>
-En 1930 : The last confirmed lynching of black people in the Northern United States occurs in Marion, Indiana; two men, Thomas Shipp and Abram Smith, are killed.
+En 1942 : Quit India Movement is launched in India against the British rule in response to Mohandas Gandhi's call for swaraj or complete independence.
 <br/><br/>
-En 1927 : The Peace Bridge opens between Fort Erie, Ontario and Buffalo, New York.
+En 1940 : The "Aufbau Ost" directive is signed by Wilhelm Keitel.
 <br/><br/>
-En 1909 : Alice Huyler Ramsey and three friends become the first women to complete a transcontinental auto trip, taking 59 days to travel from New York, New York to San Francisco, California.
+En 1929 : The German airship Graf Zeppelin begins a round-the-world flight.
 <br/><br/>
-En 1890 : Anna Månsdotter, found guilty of the 1889 Yngsjö murder, became the last woman to be executed in Sweden.[better source needed]
+En 1919 : The Anglo-Afghan Treaty of 1919 is signed. It establishes peaceful relations between Afghanistan and the UK, and confirms the Durand line as the mutual border. In return, the UK is no longer obligated to subsidize the Afghan government.
 <br/><br/>
-En 1858 : The first Australian rules football match is played between Melbourne Grammar and Scotch College.
+En 1918 : World War I: The Battle of Amiens begins a string of almost continuous Allied victories with a push through the German front lines (Hundred Days Offensive).
 <br/><br/>
-En 1819 : Simón Bolívar triumphs over Spain in the Battle of Boyacá.
+En 1908 : Wilbur Wright makes his first flight at a racecourse at Le Mans, France. It is the Wright Brothers' first public flight.
 <br/><br/>
-En 1794 : U.S. President George Washington invokes the Militia Acts of 1792 to suppress the Whiskey Rebellion in western Pennsylvania.
+En 1903 : Black Saturday occurs, killing 12 in a stadium collapse in Philadelphia.
 <br/><br/>
-En 1791 : American troops destroy the Miami town of Kenapacomaqua near the site of present-day Logansport, Indiana in the Northwest Indian War.
+En 1876 : Thomas Edison receives a patent for his mimeograph.
 <br/><br/>
-En 1789 : The United States Department of War is established.
+En 1870 : The Republic of Ploiești, a failed Radical-Liberal rising against Domnitor Carol of Romania.
 <br/><br/>
-En 1786 : The first federal Indian Reservation is created by the United States.
+En 1863 : American Civil War: Following his defeat in the Battle of Gettysburg, General Robert E. Lee sends a letter of resignation to Confederate President Jefferson Davis (which is refused upon receipt).
 <br/><br/>
-En 1782 : George Washington orders the creation of the Badge of Military Merit to honor soldiers wounded in battle. It is later renamed to the more poetic Purple Heart.
+En 1863 : Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state.
 <br/><br/>
-En 1743 : The Treaty of Åbo ended the 1741–1743 Russo-Swedish War.
+En 1844 : The Quorum of the Twelve Apostles, headed by Brigham Young, is reaffirmed as the leading body of the Church of Jesus Christ of Latter-day Saints (LDS Church).
 <br/><br/>
-En 1714 : The Battle of Gangut: The first important victory of the Russian Navy.
+En 1831 : Four hundred Shawnee people agree to relinquish their lands in Ohio in exchange for land west of the Mississippi River in the Treaty of Wapakoneta.
 <br/><br/>
-En 1679 : The brigantine Le Griffon becomes the first ship to sail the upper Great Lakes of North America.
+En 1794 : Joseph Whidbey leads an expedition to search for the Northwest Passage near Juneau, Alaska.
 <br/><br/>
-En 1479 : Battle of Guinegate: French troops of King Louis XI were defeated by the Burgundians led by Archduke Maximilian of Habsburg.
+En 1786 : Mont Blanc on the French-Italian border is climbed for the first time by Jacques Balmat and Dr. Michel-Gabriel Paccard.
 <br/><br/>
-En 1461 : The Ming dynasty Chinese military general Cao Qin stages a coup against the Tianshun Emperor.
+En 1709 : Bartolomeu de Gusmão demonstrates the lifting power of hot air in an audience before the king of Portugal in Lisbon, Portugal.
 <br/><br/>
-En 936 : Coronation of King Otto I of Germany.
+En 1648 : Mehmed IV (1648–1687) succeeds Ibrahim I (1640–1648) as Ottoman sultan.
 <br/><br/>
-En 768 : Pope Stephen III is elected to office, and quickly seeks Frankish protection against the Lombard threat, since the Byzantine Empire is no longer able to help.
+En 1647 : The Irish Confederate Wars and Wars of the Three Kingdoms: Battle of Dungan's Hill: English Parliamentary forces defeat Irish forces.
 <br/><br/>
-En 626 : The Avar and Slav armies leave the siege of Constantinople.
+En 1588 : Anglo-Spanish War: Battle of Gravelines: The naval engagement ends, ending the Spanish Armada's attempt to invade England.
 <br/><br/>
-En 461 : Roman Emperor Majorian is beheaded near the river Iria in north-west Italy following his arrest and deposition by the magister militum Ricimer.
+En 1585 : John Davis enters Cumberland Sound in search of the Northwest Passage.
+<br/><br/>
+En 1576 : The cornerstone for Tycho Brahe's Uraniborg observatory is laid on the island of Hven.
+<br/><br/>
+En 1509 : Krishnadeva Raya is crowned Emperor of Vijayanagara at Chittoor.
+<br/><br/>
+En 1503 : King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England at Holyrood Abbey in Edinburgh, Scotland.
+<br/><br/>
+En 1264 : Mudéjar revolt: Muslim rebel forces took the Alcázar of Jerez de la Frontera after defeating the Castilian garrison.
+<br/><br/>
+En 1220 : Sweden is defeated by Estonian tribes in the Battle of Lihula.
+<br/><br/>
+En 870 : Treaty of Meerssen: King Louis the German and his half-brother Charles the Bald partition the Middle Frankish Kingdom into two larger east and west divisions.
+<br/><br/>
+En -685 : Spring and Autumn period: Battle of Qianshi: Upon the death of the previous Duke of Qi, Gongsun Wuzhi, Duke Zhuang of Lu sends an army into the Duchy of Qi to install the exiled Qi prince Gongzi Jiu as the new Duke of Qi — but is defeated at Qianshi by Jiu’s brother and rival claimant, the newly inaugurated Duke Huan of Qi.
 <br/><br/>
