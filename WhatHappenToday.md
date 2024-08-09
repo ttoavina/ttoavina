@@ -4,117 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 8/8 ?(Hover on the year)</h1>
+<h1> What happen this day 9/8 ?(Hover on the year)</h1>
 
-En 2023 : 2023 Hawaii wildfires: 17,000 acres of land are burned and at least 101 people are killed, with two others missing, when a series of wildfires break out on the island of Maui in Hawaii.
+En 2021 : The Tampere light rail officially starts operating.
 <br/><br/>
-En 2022 : The Federal Bureau of Investigation (FBI) executes a search warrant at former president Donald Trump's residence in Mar-a-Lago, Palm Beach, Florida.
+En 2014 : Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city.
 <br/><br/>
-En 2019 : An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
+En 2013 : Gunmen open fire at a Sunni mosque in the city of Quetta killing at least ten people and injuring 30.
 <br/><br/>
-En 2016 : Terrorists attack a government hospital in Quetta, Pakistan with a suicide blast and shooting, killing between 70 and 94 people, and injuring around 130 others.
+En 2012 : Shannon Eastin becomes the first woman to officiate an NFL game.
 <br/><br/>
-En 2015 : Eight people are killed in a shooting in Harris County, Texas.
+En 2007 : Air Moorea Flight 1121 crashes after takeoff from Moorea Airport in French Polynesia, killing all 20 people on board.
 <br/><br/>
-En 2013 : A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 31 people.
+En 2006 : At least 21 suspected terrorists are arrested in the 2006 transatlantic aircraft plot that happened in the United Kingdom. The arrests are made in London, Birmingham, and High Wycombe in an overnight operation.
 <br/><br/>
-En 2010 : China Floods: A mudslide in Zhugqu County, Gansu, China, kills more than 1,400 people.
+En 1999 : Russian President Boris Yeltsin fires his Prime Minister, Sergei Stepashin, and for the fourth time fires his entire cabinet.
 <br/><br/>
-En 2008 : A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
+En 1995 : Aviateca Flight 901 crashes into the San Vicente volcano in El Salvador, killing all 65 people on board.
 <br/><br/>
-En 2008 : The 29th modern summer Olympic Games took place in Beijing, China until August 24.
+En 1993 : The Liberal Democratic Party of Japan loses a 38-year hold on national leadership.
 <br/><br/>
-En 2007 : An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
+En 1991 : The Italian prosecuting magistrate Antonino Scopelliti is murdered by the 'Ndrangheta on behalf of the Sicilian Mafia while preparing the government's case in the final appeal of the Maxi Trial.
 <br/><br/>
-En 2004 : A tour bus belonging to the Dave Matthews Band dumps approximately 800 pounds of human waste onto a boat full of passengers.
+En 1974 : As a direct result of the Watergate scandal, Richard Nixon becomes the first President of the United States to resign from office. Vice President Gerald Ford becomes president.
 <br/><br/>
-En 2001 : Albanian rebels ambush a convoy of the Army of the Republic of Macedonia near Tetovo, killing 10 soldiers.
+En 1973 : Mars 7 is launched from the USSR.
 <br/><br/>
-En 2000 : Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence.
+En 1971 : The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.
 <br/><br/>
-En 1998 : Iranian consulate in Mazar-i-Sharif, Afghanistan is raided by Taliban leading to the deaths of ten Iranian diplomats and a journalist.
+En 1970 : LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete International Airport in Cusco, Peru, killing 99 of the 100 people on board, as well as two people on the ground.
 <br/><br/>
-En 1993 : The 7.8 Mw  Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people.
+En 1969 : Tate–LaBianca murders: Followers of Charles Manson murder pregnant actress Sharon Tate (wife of Roman Polanski), coffee heiress Abigail Folger, Polish actor Wojciech Frykowski, men's hairstylist Jay Sebring and recent high-school graduate Steven Parent.
 <br/><br/>
-En 1991 : The Warsaw radio mast, then the tallest construction ever built, collapses.
+En 1965 : Singapore is expelled from Malaysia and becomes the only country to date to gain independence unwillingly.
 <br/><br/>
-En 1990 : Iraq occupies Kuwait and the state is annexed to Iraq. This would lead to the Gulf War shortly afterward.
+En 1960 : South Kasai secedes from the Congo.
 <br/><br/>
-En 1989 : Space Shuttle program: STS-28 Mission: Space Shuttle Columbia takes off on a secret five-day military mission.
+En 1945 : World War II: Nagasaki is devastated when an atomic bomb, Fat Man, is dropped by the United States B-29 Bockscar. Thirty-five thousand people are killed outright, including 23,200–28,200 Japanese war workers, 2,000 Korean forced workers, and 150 Japanese soldiers.
 <br/><br/>
-En 1988 : The 8888 Uprising begins in Rangoon (Yangon), Burma (Myanmar). Led by students, hundreds of thousands join in nationwide protests against the one-party regime. On September 18, the demonstrations end in a military crackdown, killing thousands.
+En 1945 : The Red Army invades Japanese-occupied Manchuria.
 <br/><br/>
-En 1988 : The first night baseball game in the history of Chicago's Wrigley Field (game was rained out in the fourth inning).
+En 1944 : The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time.
 <br/><br/>
-En 1974 : President Richard Nixon, in a nationwide television address, announces his resignation from the office of the President of the United States effective noon the next day.
+En 1944 : World War II: Continuation War: The Vyborg–Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dug to defensive positions, and the front remains stable until the end of the war.
 <br/><br/>
-En 1973 : Kim Dae-jung, a South Korean politician and later president of South Korea, is kidnapped.
+En 1942 : World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force.
 <br/><br/>
-En 1969 : At a zebra crossing in London, photographer Iain Macmillan takes the iconic photo that becomes the cover image of the Beatles' album Abbey Road.
+En 1942 : Dmitri Shostakovich's 7th symphony is premiered in a besieged Leningrad.
 <br/><br/>
-En 1967 : The Association of Southeast Asian Nations (ASEAN) is founded by Indonesia, Malaysia, the Philippines, Singapore and Thailand.
+En 1936 : Summer Olympics: Jesse Owens wins his fourth gold medal at the games.
 <br/><br/>
-En 1963 : Great Train Robbery: In England, a gang of 15 train robbers steal £2.6 million in bank notes.
+En 1925 : A train robbery takes place in Kakori, near Lucknow, India, by the Indian independence revolutionaries, against British government.
 <br/><br/>
-En 1963 : The Zimbabwe African National Union (ZANU), the current ruling party of Zimbabwe, is formed by a split from the Zimbabwe African People's Union.
+En 1907 : The first Boy Scout encampment concludes at Brownsea Island in southern England.
 <br/><br/>
-En 1956 : Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, were killed in one of the largest mining accidents in Belgian history.
+En 1902 : Edward VII and Alexandra of Denmark are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
 <br/><br/>
-En 1946 : First flight of the Convair B-36, the world's first mass-produced nuclear weapon delivery vehicle, the heaviest mass-produced piston-engined aircraft, with the longest wingspan of any military aircraft, and the first bomber with intercontinental range.
+En 1897 : The first International Congress of Mathematicians is held in Zürich, Switzerland.
 <br/><br/>
-En 1945 : The London Charter is signed by France, the United Kingdom, the Soviet Union and the United States, establishing the laws and procedures for the Nuremberg trials.
+En 1892 : Thomas Edison receives a patent for a two-way telegraph.
 <br/><br/>
-En 1942 : Quit India Movement is launched in India against the British rule in response to Mohandas Gandhi's call for swaraj or complete independence.
+En 1877 : American Indian Wars: Battle of the Big Hole: A small band of Nez Percé Indians clash with the United States Army.
 <br/><br/>
-En 1940 : The "Aufbau Ost" directive is signed by Wilhelm Keitel.
+En 1862 : American Civil War: Battle of Cedar Mountain: At Cedar Mountain, Virginia, Confederate General Stonewall Jackson narrowly defeats Union forces under General John Pope.
 <br/><br/>
-En 1929 : The German airship Graf Zeppelin begins a round-the-world flight.
+En 1855 : Åland War: The Battle of Suomenlinna begins.
 <br/><br/>
-En 1919 : The Anglo-Afghan Treaty of 1919 is signed. It establishes peaceful relations between Afghanistan and the UK, and confirms the Durand line as the mutual border. In return, the UK is no longer obligated to subsidize the Afghan government.
+En 1854 : American Transcendentalist philosopher Henry David Thoreau publishes his memoir Walden.
 <br/><br/>
-En 1918 : World War I: The Battle of Amiens begins a string of almost continuous Allied victories with a push through the German front lines (Hundred Days Offensive).
+En 1842 : The Webster–Ashburton Treaty is signed, establishing the United States–Canada border east of the Rocky Mountains.
 <br/><br/>
-En 1908 : Wilbur Wright makes his first flight at a racecourse at Le Mans, France. It is the Wright Brothers' first public flight.
+En 1830 : Louis Philippe becomes the king of the French following abdication of Charles X.
 <br/><br/>
-En 1903 : Black Saturday occurs, killing 12 in a stadium collapse in Philadelphia.
+En 1814 : American Indian Wars: The Creek sign the Treaty of Fort Jackson, giving up huge parts of Alabama and Georgia.
 <br/><br/>
-En 1876 : Thomas Edison receives a patent for his mimeograph.
+En 1810 : Napoleon annexes Westphalia as part of the First French Empire.
 <br/><br/>
-En 1870 : The Republic of Ploiești, a failed Radical-Liberal rising against Domnitor Carol of Romania.
+En 1610 : The First Anglo-Powhatan War begins in colonial Virginia.
 <br/><br/>
-En 1863 : American Civil War: Following his defeat in the Battle of Gettysburg, General Robert E. Lee sends a letter of resignation to Confederate President Jefferson Davis (which is refused upon receipt).
+En 1500 : Ottoman–Venetian War (1499–1503): The Ottomans capture Methoni, Messenia.
 <br/><br/>
-En 1863 : Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state.
+En 1428 : Sources cite biggest caravan trade between Podvisoki and Republic of Ragusa. Vlachs committed to Ragusan lord Tomo Bunić, that they will with 600 horses deliver 1,500 modius of salt. Delivery was meant for Dobrašin Veseoković, and Vlachs price was half of delivered salt.
 <br/><br/>
-En 1844 : The Quorum of the Twelve Apostles, headed by Brigham Young, is reaffirmed as the leading body of the Church of Jesus Christ of Latter-day Saints (LDS Church).
+En 1329 : Quilon, the first Indian Christian Diocese, is erected by Pope John XXII; the French-born Jordanus is appointed the first Bishop.
 <br/><br/>
-En 1831 : Four hundred Shawnee people agree to relinquish their lands in Ohio in exchange for land west of the Mississippi River in the Treaty of Wapakoneta.
+En 1173 : Construction of the campanile of the Cathedral of Pisa (now known as the Leaning Tower of Pisa) begins; it will take two centuries to complete.
 <br/><br/>
-En 1794 : Joseph Whidbey leads an expedition to search for the Northwest Passage near Juneau, Alaska.
+En 378 : Gothic War: Battle of Adrianople: A large Roman army led by Emperor Valens is defeated by the Visigoths. Valens is killed along with over half of his army.
 <br/><br/>
-En 1786 : Mont Blanc on the French-Italian border is climbed for the first time by Jacques Balmat and Dr. Michel-Gabriel Paccard.
-<br/><br/>
-En 1709 : Bartolomeu de Gusmão demonstrates the lifting power of hot air in an audience before the king of Portugal in Lisbon, Portugal.
-<br/><br/>
-En 1648 : Mehmed IV (1648–1687) succeeds Ibrahim I (1640–1648) as Ottoman sultan.
-<br/><br/>
-En 1647 : The Irish Confederate Wars and Wars of the Three Kingdoms: Battle of Dungan's Hill: English Parliamentary forces defeat Irish forces.
-<br/><br/>
-En 1588 : Anglo-Spanish War: Battle of Gravelines: The naval engagement ends, ending the Spanish Armada's attempt to invade England.
-<br/><br/>
-En 1585 : John Davis enters Cumberland Sound in search of the Northwest Passage.
-<br/><br/>
-En 1576 : The cornerstone for Tycho Brahe's Uraniborg observatory is laid on the island of Hven.
-<br/><br/>
-En 1509 : Krishnadeva Raya is crowned Emperor of Vijayanagara at Chittoor.
-<br/><br/>
-En 1503 : King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England at Holyrood Abbey in Edinburgh, Scotland.
-<br/><br/>
-En 1264 : Mudéjar revolt: Muslim rebel forces took the Alcázar of Jerez de la Frontera after defeating the Castilian garrison.
-<br/><br/>
-En 1220 : Sweden is defeated by Estonian tribes in the Battle of Lihula.
-<br/><br/>
-En 870 : Treaty of Meerssen: King Louis the German and his half-brother Charles the Bald partition the Middle Frankish Kingdom into two larger east and west divisions.
-<br/><br/>
-En -685 : Spring and Autumn period: Battle of Qianshi: Upon the death of the previous Duke of Qi, Gongsun Wuzhi, Duke Zhuang of Lu sends an army into the Duchy of Qi to install the exiled Qi prince Gongzi Jiu as the new Duke of Qi — but is defeated at Qianshi by Jiu’s brother and rival claimant, the newly inaugurated Duke Huan of Qi.
+En -48 : Caesar's Civil War: Battle of Pharsalus: Julius Caesar decisively defeats Pompey at Pharsalus and Pompey flees to Egypt.
 <br/><br/>
