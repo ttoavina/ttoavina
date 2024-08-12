@@ -4,105 +4,97 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 11/8 ?(Hover on the year)</h1>
+<h1> What happen this day 12/8 ?(Hover on the year)</h1>
 
-En 2023 : Luna 25 launches from the Vostochny Cosmodrome.
+En 2021 : Six people, five victims and the perpetrator are killed in  Keyham, Plymouth in the worst mass shooting in the UK since 2010.
 <br/><br/>
-En 2017 : At least 41 people are killed and another 179 injured after two passenger trains collide in Alexandria, Egypt.
+En 2018 : Thirty-nine civilians, including a dozen children, are killed in an explosion at a weapons depot in Sarmada, Syria.
 <br/><br/>
-En 2012 : At least 306 people are killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.
+En 2017 : The Unite the Right rally occurs in Charlottesville, Virginia, leading to the deaths of 3 and injuring nearly 50 more.
 <br/><br/>
-En 2006 : The oil tanker MT Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.
+En 2016 : Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
 <br/><br/>
-En 2003 : NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year-history.
+En 2015 : At least two massive explosions kill 173 people and injure nearly 800 more in Tianjin, China.
 <br/><br/>
-En 2003 : Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is arrested in Bangkok, Thailand.
+En 2000 : The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew.
 <br/><br/>
-En 2000 : An air rage incident occurs on board Southwest Airlines Flight 1763 when 19-year-old Jonathan Burton attempts to storm the cockpit, but he is subdued by other passengers and dies from his injuries.
+En 1994 : Major League Baseball players go on strike, eventually forcing the cancellation of the 1994 World Series.
 <br/><br/>
-En 1992 : The Mall of America in Bloomington, Minnesota opens. At the time the largest shopping mall in the United States.
+En 1992 : Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).
 <br/><br/>
-En 1991 : Nickelodeon's first line of “Nicktoons” (Doug, Rugrats & Ren & Stimpy) premiere on the channel.
+En 1990 : Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.
 <br/><br/>
-En 1988 : A meeting between Sayyed Imam Al-Sharif, Osama bin Laden, Abdullah Yusuf Azzam, and leaders of Egyptian Islamic Jihad in Afghanistan culminates in the formation of Al-Qaeda.
+En 1985 : Japan Airlines Flight 123 crashes into Osutaka ridge in Gunma Prefecture, Japan, killing 520, to become the worst single-plane air disaster.
 <br/><br/>
-En 1984 : "We begin bombing in five minutes": United States President Ronald Reagan, while running for re-election, jokes while preparing to make his weekly Saturday address on National Public Radio.
+En 1984 : An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.
 <br/><br/>
-En 1982 : A bomb explodes on Pan Am Flight 830, en route from Tokyo, Japan to Honolulu, Hawaii, killing one passenger and injuring 15 others.
+En 1981 : The IBM Personal Computer is released.
 <br/><br/>
-En 1979 : Two Aeroflot Tupolev Tu-134s collide over the Ukrainian city of Dniprodzerzhynsk and crash, killing all 178 aboard both airliners.
+En 1977 : The first free flight of the Space Shuttle Enterprise.
 <br/><br/>
-En 1975 : East Timor: Governor Mário Lemos Pires of Portuguese Timor abandons the capital Dili, following a coup by the Timorese Democratic Union (UDT) and the outbreak of civil war between UDT and Fretilin.
+En 1977 : The Sri Lanka Riots: Targeting the minority Sri Lankan Tamils, begin, less than a month after the United National Party came to power. Over 300 Tamils are killed.
 <br/><br/>
-En 1972 : Vietnam War: The last United States ground combat unit leaves South Vietnam.
+En 1976 : Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War.
 <br/><br/>
-En 1969 : The Apollo 11 astronauts are released from a three-week quarantine following their liftoff from the Moon.
+En 1969 : Violence erupts after the Apprentice Boys of Derry march in Derry, Northern Ireland, resulting in a three-day communal riot known as the Battle of the Bogside.
 <br/><br/>
-En 1965 : Race riots (the Watts Riots) begin in the Watts area of Los Angeles, California.
+En 1964 : South Africa is banned from the Olympic Games due to the country's racist policies.
 <br/><br/>
-En 1962 : Vostok 3 launches from the Baikonur Cosmodrome and cosmonaut Andrian Nikolayev becomes the first person to float in microgravity.
+En 1960 : Echo 1A, NASA's first successful communications satellite, is launched.
 <br/><br/>
-En 1961 : The former Portuguese territories in India of Dadra and Nagar Haveli are merged to create the Union Territory Dadra and Nagar Haveli.
+En 1953 : First thermonuclear bomb test: The Soviet atomic bomb project continues with the detonation of "RDS-6s" (Joe 4) using a "layered" scheme.
 <br/><br/>
-En 1960 : Chad declares independence from France.
+En 1953 : The 7.2 Ms  Ionian earthquake shakes the southern Ionian Islands with a maximum Mercalli intensity of X (Extreme). Between 445 and 800 people are killed.
 <br/><br/>
-En 1959 : Sheremetyevo International Airport, the second-largest airport in Russia, opens.
+En 1952 : The Night of the Murdered Poets: Thirteen prominent Jewish intellectuals are murdered in Moscow, Russia, Soviet Union.
 <br/><br/>
-En 1952 : Hussein bin Talal is proclaimed King of Jordan.
+En 1950 : Korean War: Bloody Gulch massacre: Seventy-five American POWs are massacred by the North Korean Army.
 <br/><br/>
-En 1945 : Poles in Kraków engage in a pogrom against Jews in the city, killing one and wounding five.
+En 1948 : Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.
 <br/><br/>
-En 1942 : Actress Hedy Lamarr and composer George Antheil receive a patent for a Frequency-hopping spread spectrum communication system that later became the basis for modern technologies in wireless telephones, two-way radio communications, and Wi-Fi.
+En 1944 : Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
 <br/><br/>
-En 1934 : The first civilian prisoners arrive at the Federal prison on Alcatraz Island.
+En 1944 : Nazi German troops end the week-long Wola massacre, during which time at least 40,000 people are killed indiscriminately or in mass executions.
 <br/><br/>
-En 1929 : Babe Ruth becomes the first baseball player to hit 500 home runs in his career with a home run at League Park in Cleveland, Ohio.
+En 1944 : Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.
 <br/><br/>
-En 1920 : The 1920 Cork hunger strike begins which eventually results in the deaths of three Irish Republicans including the Lord Mayor of Cork Terence MacSwiney.
+En 1914 : World War I: The United Kingdom and the British Empire declare war on Austria-Hungary.
 <br/><br/>
-En 1920 : The Latvian–Soviet Peace Treaty, which relinquished Russia's authority and pretenses to Latvia, is signed, ending the Latvian War of Independence.
+En 1914 : World War I: The Battle of Halen a.k.a. Battle of the Silver Helmets a clash between large Belgian and German cavalry formations at Halen, Belgium.
 <br/><br/>
-En 1919 : Germany's Weimar Constitution is signed into law.
+En 1898 : The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii.
 <br/><br/>
-En 1918 : World War I: The Battle of Amiens ends.
+En 1883 : The last quagga dies at the Natura Artis Magistra, a zoo in Amsterdam, Netherlands.
 <br/><br/>
-En 1898 : Spanish–American War: American troops enter the city of Mayagüez, Puerto Rico.
+En 1865 : Joseph Lister, British surgeon and scientist,  performs the first antiseptic surgery.
 <br/><br/>
-En 1871 : An explosion of guncotton occurs in Stowmarket, England, killing 28.
+En 1851 : Isaac Singer is granted a patent for his sewing machine.
 <br/><br/>
-En 1858 : The Eiger in the Bernese Alps is ascended for the first time by Charles Barrington accompanied by Christian Almer and Peter Bohren.
+En 1831 : French intervention forces William I of the Netherlands to abandon his attempt to suppress the Belgian Revolution.
 <br/><br/>
-En 1813 : In Colombia, Juan del Corral declares the independence of Antioquia.
+En 1806 : Santiago de Liniers, 1st Count of Buenos Aires re-takes the city of Buenos Aires, Argentina after the first British invasion.
 <br/><br/>
-En 1812 : Peninsular War: French troops engage British-Portuguese forces in the Battle of Majadahonda.
+En 1793 : The Rhône and Loire départments are created when the former département of Rhône-et-Loire is split into two.
 <br/><br/>
-En 1804 : Francis II assumes the title of first Emperor of Austria.
+En 1788 : The Anjala conspiracy is signed.
 <br/><br/>
-En 1786 : Captain Francis Light establishes the British colony of Penang in Malaysia.
+En 1765 : Treaty of Allahabad is signed. The Treaty marks the political and constitutional involvement and the beginning of Company rule in India.
 <br/><br/>
-En 1685 : Morean War: The 49-day Siege of Coron ends with the surrender and massacre of its garrison by the Venetians.
+En 1687 : Battle of Mohács: Charles of Lorraine defeats the Ottoman Empire.
 <br/><br/>
-En 1675 : Franco-Dutch War: Forces of the Holy Roman Empire defeat the French in the Battle of Konzer Brücke.
+En 1676 : Praying Indian John Alderman shoots and kills Metacomet, the Wampanoag war chief, ending King Philip's War.
 <br/><br/>
-En 1492 : Rodrigo de Borja is elected as Head of the Catholic Church, taking the name Pope Alexander VI.
+En 1624 : Charles de La Vieuville is arrested and replaced by Cardinal Richelieu as the French king's chief advisor.
 <br/><br/>
-En 1473 : The Battle of Otlukbeli: Mehmed the Conqueror of the Ottoman Empire decisively defeats Uzun Hassan of Aq Qoyunlu.
+En 1499 : First engagement of the Battle of Zonchio between Venetian and Ottoman fleets.
 <br/><br/>
-En 1332 : Wars of Scottish Independence: Battle of Dupplin Moor: Scots under Domhnall II, Earl of Mar are routed by Edward Balliol.
+En 1492 : Christopher Columbus arrives in the Canary Islands on his first voyage to the New World.
 <br/><br/>
-En 1315 : The Great Famine of Europe becomes so dire that even the king of England has difficulties buying bread for himself and his entourage.
+En 1323 : The Treaty of Nöteborg between Sweden and Novgorod Republic is signed, regulating the border between the two countries for the first time.
 <br/><br/>
-En 923 : The Qarmatians of Bahrayn capture and pillage the city of Basra.
+En 1164 : Battle of Harim: Nur ad-Din Zangi defeats the Crusader armies of the County of Tripoli and the Principality of Antioch.
 <br/><br/>
-En 490 : Battle of Adda: The Goths under Theodoric the Great and his ally Alaric II defeat the forces of Odoacer on the Adda River, near Milan.
+En 1121 : Battle of Didgori: The Georgian army under King David IV wins a decisive victory over the famous Seljuk commander Ilghazi.
 <br/><br/>
-En 355 : Claudius Silvanus, accused of treason, proclaims himself Roman Emperor against Constantius II.
-<br/><br/>
-En 117 : Hadrian is proclaimed Roman emperor, two days after Trajan's death.
-<br/><br/>
-En 106 : The south-western part of Dacia (modern Romania) becomes a Roman province: Roman Dacia.
-<br/><br/>
-En -2492 : Traditional date of the defeat of Bel by Hayk, progenitor and founder of the Armenian nation.
-<br/><br/>
-En -3114 : The Mesoamerican Long Count calendar, used by several pre-Columbian Mesoamerican civilizations, notably the Maya, begins.
+En 1099 : First Crusade: Battle of Ascalon Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade.
 <br/><br/>
