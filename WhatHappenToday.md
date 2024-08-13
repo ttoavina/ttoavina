@@ -4,97 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 12/8 ?(Hover on the year)</h1>
+<h1> What happen this day 13/8 ?(Hover on the year)</h1>
 
-En 2021 : Six people, five victims and the perpetrator are killed in  Keyham, Plymouth in the worst mass shooting in the UK since 2010.
+En 2020 : Israel–United Arab Emirates relations are formally established.
 <br/><br/>
-En 2018 : Thirty-nine civilians, including a dozen children, are killed in an explosion at a weapons depot in Sarmada, Syria.
+En 2015 : At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.
 <br/><br/>
-En 2017 : The Unite the Right rally occurs in Charlottesville, Virginia, leading to the deaths of 3 and injuring nearly 50 more.
+En 2014 : A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.
 <br/><br/>
-En 2016 : Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
+En 2008 : Russo-Georgian War: Russian units occupy the Georgian city of Gori.
 <br/><br/>
-En 2015 : At least two massive explosions kill 173 people and injure nearly 800 more in Tianjin, China.
+En 2004 : One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.
 <br/><br/>
-En 2000 : The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew.
+En 1990 : A mainland Chinese fishing boat Min Ping Yu No. 5202 is hit by a Taiwanese naval vessel and sinks in a repatriation operation of mainland Chinese immigrants, resulting in 21 deaths. This is the second tragedy less than a month after Min Ping Yu No. 5540 incident.
 <br/><br/>
-En 1994 : Major League Baseball players go on strike, eventually forcing the cancellation of the 1994 World Series.
+En 1978 : One hundred fifty Palestinians in Beirut are killed in a terrorist attack during the second phase of the Lebanese Civil War.
 <br/><br/>
-En 1992 : Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).
+En 1977 : Members of the British National Front (NF) clash with anti-NF demonstrators in Lewisham, London, resulting in 214 arrests and at least 111 injuries.
 <br/><br/>
-En 1990 : Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.
+En 1973 : Aviaco Flight 118 crashes on approach to A Coruña Airport in A Coruña, Spain, killing all 85 people on the plane and one other one the ground.
 <br/><br/>
-En 1985 : Japan Airlines Flight 123 crashes into Osutaka ridge in Gunma Prefecture, Japan, killing 520, to become the worst single-plane air disaster.
+En 1969 : The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.
 <br/><br/>
-En 1984 : An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.
+En 1968 : Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens.
 <br/><br/>
-En 1981 : The IBM Personal Computer is released.
+En 1967 : Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.
 <br/><br/>
-En 1977 : The first free flight of the Space Shuttle Enterprise.
+En 1964 : Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.
 <br/><br/>
-En 1977 : The Sri Lanka Riots: Targeting the minority Sri Lankan Tamils, begin, less than a month after the United National Party came to power. Over 300 Tamils are killed.
+En 1961 : Cold War: East Germany closes the border between the eastern and western sectors of Berlin to thwart its inhabitants' attempts to escape to the West, and construction of the Berlin Wall is started. The day is known as Barbed Wire Sunday.
 <br/><br/>
-En 1976 : Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War.
+En 1960 : The Central African Republic declares independence from France.
 <br/><br/>
-En 1969 : Violence erupts after the Apprentice Boys of Derry march in Derry, Northern Ireland, resulting in a three-day communal riot known as the Battle of the Bogside.
+En 1954 : Radio Pakistan broadcasts the "Qaumī Tarāna", the national anthem of Pakistan for the first time.
 <br/><br/>
-En 1964 : South Africa is banned from the Olympic Games due to the country's racist policies.
+En 1944 : World War II: German troops begin the pillage and razing of Anogeia in Crete that would continue until September 5.
 <br/><br/>
-En 1960 : Echo 1A, NASA's first successful communications satellite, is launched.
+En 1942 : Major General Eugene Reybold of the U.S. Army Corps of Engineers authorizes the construction of facilities that would house the "Development of Substitute Materials" project, better known as the Manhattan Project.
 <br/><br/>
-En 1953 : First thermonuclear bomb test: The Soviet atomic bomb project continues with the detonation of "RDS-6s" (Joe 4) using a "layered" scheme.
+En 1937 : Second Sino-Japanese War: The Battle of Shanghai begins.
 <br/><br/>
-En 1953 : The 7.2 Ms  Ionian earthquake shakes the southern Ionian Islands with a maximum Mercalli intensity of X (Extreme). Between 445 and 800 people are killed.
+En 1920 : Polish–Soviet War: The Battle of Warsaw begins and will last till August 25. The Red Army is defeated.
 <br/><br/>
-En 1952 : The Night of the Murdered Poets: Thirteen prominent Jewish intellectuals are murdered in Moscow, Russia, Soviet Union.
+En 1918 : Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.
 <br/><br/>
-En 1950 : Korean War: Bloody Gulch massacre: Seventy-five American POWs are massacred by the North Korean Army.
+En 1918 : Bayerische Motoren Werke AG (BMW) established as a public company in Germany.
 <br/><br/>
-En 1948 : Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.
+En 1913 : First production in the UK of stainless steel by Harry Brearley.
 <br/><br/>
-En 1944 : Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
+En 1906 : The all black infantrymen of the U.S. Army's 25th Infantry Regiment are accused of killing a white bartender and wounding a white police officer in Brownsville, Texas, despite exculpatory evidence; all are later dishonorably discharged. (Their records were later restored to reflect honorable discharges but there were no financial settlements.)
 <br/><br/>
-En 1944 : Nazi German troops end the week-long Wola massacre, during which time at least 40,000 people are killed indiscriminately or in mass executions.
+En 1905 : Norwegians vote to end the union with Sweden.
 <br/><br/>
-En 1944 : Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.
+En 1900 : The steamer Deutschland of Hamburg America Lines set a new record for the eastward passage when it docked on Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.
 <br/><br/>
-En 1914 : World War I: The United Kingdom and the British Empire declare war on Austria-Hungary.
+En 1898 : Spanish–American War: Spanish and American forces engage in a mock battle for Manila, after which the Spanish commander surrendered in order to keep the city out of Filipino rebel hands.
 <br/><br/>
-En 1914 : World War I: The Battle of Halen a.k.a. Battle of the Silver Helmets a clash between large Belgian and German cavalry formations at Halen, Belgium.
+En 1898 : Carl Gustav Witt discovers 433 Eros, the first near-Earth asteroid to be found.
 <br/><br/>
-En 1898 : The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii.
+En 1889 : William Gray of Hartford, Connecticut is granted United States Patent Number 408,709 for "Coin-controlled apparatus for telephones."
 <br/><br/>
-En 1883 : The last quagga dies at the Natura Artis Magistra, a zoo in Amsterdam, Netherlands.
+En 1868 : The 8.5–9.0 Mw  Arica earthquake struck southern Peru with a maximum Mercalli intensity of XI (Extreme), causing 25,000+ deaths and a destructive basin wide tsunami that affected Hawaii and New Zealand.
 <br/><br/>
-En 1865 : Joseph Lister, British surgeon and scientist,  performs the first antiseptic surgery.
+En 1814 : The Convention of London, a treaty between the United Kingdom and the United Netherlands, is signed in London, England.
 <br/><br/>
-En 1851 : Isaac Singer is granted a patent for his sewing machine.
+En 1806 : Battle of Mišar during the Serbian Revolution begins. The battle ends two days later with a Serbian victory over the Ottomans.
 <br/><br/>
-En 1831 : French intervention forces William I of the Netherlands to abandon his attempt to suppress the Belgian Revolution.
+En 1792 : King Louis XVI of France is formally arrested by the National Tribunal, and declared an enemy of the people.
 <br/><br/>
-En 1806 : Santiago de Liniers, 1st Count of Buenos Aires re-takes the city of Buenos Aires, Argentina after the first British invasion.
+En 1779 : American Revolutionary War: The Royal Navy defeats the Penobscot Expedition with the most significant loss of United States naval forces prior to the attack on Pearl Harbor.
 <br/><br/>
-En 1793 : The Rhône and Loire départments are created when the former département of Rhône-et-Loire is split into two.
+En 1724 : Johann Sebastian Bach leads the first performance of Nimm von uns, Herr, du treuer Gott, BWV 101, a chorale cantata on a famous tune.
 <br/><br/>
-En 1788 : The Anjala conspiracy is signed.
+En 1704 : War of the Spanish Succession: Battle of Blenheim: English and Imperial forces are victorious over French and Bavarian troops.
 <br/><br/>
-En 1765 : Treaty of Allahabad is signed. The Treaty marks the political and constitutional involvement and the beginning of Company rule in India.
+En 1650 : Colonel George Monck of the English Army forms Monck's Regiment of Foot, which will later become the Coldstream Guards.
 <br/><br/>
-En 1687 : Battle of Mohács: Charles of Lorraine defeats the Ottoman Empire.
+En 1645 : Sweden and Denmark sign Peace of Brömsebro.
 <br/><br/>
-En 1676 : Praying Indian John Alderman shoots and kills Metacomet, the Wampanoag war chief, ending King Philip's War.
+En 1624 : The French king Louis XIII appoints Cardinal Richelieu as prime minister.
 <br/><br/>
-En 1624 : Charles de La Vieuville is arrested and replaced by Cardinal Richelieu as the French king's chief advisor.
+En 1553 : Michael Servetus is arrested by John Calvin in Geneva, Switzerland as a heretic.
 <br/><br/>
-En 1499 : First engagement of the Battle of Zonchio between Venetian and Ottoman fleets.
+En 1536 : Buddhist monks from Kyoto, Japan's Enryaku-ji temple set fire to 21 Nichiren temples throughout Kyoto in what will be known as the Tenbun Hokke Disturbance.
 <br/><br/>
-En 1492 : Christopher Columbus arrives in the Canary Islands on his first voyage to the New World.
+En 1532 : Union of Brittany and France: The Duchy of Brittany is absorbed into the Kingdom of France.
 <br/><br/>
-En 1323 : The Treaty of Nöteborg between Sweden and Novgorod Republic is signed, regulating the border between the two countries for the first time.
+En 1521 : After an extended siege, forces led by Spanish conquistador Hernán Cortés capture Tlatoani Cuauhtémoc and conquer the Aztec capital of Tenochtitlan.
 <br/><br/>
-En 1164 : Battle of Harim: Nur ad-Din Zangi defeats the Crusader armies of the County of Tripoli and the Principality of Antioch.
+En 1516 : The Treaty of Noyon between France and Spain is signed. Francis I of France recognizes Charles's claim to Naples, and Charles V, Holy Roman Emperor, recognizes Francis's claim to Milan.
 <br/><br/>
-En 1121 : Battle of Didgori: The Georgian army under King David IV wins a decisive victory over the famous Seljuk commander Ilghazi.
+En 1099 : Raniero is elected as Pope Paschal II, who would become deeply entangled in the Investiture Controversy.
 <br/><br/>
-En 1099 : First Crusade: Battle of Ascalon Crusaders under the command of Godfrey of Bouillon defeat Fatimid forces led by Al-Afdal Shahanshah. This is considered the last engagement of the First Crusade.
+En 900 : Count Reginar I of Hainault rises against Zwentibold of Lotharingia and slays him near present-day Susteren.
+<br/><br/>
+En 871 : Emperor Louis II of Italy and Empress Engelberga are captured by Prince Adelchis of Benevento.
+<br/><br/>
+En 582 : Maurice becomes Emperor of the Byzantine Empire.
+<br/><br/>
+En 554 : Emperor Justinian I rewards Liberius for his service in the Pragmatic Sanction, granting him extensive estates in Italy.
+<br/><br/>
+En 523 : John I becomes the new Pope after the death of Pope Hormisdas.
+<br/><br/>
+En -29 : Octavian holds the first of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes.
 <br/><br/>
