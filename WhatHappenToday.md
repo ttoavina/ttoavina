@@ -4,195 +4,127 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/8 ?(Hover on the year)</h1>
+<h1> What happen this day 16/8 ?(Hover on the year)</h1>
 
-En 2021 : Kabul falls into the hands of the Taliban as Ashraf Ghani flees Afghanistan along with local residents and foreign nationals, effectively reestablishing the Islamic Emirate of Afghanistan.
+En 2020 : The August Complex fire in California burns more than one million acres of land.
 <br/><br/>
-En 2020 : Russia begins production on the Sputnik V COVID-19 vaccine.
+En 2015 : More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.
 <br/><br/>
-En 2015 : North Korea moves its clock back half an hour to introduce Pyongyang Time, 81⁄2 hours ahead of UTC.
+En 2015 : Trigana Air Flight 267, an ATR 42, crashes in Oksibl, Bintang Mountains Regency, killing all 54 people on board.
 <br/><br/>
-En 2013 : At least 27 people are killed and 226 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video.
+En 2013 : The ferry St. Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, killing 61 people with 59 others missing.
 <br/><br/>
-En 2013 : The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.
+En 2012 : South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg.
 <br/><br/>
-En 2007 : An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru killing 514 and injuring 1,090.
+En 2010 : AIRES Flight 8250 crashes at Gustavo Rojas Pinilla International Airport in San Andrés, San Andrés y Providencia, Colombia, killing two people.
 <br/><br/>
-En 2005 : Israel's unilateral disengagement plan to evict all Israelis from the Gaza Strip and from four settlements in the northern West Bank begins.
+En 2008 : The Trump International Hotel and Tower in Chicago is topped off at 1,389 feet (423 m), at the time becoming the world's highest residence above ground-level.
 <br/><br/>
-En 2005 : The Helsinki Agreement between the Free Aceh Movement and the Government of Indonesia was signed, ending almost three decades of fighting.
+En 2005 : West Caribbean Airways Flight 708, a McDonnell Douglas MD-82, crashes in Machiques, Venezuela, killing all 160 people on board.
 <br/><br/>
-En 1999 : Beni Ounif massacre in Algeria: Some 29 people are killed at a false roadblock near the Moroccan border, leading to temporary tensions with Morocco.
+En 1991 : Indian Airlines Flight 257, a Boeing 737-200, crashes during approach to Imphal Airport, killing all 69 people on board.
 <br/><br/>
-En 1998 : Northern Ireland: Omagh bombing takes place; 29 people (including a woman pregnant with twins) killed and some 220 others injured.
+En 1989 : A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.
 <br/><br/>
-En 1998 : Apple introduces the iMac computer.
+En 1987 : Northwest Airlines Flight 255, a McDonnell Douglas MD-82, crashes after takeoff in Detroit, Michigan, killing 154 of the 155 on board, plus two people on the ground.
 <br/><br/>
-En 1995 : In South Carolina, Shannon Faulkner becomes the first female cadet matriculated at The Citadel (she drops out less than a week later).
+En 1975 : Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.
 <br/><br/>
-En 1995 : Tomiichi Murayama, Prime Minister of Japan, releases the Murayama Statement, which formally expresses remorse for Japanese war crimes committed during World War II.
+En 1972 : In an unsuccessful coup d'état attempt, the Royal Moroccan Air Force fires upon Hassan II of Morocco's plane while he is traveling back to Rabat.
 <br/><br/>
-En 1989 : China Eastern Airlines Flight 5510 crashes after takeoff from Shanghai Hongqiao International Airport, killing 34 of the 40 people on board.
+En 1966 : Vietnam War: The House Un-American Activities Committee begins investigations of Americans who have aided the Viet Cong. The committee intends to introduce legislation making these activities illegal. Anti-war demonstrators disrupt the meeting and 50 people are arrested.
 <br/><br/>
-En 1985 : Signing of the Assam Accord, an agreement between representatives of the Government of India and the leaders of the Assam Movement to end the movement.
+En 1964 : Vietnam War: A coup d'état replaces Dương Văn Minh with General Nguyễn Khánh as President of South Vietnam. A new constitution is established with aid from the U.S. Embassy.
 <br/><br/>
-En 1984 : The Kurdistan Workers' Party in Turkey starts a campaign of armed attacks upon the Turkish Armed Forces with an attack on police and gendarmerie bases in Şemdinli and Eruh.
+En 1960 : Cyprus gains its independence from the United Kingdom.
 <br/><br/>
-En 1977 : The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the "Wow! signal" from the notation made by a volunteer on the project.
+En 1960 : Joseph Kittinger parachutes from a balloon over New Mexico, United States, at 102,800 feet (31,300 m), setting three records that held until 2012: High-altitude jump, free fall, and highest speed by a human without an aircraft.
 <br/><br/>
-En 1976 : SAETA Flight 232 crashes into the Chimborazo volcano in Ecuador, killing all 59 people on board; the wreckage is not discovered until 2002.
+En 1954 : The first issue of Sports Illustrated is published.
 <br/><br/>
-En 1975 : Bangladeshi leader Sheikh Mujibur Rahman is killed along with most members of his family during a military coup.
+En 1946 : Mass riots in Kolkata begin; more than 4,000 people would be killed in 72 hours.
 <br/><br/>
-En 1975 : Takeo Miki makes the first official pilgrimage to Yasukuni Shrine by an incumbent prime minister on the anniversary of the end of World War II.
+En 1946 : The All Hyderabad Trade Union Congress is founded in Secunderabad.
 <br/><br/>
-En 1974 : Yuk Young-soo, First Lady of South Korea, is killed during an apparent assassination attempt upon President Park Chung Hee.
+En 1945 : The National Representatives' Congress, the precursor of the current National Assembly of Vietnam, convenes in Sơn Dương.
 <br/><br/>
-En 1973 : Vietnam War: The USAF bombing of Cambodia ends.
+En 1944 : First flight of a jet with forward-swept wings, the Junkers Ju 287.
 <br/><br/>
-En 1971 : President Richard Nixon completes the break from the gold standard by ending convertibility of the United States dollar into gold by foreign investors.
+En 1942 : World War II: US Navy L-class blimp L-8 drifts in from the Pacific and eventually crashes in Daly City, California. The two-man crew cannot be found.
 <br/><br/>
-En 1971 : Bahrain gains independence from the United Kingdom.
+En 1933 : Christie Pits riot takes place in Toronto, Ontario.
 <br/><br/>
-En 1970 : Patricia Palinkas becomes the first woman to play professionally in an American football game.
+En 1930 : The first color sound cartoon, Fiddlesticks, is released by Ub Iwerks.
 <br/><br/>
-En 1969 : The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era.
+En 1930 : The first British Empire Games are opened in Hamilton, Ontario, by the Governor General of Canada, the Viscount Willingdon.
 <br/><br/>
-En 1965 : The Beatles play to nearly 60,000 fans at Shea Stadium in New York City, an event later regarded as the birth of stadium rock.
+En 1929 : The 1929 Palestine riots break out in Mandatory Palestine between Palestinian Arabs and Jews and continue until the end of the month. In total, 133 Jews and 116 Arabs are killed.
 <br/><br/>
-En 1963 : Execution of Henry John Burnett, the last man to be hanged in Scotland.
+En 1927 : The Dole Air Race begins from Oakland, California, to Honolulu, Hawaii, during which six out of the eight participating planes crash or disappear.
 <br/><br/>
-En 1963 : President Fulbert Youlou is overthrown in the Republic of the Congo, after a three-day uprising in the capital.
+En 1923 : The United Kingdom gives the name "Ross Dependency" to part of its claimed Antarctic territory and makes the Governor-General of the Dominion of New Zealand its administrator.
 <br/><br/>
-En 1962 : James Joseph Dresnok defects to North Korea after running across the Korean Demilitarized Zone. Dresnok died in 2016.
+En 1920 : Ray Chapman of the Cleveland Indians is hit on the head by a fastball thrown by Carl Mays of the New York Yankees. Next day, Chapman will become the second player to die from injuries sustained in a Major League Baseball game.
 <br/><br/>
-En 1961 : Border guard Conrad Schumann flees from East Germany while on duty guarding the construction of the Berlin Wall.
+En 1920 : The congress of the Communist Party of Bukhara opens. The congress would call for armed revolution.
 <br/><br/>
-En 1960 : Republic of the Congo (Brazzaville) becomes independent from France.
+En 1920 : Polish–Soviet War: The Battle of Radzymin concludes; the Soviet Red Army is forced to turn away from Warsaw.
 <br/><br/>
-En 1959 : American Airlines Flight 514, a Boeing 707, crashes near the Calverton Executive Airpark in Calverton, New York, killing all five people on board.
+En 1918 : The Battle of Lake Baikal was fought between the Czechoslovak Legion and the Red Army.
 <br/><br/>
-En 1954 : Alfredo Stroessner begins his dictatorship in Paraguay.
+En 1916 : The Migratory Bird Treaty between Canada and the United States is signed.
 <br/><br/>
-En 1952 : A flash flood drenches the town of Lynmouth, England, killing 34 people.
+En 1913 : Tōhoku Imperial University of Japan (modern day Tohoku University) becomes the first university in Japan to admit female students.
 <br/><br/>
-En 1950 : Measuring Mw 8.6, the largest earthquake on land occurs in the Assam-Tibet-Myanmar border, killing 4,800.
+En 1913 : Completion of the Royal Navy battlecruiser HMS Queen Mary.
 <br/><br/>
-En 1948 : The First Republic of Korea (South Korea) is established in the southern half of the peninsula.
+En 1906 : The 8.2 Mw Valparaíso earthquake hits central Chile, killing 3,882 people.
 <br/><br/>
-En 1947 : India gains independence from British rule after near 190 years of British company and crown rule and joins the Commonwealth of Nations.
+En 1900 : The Battle of Elands River during the Second Boer War ends after a 13-day siege is lifted by the British. The battle had begun when a force of between 2,000 and 3,000 Boers had surrounded a force of 500 Australians, Rhodesians, Canadians and British soldiers at a supply dump at Brakfontein Drift.
 <br/><br/>
-En 1947 : Founder of Pakistan, Muhammad Ali Jinnah is sworn in as first Governor-General of Pakistan in Karachi.
+En 1896 : Skookum Jim Mason, George Carmack and Dawson Charlie discover gold in a tributary of the Klondike River in Canada, setting off the Klondike Gold Rush.
 <br/><br/>
-En 1945 : Emperor Hirohito broadcasts his declaration of surrender following the effective surrender of Japan in World War II; Korea gains independence from the Empire of Japan.
+En 1891 : The Basilica of San Sebastian, Manila, the first all-steel church in Asia, is officially inaugurated and blessed.
 <br/><br/>
-En 1944 : World War II: Operation Dragoon: Allied forces land in southern France.
+En 1876 : Richard Wagner's Siegfried, the penultimate opera in his Ring cycle, is premiered at the Bayreuth Festspielhaus.
 <br/><br/>
-En 1943 : World War II:  Battle of Trahili: Superior German forces surround Cretan partisans, who manage to escape against all odds.
+En 1870 : Franco-Prussian War: The Battle of Mars-la-Tour is fought, resulting in a Prussian victory.
 <br/><br/>
-En 1942 : World War II: Operation Pedestal: The oil tanker SS Ohio reaches the island of Malta barely afloat carrying vital fuel supplies for the island's defenses.
+En 1869 : Battle of Acosta Ñu: A Paraguayan battalion largely made up of children is massacred by the Brazilian Army during the Paraguayan War.
 <br/><br/>
-En 1941 : Corporal Josef Jakobs is executed by firing squad at the Tower of London at 07:12, making him the last person to be executed at the Tower for espionage.
+En 1863 : The Dominican Restoration War begins when Gregorio Luperón raises the Dominican flag in Santo Domingo after Spain had recolonized the country.
 <br/><br/>
-En 1940 : An Italian submarine torpedoes and sinks the Greek cruiser Elli at Tinos harbor during peacetime, marking the most serious Italian provocation prior to the outbreak of the Greco-Italian War in October.
+En 1859 : The Grand Duchy of Tuscany formally deposes the exiled House of Lorraine.
 <br/><br/>
-En 1939 : Twenty-six Junkers Ju 87 bombers commanded by Walter Sigel meet unexpected ground fog during a dive-bombing demonstration for Luftwaffe generals at Neuhammer. Thirteen of them crash and burn.
+En 1858 : U.S. President James Buchanan inaugurates the new transatlantic telegraph cable by exchanging greetings with Queen Victoria of the United Kingdom. However, a weak signal forces a shutdown of the service in a few weeks.
 <br/><br/>
-En 1939 : The Wizard of Oz premieres at Grauman's Chinese Theater in Los Angeles, California.
+En 1844 : Governor-general of the Philippines Narciso Claveria, signs a decree to reform the country's calendar by skipping Tuesday, December 31, as a solution to anomalies that had existed since 1844.
 <br/><br/>
-En 1935 : Will Rogers and Wiley Post are killed after their aircraft develops engine problems during takeoff in Barrow, Alaska.
+En 1841 : U.S. President John Tyler vetoes a bill which called for the re-establishment of the Second Bank of the United States. Enraged Whig Party members riot outside the White House in the most violent demonstration on White House grounds in U.S. history.
 <br/><br/>
-En 1920 : Polish–Soviet War: Battle of Warsaw, so-called Miracle at the Vistula.
+En 1819 : Peterloo Massacre: Seventeen people die and over 600 are injured in cavalry charges at a public meeting at St. Peter's Field, Manchester, England.
 <br/><br/>
-En 1915 : A story in New York World newspaper reveals that the Imperial German government had purchased excess phenol from Thomas Edison that could be used to make explosives for the war effort and diverted it to Bayer for aspirin production.
+En 1812 : War of 1812: American General William Hull surrenders Fort Detroit without a fight to the British Army.
 <br/><br/>
-En 1914 : A servant of American architect, Frank Lloyd Wright, sets fire to the living quarters of Wright's Wisconsin home, Taliesin, and murders seven people there.
+En 1793 : French Revolution: A levée en masse is decreed by the National Convention.
 <br/><br/>
-En 1914 : The Panama Canal opens to traffic with the transit of the cargo ship SS Ancon.
+En 1792 : Maximilien de Robespierre presents the petition of the Commune of Paris to the Legislative Assembly, which demanded the formation of a revolutionary tribunal.
 <br/><br/>
-En 1914 : World War I: The First Russian Army, led by Paul von Rennenkampf, enters East Prussia.
+En 1780 : American Revolutionary War: Battle of Camden: The British defeat the Americans near Camden, South Carolina.
 <br/><br/>
-En 1914 : World War I: Beginning of the Battle of Cer, the first Allied victory of World War I.
+En 1777 : American Revolutionary War: The Americans led by General John Stark rout British and Brunswick troops under Friedrich Baum at the Battle of Bennington in Walloomsac, New York.
 <br/><br/>
-En 1907 : Ordination in Constantinople of Fr. Raphael Morgan, the first African-American Orthodox priest, "Priest-Apostolic" to America and the West Indies.
+En 1652 : Battle of Plymouth: Inconclusive naval action between the fleets of Michiel de Ruyter and George Ayscue in the First Anglo-Dutch War.
 <br/><br/>
-En 1899 : Fratton Park football ground in Portsmouth, England is officially first opened.
+En 1570 : The Principality of Transylvania is established after John II Zápolya renounces his claim as King of Hungary in the Treaty of Speyer.
 <br/><br/>
-En 1893 : Ibadan area becomes a British Protectorate after a treaty signed by Fijabi, the Baale of Ibadan with the British acting Governor of Lagos, George C. Denton.
+En 1513 : Battle of the Spurs (Battle of Guinegate): King Henry VIII of England and his Imperial allies defeat French Forces who are then forced to retreat.
 <br/><br/>
-En 1863 : The Anglo-Satsuma War begins between the Satsuma Domain of Japan and the United Kingdom (Traditional Japanese date: July 2, 1863).
+En 1328 : The House of Gonzaga seizes power in the Duchy of Mantua, and will rule until 1708.
 <br/><br/>
-En 1843 : The Cathedral of Our Lady of Peace in Honolulu, Hawaii is dedicated. Now the cathedral of the Roman Catholic Diocese of Honolulu, it is the oldest Roman Catholic cathedral in continuous use in the United States.
+En 963 : Nikephoros II Phokas is crowned emperor of the Byzantine Empire.
 <br/><br/>
-En 1843 : Tivoli Gardens, one of the oldest still intact amusement parks in the world, opens in Copenhagen, Denmark.
+En 942 : Start of the four-day Battle of al-Mada'in, between the Hamdanids of Mosul and the Baridis of Basra over control of the Abbasid capital, Baghdad.
 <br/><br/>
-En 1824 : The Marquis de Lafayette, the last surviving French general of the American Revolutionary War, arrives in New York and begins a tour of 24 states.
-<br/><br/>
-En 1760 : Seven Years' War: Battle of Liegnitz: Frederick the Great's victory over the Austrians under Ernst Gideon von Laudon.
-<br/><br/>
-En 1695 : French forces end the bombardment of Brussels.
-<br/><br/>
-En 1599 : Nine Years' War: Battle of Curlew Pass: Irish forces led by Hugh Roe O'Donnell successfully ambush English forces, led by Sir Conyers Clifford, sent to relieve Collooney Castle.
-<br/><br/>
-En 1592 : Imjin War: At the Battle of Hansan Island, the Korean Navy, led by Yi Sun-sin, Yi Eok-gi, and Won Gyun, decisively defeats the Japanese Navy, led by Wakisaka Yasuharu.
-<br/><br/>
-En 1549 : Jesuit priest Francis Xavier comes ashore at Kagoshima (Traditional Japanese date: 22 July 1549).
-<br/><br/>
-En 1540 : Arequipa, Peru is founded.
-<br/><br/>
-En 1537 : Asunción, Paraguay is founded.
-<br/><br/>
-En 1534 : Ignatius of Loyola and six classmates take initial vows, leading to the creation of the Society of Jesus in September 1540.
-<br/><br/>
-En 1519 : Panama City, Panama is founded.
-<br/><br/>
-En 1517 : Seven Portuguese armed vessels led by Fernão Pires de Andrade meet Chinese officials at the Pearl River estuary.
-<br/><br/>
-En 1511 : Afonso de Albuquerque of Portugal conquers Malacca, the capital of the Malacca Sultanate.
-<br/><br/>
-En 1483 : Pope Sixtus IV consecrates the Sistine Chapel.
-<br/><br/>
-En 1461 : The Empire of Trebizond surrenders to the forces of Sultan Mehmed II. This is regarded by some historians as the real end of the Byzantine Empire. Emperor David is exiled and later murdered.
-<br/><br/>
-En 1430 : Francesco Sforza, lord of Milan, conquers Lucca.
-<br/><br/>
-En 1310 : The city of Rhodes surrenders to the forces of the Knights of St. John, completing their conquest of Rhodes. The knights establish their headquarters on the island and rename themselves the Knights of Rhodes.
-<br/><br/>
-En 1281 : Mongol invasion of Japan: The Mongolian fleet of Kublai Khan is destroyed by a "divine wind" for the second time in the Battle of Kōan.
-<br/><br/>
-En 1261 : Michael VIII Palaiologos is crowned as the first Byzantine emperor in fifty-seven years.
-<br/><br/>
-En 1248 : The foundation stone of Cologne Cathedral, built to house the relics of the Three Wise Men, is laid. (Construction is eventually completed in 1880.)
-<br/><br/>
-En 1237 : Spanish Reconquista: The Battle of the Puig between the Moorish forces of Taifa of Valencia against the Kingdom of Aragon culminates in an Aragonese victory.
-<br/><br/>
-En 1224 : The Livonian Brothers of the Sword, a Catholic military order, occupy Tarbatu (today Tartu) as part of the Livonian Crusade.
-<br/><br/>
-En 1185 : The cave city of Vardzia is consecrated by Queen Tamar of Georgia.
-<br/><br/>
-En 1096 : Starting date of the First Crusade as set by Pope Urban II.
-<br/><br/>
-En 1070 : The Pavian-born Benedictine Lanfranc is appointed as the new Archbishop of Canterbury in England.
-<br/><br/>
-En 1057 : King Macbeth is killed at the Battle of Lumphanan by the forces of Máel Coluim mac Donnchada.
-<br/><br/>
-En 1038 : King Stephen I, the first king of Hungary, dies; his nephew, Peter Orseolo, succeeds him.
-<br/><br/>
-En 1018 : Byzantine general Eustathios Daphnomeles blinds and captures Ibatzes of Bulgaria by a ruse, thereby ending Bulgarian resistance against Emperor Basil II's conquest of Bulgaria.
-<br/><br/>
-En 982 : Holy Roman Emperor Otto II is defeated by the Saracens in the Battle of Capo Colonna, in Calabria.
-<br/><br/>
-En 927 : The Saracens conquer and destroy Taranto.
-<br/><br/>
-En 805 : Noble Erchana of Dahauua grants the Bavarian town of Dachau to the Diocese of Freising
-<br/><br/>
-En 778 : The Battle of Roncevaux Pass takes place between the army of Charlemagne and a Basque army.
-<br/><br/>
-En 747 : Carloman, mayor of the palace of Austrasia, renounces his position as majordomo and retires to a monastery near Rome. His brother, Pepin the Short, becomes the sole ruler (de facto) of the Frankish Kingdom.
-<br/><br/>
-En 718 : Arab–Byzantine wars: Raising of the Second Arab Siege of Constantinople.
-<br/><br/>
-En 717 : Arab–Byzantine wars: Maslama ibn Abd al-Malik begins the Second Arab Siege of Constantinople, which will last for nearly a year.
-<br/><br/>
-En 636 : Arab–Byzantine wars: The Battle of Yarmouk between the Byzantine Empire and the Rashidun Caliphate begins.
+En -1 : Wang Mang consolidates his power in China and is declared marshal of state. Emperor Ai of Han, who died the previous day, had no heirs.
 <br/><br/>
