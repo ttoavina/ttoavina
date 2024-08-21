@@ -4,129 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 20/8 ?(Hover on the year)</h1>
+<h1> What happen this day 21/8 ?(Hover on the year)</h1>
 
-En 2020 : Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.
+En 2017 : A solar eclipse traverses the continental United States.
 <br/><br/>
-En 2016 : Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.
+En 2013 : Hundreds of people are reported killed by chemical attacks in the Ghouta region of Syria.
 <br/><br/>
-En 2014 : Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.
+En 2000 : American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.
 <br/><br/>
-En 2012 : A prison riot in the Venezuelan capital, Caracas, kills at least 20 people.
+En 1995 : Atlantic Southeast Airlines Flight 529, an Embraer EMB 120 Brasilia, attempts to divert to West Georgia Regional Airport after the left engine fails, but the aircraft crashes in Carroll County near Carrollton, Georgia, killing nine of the 29 people on board.
 <br/><br/>
-En 2008 : Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.
+En 1994 : Royal Air Maroc Flight 630 crashes in Douar Izounine, Morocco, killing all 44 people on board.
 <br/><br/>
-En 2007 : China Airlines Flight 120 catches fire and explodes after landing at Naha Airport in Okinawa, Japan.
+En 1993 : NASA loses contact with the Mars Observer spacecraft.
 <br/><br/>
-En 2006 : Sri Lankan Civil War: Sri Lankan Tamil politician and former MP S. Sivamaharajah is shot dead at his home in Tellippalai.
+En 1991 : Latvia declares renewal of its full independence after its occupation by the Soviet Union since 1940.
 <br/><br/>
-En 2002 : A group of Iraqis opposed to the regime of Saddam Hussein take over the Iraqi embassy in Berlin, Germany for five hours before releasing their hostages and surrendering.
+En 1991 : Coup attempt against Mikhail Gorbachev collapses.
 <br/><br/>
-En 1998 : The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.
+En 1988 : The 6.9 Mw  Nepal earthquake shakes the Nepal–India border with a maximum Mercalli intensity of VIII (Severe), leaving 709–1,450 people killed and thousands injured.
 <br/><br/>
-En 1998 : U.S. embassy bombings: The United States launches cruise missile attacks against alleged al-Qaeda camps in Afghanistan and a suspected chemical weapons plant in Sudan in retaliation for the August 7 bombings of American embassies in Kenya and Tanzania.
+En 1986 : Carbon dioxide gas erupts from volcanic Lake Nyos in Cameroon, killing up to 1,800 people within a 20-kilometre (12 mi) range.
 <br/><br/>
-En 1997 : Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
+En 1983 : Philippine opposition leader Benigno Aquino Jr. is assassinated at Manila International Airport (now renamed Ninoy Aquino International Airport in his honor).
 <br/><br/>
-En 1995 : The Firozabad rail disaster kills 358 people in Firozabad, India.
+En 1982 : Lebanese Civil War: The first troops of a multinational force lands in Beirut to oversee the Palestine Liberation Organization's withdrawal from Lebanon.
 <br/><br/>
-En 1993 : After rounds of secret negotiations in Norway, the Oslo Accords are signed, followed by a public ceremony in Washington, D.C. the following month.
+En 1971 : A bomb exploded in the Liberal Party campaign rally in Plaza Miranda, Manila, Philippines with several anti-Marcos political candidates injured.
 <br/><br/>
-En 1992 : In India, Meitei language (officially known as Manipuri language) was included in the scheduled languages' list and made one of the official languages of the Indian Government.
+En 1968 : Cold War: Nicolae Ceaușescu, leader of the Socialist Republic of Romania, publicly condemns the Soviet-led Warsaw Pact invasion of Czechoslovakia, encouraging the Romanian population to arm itself against possible Soviet reprisals.
 <br/><br/>
-En 1991 : Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.
+En 1968 : James Anderson Jr. posthumously receives the first Medal of Honor to be awarded to an African American U.S. Marine.
 <br/><br/>
-En 1991 : Estonia, occupied by and incorporated into the Soviet Union in 1940, issues a decision on the re-establishment of independence on the basis of legal continuity of its pre-occupation statehood.
+En 1965 : The Socialist Republic of Romania is proclaimed, following the adoption of a new constitution.
 <br/><br/>
-En 1989 : The pleasure boat Marchioness sinks on the River Thames following a collision. Fifty-one people are killed.
+En 1963 : Xá Lợi Pagoda raids: The Army of the Republic of Vietnam Special Forces loyal to Ngô Đình Nhu, brother of President Ngo Dinh Diem, vandalizes Buddhist pagodas across the country, arresting thousands and leaving an estimated hundreds dead.
 <br/><br/>
-En 1988 : "Black Saturday" of the Yellowstone fire in Yellowstone National Park
+En 1959 : United States President Dwight D. Eisenhower signs an executive order proclaiming Hawaii the 50th state of the union. Hawaii's admission is currently commemorated by Hawaii Admission Day.
 <br/><br/>
-En 1988 : Iran–Iraq War: A ceasefire is agreed after almost eight years of war.
+En 1957 : The Soviet Union successfully conducts a long-range test flight of the R-7 Semyorka, the first intercontinental ballistic missile.
 <br/><br/>
-En 1988 : The Troubles: Eight British soldiers are killed and 28 wounded when their bus is hit by an IRA roadside bomb in Ballygawley, County Tyrone.
+En 1945 : Physicist Harry Daghlian is fatally irradiated in a criticality accident during an experiment with the Demon core at Los Alamos National Laboratory.
 <br/><br/>
-En 1986 : In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill guns down 14 of his co-workers and then commits suicide.
+En 1944 : Dumbarton Oaks Conference, prelude to the United Nations, begins.
 <br/><br/>
-En 1977 : Voyager program: NASA launches the Voyager 2 spacecraft.
+En 1944 : World War II: Canadian and Polish units capture the strategically important town of Falaise, Calvados, France.
 <br/><br/>
-En 1975 : Viking program: NASA launches the Viking 1 planetary probe toward Mars.
+En 1942 : World War II: The Guadalcanal Campaign: American forces defeat an attack by Imperial Japanese Army soldiers in the Battle of the Tenaru.
 <br/><br/>
-En 1975 : ČSA Flight 540 crashes on approach to Damascus International Airport in Damascus, Syria, killing 126 people.
+En 1918 : World War I: The Second Battle of the Somme begins.
 <br/><br/>
-En 1968 : Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.
+En 1914 : World War I: The Battle of Charleroi, a successful German attack across the River Sambre that pre-empted a French offensive in the same area.
 <br/><br/>
-En 1962 : The NS Savannah, the world's first nuclear-powered civilian ship, embarks on its maiden voyage.
+En 1911 : The Mona Lisa is stolen by Vincenzo Peruggia, a Louvre employee.
 <br/><br/>
-En 1960 : Senegal breaks from the Mali Federation, declaring its independence.
+En 1901 : Six hundred American school teachers, Thomasites, arrived in Manila on the USAT Thomas.
 <br/><br/>
-En 1955 : Battle of Philippeville: In Morocco, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
+En 1888 : The first successful adding machine in the United States is patented by William Seward Burroughs.
 <br/><br/>
-En 1949 : Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.
+En 1883 : An F5 tornado strikes Rochester, Minnesota, leading to the creation of the Mayo Clinic.
 <br/><br/>
-En 1948 : Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.
+En 1879 : The locals of Knock, County Mayo, Ireland report their having seen an apparition of the Virgin Mary. The apparition is later named “Our Lady of Knock” and the spot transformed into a Catholic pilgrimage site.
 <br/><br/>
-En 1944 : World War II: One hundred sixty-eight captured allied airmen, including Phil Lamason, accused by the Gestapo of being "terror fliers", arrive at Buchenwald concentration camp.
+En 1878 : The American Bar Association is founded in Saratoga Springs, New York.
 <br/><br/>
-En 1944 : World War II: The Battle of Romania begins with a major Soviet Union offensive.
+En 1863 : Lawrence, Kansas is destroyed by pro-Confederate guerrillas known as Quantrill's Raiders.
 <br/><br/>
-En 1940 : In Mexico City, exiled Russian revolutionary Leon Trotsky is fatally wounded with an ice axe by Ramón Mercader. He dies the next day.
+En 1862 : The Stadtpark, the first public park in Vienna, opens to the public.
 <br/><br/>
-En 1940 : World War II: British Prime Minister Winston Churchill makes the fourth of his famous wartime speeches, containing the line "Never was so much owed by so many to so few".
+En 1858 : The first of the Lincoln–Douglas debates is held in Ottawa, Illinois.
 <br/><br/>
-En 1940 : World War II: The Eighth Route Army launches the Hundred Regiments Offensive, a successful campaign to disrupt Japanese war infrastructure and logistics in occupied northern China.
+En 1852 : Tlingit Indians destroy Fort Selkirk, Yukon Territory.
 <br/><br/>
-En 1938 : Lou Gehrig hits his 23rd career grand slam, a record that stood for 75 years until it was broken by Alex Rodriguez.
+En 1831 : Nat Turner leads black slaves and free blacks in a rebellion in Southampton County, Virginia, which will claim the lives of 55 to 65 whites and about twice that number of blacks.
 <br/><br/>
-En 1926 : Japan's public broadcasting company, Nippon Hōsō Kyōkai (NHK) is established.
+En 1821 : Jarvis Island is discovered by the crew of the ship, Eliza Frances.
 <br/><br/>
-En 1920 : The first commercial radio station, 8MK (now WWJ), begins operations in Detroit.
+En 1810 : Jean-Baptiste Bernadotte, Marshal of France, is elected Crown Prince of Sweden by the Swedish Riksdag of the Estates.
 <br/><br/>
-En 1920 : The National Football League is organized as the American Professional Football Conference in Canton, Ohio
+En 1808 : Battle of Vimeiro: British and Portuguese forces led by General Arthur Wellesley defeat French force under Major-General Jean-Andoche Junot near the village of Vimeiro, Portugal, the first Anglo-Portuguese victory of the Peninsular War.
 <br/><br/>
-En 1914 : World War I: Brussels is captured during the German invasion of Belgium.
+En 1791 : A Vodou ceremony, led by Dutty Boukman, turns into a violent slave rebellion, beginning the Haitian Revolution.
 <br/><br/>
-En 1910 : Extreme fire weather in the Inland Northwest of the United States causes many small wildfires to coalesce into the Great Fire of 1910, burning approximately 3 million acres (12,000 km2) and killing 87 people.
+En 1778 : American Revolutionary War: British forces begin besieging the French outpost at Pondichéry.
 <br/><br/>
-En 1905 : Sun Yat-sen, Song Jiaoren, and others establish the Tongmenghui, a Republican, anti-Qing revolutionary organisation, in Tokyo, Japan.
+En 1772 : King Gustav III completes his coup d'état by adopting a new Constitution, ending half a century of parliamentary rule in Sweden and installing himself as an enlightened despot.
 <br/><br/>
-En 1882 : Tchaikovsky's 1812 Overture debuts in Moscow, Russia.
+En 1770 : James Cook formally claims eastern Australia for Great Britain, naming it New South Wales.
 <br/><br/>
-En 1866 : President Andrew Johnson formally declares the American Civil War over.
+En 1716 : Seventh Ottoman–Venetian War: The arrival of naval reinforcements and the news of the Battle of Petrovaradin force the Ottomans to abandon the Siege of Corfu, thus preserving the Ionian Islands under Venetian rule.
 <br/><br/>
-En 1864 : Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.
+En 1689 : The Battle of Dunkeld in Scotland.
 <br/><br/>
-En 1858 : Charles Darwin first publishes his theory of evolution through natural selection in The Journal of the Proceedings of the Linnean Society of London, alongside Alfred Russel Wallace's same theory.
+En 1680 : Pueblo Indians capture Santa Fe from the Spanish during the Pueblo Revolt.
 <br/><br/>
-En 1852 : Steamboat Atlantic sank on Lake Erie after a collision, with the loss of at least 150 lives.
+En 1415 : Henry the Navigator leads Portuguese forces to victory over the Marinids at the Conquest of Ceuta.
 <br/><br/>
-En 1794 : Northwest Indian War: United States troops force a confederacy of Shawnee, Mingo, Delaware, Wyandot, Miami, Ottawa, Chippewa, and Potawatomi warriors into a disorganized retreat at the Battle of Fallen Timbers.
+En 1331 : King Stefan Uroš III, after months of anarchy, surrenders to his son and rival Stefan Dušan, who succeeds as King of Serbia.
 <br/><br/>
-En 1775 : The Spanish establish the Presidio San Augustin del Tucson in the town that became Tucson, Arizona.
+En 1192 : Minamoto no Yoritomo becomes Sei-i Taishōgun and the de facto ruler of Japan. (Traditional Japanese date: the 12th day of the seventh month in the third year of the Kenkyū (建久) era).
 <br/><br/>
-En 1710 : War of the Spanish Succession: A multinational army led by the Austrian commander Guido Starhemberg defeats the Spanish-Bourbon army commanded by Alexandre Maître, Marquis de Bay in the Battle of Saragossa.
+En 1169 : Battle of the Blacks: Uprising by the black African forces of the Fatimid army, along with a number of Egyptian emirs and commoners, against Saladin.
 <br/><br/>
-En 1707 : The first Siege of Pensacola comes to an end with the failure of the British to capture Pensacola, Florida.
+En 1140 : Song dynasty general Yue Fei defeats an army led by Jin dynasty general Wuzhu at the Battle of Yancheng during the Jin–Song Wars.
 <br/><br/>
-En 1672 : Former Grand Pensionary Johan de Witt and his brother Cornelis are lynched by a mob in The Hague.
-<br/><br/>
-En 1648 : The Battle of Lens is the last major military confrontation of the Thirty Years' War, contributing to the signing of the Peace of Westphalia in October that year.
-<br/><br/>
-En 1519 : Philosopher and general Wang Yangming defeats Zhu Chenhao, ending the Prince of Ning rebellion against the reign of the Ming dynasty's Zhengde Emperor.
-<br/><br/>
-En 1467 : The Second Battle of Olmedo takes places as part of a succession conflict between Henry IV of Castile and his half-brother Alfonso, Prince of Asturias.
-<br/><br/>
-En 1391 : Konrad von Wallenrode becomes the 24th Grand Master of the Teutonic Order.
-<br/><br/>
-En 1308 : Pope Clement V pardons Jacques de Molay, the last Grand Master of the Knights Templar, absolving him of charges of heresy.
-<br/><br/>
-En 1191 : Richard I of England initiates the Massacre at Ayyadieh, leaving 2,600–3,000 Muslim hostages dead.
-<br/><br/>
-En 1083 : Canonization of the first King of Hungary, Saint Stephen and his son Saint Emeric celebrated as a National Day in Hungary.
-<br/><br/>
-En 917 : Battle of Acheloos: Tsar Simeon I of Bulgaria decisively defeats a Byzantine army.
-<br/><br/>
-En 636 : Battle of Yarmouk: Arab forces led by Khalid ibn al-Walid take control of the Levant away from the Byzantine Empire, marking the first great wave of Muslim conquests and the rapid advance of Islam outside Arabia.
-<br/><br/>
-En 14 : Agrippa Postumus, maternal grandson of the late Roman emperor Augustus, is mysteriously executed by his guards while in exile.
+En 959 : Eraclus becomes the 25th bishop of Liège.
 <br/><br/>
