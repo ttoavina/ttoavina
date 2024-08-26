@@ -4,121 +4,99 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 25/8 ?(Hover on the year)</h1>
+<h1> What happen this day 26/8 ?(Hover on the year)</h1>
 
-En 2017 : Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004.
+En 2023 : Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.
 <br/><br/>
-En 2017 : Conflict in Rakhine State (2016–present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation.
+En 2021 : During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians.
 <br/><br/>
-En 2012 : Voyager 1 spacecraft enters interstellar space becoming the first man-made object to do so.
+En 2018 : Three people are killed and eleven wounded during a mass shooting at a Madden NFL '19 video game tournament in Jacksonville, Florida.
 <br/><br/>
-En 2011 : Fifty-two people are killed during an arson attack caused by members of the drug cartel Los Zetas.
+En 2015 : Two U.S. journalists are shot and killed by a disgruntled former coworker while conducting a live report in Moneta, Virginia.
 <br/><br/>
-En 2006 : Former Prime Minister of Ukraine Pavlo Lazarenko is sentenced to nine years imprisonment for money laundering, wire fraud, and extortion.
+En 2014 : The Jay Report into the Rotherham child sexual exploitation scandal is published.
 <br/><br/>
-En 2005 : Hurricane Katrina makes landfall in Florida.
+En 2011 : The Boeing 787 Dreamliner, Boeing's all-new composite airliner, receives certification from the EASA and the FAA.
 <br/><br/>
-En 2003 : NASA successfully launches the Spitzer Space Telescope into space.
+En 2009 : Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years. Her captors, Phillip and Nancy Garrido are apprehended.
 <br/><br/>
-En 2001 : American singer Aaliyah and several members of her record company are killed as their overloaded aircraft crashes shortly after takeoff from Marsh Harbour Airport, Bahamas.
+En 2003 : A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.
 <br/><br/>
-En 1997 : Egon Krenz, the former East German leader, is convicted of a shoot-to-kill policy at the Berlin Wall.
+En 1999 : Russia begins the Second Chechen War in response to the Invasion of Dagestan by the Islamic International Peacekeeping Brigade.
 <br/><br/>
-En 1991 : Belarus gains its independence from the Soviet Union.
+En 1998 : The first flight of the Boeing Delta III ends in disaster 75 seconds after liftoff resulting in the loss of the Galaxy X  communications satellite.
 <br/><br/>
-En 1991 : The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).
+En 1997 : Beni Ali massacre occurs in Algeria, leaving 60 to 100 people dead.
 <br/><br/>
-En 1991 : Linus Torvalds announces the first version of what will become Linux.
+En 1980 : After John Birges plants a bomb at Harvey's Resort Hotel in Stateline, Nevada, in the United States, the FBI inadvertently detonates the bomb during its disarming.
 <br/><br/>
-En 1989 : Voyager 2 spacecraft makes its closest approach to Neptune, the last planet in the Solar System at the time, due to Pluto being within Neptune's orbit from 1979 to 1999.
+En 1978 : Papal conclave: Albino Luciani is elected as Pope John Paul I.
 <br/><br/>
-En 1989 : Pakistan International Airlines Flight 404, carrying 54 people, disappears over the Himalayas after take off from Gilgit Airport in Pakistan. The aircraft was never found.
+En 1977 : The Charter of the French Language is adopted by the National Assembly of Quebec.
 <br/><br/>
-En 1985 : Bar Harbor Airlines Flight 1808 crashes near Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.
+En 1972 : The Games of the XX Olympiad open in Munich, West Germany.
 <br/><br/>
-En 1981 : Voyager 2 spacecraft makes its closest approach to Saturn.
+En 1970 : The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality.
 <br/><br/>
-En 1980 : Zimbabwe joins the United Nations.
+En 1966 : The South African Border War starts with the battle at Omugulugwombashe.
 <br/><br/>
-En 1967 : George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group.
+En 1944 : World War II: Charles de Gaulle enters Paris.
 <br/><br/>
-En 1961 : President Jânio Quadros of Brazil resigns after just seven months in power, initiating a political crisis that culminates in a military coup in 1964.
+En 1942 : The Holocaust in Ukraine: At Chortkiv, the Ukrainian police and German Schutzpolizei deport two thousand Jews to Bełżec extermination camp. Five hundred of the sick and children are murdered on the spot. This continued until the next day.
 <br/><br/>
-En 1960 : The Games of the XVII Olympiad commence in Rome, Italy.
+En 1940 : World War II: Chad becomes the first French colony to join the Allies under the administration of Félix Éboué, France's first black colonial governor.
 <br/><br/>
-En 1958 : The world’s first publicly marketed instant noodles,  Chikin Ramen, are introduced by Taiwanese-Japanese businessman Momofuku Ando.
+En 1936 : Spanish Civil War: Santander falls to the nationalists and the republican interprovincial council is dissolved.
 <br/><br/>
-En 1950 : To avert a threatened strike during the Korean War, President Truman orders Secretary of the Army Frank Pace to seize control of the nation's railroads.
+En 1922 : Greco-Turkish War (1919–22): Turkish army launched what has come to be known to the Turks as the Great Offensive (Büyük Taarruz). The major Greek defense positions were overrun.
 <br/><br/>
-En 1948 : The House Un-American Activities Committee holds first-ever televised congressional hearing: "Confrontation Day" between Whittaker Chambers and Alger Hiss.
+En 1920 : The 19th amendment to United States Constitution takes effect, giving women the right to vote.
 <br/><br/>
-En 1945 : Ten days after World War II ends with Japan announcing its surrender, armed supporters of the Chinese Communist Party kill U.S. intelligence officer John Birch, regarded by some of the American right as the first victim of the Cold War.
+En 1914 : World War I: The German colony of Togoland surrenders to French and British forces after a 20-day campaign. Togoland is the first German colony to fall to Allied hands in World War I.
 <br/><br/>
-En 1945 : The August Revolution ends as Emperor Bảo Đại abdicates, ending the Nguyễn dynasty.
+En 1914 : World War I: During the retreat from Mons, the British II Corps commanded by General Sir Horace Smith-Dorrien fights a vigorous and successful defensive action at Le Cateau.
 <br/><br/>
-En 1944 : World War II: Paris is liberated by the Allies.
+En 1883 : The 1883 eruption of Krakatoa begins its final, paroxysmal, stage.
 <br/><br/>
-En 1942 : World War II: Second day of the Battle of the Eastern Solomons; a Japanese naval transport convoy headed towards Guadalcanal is turned back by an Allied air attack.
+En 1863 : The Swedish-language liberal newspaper Helsingfors Dagblad proposed the current blue-and-white cross flag as the flag of Finland.
 <br/><br/>
-En 1942 : World War II: Battle of Milne Bay: Japanese marines assault Allied airfields at Milne Bay, New Guinea, initiating the Battle of Milne Bay.
+En 1849 : President Faustin Soulouque of the First Republic of Haiti has the Senate and Chamber of Deputies proclaim him the Emperor of Haiti, abolishing the Republic and inaugurating the Second Empire of Haiti.
 <br/><br/>
-En 1941 : World War II: Anglo-Soviet invasion of Iran: The United Kingdom and the Soviet Union jointly stage an invasion of the Imperial State of Iran.
+En 1833 : The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, a total of 500 people perish.
 <br/><br/>
-En 1940 : World War II: The first Bombing of Berlin by the British Royal Air Force.
+En 1814 : Chilean War of Independence: Infighting between the rebel forces of José Miguel Carrera and Bernardo O'Higgins erupts in the Battle of Las Tres Acequias.
 <br/><br/>
-En 1939 : The Irish Republican Army carries out the 1939 Coventry bombing in which five civilians were killed.
+En 1813 : War of the Sixth Coalition: An impromptu battle takes place when French and Prussian-Russian forces accidentally run into each other near Liegnitz, Prussia (now Legnica, Poland).
 <br/><br/>
-En 1939 : The United Kingdom and Poland form a military alliance in which the UK promises to defend Poland in case of invasion by a foreign power.
+En 1810 : The former viceroy Santiago de Liniers of the Viceroyalty of the Río de la Plata is executed after the defeat of his counter-revolution.
 <br/><br/>
-En 1933 : The Diexi earthquake strikes Mao County, Sichuan, China and kills 9,000 people.
+En 1791 : John Fitch is granted a United States patent for the steamboat.
 <br/><br/>
-En 1933 : Nazi Germany and the Zionist Federation of Germany signed the Haavara Agreement. The agreement was a major factor in breaking the anti-Nazi boycott of 1933 and facilitated Jewish emigration from Germany and into Palestine.
+En 1789 : The Declaration of the Rights of Man and of the Citizen is approved by the National Constituent Assembly of France.
 <br/><br/>
-En 1920 : Polish–Soviet War: Battle of Warsaw, which began on August 13, ends with the Red Army's defeat.
+En 1778 : The first recorded ascent of Triglav, the highest mountain in Slovenia.
 <br/><br/>
-En 1916 : The United States National Park Service is created.
+En 1768 : Captain James Cook sets sail from England on board HMS Endeavour.
 <br/><br/>
-En 1914 : World War I: Japan declares war on Austria-Hungary.
+En 1767 : Jesuits all over Chile are arrested as the Spanish Empire suppresses the Society of Jesus.
 <br/><br/>
-En 1914 : World War I: The library of the Catholic University of Leuven is deliberately destroyed by the German Army. Hundreds of thousands of irreplaceable volumes and Gothic and Renaissance manuscripts are lost.
+En 1748 : The first Lutheran denomination in North America, the Pennsylvania Ministerium, is founded in Philadelphia.
 <br/><br/>
-En 1912 : The Kuomintang is founded for the first time in Peking.
+En 1648 : The Fronde: First Fronde: In the wake of the successful Battle of Lens, Cardinal Mazarin, Chief Minister of France, suddenly orders the arrest of the leaders of the Parlement of Paris, provoking the rest of Paris to break into insurrection and barricade the streets the next day.
 <br/><br/>
-En 1904 : Russo-Japanese War: The Battle of Liaoyang begins.
+En 1642 : Dutch–Portuguese War: Second Battle of San Salvador: The Dutch force the Spanish garrison at San Salvador (modern day Keelung, Taiwan) to surrender, ending the short-lived Spanish colony on Formosa and replacing it with a new Dutch administration.
 <br/><br/>
-En 1894 : Kitasato Shibasaburō discovers the infectious agent of the bubonic plague and publishes his findings in The Lancet.
+En 1542 : Francisco de Orellana crosses South America from Guayaquil on the Pacific coast to the mouth of the Amazon River on the Atlantic coast.
 <br/><br/>
-En 1883 : France and Viet Nam sign the Treaty of Huế, recognizing a French protectorate over Annam and Tonkin.
+En 1444 : Battle of St. Jakob an der Birs: A vastly outnumbered force of Swiss Confederates is defeated by the Dauphin Louis (future Louis XI of France) and his army of 'Armagnacs' near Basel.
 <br/><br/>
-En 1875 : Captain Matthew Webb becomes the first person to swim across the English Channel, traveling from Dover, England, to Calais, France, in 21 hours and 45 minutes.
+En 1346 : At the Battle of Crécy, an English army easily defeats a French one twice its size.
 <br/><br/>
-En 1835 : The first Great Moon Hoax article is published in The New York Sun, announcing the discovery of life and civilization on the Moon.
+En 1303 : Chittorgarh falls to the Delhi Sultanate.
 <br/><br/>
-En 1830 : The Belgian Revolution begins.
+En 1278 : Ladislaus IV of Hungary and Rudolf I of Germany defeat Ottokar II of Bohemia in the Battle on the Marchfeld near Dürnkrut in (then) Moravia.
 <br/><br/>
-En 1825 : The Thirty-Three Orientals declare the independence of Uruguay from Brazil.
+En 1071 : The Seljuq Turks defeat the Byzantine army at the Battle of Manzikert, and soon gain control of most of Anatolia.
 <br/><br/>
-En 1823 : American fur trapper Hugh Glass is mauled by a grizzly bear while on an expedition in South Dakota.
-<br/><br/>
-En 1814 : War of 1812: On the second day of the Burning of Washington, British troops torch the Library of Congress, United States Treasury, Department of War, and other public buildings.
-<br/><br/>
-En 1758 : Seven Years' War: Frederick II of Prussia defeats the Russian army at the Battle of Zorndorf.
-<br/><br/>
-En 1630 : Portuguese forces are defeated by the Kingdom of Kandy at the Battle of Randeniwela in Sri Lanka.
-<br/><br/>
-En 1609 : Galileo Galilei demonstrates his first telescope to Venetian lawmakers.
-<br/><br/>
-En 1580 : War of the Portuguese Succession: Spanish victory at the Battle of Alcântara brings about the Iberian Union.
-<br/><br/>
-En 1543 : António Mota and a few companions become the first Europeans to visit Japan.
-<br/><br/>
-En 1537 : The Honourable Artillery Company, the oldest surviving regiment in the British Army, and the second most senior, is formed.
-<br/><br/>
-En 1270 : Philip III, although suffering from dysentery, becomes King of France following the death of his father Louis IX, during the Eighth Crusade. His uncle, Charles I of Naples, is forced to begin peace negotiations with Muhammad I al-Mustansir, Hafsid Sultan of Tunis.
-<br/><br/>
-En 1258 : Regent George Mouzalon and his brothers are killed during a coup headed by the aristocratic faction under Michael VIII Palaiologos, paving the way for its leader to ultimately usurp the throne of the Empire of Nicaea.
-<br/><br/>
-En 1248 : The Dutch city of Ommen receives city rights and fortification rights from Otto III, the Archbishop of Utrecht.
-<br/><br/>
-En 766 : Emperor Constantine V humiliates nineteen high-ranking officials, after discovering a plot against him. He executes the leaders, Constantine Podopagouros and his brother Strategios.
+En 683 : Yazid I's army kills 11,000 people of Medina including notable Sahabas in Battle of al-Harrah.
 <br/><br/>
