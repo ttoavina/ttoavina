@@ -4,99 +4,117 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 26/8 ?(Hover on the year)</h1>
+<h1> What happen this day 27/8 ?(Hover on the year)</h1>
 
-En 2023 : Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.
+En 2011 : Hurricane Irene strikes the United States east coast, killing 47 and causing an estimated $15.6 billion in damage.
 <br/><br/>
-En 2021 : During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians.
+En 2009 : Internal conflict in Myanmar: The Burmese military junta and ethnic armies begin three days of violent clashes in the Kokang Special Region.
 <br/><br/>
-En 2018 : Three people are killed and eleven wounded during a mass shooting at a Madden NFL '19 video game tournament in Jacksonville, Florida.
+En 2006 : Comair Flight 5191 crashes on takeoff from Blue Grass Airport in Lexington, Kentucky, bound for Hartsfield–Jackson Atlanta International Airport in Atlanta. Of the passengers and crew, 49 of 50 are confirmed dead in the hours following the crash.
 <br/><br/>
-En 2015 : Two U.S. journalists are shot and killed by a disgruntled former coworker while conducting a live report in Moneta, Virginia.
+En 2003 : Mars makes its closest approach to Earth in nearly 60,000 years, passing 34,646,418 miles (55,758,005 km) distant.
 <br/><br/>
-En 2014 : The Jay Report into the Rotherham child sexual exploitation scandal is published.
+En 2003 : The first six-party talks, involving South and North Korea, the United States, China, Japan and Russia, convene to find a peaceful resolution to the security concerns of the North Korean nuclear weapons program.
 <br/><br/>
-En 2011 : The Boeing 787 Dreamliner, Boeing's all-new composite airliner, receives certification from the EASA and the FAA.
+En 1992 : Aeroflot Flight 2808 crashes on approach to Ivanovo Yuzhny Airport, killing all 84 aboard.
 <br/><br/>
-En 2009 : Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years. Her captors, Phillip and Nancy Garrido are apprehended.
+En 1991 : The European Community recognizes the independence of the Baltic states of Estonia, Latvia and Lithuania.
 <br/><br/>
-En 2003 : A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.
+En 1991 : Moldova declares independence from the USSR.
 <br/><br/>
-En 1999 : Russia begins the Second Chechen War in response to the Invasion of Dagestan by the Islamic International Peacekeeping Brigade.
+En 1985 : Major General Muhammadu Buhari, Chairman of the Supreme Military Council of Nigeria, is ousted from power in a coup d'état led by Major General Ibrahim Babangida.
 <br/><br/>
-En 1998 : The first flight of the Boeing Delta III ends in disaster 75 seconds after liftoff resulting in the loss of the Galaxy X  communications satellite.
+En 1985 : Space Shuttle Discovery is launched on STS-51-I to deploy three communication satellites and repair a fourth malfunctioning one.
 <br/><br/>
-En 1997 : Beni Ali massacre occurs in Algeria, leaving 60 to 100 people dead.
+En 1982 : Turkish military diplomat Colonel Atilla Altıkat is shot and killed in Ottawa. Justice Commandos of the Armenian Genocide claim to be avenging the massacre of 1+1⁄2 million Armenians in the 1915 Armenian genocide.
 <br/><br/>
-En 1980 : After John Birges plants a bomb at Harvey's Resort Hotel in Stateline, Nevada, in the United States, the FBI inadvertently detonates the bomb during its disarming.
+En 1980 : South Korean presidential election: After successfully staging the Coup d'état of May Seventeenth, General Chun Doo-hwan, running unopposed, has the National Conference for Unification elect him President of the Fourth Republic of Korea.
 <br/><br/>
-En 1978 : Papal conclave: Albino Luciani is elected as Pope John Paul I.
+En 1979 : The Troubles: Eighteen British soldiers are killed in an ambush by the Provisional Irish Republican Army near Warrenpoint, Northern Ireland, in the deadliest attack on British forces during Operation Banner. An IRA bomb also kills British royal family member Lord Mountbatten and three others on his boat at Mullaghmore, Republic of Ireland.
 <br/><br/>
-En 1977 : The Charter of the French Language is adopted by the National Assembly of Quebec.
+En 1975 : The Governor of Portuguese Timor abandons its capital, Dili, and flees to Atauro Island, leaving control to a rebel group.
 <br/><br/>
-En 1972 : The Games of the XX Olympiad open in Munich, West Germany.
+En 1971 : An attempted coup d'état fails in the African nation of Chad. The Government of Chad accuses Egypt of playing a role in the attempt and breaks off diplomatic relations.
 <br/><br/>
-En 1970 : The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality.
+En 1964 : South Vietnamese junta leader Nguyễn Khánh enters into a triumvirate power-sharing arrangement with rival generals Trần Thiện Khiêm and Dương Văn Minh, who had both been involved in plots to unseat Khánh.
 <br/><br/>
-En 1966 : The South African Border War starts with the battle at Omugulugwombashe.
+En 1963 : An explosion at the Cane Creek potash mine near Moab, Utah kills 18 miners.
 <br/><br/>
-En 1944 : World War II: Charles de Gaulle enters Paris.
+En 1962 : The Mariner 2 unmanned space mission is launched to Venus by NASA.
 <br/><br/>
-En 1942 : The Holocaust in Ukraine: At Chortkiv, the Ukrainian police and German Schutzpolizei deport two thousand Jews to Bełżec extermination camp. Five hundred of the sick and children are murdered on the spot. This continued until the next day.
+En 1956 : The nuclear power station at Calder Hall in the United Kingdom was connected to the national power grid becoming the world's first commercial nuclear power station to generate electricity on an industrial scale.
 <br/><br/>
-En 1940 : World War II: Chad becomes the first French colony to join the Allies under the administration of Félix Éboué, France's first black colonial governor.
+En 1955 : The first edition of the Guinness Book of Records is published in Great Britain.
 <br/><br/>
-En 1936 : Spanish Civil War: Santander falls to the nationalists and the republican interprovincial council is dissolved.
+En 1943 : World War II: Japanese forces evacuate New Georgia Island in the Pacific Theater of Operations during World War II.
 <br/><br/>
-En 1922 : Greco-Turkish War (1919–22): Turkish army launched what has come to be known to the Turks as the Great Offensive (Büyük Taarruz). The major Greek defense positions were overrun.
+En 1943 : World War II: Aerial bombardment by the Luftwaffe razes to the ground the village of Vorizia in Crete.
 <br/><br/>
-En 1920 : The 19th amendment to United States Constitution takes effect, giving women the right to vote.
+En 1942 : First day of the Sarny Massacre, perpetrated by Germans and Ukrainians.
 <br/><br/>
-En 1914 : World War I: The German colony of Togoland surrenders to French and British forces after a 20-day campaign. Togoland is the first German colony to fall to Allied hands in World War I.
+En 1939 : First flight of the turbojet-powered Heinkel He 178, the world's first jet aircraft.
 <br/><br/>
-En 1914 : World War I: During the retreat from Mons, the British II Corps commanded by General Sir Horace Smith-Dorrien fights a vigorous and successful defensive action at Le Cateau.
+En 1933 : The first Afrikaans Bible is introduced during a Bible Festival in Bloemfontein.
 <br/><br/>
-En 1883 : The 1883 eruption of Krakatoa begins its final, paroxysmal, stage.
+En 1928 : The Kellogg–Briand Pact outlawing war is signed by fifteen nations. Ultimately sixty-one nations will sign it.
 <br/><br/>
-En 1863 : The Swedish-language liberal newspaper Helsingfors Dagblad proposed the current blue-and-white cross flag as the flag of Finland.
+En 1927 : Five Canadian women file a petition to the Supreme Court of Canada, asking: "Does the word 'Persons' in Section 24 of the British North America Act, 1867, include female persons?"
 <br/><br/>
-En 1849 : President Faustin Soulouque of the First Republic of Haiti has the Senate and Chamber of Deputies proclaim him the Emperor of Haiti, abolishing the Republic and inaugurating the Second Empire of Haiti.
+En 1922 : Greco-Turkish War: The Turkish army takes the Aegean city of Afyonkarahisar from the Kingdom of Greece.
 <br/><br/>
-En 1833 : The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, a total of 500 people perish.
+En 1918 : Mexican Revolution: Battle of Ambos Nogales: U.S. Army forces skirmish against Mexican Carrancistas in the only battle of World War I fought on American soil.
 <br/><br/>
-En 1814 : Chilean War of Independence: Infighting between the rebel forces of José Miguel Carrera and Bernardo O'Higgins erupts in the Battle of Las Tres Acequias.
+En 1916 : World War I: The Kingdom of Romania declares war on Austria-Hungary, entering the war as one of the Allied nations.
 <br/><br/>
-En 1813 : War of the Sixth Coalition: An impromptu battle takes place when French and Prussian-Russian forces accidentally run into each other near Liegnitz, Prussia (now Legnica, Poland).
+En 1915 : Attempted assassination of Bishop Patrick Heffron, bishop of the Diocese of Winona, by Rev. Louis M. Lesches.
 <br/><br/>
-En 1810 : The former viceroy Santiago de Liniers of the Viceroyalty of the Río de la Plata is executed after the defeat of his counter-revolution.
+En 1914 : World War I: Battle of Étreux: A British rearguard action by the Royal Munster Fusiliers during the Great Retreat.
 <br/><br/>
-En 1791 : John Fitch is granted a United States patent for the steamboat.
+En 1914 : World War I: Siege of Tsingtao: A Japanese fleet commanded by Vice Admiral Sadakichi Kato imposes a blockade along the whole coastline of German Tsingtao, initiating the Siege of Tsingtao.
 <br/><br/>
-En 1789 : The Declaration of the Rights of Man and of the Citizen is approved by the National Constituent Assembly of France.
+En 1908 : The Qing dynasty promulgates the Qinding Xianfa Dagang, the first constitutional document in the history of China, transforming the Qing empire into a constitutional monarchy.
 <br/><br/>
-En 1778 : The first recorded ascent of Triglav, the highest mountain in Slovenia.
+En 1896 : Anglo-Zanzibar War: The shortest war in world history (09:02 to 09:40), between the United Kingdom and Zanzibar.
 <br/><br/>
-En 1768 : Captain James Cook sets sail from England on board HMS Endeavour.
+En 1895 : Japanese invasion of Taiwan: Battle of Baguashan: The Empire of Japan decisively defeats a smaller Formosan army at Changhua, crippling the short-lived Republic of Formosa and leading to its surrender two months later.
 <br/><br/>
-En 1767 : Jesuits all over Chile are arrested as the Spanish Empire suppresses the Society of Jesus.
+En 1893 : The Sea Islands hurricane strikes the United States near Savannah, Georgia, killing between 1,000 and 2,000 people.
 <br/><br/>
-En 1748 : The first Lutheran denomination in North America, the Pennsylvania Ministerium, is founded in Philadelphia.
+En 1883 : Eruption of Krakatoa: Four enormous explosions almost completely destroy the island of Krakatoa and cause years of climate change.
 <br/><br/>
-En 1648 : The Fronde: First Fronde: In the wake of the successful Battle of Lens, Cardinal Mazarin, Chief Minister of France, suddenly orders the arrest of the leaders of the Parlement of Paris, provoking the rest of Paris to break into insurrection and barricade the streets the next day.
+En 1881 : The Georgia hurricane makes landfall near Savannah, Georgia, resulting in an estimated 700 deaths.
 <br/><br/>
-En 1642 : Dutch–Portuguese War: Second Battle of San Salvador: The Dutch force the Spanish garrison at San Salvador (modern day Keelung, Taiwan) to surrender, ending the short-lived Spanish colony on Formosa and replacing it with a new Dutch administration.
+En 1859 : Petroleum is discovered in Titusville, Pennsylvania, leading to the world's first commercially successful oil well.
 <br/><br/>
-En 1542 : Francisco de Orellana crosses South America from Guayaquil on the Pacific coast to the mouth of the Amazon River on the Atlantic coast.
+En 1832 : Black Hawk, leader of the Sauk tribe of Native Americans, surrenders to U.S. authorities, ending the Black Hawk War.
 <br/><br/>
-En 1444 : Battle of St. Jakob an der Birs: A vastly outnumbered force of Swiss Confederates is defeated by the Dauphin Louis (future Louis XI of France) and his army of 'Armagnacs' near Basel.
+En 1828 : Brazil and Argentina recognize the sovereignty of Uruguay in the Treaty of Montevideo
 <br/><br/>
-En 1346 : At the Battle of Crécy, an English army easily defeats a French one twice its size.
+En 1813 : French Emperor Napoleon I defeats a larger force of Austrians, Russians, and Prussians at the Battle of Dresden.
 <br/><br/>
-En 1303 : Chittorgarh falls to the Delhi Sultanate.
+En 1810 : Napoleonic Wars: The French Navy defeats the British Royal Navy, preventing them from taking the harbour of Grand Port on Île de France.
 <br/><br/>
-En 1278 : Ladislaus IV of Hungary and Rudolf I of Germany defeat Ottokar II of Bohemia in the Battle on the Marchfeld near Dürnkrut in (then) Moravia.
+En 1798 : Wolfe Tone's United Irish and French forces clash with the British Army in the Battle of Castlebar, part of the Irish Rebellion of 1798, resulting in the creation of the French puppet Republic of Connacht.
 <br/><br/>
-En 1071 : The Seljuq Turks defeat the Byzantine army at the Battle of Manzikert, and soon gain control of most of Anatolia.
+En 1793 : French Revolutionary Wars: The city of Toulon revolts against the French Republic and admits the British and Spanish fleets to seize its port, leading to the Siege of Toulon by French Revolutionary forces.
 <br/><br/>
-En 683 : Yazid I's army kills 11,000 people of Medina including notable Sahabas in Battle of al-Harrah.
+En 1791 : French Revolution: Frederick William II of Prussia and Leopold II, Holy Roman Emperor, issue the Declaration of Pillnitz, declaring the joint support of the Holy Roman Empire and Prussia for the French monarchy, agitating the French revolutionaries and contributing to the outbreak of the War of the First Coalition.
+<br/><br/>
+En 1776 : American Revolutionary War: Members of the 1st Maryland Regiment repeatedly charged a numerically superior British force during the Battle of Long Island, allowing General Washington and the rest of the American troops to escape.
+<br/><br/>
+En 1689 : The Treaty of Nerchinsk is signed by Russia and the Qing Empire (Julian calendar).
+<br/><br/>
+En 1600 : Ishida Mitsunari's Western Army commences the Siege of Fushimi Castle, which is lightly defended by a much smaller Tokugawa garrison led by Torii Mototada.
+<br/><br/>
+En 1597 : Jeongyu War: Battle of Chilcheollyang: A Japanese fleet of 500 ships destroys Joseon commander Won Gyun's fleet of 200 ships at Chilcheollyang.
+<br/><br/>
+En 1593 : Pierre Barrière failed an attempt to assassinate Henry IV of France.
+<br/><br/>
+En 1557 : The Battle of St. Quentin results in Emmanuel Philibert becoming Duke of Savoy.
+<br/><br/>
+En 1232 : Shikken Hojo Yasutoki of the Kamakura shogunate promulgates the Goseibai Shikimoku, the first Japanese legal code governing the samurai class.
+<br/><br/>
+En 1172 : Henry the Young King and Margaret of France are crowned junior king and queen of England.
+<br/><br/>
+En 410 : The sacking of Rome by the Visigoths ends after three days.
 <br/><br/>
