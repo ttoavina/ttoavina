@@ -4,111 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 30/8 ?(Hover on the year)</h1>
+<h1> What happen this day 31/8 ?(Hover on the year)</h1>
 
-En 2023 : Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousted him, ending 56 years of Bongo family rule in Gabon.
+En 2019 : A sightseeing helicopter crashes in the mountains of Skoddevarre in Alta Municipality in Northern Norway killing all 6 occupants.
 <br/><br/>
-En 2021 : The last remaining American troops leave Afghanistan, ending U.S. involvement in the war.
+En 2016 : Brazil's President Dilma Rousseff is impeached and removed from office.
 <br/><br/>
-En 2014 : Prime Minister of Lesotho Tom Thabane flees to South Africa as the army allegedly stages a coup.
+En 2006 : Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
 <br/><br/>
-En 2008 : A Conviasa Boeing 737 crashes into Illiniza Volcano in Ecuador, killing all three people on board.
+En 2005 : The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.
 <br/><br/>
-En 2002 : Rico Linhas Aéreas Flight 4823 crashes on approach to Rio Branco International Airport, killing 23 of the 31 people on board.
+En 2002 : Typhoon Rusa, the most powerful typhoon to hit South Korea in 43 years, made landfall, killing at least 236 people.
 <br/><br/>
-En 1998 : Second Congo War: Armed forces of the Democratic Republic of the Congo (DRC) and their Angolan and Zimbabwean allies recapture Matadi and the Inga dams in the western DRC from RCD and Rwandan troops.
+En 1999 : The first of a series of bombings in Moscow kills one person and wounds 40 others.
 <br/><br/>
-En 1995 : Bosnian War: NATO launches Operation Deliberate Force against Bosnian Serb forces.
+En 1999 : A LAPA Boeing 737-200 crashes during takeoff from Jorge Newbury Airport in Buenos Aires, killing 65, including two on the ground.
 <br/><br/>
-En 1992 : The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.
+En 1997 : Diana, Princess of Wales, her partner, Dodi Fayed, and driver Henri Paul die in a car crash in Paris.
 <br/><br/>
-En 1991 : Dissolution of the Soviet Union: Azerbaijan declares independence from Soviet Union.
+En 1996 : Saddam Hussein's troops seized Irbil after the Kurdish Masoud Barzani appealed for help to defeat his Kurdish rival PUK.
 <br/><br/>
-En 1984 : STS-41-D: The Space Shuttle Discovery takes off on its maiden voyage.
+En 1994 : Russia completes removing its troops from Estonia.
 <br/><br/>
-En 1983 : Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.
+En 1993 : Russia completes removing its troops from Lithuania.
 <br/><br/>
-En 1983 : STS-8: The Space Shuttle Challenger takes off on the first night launch of the shuttle program. Guion Bluford becomes the first African-American in space on this mission.
+En 1991 : Kyrgyzstan declares its independence from the Soviet Union.
 <br/><br/>
-En 1981 : President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing committed by the People's Mujahedin of Iran.
+En 1988 : Delta Air Lines Flight 1141 crashes during takeoff from Dallas/Fort Worth International Airport, killing 14.
 <br/><br/>
-En 1974 : A Belgrade–Dortmund express train derails at the main train station in Zagreb killing 153 passengers.
+En 1988 : CAAC Flight 301 overshoots the runway at Kai Tak Airport and crashes into Kowloon Bay, killing seven people.
 <br/><br/>
-En 1974 : A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.
+En 1987 : Thai Airways Flight 365 crashes into the ocean near Ko Phuket, Thailand, killing all 83 aboard.
 <br/><br/>
-En 1974 : The Third World Population Conference ends in Bucharest, Romania. At the end of the ceremony, the UN-Romanian Demographic Centre is inaugurated.
+En 1986 : Aeroméxico Flight 498 collides with a Piper PA-28 Cherokee over Cerritos, California, killing 67 in the air and 15 on the ground.
 <br/><br/>
-En 1967 : Thurgood Marshall is confirmed as the first African American Justice of the Supreme Court of the United States.
+En 1986 : The Soviet passenger liner Admiral Nakhimov sinks in the Black Sea after colliding with the bulk carrier Pyotr Vasev, killing 423.
 <br/><br/>
-En 1963 : The Moscow–Washington hotline between the leaders of the U.S. and the Soviet Union goes into operation.
+En 1972 : Aeroflot Flight 558 crashes in the Abzelilovsky District in Bashkortostan, Russia (then the Soviet Union), killing all 102 people aboard.
 <br/><br/>
-En 1962 : Japan conducts a test of the NAMC YS-11, its first aircraft since World War II and its only successful commercial aircraft from before or after the war.
+En 1963 : Crown Colony of North Borneo (now Sabah) achieves self governance.
 <br/><br/>
-En 1959 : South Vietnamese opposition figure Phan Quang Dan was elected to the National Assembly despite soldiers being bussed in to vote for President Ngo Dinh Diem's candidate.
+En 1962 : Trinidad and Tobago becomes independent.
 <br/><br/>
-En 1945 : The Japanese occupation of Hong Kong comes to an end.
+En 1959 : A parcel bomb sent by Ngô Đình Nhu, younger brother and chief adviser of South Vietnamese President Ngô Đình Diệm, fails to kill King Norodom Sihanouk of Cambodia.
 <br/><br/>
-En 1945 : The Supreme Commander of the Allied Forces, General Douglas MacArthur lands at Atsugi Air Force Base.
+En 1957 : The Federation of Malaya (now Malaysia) gains its independence from the United Kingdom.
 <br/><br/>
-En 1945 : The Allied Control Council, governing Germany after World War II, comes into being.
+En 1950 : TWA Flight 903 crashes near Itay El Barud, Egypt, killing all 55 aboard.
 <br/><br/>
-En 1942 : World War II: The Battle of Alam el Halfa begins.
+En 1949 : The retreat of the Democratic Army of Greece into Albania after its defeat on Gramos mountain marks the end of the Greek Civil War.
 <br/><br/>
-En 1941 : The Tighina Agreement, a treaty regarding administration issues of the Transnistria Governorate, is signed between Germany and Romania.
+En 1943 : USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned.
 <br/><br/>
-En 1940 : The Second Vienna Award reassigns the territory of Northern Transylvania from Romania to Hungary.
+En 1941 : World War II: Serbian paramilitary forces defeat Germans in the Battle of Loznica.
 <br/><br/>
-En 1936 : The RMS Queen Mary wins the Blue Riband by setting the fastest transatlantic crossing.
+En 1940 : Pennsylvania Central Airlines Trip 19 crashes near Lovettsville, Virginia. The CAB investigation of the accident is the first investigation to be conducted under the Bureau of Air Commerce act of 1938.
 <br/><br/>
-En 1922 : Battle of Dumlupınar: The final battle in the Greco-Turkish War (Turkish War of Independence).
+En 1939 : Nazi Germany mounts a false flag attack on the Gleiwitz radio station, creating an excuse to attack Poland the following day, thus starting World War II in Europe.
 <br/><br/>
-En 1918 : Fanni Kaplan shoots and seriously injures Bolshevik leader Vladimir Lenin, which along with the assassination of Bolshevik senior official Moisei Uritsky days earlier, prompts the decree for Red Terror.
+En 1936 : Radio Prague, now the official international broadcasting station of the Czech Republic, goes on the air.
 <br/><br/>
-En 1917 : Vietnamese prison guards led by Trịnh Văn Cấn mutiny at the Thái Nguyên penitentiary against local French authority.
+En 1935 : In an attempt to stay out of the growing tensions concerning Germany and Japan, the United States passes the first of its Neutrality Acts.
 <br/><br/>
-En 1916 : Ernest Shackleton completes the rescue of all of his men stranded on Elephant Island in Antarctica.
+En 1933 : The Integral Nationalist Group wins the 1933 Andorran parliamentary election, the first election in Andorra held with universal male suffrage.
 <br/><br/>
-En 1914 : World War I: Germans defeat the Russians in the Battle of Tannenberg.
+En 1920 : Polish–Soviet War: A decisive Polish victory in the Battle of Komarów.
 <br/><br/>
-En 1909 : Burgess Shale fossils are discovered by Charles Doolittle Walcott.
+En 1918 : World War I: Start of the Battle of Mont Saint-Quentin, a successful assault by the Australian Corps during the Hundred Days Offensive.
 <br/><br/>
-En 1896 : Philippine Revolution: After Spanish victory in the Battle of San Juan del Monte, eight provinces in the Philippines are declared under martial law by the Spanish Governor-General Ramón Blanco y Erenas.
+En 1907 : Russia and the United Kingdom sign the Anglo-Russian Convention, by which the UK recognizes Russian preeminence in northern Persia, while Russia recognizes British preeminence in southeastern Persia and Afghanistan. Both powers pledge not to interfere in Tibet.
 <br/><br/>
-En 1873 : Austrian explorers Julius von Payer and Karl Weyprecht discover the archipelago of Franz Josef Land in the Arctic Sea.
+En 1895 : German Count Ferdinand von Zeppelin patents his navigable balloon.
 <br/><br/>
-En 1862 : American Civil War: Battle of Richmond: Confederates under Edmund Kirby Smith rout Union forces under General William "Bull" Nelson.
+En 1888 : Mary Ann Nichols is murdered. She is the first of Jack the Ripper's confirmed victims.
 <br/><br/>
-En 1836 : The city of Houston is founded by Augustus Chapman Allen and John Kirby Allen.
+En 1886 : The 7.0 Mw  Charleston earthquake affects southeastern South Carolina with a maximum Mercalli intensity of X (Extreme). Sixty people killed with damage estimated at $5–6 million.
 <br/><br/>
-En 1835 : Australia: Melbourne, Victoria is founded.
+En 1876 : Ottoman Sultan Murad V is deposed and succeeded by his brother, Abdul Hamid II.
 <br/><br/>
-En 1813 : First Battle of Kulm: French forces are defeated by an Austrian-Prussian-Russian alliance.
+En 1864 : During the American Civil War, Union forces led by General William T. Sherman launch an assault on Atlanta.
 <br/><br/>
-En 1813 : Creek War: Fort Mims massacre: Creek "Red Sticks" kill over 500 settlers (including over 250 armed militia) in Fort Mims, north of Mobile, Alabama.
+En 1813 : Peninsular War: Spanish troops repel a French attack in the Battle of San Marcial.
 <br/><br/>
-En 1800 : Gabriel Prosser postpones a planned slave rebellion in Richmond, Virginia, but is arrested before he can make it happen.
+En 1798 : Irish Rebellion: Irish rebels, with French assistance, establish the short-lived Republic of Connacht.
 <br/><br/>
-En 1799 : The entire Dutch fleet is captured by British forces under the command of Sir Ralph Abercromby and Admiral Sir Charles Mitchell during the War of the Second Coalition.
+En 1795 : War of the First Coalition: The British capture Trincomalee (present-day Sri Lanka) from the Dutch in order to keep it out of French hands.
 <br/><br/>
-En 1791 : HMS Pandora sinks after having run aground on the outer Great Barrier Reef the previous day.
+En 1776 : William Livingston, the first Governor of New Jersey, begins serving his first term.
 <br/><br/>
-En 1757 : Battle of Gross-Jägersdorf: Russian force under Field Marshal Stepan Fyodorovich Apraksin beats a smaller Prussian force commanded by Field Marshal Hans von Lehwaldt, during the Seven Years' War.
+En 1535 : Pope Paul III excommunicates English King Henry VIII from the church. He drew up a papal bull of excommunication which began Eius qui immobilis.
 <br/><br/>
-En 1727 : Anne, eldest daughter of King George II of Great Britain, is given the title Princess Royal.
+En 1422 : King Henry V of England dies of dysentery while in France. His son, Henry VI, becomes King of England at the age of nine months.
 <br/><br/>
-En 1721 : The Great Northern War between Sweden and Russia ends in the Treaty of Nystad.
+En 1420 : The 8.8–9.4 Caldera earthquake shakes Chile's Atacama Region causing tsunami in Chile, Hawaii, and Japan.
 <br/><br/>
-En 1594 : King James VI of Scotland holds a masque at the baptism of Prince Henry at Stirling Castle.
+En 1314 : King Haakon V of Norway moves the capital from Bergen to Oslo.
 <br/><br/>
-En 1590 : Tokugawa Ieyasu enters Edo Castle. (Traditional Japanese date: August 1, 1590)
+En 1218 : Al-Kamil becomes sultan of the Ayyubid dynasty.
 <br/><br/>
-En 1574 : Guru Ram Das becomes the Fourth Sikh Guru/Master.
+En 1057 : Abdication of Byzantine Emperor Michael VI Bringas after just one year.
 <br/><br/>
-En 1464 : Pope Paul II succeeds Pope Pius II as the 211th pope.
-<br/><br/>
-En 1363 : The five-week Battle of Lake Poyang begins, in which the forces of two Chinese rebel leaders (Chen Youliang and Zhu Yuanzhang) meet to decide who will supplant the Yuan dynasty.
-<br/><br/>
-En 1282 : Peter III of Aragon lands at Trapani to intervene in the War of the Sicilian Vespers.
-<br/><br/>
-En 70 : Titus ends the siege of Jerusalem after destroying Herod's Temple.
+En 1056 : After a sudden illness a few days previously, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty.
 <br/><br/>
