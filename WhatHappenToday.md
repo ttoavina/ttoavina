@@ -4,103 +4,119 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 2/9 ?(Hover on the year)</h1>
+<h1> What happen this day 3/9 ?(Hover on the year)</h1>
 
-En 2023 : India's first solar observation mission: The Indian Space Research Organisation (ISRO) successfully launches Aditya-L1 from Satish Dhawan space centre.
+En 2017 : North Korea conducts its sixth and most powerful nuclear test.
 <br/><br/>
-En 2019 : Hurricane Dorian, a category 5 hurricane, devastates the Bahamas, killing at least five.
+En 2016 : The U.S. and China, together responsible for 40% of the world's carbon emissions, both formally ratify the Paris global climate agreement.
 <br/><br/>
-En 2019 : Sinking of MV Conception
+En 2010 : After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.
 <br/><br/>
-En 2013 : The Eastern span replacement of the San Francisco–Oakland Bay Bridge opens at 10:15 PM at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.
+En 2004 : Beslan school siege results in over 330 fatalities, including 186 children.
 <br/><br/>
-En 2010 : Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States.
+En 2001 : In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls.
 <br/><br/>
-En 2009 : The Andhra Pradesh, India helicopter crash occurred near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities included Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
+En 1997 : Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.
 <br/><br/>
-En 2008 : Google launches its Google Chrome web browser.
+En 1989 : Cubana de Aviación Flight 9046 crashes into a residential area of Havana shortly after takeoff from José Martí International Airport, killing 150.
 <br/><br/>
-En 1998 : Swissair Flight 111 crashes near Peggy's Cove, Nova Scotia; all 229 people on board are killed.
+En 1989 : Varig Flight 254 crashes in the Amazon rainforest near São José do Xingu in Brazil, killing 12.
 <br/><br/>
-En 1998 : The UN's International Criminal Tribunal for Rwanda finds Jean-Paul Akayesu, the former mayor of a small town in Rwanda, guilty of nine counts of genocide.
+En 1987 : In a coup d'état in Burundi, President Jean-Baptiste Bagaza is deposed by Major Pierre Buyoya.
 <br/><br/>
-En 1992 : The 7.7 Mw  Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).
+En 1981 : The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.
 <br/><br/>
-En 1990 : Transnistria is unilaterally proclaimed a Soviet republic; the Soviet president Mikhail Gorbachev declares the decision null and void.
+En 1978 : During the Rhodesian Bush War a group of ZIPRA guerrillas shot down civilian Vickers Viscount aircraft (Air Rhodesia Flight 825) with a Soviet-made SAM Strela-2; of 56 passengers and crew 38 people died in crash, 10 were massacred by the guerrillas at the site.
 <br/><br/>
-En 1987 : In Moscow, the trial begins for 19-year-old pilot Mathias Rust, who flew his Cessna airplane into Red Square in May.
+En 1976 : Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars.
 <br/><br/>
-En 1985 : Sri Lankan Civil War: Sri Lankan Tamil politicians and former MPs M. Alalasundaram and V. Dharmalingam are shot dead.
+En 1971 : Qatar becomes an independent state.
 <br/><br/>
-En 1984 : Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia.
+En 1967 : Dagen H in Sweden: Traffic changes from driving on the left to driving on the right overnight.
 <br/><br/>
-En 1970 : NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15 (the designation is re-used by a later mission), and Apollo 19.
+En 1954 : The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.
 <br/><br/>
-En 1968 : Operation OAU begins during the Nigerian Civil War.
+En 1950 : "Nino" Farina becomes the first Formula One Drivers' champion after winning the 1950 Italian Grand Prix.
 <br/><br/>
-En 1963 : CBS Evening News becomes U.S. network television's first half-hour weeknight news broadcast, when the show is lengthened from 15 to 30 minutes.
+En 1945 : A three-day celebration begins in China, following the Victory over Japan Day on September 2.
 <br/><br/>
-En 1960 : The first election of the Tibetan Parliament-in-Exile. The Tibetan community observes this date as Democracy Day.
+En 1944 : Holocaust: Diarist Anne Frank and her family are placed on the last transport train from the Westerbork transit camp to the Auschwitz concentration camp, arriving three days later.
 <br/><br/>
-En 1958 : A USAF RC-130 is shot down by fighters over Armenia when it strays into Soviet airspace while conducting a sigint mission. All crew members are killed.
+En 1943 : World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days.
 <br/><br/>
-En 1957 : President Ngô Đình Diệm of South Vietnam becomes the first foreign head of state to make a state visit to Australia.
+En 1942 : World War II: In response to news of its coming liquidation, Dov Lopatyn leads an uprising in the Ghetto of Lakhva (present-day Belarus).
 <br/><br/>
-En 1946 : The Interim Government of India is formed, headed by Jawaharlal Nehru as vice president with the powers of a Prime Minister.
+En 1941 : The Holocaust: Karl Fritzsch, deputy camp commandant of the Auschwitz concentration camp, experiments with the use of Zyklon B in the gassing of Soviet POWs.
 <br/><br/>
-En 1945 : World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay.
+En 1939 : World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures.
 <br/><br/>
-En 1945 : Communist leader Ho Chi Minh proclaimed the Democratic Republic of Vietnam after the end of the Nguyễn dynasty.
+En 1939 : World War II: The United Kingdom and France begin a naval blockade of Germany that lasts until the end of the war. This also marks the beginning of the Battle of the Atlantic.
 <br/><br/>
-En 1944 : The last execution of a Finn in Finland takes place when soldier Olavi Laiho is executed by shooting in Oulu.
+En 1935 : Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the Bonneville Salt Flats in Utah, becoming the first person to drive an automobile over 300 mph.
 <br/><br/>
-En 1939 : World War II: Following the start of the invasion of Poland the previous day, the Free City of Danzig (now Gdańsk, Poland) is annexed by Nazi Germany.
+En 1933 : Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).
 <br/><br/>
-En 1935 : The Labor Day Hurricane, the most intense hurricane to strike the United States, makes landfall at Long Key, Florida, killing at least 400.
+En 1925 : USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
 <br/><br/>
-En 1923 : Kantō Massacre: Amid rumors that Koreans had been conducting acts of sabotage in the aftermath of the 1923 Great Kantō earthquake, lynch mobs of Japanese begin massacring thousands of civilians over the course of several weeks, mainly ethnic minorities such as Koreans and Chinese.
+En 1916 : World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.
 <br/><br/>
-En 1912 : Arthur Rose Eldred is awarded the first Eagle Scout award of the Boy Scouts of America.
+En 1914 : William, Prince of Albania leaves the country after just six months due to opposition to his rule.
 <br/><br/>
-En 1901 : Vice President of the United States Theodore Roosevelt utters the famous phrase, "Speak softly and carry a big stick" at the Minnesota State Fair.
+En 1914 : French composer Albéric Magnard is killed defending his estate against invading German soldiers.
 <br/><br/>
-En 1898 : Battle of Omdurman: British and Egyptian troops defeat Sudanese tribesmen and establish British dominance in Sudan.
+En 1914 : World War I: Start of the Battle of Grand Couronné, a German assault against French positions on high ground near the city of Nancy.
 <br/><br/>
-En 1885 : Rock Springs massacre: In Rock Springs, Wyoming, 150 white miners, who are struggling to unionize so they could strike for better wages and work conditions, attack their Chinese fellow workers killing 28, wounding 15 and forcing several hundred more out of town.
+En 1911 : A fire that started on Fraser's Million Dollar Pier destroys six to eight square blocks of Ocean Park, California.
 <br/><br/>
-En 1870 : Franco-Prussian War: Battle of Sedan: Prussian forces take Napoleon III of France and 100,000 of his soldiers prisoner.
+En 1895 : John Brallier becomes the first openly paid professional American football player, when he was paid US$10 by David Berry, to play for the Latrobe Athletic Association in a 12–0 win over the Jeanette Athletic Association.
 <br/><br/>
-En 1867 : Mutsuhito, Emperor Meiji of Japan, marries Masako Ichijō, thereafter known as Empress Shōken.
+En 1879 : Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire.
 <br/><br/>
-En 1864 : American Civil War: Union forces enter Atlanta, a day after the Confederate defenders flee the city, ending the Atlanta Campaign.
+En 1878 : Over 640 die when the crowded pleasure boat Princess Alice collides with the Bywell Castle in the River Thames.
 <br/><br/>
-En 1862 : American Civil War: United States President Abraham Lincoln reluctantly restores Union General George B. McClellan to full command after General John Pope's disastrous defeat at the Second Battle of Bull Run.
+En 1875 : The first official game of polo is played in Argentina after being introduced by British ranchers.
 <br/><br/>
-En 1859 : The Carrington Event is the strongest geomagnetic storm on record.
+En 1870 : Franco-Prussian War: The Siege of Metz begins, resulting in a decisive Prussian victory on October 23.
 <br/><br/>
-En 1856 : The Tianjing incident takes place in Nanjing, China.
+En 1861 : American Civil War: Confederate General Leonidas Polk invades neutral Kentucky, prompting the state legislature to ask for Union assistance.
 <br/><br/>
-En 1807 : Napoleonic Wars: The British Royal Navy bombards Copenhagen with fire bombs and phosphorus rockets to prevent Denmark from surrendering its fleet to Napoleon.
+En 1855 : American Indian Wars: In Nebraska, 700 soldiers under United States General William S. Harney avenge the Grattan massacre by attacking a Sioux village and killing 100 men, women and children.
 <br/><br/>
-En 1806 : A massive landslide destroys the town of Goldau, Switzerland, killing 457.
+En 1843 : King Otto of Greece is forced to grant a constitution following an uprising in Athens.
 <br/><br/>
-En 1792 : During what became known as the September Massacres of the French Revolution, rampaging mobs slaughter three Roman Catholic bishops, more than two hundred priests, and prisoners believed to be royalist sympathizers.
+En 1838 : Future abolitionist Frederick Douglass escapes from slavery.
 <br/><br/>
-En 1789 : The United States Department of the Treasury is founded.
+En 1812 : Twenty-four settlers are killed in the Pigeon Roost Massacre in Indiana.
 <br/><br/>
-En 1752 : Great Britain, along with its overseas possessions, adopts the Gregorian calendar.
+En 1798 : The week long battle of St. George's Caye begins between Spain and Britain off the coast of Belize.
 <br/><br/>
-En 1666 : The Great Fire of London breaks out and burns for three days, destroying 10,000 buildings, including Old St Paul's Cathedral.
+En 1783 : American Revolutionary War: The war ends with the signing of the Treaty of Paris by the United States and the Kingdom of Great Britain.
 <br/><br/>
-En 1649 : The Italian city of Castro is completely destroyed by the forces of Pope Innocent X, ending the Wars of Castro.
+En 1777 : American Revolutionary War: During the Battle of Cooch's Bridge, the Flag of the United States is flown in battle for the first time.
 <br/><br/>
-En 1561 : Entry of Mary, Queen of Scots into Edinburgh, a spectacular civic celebration for the Queen of Scotland, marred by religious controversy.
+En 1666 : The Royal Exchange burns down in the Great Fire of London.
 <br/><br/>
-En 1192 : The Treaty of Jaffa is signed between Richard I of England and Saladin, leading to the end of the Third Crusade.
+En 1658 : The death of Oliver Cromwell; Richard Cromwell becomes Lord Protector of England.
 <br/><br/>
-En -31 : Final War of the Roman Republic: Battle of Actium: Off the western coast of Greece, forces of Octavian defeat troops under Mark Antony and Cleopatra.
+En 1651 : The Battle of Worcester is the last significant action in the Wars of the Three Kingdoms.
 <br/><br/>
-En -44 : Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion.
+En 1650 : Victory over the royalists in the Battle of Dunbar opens the way to Edinburgh for the New Model Army in the Third English Civil War.
 <br/><br/>
-En -44 : Cicero launches the first of his Philippicae (oratorical attacks) on Mark Antony. He will make 14 of them over the following months.
+En 1411 : The Treaty of Selymbria is concluded between the Ottoman Empire and the Republic of Venice.
+<br/><br/>
+En 1335 : At the congress of Visegrád Charles I of Hungary mediates a reconciliation between two neighboring monarchs, John of Bohemia and Casimir III of Poland.
+<br/><br/>
+En 1260 : The Mamluks defeat the Mongols at the Battle of Ain Jalut in Palestine, marking their first decisive defeat and the point of maximum expansion of the Mongol Empire.
+<br/><br/>
+En 1189 : Richard I of England (a.k.a. Richard "the Lionheart") is crowned at Westminster.
+<br/><br/>
+En 863 : Major Byzantine victory at the Battle of Lalakaon against an Arab raid.
+<br/><br/>
+En 673 : King Wamba of the Visigoths puts down a revolt by Hilderic, governor of Nîmes (France) and rival for the throne.
+<br/><br/>
+En 590 : Consecration of Pope Gregory I (Gregory the Great).
+<br/><br/>
+En 301 : San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus.
+<br/><br/>
+En -36 : In the Battle of Naulochus, Marcus Vipsanius Agrippa, admiral of Octavian, defeats Sextus Pompey, son of Pompey, thus ending Pompeian resistance to the Second Triumvirate.
 <br/><br/>
