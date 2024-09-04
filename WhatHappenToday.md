@@ -4,119 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 3/9 ?(Hover on the year)</h1>
+<h1> What happen this day 4/9 ?(Hover on the year)</h1>
 
-En 2017 : North Korea conducts its sixth and most powerful nuclear test.
+En 2022 : Ten people are killed and 15 are injured in a stabbing spree in 13 locations on the James Smith Cree Nation and in Weldon, Saskatchewan.
 <br/><br/>
-En 2016 : The U.S. and China, together responsible for 40% of the world's carbon emissions, both formally ratify the Paris global climate agreement.
+En 2020 : Pope Benedict XVI becomes the longest-lived pope, 93 years, four months, 16 days, surpassing Pope Leo XIII, who died in 1903.
 <br/><br/>
-En 2010 : After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.
+En 2007 : Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
 <br/><br/>
-En 2004 : Beslan school siege results in over 330 fatalities, including 186 children.
+En 2002 : The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017.
 <br/><br/>
-En 2001 : In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls.
+En 2001 : Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort in Urayasu, Chiba, Japan.
 <br/><br/>
-En 1997 : Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.
+En 1998 : Google is founded by Larry Page and Sergey Brin, two students at Stanford University.
 <br/><br/>
-En 1989 : Cubana de Aviación Flight 9046 crashes into a residential area of Havana shortly after takeoff from José Martí International Airport, killing 150.
+En 1989 : In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.
 <br/><br/>
-En 1989 : Varig Flight 254 crashes in the Amazon rainforest near São José do Xingu in Brazil, killing 12.
+En 1985 : The discovery of Buckminsterfullerene, the first fullerene molecule of carbon.
 <br/><br/>
-En 1987 : In a coup d'état in Burundi, President Jean-Baptiste Bagaza is deposed by Major Pierre Buyoya.
+En 1977 : The Golden Dragon massacre takes place in San Francisco.
 <br/><br/>
-En 1981 : The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.
+En 1975 : The Sinai Interim Agreement relating to the Arab–Israeli conflict is signed.
 <br/><br/>
-En 1978 : During the Rhodesian Bush War a group of ZIPRA guerrillas shot down civilian Vickers Viscount aircraft (Air Rhodesia Flight 825) with a Soviet-made SAM Strela-2; of 56 passengers and crew 38 people died in crash, 10 were massacred by the guerrillas at the site.
+En 1972 : Mark Spitz becomes the first competitor to win seven medals at a single Olympic Games.
 <br/><br/>
-En 1976 : Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars.
+En 1972 : The Price Is Right premieres on CBS. It currently is the longest running game show on American television.
 <br/><br/>
-En 1971 : Qatar becomes an independent state.
+En 1971 : Alaska Airlines Flight 1866 crashes near Juneau, Alaska, killing all 111 people on board.
 <br/><br/>
-En 1967 : Dagen H in Sweden: Traffic changes from driving on the left to driving on the right overnight.
+En 1970 : Salvador Allende is elected President of Chile.
 <br/><br/>
-En 1954 : The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.
+En 1967 : Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.
 <br/><br/>
-En 1950 : "Nino" Farina becomes the first Formula One Drivers' champion after winning the 1950 Italian Grand Prix.
+En 1964 : Scotland's Forth Road Bridge near Edinburgh officially opens.
 <br/><br/>
-En 1945 : A three-day celebration begins in China, following the Victory over Japan Day on September 2.
+En 1963 : Swissair Flight 306 crashes near Dürrenäsch, Switzerland, killing all 80 people on board.
 <br/><br/>
-En 1944 : Holocaust: Diarist Anne Frank and her family are placed on the last transport train from the Westerbork transit camp to the Auschwitz concentration camp, arriving three days later.
+En 1957 : American Civil Rights Movement: Little Rock Crisis: The governor of Arkansas calls out the National Guard to prevent African American students from enrolling in Little Rock Central High School, resulting in the lawsuit Cooper v. Aaron the following year.
 <br/><br/>
-En 1943 : World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days.
+En 1951 : The first live transcontinental television broadcast takes place in San Francisco, United States, from the Japanese Peace Treaty Conference.
 <br/><br/>
-En 1942 : World War II: In response to news of its coming liquidation, Dov Lopatyn leads an uprising in the Ghetto of Lakhva (present-day Belarus).
+En 1950 : Darlington Raceway is the site of the inaugural Southern 500, the first 500-mile NASCAR race.
 <br/><br/>
-En 1941 : The Holocaust: Karl Fritzsch, deputy camp commandant of the Auschwitz concentration camp, experiments with the use of Zyklon B in the gassing of Soviet POWs.
+En 1949 : Paul Robeson performs a second concert concert in Peekskill, New York eight days after the Peekskill riots.
 <br/><br/>
-En 1939 : World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures.
+En 1948 : Queen Wilhelmina of the Netherlands abdicates for health reasons.
 <br/><br/>
-En 1939 : World War II: The United Kingdom and France begin a naval blockade of Germany that lasts until the end of the war. This also marks the beginning of the Battle of the Atlantic.
+En 1944 : World War II: The British 11th Armoured Division liberates the Belgian city of Antwerp.
 <br/><br/>
-En 1935 : Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the Bonneville Salt Flats in Utah, becoming the first person to drive an automobile over 300 mph.
+En 1944 : World War II: Finland exits from the war with Soviet Union.
 <br/><br/>
-En 1933 : Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).
+En 1941 : World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer.
 <br/><br/>
-En 1925 : USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
+En 1939 : World War II: William J. Murphy commands the first Royal Air Force attack on Germany.
 <br/><br/>
-En 1916 : World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.
+En 1936 : Spanish Civil War: Largo Caballero forms a war cabinet to direct the republican war effort.
 <br/><br/>
-En 1914 : William, Prince of Albania leaves the country after just six months due to opposition to his rule.
+En 1923 : Maiden flight of the first U.S. airship, the USS Shenandoah.
 <br/><br/>
-En 1914 : French composer Albéric Magnard is killed defending his estate against invading German soldiers.
+En 1919 : Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace.
 <br/><br/>
-En 1914 : World War I: Start of the Battle of Grand Couronné, a German assault against French positions on high ground near the city of Nancy.
+En 1912 : Albanian rebels succeed in their revolt when the Ottoman Empire agrees to fulfill their demands
 <br/><br/>
-En 1911 : A fire that started on Fraser's Million Dollar Pier destroys six to eight square blocks of Ocean Park, California.
+En 1888 : George Eastman registers the trademark Kodak and receives a patent for his camera that uses roll film.
 <br/><br/>
-En 1895 : John Brallier becomes the first openly paid professional American football player, when he was paid US$10 by David Berry, to play for the Latrobe Athletic Association in a 12–0 win over the Jeanette Athletic Association.
+En 1886 : American Indian Wars: After almost 30 years of fighting, Apache leader Geronimo, with his remaining warriors,  surrenders to General Nelson Miles in Arizona.
 <br/><br/>
-En 1879 : Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire.
+En 1882 : The Pearl Street Station in New York City becomes the first power plant to supply electricity to paying customers.
 <br/><br/>
-En 1878 : Over 640 die when the crowded pleasure boat Princess Alice collides with the Bywell Castle in the River Thames.
+En 1870 : Emperor Napoleon III of France is deposed and the Third Republic is declared.
 <br/><br/>
-En 1875 : The first official game of polo is played in Argentina after being introduced by British ranchers.
+En 1862 : American Civil War Maryland Campaign: General Robert E. Lee takes the Army of Northern Virginia, and the war, into the North.
 <br/><br/>
-En 1870 : Franco-Prussian War: The Siege of Metz begins, resulting in a decisive Prussian victory on October 23.
+En 1839 : Battle of Kowloon: British vessels open fire on Chinese war junks enforcing a food sales embargo on the British community in China in the first armed conflict of the First Opium War.
 <br/><br/>
-En 1861 : American Civil War: Confederate General Leonidas Polk invades neutral Kentucky, prompting the state legislature to ask for Union assistance.
+En 1827 : The Great Fire of Turku almost completely destroys Finland's former capital city.
 <br/><br/>
-En 1855 : American Indian Wars: In Nebraska, 700 soldiers under United States General William S. Harney avenge the Grattan massacre by attacking a Sioux village and killing 100 men, women and children.
+En 1812 : War of 1812: The Siege of Fort Harrison begins when the fort is set on fire.
 <br/><br/>
-En 1843 : King Otto of Greece is forced to grant a constitution following an uprising in Athens.
+En 1800 : The French garrison in Valletta surrenders to British troops who had been called at the invitation of the Maltese. The islands of Malta and Gozo become the Malta Protectorate.
 <br/><br/>
-En 1838 : Future abolitionist Frederick Douglass escapes from slavery.
+En 1797 : Coup of 18 Fructidor in France.
 <br/><br/>
-En 1812 : Twenty-four settlers are killed in the Pigeon Roost Massacre in Indiana.
+En 1781 : Los Angeles is founded as El Pueblo de Nuestra Señora La Reina de los Ángeles (The Village of Our Lady, the Queen of the Angels) by 44 Spanish settlers.
 <br/><br/>
-En 1798 : The week long battle of St. George's Caye begins between Spain and Britain off the coast of Belize.
+En 1774 : New Caledonia is first sighted by Europeans, during the second voyage of Captain James Cook.
 <br/><br/>
-En 1783 : American Revolutionary War: The war ends with the signing of the Treaty of Paris by the United States and the Kingdom of Great Britain.
+En 1666 : In London, England, the most destructive damage from the Great Fire occurs.
 <br/><br/>
-En 1777 : American Revolutionary War: During the Battle of Cooch's Bridge, the Flag of the United States is flown in battle for the first time.
+En 1607 : The Flight of the Earls takes place in Ireland.
 <br/><br/>
-En 1666 : The Royal Exchange burns down in the Great Fire of London.
+En 1479 : The Treaty of Alcáçovas is signed by the Catholic Monarchs of Castile and Aragon on one side and Afonso V and his son, Prince John of Portugal.
 <br/><br/>
-En 1658 : The death of Oliver Cromwell; Richard Cromwell becomes Lord Protector of England.
+En 1282 : Peter III of Aragon becomes the King of Sicily.
 <br/><br/>
-En 1651 : The Battle of Worcester is the last significant action in the Wars of the Three Kingdoms.
+En 1260 : The Sienese Ghibellines, supported by the forces of Manfred, King of Sicily, defeat the Florentine Guelphs at Montaperti.
 <br/><br/>
-En 1650 : Victory over the royalists in the Battle of Dunbar opens the way to Edinburgh for the New Model Army in the Third English Civil War.
+En 929 : Battle of Lenzen: Slavic forces (the Redarii and the Obotrites) are defeated by a Saxon army near the fortified stronghold of Lenzen in Brandenburg.
 <br/><br/>
-En 1411 : The Treaty of Selymbria is concluded between the Ottoman Empire and the Republic of Venice.
+En 626 : Li Shimin, posthumously known as Emperor Taizong of Tang, assumes the throne over the Tang dynasty of China.
 <br/><br/>
-En 1335 : At the congress of Visegrád Charles I of Hungary mediates a reconciliation between two neighboring monarchs, John of Bohemia and Casimir III of Poland.
-<br/><br/>
-En 1260 : The Mamluks defeat the Mongols at the Battle of Ain Jalut in Palestine, marking their first decisive defeat and the point of maximum expansion of the Mongol Empire.
-<br/><br/>
-En 1189 : Richard I of England (a.k.a. Richard "the Lionheart") is crowned at Westminster.
-<br/><br/>
-En 863 : Major Byzantine victory at the Battle of Lalakaon against an Arab raid.
-<br/><br/>
-En 673 : King Wamba of the Visigoths puts down a revolt by Hilderic, governor of Nîmes (France) and rival for the throne.
-<br/><br/>
-En 590 : Consecration of Pope Gregory I (Gregory the Great).
-<br/><br/>
-En 301 : San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus.
-<br/><br/>
-En -36 : In the Battle of Naulochus, Marcus Vipsanius Agrippa, admiral of Octavian, defeats Sextus Pompey, son of Pompey, thus ending Pompeian resistance to the Second Triumvirate.
+En 476 : Romulus Augustulus is deposed when Odoacer proclaims himself "King of Italy", thus ending the Western Roman Empire.
 <br/><br/>
