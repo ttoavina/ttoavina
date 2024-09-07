@@ -4,111 +4,147 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 6/9 ?(Hover on the year)</h1>
+<h1> What happen this day 7/9 ?(Hover on the year)</h1>
 
-En 2022 : Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.
+En 2021 : Bitcoin becomes legal tender in El Salvador.
 <br/><br/>
-En 2022 : Russo-Ukrainian War: Ukraine begins its Kharkiv counteroffensive, surprising Russian forces and retaking over 3,000 square kilometers of land, recapturing the entire Kharkiv Oblast west of the Oskil River, within the next week.
+En 2021 : The National Unity Government of Myanmar declares a people's defensive war against the military junta during the Myanmar civil war.
 <br/><br/>
-En 2018 : Supreme Court of India decriminalised all consensual sex among adults in private, making homosexuality legal on the Indian lands.
+En 2019 : Ukrainian filmmaker Oleg Sentsov and 66 others are released in a prisoner exchange between Ukraine and Russia.
 <br/><br/>
-En 2013 : Forty-one elephants are poisoned with cyanide in salt pans, by poachers in Hwange National Park.
+En 2017 : The 8.2 Mw  2017 Chiapas earthquake strikes southern Mexico, killing at least 60 people.
 <br/><br/>
-En 2012 : Sixty-one people die after a fishing boat capsizes off the İzmir Province coast of Turkey, near the Greek Aegean islands.
+En 2012 : Canada officially cuts diplomatic ties with Iran by closing its embassy in Tehran and orders the expulsion of Iranian diplomats from Ottawa, over nuclear plans and purported human rights abuses.
 <br/><br/>
-En 2009 : The ro-ro ferry SuperFerry 9 sinks off the Zamboanga Peninsula in the Philippines with 971 persons aboard; all but ten are rescued.
+En 2011 : The Lokomotiv Yaroslavl plane crash in Russia kills 43 people, including nearly the entire roster of the Lokomotiv Yaroslavl Kontinental Hockey League team.
 <br/><br/>
-En 2007 : Israel executes the air strike Operation Orchard to destroy a nuclear reactor in Syria.
+En 2010 : A Chinese fishing trawler collides with two Japanese Coast Guard patrol boats in disputed waters near the Senkaku Islands.
 <br/><br/>
-En 2003 : Mahmoud Abbas resigns from his position of Palestinian Prime Minister.
+En 2008 : The United States government takes control of the two largest mortgage financing companies in the US, Fannie Mae and Freddie Mac.
 <br/><br/>
-En 1997 : The funeral of Diana, Princess of Wales takes place in London. Well over a million people line the streets and 21⁄2 billion watch around the world on television.
+En 2005 : Egypt holds its first-ever multi-party presidential election.
 <br/><br/>
-En 1997 : Royal Brunei Airlines Flight 238 crashes in the Lambir Hills National Park while on approach to Miri Airport in Malaysia, killing 10.
+En 1999 : The 6.0 Mw  Athens earthquake affected the area with a maximum Mercalli intensity of IX (Violent), killing 143, injuring 800–1,600, and leaving 50,000 homeless.
 <br/><br/>
-En 1995 : Cal Ripken Jr. of the Baltimore Orioles plays in his 2,131st consecutive game, breaking a record that had stood for 56 years.
+En 1997 : Maiden flight of the Lockheed Martin F-22 Raptor.
 <br/><br/>
-En 1992 : A group of hunters at the Stampede trail near Healy, Alaska came across a male corpse in abandoned bus, later identified as Christopher McCandless.
+En 1995 : Space Shuttle Endeavour is launched on STS-69, the second flight of the Wake Shield Facility.
 <br/><br/>
-En 1991 : The Soviet Union recognizes the independence of the Baltic states Estonia, Latvia, and Lithuania.
+En 1986 : Desmond Tutu becomes the first black man to lead the Anglican Diocese of Cape Town.
 <br/><br/>
-En 1991 : The Russian parliament approves the name change of Leningrad back to Saint Petersburg. The change is effective October 1.
+En 1986 : Chilean dictator Augusto Pinochet survives an assassination attempt by the FPMR; 5 of Pinochet's bodyguards are killed.
 <br/><br/>
-En 1986 : In Istanbul, two terrorists from Abu Nidal's organization kill 22 and wound six congregants inside the Neve Shalom Synagogue during Shabbat services.
+En 1984 : An explosion on board a Maltese patrol boat disposing of illegal fireworks at sea off Gozo kills seven soldiers and policemen.
 <br/><br/>
-En 1985 : Midwest Express Airlines Flight 105 crashes near Milwaukee Mitchell International Airport in Milwaukee, Wisconsin, killing all 31 people on board.
+En 1979 : The Chrysler Corporation asks the United States government for US$1.5 billion to avoid bankruptcy.
 <br/><br/>
-En 1983 : The Soviet Union admits to shooting down Korean Air Lines Flight 007, stating that its operatives did not know that it was a civilian aircraft when it reportedly violated Soviet airspace.
+En 1978 : While walking across Waterloo Bridge in London, Bulgarian dissident Georgi Markov is assassinated by Bulgarian secret police agent Francesco Gullino by means of a ricin pellet fired from a specially-designed umbrella.
 <br/><br/>
-En 1976 : Cold War: Soviet Air Defence Forces pilot Viktor Belenko lands a Mikoyan-Gurevich MiG-25 jet fighter at Hakodate in Japan and requests political asylum in the United States; his request is granted.
+En 1977 : The Torrijos–Carter Treaties between Panama and the United States on the status of the Panama Canal are signed. The United States agrees to transfer control of the canal to Panama at the end of the 20th century.
 <br/><br/>
-En 1972 : Munich massacre: Nine Israeli athletes die (along with a German policeman) at the hands of the Palestinian "Black September" terrorist group after being taken hostage at the Munich Olympic Games. Two other Israeli athletes were slain in the initial attack the previous day.
+En 1977 : The 300-metre-tall CKVR-DT transmission tower in Barrie, Ontario, Canada, is hit by a light aircraft in a fog, causing it to collapse. All aboard the aircraft are killed.
 <br/><br/>
-En 1971 : Paninternational Flight 112 crashes on the Bundesautobahn 7 highway near Hamburg Airport, in Hamburg, Germany, killing 22.
+En 1970 : Fighting begins between Arab guerrillas and government forces in Jordan.
 <br/><br/>
-En 1970 : Two passenger jets bound from Europe to New York are simultaneously hijacked by Palestinian terrorist members of the PFLP and taken to Dawson's Field, Jordan.
+En 1970 : Vietnam Television was established.
 <br/><br/>
-En 1968 : Swaziland becomes independent.
+En 1965 : During an Indo-Pakistani War, China announces that it will reinforce its troops on the Indian border.
 <br/><br/>
-En 1966 : Prime Minister Hendrik Verwoerd, the architect of apartheid, is stabbed to death in Cape Town, South Africa during a parliamentary meeting.
+En 1965 : Vietnam War: In a follow-up to August's Operation Starlite, United States Marines and South Vietnamese forces initiate Operation Piranha on the Batangan Peninsula.
 <br/><br/>
-En 1965 : India retaliates following Pakistan's Operation Grand Slam which results in the Indo-Pakistani War of 1965 that ends in a stalemate followed by the signing of the Tashkent Declaration.
+En 1963 : The Pro Football Hall of Fame opens in Canton, Ohio with 17 charter members.
 <br/><br/>
-En 1962 : The United States government begins the Exercise Spade Fork nuclear readiness drill.
+En 1953 : Nikita Khrushchev is elected first secretary of the Communist Party of the Soviet Union.
 <br/><br/>
-En 1962 : Archaeologist Peter Marsden discovers the first of the Blackfriars Ships dating back to the second century AD in the Blackfriars area of the banks of the River Thames in London.
+En 1945 : World War II: Japanese forces on Wake Island, which they had held since December 1941, surrender to U.S. Marines.
 <br/><br/>
-En 1955 : Istanbul's Greek, Jewish, and Armenian minorities are the target of a government-sponsored pogrom; dozens are killed in ensuing riots.
+En 1945 : The Berlin Victory Parade of 1945 is held.
 <br/><br/>
-En 1952 : A prototype aircraft crashes at the Farnborough Airshow in Hampshire, England, killing 29 spectators and the two on board.
+En 1943 : A fire at the Gulf Hotel in Houston kills 55 people.
 <br/><br/>
-En 1946 : United States Secretary of State James F. Byrnes announces that the U.S. will follow a policy of economic reconstruction in postwar Germany.
+En 1943 : World War II: The German 17th Army begins its evacuation of the Kuban bridgehead (Taman Peninsula) in southern Russia and moves across the Strait of Kerch to the Crimea.
 <br/><br/>
-En 1944 : World War II: The city of Ypres, Belgium is liberated by Allied forces.
+En 1942 : World War II: Japanese marines are forced to withdraw during the Battle of Milne Bay.
 <br/><br/>
-En 1944 : World War II: Soviet forces capture the city of Tartu, Estonia.
+En 1940 : Romania returns Southern Dobruja to Bulgaria under the Treaty of Craiova.
 <br/><br/>
-En 1943 : The Monterrey Institute of Technology is founded in Monterrey, Mexico as one of the largest and most influential private universities in Latin America.
+En 1940 : World War II: The German Luftwaffe begins the Blitz, bombing London and other British cities for over 50 consecutive nights.
 <br/><br/>
-En 1943 : Pennsylvania Railroad's premier train derails at Frankford Junction in Philadelphia, killing 79 people and injuring 117 others.
+En 1936 : The last thylacine, a carnivorous marsupial named Benjamin, dies alone in its cage at the Hobart Zoo in Tasmania.
 <br/><br/>
-En 1940 : King Carol II of Romania abdicates and is succeeded by his son Michael. General Ion Antonescu becomes the Conducător of Romania.
+En 1932 : The Battle of Boquerón, the first major battle of the Chaco War, commences.
 <br/><br/>
-En 1939 : World War II: The British Royal Air Force suffers its first fighter pilot casualty of the Second World War at the Battle of Barking Creek as a result of friendly fire.
+En 1929 : Steamer Kuru capsizes and sinks on Lake Näsijärvi near Tampere in Finland. One hundred thirty-six lives are lost.
 <br/><br/>
-En 1939 : World War II: Union of South Africa declares war on Germany.
+En 1927 : The first fully electronic television system is achieved by Philo Farnsworth.
 <br/><br/>
-En 1936 : Spanish Civil War: The Interprovincial Council of Asturias and León is established.
+En 1923 : The International Criminal Police Organization (INTERPOL) is formed.
 <br/><br/>
-En 1930 : Democratically elected Argentine president Hipólito Yrigoyen is deposed in a military coup.
+En 1921 : In Atlantic City, New Jersey, the first Miss America Pageant, a two-day event, is held.
 <br/><br/>
-En 1915 : World War I: The first tank prototype, developed by William Foster & Co. for the British army, was completed and given its first test drive.
+En 1921 : The Legion of Mary, the largest apostolic organization of lay people in the Catholic Church, is founded in Dublin, Ireland.
 <br/><br/>
-En 1914 : World War I: The First Battle of the Marne, which would halt the Imperial German Army's advance into France, begins.
+En 1920 : Two newly purchased Savoia flying boats crash in the Swiss Alps en route to Finland where they were to serve with the Finnish Air Force, killing both crews.
 <br/><br/>
-En 1901 : Leon Czolgosz, an unemployed anarchist, shoots and fatally wounds US President William McKinley at the Pan-American Exposition in Buffalo, New York.
+En 1916 : US federal employees win the right to Workers' compensation by Federal Employers Liability Act (39 Stat. 742; 5 U.S.C. 751)
 <br/><br/>
-En 1885 : Eastern Rumelia declares its union with Bulgaria, thus accomplishing Bulgarian unification.
+En 1911 : French poet Guillaume Apollinaire is arrested and put in jail on suspicion of stealing the Mona Lisa from the Louvre museum.
 <br/><br/>
-En 1870 : Louisa Ann Swain of Laramie, Wyoming becomes the first woman in the United States to cast a vote legally after 1807.
+En 1909 : Eugène Lefebvre crashes a new French-built Wright biplane during a test flight at Juvisy, south of Paris, becoming the first aviator in the world to lose his life piloting a powered heavier-than-air craft.
 <br/><br/>
-En 1863 : American Civil War: Confederate forces evacuate Battery Wagner and Morris Island in South Carolina.
+En 1907 : Cunard Line's RMS Lusitania sets sail on her maiden voyage from Liverpool, England, to New York City.
 <br/><br/>
-En 1861 : American Civil War: Forces under Union General Ulysses S. Grant bloodlessly capture Paducah, Kentucky, giving the Union control of the Tennessee River's mouth.
+En 1906 : Alberto Santos-Dumont flies his 14-bis aircraft at Bagatelle, France successfully for the first time.
 <br/><br/>
-En 1803 : British scientist John Dalton begins using symbols to represent the atoms of different elements.
+En 1903 : The Ottoman Empire launches a counter-offensive against the Strandzha Commune, which dissolves.
 <br/><br/>
-En 1781 : American Revolutionary War: The Battle of Groton Heights takes place, resulting in a British victory.
+En 1901 : The Boxer Rebellion in Qing dynasty (modern-day China) officially ends with the signing of the Boxer Protocol.
 <br/><br/>
-En 1634 : Thirty Years' War: In the Battle of Nördlingen, the Catholic Imperial army defeats Swedish and German Protestant forces.
+En 1876 : In Northfield, Minnesota, Jesse James and the James–Younger Gang attempt to rob the town's bank but are driven off by armed citizens.
 <br/><br/>
-En 1628 : Puritans settle Salem, which became part of Massachusetts Bay Colony.
+En 1864 : American Civil War: Atlanta is evacuated on orders of Union General William Tecumseh Sherman.
 <br/><br/>
-En 1620 : The Pilgrims sail from Plymouth, England on the Mayflower to settle in North America. (Old Style date; September 16 per New Style date.)
+En 1863 : American Civil War: Union troops under Quincy A. Gillmore capture Fort Wagner in Morris Island after a seven-week siege.
 <br/><br/>
-En 1522 : The Victoria returns to Sanlúcar de Barrameda in Spain, the only surviving ship of Ferdinand Magellan's expedition and the first known ship to circumnavigate the world.
+En 1860 : Unification of Italy: Giuseppe Garibaldi enters Naples.
 <br/><br/>
-En 1492 : Christopher Columbus sails from La Gomera in the Canary Islands, his final port of call before crossing the Atlantic Ocean for the first time.
+En 1857 : Mountain Meadows massacre: Mormon settlers slaughter most members of peaceful, emigrant wagon train.
 <br/><br/>
-En 394 : Battle of the Frigidus: Roman emperor Theodosius I defeats and kills Eugenius the usurper. His Frankish magister militum Arbogast escapes but commits suicide two days later.
+En 1856 : The Saimaa Canal is inaugurated.
+<br/><br/>
+En 1822 : Dom Pedro I declares Brazil independent from Portugal on the shores of the Ipiranga Brook in São Paulo.
+<br/><br/>
+En 1818 : Carl III of Sweden–Norway is crowned king of Norway, in Trondheim.
+<br/><br/>
+En 1812 : French invasion of Russia: The Battle of Borodino, the bloodiest battle of the Napoleonic Wars, is fought near Moscow and results in a French victory.
+<br/><br/>
+En 1778 : American Revolutionary War: France invades Dominica in the British West Indies, before Britain is even aware of France's involvement in the war.
+<br/><br/>
+En 1776 : According to American colonial reports, Ezra Lee makes the world's first submarine attack in the Turtle, attempting to attach a time bomb to the hull of HMS Eagle in New York Harbor (no British records of this attack exist).
+<br/><br/>
+En 1764 : Election of Stanisław August Poniatowski as the last ruler of the Polish–Lithuanian Commonwealth.
+<br/><br/>
+En 1706 : War of the Spanish Succession: Siege of Turin ends, leading to the withdrawal of French forces from North Italy.
+<br/><br/>
+En 1695 : Henry Every perpetrates one of the most profitable pirate raids in history with the capture of the Grand Mughal ship Ganj-i-Sawai. In response, Emperor Aurangzeb threatens to end all English trading in India.
+<br/><br/>
+En 1652 : Around 15,000 Han farmers and militia rebel against Dutch rule on Taiwan.
+<br/><br/>
+En 1630 : The city of Boston, Massachusetts, is founded in North America.
+<br/><br/>
+En 1620 : The town of Kokkola (Swedish: Karleby) is founded by King Gustavus Adolphus of Sweden.
+<br/><br/>
+En 1571 : Thomas Howard, 4th Duke of Norfolk, is arrested for his role in the Ridolfi plot to assassinate Queen Elizabeth I of England and replace her with Mary, Queen of Scots.
+<br/><br/>
+En 1303 : Guillaume de Nogaret takes Pope Boniface VIII prisoner on behalf of Philip IV of France.
+<br/><br/>
+En 1228 : Holy Roman Emperor Frederick II lands in Acre, Israel, and starts the Sixth Crusade, which results in a peaceful restoration of the Kingdom of Jerusalem.
+<br/><br/>
+En 1191 : Third Crusade: Battle of Arsuf: Richard I of England defeats Saladin at Arsuf.
+<br/><br/>
+En 1159 : Pope Alexander III is chosen.
+<br/><br/>
+En 878 : Louis the Stammerer is crowned as king of West Francia by Pope John VIII.
+<br/><br/>
+En 70 : A Roman army under Titus occupies and plunders Jerusalem.
 <br/><br/>
