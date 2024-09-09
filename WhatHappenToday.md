@@ -4,161 +4,127 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 8/9 ?(Hover on the year)</h1>
+<h1> What happen this day 9/9 ?(Hover on the year)</h1>
 
-En 2023 : A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.
+En 2016 : The government of North Korea conducts its fifth and reportedly biggest nuclear test. World leaders condemn the act, with South Korea calling it "maniacal recklessness".
 <br/><br/>
-En 2022 : Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.
+En 2015 : Elizabeth II becomes the longest reigning monarch of the United Kingdom.
 <br/><br/>
-En 2017 : Syrian civil war: The Syrian Democratic Forces (SDF) announce the beginning of the Deir ez-Zor campaign, with the stated aim of eliminating the Islamic State (IS) from all areas north and east of the Euphrates.
+En 2012 : The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PSLV launches.
 <br/><br/>
-En 2016 : NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe will visit 101955 Bennu and is expected to return with samples in 2023.
+En 2012 : A wave of attacks kills more than 100 people and injure 350 others across Iraq.
 <br/><br/>
-En 2005 : Two Ilyushin Il-76 aircraft from EMERCOM land at a disaster aid staging area at Little Rock Air Force Base; the first time Russia has flown such a mission to North America.
+En 2009 : The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.
 <br/><br/>
-En 2004 : NASA's uncrewed spacecraft Genesis crash-lands when its parachute fails to open.
+En 2006 : Space Shuttle Program: Space Shuttle Atlantis is launched on STS-115 to resume assembling the International Space Station. It is the first ISS assembly mission after the Columbia disaster back in 2003.
 <br/><br/>
-En 2000 : NASA launches Space Shuttle Atlantis on STS-106 to resupply the International Space Station.
+En 2001 : Ahmad Shah Massoud, leader of the Northern Alliance, is assassinated in Afghanistan by two al-Qaeda assassins who claimed to be Arab journalists wanting an interview.
 <br/><br/>
-En 1994 : USAir Flight 427, on approach to Pittsburgh International Airport, suddenly crashes in clear weather killing all 132 aboard, resulting in the most extensive aviation investigation in world history and altering manufacturing practices in the industry.
+En 1994 : Space Shuttle program: Space Shuttle Discovery is launched on STS-64.
 <br/><br/>
-En 1989 : Partnair Flight 394 dives into the North Sea, killing 55 people. The investigation showed that the tail of the plane vibrated loose in flight due to sub-standard connecting bolts that had been fraudulently sold as aircraft-grade.
+En 1993 : Israeli–Palestinian peace process: The Palestine Liberation Organization officially recognizes Israel as a legitimate state.
 <br/><br/>
-En 1988 : Yellowstone National Park is closed for the first time in U.S. history due to ongoing fires.
+En 1991 : Tajikistan declares independence from the Soviet Union.
 <br/><br/>
-En 1986 : Nicholas Daniloff, a correspondent for U.S. News & World Report, is indicted on charges of espionage by the Soviet Union.
+En 1990 : Batticaloa massacre: Massacre of 184 Tamil civilians by the Sri Lankan Army in Batticaloa District.
 <br/><br/>
-En 1978 : Black Friday, a massacre by soldiers against protesters in Tehran, results in 88 deaths, it marks the beginning of the end of the monarchy in Iran.
+En 1988 : Vietnam Airlines Flight 831 crashes in Khu Khot, Thailand, while on approach to Don Muang International Airport, killing 76.
 <br/><br/>
-En 1975 : Gays in the military: US Air Force Tech Sergeant Leonard Matlovich, a decorated veteran of the Vietnam War, appears in his Air Force uniform on the cover of Time magazine with the headline "I Am A Homosexual". He is given a general discharge, later upgraded to honorable.
+En 1976 : Two Aeroflot flights collide in mid-air over Anapa, killing 70.
 <br/><br/>
-En 1974 : Watergate scandal: US President Gerald Ford signs the pardon of Richard Nixon for any crimes Nixon may have committed while in office.
+En 1972 : In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world.
 <br/><br/>
-En 1973 : World Airways Flight 802 crashes into Mount Dutton in King Cove, Alaska, killing six people.
+En 1971 : The four-day Attica Prison riot begins, eventually resulting in 39 dead, most killed by state troopers retaking the prison.
 <br/><br/>
-En 1971 : In Washington, D.C., the John F. Kennedy Center for the Performing Arts is inaugurated, with the opening feature being the premiere of Leonard Bernstein's Mass.
+En 1970 : A British airliner is hijacked by the Popular Front for the Liberation of Palestine and flown to Dawson's Field in Jordan.
 <br/><br/>
-En 1970 : Trans International Airlines Flight 863 crashes during takeoff from John F. Kennedy International Airport in New York City, killing all 11 aboard.
+En 1969 : In Canada, the Official Languages Act comes into force, making French equal to English throughout the Federal government.
 <br/><br/>
-En 1966 : The landmark American science fiction television series Star Trek premieres with its first-aired episode, "The Man Trap".
+En 1969 : Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft.
 <br/><br/>
-En 1962 : Last run of the famous Pines Express over the Somerset and Dorset Railway line (UK) fittingly using the last steam locomotive built by British Railways, BR Standard Class 9F 92220 Evening Star.
+En 1966 : The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson.
 <br/><br/>
-En 1960 : In Huntsville, Alabama, US President Dwight D. Eisenhower formally dedicates the Marshall Space Flight Center (NASA had already activated the facility on July 1).
+En 1965 : The United States Department of Housing and Urban Development is established.
 <br/><br/>
-En 1954 : The Southeast Asia Treaty Organization (SEATO) is established.
+En 1965 : Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10–12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage.
 <br/><br/>
-En 1952 : The Canadian Broadcasting Corporation makes its first televised broadcast on the second escape of the Boyd Gang.
+En 1956 : Elvis Presley appears on The Ed Sullivan Show for the first time.
 <br/><br/>
-En 1946 : A referendum abolishes the monarchy in Bulgaria.
+En 1954 : The 6.7 Mw  Chlef earthquake shakes northern Algeria with a maximum Mercalli intensity of XI (Extreme). At least 1,243 people were killed and 5,000 were injured.
 <br/><br/>
-En 1945 : The division of Korea begins when United States troops arrive to partition the southern part of Korea in response to Soviet troops occupying the northern part of the peninsula a month earlier.
+En 1948 : Kim Il Sung declares the establishment of the Democratic People's Republic of Korea (North Korea).
 <br/><br/>
-En 1944 : World War II: London is hit by a V-2 rocket for the first time.
+En 1947 : First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.
 <br/><br/>
-En 1943 : World War II: The Armistice of Cassibile is proclaimed by radio. OB Süd immediately implements plans to disarm the Italian forces.
+En 1945 : Second Sino-Japanese War: The Empire of Japan formally surrenders to China.
 <br/><br/>
-En 1941 : World War II: German forces begin the Siege of Leningrad.
+En 1944 : World War II: The Fatherland Front takes power in Bulgaria through a military coup in the capital and armed rebellion in the country. A new pro-Soviet government is established.
 <br/><br/>
-En 1935 : US Senator from Louisiana Huey Long is fatally shot in the Louisiana State Capitol building.
+En 1943 : World War II: The Allies land at Salerno and Taranto, Italy.
 <br/><br/>
-En 1934 : Off the New Jersey coast, a fire aboard the passenger liner SS Morro Castle kills 137 people.
+En 1942 : World War II: A Japanese floatplane drops incendiary bombs on Oregon.
 <br/><br/>
-En 1933 : Ghazi bin Faisal became King of Iraq.
+En 1940 : George Stibitz pioneers the first remote operation of a computer.
 <br/><br/>
-En 1926 : Germany is admitted to the League of Nations.
+En 1940 : Treznea Massacre in Transylvania.
 <br/><br/>
-En 1925 : Rif War: Spanish forces including troops from the Foreign Legion under Colonel Francisco Franco landing at Al Hoceima, Morocco.
+En 1939 : World War II: The Battle of Hel begins, the longest-defended pocket of Polish Army resistance during the German invasion of Poland.
 <br/><br/>
-En 1923 : Honda Point disaster: Nine US Navy destroyers run aground off the California coast. Seven are lost, and twenty-three sailors killed.
+En 1939 : Burmese national hero U Ottama dies in prison after a hunger strike to protest Britain's colonial government.
 <br/><br/>
-En 1921 : Margaret Gorman, a 16-year-old, wins the Atlantic City Pageant's Golden Mermaid trophy; pageant officials later dubbed her the first Miss America.
+En 1936 : The crews of Portuguese Navy frigate NRP Afonso de Albuquerque and destroyer Dão mutinied against the Salazar dictatorship's support of General Franco's coup and declared their solidarity with the Spanish Republic.
 <br/><br/>
-En 1916 : In a bid to prove that women were capable of serving as military dispatch riders, Augusta and Adeline Van Buren arrive in Los Angeles, completing a 60-day, 5,500 mile cross-country trip on motorcycles.
+En 1924 : Hanapepe massacre occurs on Kauai, Hawaii.
 <br/><br/>
-En 1914 : World War I: Private Thomas Highgate becomes the first British soldier to be executed for desertion during the war.
+En 1923 : Mustafa Kemal Atatürk, the founder of the Republic of Turkey, founds the Republican People's Party.
 <br/><br/>
-En 1905 : The 7.2 Mw  Calabria earthquake shakes southern Italy with a maximum Mercalli intensity of XI (Extreme), killing between 557 and 2,500 people.
+En 1922 : The Greco-Turkish War effectively ends with Turkish victory over the Greeks in Smyrna.
 <br/><br/>
-En 1900 : Galveston hurricane: A powerful hurricane hits Galveston, Texas killing about 8,000 people.
+En 1914 : World War I: The creation of the Canadian Automobile Machine Gun Brigade, the first fully mechanized unit in the British Army.
 <br/><br/>
-En 1898 : Seven hundred Greek civilians, 17 British guards and the British Consul of Crete are killed by a Turkish mob.
+En 1892 : Amalthea becomes the last moon to be discovered without the use of photography.
 <br/><br/>
-En 1892 : The Pledge of Allegiance is first recited.
+En 1863 : American Civil War: The Union Army enters Chattanooga, Tennessee.
 <br/><br/>
-En 1888 : Isaac Peral's submarine is first tested.
+En 1855 : Crimean War: The Siege of Sevastopol comes to an end when Russian forces abandon the city.
 <br/><br/>
-En 1888 : The Great Herding (Spanish: El Gran Arreo) begins with thousands of sheep being herded from the Argentine outpost of Fortín Conesa to Santa Cruz near the Strait of Magellan.
+En 1850 : The Compromise of 1850 transfers a third of Texas's claimed territory to federal control in return for the U.S. federal government assuming $10 million of Texas's pre-annexation debt.
 <br/><br/>
-En 1888 : In London, the body of Jack the Ripper's second murder victim, Annie Chapman, is found.
+En 1850 : California is admitted as the thirty-first U.S. state.
 <br/><br/>
-En 1888 : In England, the first six Football League matches are played.
+En 1845 : Possible start of the Great Famine of Ireland.
 <br/><br/>
-En 1883 : The Northern Pacific Railway (reporting mark NP) was completed in a ceremony at Gold Creek, Montana. Former president Ulysses S. Grant drove in the final "golden spike" in an event attended by rail and political luminaries.
+En 1839 : John Herschel takes the first glass plate photograph.
 <br/><br/>
-En 1863 : American Civil War: In the Second Battle of Sabine Pass, a small Confederate force thwarts a Union invasion of Texas.
+En 1801 : Alexander I of Russia confirms the privileges of Baltic provinces.
 <br/><br/>
-En 1862 : Millennium of Russia monument is unveiled in Novgorod.
+En 1791 : Washington, D.C., the capital of the United States, is named after President George Washington.
 <br/><br/>
-En 1860 : The steamship PS Lady Elgin sinks on Lake Michigan, with the loss of around 300 lives.
+En 1776 : The Continental Congress officially names its union of states the United States.
 <br/><br/>
-En 1855 : Crimean War: The French assault the tower of Malakoff, leading to the capture of Sevastopol.
+En 1739 : Stono Rebellion, the largest slave uprising in Britain's mainland North American colonies prior to the American Revolution, erupts near Charleston, South Carolina.
 <br/><br/>
-En 1831 : William IV and Adelaide of Saxe-Meiningen are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
+En 1588 : Thomas Cavendish in his ship Desire enters Plymouth and completes the first deliberately planned voyage of circumnavigation.
 <br/><br/>
-En 1831 : November uprising: The Battle of Warsaw effectively ends the Polish insurrection.
+En 1561 : The ultimately unsuccessful Colloquy of Poissy opens in an effort to reconcile French Catholics and Protestants.
 <br/><br/>
-En 1819 : 1819 Balloon riot occurred at Vauxhall Garden in Philadelphia, PA and resulted in the destruction of the amusement park.
+En 1543 : Mary Stuart, at nine months old, is crowned "Queen of Scots" in the central Scottish town of Stirling.
 <br/><br/>
-En 1813 : At the final stage of the Peninsular War, British-Portuguese troops capture the town of Donostia (now San Sebastián), resulting in a rampage and eventual destruction of the town.
+En 1513 : James IV of Scotland is defeated and dies in the Battle of Flodden, ending Scotland's involvement in the War of the League of Cambrai.
 <br/><br/>
-En 1810 : The Tonquin sets sail from New York Harbor with 33 employees of John Jacob Astor's newly created Pacific Fur Company on board.
+En 1499 : The citizens of Lisbon celebrate the triumphal return of the explorer Vasco de Gama, completing his two-year journey around the Cape of Good Hope to India.
 <br/><br/>
-En 1796 : French Revolutionary Wars: Battle of Bassano: French forces defeat Austrian troops at Bassano del Grappa.
+En 1493 : Battle of Krbava Field, a decisive defeat of Croats in Croatian struggle against the invasion by the Ottoman Empire.
 <br/><br/>
-En 1793 : French Revolutionary Wars: Battle of Hondschoote.
+En 1493 : Christopher Columbus, with 17 ships and 1,200 men, sails on second voyage from Cadiz.
 <br/><br/>
-En 1781 : American Revolutionary War: The Battle of Eutaw Springs in South Carolina, the war's last significant battle in the Southern theater, ends in a narrow British tactical victory.
+En 1488 : Anne becomes sovereign Duchess of Brittany, becoming a central figure in the struggle for influence that leads to the union of Brittany and France.
 <br/><br/>
-En 1775 : The unsuccessful Rising of the Priests in Malta.
+En 1320 : In the Battle of Saint George, the Byzantines under Andronikos Asen ambush and defeat the forces of the Principality of Achaea, securing possession of Arcadia.
 <br/><br/>
-En 1761 : Marriage of King George III of the United Kingdom to Duchess Charlotte of Mecklenburg-Strelitz.
+En 1141 : Yelü Dashi, the Liao dynasty general who founded the Qara Khitai, defeats the Seljuq and Kara-Khanid forces at the Battle of Qatwan.
 <br/><br/>
-En 1760 : French and Indian War: French surrender Montreal to the British, completing the latter's conquest of New France.
+En 1000 : Battle of Svolder, Viking Age.
 <br/><br/>
-En 1756 : French and Indian War: Kittanning Expedition.
-<br/><br/>
-En 1755 : French and Indian War: Battle of Lake George.
-<br/><br/>
-En 1727 : A barn fire during a puppet show in the village of Burwell in Cambridgeshire, England kills 78 people, many of whom are children.
-<br/><br/>
-En 1655 : Warsaw falls without resistance to a small force under the command of Charles X Gustav of Sweden during The Deluge, making it the first time the city is captured by a foreign army.
-<br/><br/>
-En 1565 : St. Augustine, Florida is founded by Spanish admiral and Florida's first governor, Pedro Menéndez de Avilés.
-<br/><br/>
-En 1522 : Magellan–Elcano circumnavigation: Victoria arrives at Seville, completing the first circumnavigation.
-<br/><br/>
-En 1514 : Battle of Orsha: In one of the biggest battles of the century, Lithuanians and Poles defeat the Russian army.
-<br/><br/>
-En 1504 : Michelangelo's David is unveiled in Piazza della Signoria in Florence.
-<br/><br/>
-En 1380 : Battle of Kulikovo: Russian forces defeat a mixed army of Tatars and Mongols, stopping their advance.
-<br/><br/>
-En 1334 : The Battle of Adramyttion begins in which a Christian naval league defeats a Turkish fleet in several encounters.
-<br/><br/>
-En 1331 : Stefan Dušan declares himself king of Serbia.
-<br/><br/>
-En 1276 : Pope John XXI is elected Pope.
-<br/><br/>
-En 1264 : The Statute of Kalisz, guaranteeing Jews safety and personal liberties and giving battei din jurisdiction over Jewish matters, is promulgated by Bolesław the Pious, Duke of Greater Poland.
-<br/><br/>
-En 1253 : Pope Innocent IV canonises Stanislaus of Szczepanów, killed by King Bolesław II.
-<br/><br/>
-En 1198 : Philip of Swabia, Prince of Hohenstaufen, is crowned King of Germany (King of the Romans)
-<br/><br/>
-En 1100 : Election of Antipope Theodoric.
-<br/><br/>
-En 617 : Battle of Huoyi: Li Yuan defeats a Sui dynasty army, opening the path to his capture of the imperial capital Chang'an and the eventual establishment of the Tang dynasty.
-<br/><br/>
-En 70 : After the capture of Herod's Palace the previous day, a Roman army under Titus secures and plunders the city of Jerusalem.
+En 337 : Constantine II, Constantius II, and Constans succeed their father Constantine I as co-emperors. The Roman Empire is divided between the three Augusti.
 <br/><br/>
