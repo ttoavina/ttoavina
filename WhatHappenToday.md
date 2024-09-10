@@ -4,127 +4,91 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 9/9 ?(Hover on the year)</h1>
+<h1> What happen this day 10/9 ?(Hover on the year)</h1>
 
-En 2016 : The government of North Korea conducts its fifth and reportedly biggest nuclear test. World leaders condemn the act, with South Korea calling it "maniacal recklessness".
+En 2022 : Death of Queen Elizabeth II: King Charles III is formally proclaimed as monarch at a meeting of the Accession Council in St James's Palace.
 <br/><br/>
-En 2015 : Elizabeth II becomes the longest reigning monarch of the United Kingdom.
+En 2017 : Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4, after causing catastrophic damage throughout the Caribbean. Irma resulted in 134 deaths and $64.76 billion (2017 USD) in damage.
 <br/><br/>
-En 2012 : The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PSLV launches.
+En 2008 : The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
 <br/><br/>
-En 2012 : A wave of attacks kills more than 100 people and injure 350 others across Iraq.
+En 2007 : Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.
 <br/><br/>
-En 2009 : The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.
+En 2002 : Switzerland, traditionally a neutral country, becomes a full member of the United Nations.
 <br/><br/>
-En 2006 : Space Shuttle Program: Space Shuttle Atlantis is launched on STS-115 to resume assembling the International Space Station. It is the first ISS assembly mission after the Columbia disaster back in 2003.
+En 2001 : Antônio da Costa Santos, mayor of Campinas, Brazil is assassinated.
 <br/><br/>
-En 2001 : Ahmad Shah Massoud, leader of the Northern Alliance, is assassinated in Afghanistan by two al-Qaeda assassins who claimed to be Arab journalists wanting an interview.
+En 2001 : During his appearance on the British TV game show Who Wants to be a Millionaire?, contestant Charles Ingram reaches the £1 million top prize, but it was later revealed that he had cheated to the top prize by listening to coughs from his wife and another contestant.
 <br/><br/>
-En 1994 : Space Shuttle program: Space Shuttle Discovery is launched on STS-64.
+En 2000 : Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.
 <br/><br/>
-En 1993 : Israeli–Palestinian peace process: The Palestine Liberation Organization officially recognizes Israel as a legitimate state.
+En 1977 : Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.
 <br/><br/>
-En 1991 : Tajikistan declares independence from the Soviet Union.
+En 1976 : A British Airways Hawker Siddeley Trident and an Inex-Adria DC-9 collide near Zagreb, Yugoslavia, killing 176.
 <br/><br/>
-En 1990 : Batticaloa massacre: Massacre of 184 Tamil civilians by the Sri Lankan Army in Batticaloa District.
+En 1974 : Guinea-Bissau gains independence from Portugal.
 <br/><br/>
-En 1988 : Vietnam Airlines Flight 831 crashes in Khu Khot, Thailand, while on approach to Don Muang International Airport, killing 76.
+En 1967 : The people of Gibraltar vote to remain a British dependency rather than becoming part of Spain.
 <br/><br/>
-En 1976 : Two Aeroflot flights collide in mid-air over Anapa, killing 70.
+En 1961 : In the Italian Grand Prix, a crash causes the death of German Formula One driver Wolfgang von Trips and 15 spectators who are hit by his Ferrari, the deadliest accident in F1 history.
 <br/><br/>
-En 1972 : In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world.
+En 1960 : At the Summer Olympics in Rome, Abebe Bikila becomes the first sub-Saharan African to win a gold medal, winning the marathon in bare feet.
 <br/><br/>
-En 1971 : The four-day Attica Prison riot begins, eventually resulting in 39 dead, most killed by state troopers retaking the prison.
+En 1943 : World War II: In the course of Operation Achse, German troops begin their occupation of Rome.
 <br/><br/>
-En 1970 : A British airliner is hijacked by the Popular Front for the Liberation of Palestine and flown to Dawson's Field in Jordan.
+En 1942 : World War II: The British Army carries out an amphibious landing on Madagascar to re-launch Allied offensive operations in the Madagascar Campaign.
 <br/><br/>
-En 1969 : In Canada, the Official Languages Act comes into force, making French equal to English throughout the Federal government.
+En 1939 : World War II: The submarine HMS Oxley is mistakenly sunk by the submarine HMS Triton near Norway and becomes the Royal Navy's first loss of a submarine in the war.
 <br/><br/>
-En 1969 : Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft.
+En 1939 : World War II: The Canadian declaration of war on Germany receives royal assent.
 <br/><br/>
-En 1966 : The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson.
+En 1937 : Nine nations attend the Nyon Conference to address international piracy in the Mediterranean Sea.
 <br/><br/>
-En 1965 : The United States Department of Housing and Urban Development is established.
+En 1936 : First World Individual Motorcycle Speedway Championship, Held at London's (England) Wembley Stadium
 <br/><br/>
-En 1965 : Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10–12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage.
+En 1932 : The New York City Subway's third competing subway system, the municipally-owned IND, is opened.
 <br/><br/>
-En 1956 : Elvis Presley appears on The Ed Sullivan Show for the first time.
+En 1919 : The Republic of German-Austria signs the Treaty of Saint-Germain-en-Laye, ceding significant territories to Italy, Yugoslavia, and Czechoslovakia.
 <br/><br/>
-En 1954 : The 6.7 Mw  Chlef earthquake shakes northern Algeria with a maximum Mercalli intensity of XI (Extreme). At least 1,243 people were killed and 5,000 were injured.
+En 1918 : Russian Civil War: The Red Army captures Kazan.
 <br/><br/>
-En 1948 : Kim Il Sung declares the establishment of the Democratic People's Republic of Korea (North Korea).
+En 1898 : Empress Elisabeth of Austria is assassinated by Luigi Lucheni.
 <br/><br/>
-En 1947 : First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.
+En 1897 : Lattimer massacre: A sheriff's posse kills 19 unarmed striking immigrant miners in Lattimer, Pennsylvania, United States.
 <br/><br/>
-En 1945 : Second Sino-Japanese War: The Empire of Japan formally surrenders to China.
+En 1858 : George Mary Searle discovers the asteroid 55 Pandora.
 <br/><br/>
-En 1944 : World War II: The Fatherland Front takes power in Bulgaria through a military coup in the capital and armed rebellion in the country. A new pro-Soviet government is established.
+En 1846 : Elias Howe is granted a patent for the sewing machine.
 <br/><br/>
-En 1943 : World War II: The Allies land at Salerno and Taranto, Italy.
+En 1813 : The United States defeats a British Fleet at the Battle of Lake Erie during the War of 1812.
 <br/><br/>
-En 1942 : World War II: A Japanese floatplane drops incendiary bombs on Oregon.
+En 1798 : At the Battle of St. George's Caye, British Honduras defeats Spain.
 <br/><br/>
-En 1940 : George Stibitz pioneers the first remote operation of a computer.
+En 1776 : American Revolutionary War: Nathan Hale volunteers to spy for the Continental Army.
 <br/><br/>
-En 1940 : Treznea Massacre in Transylvania.
+En 1724 : Johann Sebastian Bach leads the first performance of Jesu, der du meine Seele, BWV 78, a chorale cantata based on a passion hymn by Johann Rist.
 <br/><br/>
-En 1939 : World War II: The Battle of Hel begins, the longest-defended pocket of Polish Army resistance during the German invasion of Poland.
+En 1640 : Reapers' War: Junta de Braços (Assembly of Estates) of the Principality of Catalonia summoned. It assumes the sovereignty and enacts a series of revolutionary mesures which will lead to the Catalan Republic.
 <br/><br/>
-En 1939 : Burmese national hero U Ottama dies in prison after a hunger strike to protest Britain's colonial government.
+En 1622 : 55 Christians are executed in Nagasaki during the Great Genna Martyrdom
 <br/><br/>
-En 1936 : The crews of Portuguese Navy frigate NRP Afonso de Albuquerque and destroyer Dão mutinied against the Salazar dictatorship's support of General Franco's coup and declared their solidarity with the Spanish Republic.
+En 1608 : John Smith is elected council president of Jamestown, Virginia.
 <br/><br/>
-En 1924 : Hanapepe massacre occurs on Kauai, Hawaii.
+En 1607 : Edward Maria Wingfield ousted as first president of the governing council of the Colony of Virginia; he is replaced by John Ratcliffe.
 <br/><br/>
-En 1923 : Mustafa Kemal Atatürk, the founder of the Republic of Turkey, founds the Republican People's Party.
+En 1573 : German pirate Klein Henszlein and 33 of his crew are beheaded in Hamburg.
 <br/><br/>
-En 1922 : The Greco-Turkish War effectively ends with Turkish victory over the Greeks in Smyrna.
+En 1570 : Spanish Jesuit missionaries land in present-day Virginia to establish the short-lived Ajacán Mission.
 <br/><br/>
-En 1914 : World War I: The creation of the Canadian Automobile Machine Gun Brigade, the first fully mechanized unit in the British Army.
+En 1561 : Fourth Battle of Kawanakajima: Takeda Shingen defeats Uesugi Kenshin in the climax of their ongoing conflicts.
 <br/><br/>
-En 1892 : Amalthea becomes the last moon to be discovered without the use of photography.
+En 1547 : The Battle of Pinkie, the last full-scale military confrontation between England and Scotland, resulting in a decisive victory for the forces of Edward VI.
 <br/><br/>
-En 1863 : American Civil War: The Union Army enters Chattanooga, Tennessee.
+En 1515 : Thomas Wolsey is invested as a Cardinal.
 <br/><br/>
-En 1855 : Crimean War: The Siege of Sevastopol comes to an end when Russian forces abandon the city.
+En 1509 : An earthquake known as "The Lesser Judgment Day" hits Constantinople.
 <br/><br/>
-En 1850 : The Compromise of 1850 transfers a third of Texas's claimed territory to federal control in return for the U.S. federal government assuming $10 million of Texas's pre-annexation debt.
+En 1419 : John the Fearless, Duke of Burgundy is assassinated by adherents of the Dauphin, the future Charles VII of France.
 <br/><br/>
-En 1850 : California is admitted as the thirty-first U.S. state.
-<br/><br/>
-En 1845 : Possible start of the Great Famine of Ireland.
-<br/><br/>
-En 1839 : John Herschel takes the first glass plate photograph.
-<br/><br/>
-En 1801 : Alexander I of Russia confirms the privileges of Baltic provinces.
-<br/><br/>
-En 1791 : Washington, D.C., the capital of the United States, is named after President George Washington.
-<br/><br/>
-En 1776 : The Continental Congress officially names its union of states the United States.
-<br/><br/>
-En 1739 : Stono Rebellion, the largest slave uprising in Britain's mainland North American colonies prior to the American Revolution, erupts near Charleston, South Carolina.
-<br/><br/>
-En 1588 : Thomas Cavendish in his ship Desire enters Plymouth and completes the first deliberately planned voyage of circumnavigation.
-<br/><br/>
-En 1561 : The ultimately unsuccessful Colloquy of Poissy opens in an effort to reconcile French Catholics and Protestants.
-<br/><br/>
-En 1543 : Mary Stuart, at nine months old, is crowned "Queen of Scots" in the central Scottish town of Stirling.
-<br/><br/>
-En 1513 : James IV of Scotland is defeated and dies in the Battle of Flodden, ending Scotland's involvement in the War of the League of Cambrai.
-<br/><br/>
-En 1499 : The citizens of Lisbon celebrate the triumphal return of the explorer Vasco de Gama, completing his two-year journey around the Cape of Good Hope to India.
-<br/><br/>
-En 1493 : Battle of Krbava Field, a decisive defeat of Croats in Croatian struggle against the invasion by the Ottoman Empire.
-<br/><br/>
-En 1493 : Christopher Columbus, with 17 ships and 1,200 men, sails on second voyage from Cadiz.
-<br/><br/>
-En 1488 : Anne becomes sovereign Duchess of Brittany, becoming a central figure in the struggle for influence that leads to the union of Brittany and France.
-<br/><br/>
-En 1320 : In the Battle of Saint George, the Byzantines under Andronikos Asen ambush and defeat the forces of the Principality of Achaea, securing possession of Arcadia.
-<br/><br/>
-En 1141 : Yelü Dashi, the Liao dynasty general who founded the Qara Khitai, defeats the Seljuq and Kara-Khanid forces at the Battle of Qatwan.
-<br/><br/>
-En 1000 : Battle of Svolder, Viking Age.
-<br/><br/>
-En 337 : Constantine II, Constantius II, and Constans succeed their father Constantine I as co-emperors. The Roman Empire is divided between the three Augusti.
+En 506 : The bishops of Visigothic Gaul meet in the Council of Agde.
 <br/><br/>
