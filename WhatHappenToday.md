@@ -4,137 +4,119 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 12/9 ?(Hover on the year)</h1>
+<h1> What happen this day 13/9 ?(Hover on the year)</h1>
 
-En 2021 : Siberian Light Aviation Flight 51 crashes short of the runway at Kazachinskoye Airport, killing four.
+En 2013 : Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.
 <br/><br/>
-En 2015 : A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 105 people with over 150 injured.
+En 2008 : Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.
 <br/><br/>
-En 2014 : Synagogue Church building collapse saw the deaths of 115 people and several injured, in the Church run by Nigeria's, T. B. Joshua.
+En 2007 : The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly.
 <br/><br/>
-En 2013 : NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.
+En 2007 : The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.
 <br/><br/>
-En 2012 : Petropavlovsk-Kamchatsky Air Flight 251 crashes on approach to Palana Airport, killing 10 and injuring four.
+En 2001 : Civilian aircraft traffic resumes in the United States after the September 11 attacks.
 <br/><br/>
-En 2011 : The National September 11 Memorial & Museum in New York City opens to the public.
+En 1997 : A German Air Force Tupolev Tu-154 and a United States Air Force Lockheed C-141 Starlifter collide in mid-air near Namibia, killing 33.
 <br/><br/>
-En 2008 : The 2008 Chatsworth train collision in Los Angeles between a Metrolink commuter train and a Union Pacific freight train kills 25 people.
+En 1993 : Israeli Prime Minister Yitzhak Rabin shakes hands with Palestine Liberation Organization chairman Yasser Arafat at the White House after signing the Oslo Accords granting limited Palestinian autonomy.
 <br/><br/>
-En 2007 : Former Philippine President Joseph Estrada is convicted of plunder.
+En 1989 : Largest anti-Apartheid march in South Africa, led by Desmond Tutu.
 <br/><br/>
-En 2007 : Two earthquakes measuring 8.4 and 7.9 on the Richter Scale hits the Indonesian island of Sumatra, killing 25 people and injuring 161.
+En 1988 : Hurricane Gilbert is the strongest recorded hurricane in the Western Hemisphere, later replaced by Hurricane Wilma in 2005 (based on barometric pressure).
 <br/><br/>
-En 2005 : Israeli-Palestinian conflict: the Israeli disengagement from Gaza is completed, leaving some 2,530 homes demolished.
+En 1987 : Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.
 <br/><br/>
-En 2003 : The United Nations lifts sanctions against Libya after that country agreed to accept responsibility and recompense the families of victims in the 1988 bombing of Pan Am Flight 103.
+En 1986 : A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city.
 <br/><br/>
-En 2003 : Iraq War: In Fallujah, U.S. forces mistakenly shoot and kill eight Iraqi police officers.
+En 1985 : Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.
 <br/><br/>
-En 2003 : Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan.
+En 1982 : Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.
 <br/><br/>
-En 2001 : Ansett Australia, Australia's first commercial interstate airline, collapses due to increased strain on the international airline industry, leaving 10,000 people unemployed.
+En 1979 : South Africa grants independence to the "homeland" of Venda (not recognised outside South Africa).
 <br/><br/>
-En 1994 : Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West wing. There were no other casualties.
+En 1971 : State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.
 <br/><br/>
-En 1993 : NASA launches Space Shuttle Discovery on STS-51.
+En 1971 : Chairman Mao Zedong's second in command and successor Marshal Lin Biao flees China after the failure of an alleged coup. His plane crashes in Mongolia, killing all aboard.
 <br/><br/>
-En 1992 : NASA launches Space Shuttle Endeavour on STS-47 which marked the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spaceship, and Mark Lee and Jan Davis, the first married couple in space.
+En 1968 : Cold War: Albania leaves the Warsaw Pact.
 <br/><br/>
-En 1992 : Abimael Guzmán, leader of the Shining Path, is captured by Peruvian special forces; shortly thereafter the rest of Shining Path's leadership fell as well.
+En 1964 : South Vietnamese Generals Lâm Văn Phát and Dương Văn Đức fail in a coup attempt against General Nguyễn Khánh.
 <br/><br/>
-En 1991 : NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite.
+En 1964 : Martin Luther King Jr. addresses a crowd of 20,000 West Berliners on Sunday, in Waldbühne.
 <br/><br/>
-En 1990 : The two German states and the Four Powers sign the Treaty on the Final Settlement with Respect to Germany in Moscow, paving the way for German reunification.
+En 1962 : An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.
 <br/><br/>
-En 1990 : The Red Cross organizations of mainland China and Taiwan sign Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.
+En 1956 : The IBM 305 RAMAC is introduced, the first commercial computer to use disk storage.
 <br/><br/>
-En 1988 : Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula two days later, causing an estimated $5 billion in damage.
+En 1956 : The dike around the Dutch polder East Flevoland is closed.
 <br/><br/>
-En 1984 : Dwight Gooden sets the baseball record for strikeouts in a season by a rookie with 276, previously set by Herb Score with 246 in 1954. Gooden's 276 strikeouts that season, pitched in 218 innings, set the current record.
+En 1953 : Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union.
 <br/><br/>
-En 1983 : A Wells Fargo depot in West Hartford, Connecticut, United States, is robbed of approximately US$7 million by Los Macheteros.
+En 1948 : Deputy Prime Minister of India Vallabhbhai Patel orders the Army to move into Hyderabad to integrate it with the Indian Union.
 <br/><br/>
-En 1983 : The USSR vetoes a United Nations Security Council Resolution deploring the Soviet destruction of Korean Air Lines Flight 007.
+En 1948 : Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate.
 <br/><br/>
-En 1980 : The 43rd government of Turkey is overthrown in a coup d'état led by General Kenan Evren.
+En 1944 : World War II: Start of the Battle of Meligalas between the Greek Resistance forces of the Greek People's Liberation Army (ELAS) and the collaborationist security battalions.
 <br/><br/>
-En 1977 : South African anti-apartheid activist Steve Biko dies in police custody.
+En 1942 : World War II: Second day of the Battle of Edson's Ridge in the Guadalcanal Campaign. U.S. Marines successfully defeat attacks by the Japanese with heavy losses for the Japanese forces.
 <br/><br/>
-En 1974 : Emperor Haile Selassie of Ethiopia, 'Messiah' of the Rastafari movement, is deposed following a military coup by the Derg, ending a reign of 58 years.
+En 1933 : Elizabeth McCombs becomes the first woman elected to the New Zealand Parliament.
 <br/><br/>
-En 1970 : Dawson's Field hijackings: Popular Front for the Liberation of Palestine terrorists blow up three hijacked airliners in Zarqa, Jordan, continuing to hold the passengers hostage in various undisclosed locations in Amman.
+En 1923 : Following a military coup in Spain, Miguel Primo de Rivera takes over, setting up a dictatorship.
 <br/><br/>
-En 1969 : Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.
+En 1922 : The final act of the Greco-Turkish War, the Great Fire of Smyrna, commences.
 <br/><br/>
-En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).
+En 1906 : The Santos-Dumont 14-bis makes a short hop, the first flight of a fixed-wing aircraft in Europe.
 <br/><br/>
-En 1962 : US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.
+En 1900 : Filipino insurgents defeat a small American column in the Battle of Pulang Lupa, during the Philippine–American War.
 <br/><br/>
-En 1961 : The African and Malagasy Union is founded.
+En 1899 : Mackinder, Ollier and Brocherel make the first ascent of Batian (5,199 m – 17,058 ft), the highest peak of Mount Kenya.
 <br/><br/>
-En 1961 : Air France Flight 2005 crashes near Rabat–Salé Airport, in Rabat, Morocco, killing 77 people.
+En 1898 : Hannibal Goodwin patents celluloid photographic film.
 <br/><br/>
-En 1959 : The Soviet Union launches a large rocket, Lunik II, at the Moon.
+En 1882 : Anglo-Egyptian War: The Battle of Tel el-Kebir is fought.
 <br/><br/>
-En 1959 : Bonanza, the first regularly scheduled TV program presented in color, is launched in the United States.
+En 1880 : The Basuto Gun War breaks out after the Basuto launch a rebellion against the Cape Colony.
 <br/><br/>
-En 1958 : Jack Kilby demonstrates the first working integrated circuit while working at Texas Instruments.
+En 1862 : American Civil War: Union soldiers find a copy of Robert E. Lee's battle plans in a field outside Frederick, Maryland. It is the prelude to the Battle of Antietam.
 <br/><br/>
-En 1953 : U.S. Senator and future President John Fitzgerald Kennedy marries Jacqueline Lee Bouvier at St. Mary's Church in Newport, Rhode Island.
+En 1848 : Vermont railroad worker Phineas Gage survives an iron rod 1+1⁄4 inches (3.2 cm) in diameter being driven through his brain; the reported effects on his behavior and personality stimulate discussion of the nature of the brain and its functions.
 <br/><br/>
-En 1944 : World War II: The liberation of Yugoslavia from Axis occupation continues. Bajina Bašta in western Serbia is among the liberated cities.
+En 1847 : Mexican–American War: Six teenage military cadets known as Niños Héroes die defending Chapultepec Castle in the Battle of Chapultepec. American troops under General Winfield Scott capture Mexico City in the Mexican–American War.
 <br/><br/>
-En 1943 : World War II: Benito Mussolini is rescued from house arrest by German commando forces led by Otto Skorzeny.
+En 1843 : The Greek Army rebels (OS date: September 3) against the autocratic rule of king Otto of Greece, demanding the granting of a constitution.
 <br/><br/>
-En 1942 : World War II: RMS Laconia, carrying civilians, Allied soldiers and Italian POWs is torpedoed off the coast of West Africa and sinks with a heavy loss of life.
+En 1814 : In a turning point in the War of 1812, the British fail to capture Baltimore. During the battle, Francis Scott Key composes his poem "Defence of Fort McHenry", which is later set to music and becomes the United States' national anthem.
 <br/><br/>
-En 1942 : World War II: First day of the Battle of Edson's Ridge during the Guadalcanal Campaign. U.S. Marines protecting Henderson Field are attacked by Imperial Japanese Army troops.
+En 1812 : War of 1812: A supply wagon sent to relieve Fort Harrison is ambushed in the Attack at the Narrows.
 <br/><br/>
-En 1940 : Cave paintings are discovered in Lascaux, France.
+En 1808 : Finnish War: In the Battle of Jutas, Swedish forces under Lieutenant General Georg Carl von Döbeln beat the Russians, making von Döbeln a Swedish war hero.
 <br/><br/>
-En 1940 : The Hercules Powder Plant Disaster in the United States kills 51 people and injures over 200.
+En 1807 : Beethoven's Mass in C major, Op. 86, is premiered, commissioned by Nikolaus I, Prince Esterházy, and displeasing him.
 <br/><br/>
-En 1938 : Adolf Hitler demands autonomy and self-determination for the Germans of the Sudetenland region of Czechoslovakia.
+En 1791 : King Louis XVI of France accepts the new constitution.
 <br/><br/>
-En 1933 : Leó Szilárd, waiting for a red light on Southampton Row in Bloomsbury, conceives the idea of the nuclear chain reaction.
+En 1788 : The Philadelphia Convention sets the date for the first presidential election in the United States, and New York City becomes the country's temporary capital.
 <br/><br/>
-En 1923 : Southern Rhodesia, today called Zimbabwe, is annexed by the United Kingdom.
+En 1782 : American Revolutionary War: Franco-Spanish troops launch the unsuccessful "grand assault" during the Great Siege of Gibraltar.
 <br/><br/>
-En 1915 : French soldiers rescue over 4,000 Armenian genocide survivors stranded on Musa Dagh.
+En 1759 : Battle of the Plains of Abraham: the British defeat the French near Quebec City in the Seven Years' War, known in the United States as the French and Indian War.
 <br/><br/>
-En 1910 : Premiere performance of Gustav Mahler's Symphony No. 8 in Munich (with a chorus of 852 singers and an orchestra of 171 players. Mahler's rehearsal assistant conductor was Bruno Walter).
+En 1743 : Great Britain, Austria and the Kingdom of Sardinia sign the Treaty of Worms.
 <br/><br/>
-En 1906 : The Newport Transporter Bridge is opened in Newport, South Wales by Viscount Tredegar.
+En 1645 : Wars of the Three Kingdoms: Scottish Royalists are defeated by Covenanters at the Battle of Philiphaugh.
 <br/><br/>
-En 1897 : Tirah Campaign: In the Battle of Saragarhi, ten thousand Pashtun tribesmen suffer several hundred casualties while attacking 21 Sikh soldiers in British service.
+En 1609 : Henry Hudson reaches the river that would later be named after him – the Hudson River.
 <br/><br/>
-En 1890 : Salisbury, Rhodesia, is founded.
+En 1437 : Battle of Tangier: a Portuguese expeditionary force initiates a failed attempt to seize the Moroccan citadel of Tangier.
 <br/><br/>
-En 1885 : Arbroath 36–0 Bon Accord, a world record scoreline in professional Association football.
+En 1229 : Ögedei Khan is proclaimed Khagan of the Mongol Empire in Kodoe Aral, Khentii: Mongolia.
 <br/><br/>
-En 1857 : The SS Central America sinks about 160 miles east of Cape Hatteras, North Carolina, drowning a total of 426 passengers and crew, including Captain William Lewis Herndon. The ship was carrying 13–15 tons of gold from the California Gold Rush.
+En 533 : Belisarius of the Byzantine Empire defeats Gelimer and the Vandals at the Battle of Ad Decimum, near Carthage, North Africa.
 <br/><br/>
-En 1848 : A new constitution marks the establishment of Switzerland as a federal state.
+En 379 : Yax Nuun Ahiin I is crowned as 15th Ajaw of Tikal
 <br/><br/>
-En 1847 : Mexican–American War: the Battle of Chapultepec begins.
+En -509 : The Temple of Jupiter Optimus Maximus on Rome's Capitoline Hill is dedicated on the ides of September.
 <br/><br/>
-En 1846 : Elizabeth Barrett elopes with Robert Browning.
-<br/><br/>
-En 1814 : Battle of North Point: an American detachment halts the British land advance to Baltimore in the War of 1812.
-<br/><br/>
-En 1683 : Austro-Ottoman War: Battle of Vienna: Several European armies join forces to defeat the Ottoman Empire.
-<br/><br/>
-En 1634 : A gunpowder factory explodes in Valletta, Malta, killing 22 people and damaging several buildings.
-<br/><br/>
-En 1609 : Henry Hudson begins his exploration of the Hudson River while aboard the Halve Maen.
-<br/><br/>
-En 1309 : The First Siege of Gibraltar takes place in the context of the Spanish Reconquista pitting the forces of the Kingdom of Castile against the Emirate of Granada resulting in a Castilian victory.
-<br/><br/>
-En 1229 : Battle of Portopí: The Aragonese army under the command of James I of Aragon disembarks at Santa Ponça, Majorca, with the purpose of conquering the island.
-<br/><br/>
-En 1213 : Albigensian Crusade: Simon de Montfort, 5th Earl of Leicester, defeats Peter II of Aragon at the Battle of Muret.
-<br/><br/>
-En 372 : Sixteen Kingdoms: Jin Xiaowudi, age 10, succeeds his father Jin Jianwendi as Emperor of the Eastern Jin dynasty.
-<br/><br/>
-En -490 : Battle of Marathon: The conventionally accepted date for the Battle of Marathon. The Athenians and their Plataean allies defeat the first Persian invasion force of Greece.
+En -585 : Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia.
 <br/><br/>
