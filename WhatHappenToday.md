@@ -4,119 +4,121 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 13/9 ?(Hover on the year)</h1>
+<h1> What happen this day 14/9 ?(Hover on the year)</h1>
 
-En 2013 : Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.
+En 2022 : Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.
 <br/><br/>
-En 2008 : Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.
+En 2019 : Yemen's Houthi rebels claim responsibility for an attack on Saudi Arabian oil facilities.
 <br/><br/>
-En 2007 : The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly.
+En 2015 : The first observation of gravitational waves is made, announced by the LIGO and Virgo collaborations on 11 February 2016.
 <br/><br/>
-En 2007 : The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.
+En 2008 : Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board.
 <br/><br/>
-En 2001 : Civilian aircraft traffic resumes in the United States after the September 11 attacks.
+En 2007 : Financial crisis of 2007–2008: The Northern Rock bank experiences the first bank run in the United Kingdom in 150 years.
 <br/><br/>
-En 1997 : A German Air Force Tupolev Tu-154 and a United States Air Force Lockheed C-141 Starlifter collide in mid-air near Namibia, killing 33.
+En 2003 : In a referendum, Estonia approves joining the European Union.
 <br/><br/>
-En 1993 : Israeli Prime Minister Yitzhak Rabin shakes hands with Palestine Liberation Organization chairman Yasser Arafat at the White House after signing the Oslo Accords granting limited Palestinian autonomy.
+En 2003 : Bissau-Guinean President Kumba Ialá is ousted from power in a bloodless military coup led by General Veríssimo Correia Seabra.
 <br/><br/>
-En 1989 : Largest anti-Apartheid march in South Africa, led by Desmond Tutu.
+En 2002 : Total Linhas Aéreas Flight 5561 crashes near Paranapanema, Brazil, killing both pilots on board.
 <br/><br/>
-En 1988 : Hurricane Gilbert is the strongest recorded hurricane in the Western Hemisphere, later replaced by Hurricane Wilma in 2005 (based on barometric pressure).
+En 2001 : Historic National Prayer Service held at Washington National Cathedral for victims of the September 11 attacks. A similar service is held in Canada on Parliament Hill, the largest vigil ever held in the nation's capital.
 <br/><br/>
-En 1987 : Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.
+En 2000 : Microsoft releases Windows Me.
 <br/><br/>
-En 1986 : A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city.
+En 1999 : Kiribati, Nauru and Tonga join the United Nations.
 <br/><br/>
-En 1985 : Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.
+En 1998 : Telecommunications companies MCI Communications and WorldCom complete their $37 billion merger to form MCI WorldCom.
 <br/><br/>
-En 1982 : Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.
+En 1997 : Eighty-one killed as five bogies of the Ahmedabad–Howrah Express plunge into a river in Bilaspur district of Madhya Pradesh, India.
 <br/><br/>
-En 1979 : South Africa grants independence to the "homeland" of Venda (not recognised outside South Africa).
+En 1994 : The rest of the Major League Baseball season is canceled because of a strike.
 <br/><br/>
-En 1971 : State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.
+En 1993 : Lufthansa Flight 2904, an Airbus A320, crashes into an embankment after overshooting the runway at Okęcie International Airport (now Warsaw Chopin Airport), killing two people.
 <br/><br/>
-En 1971 : Chairman Mao Zedong's second in command and successor Marshal Lin Biao flees China after the failure of an alleged coup. His plane crashes in Mongolia, killing all aboard.
+En 1992 : The Constitutional Court of Bosnia and Herzegovina declares the breakaway Croatian Republic of Herzeg-Bosnia to be illegal.
 <br/><br/>
-En 1968 : Cold War: Albania leaves the Warsaw Pact.
+En 1989 : The Standard Gravure shooting where Joseph T. Wesbecker, a 47-year-old pressman, killed eight people and injured 12 people at his former workplace, Standard Gravure, before committing suicide.
 <br/><br/>
-En 1964 : South Vietnamese Generals Lâm Văn Phát and Dương Văn Đức fail in a coup attempt against General Nguyễn Khánh.
+En 1985 : Penang Bridge, the longest bridge in Malaysia, connecting the island of Penang to the mainland, opens to traffic.
 <br/><br/>
-En 1964 : Martin Luther King Jr. addresses a crowd of 20,000 West Berliners on Sunday, in Waldbühne.
+En 1984 : Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean.
 <br/><br/>
-En 1962 : An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.
+En 1982 : President-elect of Lebanon Bachir Gemayel is assassinated.
 <br/><br/>
-En 1956 : The IBM 305 RAMAC is introduced, the first commercial computer to use disk storage.
+En 1979 : Afghan leader Nur Muhammad Taraki is assassinated upon the order of Hafizullah Amin, who becomes the new General Secretary of the People's Democratic Party.
 <br/><br/>
-En 1956 : The dike around the Dutch polder East Flevoland is closed.
+En 1975 : The first American saint, Elizabeth Ann Seton, is canonized by Pope Paul VI.
 <br/><br/>
-En 1953 : Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union.
+En 1960 : The Organization of Petroleum Exporting Countries (OPEC) is founded.
 <br/><br/>
-En 1948 : Deputy Prime Minister of India Vallabhbhai Patel orders the Army to move into Hyderabad to integrate it with the Indian Union.
+En 1960 : Congo Crisis: Mobutu Sese Seko seizes power in a military coup, suspending parliament and the constitution.
 <br/><br/>
-En 1948 : Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate.
+En 1958 : The first two German post-war rockets, designed by the German engineer Ernst Mohr, reach the upper atmosphere.
 <br/><br/>
-En 1944 : World War II: Start of the Battle of Meligalas between the Greek Resistance forces of the Greek People's Liberation Army (ELAS) and the collaborationist security battalions.
+En 1954 : In a top secret nuclear test, a Soviet Tu-4 bomber drops a 40 kiloton atomic weapon just north of Totskoye village.
 <br/><br/>
-En 1942 : World War II: Second day of the Battle of Edson's Ridge in the Guadalcanal Campaign. U.S. Marines successfully defeat attacks by the Japanese with heavy losses for the Japanese forces.
+En 1948 : The Indian Army captures the city of Aurangabad as part of Operation Polo.
 <br/><br/>
-En 1933 : Elizabeth McCombs becomes the first woman elected to the New Zealand Parliament.
+En 1944 : World War II: Maastricht becomes the first Dutch city to be liberated by allied forces.
 <br/><br/>
-En 1923 : Following a military coup in Spain, Miguel Primo de Rivera takes over, setting up a dictatorship.
+En 1943 : World War II: The Wehrmacht starts a three-day retaliatory operation targeting several Greek villages in the region of Viannos, whose death toll would eventually exceed 500 persons.
 <br/><br/>
-En 1922 : The final act of the Greco-Turkish War, the Great Fire of Smyrna, commences.
+En 1940 : Ip massacre: The Hungarian Army, supported by local Hungarians, kill 158 Romanian civilians in Ip, Sălaj, a village in Northern Transylvania, an act of ethnic cleansing.
 <br/><br/>
-En 1906 : The Santos-Dumont 14-bis makes a short hop, the first flight of a fixed-wing aircraft in Europe.
+En 1939 : World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia.
 <br/><br/>
-En 1900 : Filipino insurgents defeat a small American column in the Battle of Pulang Lupa, during the Philippine–American War.
+En 1936 : Raoul Villain, who assassinated the French Socialist Jean Jaurès, is himself killed by Spanish Republicans in Ibiza.
 <br/><br/>
-En 1899 : Mackinder, Ollier and Brocherel make the first ascent of Batian (5,199 m – 17,058 ft), the highest peak of Mount Kenya.
+En 1917 : The Russian Empire is formally replaced by the Russian Republic.
 <br/><br/>
-En 1898 : Hannibal Goodwin patents celluloid photographic film.
+En 1914 : HMAS AE1, the Royal Australian Navy's first submarine, is lost at sea with all hands near East New Britain, Papua New Guinea.
 <br/><br/>
-En 1882 : Anglo-Egyptian War: The Battle of Tel el-Kebir is fought.
+En 1911 : Russian Premier Pyotr Stolypin is shot by Dmitry Bogrov while attending a performance of Rimsky-Korsakov's The Tale of Tsar Saltan at the Kiev Opera House, in the presence of Tsar Nicholas II.
 <br/><br/>
-En 1880 : The Basuto Gun War breaks out after the Basuto launch a rebellion against the Cape Colony.
+En 1901 : U.S. President William McKinley dies after being mortally wounded on September 6 by anarchist Leon Czolgosz and is succeeded by Vice President Theodore Roosevelt.
 <br/><br/>
-En 1862 : American Civil War: Union soldiers find a copy of Robert E. Lee's battle plans in a field outside Frederick, Maryland. It is the prelude to the Battle of Antietam.
+En 1862 : American Civil War: The Battle of South Mountain, part of the Maryland Campaign, is fought.
 <br/><br/>
-En 1848 : Vermont railroad worker Phineas Gage survives an iron rod 1+1⁄4 inches (3.2 cm) in diameter being driven through his brain; the reported effects on his behavior and personality stimulate discussion of the nature of the brain and its functions.
+En 1846 : Jang Bahadur and his brothers massacre about 40 members of the Nepalese palace court.
 <br/><br/>
-En 1847 : Mexican–American War: Six teenage military cadets known as Niños Héroes die defending Chapultepec Castle in the Battle of Chapultepec. American troops under General Winfield Scott capture Mexico City in the Mexican–American War.
+En 1829 : The Ottoman Empire signs the Treaty of Adrianople with Russia, thus ending the Russo-Turkish War.
 <br/><br/>
-En 1843 : The Greek Army rebels (OS date: September 3) against the autocratic rule of king Otto of Greece, demanding the granting of a constitution.
+En 1814 : Battle of Baltimore: The poem Defence of Fort McHenry is written by Francis Scott Key. The poem is later used as the lyrics of The Star-Spangled Banner.
 <br/><br/>
-En 1814 : In a turning point in the War of 1812, the British fail to capture Baltimore. During the battle, Francis Scott Key composes his poem "Defence of Fort McHenry", which is later set to music and becomes the United States' national anthem.
+En 1812 : Napoleonic Wars: The French Grande Armée enters Moscow. The Fire of Moscow begins as soon as Russian troops leave the city.
 <br/><br/>
-En 1812 : War of 1812: A supply wagon sent to relieve Fort Harrison is ambushed in the Attack at the Narrows.
+En 1808 : Finnish War: Russians defeat the Swedes at the Battle of Oravais.
 <br/><br/>
-En 1808 : Finnish War: In the Battle of Jutas, Swedish forces under Lieutenant General Georg Carl von Döbeln beat the Russians, making von Döbeln a Swedish war hero.
+En 1791 : The Papal States lose Avignon to Revolutionary France.
 <br/><br/>
-En 1807 : Beethoven's Mass in C major, Op. 86, is premiered, commissioned by Nikolaus I, Prince Esterházy, and displeasing him.
+En 1782 : American Revolutionary War: Review of the French troops under General Rochambeau by General George Washington at Verplanck's Point, New York.
 <br/><br/>
-En 1791 : King Louis XVI of France accepts the new constitution.
+En 1763 : Seneca warriors defeat British forces at the Battle of Devil's Hole during Pontiac's War.
 <br/><br/>
-En 1788 : The Philadelphia Convention sets the date for the first presidential election in the United States, and New York City becomes the country's temporary capital.
+En 1752 : The British Empire adopts the Gregorian calendar, skipping eleven days (the previous day was September 2).
 <br/><br/>
-En 1782 : American Revolutionary War: Franco-Spanish troops launch the unsuccessful "grand assault" during the Great Siege of Gibraltar.
+En 1741 : George Frideric Handel completes his oratorio Messiah.
 <br/><br/>
-En 1759 : Battle of the Plains of Abraham: the British defeat the French near Quebec City in the Seven Years' War, known in the United States as the French and Indian War.
+En 1723 : Grand Master António Manoel de Vilhena lays down the first stone of Fort Manoel in Malta.
 <br/><br/>
-En 1743 : Great Britain, Austria and the Kingdom of Sardinia sign the Treaty of Worms.
+En 1685 : Morean War: the Battle of Kalamata ends in a Venetian victory over the forces of the Ottoman Empire under the Kapudan Pasha.
 <br/><br/>
-En 1645 : Wars of the Three Kingdoms: Scottish Royalists are defeated by Covenanters at the Battle of Philiphaugh.
+En 1682 : Bishop Gore School, one of the oldest schools in Wales, is founded.
 <br/><br/>
-En 1609 : Henry Hudson reaches the river that would later be named after him – the Hudson River.
+En 1607 : Flight of the Earls from Lough Swilly, Donegal, Ireland.
 <br/><br/>
-En 1437 : Battle of Tangier: a Portuguese expeditionary force initiates a failed attempt to seize the Moroccan citadel of Tangier.
+En 1402 : Battle of Homildon Hill results in an English victory over Scotland.
 <br/><br/>
-En 1229 : Ögedei Khan is proclaimed Khagan of the Mongol Empire in Kodoe Aral, Khentii: Mongolia.
+En 1226 : The first recorded instance of the Catholic practice of perpetual Eucharistic adoration formally begins in Avignon, France.
 <br/><br/>
-En 533 : Belisarius of the Byzantine Empire defeats Gelimer and the Vandals at the Battle of Ad Decimum, near Carthage, North Africa.
+En 1180 : Genpei War: Battle of Ishibashiyama in Japan.
 <br/><br/>
-En 379 : Yax Nuun Ahiin I is crowned as 15th Ajaw of Tikal
+En 919 : Battle of Islandbridge: High King Niall Glúndub is killed while leading an Irish coalition against the Vikings of Uí Ímair, led by King Sitric Cáech.
 <br/><br/>
-En -509 : The Temple of Jupiter Optimus Maximus on Rome's Capitoline Hill is dedicated on the ides of September.
+En 786 : "Night of the three Caliphs": Harun al-Rashid becomes the Abbasid caliph upon the death of his brother al-Hadi. Birth of Harun's son al-Ma'mun.
 <br/><br/>
-En -585 : Lucius Tarquinius Priscus, king of Rome, celebrates a triumph for his victories over the Sabines, and the surrender of Collatia.
+En 629 : Emperor Heraclius enters Constantinople in triumph after his victory over the Persian Empire.
+<br/><br/>
+En 81 : Domitian became Emperor of the Roman Empire upon the death of his brother Titus.
 <br/><br/>
