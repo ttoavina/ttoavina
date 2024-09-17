@@ -4,117 +4,137 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/9 ?(Hover on the year)</h1>
+<h1> What happen this day 17/9 ?(Hover on the year)</h1>
 
-En 2020 : Signing of the Bahrain–Israel normalization agreement occurs in Washington, D.C., normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.
+En 2018 : A Russian reconnaissance aircraft carrying 15 people on board is brought down by a Syrian surface-to-air missile over the Mediterranean Sea.
 <br/><br/>
-En 2017 : The Parsons Green bombing takes place in London.
+En 2016 : Two bombs explode in Seaside Park, New Jersey, and Manhattan. Thirty-one people are injured in the Manhattan bombing.
 <br/><br/>
-En 2011 : Four miners are killed in the Gleision Colliery mining accident in the Swansea Valley, Wales, UK.
+En 2013 : Grand Theft Auto V earns more than half a billion dollars on its first day of release.
 <br/><br/>
-En 2008 : Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history.
+En 2011 : Occupy Wall Street movement begins in Zuccotti Park, New York City.
 <br/><br/>
-En 2004 : National Hockey League commissioner Gary Bettman announces lockout of the players' union and cessation of operations by the NHL head office.
+En 2006 : Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.
 <br/><br/>
-En 2001 : During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.
+En 2006 : An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country.
 <br/><br/>
-En 1995 : Malaysia Airlines Flight 2133 crashes at Tawau Airport in Malaysia, killing 34.
+En 2001 : The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression.
 <br/><br/>
-En 1983 : Israeli premier Menachem Begin resigns.
+En 1992 : An Iranian Kurdish leader and his two joiners are assassinated by political militants in Berlin.
 <br/><br/>
-En 1981 : The Senate Judiciary Committee unanimously approves Sandra Day O'Connor to become the first female justice of the Supreme Court of the United States.
+En 1991 : Estonia, North Korea, South Korea, Latvia, Lithuania, the Marshall Islands and Micronesia join the United Nations.
 <br/><br/>
-En 1981 : The John Bull becomes the oldest operable steam locomotive in the world when the Smithsonian Institution operates it under its own power outside Washington, D.C.
+En 1991 : The first version of the Linux kernel (0.01) is released to the Internet.
 <br/><br/>
-En 1978 : At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.
+En 1983 : Vanessa Williams becomes the first black Miss America.
 <br/><br/>
-En 1975 : The French department of "Corse" (the entire island of Corsica) is divided into two: Haute-Corse (Upper Corsica) and Corse-du-Sud (Southern Corsica).
+En 1980 : After weeks of strikes at the Lenin Shipyard in Gdańsk, Poland, the nationwide independent trade union Solidarity is established.
 <br/><br/>
-En 1974 : Air Vietnam Flight 706 is hijacked, then crashes while attempting to land with 75 on board.
+En 1980 : Former Nicaraguan President Anastasio Somoza Debayle is killed in Asunción, Paraguay.
 <br/><br/>
-En 1972 : A Scandinavian Airlines System domestic flight from Gothenburg to Stockholm is hijacked and flown to Malmö Bulltofta Airport.
+En 1978 : The Camp David Accords are signed by Israel and Egypt.
 <br/><br/>
-En 1971 : The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.
+En 1976 : The Space Shuttle Enterprise is unveiled by NASA.
 <br/><br/>
-En 1968 : The Soviet Zond 5 spaceship is launched, becoming the first spacecraft to fly around the Moon and re-enter the Earth's atmosphere.
+En 1974 : Bangladesh, Grenada and Guinea-Bissau join the United Nations.
 <br/><br/>
-En 1966 : U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.
+En 1965 : The Battle of Chawinda is fought between Pakistan and India.
 <br/><br/>
-En 1963 : Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.
+En 1961 : The world's first retractable roof stadium, the Civic Arena, opens in Pittsburgh, Pennsylvania.
 <br/><br/>
-En 1962 : The Soviet ship Poltava heads toward Cuba, one of the events that sets into motion the Cuban Missile Crisis.
+En 1961 : Northwest Orient Airlines Flight 706 crashes during takeoff from O'Hare International Airport in Chicago, Illinois, killing all 37 people on board.
 <br/><br/>
-En 1959 : Nikita Khrushchev becomes the first Soviet leader to visit the United States.
+En 1949 : The Canadian steamship SS Noronic burns in Toronto Harbour with the loss of over 118 lives.
 <br/><br/>
-En 1958 : A Central Railroad of New Jersey commuter train runs through an open drawbridge at the Newark Bay, killing 48.
+En 1948 : The Lehi (also known as the Stern gang) assassinates Count Folke Bernadotte, who was appointed by the United Nations to mediate between the Arab nations and Israel.
 <br/><br/>
-En 1954 : Marilyn Monroe's iconic skirt scene is shot during filming for The Seven Year Itch.
+En 1948 : The Nizam of Hyderabad surrenders his sovereignty over the Hyderabad State and joins the Indian Union.
 <br/><br/>
-En 1952 : The United Nations cedes Eritrea to Ethiopia.
+En 1944 : World War II: Allied airborne troops parachute into the Netherlands as the "Market" half of Operation Market Garden and British XXX Corps advances into the Netherlands as the "Garden" half of the Operation.
 <br/><br/>
-En 1950 : Korean War: The U.S. X Corps lands at Inchon.
+En 1944 : World War II: Soviet troops launch the Tallinn Offensive against Germany and pro-independence Estonian units.
 <br/><br/>
-En 1948 : The Indian Army captures the towns of Jalna, Latur, Mominabad, Surriapet and Narkatpalli as part of Operation Polo.
+En 1944 : World War II: German forces are attacked by the Allies in the Battle of San Marino.
 <br/><br/>
-En 1948 : The F-86 Sabre sets the world aircraft speed record at 671 miles per hour (1,080 km/h).
+En 1941 : World War II: A decree of the Soviet State Committee of Defense restores compulsory military training.
 <br/><br/>
-En 1947 : Typhoon Kathleen hits the Kantō region, in Japan killing around 1,000-2,000 people.
+En 1941 : World War II: Soviet forces enter Tehran during the Anglo-Soviet invasion of Iran.
 <br/><br/>
-En 1945 : A hurricane strikes southern Florida and the Bahamas, destroying 366 airplanes and 25 blimps at Naval Air Station Richmond.
+En 1940 : World War II: Due to setbacks in the Battle of Britain and approaching autumn weather, Hitler postpones Operation Sea Lion.
 <br/><br/>
-En 1944 : Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.
+En 1939 : World War II: The Soviet invasion of Poland begins.
 <br/><br/>
-En 1944 : The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
+En 1939 : World War II: German submarine U-29 sinks the British aircraft carrier HMS Courageous.
 <br/><br/>
-En 1942 : World War II: U.S. Navy aircraft carrier USS Wasp is sunk by Japanese torpedoes at Guadalcanal.
+En 1935 : The Niagara Gorge Railroad ceases operations after a rockslide.
 <br/><br/>
-En 1940 : World War II: The climax of the Battle of Britain, when the Luftwaffe launches its largest and most concentrated attack of the entire campaign.
+En 1932 : A speech by Laureano Gómez leads to the escalation of the Leticia Incident.
 <br/><br/>
-En 1935 : Nazi Germany adopts a new national flag bearing the swastika.
+En 1930 : The Kurdish Ararat rebellion is suppressed by the Turks.
 <br/><br/>
-En 1918 : World War I: Allied troops break through the Bulgarian defenses on the Macedonian front.
+En 1928 : The Okeechobee hurricane strikes southeastern Florida, killing more than 2,500 people.
 <br/><br/>
-En 1916 : World War I: Tanks are used for the first time in battle, at the Battle of the Somme.
+En 1924 : The Border Protection Corps is established in the Second Polish Republic for the defence of the eastern border against armed Soviet raids and local bandits.
 <br/><br/>
-En 1915 : New Culture Movement: Chen Duxiu establishes the New Youth magazine in Shanghai.
+En 1920 : The National Football League is organized as the American Professional Football Association in Canton, Ohio.
 <br/><br/>
-En 1894 : First Sino-Japanese War: Japan defeats Qing dynasty China in the Battle of Pyongyang.
+En 1916 : World War I: Manfred von Richthofen ("The Red Baron"), a flying ace of the German Luftstreitkräfte, wins his first aerial combat near Cambrai, France.
 <br/><br/>
-En 1873 : Franco-Prussian War: The last Imperial German Army troops leave France upon completion of payment of indemnity.
+En 1914 : Andrew Fisher becomes Prime Minister of Australia for the third time.
 <br/><br/>
-En 1862 : American Civil War: Confederate forces capture Harpers Ferry, Virginia.
+En 1914 : World War I: The Race to the Sea begins.
 <br/><br/>
-En 1835 : HMS Beagle, with Charles Darwin aboard, reaches the Galápagos Islands. The ship lands at Chatham or San Cristobal, the easternmost of the archipelago.
+En 1908 : The Wright Flyer flown by Orville Wright, with Lieutenant Thomas Selfridge as passenger, crashes, killing Selfridge, who becomes the first airplane fatality.
 <br/><br/>
-En 1830 : The Liverpool to Manchester railway line opens; British MP William Huskisson becomes the first widely reported railway passenger fatality when he is struck and killed by the locomotive Rocket.
+En 1901 : Second Boer War: A Boer column defeats a British force at the Battle of Blood River Poort.
 <br/><br/>
-En 1821 : The Captaincy General of Guatemala declares independence from Spain.
+En 1901 : Second Boer War: Boers capture a squadron of the 17th Lancers at the Battle of Elands River.
 <br/><br/>
-En 1820 : Constitutionalist revolution in Lisbon, Portugal.
+En 1900 : Philippine–American War: Filipinos under Juan Cailles defeat Americans under Colonel Benjamin F. Cheatham Jr. at Mabitac.
 <br/><br/>
-En 1816 : HMS Whiting runs aground on the Doom Bar.
+En 1894 : Battle of the Yalu River, the largest naval engagement of the First Sino-Japanese War.
 <br/><br/>
-En 1813 : Followers of the Eight Trigram Sect loyal to Lin Qing attack the Forbidden City in a failed attempt to oust the Jiaqing Emperor of the Qing dynasty.
+En 1862 : American Civil War: George B. McClellan's Army of the Potomac halts the first invasion of the North by Robert E. Lee and his Army of Northern Virginia in the single-day Battle of Antietam, the bloodiest day in American military history.
 <br/><br/>
-En 1812 : The Grande Armée under Napoleon reaches the Kremlin in Moscow during the failed French invasion of Russia.
+En 1862 : American Civil War: The Allegheny Arsenal explosion in Lawrenceville, Pennsylvania results in the single largest civilian disaster during the war.
 <br/><br/>
-En 1812 : War of 1812: A second supply train sent to relieve Fort Harrison is ambushed in the Attack at the Narrows.
+En 1861 : Argentine Civil Wars: The State of Buenos Aires defeats the Argentine Confederation at the Battle of Pavón.
 <br/><br/>
-En 1795 : Britain seizes the Dutch Cape Colony in southern Africa to prevent its use by the Batavian Republic.
+En 1859 : Joshua A. Norton declares himself "Norton I, Emperor of the United States."
 <br/><br/>
-En 1794 : French Revolutionary Wars: Arthur Wellesley (later Duke of Wellington) sees his first combat at the Battle of Boxtel during the Flanders Campaign.
+En 1849 : American abolitionist Harriet Tubman escapes from slavery.
 <br/><br/>
-En 1789 : The United States "Department of Foreign Affairs", established by law in July, is renamed the Department of State and given a variety of domestic duties.
+En 1809 : Peace between Sweden and Russia in the Finnish War; the territory that will become Finland is ceded to Russia by the Treaty of Fredrikshamn.
 <br/><br/>
-En 1776 : American Revolutionary War: British forces land at Kip's Bay during the New York Campaign.
+En 1794 : Flanders Campaign: France completes its conquest of the Austrian Netherlands at the Battle of Sprimont.
 <br/><br/>
-En 1762 : Seven Years' War: Battle of Signal Hill.
+En 1793 : War of the Pyrenees: France defeats a Spanish force at the Battle of Peyrestortes.
 <br/><br/>
-En 1556 : Departing from Vlissingen, ex-Holy Roman Emperor Charles V returns to Spain.
+En 1787 : The United States Constitution is signed at Independence Hall in Philadelphia, bringing the Constitutional Convention to an end.
 <br/><br/>
-En 1530 : Appearance of the miraculous portrait of Saint Dominic in Soriano in Soriano Calabro, Calabria, Italy; commemorated as a feast day by the Roman Catholic Church 1644–1912.
+En 1778 : The Treaty of Fort Pitt is signed. It is the first formal treaty between the United States and a Native American tribe.
 <br/><br/>
-En 1440 : Gilles de Rais, one of the earliest known serial killers, is taken into custody upon an accusation brought against him by  Jean de Malestroit, Bishop of Nantes.
+En 1776 : The Presidio of San Francisco is founded in New Spain.
 <br/><br/>
-En 994 : Major Fatimid victory over the Byzantine Empire at the Battle of the Orontes.
+En 1775 : American Revolutionary War: The invasion of Quebec by the Continental Army begins with the Siege of Fort St. Jean.
+<br/><br/>
+En 1683 : Antonie van Leeuwenhoek writes a letter to the Royal Society describing "animalcules", later known as protozoa.
+<br/><br/>
+En 1658 : The Battle of Vilanova is fought between Portugal and Spain during the Portuguese Restoration War.
+<br/><br/>
+En 1631 : Sweden wins a major victory at the Battle of Breitenfeld against the Holy Roman Empire during the Thirty Years' War.
+<br/><br/>
+En 1620 : Polish–Ottoman War: The Ottoman Empire defeats the Polish–Lithuanian Commonwealth during the Battle of Cecora.
+<br/><br/>
+En 1577 : The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.
+<br/><br/>
+En 1543 : The first Finnish-language book, the Abckiria by Mikael Agricola, is published in Stockholm.
+<br/><br/>
+En 1462 : Thirteen Years' War: A Polish army under Piotr Dunin decisively defeats the Teutonic Order at the Battle of Świecino.
+<br/><br/>
+En 1382 : Louis the Great's daughter, Mary, is crowned "king" of Hungary.
+<br/><br/>
+En 1176 : The Battle of Myriokephalon is the last attempt by the Byzantine Empire to recover central Anatolia from the Seljuk Turks.
+<br/><br/>
+En 1111 : Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as "King of Galicia".
 <br/><br/>
