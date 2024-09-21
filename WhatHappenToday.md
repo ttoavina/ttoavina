@@ -4,103 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 20/9 ?(Hover on the year)</h1>
+<h1> What happen this day 21/9 ?(Hover on the year)</h1>
 
-En 2019 : Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City.
+En 2019 : A 5.6 Mw earthquake shakes the Albanian port of Durrës. Forty-nine people are injured in the capital, Tirana.
 <br/><br/>
-En 2018 : At least 161 people die after a ferry capsizes close to the pier on Ukara Island in Lake Victoria, Tanzania.
+En 2018 : Killing of Zak Kostopoulos, LGBT rights activist beaten to death on a busy street in Athens
 <br/><br/>
-En 2017 : Hurricane Maria makes landfall in Puerto Rico as a powerful Category 4 hurricane, resulting in 2,975 deaths, US$90 billion in damage, and a major humanitarian crisis.
+En 2015 : Adventist Health System agreed to pay $118.7 million to settle allegations of fraud. It was the largest a hospital network has ever paid.
 <br/><br/>
-En 2011 : The United States military ends its "don't ask, don't tell" policy, allowing gay men and women to serve openly for the first time.
+En 2013 : Al-Shabaab Islamic militants attack the Westgate shopping mall in Kenya, killing at least 67 people.
 <br/><br/>
-En 2008 : A dump truck full of explosives detonates in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.
+En 2012 : Three Egyptian militants open fire on a group of Israeli soldiers in a southern Israel cross-border attack.
 <br/><br/>
-En 2007 : Between 15,000 and 20,000 protesters march on Jena, Louisiana, United States, in support of six black youths who had been convicted of assaulting a white classmate.
+En 2003 : The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.
 <br/><br/>
-En 2003 : Civil unrest in the Maldives breaks out after a prisoner is killed by guards.
+En 2001 : America: A Tribute to Heroes is broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks.
 <br/><br/>
-En 2001 : In an address to a joint session of Congress and the American people, U.S. President George W. Bush declares a "War on Terror".
+En 2001 : Ross Parker is murdered in Peterborough, England, by a gang of ten British Pakistani youths.
 <br/><br/>
-En 2000 : The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile.
+En 1999 : The Chi-Chi earthquake occurs in central Taiwan, leaving about 2,400 people dead.
 <br/><br/>
-En 1990 : South Ossetia declares its independence from Georgia.
+En 1997 : St. Olaf's Church, a stone church from the 16th century in Tyrvää, Finland, is burnt down by a burglar.
 <br/><br/>
-En 1989 : USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people.
+En 1996 : The Defense of Marriage Act is passed by the United States Congress.
 <br/><br/>
-En 1984 : A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.
+En 1993 : Russian President Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.
 <br/><br/>
-En 1982 : NFL season: American football players in the National Football League begin a 57-day strike.
+En 1993 : A Transair Georgian Airlines Tu-134 is shot down by a missile in the Black Sea near Sukhumi, Georgia.
 <br/><br/>
-En 1979 : A French-supported coup d'état in the Central African Empire overthrows Emperor Bokassa I.
+En 1991 : Armenia gains independence from the Soviet Union.
 <br/><br/>
-En 1977 : Vietnam is admitted to the United Nations.
+En 1984 : Brunei joins the United Nations.
 <br/><br/>
-En 1973 : Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome.
+En 1981 : Belize is granted full independence from the United Kingdom.
 <br/><br/>
-En 1973 : Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana.
+En 1981 : Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice.
 <br/><br/>
-En 1971 : Having weakened after making landfall in Nicaragua the previous day, Hurricane Irene regains enough strength to be renamed Hurricane Olivia, making it the first known hurricane to cross from the Atlantic Ocean into the Pacific.
+En 1976 : Orlando Letelier is assassinated in Washington, D.C., at the order of Augusto Pinochet.
 <br/><br/>
-En 1967 : The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland.
+En 1976 : Seychelles joins the United Nations.
 <br/><br/>
-En 1965 : Following the Battle of Burki, the Indian Army captures Dograi in during the Indo-Pakistani War of 1965.
+En 1972 : Philippine President Ferdinand Marcos begins authoritarian rule by declaring martial law.
 <br/><br/>
-En 1962 : James Meredith, an African American, is temporarily barred from entering the University of Mississippi.
+En 1971 : Bahrain, Bhutan and Qatar join the United Nations.
 <br/><br/>
-En 1961 : Greek general Konstantinos Dovas becomes Prime Minister of Greece.
+En 1969 : Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.
 <br/><br/>
-En 1955 : The Treaty on Relations between the USSR and the GDR is signed.
+En 1965 : The Gambia, Maldives and Singapore are admitted as members of the United Nations.
 <br/><br/>
-En 1946 : The first Cannes Film Festival is held, having been delayed for seven years due to World War II.
+En 1964 : Malta gains independence from the United Kingdom, but remains in the Commonwealth.
 <br/><br/>
-En 1946 : Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands.
+En 1964 : The North American XB-70 Valkyrie, the world's fastest bomber, makes its maiden flight from Palmdale, California.
 <br/><br/>
-En 1941 : The Holocaust in Lithuania: Lithuanian Nazis and local police begin a mass execution of 403 Jews in Nemenčinė.
+En 1957 : Pamir, a four-masted barque, was shipwrecked and sank off the Azores during Hurricane Carrie.
 <br/><br/>
-En 1920 : Irish War of Independence: British police known as "Black and Tans" burn the town of Balbriggan and kill two local men in revenge for an IRA assassination.
+En 1953 : Lieutenant No Kum-sok, a North Korean pilot, defects to South Korea with his jet fighter.
 <br/><br/>
-En 1911 : The White Star Line's RMS Olympic collides with the British warship HMS Hawke.
+En 1942 : The Holocaust in Ukraine: On the Jewish holiday of Yom Kippur, Nazis send over 1,000 Jews of Pidhaitsi to Bełżec extermination camp.
 <br/><br/>
-En 1893 : Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.
+En 1942 : The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews.
 <br/><br/>
-En 1881 : U.S. President Chester A. Arthur is sworn in upon the death of James A. Garfield the previous day.
+En 1942 : The Holocaust in Poland: At the end of Yom Kippur, Germans order Jews to permanently move from Konstantynów to Biała Podlaska.
 <br/><br/>
-En 1871 : Bishop John Coleridge Patteson, first bishop of Melanesia, is martyred on Nukapu, now in the Solomon Islands.
+En 1942 : The Boeing B-29 Superfortress makes its maiden flight.
 <br/><br/>
-En 1870 : The Bersaglieri corps enter Rome through the Porta Pia, and complete the unification of Italy.
+En 1939 : Romanian Prime Minister Armand Călinescu is assassinated by the Iron Guard.
 <br/><br/>
-En 1863 : American Civil War: The Battle of Chickamauga, in northwestern Georgia, ends in a Confederate victory.
+En 1938 : The Great Hurricane of 1938 makes landfall on Long Island in New York. The death toll is estimated at 500–700 people.
 <br/><br/>
-En 1860 : The future King Edward VII of the United Kingdom begins the first visit to North America by a Prince of Wales.
+En 1934 : A large typhoon hits western Honshū, Japan, killing more than 3,000 people.
 <br/><br/>
-En 1857 : The Indian Rebellion of 1857 ends with the recapture of Delhi by troops loyal to the East India Company.
+En 1933 : Salvador Lutteroth establishes Mexican professional wrestling.
 <br/><br/>
-En 1854 : Crimean War: British and French troops defeat Russians at the Battle of Alma.
+En 1921 : A storage silo in Oppau, Germany, explodes, killing 500–600 people.
 <br/><br/>
-En 1835 : The decade-long Ragamuffin War starts when rebels capture Porto Alegre in Brazil.
+En 1898 : Empress Dowager Cixi seizes power and ends the Hundred Days' Reform in China.
 <br/><br/>
-En 1792 : French troops stop an allied invasion of France at the Battle of Valmy.
+En 1896 : Anglo-Egyptian conquest of Sudan: British forces under the command of Horatio Kitchener take Dongola.
 <br/><br/>
-En 1737 : The Walking Purchase concludes, which forces the cession of 1.2 million acres (4,900 km2) of Lenape-Delaware tribal land to the Pennsylvania Colony.
+En 1862 : Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi.
 <br/><br/>
-En 1697 : The Treaty of Ryswick is signed by France, England, Spain, the Holy Roman Empire and the Dutch Republic, ending the Nine Years' War.
+En 1860 : Second Opium War: An Anglo-French force defeats Chinese troops at the Battle of Palikao.
 <br/><br/>
-En 1602 : The Spanish-held Dutch town of Grave capitulates to a besieging Dutch and English army under the command of Maurice of Orange.
+En 1843 : The crew of schooner Ancud, led by John Williams Wilson, takes possession of the Strait of Magellan on behalf of the Chilean government.
 <br/><br/>
-En 1586 : A number of conspirators in the Babington Plot are hanged, drawn and quartered.
+En 1809 : British Secretary of War Lord Castlereagh and Foreign Secretary George Canning meet in a duel on Putney Heath, with Castlereagh wounding Canning in the thigh.
 <br/><br/>
-En 1519 : Ferdinand Magellan sets sail from Sanlúcar de Barrameda with about 270 men on his expedition which ultimately culminates in the first circumnavigation of the globe.
+En 1792 : French Revolution: The National Convention abolishes the monarchy.
 <br/><br/>
-En 1498 : The Nankai tsunami washes away the building housing the Great Buddha at Kōtoku-in; it has been located outside ever since.
+En 1780 : American Revolutionary War: Benedict Arnold gives the British the plans to West Point.
 <br/><br/>
-En 1378 : Cardinal Robert of Geneva is elected as Pope Clement VII, beginning the Papal schism.
+En 1776 : Part of New York City is burned shortly after being occupied by British forces.
 <br/><br/>
-En 1260 : The Great Prussian Uprising among the old Prussians begins against the Teutonic Knights.
+En 1745 : A Hanoverian army is defeated, in ten minutes, by the Jacobite forces of Prince Charles Edward Stuart.
 <br/><br/>
-En 1187 : Saladin begins the Siege of Jerusalem.
+En 1435 : The Congress of Arras causes Burgundy to switch sides in the Hundred Years' War.
 <br/><br/>
-En 1066 : At the Battle of Fulford, Harald Hardrada defeats earls Morcar and Edwin.
+En 1217 : Livonian Crusade: The Estonian leader Lembitu and Livonian leader Kaupo the Accursed are killed in the Battle of St. Matthew's Day.
 <br/><br/>
-En 1058 : Agnes of Poitou and Andrew I of Hungary meet to negotiate about the border territory of Burgenland.
+En 1170 : The Kingdom of Dublin falls to Norman invaders.
+<br/><br/>
+En 455 : Emperor Avitus enters Rome with a Gallic army and consolidates his power.
 <br/><br/>
