@@ -4,105 +4,91 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 21/9 ?(Hover on the year)</h1>
+<h1> What happen this day 22/9 ?(Hover on the year)</h1>
 
-En 2019 : A 5.6 Mw earthquake shakes the Albanian port of Durrës. Forty-nine people are injured in the capital, Tirana.
+En 2013 : At least 75 people are killed in a suicide bombing at a Christian church in Peshawar, Pakistan.
 <br/><br/>
-En 2018 : Killing of Zak Kostopoulos, LGBT rights activist beaten to death on a busy street in Athens
+En 2006 : Twenty-three people were killed in a maglev train collision in Lathen, Germany.
 <br/><br/>
-En 2015 : Adventist Health System agreed to pay $118.7 million to settle allegations of fraud. It was the largest a hospital network has ever paid.
+En 1995 : An E-3B AWACS crashes outside Elmendorf Air Force Base, Alaska after multiple bird strikes to two of the four engines soon after takeoff; all 24 on board are killed.
 <br/><br/>
-En 2013 : Al-Shabaab Islamic militants attack the Westgate shopping mall in Kenya, killing at least 67 people.
+En 1995 : The Nagerkovil school bombing is carried out by the Sri Lanka Air Force in which at least 34 die, most of them ethnic Tamil schoolchildren.
 <br/><br/>
-En 2012 : Three Egyptian militants open fire on a group of Israeli soldiers in a southern Israel cross-border attack.
+En 1993 : A barge strikes a railroad bridge near Mobile, Alabama, causing the deadliest train wreck in Amtrak history. Forty-seven passengers are killed.
 <br/><br/>
-En 2003 : The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.
+En 1993 : A Transair Georgian Airlines Tu-154 is shot down by a missile in Sukhumi, Georgia.
 <br/><br/>
-En 2001 : America: A Tribute to Heroes is broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks.
+En 1991 : The Dead Sea Scrolls are made available to the public for the first time.
 <br/><br/>
-En 2001 : Ross Parker is murdered in Peterborough, England, by a gang of ten British Pakistani youths.
+En 1981 : During a military exercise, a Turkish Air Force Northrop F-5 crashes in Babaeski as a result of pilot error, killing one crew member and also 65 soldiers on the ground.
 <br/><br/>
-En 1999 : The Chi-Chi earthquake occurs in central Taiwan, leaving about 2,400 people dead.
+En 1980 : Iraq invades Iran, sparking the nearly eight year Iran–Iraq War.
 <br/><br/>
-En 1997 : St. Olaf's Church, a stone church from the 16th century in Tyrvää, Finland, is burnt down by a burglar.
+En 1979 : A bright flash, resembling the detonation of a nuclear weapon, is observed near the Prince Edward Islands. Its cause is never determined.
 <br/><br/>
-En 1996 : The Defense of Marriage Act is passed by the United States Congress.
+En 1975 : Sara Jane Moore tries to assassinate U.S. President Gerald Ford, but is foiled by the Secret Service.
 <br/><br/>
-En 1993 : Russian President Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.
+En 1966 : Twenty-four people are killed when Ansett-ANA Flight 149 crashes in Winton, Queensland, Australia.
 <br/><br/>
-En 1993 : A Transair Georgian Airlines Tu-134 is shot down by a missile in the Black Sea near Sukhumi, Georgia.
+En 1965 : The Indo-Pakistani War of 1965 between India and Pakistan over Kashmir ends after the United Nations calls for a ceasefire.
 <br/><br/>
-En 1991 : Armenia gains independence from the Soviet Union.
+En 1960 : The Sudanese Republic is renamed Mali after the withdrawal of Senegal from the Mali Federation.
 <br/><br/>
-En 1984 : Brunei joins the United Nations.
+En 1957 : In Haiti, François Duvalier is elected president.
 <br/><br/>
-En 1981 : Belize is granted full independence from the United Kingdom.
+En 1953 : The Four Level Interchange, first stack interchange in the world opened in Los Angeles.
 <br/><br/>
-En 1981 : Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice.
+En 1948 : Gail Halvorsen officially starts parachuting candy to children as part of the Berlin Airlift.
 <br/><br/>
-En 1976 : Orlando Letelier is assassinated in Washington, D.C., at the order of Augusto Pinochet.
+En 1948 : Israeli-Palestine conflict: The All-Palestine Government is established by the Arab League.
 <br/><br/>
-En 1976 : Seychelles joins the United Nations.
+En 1941 : The Holocaust in Ukraine: On the Jewish New Year Day, the German SS murders 6,000 Jews in Vinnytsia, Ukraine. Those are the survivors of the previous killings that took place a few days earlier in which about 24,000 Jews were executed.
 <br/><br/>
-En 1972 : Philippine President Ferdinand Marcos begins authoritarian rule by declaring martial law.
+En 1939 : World War II: A joint German–Soviet military parade in Brest-Litovsk is held to celebrate the successful invasion of Poland.
 <br/><br/>
-En 1971 : Bahrain, Bhutan and Qatar join the United Nations.
+En 1934 : The Gresford disaster in Wales kills 266 miners and rescuers.
 <br/><br/>
-En 1969 : Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.
+En 1919 : The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.
 <br/><br/>
-En 1965 : The Gambia, Maldives and Singapore are admitted as members of the United Nations.
+En 1914 : A German submarine sinks three British cruisers over a seventy-minute period, killing almost 1,500 sailors.
 <br/><br/>
-En 1964 : Malta gains independence from the United Kingdom, but remains in the Commonwealth.
+En 1910 : The Duke of York's Picture House opens in Brighton, now the oldest continually operating cinema in Britain.
 <br/><br/>
-En 1964 : The North American XB-70 Valkyrie, the world's fastest bomber, makes its maiden flight from Palmdale, California.
+En 1896 : Queen Victoria surpasses her grandfather King George III as the longest reigning monarch in British history.
 <br/><br/>
-En 1957 : Pamir, a four-masted barque, was shipwrecked and sank off the Azores during Hurricane Carrie.
+En 1892 : A locomotive shunting falls into a hole in the ground, leading to the burial of the locomotive.
 <br/><br/>
-En 1953 : Lieutenant No Kum-sok, a North Korean pilot, defects to South Korea with his jet fighter.
+En 1891 : The first hydropower plant of Finland is commissioned along the Tammerkoski rapids in Tampere, Pirkanmaa.
 <br/><br/>
-En 1942 : The Holocaust in Ukraine: On the Jewish holiday of Yom Kippur, Nazis send over 1,000 Jews of Pidhaitsi to Bełżec extermination camp.
+En 1885 : Lord Randolph Churchill makes a speech in Ulster in opposition to the Irish Home Rule movement.
 <br/><br/>
-En 1942 : The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews.
+En 1866 : The Battle of Curupayty is Paraguay's only significant victory in the Paraguayan War.
 <br/><br/>
-En 1942 : The Holocaust in Poland: At the end of Yom Kippur, Germans order Jews to permanently move from Konstantynów to Biała Podlaska.
+En 1862 : A preliminary version of the Emancipation Proclamation is released by Abraham Lincoln.
 <br/><br/>
-En 1942 : The Boeing B-29 Superfortress makes its maiden flight.
+En 1857 : The Russian warship Lefort capsizes and sinks during a storm in the Gulf of Finland, killing all 826 aboard.
 <br/><br/>
-En 1939 : Romanian Prime Minister Armand Călinescu is assassinated by the Iron Guard.
+En 1823 : Joseph Smith claims to have found the golden plates after being directed by God through the Angel Moroni to the place where they were buried.
 <br/><br/>
-En 1938 : The Great Hurricane of 1938 makes landfall on Long Island in New York. The death toll is estimated at 500–700 people.
+En 1792 : Primidi Vendémiaire of year one of the French Republican Calendar as the French First Republic comes into being.
 <br/><br/>
-En 1934 : A large typhoon hits western Honshū, Japan, killing more than 3,000 people.
+En 1789 : The office of United States Postmaster General is established.
 <br/><br/>
-En 1933 : Salvador Lutteroth establishes Mexican professional wrestling.
+En 1789 : Battle of Rymnik: Alexander Suvorov's Russian and allied army defeats superior Ottoman Empire forces.
 <br/><br/>
-En 1921 : A storage silo in Oppau, Germany, explodes, killing 500–600 people.
+En 1776 : Nathan Hale is hanged for spying during the American Revolution.
 <br/><br/>
-En 1898 : Empress Dowager Cixi seizes power and ends the Hundred Days' Reform in China.
+En 1761 : George III and Charlotte of Mecklenburg-Strelitz are crowned King and Queen, respectively, of the Kingdom of Great Britain.
 <br/><br/>
-En 1896 : Anglo-Egyptian conquest of Sudan: British forces under the command of Horatio Kitchener take Dongola.
+En 1711 : The first attacks of the Tuscarora War begin in present-day North Carolina.
 <br/><br/>
-En 1862 : Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi.
+En 1692 : The last hanging of those convicted of witchcraft in the Salem witch trials; others are all eventually released.
 <br/><br/>
-En 1860 : Second Opium War: An Anglo-French force defeats Chinese troops at the Battle of Palikao.
+En 1586 : The Battle of Zutphen is a Spanish victory over the English and Dutch.
 <br/><br/>
-En 1843 : The crew of schooner Ancud, led by John Williams Wilson, takes possession of the Strait of Magellan on behalf of the Chilean government.
+En 1499 : The Treaty of Basel concludes the Swabian War.
 <br/><br/>
-En 1809 : British Secretary of War Lord Castlereagh and Foreign Secretary George Canning meet in a duel on Putney Heath, with Castlereagh wounding Canning in the thigh.
+En 1236 : The Samogitians defeat the Livonian Brothers of the Sword in the Battle of Saule.
 <br/><br/>
-En 1792 : French Revolution: The National Convention abolishes the monarchy.
-<br/><br/>
-En 1780 : American Revolutionary War: Benedict Arnold gives the British the plans to West Point.
-<br/><br/>
-En 1776 : Part of New York City is burned shortly after being occupied by British forces.
-<br/><br/>
-En 1745 : A Hanoverian army is defeated, in ten minutes, by the Jacobite forces of Prince Charles Edward Stuart.
-<br/><br/>
-En 1435 : The Congress of Arras causes Burgundy to switch sides in the Hundred Years' War.
-<br/><br/>
-En 1217 : Livonian Crusade: The Estonian leader Lembitu and Livonian leader Kaupo the Accursed are killed in the Battle of St. Matthew's Day.
-<br/><br/>
-En 1170 : The Kingdom of Dublin falls to Norman invaders.
-<br/><br/>
-En 455 : Emperor Avitus enters Rome with a Gallic army and consolidates his power.
+En 904 : The warlord Zhu Quanzhong kills Emperor Zhaozong, the penultimate emperor of the Tang dynasty, after seizing control of the imperial government.
 <br/><br/>
