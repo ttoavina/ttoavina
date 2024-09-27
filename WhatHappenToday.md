@@ -4,93 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 26/9 ?(Hover on the year)</h1>
+<h1> What happen this day 27/9 ?(Hover on the year)</h1>
 
-En 2014 : A mass kidnapping occurs in Iguala, Mexico.
+En 2020 : Second Nagorno-Karabakh war: Azerbaijan launched an offensive against the self-proclaimed Republic of Artsakh, inhabited predominantly by ethnic Armenians.
 <br/><br/>
-En 2010 : The Philippine Bar exam bombing occurred near the De La Salle University in Taft Avenue, Manila injuring 47 people.
+En 2019 : Over two million people participated in worldwide strikes to protest climate change across 2,400 locations worldwide.
 <br/><br/>
-En 2009 : Typhoon Ketsana hits the Philippines, China, Vietnam, Cambodia, Laos and Thailand, causing 700 fatalities.
+En 2014 : The eruption of Mount Ontake in Japan occurs.
 <br/><br/>
-En 2002 : The overcrowded Senegalese ferry, MV Le Joola, capsizes off the coast of the Gambia killing more than 1,000.
+En 2012 : In Minneapolis, a gunman shoots seven citizens, killing five and then himself.
 <br/><br/>
-En 2000 : Anti-globalization protests in Prague (some 20,000 protesters) turn violent during the IMF and World Bank summits.
+En 2008 : CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.
 <br/><br/>
-En 2000 : The MS Express Samina sinks off Paros in the Aegean Sea killing 80 passengers.
+En 2007 : NASA launches the Dawn probe to the asteroid belt.
 <br/><br/>
-En 1997 : A Garuda Indonesia Airbus A300 crashes near Medan airport, killing 234.
+En 2003 : The SMART-1 satellite is launched.
 <br/><br/>
-En 1997 : An earthquake strikes the Italian regions of Umbria and the Marche, causing part of the Basilica of St. Francis at Assisi to collapse.
+En 2001 : In Switzerland, a gunman shoots 18 citizens, killing 14 and then himself.
 <br/><br/>
-En 1994 : A Yakovlev Yak-40 crashes into a river near Vanavara, Russia, killing 24.
+En 1998 : The Google internet search engine retroactively claims this date as its birthday.
 <br/><br/>
-En 1992 : A Nigerian Air Force Lockheed C-130 Hercules crashes in Ejigbo, Lagos, killing 159.
+En 1996 : The Battle of Kabul ends in a Taliban victory; an Islamic Emirate of Afghanistan is established.
 <br/><br/>
-En 1984 : The United Kingdom and China agree to a transfer of sovereignty over Hong Kong, to take place in 1997.
+En 1996 : Confusion on a tanker ship results in the Julie N. oil spill in Portland, Maine.
 <br/><br/>
-En 1983 : Soviet Air Force officer Stanislav Petrov identifies a report of an incoming nuclear missile as a computer error and not an American first strike, thus preventing nuclear war.
+En 1993 : The Sukhumi massacre takes place in Abkhazia.
 <br/><br/>
-En 1983 : Soyuz 7K-ST No.16L, intended to launch a crew to the Salyut 7 space station, explodes on the launch pad. The launch escape system is activated before the Soyuz-U rocket explodes, saving the crew.
+En 1988 : The National League for Democracy is formed by Aung San Suu Kyi and others to fight dictatorship in Myanmar.
 <br/><br/>
-En 1980 : At the Oktoberfest terror attack in Munich 13 people die and 211 are injured.
+En 1977 : Japan Airlines Flight 715 crashes on approach to Sultan Abdul Aziz Shah Airport in Subang, Malaysia, killing 34 of the 79 people on board.
 <br/><br/>
-En 1978 : Air Caribbean Flight 309 crashes in Residencial Las Casas in San Juan, Puerto Rico, killing six.
+En 1975 : The last use of capital punishment in Spain sparks worldwide protests.
 <br/><br/>
-En 1960 : In Chicago, the first televised debate takes place between presidential candidates Richard M. Nixon and John F. Kennedy.
+En 1973 : Texas International Airlines Flight 655 crashes into the Black Fork Mountain Wilderness near Mena, Arkansas, killing all 11 people on board.
 <br/><br/>
-En 1959 : Typhoon Vera, the strongest typhoon to hit Japan in recorded history, makes landfall, killing 4,580 people and leaving nearly 1.6 million others homeless.
+En 1964 : The British TSR-2 aircraft XR219 makes its maiden flight.
 <br/><br/>
-En 1954 : The Japanese rail ferry Tōya Maru sinks during a typhoon in the Tsugaru Strait, Japan, killing 1,172.
+En 1962 : The Yemen Arab Republic is established.
 <br/><br/>
-En 1953 : Rationing of sugar in the United Kingdom ends.
+En 1962 : Rachel Carson's book Silent Spring is published, inspiring an environmental movement and the creation of the U.S. Environmental Protection Agency.
 <br/><br/>
-En 1950 : Korean War: United Nations troops recapture Seoul from North Korean forces.
+En 1959 : Typhoon Vera kills nearly 5,000 people in Japan.
 <br/><br/>
-En 1942 : Holocaust: Senior SS official August Frank issues a memorandum detailing how Jews should be "evacuated".
+En 1956 : USAF Captain Milburn G. Apt becomes the first person to exceed Mach 3. Shortly thereafter, the Bell X-2 goes out of control and Captain Apt is killed.
 <br/><br/>
-En 1936 : Spanish Civil War: Lluis Companys reshuffles the Generalitat de Catalunya, with the marxist POUM and anarcho-syndicalist CNT joining the government.
+En 1949 : Zeng Liansong's design is chosen as the flag of the People's Republic of China.
 <br/><br/>
-En 1933 : As gangster Machine Gun Kelly surrenders to the FBI, he shouts out, "Don't shoot, G-Men!", which becomes a nickname for FBI agents.
+En 1944 : World War II: The Kassel Mission results in the largest loss by a USAAF group on any mission during the war.
 <br/><br/>
-En 1923 : The German government calls off the passive resistance to the French and Belgian occupation of the Ruhr.
+En 1942 : World War II: Last day of the Matanikau action on Guadalcanal as United States Marines barely escape after being surrounded by Japanese forces.
 <br/><br/>
-En 1918 : World War I: The Meuse-Argonne Offensive began which would last until the total surrender of German forces.
+En 1941 : World War II: The Greek National Liberation Front is established with Georgios Siantos as acting leader.
 <br/><br/>
-En 1917 : World War I: The Battle of Polygon Wood begins.
+En 1941 : The SS Patrick Henry is launched, becoming the first of more than 2,700 Liberty ships.
 <br/><br/>
-En 1914 : The United States Federal Trade Commission is established by the Federal Trade Commission Act.
+En 1940 : World War II: The Tripartite Pact is signed in Berlin by Germany, Japan and Italy.
 <br/><br/>
-En 1907 : Four months after the 1907 Imperial Conference, New Zealand and Newfoundland are promoted from colonies to dominions within the British Empire.
+En 1938 : The ocean liner Queen Elizabeth is launched in Glasgow.
 <br/><br/>
-En 1905 : Albert Einstein publishes the third of his Annus Mirabilis papers, introducing the special theory of relativity.
+En 1930 : Bobby Jones wins the (pre-Masters) Grand Slam of golf.
 <br/><br/>
-En 1810 : A new Act of Succession is adopted by the Riksdag of the Estates, and Jean Baptiste Bernadotte becomes heir to the Swedish throne.
+En 1928 : The Republic of China is recognized by the United States.
 <br/><br/>
-En 1799 : War of the 2nd Coalition: French troops defeat Austro-Russian forces, leading to the collapse of Suvorov's campaign.
+En 1922 : King Constantine I of Greece abdicates his throne in favor of his eldest son, George II.
 <br/><br/>
-En 1789 : George Washington appoints Thomas Jefferson the first United States Secretary of State.
+En 1916 : Iyasu V is proclaimed deposed as ruler of Ethiopia in a palace coup in favor of his aunt Zewditu.
 <br/><br/>
-En 1777 : American Revolution: British troops occupy Philadelphia.
+En 1908 : Production of the Model T automobile begins at the Ford Piquette Avenue Plant in Detroit.
 <br/><br/>
-En 1688 : The city council of Amsterdam votes to support William of Orange's invasion of England, which became the Glorious Revolution.
+En 1903 : "Wreck of the Old 97": an American rail disaster, in which 11 people are killed; it later becomes the subject of a popular ballad.
 <br/><br/>
-En 1687 : Morean War: The Parthenon in Athens, used as a gunpowder depot by the Ottoman garrison, is partially destroyed after being bombarded during the Siege of the Acropolis by Venetian forces.
+En 1875 : The merchant sailing ship Ellen Southard is wrecked in a storm at Liverpool.
 <br/><br/>
-En 1580 : Francis Drake finishes his circumnavigation of the Earth in Plymouth, England.
+En 1854 : The paddle steamer SS Arctic, owned by the Collins Line of New York, sinks off the coast of Newfoundland, following a collision with a smaller vessel, the SS Vesta. Only 88 of over 300 people on board survive. About a dozen of the occupants of the Vesta are killed when their lifeboat is hit by the Arctic.
 <br/><br/>
-En 1493 : Pope Alexander VI issues the papal bull Dudum siquidem to the Spanish, extending the grant of new lands he made them in Inter caetera.
+En 1825 : The world's first public railway to use steam locomotives, the Stockton and Darlington Railway, is ceremonially opened with the engine Locomotion pulling wagons with coal and passengers from Shildon to Darlington to Stockton.
 <br/><br/>
-En 1423 : Hundred Years' War: A French army defeats the English at the Battle of La Brossinière.
+En 1822 : Jean-François Champollion officially informs the Académie des Inscriptions et Belles Lettres in France that he has deciphered the Rosetta Stone.
 <br/><br/>
-En 1371 : Serbian–Turkish wars: Ottoman Turks fought against a Serbian army at the Battle of Maritsa.
+En 1821 : The Army of the Three Guarantees triumphantly enters Mexico City, led by Agustín de Iturbide. The following day Mexico is declared independent.
 <br/><br/>
-En 1345 : Friso-Hollandic Wars: Frisians defeat Holland in the Battle of Warns.
+En 1791 : The National Assembly of France votes to award full citizenship to Jews.
 <br/><br/>
-En 1212 : The Golden Bull of Sicily is issued to confirm the hereditary royal title in Bohemia for the Přemyslid dynasty.
+En 1777 : American Revolution: Lancaster, Pennsylvania becomes the capital of the United States for one day after Congress evacuates Philadelphia.
 <br/><br/>
-En 1087 : William II is crowned King of England, and reigns until 1100.
+En 1669 : The Venetians surrender the fortress of Candia to the Ottomans, thus ending the 21-year-long Siege of Candia.
 <br/><br/>
-En 715 : Ragenfrid defeats Theudoald at the Battle of Compiègne.
+En 1605 : The armies of Sweden are defeated by the Polish–Lithuanian Commonwealth in the Battle of Kircholm.
 <br/><br/>
-En -46 : Julius Caesar dedicates a temple to Venus Genetrix, fulfilling a vow he made at the Battle of Pharsalus.
+En 1590 : The death of Pope Urban VII, 13 days after being chosen as the Pope, ends the shortest papal reign in history.
+<br/><br/>
+En 1540 : The Society of Jesus (Jesuits) receives its charter from Pope Paul III.
+<br/><br/>
+En 1529 : The Siege of Vienna begins when Suleiman I attacks the city.
+<br/><br/>
+En 1422 : After the brief Gollub War, the Teutonic Knights sign the Treaty of Melno with Poland and Lithuania.
+<br/><br/>
+En 1331 : The Battle of Płowce is fought, between the Kingdom of Poland and the Teutonic Order. The Poles are defeated but their leaders escape capture.
+<br/><br/>
+En 1066 : William the Conqueror and his army set sail from the mouth of the Somme river, beginning the Norman conquest of England.
 <br/><br/>
