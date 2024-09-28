@@ -4,103 +4,113 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/9 ?(Hover on the year)</h1>
+<h1> What happen this day 28/9 ?(Hover on the year)</h1>
 
-En 2020 : Second Nagorno-Karabakh war: Azerbaijan launched an offensive against the self-proclaimed Republic of Artsakh, inhabited predominantly by ethnic Armenians.
+En 2023 : The 2023 Rotterdam shootings occurred, during which two people were killed in a shooting and arson incident at a residence in Delfshaven, Rotterdam. Additionally, one person lost their life in a classroom at the Erasmus University Medical Center.
 <br/><br/>
-En 2019 : Over two million people participated in worldwide strikes to protest climate change across 2,400 locations worldwide.
+En 2018 : The 7.5 Mw 2018 Sulawesi earthquake, which triggered a large tsunami, leaves 4,340 dead and 10,679 injured.
 <br/><br/>
-En 2014 : The eruption of Mount Ontake in Japan occurs.
+En 2016 : The 2016 South Australian blackout occurs, lasting up to three days in some areas.
 <br/><br/>
-En 2012 : In Minneapolis, a gunman shoots seven citizens, killing five and then himself.
+En 2014 : The 2014 Hong Kong protests begin in response to restrictive political reforms imposed by the NPC in Beijing.
 <br/><br/>
-En 2008 : CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.
+En 2012 : Somali and African Union forces launch a coordinated assault on the Somali port of Kismayo to take back the city from al-Shabaab militants.
 <br/><br/>
-En 2007 : NASA launches the Dawn probe to the asteroid belt.
+En 2012 : Sita Air Flight 601 crashes in Madhyapur Thimi, Nepal, killing all 19 passengers and crew.
 <br/><br/>
-En 2003 : The SMART-1 satellite is launched.
+En 2009 : The military junta leading Guinea attacks a protest rally, killing or wounding 1,400 people.
 <br/><br/>
-En 2001 : In Switzerland, a gunman shoots 18 citizens, killing 14 and then himself.
+En 2008 : Falcon 1 becomes the first privately developed liquid-fuel ground-launched vehicle to put a payload into orbit by the RatSat mission.
 <br/><br/>
-En 1998 : The Google internet search engine retroactively claims this date as its birthday.
+En 2008 : The Singapore Grand Prix is held as Formula One's inaugural night race, with Fernando Alonso winning the event. Almost a year later it was revealed that Alonso's team-mate Nelson Piquet Jr. had been ordered to crash his car to help bring out the safety car and give Alonso the advantage and win.
 <br/><br/>
-En 1996 : The Battle of Kabul ends in a Taliban victory; an Islamic Emirate of Afghanistan is established.
+En 2000 : Al-Aqsa Intifada: Ariel Sharon visits Al-Aqsa Mosque known to Jews as the Temple Mount in Jerusalem.
 <br/><br/>
-En 1996 : Confusion on a tanker ship results in the Julie N. oil spill in Portland, Maine.
+En 1995 : Bob Denard and a group of mercenaries take the islands of the Comoros in a coup.
 <br/><br/>
-En 1993 : The Sukhumi massacre takes place in Abkhazia.
+En 1995 : Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasser Arafat sign the Interim Agreement on the West Bank and the Gaza Strip.
 <br/><br/>
-En 1988 : The National League for Democracy is formed by Aung San Suu Kyi and others to fight dictatorship in Myanmar.
+En 1994 : The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people.
 <br/><br/>
-En 1977 : Japan Airlines Flight 715 crashes on approach to Sultan Abdul Aziz Shah Airport in Subang, Malaysia, killing 34 of the 79 people on board.
+En 1992 : A Pakistan International Airlines flight crashes into a hill in Nepal, killing all 167 passengers and crew.
 <br/><br/>
-En 1975 : The last use of capital punishment in Spain sparks worldwide protests.
+En 1986 : The Democratic Progressive Party becomes the first opposition party in Taiwan.
 <br/><br/>
-En 1973 : Texas International Airlines Flight 655 crashes into the Black Fork Mountain Wilderness near Mena, Arkansas, killing all 11 people on board.
+En 1975 : The Spaghetti House siege, in which nine people are taken hostage, takes place in London.
 <br/><br/>
-En 1964 : The British TSR-2 aircraft XR219 makes its maiden flight.
+En 1973 : The ITT Building in New York City is bombed in protest at ITT's alleged involvement in the coup d'état in Chile.
 <br/><br/>
-En 1962 : The Yemen Arab Republic is established.
+En 1970 : Egyptian President Gamal Abdel Nasser dies of a heart attack in Cairo.
 <br/><br/>
-En 1962 : Rachel Carson's book Silent Spring is published, inspiring an environmental movement and the creation of the U.S. Environmental Protection Agency.
+En 1961 : A military coup in Damascus effectively ends the United Arab Republic, the union between Egypt and Syria.
 <br/><br/>
-En 1959 : Typhoon Vera kills nearly 5,000 people in Japan.
+En 1951 : CBS makes the first color televisions available for sale to the general public, but the product is discontinued less than a month later.
 <br/><br/>
-En 1956 : USAF Captain Milburn G. Apt becomes the first person to exceed Mach 3. Shortly thereafter, the Bell X-2 goes out of control and Captain Apt is killed.
+En 1944 : World War II: Soviet Army troops liberate Klooga concentration camp in Estonia.
 <br/><br/>
-En 1949 : Zeng Liansong's design is chosen as the flag of the People's Republic of China.
+En 1941 : World War II: The Drama uprising against the Bulgarian occupation in northern Greece begins.
 <br/><br/>
-En 1944 : World War II: The Kassel Mission results in the largest loss by a USAAF group on any mission during the war.
+En 1941 : Ted Williams achieves a .406 batting average for the season, and becomes the last major league baseball player to bat .400 or better.
 <br/><br/>
-En 1942 : World War II: Last day of the Matanikau action on Guadalcanal as United States Marines barely escape after being surrounded by Japanese forces.
+En 1939 : World War II: Nazi Germany and the Soviet Union agree on a division of Poland.
 <br/><br/>
-En 1941 : World War II: The Greek National Liberation Front is established with Georgios Siantos as acting leader.
+En 1939 : World War II: The siege of Warsaw comes to an end.
 <br/><br/>
-En 1941 : The SS Patrick Henry is launched, becoming the first of more than 2,700 Liberty ships.
+En 1928 : Alexander Fleming notices a bacteria-killing mold growing in his laboratory, discovering what later became known as penicillin.
 <br/><br/>
-En 1940 : World War II: The Tripartite Pact is signed in Berlin by Germany, Japan and Italy.
+En 1924 : The first aerial circumnavigation is completed by a team from the US Army.
 <br/><br/>
-En 1938 : The ocean liner Queen Elizabeth is launched in Glasgow.
+En 1919 : Race riots begin in Omaha, Nebraska, United States.
 <br/><br/>
-En 1930 : Bobby Jones wins the (pre-Masters) Grand Slam of golf.
+En 1918 : World War I: The Fifth Battle of Ypres begins.
 <br/><br/>
-En 1928 : The Republic of China is recognized by the United States.
+En 1912 : The Ulster Covenant is signed by some 500,000 Ulster Protestant Unionists in opposition to the Third Irish Home Rule Bill.
 <br/><br/>
-En 1922 : King Constantine I of Greece abdicates his throne in favor of his eldest son, George II.
+En 1912 : Corporal Frank S. Scott of the United States Army becomes the first enlisted man to die in an airplane crash.
 <br/><br/>
-En 1916 : Iyasu V is proclaimed deposed as ruler of Ethiopia in a palace coup in favor of his aunt Zewditu.
+En 1901 : Philippine–American War: Filipino guerrillas kill more than forty American soldiers while losing 28 of their own.
 <br/><br/>
-En 1908 : Production of the Model T automobile begins at the Ford Piquette Avenue Plant in Detroit.
+En 1892 : The first night game for American football takes place in a contest between Wyoming Seminary and Mansfield State Normal.
 <br/><br/>
-En 1903 : "Wreck of the Old 97": an American rail disaster, in which 11 people are killed; it later becomes the subject of a popular ballad.
+En 1889 : The General Conference on Weights and Measures (CGPM) defines the length of a metre.
 <br/><br/>
-En 1875 : The merchant sailing ship Ellen Southard is wrecked in a storm at Liverpool.
+En 1871 : The Brazilian Parliament passes a law that frees all children thereafter born to slaves, and all government-owned slaves.
 <br/><br/>
-En 1854 : The paddle steamer SS Arctic, owned by the Collins Line of New York, sinks off the coast of Newfoundland, following a collision with a smaller vessel, the SS Vesta. Only 88 of over 300 people on board survive. About a dozen of the occupants of the Vesta are killed when their lifeboat is hit by the Arctic.
+En 1868 : The Battle of Alcolea causes Queen Isabella II of Spain to flee to France.
 <br/><br/>
-En 1825 : The world's first public railway to use steam locomotives, the Stockton and Darlington Railway, is ceremonially opened with the engine Locomotion pulling wagons with coal and passengers from Shildon to Darlington to Stockton.
+En 1867 : Toronto becomes the capital of Ontario, having also been the capital of Ontario's predecessors since 1796.
 <br/><br/>
-En 1822 : Jean-François Champollion officially informs the Académie des Inscriptions et Belles Lettres in France that he has deciphered the Rosetta Stone.
+En 1844 : Oscar I of Sweden–Norway is crowned king of Sweden.
 <br/><br/>
-En 1821 : The Army of the Three Guarantees triumphantly enters Mexico City, led by Agustín de Iturbide. The following day Mexico is declared independent.
+En 1821 : The Declaration of Independence of the Mexican Empire is drafted. It will be made public on 13 October.
 <br/><br/>
-En 1791 : The National Assembly of France votes to award full citizenship to Jews.
+En 1787 : The Congress of the Confederation votes to send the newly written United States Constitution to the state legislatures for approval.
 <br/><br/>
-En 1777 : American Revolution: Lancaster, Pennsylvania becomes the capital of the United States for one day after Congress evacuates Philadelphia.
+En 1781 : American Revolution: French and American forces backed by a French fleet begin the siege of Yorktown.
 <br/><br/>
-En 1669 : The Venetians surrender the fortress of Candia to the Ottomans, thus ending the 21-year-long Siege of Candia.
+En 1779 : American Revolution: Samuel Huntington is elected President of the Continental Congress, succeeding John Jay.
 <br/><br/>
-En 1605 : The armies of Sweden are defeated by the Polish–Lithuanian Commonwealth in the Battle of Kircholm.
+En 1542 : Juan Rodríguez Cabrillo of Portugal arrives at what is now San Diego, California. He is the first European in California.
 <br/><br/>
-En 1590 : The death of Pope Urban VII, 13 days after being chosen as the Pope, ends the shortest papal reign in history.
+En 1538 : Ottoman–Venetian War: The Ottoman Navy scores a decisive victory over a Holy League fleet in the Battle of Preveza.
 <br/><br/>
-En 1540 : The Society of Jesus (Jesuits) receives its charter from Pope Paul III.
+En 1322 : Louis IV, Holy Roman Emperor, defeats Frederick I of Austria in the Battle of Mühldorf.
 <br/><br/>
-En 1529 : The Siege of Vienna begins when Suleiman I attacks the city.
+En 1238 : King James I of Aragon conquers Valencia from the Moors. Shortly thereafter, he proclaims himself king of Valencia.
 <br/><br/>
-En 1422 : After the brief Gollub War, the Teutonic Knights sign the Treaty of Melno with Poland and Lithuania.
+En 1106 : King Henry I of England defeats his brother Robert Curthose at the Battle of Tinchebray.
 <br/><br/>
-En 1331 : The Battle of Płowce is fought, between the Kingdom of Poland and the Teutonic Order. The Poles are defeated but their leaders escape capture.
+En 1066 : William the Conqueror lands in England, beginning the Norman conquest.
 <br/><br/>
-En 1066 : William the Conqueror and his army set sail from the mouth of the Somme river, beginning the Norman conquest of England.
+En 995 : Boleslaus II, Duke of Bohemia, kills most members of the rival Slavník dynasty.
+<br/><br/>
+En 935 : Duke Wenceslaus I of Bohemia is murdered by a group of nobles led by his brother Boleslaus I, who succeeds him.
+<br/><br/>
+En 365 : Roman usurper Procopius bribes two legions passing by Constantinople, and proclaims himself emperor.
+<br/><br/>
+En 351 : Constantius II defeats the usurper Magnentius.
+<br/><br/>
+En 235 : Pope Pontian resigns. He is exiled to the mines of Sardinia, along with Hippolytus of Rome.
+<br/><br/>
+En -48 : Pompey disembarks at Pelusium upon arriving in Egypt, whereupon he is assassinated by order of King Ptolemy XIII.
 <br/><br/>
