@@ -4,97 +4,187 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 30/9 ?(Hover on the year)</h1>
+<h1> What happen this day 1/10 ?(Hover on the year)</h1>
 
-En 2016 : Hurricane Matthew becomes a Category 5 hurricane, making it the strongest hurricane to form in the Caribbean Sea since 2007.
+En 2022 : One hundred and thirty-five are killed in a human crush following a football match at Kanjuruhan Stadium in East Java, Indonesia.
 <br/><br/>
-En 2016 : Two paintings with a combined value of $100 million are recovered after having been stolen from the Van Gogh Museum in 2002.
+En 2021 : The 2020 World Expo in Dubai begins. Its opening was originally scheduled for 20 October 2020 but was delayed due to the COVID-19 pandemic.
 <br/><br/>
-En 2009 : The 7.6 Mw  Sumatra earthquake leaves 1,115 people dead.
+En 2019 : Kuopio school stabbing: one dies and ten are injured when Joel Marin, armed with a sabre, attacks a school class at Savo Vocational College in Kuopio, Finland.
 <br/><br/>
-En 2005 : Controversial drawings of Muhammad are printed in a Danish newspaper.
+En 2018 : The International Court of Justice rules that Chile is not obliged to negotiate access to the Pacific Ocean with Bolivia.
 <br/><br/>
-En 2000 : Israeli–Palestinian conflict: Twelve-year-old Muhammad al-Durrah is shot and killed on the second day of the Second Intifada.
+En 2017 : An independence referendum, later declared illegal by the Constitutional Court of Spain, takes place in Catalonia.
 <br/><br/>
-En 1999 : The Tokaimura nuclear accident causes the deaths of two technicians in Japan's second-worst nuclear accident.
+En 2017 : Fifty-eight people are killed and 869 others injured in a mass shooting at a country music festival at the Las Vegas Strip in the United States; the gunman, Stephen Paddock, later commits suicide.
 <br/><br/>
-En 1994 : Space Shuttle Endeavour is launched on STS-68.
+En 2016 : The leader of the Spanish Socialist Workers' Party, Pedro Sánchez, resigns. He would return to the position a year later.
 <br/><br/>
-En 1993 : The 6.2 Mw  Latur earthquake shakes Maharashtra, India with a maximum Mercalli intensity of VIII (Severe) killing 9,748 and injuring 30,000.
+En 2015 : A gunman kills nine people at a community college in Oregon.
 <br/><br/>
-En 1980 : Ethernet specifications are published by Xerox working with Intel and Digital Equipment Corporation.
+En 2015 : Heavy rains trigger a major landslide in Guatemala, killing 280 people.
 <br/><br/>
-En 1978 : Finnair Flight 405 is hijacked by Aarno Lamminparras in Oulu, Finland.
+En 2015 : The American cargo vessel SS El Faro sinks with all of its 33 crew after steaming into the eyewall of Hurricane Joaquin.
 <br/><br/>
-En 1975 : Malév Flight 240 crashes into the Mediterranean Sea while on approach to Beirut International Airport in Beirut, Lebanon, killing 60.
+En 2014 : A series of explosions at a gunpowder plant in Bulgaria completely destroys the factory, killing 15 people.
 <br/><br/>
-En 1970 : Jordan makes a deal with the PFLP for the release of the remaining hostages from the Dawson's Field hijackings.
+En 2014 : A double bombing of an elementary school in Homs, Syria kills over 50 people.
 <br/><br/>
-En 1968 : The Boeing 747 is rolled out and shown to the public for the first time.
+En 2012 : A ferry collision off the coast of Hong Kong kills 38 people and injures 102 others.
 <br/><br/>
-En 1966 : Bechuanaland declares its independence, and becomes the Republic of Botswana.
+En 2009 : The Supreme Court of the United Kingdom takes over the judicial functions of the House of Lords.
 <br/><br/>
-En 1965 : Six Indonesian Army generals were assassinated by the September 30 Movement. The PKI was blamed for the latter, resulting in mass killings of suspected leftists.
+En 2003 : The popular and controversial English-language imageboard 4chan is launched.
 <br/><br/>
-En 1954 : The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel.
+En 2001 : Militants attack the state legislature building in Kashmir, killing 38.
 <br/><br/>
-En 1949 : The Berlin Airlift ends.
+En 2001 : 3G wireless technology first becomes available when it is adopted by Japanese telecommunications company NTT Docomo.
 <br/><br/>
-En 1947 : The 1947 World Series begins. It is the first to be televised, to include an African-American player, to exceed $2 million in receipts, to see a pinch-hit home run, and to have six umpires on the field.
+En 2000 : Israel-Palestinian conflict: Palestinians protest the murder of 12-year-old Muhammad al-Durrah by Israeli police  in northern Israel, beginning the "October 2000 events".
 <br/><br/>
-En 1947 : Pakistan joins the United Nations.
+En 1994 : Palau enters a Compact of Free Association with the United States.
 <br/><br/>
-En 1945 : The Bourne End rail crash, in Hertfordshire, England, kills 43.
+En 1991 : Croatian War of Independence: The Siege of Dubrovnik begins.
 <br/><br/>
-En 1944 : The Germans commence a counter offensive to retake the Nijmegen salient, this having been captured by the allies during Operation Market Garden.
+En 1989 : Denmark introduces the world's first legal same-sex registered partnerships.
 <br/><br/>
-En 1943 : The United States Merchant Marine Academy is dedicated by President Roosevelt.
+En 1987 : The 5.9 Mw  Whittier Narrows earthquake shakes the San Gabriel Valley with a Mercalli intensity of VIII (Severe), killing eight and injuring 200.
 <br/><br/>
-En 1941 : World War II: The Babi Yar massacre comes to an end.
+En 1985 : Israel-Palestinian conflict: Israel attacks the Palestine Liberation Organization's Tunisia headquarters during Operation Wooden Leg.
 <br/><br/>
-En 1939 : World War II: General Władysław Sikorski becomes prime minister of the Polish government-in-exile.
+En 1982 : Helmut Kohl replaces Helmut Schmidt as Chancellor of Germany through a constructive vote of no confidence.
 <br/><br/>
-En 1939 : NBC broadcasts the first televised American football game.
+En 1982 : EPCOT (Experimental Prototype Community of Tomorrow) opens at Walt Disney World in Florida.
 <br/><br/>
-En 1938 : Britain, France, Germany and Italy sign the Munich Agreement, whereby Germany annexes the Sudetenland region of Czechoslovakia.
+En 1982 : Sony and Phillips launch the compact disc in Japan; on the same day, Sony releases the model CDP-101 compact disc player, the first player of its kind.
 <br/><br/>
-En 1938 : The League of Nations unanimously outlaws "intentional bombings of civilian populations".
+En 1979 : Pope John Paul II begins his first pastoral visit to the United States.
 <br/><br/>
-En 1935 : The Hoover Dam, astride the border between the U.S. states of Arizona and Nevada, is dedicated.
+En 1979 : The MTR, Hong Kong's rapid transit railway system, opens.
 <br/><br/>
-En 1918 : Ukrainian War of Independence: Insurgent forces led by Nestor Makhno defeat the Central Powers at the battle of Dibrivka.
+En 1978 : Tuvalu gains independence from the United Kingdom.
 <br/><br/>
-En 1915 : World War I: Radoje Ljutovac becomes the first soldier in history to shoot down an enemy aircraft with ground-to-air fire.
+En 1975 : Muhammad Ali defeats Joe Frazier in a boxing match in Manila, Philippines.
 <br/><br/>
-En 1909 : The Cunard Line's RMS Mauretania makes a record-breaking westbound crossing of the Atlantic, that will not be bettered for 20 years.
+En 1971 : Walt Disney World opens near Orlando, Florida.
 <br/><br/>
-En 1907 : The McKinley National Memorial, the final resting place of assassinated U.S. President William McKinley and his family, is dedicated in Canton, Ohio.
+En 1971 : The first practical CT scanner is used to diagnose a patient.
 <br/><br/>
-En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, starts working in La Coruña, Spain.
+En 1969 : Concorde breaks the sound barrier for the first time.
 <br/><br/>
-En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.
+En 1968 : Guyana nationalizes the British Guiana Broadcasting Service, which would eventually become part of the National Communications Network, Guyana.
 <br/><br/>
-En 1882 : Thomas Edison's first commercial hydroelectric power plant (later known as Appleton Edison Light Company) begins operation.
+En 1966 : West Coast Airlines Flight 956 crashes with no survivors in Oregon.  This accident marks the first loss of a DC-9.
 <br/><br/>
-En 1863 : Georges Bizet's opera Les pêcheurs de perles, premiered in Paris.
+En 1964 : The Free Speech Movement is launched on the campus of the University of California, Berkeley.
 <br/><br/>
-En 1791 : The first performance of Mozart's opera The Magic Flute takes place two months before his death.
+En 1964 : Japanese Shinkansen ("bullet trains") begin high-speed rail service from Tokyo to Osaka.
 <br/><br/>
-En 1791 : France's National Constituent Assembly is dissolved, to be replaced the next day by the National Legislative Assembly.
+En 1963 : On its third anniversary as an independent nation, Nigeria became a republic.
 <br/><br/>
-En 1744 : War of the Austrian Succession: France and Spain defeat Sardinia at the Battle of Madonna dell'Olmo, but soon have to withdraw from Sardinia anyway.
+En 1962 : James Meredith enters the University of Mississippi, defying racial segregation rules.
 <br/><br/>
-En 1551 : A coup by the military establishment of Japan's Ōuchi clan forces their lord to commit suicide, and their city is burned.
+En 1961 : The United States Defense Intelligence Agency is formed, becoming the country's first centralized military intelligence organization.
 <br/><br/>
-En 1541 : Spanish conquistador Hernando de Soto and his forces enter Tula territory in present-day western Arkansas, encountering fierce resistance.
+En 1961 : East and West Cameroon merge to form the Federal Republic of Cameroon.
 <br/><br/>
-En 1520 : Suleiman the Magnificent is proclaimed sultan of the Ottoman Empire.
+En 1961 : The CTV Television Network, Canada's first private television network, is launched.
 <br/><br/>
-En 1399 : Henry IV is proclaimed king of England.
+En 1960 : Nigeria gains independence from the United Kingdom.
 <br/><br/>
-En 1139 : A magnitude 7.7 earthquake strikes the Caucasus mountains in the Seljuk Empire, causing mass destruction and killing up to 300,000 people.
+En 1958 : The National Advisory Committee for Aeronautics is replaced by NASA.
 <br/><br/>
-En 737 : The Turgesh drive back an Umayyad invasion of Khuttal, follow them south of the Oxus, and capture their baggage train.
+En 1957 : The motto In God We Trust first appears on U.S. paper currency.
 <br/><br/>
-En 489 : The Ostrogoths under Theoderic the Great defeat the forces of Odoacer for the second time.
+En 1955 : The Xinjiang Uyghur Autonomous Region is established.
+<br/><br/>
+En 1953 : Andhra State is formed, consisting of a Telugu-speaking area carved out of India's Madras State.
+<br/><br/>
+En 1953 : A United States-South Korea mutual defense treaty is concluded in Washington, D.C.
+<br/><br/>
+En 1949 : The People's Republic of China is established.
+<br/><br/>
+En 1947 : The North American F-86 Sabre flies for the first time.
+<br/><br/>
+En 1946 : Nazi leaders are sentenced at the Nuremberg trials.
+<br/><br/>
+En 1946 : The Daegu October incident occurs in Allied-occupied Korea.
+<br/><br/>
+En 1943 : World War II: After the Four Days of Naples, Allied troops enter the city.
+<br/><br/>
+En 1942 : World War II: USS Grouper torpedoes Lisbon Maru, not knowing that she is carrying British prisoners of war from Hong Kong.
+<br/><br/>
+En 1940 : The Pennsylvania Turnpike, often considered the first superhighway in the United States, opens to traffic.
+<br/><br/>
+En 1939 : World War II: After a one-month siege, German troops occupy Warsaw.
+<br/><br/>
+En 1938 : Pursuant to the Munich Agreement signed the day before, Nazi Germany begins the military occupation and annexation of Czechoslovakia's Sudetenland.
+<br/><br/>
+En 1936 : Spanish Civil War: Francisco Franco is named head of the Nationalist government of Spain.
+<br/><br/>
+En 1936 : Spanish Civil War: The Central Committee of Antifascist Militias of Catalonia dissolves itself, handing control of Catalan defence militias over to the Generalitat.
+<br/><br/>
+En 1931 : The George Washington Bridge in the United States is opened, linking New Jersey and New York.
+<br/><br/>
+En 1931 : Clara Campoamor persuades the Constituent Cortes to enfranchise women in Spain's new constitution.
+<br/><br/>
+En 1928 : The Soviet Union introduces its first five-year plan.
+<br/><br/>
+En 1928 : Newark Liberty International Airport opens, becoming the first airport in the New York City metro area.
+<br/><br/>
+En 1923 : The 1923 Imperial Conference opened in London.
+<br/><br/>
+En 1923 : Georges Carpentier knocked out former British heavyweight champion Joe Beckett a mere twenty seconds into the first round of their boxing match at Olympia in London.
+<br/><br/>
+En 1918 : World War I: The Egyptian Expeditionary Force captures Damascus.
+<br/><br/>
+En 1918 : Sayid Abdullah becomes the last Khan of Khiva.
+<br/><br/>
+En 1910 : A large bomb destroys the Los Angeles Times building, killing 21.
+<br/><br/>
+En 1908 : Ford Model T automobiles are offered for sale at a price of US$825.
+<br/><br/>
+En 1903 : Baseball: The Boston Americans play the Pittsburgh Pirates in the first game of the modern World Series.
+<br/><br/>
+En 1898 : The Vienna University of Economics and Business Administration is founded under the name k.u.k. Exportakademie.
+<br/><br/>
+En 1891 : Stanford University opens its doors in California, United States.
+<br/><br/>
+En 1890 : Yosemite National Park is established by the U.S. Congress.
+<br/><br/>
+En 1887 : Balochistan is conquered by the British Empire.
+<br/><br/>
+En 1861 : Mrs Beeton's Book of Household Management is published, going on to sell 60,000 copies in its first year and remaining in print until the present day.
+<br/><br/>
+En 1832 : Texian political delegates convene at San Felipe de Austin to petition for changes in the governance of Mexican Texas.
+<br/><br/>
+En 1829 : The South African College is founded in Cape Town, later separating into the University of Cape Town and the South African College Schools.
+<br/><br/>
+En 1827 : Russo-Persian War: The Russian army under Ivan Paskevich storms Yerevan, ending a millennium of Muslim domination of Armenia.
+<br/><br/>
+En 1814 : The Congress of Vienna opens with the intention of redrawing Europe's political map after the defeat of Napoleon in the previous spring.
+<br/><br/>
+En 1800 : Via the Third Treaty of San Ildefonso, Spain cedes Louisiana to France, which would sell the land to the United States thirty months later.
+<br/><br/>
+En 1795 : More than a year after the Battle of Sprimont, the Austrian Netherlands (present-day Belgium) are officially annexed by Revolutionary France.
+<br/><br/>
+En 1791 : First session of the French Legislative Assembly.
+<br/><br/>
+En 1787 : Russians under Alexander Suvorov defeat the Turks at Kinburn.
+<br/><br/>
+En 1779 : The city of Tampere, Finland (belonging to Sweden at this time) is founded by King Gustav III of Sweden.
+<br/><br/>
+En 1730 : Ahmed III is forced to abdicate as the Ottoman sultan.
+<br/><br/>
+En 1588 : The coronation of Shah Abbas I of Persia occurs.
+<br/><br/>
+En 1553 : The coronation of Queen Mary I of England is held at Westminster Abbey.
+<br/><br/>
+En 965 : Pope John XIII is consecrated.
+<br/><br/>
+En 959 : Edgar the Peaceful becomes king of all England, in succession to Eadwig.
+<br/><br/>
+En 366 : Pope Damasus I is consecrated.
+<br/><br/>
+En -331 : Alexander the Great defeats Darius III of Persia in the Battle of Gaugamela.
 <br/><br/>
