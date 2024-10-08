@@ -4,113 +4,97 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 7/10 ?(Hover on the year)</h1>
+<h1> What happen this day 8/10 ?(Hover on the year)</h1>
 
-En 2023 : Hamas and several other Palestinian militant groups launch an attack into Israel, which results in the deaths of around 1,200, mostly civilians, and taking more than 240 hostages, including civilians and soldiers. The attack initiated the Israel–Hamas war.
+En 2023 : The 2023 Israel–Hamas war is declared following the Hamas attack the day prior
 <br/><br/>
-En 2022 : 10 people die and 8 are injured in an explosion at petrol station in Creeslough.
+En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice deliberately targeted the Church of the Holy Savior Ghazanchetsots of Shusha.
 <br/><br/>
-En 2022 : Ales Bialiatski, along with two organisations, Memorial & Center for Civil Liberties, are awarded the Nobel Peace Prize.
+En 2019 : About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.
 <br/><br/>
-En 2016 : In the wake of Hurricane Matthew, the death toll rises to over 800.
+En 2016 : In the wake of Hurricane Matthew, the death toll rises to nearly 900.
 <br/><br/>
-En 2008 : Asteroid 2008 TC3 impacts the Earth over Sudan, the first time an asteroid impact is detected prior to its entry into Earth's atmosphere.
+En 2014 : Thomas Eric Duncan, the first person in the United States to be diagnosed with Ebola, dies.
 <br/><br/>
-En 2008 : Qantas Flight 72 experiences an in-flight upset near Learmonth, Victoria, Australia, injuring 112.
+En 2005 : The 7.6 Mw  Kashmir earthquake leaves 86,000–87,351 people dead, 69,000–75,266 injured, and 2.8 million homeless.
 <br/><br/>
-En 2004 : Three bombs explode at Taba and Nuweiba in the Sinai Peninsula, Egypt, killing 34.
+En 2001 : A twin engine Cessna and a Scandinavian Airlines System jetliner collide in heavy fog during takeoff from Milan, Italy, killing 118 people.
 <br/><br/>
-En 2002 : The Space Shuttle Atlantis launches on STS-112 to continue assembly of the International Space Station.
+En 2001 : U.S. President George W. Bush announces the establishment of the Office of Homeland Security.
 <br/><br/>
-En 2001 : The U.S. invasion of Afghanistan begins with an air assault and covert operations on the ground, starting the longest war in American history.
+En 1991 : Upon the expiration of the Brioni Agreement, Croatia and Slovenia sever all official relations with Yugoslavia.
 <br/><br/>
-En 2000 : Israeli-Palestinian conflict: Hezbollah militants capture three Israeli Defense Force soldiers in a cross-border raid.
+En 1990 : First Intifada: Israeli police kill 17 Palestinians and wound over 100 near the Dome of the Rock.
 <br/><br/>
-En 1998 : Matthew Shepard, a gay student at the University of Wyoming, is found tied to a fence after being savagely beaten by two young adults in Laramie, Wyoming. He dies five days later.
+En 1982 : Poland bans Solidarity and all other trade unions.
 <br/><br/>
-En 1996 : Fox News Channel begins broadcasting.
+En 1982 : After its London premiere, Cats opens on Broadway and runs for nearly 18 years before closing on September 10, 2000.
 <br/><br/>
-En 1993 : The flood of '93 ends at St. Louis, Missouri, 103 days after it began, as the Mississippi River falls below flood stage.
+En 1978 : Australia's Ken Warby sets the current world water speed record of 275.97 knots at Blowering Dam, Australia.
 <br/><br/>
-En 1991 : Croatian War of Independence: Bombing of the Banski Dvori in Zagreb, Croatia.
+En 1974 : Franklin National Bank collapses due to fraud and mismanagement; at the time it is the largest bank failure in the history of the United States.
 <br/><br/>
-En 1988 : A hunter discovers three gray whales trapped under the ice near Alaska; the situation becomes a multinational effort to free the whales.
+En 1973 : Yom Kippur War: Israel loses more than 150 tanks in a failed attack on Egyptian-occupied positions.
 <br/><br/>
-En 1987 : Sikh nationalists declare the independence of Khalistan from India; it is not internationally recognized.
+En 1973 : Spyros Markezinis begins his 48-day term as prime minister in an abortive attempt to lead Greece to parliamentary rule.
 <br/><br/>
-En 1985 : The Mameyes landslide kills almost 200 people in Puerto Rico.
+En 1970 : Aleksandr Solzhenitsyn wins the Nobel Prize in literature.
 <br/><br/>
-En 1985 : Four men from the Palestine Liberation Front hijack the MS Achille Lauro off the coast of Egypt.
+En 1969 : The opening rally of the Days of Rage occurs, organized by the Weather Underground in Chicago.
 <br/><br/>
-En 1979 : Swissair Flight 316 crashes at Ellinikon International Airport in Athens, Greece, killing 14.
+En 1967 : Guerrilla leader Che Guevara and his men are captured in Bolivia.
 <br/><br/>
-En 1978 : Aeroflot Flight 1080 crashes after takeoff from Koltsovo International Airport, killing 38.
+En 1962 : Der Spiegel publishes an article disclosing the sorry state of the Bundeswehr, and is soon accused of treason.
 <br/><br/>
-En 1977 : The Fourth Soviet Constitution is adopted.
+En 1956 : The New York Yankees's Don Larsen pitches the only perfect game in a World Series.
 <br/><br/>
-En 1963 : President Kennedy signs the ratification of the Partial Nuclear Test Ban Treaty.
+En 1952 : The Harrow and Wealdstone rail crash kills 112 people.
 <br/><br/>
-En 1963 : Buddhist crisis: Amid worsening relations, outspoken South Vietnamese First Lady Madame Ngo Dinh Nhu arrives in the US for a speaking tour, continuing a flurry of attacks on the Kennedy administration.
+En 1944 : World War II: Captain Bobbie Brown earns a Medal of Honor for his actions during the Battle of Crucifix Hill, just outside Aachen.
 <br/><br/>
-En 1961 : A Douglas Dakota IV operated by Derby Aviation (later renamed to British Midland International) crashes in Canigou, France, killing 34 people.
+En 1943 : World War II: Around 30 civilians are executed by Friedrich Schubert's paramilitary group in Kallikratis, Crete.
 <br/><br/>
-En 1959 : The Soviet probe Luna 3 transmits the first-ever photographs of the far side of the Moon.
+En 1941 : World War II: During the preliminaries of the Battle of Rostov, German forces reach the Sea of Azov with the capture of Mariupol.
 <br/><br/>
-En 1958 : The 1958 Pakistani coup d'état inaugurates a prolonged period of military rule.
+En 1939 : World War II: Germany annexes western Poland.
 <br/><br/>
-En 1958 : The U.S. crewed space-flight project is renamed to Project Mercury.
+En 1921 : KDKA in Pittsburgh's Forbes Field conducts the first live broadcast of a football game.
 <br/><br/>
-En 1950 : Mother Teresa establishes the Missionaries of Charity.
+En 1918 : World War I: Corporal Alvin C. York kills 28 German soldiers and captures 132 for which he was awarded the Medal of Honor.
 <br/><br/>
-En 1949 : The communist German Democratic Republic (East Germany) is formed.
+En 1912 : The First Balkan War begins when Montenegro declares war against the Ottoman Empire.
 <br/><br/>
-En 1944 : World War II: During an uprising at Birkenau concentration camp, Jewish prisoners burn down Crematorium IV.
+En 1895 : Korean Empress Myeongseong is assassinated by Japanese infiltrators.
 <br/><br/>
-En 1940 : World War II: The McCollum memo proposes bringing the United States into the war in Europe by provoking the Japanese to attack the United States.
+En 1879 : War of the Pacific: The Chilean Navy defeats the Peruvian Navy in the Battle of Angamos.
 <br/><br/>
-En 1929 : Photius II becomes Ecumenical Patriarch of Constantinople.
+En 1871 : Slash-and-burn land management, months of drought, and the passage of a strong cold front cause the Peshtigo Fire, the Great Chicago Fire and the Great Michigan Fires to break out.
 <br/><br/>
-En 1924 : Andreas Michalakopoulos becomes prime minister of Greece for a short period of time.
+En 1862 : American Civil War: The Confederate invasion of Kentucky is halted at the Battle of Perryville.
 <br/><br/>
-En 1919 : KLM, the flag carrier of the Netherlands, is founded. It is the oldest airline still operating under its original name.
+En 1856 : The Second Opium War between several western powers and China begins with the Arrow Incident.
 <br/><br/>
-En 1916 : Georgia Tech defeats Cumberland University 222–0 in the most lopsided college football game in American history.
+En 1829 : Stephenson's Rocket wins the Rainhill Trials.
 <br/><br/>
-En 1913 : Ford Motor Company introduces the first moving vehicle assembly line.
+En 1821 : The Peruvian Navy is established during the War of Independence.
 <br/><br/>
-En 1912 : The Helsinki Stock Exchange sees its first transaction.
+En 1813 : The Treaty of Ried is signed between Bavaria and Austria.
 <br/><br/>
-En 1879 : Germany and Austria-Hungary sign the "Twofold Covenant" and create the Dual Alliance.
+En 1645 : Jeanne Mance opens the first lay hospital of North America in Montreal.
 <br/><br/>
-En 1870 : Franco-Prussian War: Léon Gambetta escapes the siege of Paris in a hot-air balloon.
+En 1573 : End of the Spanish siege of Alkmaar, the first Dutch victory in the Eighty Years' War.
 <br/><br/>
-En 1868 : Cornell University holds opening day ceremonies; initial student enrollment is 412, the highest at any American university to that date.
+En 1480 : The Great Stand on the Ugra River puts an end to Tartar rule over Moscow
 <br/><br/>
-En 1864 : American Civil War: A US Navy ship captures a Confederate raider in a Brazilian seaport.
+En 1322 : Mladen II Šubić of Bribir is deposed as the Croatian Ban after the Battle of Bliska.
 <br/><br/>
-En 1840 : Willem II becomes King of the Netherlands.
+En 1200 : Isabella of Angoulême is crowned Queen consort of England.
 <br/><br/>
-En 1828 : Morea expedition: The city of Patras, Greece, is liberated by the French expeditionary force.
+En 1075 : Dmitar Zvonimir is crowned King of Croatia.
 <br/><br/>
-En 1826 : The Granite Railway begins operations as the first chartered railway in the U.S.
+En 876 : Frankish forces led by Louis the Younger prevent a West Frankish invasion and defeat emperor Charles II ("the Bald").
 <br/><br/>
-En 1800 : French corsair Robert Surcouf, commander of the 18-gun ship La Confiance, captures the British 38-gun Kent.
+En 451 : The first session of the Council of Chalcedon begins.
 <br/><br/>
-En 1780 : American Revolutionary War: American militia defeat royalist irregulars led by British major Patrick Ferguson at the Battle of Kings Mountain in South Carolina, often regarded as the turning point in the war's Southern theater.
-<br/><br/>
-En 1777 : American Revolutionary War: The Americans defeat British forces under general John Burgoyne in the Second Battle of Saratoga, also known as the Battle of Bemis Heights, compelling Burgoyne's eventual surrender.
-<br/><br/>
-En 1763 : King George III issues the Royal Proclamation of 1763, closing Indigenous lands in North America north and west of the Alleghenies to white settlements.
-<br/><br/>
-En 1691 : The charter for the Province of Massachusetts Bay is issued.
-<br/><br/>
-En 1571 : The Battle of Lepanto is fought, and the Ottoman Navy suffers its first defeat.
-<br/><br/>
-En 1513 : War of the League of Cambrai: Spain defeats Venice.
-<br/><br/>
-En 1477 : Uppsala University is inaugurated after receiving its corporate rights from Pope Sixtus IV in February the same year.
-<br/><br/>
-En 1403 : Venetian–Genoese wars: The Genoese fleet under a French admiral is defeated by a Venetian fleet at the Battle of Modon.
-<br/><br/>
-En -3761 : The epoch reference date (start) of the modern Hebrew calendar.
+En 316 : Constantine I defeats Roman Emperor Licinius, who loses his European territories.
 <br/><br/>
