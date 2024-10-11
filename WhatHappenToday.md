@@ -4,105 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 10/10 ?(Hover on the year)</h1>
+<h1> What happen this day 11/10 ?(Hover on the year)</h1>
 
-En 2022 : Ben S. Bernanke, Douglas W. Diamond and Philip H. Dybvig are jointly awarded the Nobel Memorial Prize in Economic Sciences.
+En 2018 : Soyuz MS-10, launching an intended crew for the ISS, suffers an in-flight abort. The crew lands safely.
 <br/><br/>
-En 2018 : Hurricane Michael makes landfall in the Florida Panhandle as a catastrophic Category 5 hurricane. It kills 57 people in the United States, 45 in Florida, and causes an estimated $25.1 billion in damage.
+En 2013 : A migrant boat sinks in the Channel of Sicily, with at least 34 people drowning.
 <br/><br/>
-En 2015 : Twin bomb blasts in the Turkish capital Ankara kill 109 and injure 500+.
+En 2002 : A bomb attack in a Myyrmanni shopping mall in Vantaa, Finland kills seven.
 <br/><br/>
-En 2010 : The Netherlands Antilles are dissolved as a country.
+En 2001 : The Polaroid Corporation files for federal bankruptcy protection.
 <br/><br/>
-En 2009 : Armenia and Turkey sign the Zurich Protocols, intended to normalize relations. However, they are never ratified by either side.
+En 2000 : NASA launches STS-92, the 100th Space Shuttle mission.
 <br/><br/>
-En 2007 : Sheikh Muszaphar Shukor becomes the first Malaysian in space on board Soyuz TMA-11.
+En 1999 : Air Botswana pilot Chris Phatswe steals an ATR 42 from Sir Seretse Khama International Airport and later crashes it into two other aircraft at the airport, killing himself.
 <br/><br/>
-En 2002 : Iraq War: The United States Congress approves the Authorization for Use of Military Force Against Iraq Resolution of 2002.
+En 1991 : Prof. Anita Hill delivers her televised testimony concerning sexual harassment during the Clarence Thomas Supreme Court nomination.
 <br/><br/>
-En 1998 : A Lignes Aériennes Congolaises jetliner is shot down by rebels in Kindu, Democratic Republic of the Congo, killing 41 people.
+En 1987 : The AIDS Memorial Quilt is first displayed during the Second National March on Washington for Lesbian and Gay Rights.
 <br/><br/>
-En 1997 : Austral Líneas Aéreas Flight 2553 crashes and explodes in Uruguay, killing 74.
+En 1987 : Start of Operation Pawan by Indian forces in Sri Lanka. Thousands of civilians, insurgents, soldiers die.
 <br/><br/>
-En 1986 : A 5.7 Mw  San Salvador earthquake shakes El Salvador, killing 1,500.
+En 1986 : Ronald Reagan and Mikhail Gorbachev meet in Iceland to continue discussions about scaling back IRBM arsenals in Europe.
 <br/><br/>
-En 1985 : US Navy aircraft intercept an Egyptian airliner carrying the perpetrators of the Achille Lauro hijacking, and force it to land in Italy.
+En 1984 : Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan becomes the first American woman to perform a space walk.
 <br/><br/>
-En 1980 : The 7.1 Mw  El Asnam earthquake shakes northern Algeria, killing 2,633 and injuring 8,369.
+En 1984 : Aeroflot Flight 3352 crashes into maintenance vehicles upon landing in Omsk, Russia, killing 178.
 <br/><br/>
-En 1980 : The Farabundo Martí National Liberation Front is founded in El Salvador.
+En 1976 : George Washington is posthumously promoted to the grade of General of the Armies.
 <br/><br/>
-En 1979 : The Olkiluoto Nuclear Power Plant began operations in Eurajoki, Satakunta, Finland.
+En 1968 : NASA launches Apollo 7, the first successful crewed Apollo mission.
 <br/><br/>
-En 1975 : Papua New Guinea joins the United Nations.
+En 1962 : The Second Vatican Council becomes the first ecumenical council of the Roman Catholic Church in 92 years.
 <br/><br/>
-En 1973 : U.S. Vice President Spiro Agnew resigns after being charged with evasion of federal income tax.
+En 1958 : NASA launches Pioneer 1, its first space probe, although it fails to achieve a stable orbit.
 <br/><br/>
-En 1971 : Aeroflot Flight 773 is destroyed by a bomb over Moscow Oblast, killing 25.
+En 1954 : In accord with the 1954 Geneva Conference, French troops complete their withdrawal from North Vietnam.
 <br/><br/>
-En 1970 : Fiji becomes independent.
+En 1950 : CBS's field-sequential color system for television is the first to be licensed for broadcast by the U.S. Federal Communications Commission.
 <br/><br/>
-En 1970 : Canada's October Crisis escalates when Quebec Vice Premier Pierre Laporte is kidnapped by members of the Front de libération du Québec.
+En 1944 : The Tuvan People's Republic is annexed by the Soviet Union.
 <br/><br/>
-En 1969 : King Crimson releases their debut album, In the Court of the Crimson King.
+En 1942 : World War II: Off Guadalcanal, United States Navy ships intercept and defeat a Japanese force.
 <br/><br/>
-En 1967 : The Outer Space Treaty comes into force.
+En 1941 : Beginning of the National Liberation War of Macedonia.
 <br/><br/>
-En 1964 : The Tokyo Summer Olympics opening ceremony is the first to be relayed live by satellites.
+En 1937 : The Duke and Duchess of Windsor tour Nazi Germany for 12 days and meet Adolf Hitler on 22 October.
 <br/><br/>
-En 1963 : France cedes control of the Bizerte naval base to Tunisia.
+En 1918 : The 7.1 Mw San Fermín earthquake shakes Puerto Rico. The quake and resulting tsunami kill up to 116 people.
 <br/><br/>
-En 1963 : The Partial Nuclear Test Ban Treaty comes into effect.
+En 1912 : First Balkan War: The day after the Battle of Sarantaporo, Greek troops liberate the city of Kozani.
 <br/><br/>
-En 1957 : U.S. President Dwight D. Eisenhower apologizes to Ghanaian finance minister Komla Agbeli Gbedemah after he is refused service in a Delaware restaurant.
+En 1910 : Piloted by Arch Hoxsey, Theodore Roosevelt becomes the first U.S. president to fly in an airplane.
 <br/><br/>
-En 1957 : The Windscale fire results in Britain's worst nuclear accident.
+En 1906 : San Francisco sparks a diplomatic crisis between the United States and Japan by ordering segregated schools for Japanese students.
 <br/><br/>
-En 1954 : The Minister of Foreign Affairs of the Sultanate of Muscat, Neil Innes, sends a signal to the Sultanate's forces, accompanied with oil explorers, to penetrate Fahud, marking the beginning of Jebel Akhdar War.
+En 1899 : Philippine–American War: Emilio Aguinaldo and his revolutionary forces began retreating northward, evading American troops and transitioning to guerrilla warfare.
 <br/><br/>
-En 1945 : The Double Tenth Agreement is signed by the Communist Party and the Kuomintang about the future of China.
+En 1899 : The Second Boer War erupts in South Africa between the British-ruled Cape Colony, and the Boer-ruled Transvaal and Orange Free State.
 <br/><br/>
-En 1938 : Abiding by the Munich Agreement, Czechoslovakia completes its withdrawal from the Sudetenland.
+En 1890 : In Washington, D.C., the Daughters of the American Revolution is founded.
 <br/><br/>
-En 1935 : In Greece, a coup d'état ends the Second Hellenic Republic.
+En 1865 : Hundreds of black men and women march in Jamaica, starting the Morant Bay rebellion.
 <br/><br/>
-En 1933 : A United Airlines Boeing 247 is destroyed by sabotage, the first such proven case in the history of commercial aviation.
+En 1862 : American Civil War: Confederate troops conduct a raid on Chambersburg, Pennsylvania.
 <br/><br/>
-En 1928 : Chiang Kai-shek becomes Chairman of the Republic of China.
+En 1852 : The University of Sydney, Australia's oldest university, is inaugurated in Sydney.
 <br/><br/>
-En 1920 : The Carinthian plebiscite determines that the larger part of the Duchy of Carinthia should remain part of Austria.
+En 1840 : The Maronite leader Bashir Shihab II surrenders to the Ottoman Empire and later is sent to Malta in exile.
 <br/><br/>
-En 1918 : RMS Leinster is torpedoed and sunk by UB-123, killing 564, the largest loss of life on the Irish Sea.
+En 1811 : The Juliana begins operation as the first steam-powered ferry in New York harbor.
 <br/><br/>
-En 1913 : U.S. President Woodrow Wilson triggers the explosion of the Gamboa Dike, completing major construction on the Panama Canal.
+En 1797 : The Royal Navy decisively defeats the Batavian Navy at Camperdown during the French Revolutionary Wars.
 <br/><br/>
-En 1911 : The day after a bomb explodes prematurely, the Wuchang Uprising begins against the Chinese monarchy.
+En 1776 : American Revolution: A fleet of American boats on Lake Champlain is defeated by the Royal Navy, but delays the British advance until 1777.
 <br/><br/>
-En 1903 : The Women's Social and Political Union is founded in support of the enfranchisement of British women.
+En 1649 : Cromwell's New Model Army sacks Wexford, killing over 2,000 Irish Confederate troops and 1,500 civilians.
 <br/><br/>
-En 1868 : The Ten Years' War begins against Spanish rule in Cuba.
+En 1634 : The Burchardi flood kills around 15,000 in North Friesland, Denmark and Germany.
 <br/><br/>
-En 1846 : Triton, the largest moon of the planet Neptune, is discovered by English astronomer William Lassell.
+En 1614 : The New Netherland Company applies to the States General of the Netherlands for exclusive trading rights in what is now the northeastern United States.
 <br/><br/>
-En 1845 : In Annapolis, Maryland, the Naval School (later the United States Naval Academy) opens with 50 students.
+En 1311 : The peerage and clergy restrict the authority of English kings with the Ordinances of 1311.
 <br/><br/>
-En 1814 : War of 1812: The United States Revenue Marine attempts to defend the cutter Eagle from the Royal Navy.
+En 1142 : A peace treaty ends the Jin–Song wars.
 <br/><br/>
-En 1780 : The Great Hurricane of 1780 kills 20,000–30,000 in the Caribbean.
-<br/><br/>
-En 1760 : In a treaty with the Dutch colonial authorities, the Ndyuka people of Suriname – descended from escaped slaves – gain territorial autonomy.
-<br/><br/>
-En 1580 : Over 600 Papal troops land in Ireland to support the Second Desmond Rebellion.
-<br/><br/>
-En 1575 : Roman Catholic forces under Henry I, Duke of Guise, defeat the Protestants, capturing Philippe de Mornay among others.
-<br/><br/>
-En 1492 : The crew of Christopher Columbus's ship, the Santa Maria, attempt a mutiny.
-<br/><br/>
-En 1471 : Sten Sture the Elder, the Regent of Sweden, with the help of farmers and miners, repels an attack by King Christian I of Denmark.
-<br/><br/>
-En 732 : Charles Martel's forces defeat an Umayyad army near Tours, France.
-<br/><br/>
-En 680 : The Battle of Karbala marks the martyrdom of Husayn ibn Ali.
-<br/><br/>
-En 19 : The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province.
+En 1138 : A massive earthquake strikes Aleppo; it is one of the most destructive earthquakes ever.
 <br/><br/>
