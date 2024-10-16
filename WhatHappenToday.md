@@ -4,91 +4,131 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/10 ?(Hover on the year)</h1>
+<h1> What happen this day 16/10 ?(Hover on the year)</h1>
 
-En 2018 : 13-year-old American girl, Jayme Closs, is kidnapped from her Barron, Wisconsin home after her parents were both murdered.
+En 2017 : Storm Ophelia strikes the U.K. and Ireland causing major damage and power loss.
 <br/><br/>
-En 2016 : One hundred and ninety-seven nations amend the Montreal Protocol to include a phase-out of hydrofluorocarbons.
+En 2013 : Lao Airlines Flight 301 crashes on approach to Pakse International Airport in Laos, killing 49 people.
 <br/><br/>
-En 2013 : The 7.2 Mw Bohol earthquake strikes the Philippines. At least 215 were killed.
+En 2002 : The Bibliotheca Alexandrina opens in Egypt, commemorating the ancient library of Alexandria.
 <br/><br/>
-En 2008 : The Dow Jones Industrial Average closes down 733.08 points, or 7.87%, the second worst percentage drop in the Dow's history.
+En 1999 : The magnitude 7.1 Hector Mine earthquake strikes Southern California
 <br/><br/>
-En 2007 : Seventeen activists in New Zealand are arrested in the country's first post-9/11 anti-terrorism raids.
+En 1998 : Former Chilean dictator Augusto Pinochet is arrested in London on a murder extradition warrant.
 <br/><br/>
-En 2006 : The 6.7 Mw Kiholo Bay earthquake rocks Hawaii, causing property damage, injuries, landslides, power outages, and the closure of Honolulu International Airport.
+En 1996 : Eighty-four football fans die and 180 are injured in a massive crush at a match in Guatemala City.
 <br/><br/>
-En 2003 : China launches Shenzhou 5, its first crewed space mission.
+En 1995 : The Million Man March takes place in Washington, D.C. About 837,000 attend.
 <br/><br/>
-En 2001 : NASA's Galileo spacecraft passes within 112 miles (180 km) of Jupiter's moon Io.
+En 1995 : The Skye Bridge in Scotland is opened.
 <br/><br/>
-En 1997 : The Cassini probe launches from Cape Canaveral on its way to Saturn.
+En 1991 : George Hennard runs amok in Killeen, Texas, killing 23 and wounding 20.
 <br/><br/>
-En 1994 : The United States, under the Clinton administration, returns Haiti's first democratically elected president, Jean-Bertrand Aristide, to the island.
+En 1984 : Desmond Tutu is awarded the Nobel Peace Prize.
 <br/><br/>
-En 1991 : The "Oh-My-God particle", an ultra-high-energy cosmic ray measured at 40,000,000 times that of the highest energy protons produced in a particle accelerator, is observed at the University of Utah HiRes observatory in Dugway Proving Ground, Utah.
+En 1978 : Cardinal Karol Wojtyła is elected to the papacy as Pope John Paul II, he becomes the first non-Italian pontiff since 1523.
 <br/><br/>
-En 1991 : The leaders of the Baltic States, Arnold Rüütel of Estonia, Anatolijs Gorbunovs of Latvia and Vytautas Landsbergis of Lithuania, signed the OSCE Final Act in Helsinki, Finland.
+En 1975 : Indonesian troops kill the Balibo Five, a group of Australian journalists, in Portuguese Timor.
 <br/><br/>
-En 1990 : Soviet Union leader Mikhail Gorbachev is awarded the Nobel Peace Prize for his efforts to lessen Cold War tensions and open up his nation.
+En 1975 : Three-year-old Rahima Banu, from Bangladesh, is the last known case of naturally occurring smallpox.
 <br/><br/>
-En 1989 : Wayne Gretzky becomes the all-time leading points scorer in the NHL.
+En 1975 : The Australian Coalition sparks a constitutional crisis when they vote to defer funding for the government's annual budget.
 <br/><br/>
-En 1987 : Aero Trasporti Italiani Flight 460 crashes near Conca di Crezzo, Italy, killing all 37 people on board.
+En 1973 : Henry Kissinger and Lê Đức Thọ are awarded the Nobel Peace Prize.
 <br/><br/>
-En 1987 : A coup d'état in Burkina Faso overthrows and kills then President Thomas Sankara.
+En 1970 : Canadian Prime Minister Pierre Trudeau invokes the War Measures Act during the October Crisis.
 <br/><br/>
-En 1979 : Supporters of the Malta Labour Party ransack and destroy the Times of Malta building and other locations associated with the Nationalist Party.
+En 1968 : Tommie Smith and John Carlos are ejected from the US Olympic team for participating in the Olympics Black Power salute.
 <br/><br/>
-En 1979 : A coup d'état in El Salvador overthrows President Carlos Humberto Romero and begins the 12 year-long Salvadoran Civil War.
+En 1968 : Kingston, Jamaica is rocked by the Rodney riots, inspired by the barring of Walter Rodney from the country.
 <br/><br/>
-En 1970 : During the construction of Australia's West Gate Bridge, a span of the bridge falls and kills 35 workers. The incident is the country's worst industrial accident to this day.
+En 1968 : Yasunari Kawabata becomes the first Japanese person to be awarded the Nobel Prize in Literature.
 <br/><br/>
-En 1966 : The Black Panther Party is created by Huey P. Newton and Bobby Seale.
+En 1964 : China detonates its first nuclear weapon.
 <br/><br/>
-En 1965 : Vietnam War: A draft card is burned during an anti-war rally by the Catholic Worker Movement, resulting in the first arrest under a new law.
+En 1964 : Leonid Brezhnev becomes leader of the Soviet Communist Party, while Alexei Kosygin becomes the head of government.
 <br/><br/>
-En 1956 : FORTRAN, the first modern computer language, is first shared with the coding community.
+En 1962 : Cuban Missile Crisis begins: U.S. President John F. Kennedy is informed of photos taken on October 14 by a U-2 showing nuclear missiles (the crisis will last for 13 days starting from this point).
 <br/><br/>
-En 1954 : Hurricane Hazel devastates the eastern seaboard of North America, killing 95 and causing massive floods as far north as Toronto.
+En 1953 : Cuban revolutionary Fidel Castro delivers his "History Will Absolve Me" speech, and is sentenced to 15 years' imprisonment by the Fulgencio Batista government for leading an attack on the Moncada Barracks.
 <br/><br/>
-En 1951 : Mexican chemist Luis E. Miramontes completes the synthesis of norethisterone, the basis of an early oral contraceptive.
+En 1951 : The first Prime Minister of Pakistan, Liaquat Ali Khan, is assassinated in Rawalpindi.
 <br/><br/>
-En 1944 : World War II: Germany replaces the Hungarian government after Hungary announces an armistice with the Soviet Union.
+En 1949 : The Greek Communist Party announces a "temporary cease-fire", thus ending the Greek Civil War.
 <br/><br/>
-En 1940 : President Lluís Companys of Catalonia is executed by the Francoist government.
+En 1947 : The Philippines takes over the administration of the Turtle Islands and the Mangsee Islands from the United Kingdom.
 <br/><br/>
-En 1939 : The New York Municipal Airport (later renamed LaGuardia Airport) is dedicated.
+En 1946 : Nuremberg trials: Ten defendants found guilty by the International Military Tribunal are executed by hanging.
 <br/><br/>
-En 1932 : Tata Airlines (later to become Air India) makes its first flight.
+En 1943 : Holocaust in Italy: Raid on the Roman Ghetto.
 <br/><br/>
-En 1928 : The airship Graf Zeppelin completes its first trans-Atlantic flight, landing at Lakehurst, New Jersey, United States.
+En 1940 : Holocaust in Poland: The Warsaw Ghetto is established.
 <br/><br/>
-En 1923 : The German Rentenmark is introduced in Germany to counter hyperinflation in the Weimar Republic.
+En 1939 : World War II: No. 603 Squadron RAF intercepts the first Luftwaffe raid on Britain.
 <br/><br/>
-En 1910 : Airship America is launched from New Jersey in the first attempt to cross the Atlantic by a powered aircraft.
+En 1934 : Chinese Communists begin the Long March to escape Nationalist encirclement.
 <br/><br/>
-En 1888 : The "From Hell" letter allegedly sent by Jack the Ripper is received by investigators.
+En 1923 : Walt Disney and his brother, Roy, found the Disney Brothers Cartoon Studio, today known as The Walt Disney Company.
 <br/><br/>
-En 1878 : The Edison Electric Light Company begins operation.
+En 1919 : Adolf Hitler delivers his first public address at a meeting of the German Workers' Party.
 <br/><br/>
-En 1864 : American Civil War: The Union garrison of Glasgow, Missouri surrenders to Confederate forces.
+En 1916 : Margaret Sanger opens the first family planning clinic in the United States.
 <br/><br/>
-En 1815 : Napoleon begins his exile on Saint Helena in the South Atlantic Ocean.
+En 1909 : William Howard Taft and Porfirio Díaz hold the first summit between a U.S. and a Mexican president. They narrowly escape assassination.
 <br/><br/>
-En 1793 : Queen Marie Antoinette of France is tried and convicted of treason.
+En 1905 : The Partition of Bengal in India takes place.
 <br/><br/>
-En 1783 : The Montgolfier brothers' hot air balloon makes the first human ascent, piloted by Jean-François Pilâtre de Rozier.
+En 1882 : The Nickel Plate Railroad opens for business.
 <br/><br/>
-En 1781 : The Battle of Raft Swamp marks the last battle fought in North Carolina during the American Revolutionary War with a Patriot victory. It occurred four days before the British surrender at Yorktown.
+En 1875 : Brigham Young University is founded in Provo, Utah.
 <br/><br/>
-En 1651 : Qing forces capture the island of Zhoushan. Zhu Yihai, Prince of Lu, resident of the island and regent of the Southern Ming, flees to Kinmen.
+En 1869 : The Cardiff Giant, one of the most famous American hoaxes, is "discovered".
 <br/><br/>
-En 1582 : Adoption of the Gregorian calendar begins, eventually leading to near-universal adoption.
+En 1869 : Girton College, Cambridge is founded, becoming England's first residential college for women.
 <br/><br/>
-En 1529 : The Siege of Vienna ends when Austria routs the invading Ottoman forces, ending its European expansion.
+En 1859 : John Brown leads a raid on Harpers Ferry, Virginia.
 <br/><br/>
-En 1211 : Battle of the Rhyndacus: The Latin emperor Henry of Flanders defeats the Nicaean emperor Theodore I Laskaris.
+En 1847 : The novel Jane Eyre is published in London.
 <br/><br/>
-En 1066 : Following the death of Harold II at the Battle of Hastings, Edgar the Ætheling is proclaimed King of England by the Witan; he is never crowned, and concedes power to William the Conqueror two months later.
+En 1846 : William T. G. Morton administers ether anesthesia during a surgical operation.
+<br/><br/>
+En 1843 : William Rowan Hamilton invents quaternions, a three-dimensional system of complex numbers.
+<br/><br/>
+En 1841 : Queen's University is founded in the Province of Canada.
+<br/><br/>
+En 1836 : Great Trek: Afrikaner voortrekkers repulse a Matabele attack, but lose their livestock.
+<br/><br/>
+En 1834 : Much of the ancient structure of the Palace of Westminster in London burns to the ground.
+<br/><br/>
+En 1817 : Italian explorer and archaeologist Giovanni Belzoni, uncovered the Tomb of Seti I in the Valley of the Kings.
+<br/><br/>
+En 1817 : Simón Bolívar sentences Manuel Piar to death for challenging the racial-caste in Venezuela.
+<br/><br/>
+En 1813 : The Sixth Coalition attacks Napoleon in the three-day Battle of Leipzig.
+<br/><br/>
+En 1805 : War of the Third Coalition: Napoleon surrounds the Austrian army at Ulm.
+<br/><br/>
+En 1793 : French Revolution: Queen Marie Antoinette is executed.
+<br/><br/>
+En 1793 : War of the First Coalition: French victory at the Battle of Wattignies forces Austria to raise the siege of Maubeuge.
+<br/><br/>
+En 1780 : American Revolutionary War: The British-led Royalton raid is the last Native American raid on New England.
+<br/><br/>
+En 1780 : The Great Hurricane of 1780 finishes after its sixth day, killing between 20,000 and 24,000 residents of the Lesser Antilles.
+<br/><br/>
+En 1736 : Mathematician William Whiston's predicted comet fails to strike the Earth.
+<br/><br/>
+En 1590 : Prince Gesualdo of Venosa murders his wife and her lover.
+<br/><br/>
+En 1384 : Jadwiga is crowned King of Poland, although she is a woman.
+<br/><br/>
+En 1311 : The Council of Vienne convenes for the first time.
+<br/><br/>
+En 955 : King Otto I defeats a Slavic revolt in what is now Mecklenburg-Vorpommern.
+<br/><br/>
+En 912 : Abd ar-Rahman III becomes the eighth Emir of Córdoba.
+<br/><br/>
+En 690 : Empress Wu Zetian ascends to the throne of the Tang dynasty and proclaims herself ruler of the Chinese Empire.
+<br/><br/>
+En 456 : Ricimer defeats Avitus at Piacenza and becomes master of the Western Roman Empire.
 <br/><br/>
