@@ -4,127 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/10 ?(Hover on the year)</h1>
+<h1> What happen this day 18/10 ?(Hover on the year)</h1>
 
-En 2023 : An explosion at Al-Ahli Arab Hospital in Gaza kills hundreds of Palestinians during the Israel-Hamas war.
+En 2019 : NASA Astronauts Jessica Meir and Christina Koch take part in the first all-female spacewalk when they venture out of the International Space Station to replace a power controller.
 <br/><br/>
-En 2019 : Drug dealers in Culiacan, Sinaloa, Mexico force the government to back down on an arrest.
+En 2019 : Riots in Chile's capital Santiago escalate into open battles, with attacks reported at nearly all of the city's 164 Metro stations. President Sebastián Piñera later announces a 15-day state of emergency in the capital.
 <br/><br/>
-En 2019 : The 17 October Revolution starts in Lebanon.
+En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is uninjured.
 <br/><br/>
-En 2018 : The recreational use of cannabis is legalized in Canada.
+En 2003 : Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada is forced to resign and leave Bolivia.
 <br/><br/>
-En 2018 : A mass shooting and bombing at Kerch Polytechnic College in Crimea kills 21 people including the attacker and injures 70 others.
+En 1992 : Merpati Nustantara Airlines Flight 5601 crashes into Mount Papandayan near the town of Garut in West Java, Indonesia, killing 31.
 <br/><br/>
-En 2017 : Syrian civil war: The Syrian Democratic Forces (SDF) capture the last foothold of the Islamic State of Iraq and the Levant (ISIL) in Raqqa, marking the end of the Battle of Raqqa.
+En 1991 : The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.
 <br/><br/>
-En 2004 : A fire that lasted over 15 hours destroyed almost one third of the East Tower of the Parque Central Urban Complex in Caracas, Venezuela.
+En 1989 : The Space Shuttle Atlantis launches on STS-34 to deploy the Jupiter-bound Galileo space probe.
 <br/><br/>
-En 2003 : Taipei 101, a 101-floor skyscraper in Taipei, becomes the world's tallest high-rise.
+En 1979 : The Federal Communications Commission (FCC) begins allowing people to have home satellite earth stations without a federal government license.
 <br/><br/>
-En 2001 : Israeli tourism minister Rehavam Ze'evi is assassinated by Hamdi Quran, a member of the PFLP, thus becoming the highest-ranking Israeli to be killed by a Palestinian.
+En 1978 : Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opened in Yerevan.
 <br/><br/>
-En 2000 : The Hatfield rail crash leads to the collapse of Railtrack.
+En 1977 : German Autumn: A set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide.
 <br/><br/>
-En 1994 : Russian journalist Dmitry Kholodov is assassinated while investigating corruption in the armed forces.
+En 1967 : The Soviet probe Venera 4 reaches Venus and becomes the first spacecraft to measure the atmosphere of another planet.
 <br/><br/>
-En 1992 : Having gone to the wrong house, Japanese student Yoshihiro Hattori is killed by the homeowner in Baton Rouge, Louisiana.
+En 1963 : Félicette, a black and white female Parisian stray cat, becomes the first cat launched into space.
 <br/><br/>
-En 1991 : Rudrapur bombings by Sikh separatists, who explode two bombs, during a Ramlila Hindu celebration in Rudrapur, Uttarakhand, killing 41 people.
+En 1954 : Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.
 <br/><br/>
-En 1989 : The 6.9 Mw Loma Prieta earthquake shakes the San Francisco Bay Area and the Central Coast, killing 63.
+En 1945 : The USSR's nuclear program receives plans for the United States plutonium bomb from Klaus Fuchs at the Los Alamos National Laboratory.
 <br/><br/>
-En 1989 : The East German Politburo votes to remove Erich Honecker from his role as General Secretary.
+En 1945 : A group of the Venezuelan Armed Forces, led by Mario Vargas, Marcos Pérez Jiménez and Carlos Delgado Chalbaud, stages a coup d'état against president Isaías Medina Angarita, who is overthrown by the end of the day.
 <br/><br/>
-En 1988 : Uganda Airlines Flight 775 crashes at Rome–Fiumicino International Airport, in Rome, Italy, killing 33 people.
+En 1945 : Argentine military officer and politician Juan Perón marries actress Eva Duarte.
 <br/><br/>
-En 1980 : As part of the Holy See–United Kingdom relations a British monarch makes the first state visit to the Vatican.
+En 1944 : World War II: Soviet Union begins the liberation of Czechoslovakia from Nazi Germany.
 <br/><br/>
-En 1979 : Mother Teresa is awarded the Nobel Peace Prize.
+En 1944 : World War II: The state funeral of Field Marshal Erwin Rommel takes place in Ulm, Germany.
 <br/><br/>
-En 1979 : The Department of Education Organization Act creates the U.S. Department of Education.
+En 1929 : The Judicial Committee of the Privy Council overrules the Supreme Court of Canada in Edwards v. Canada when it declares that women are considered "Persons" under Canadian law.
 <br/><br/>
-En 1977 : The hijacked Lufthansa Flight 181 lands in Mogadishu. The remaining hostages are later rescued.
+En 1922 : The British Broadcasting Company (later Corporation)  is founded by a consortium, to establish a nationwide network of radio transmitters to provide a national broadcasting service.
 <br/><br/>
-En 1973 : OPEC imposes an oil embargo against countries they deem to have helped Israel in the Yom Kippur War.
+En 1921 : The Crimean Autonomous Soviet Socialist Republic is formed as part of the Russian Soviet Federative Socialist Republic.
 <br/><br/>
-En 1970 : FLQ terrorists murder Quebec Vice-Premier and Minister of Labour Pierre Laporte.
+En 1914 : The Schoenstatt Apostolic Movement is founded in Germany.
 <br/><br/>
-En 1969 : The Caravaggio painting Nativity with St. Francis and St. Lawrence is stolen from the Oratory of Saint Lawrence in Palermo.
+En 1912 : First Balkan War: King Peter I of Serbia issues a declaration "To the Serbian People", as his country joins the war.
 <br/><br/>
-En 1966 : The 23rd Street Fire in New York City kills 12 firefighters.
+En 1900 : Count Bernhard von Bülow becomes chancellor of Germany.
 <br/><br/>
-En 1965 : The 1964–65 New York World's Fair closes after two years and more than 51 million attendees.
+En 1898 : The United States takes possession of Puerto Rico from Spain.
 <br/><br/>
-En 1961 : Directed by their chief Maurice Papon, Paris police massacre scores of Algerian protesters.
+En 1867 : United States takes possession of Alaska after purchasing it from Russia for $7.2 million. Celebrated annually in the state as Alaska Day.
 <br/><br/>
-En 1961 : The first attempt of the apartheid analogy by Ahmad Shukeiri.
+En 1860 : The Second Opium War finally ends at the Convention of Peking with the ratification of the Treaty of Tientsin, an unequal treaty.
 <br/><br/>
-En 1956 : The first commercial nuclear power station is officially opened by Queen Elizabeth II in Sellafield, England.
+En 1851 : Herman Melville's Moby-Dick is first published as The Whale by Richard Bentley of London.
 <br/><br/>
-En 1952 : Indonesian Army elements surrounded the Merdeka Palace demanding President Sukarno disband the Provisional People's Representative Council.
+En 1797 : Treaty of Campo Formio is signed between France and Austria
 <br/><br/>
-En 1945 : A large demonstration in Buenos Aires, Argentina, demands Juan Perón's release.
+En 1779 : American Revolutionary War: The Franco-American Siege of Savannah is lifted.
 <br/><br/>
-En 1943 : The Burma Railway (Burma–Thailand Railway) is completed.
+En 1775 : African-American poet Phillis Wheatley is freed from slavery.
 <br/><br/>
-En 1943 : Nazi Holocaust in Poland: Sobibór extermination camp is closed.
+En 1775 : American Revolutionary War: The Burning of Falmouth (now Portland, Maine).
 <br/><br/>
-En 1941 : World War II: The USS Kearny becomes the first U.S. Navy vessel to be torpedoed by a U-boat.
+En 1748 : Signing of the Treaty of Aix-la-Chapelle ends the War of the Austrian Succession.
 <br/><br/>
-En 1940 : The body of Communist propagandist Willi Münzenberg is found in South France, starting a never-resolved mystery.
+En 1648 : Boston shoemakers form the first American labor organization.
 <br/><br/>
-En 1933 : Albert Einstein flees Nazi Germany and moves to the United States.
+En 1630 : Frendraught Castle in Scotland, the home of James Crichton of Frendraught, burns down.
 <br/><br/>
-En 1931 : Al Capone is convicted of income tax evasion.
+En 1599 : Michael the Brave, Prince of Wallachia, defeats the Army of Andrew Báthory in the Battle of Șelimbăr, leading to the first recorded unification of the Romanian people.
 <br/><br/>
-En 1919 : Leeds United F.C. founded at Salem Chapel, Holbeck after the winding up of Leeds City F.C. for making illegal payments to players during World War I
+En 1597 : King Philip II of Spain sends his third and final armada against England, but it ends in failure due to storms. The remaining ships are captured or sunk by the English.
 <br/><br/>
-En 1912 : Bulgaria, Greece and Serbia declare war on the Ottoman Empire, joining Montenegro in the First Balkan War.
+En 1565 : Ships belonging to the Matsura clan of Japan fail to capture the Portuguese trading carrack in the Battle of Fukuda Bay, the first recorded naval battle between Japan and the West.
 <br/><br/>
-En 1907 : Marconi begins the first commercial transatlantic wireless service.
+En 1561 : In Japan the fourth Battle of Kawanakajima is fought between the forces of Uesugi Kenshin and Takeda Shingen, resulting in a draw.
 <br/><br/>
-En 1861 : Aboriginal Australians kill nineteen Europeans in the Cullin-la-ringo massacre.
+En 1540 : Spanish conquistador Hernando de Soto's forces destroy the fortified town of Mabila in present-day Alabama, killing Tuskaloosa.
 <br/><br/>
-En 1860 : First The Open Championship (referred to in North America as the British Open).
+En 1356 : Basel earthquake, the most significant historic seismological event north of the Alps, destroys the town of Basel, Switzerland.
 <br/><br/>
-En 1850 : Riots start, which lead to a massacre in Aleppo.
+En 1281 : Pope Martin IV excommunicates King Peter III of Aragon for usurping the crown of Sicily (a sentence renewed on 7 May and 18 November 1282).
 <br/><br/>
-En 1814 : Eight people die in the London Beer Flood.
+En 1081 : The Normans defeat the Byzantine Empire in the Battle of Dyrrhachium.
 <br/><br/>
-En 1811 : The silver deposits of Agua Amarga are discovered in Chile becoming in the following years instrumental for the Patriots to finance the Chilean War of Independence.
+En 1016 : The Danes defeat the English in the Battle of Assandun.
 <br/><br/>
-En 1806 : Former leader of the Haitian Revolution, Emperor Jacques I, is assassinated after an oppressive rule.
+En 1009 : The Church of the Holy Sepulchre, a Christian church in Jerusalem, is completely destroyed by the Fatimid caliph Al-Hakim bi-Amr Allah, who hacks the Church's foundations down to bedrock.
 <br/><br/>
-En 1800 : War of the Second Coalition: Britain takes control of the Dutch colony of Curaçao.
+En 629 : Dagobert I is crowned King of the Franks.
 <br/><br/>
-En 1781 : American Revolutionary War: British General Charles, Earl Cornwallis surrenders at the Siege of Yorktown.
+En 614 : King Chlothar II promulgates the Edict of Paris (Edictum Chlotacharii), a sort of Frankish Magna Carta that defends the rights of the Frankish nobles while it excludes Jews from all civil employment in the Frankish Kingdom.
 <br/><br/>
-En 1777 : American Revolutionary War: British General John Burgoyne surrenders his army at Saratoga, New York.
+En 320 : Pappus of Alexandria, Greek philosopher, observes an eclipse of the Sun and writes a commentary on The Great Astronomer (Almagest).
 <br/><br/>
-En 1771 : Premiere in Milan of the opera Ascanio in Alba, composed by Mozart at age 15.
-<br/><br/>
-En 1713 : Great Northern War: Russia defeats Sweden in the Battle of Kostianvirta in Pälkäne.
-<br/><br/>
-En 1662 : Charles II of England sells Dunkirk to Louis XIV of France for 40,000 pounds.
-<br/><br/>
-En 1660 : The nine regicides who signed the death warrant of Charles I of England are hanged, drawn and quartered.
-<br/><br/>
-En 1610 : French king Louis XIII is crowned in Reims Cathedral.
-<br/><br/>
-En 1604 : Kepler's Supernova is observed in the constellation of Ophiuchus.
-<br/><br/>
-En 1558 : Poczta Polska, the Polish postal service, is founded.
-<br/><br/>
-En 1534 : Anti-Catholic posters appear in Paris and other cities supporting Huldrych Zwingli's position on the Mass.
-<br/><br/>
-En 1456 : The University of Greifswald is established as the second oldest university in northern Europe.
-<br/><br/>
-En 1448 : An Ottoman army defeats a Hungarian army at the Second Battle of Kosovo.
-<br/><br/>
-En 1346 : The English capture King David II of Scotland at Neville's Cross and imprison him for eleven years.
-<br/><br/>
-En 1091 : London tornado of 1091: A tornado thought to be of strength T8/F4 strikes the heart of London.
-<br/><br/>
-En 690 : Empress Wu Zetian establishes the Zhou Dynasty of China.
+En 33 : Heartbroken by the deaths of her sons Nero and Drusus, and banished to the island of Pandateria by Tiberius, Agrippina the Elder dies of self-inflicted starvation.
 <br/><br/>
