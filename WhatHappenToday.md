@@ -4,109 +4,81 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/10 ?(Hover on the year)</h1>
+<h1> What happen this day 20/10 ?(Hover on the year)</h1>
 
-En 2019 : Members of Parliament met at the House of Lords to discuss the United Kingdom's Brexit deal, this was the first Saturday sitting in Parliament since 3 April 1982 during the Falklands War.
+En 2022 : Liz Truss steps down as British Prime Minister and leader of the Conservative Party amid the country's political crisis, serving for the least time of any British Prime Minister [49 days].
 <br/><br/>
-En 2013 : One hundred and five people are injured in a train crash in Buenos Aires.
+En 2017 : Syrian civil war: The Syrian Democratic Forces (SDF) declare victory in the Raqqa campaign.
 <br/><br/>
-En 2012 : A bomb explosion kills eight people and injures 110 more in Lebanon.
+En 2011 : Libyan Crisis: Rebel forces capture Libyan dictator Muammar Gaddafi and his son Mutassim in his hometown of Sirte and kill him shortly thereafter, ending the first Libyan civil war.
 <br/><br/>
-En 2005 : Saddam Hussein goes on trial in Baghdad for crimes against humanity.
+En 2005 : The general conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) passes the Convention on the Protection and Promotion of the Diversity of Cultural Expressions.
 <br/><br/>
-En 2005 : Hurricane Wilma becomes the most intense Atlantic hurricane on record with a minimum pressure of 882 mb.
+En 2003 : The Sloan Great Wall, once the largest cosmic structures known to humanity, is discovered by students at Princeton University.
 <br/><br/>
-En 2004 : Thirteen people are killed when Corporate Airlines Flight 5966 crashes in Adair County, Missouri, while on approach to Kirksville Regional Airport.
+En 2002 : Top Gear, the revived popular British TV motoring magazine premiered on BBC.
 <br/><br/>
-En 2003 : Mother Teresa is beatified by Pope John Paul II.
+En 1995 : Space Shuttle Columbia launches on STS-73.
 <br/><br/>
-En 2001 : SIEV X, an Indonesian fishing boat en route to Christmas Island, carrying over 400 migrants, sinks in international waters with the loss of 353 people.
+En 1991 : A 6.8 Mw earthquake strikes the Uttarkashi region of India, killing more than 1,000 people.
 <br/><br/>
-En 1989 : The convictions of the Guildford Four are quashed by the Court of Appeal of England and Wales, after they had spent 15 years in prison.
+En 1991 : A massive firestorm breaks out in the hills of Oakland and Berkeley, California killing 25 people and destroying more than 3,000 homes, apartments and condominiums.
 <br/><br/>
-En 1988 : The British government imposes a broadcasting ban on television and radio interviews with members of Sinn Féin and eleven Irish republican and Ulster loyalist paramilitary groups.
+En 1986 : Aeroflot Flight 6502 crashes while landing at Kuibyshev Airport (now Kuromoch International Airport) in Kuibyshev (now present-day Samara, Russia), killing 70 people.
 <br/><br/>
-En 1987 : The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf.
+En 1982 : During the UEFA Cup match between FC Spartak Moscow and HFC Haarlem, 66 people are crushed to death in the Luzhniki disaster.
 <br/><br/>
-En 1987 : Black Monday: The Dow Jones Industrial Average falls by 22%, 508 points.
+En 1981 : Two police officers and a Brink's armored car guard are killed during an armed robbery carried out by members of the Black Liberation Army and Weather Underground in Nanuet, New York.
 <br/><br/>
-En 1986 : The president of Mozambique and a prominent leader of FRELIMO, along with 33 others, die when their aircraft crashes into the Lebombo Mountains.
+En 1977 : A plane carrying the rock band Lynyrd Skynyrd crashes in woodland in Mississippi, United States. Six people, including three band members, are killed.
 <br/><br/>
-En 1974 : Niue becomes a self-governing colony of New Zealand.
+En 1976 : The Luling–Destrehan Ferry MV George Prince is struck by the Norwegian freighter SS Frosta while crossing the Mississippi River in St. Charles Parish, Louisiana. Seventy-eight passengers and crew die, and only 18 people aboard the ferry survive.
 <br/><br/>
-En 1973 : President Nixon rejects an Appeals Court decision that he turn over the Watergate tapes.
+En 1973 : Watergate scandal: "Saturday Night Massacre": United States President Richard Nixon fires U.S. Attorney General Elliot Richardson and Deputy Attorney General William Ruckelshaus after they refuse to fire special prosecutor Archibald Cox, who is finally fired by Solicitor General Robert Bork.
 <br/><br/>
-En 1960 : The United States imposes a near-total trade embargo against Cuba.
+En 1973 : The Sydney Opera House is opened by Elizabeth II after 14 years of construction.
 <br/><br/>
-En 1956 : The Soviet Union and Japan sign a Joint Declaration, officially ending the state of war between the two countries that had existed since August 1945.
+En 1962 : China launches simultaneous offensives in Ladakh and across the McMahon Line, igniting the Sino-Indian War.
 <br/><br/>
-En 1955 : The General Assembly of the European Broadcasting Union approves the staging of the first Eurovision Song Contest.
+En 1961 : The Soviet Navy performs the first armed test of a submarine-launched ballistic missile, launching an R-13 from a Golf-class submarine.
 <br/><br/>
-En 1953 : Ray Bradbury's Fahrenheit 451 is published.
+En 1952 : The Governor of Kenya Evelyn Baring declares a state of emergency and begins arresting hundreds of suspected leaders of the Mau Mau Uprising.
 <br/><br/>
-En 1950 : China defeats the Tibetan Army at Chambo.
+En 1951 : The "Johnny Bright incident" occurs during a football game between the Drake Bulldogs and Oklahoma A&M Aggies.
 <br/><br/>
-En 1950 : Korean War: The Battle of Pyongyang ends in a United Nations victory. Hours later, the Chinese Army begins crossing the border into Korea.
+En 1948 : A KLM Lockheed L-049 Constellation crashes on approach to Glasgow Prestwick Airport, killing 40.
 <br/><br/>
-En 1950 : Iran becomes the first country to accept technical assistance from the United States under the Point Four Program.
+En 1947 : Cold War: The House Un-American Activities Committee begins its investigation into Communist infiltration of the Hollywood film industry, resulting in a blacklist that prevents some from working in the industry for years.
 <br/><br/>
-En 1944 : United States forces land in the Philippines.
+En 1944 : World War II: The Soviet Red Army and Yugoslav Partisans liberate Belgrade.
 <br/><br/>
-En 1944 : A coup is launched against Juan Federico Ponce Vaides, beginning the ten-year Guatemalan Revolution.
+En 1944 : Liquefied natural gas leaks from storage tanks in Cleveland and then explodes, leveling 30 blocks and killing 130 people.
 <br/><br/>
-En 1943 : The cargo vessel Sinfra is attacked by Allied aircraft at Crete and sunk. Two thousand and ninety-eight Italian prisoners of war drown with it.
+En 1944 : American general Douglas MacArthur fulfills his promise to return to the Philippines when he comes ashore during the Battle of Leyte.
 <br/><br/>
-En 1943 : Streptomycin, the first antibiotic remedy for tuberculosis, is isolated by researchers at Rutgers University.
+En 1941 : World War II: Thousands of civilians in German-occupied Serbia are murdered in the Kragujevac massacre.
 <br/><br/>
-En 1935 : The League of Nations places economic sanctions on Italy for its invasion of Ethiopia.
+En 1935 : The Long March, a mammoth retreat undertaken by the armed forces of the Chinese Communist Party a year prior, ends.
 <br/><br/>
-En 1922 : British Conservative MPs vote to terminate the coalition government with the Liberal Party.
+En 1910 : British ocean liner RMS Olympic is launched.
 <br/><br/>
-En 1921 : The Portuguese Prime Minister and several officials are murdered in the Bloody Night coup.
+En 1904 : Chile and Bolivia sign the Treaty of Peace and Friendship, delimiting the border between the two countries.
 <br/><br/>
-En 1914 : World War I: The First Battle of Ypres begins.
+En 1883 : Peru and Chile sign the Treaty of Ancón, by which the Tarapacá province is ceded to the latter, bringing an end to Peru's involvement in the War of the Pacific.
 <br/><br/>
-En 1912 : Italo-Turkish War: Italy takes possession of what is now Libya from the Ottoman Empire.
+En 1827 : Greek War of Independence: In the Battle of Navarino, a combined Turkish and Egyptian fleet is defeated by British, French and Russian naval forces in the last significant battle fought with wooden sailing ships.
 <br/><br/>
-En 1900 : Max Planck discovers Planck's law of black-body radiation.
+En 1818 : The Convention of 1818 is signed between the United States and the United Kingdom, which settles the Canada–United States border on the 49th parallel for most of its length.
 <br/><br/>
-En 1866 : In accordance with the Treaty of Vienna, Austria cedes Veneto and Mantua to France, which immediately awards them to Italy in exchange for the earlier Italian acquiescence to the French annexation of Savoy and Nice.
+En 1803 : The United States Senate ratifies the Louisiana Purchase.
 <br/><br/>
-En 1864 : American Civil War: The Battle of Cedar Creek ends the last Confederate threat to Washington, DC.
+En 1781 : The Patent of Toleration, providing limited freedom of worship, is approved in Austria.
 <br/><br/>
-En 1864 : American Civil War: Confederate agents based in Canada rob three banks in Saint Albans, Vermont.
+En 1774 : American Revolution: The Continental Association, a nonconsumption and nonimportation agreement against the British Isles and the British West Indies, is adopted by the First Continental Congress.
 <br/><br/>
-En 1847 : The novel Jane Eyre is published in London.
+En 1740 : France, Prussia, Bavaria and Saxony refuse to honour the Pragmatic Sanction, and the War of the Austrian Succession begins.
 <br/><br/>
-En 1813 : War of the Sixth Coalition: Napoleon is forced to retreat from Germany after the Battle of Leipzig.
+En 1572 : Eighty Years' War: Three thousand Spanish soldiers wade through fifteen miles of water in one night to effect the relief of Goes.
 <br/><br/>
-En 1812 : The French invasion of Russia fails when Napoleon begins his retreat from Moscow.
-<br/><br/>
-En 1805 : War of the Third Coalition: Austrian General Mack surrenders his army to Napoleon at the Battle of Ulm.
-<br/><br/>
-En 1791 : Treaty of Drottningholm, between Sweden and Russia
-<br/><br/>
-En 1789 : John Jay is sworn in as the first Chief Justice of the United States.
-<br/><br/>
-En 1781 : American Revolutionary War: The siege of Yorktown comes to an end.
-<br/><br/>
-En 1649 : New Ross town in Ireland surrenders to Oliver Cromwell.
-<br/><br/>
-En 1596 : The Spanish ship San Felipe runs aground on the coast of Japan and its cargo is confiscated by local authorities.
-<br/><br/>
-En 1579 : James VI of Scotland is celebrated as an adult ruler by a festival in Edinburgh.
-<br/><br/>
-En 1512 : Martin Luther becomes a doctor of theology.
-<br/><br/>
-En 1469 : Ferdinand II of Aragon marries Isabella I of Castile, a marriage that paves the way to the unification of Aragon and Castile into a single country, Spain.
-<br/><br/>
-En 1466 : The Thirteen Years' War between Poland and the Teutonic Order ends with the Second Treaty of Thorn.
-<br/><br/>
-En 1453 : Hundred Years' War: Three months after the Battle of Castillon, England loses its last possessions in southern France.
-<br/><br/>
-En 1386 : The Universität Heidelberg holds its first lecture, making it the oldest German university.
-<br/><br/>
-En 439 : The Vandals, led by King Gaiseric, take Carthage in North Africa.
-<br/><br/>
-En -202 : Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.
+En 1568 : The Spanish Duke of Alba defeats a Dutch rebel force under William the Silent.
 <br/><br/>
