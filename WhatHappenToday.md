@@ -4,121 +4,125 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 23/10 ?(Hover on the year)</h1>
+<h1> What happen this day 24/10 ?(Hover on the year)</h1>
 
-En 2022 : Xi Jinping is elected as General Secretary of the Chinese Communist Party by the Central Committee, beginning a third term of the paramount leader of China.
+En 2018 : The world's longest sea crossing, the Hong Kong–Zhuhai–Macau Bridge, opens for public traffic.
 <br/><br/>
-En 2022 : Myanmar Air Force airstrikes a concert in Hpakant Township, Kachin state killing at least 80 people, including senior Kachin Independence Organisation officials, in the Hpakant massacre.
+En 2016 : A French surveillance aircraft flying to Libya crashes on takeoff in Malta, killing all five people on board.
 <br/><br/>
-En 2020 : Second Libyan Civil War: The Second Libyan Civil War comes to an end as all parties to the 5+5 Joint Libyan Military Commission agree to a ceasefire.
+En 2016 : Three heavily-armed terrorists from the Islamic State – Khorasan Province open fire on and eventually suicide bomb a police training centre in Balochistan, Pakistan, killing at least 59 cadets and injuring more than 165 others.
 <br/><br/>
-En 2017 : War against the Islamic State: Philippine defense secretary Delfin Lorenzana declares the end of the Siege of Marawi.
+En 2015 : A driver crashes into the Oklahoma State Homecoming parade, killing four people and injuring 34.
 <br/><br/>
-En 2015 : The lowest sea-level pressure in the Western Hemisphere, and the highest reliably-measured non-tornadic sustained winds, are recorded in Hurricane Patricia, which strikes Mexico hours later, killing at least 13 and causing over $280 million in damages.
+En 2014 : The China National Space Administration launches an experimental lunar mission, Chang'e 5-T1, which will loop behind the Moon and return to Earth.
 <br/><br/>
-En 2011 : A powerful 7.2 magnitude earthquake strikes Van Province, Turkey, killing 582 people and injuring thousands.
+En 2008 : "Bloody Friday" saw many of the world's stock exchanges experience the worst declines in their history, with drops of around 10% in most indices.
 <br/><br/>
-En 2011 : The Libyan National Transitional Council deems the Libyan Civil War over.
+En 2007 : Chang'e 1, the first satellite in the Chinese Lunar Exploration Program, is launched from Xichang Satellite Launch Center.
 <br/><br/>
-En 2007 : A storm causes the Mexican Kab 101 oil platform to collide with a wellhead, leading to the death and drowning of 22 people during rescue operations after evacuation of the platform.
+En 2005 : Hurricane Wilma makes landfall in Florida, resulting in 35 direct and 26 indirect fatalities and causing $20.6B USD in damage.
 <br/><br/>
-En 2007 : Space Shuttle Discovery is launched on STS-120, with Pamela Melroy becoming the second female space shuttle commander.
+En 2004 : Arsenal Football Club loses to Manchester United, ending a row of unbeaten matches at 49 matches, which is the record in the Premier League.
 <br/><br/>
-En 2004 : A powerful earthquake and its aftershocks hit Niigata Prefecture in northern Japan, killing 35 people, injuring 2,200, and leaving 85,000 homeless or evacuated.
+En 2003 : Concorde makes its last commercial flight.
 <br/><br/>
-En 2002 : Second Chechen War: Chechen separatist terrorists seize the House of Culture theater in Moscow and take approximately 700 theater-goers hostage.
+En 1998 : Deep Space 1 is launched to explore the asteroid belt and test new spacecraft technologies.
 <br/><br/>
-En 2001 : Apple Computer releases the iPod.
+En 1992 : The Toronto Blue Jays become the first Major League Baseball team based outside the United States to win the World Series.
 <br/><br/>
-En 1998 : Israel and the Palestinian Authority sign the Wye River Memorandum.
+En 1990 : Italian prime minister Giulio Andreotti reveals to the Italian parliament the existence of Gladio, the Italian NATO force formed in 1956, intended to be activated in the event of a Warsaw Pact invasion.
 <br/><br/>
-En 1995 : Yolanda Saldívar is found guilty of first-degree murder in the shooting death of popular Latin singer Selena.
+En 1986 : Nezar Hindawi is sentenced to 45 years in prison, the longest sentence handed down by a British court, for the attempted bombing of an El Al flight at Heathrow Airport.
 <br/><br/>
-En 1993 : The Troubles: A Provisional IRA bomb prematurely detonates in Belfast, killing the bomber and nine civilians.
+En 1980 : The government of Poland legalizes the Solidarity trade union.
 <br/><br/>
-En 1991 : Signing of the Paris Peace Accords which ends the Cambodian–Vietnamese War.
+En 1975 : In Iceland, 90% of women take part in a national strike, refusing to work in protest of gender inequality.
 <br/><br/>
-En 1989 : The Hungarian Republic officially replaces the communist Hungarian People's Republic.
+En 1964 : Northern Rhodesia gains independence from the United Kingdom and becomes Zambia.
 <br/><br/>
-En 1989 : Bankruptcy of Wärtsilä Marine, the biggest bankruptcy in the Nordic countries up until then.
+En 1963 : An oxygen leak from an R-9 Desna missile at the Baikonur Cosmodrome triggers a fire that kills seven people.
 <br/><br/>
-En 1989 : An explosion at the Houston Chemical Complex in Pasadena, Texas, which registered a 3.5 on the Richter magnitude scale, kills 23 and injures 314.
+En 1960 : Nedelin catastrophe: An R-16 ballistic missile explodes on the launch pad at the Soviet Union's Baikonur Cosmodrome space facility, killing over 100 people, including Field Marshal Mitrofan Nedelin.
 <br/><br/>
-En 1983 : Lebanese Civil War: The U.S. Marines Corps barracks in Beirut is hit by a truck bomb, killing 241 U.S. military personnel.  A French Army barracks in Lebanon is also hit that same morning, killing 58 troops.
+En 1957 : The United States Air Force starts the X-20 Dyna-Soar crewed space program.
 <br/><br/>
-En 1982 : A gunfight breaks out between police officers and members of a religious cult in Arizona. The shootout leaves two cultists dead and dozens of cultists and police officers injured.
+En 1954 : US President Dwight D. Eisenhower pledges United States support to South Vietnam.
 <br/><br/>
-En 1972 : Vietnam War: Operation Linebacker, a US bombing campaign against North Vietnam in response to its Easter Offensive, ends after five months.
+En 1950 : Annexation of Tibet by the People's Republic of China: The People’s Liberation Army ceases all military operations in Tibet, ending the Battle of Chamdo.
 <br/><br/>
-En 1970 : Gary Gabelich sets a land speed record in a rocket-powered automobile called the Blue Flame, fueled with natural gas.
+En 1949 : The cornerstone of the United Nations Headquarters is laid.
 <br/><br/>
-En 1965 : Vietnam War: The 1st Cavalry Division (Airmobile), in conjunction with the Army of the Republic of Vietnam, launches an operation seeking to destroy Communist forces during the siege of Plei Me.
+En 1947 : Famed animator Walt Disney testifies before the House Un-American Activities Committee, naming Disney employees he believes to be communists.
 <br/><br/>
-En 1958 : Canada's Springhill mining disaster kills seventy-five miners, while ninety-nine others are rescued.
+En 1947 : United Air Lines Flight 608 crashes in the Bryce Canyon National Park in Garfield County, Utah, while attempting an emergency landing at Bryce Canyon Airport, killing 52 people.
 <br/><br/>
-En 1958 : Belgian artist Peyo's comic characters, the Smurfs, make their debut in Spirou magazine.
+En 1946 : A camera on board the V-2 No. 13 rocket takes the first photograph of earth from outer space.
 <br/><br/>
-En 1956 : Secret police shoot several anti-communist protesters, igniting the Hungarian Revolution.
+En 1945 : The United Nations Charter comes into effect.
 <br/><br/>
-En 1955 : Prime Minister Ngô Đình Diệm defeats former emperor Bảo Đại in a referendum and founds the Republic of Vietnam.
+En 1944 : World War II: Japan's center force is temporarily repulsed in the Battle of Leyte Gulf.
 <br/><br/>
-En 1955 : The people of the Saar region vote in a referendum to unite with West Germany instead of France.
+En 1931 : The George Washington Bridge opens to public traffic over the Hudson River.
 <br/><br/>
-En 1944 : World War II: The Battle of Leyte Gulf begins.
+En 1930 : A bloodless coup d'état in Brazil ends the First Republic, replacing it with the Vargas Era.
 <br/><br/>
-En 1942 : World War II: Allied forces commence the Second Battle of El Alamein, which proves to be the key turning point in the North African campaign.
+En 1929 : "Black Thursday" on the New York Stock Exchange.
 <br/><br/>
-En 1942 : All 12 passengers and crewmen aboard American Airlines Flight 28 are killed when it collides with a U.S. Army Air Force bomber near Palm Springs, California.
+En 1926 : Harry Houdini's last performance takes place at the Garrick Theatre in Detroit.
 <br/><br/>
-En 1942 : World War II: The Battle for Henderson Field begins on Guadalcanal.
+En 1918 : World War I: Italian victory in the Battle of Vittorio Veneto.
 <br/><br/>
-En 1941 : The Holocaust: Nazi Germany prohibits Jews from emigrating, including in its occupied territories.
+En 1917 : World War I: Italy suffers a disastrous defeat at the Battle of Caporetto on the Austro-Italian front.
 <br/><br/>
-En 1940 : Adolf Hitler and Francisco Franco meet at Hendaye to discuss the possibility of Spain entering the Second World War.
+En 1912 : First Balkan War: The Battle of Kirk Kilisse concludes with a Bulgarian victory against the Ottoman Empire.
 <br/><br/>
-En 1927 : The Imatra Cinema is destroyed in a fire in Tampere, Finland, during showing the 1924 film Wages of Virtue; 21 people die in the fire and almost 30 are injured.
+En 1912 : First Balkan War: The Battle of Kumanovo concludes with the Serbian victory against the Ottoman Empire.
 <br/><br/>
-En 1924 : Second Zhili–Fengtian War: Warlord Feng Yuxiang, with the covert support of the Empire of Japan, stages a coup in Beijing against his erstwhile superiors in the Zhili clique, crippling their nearly victorious war effort against the Fengtian clique and forcing them to withdraw from northern China.
+En 1911 : Orville Wright remains in the air nine minutes and 45 seconds in a glider at Kill Devil Hills, North Carolina.
 <br/><br/>
-En 1923 : German October: Due to a miscommunication with the party leadership, a militant section of the Communist Party of Germany launches an insurrection in Hamburg.
+En 1902 : Guatemala's Santa María volcano begins to erupt, becoming the third-largest eruption of the 20th century.
 <br/><br/>
-En 1912 : First Balkan War: The Battle of Kumanovo between the Serbian and Ottoman armies begins.
+En 1901 : Annie Edson Taylor becomes the first person to go over Niagara Falls in a barrel.
 <br/><br/>
-En 1911 : The Italo-Turkish War sees the first use of an airplane in combat when an Italian pilot makes a reconnaissance flight.
+En 1900 : U.S. Government announces plans to buy Danish West Indies for $7 million.
 <br/><br/>
-En 1906 : Alberto Santos-Dumont flies an airplane in the first heavier-than-air flight in Europe.
+En 1894 : First Sino-Japanese War: Battle of Jiuliancheng: Under the command of General Yamagata Aritomo, the Imperial Japanese Army covertly crosses the Yalu River into Qing territory and launches an assault on the fortifications at Hushan.
 <br/><br/>
-En 1868 : Meiji Restoration: Having taken the shogunate’s seat of power at Edo and declared it his new capital as Tokyo, Mutsuhito proclaims the start of the new Meiji era.
+En 1889 : Henry Parkes delivers the Tenterfield Oration, effectively starting the federation process in Australia.
 <br/><br/>
-En 1864 : American Civil War: The Battle of Westport is the last significant engagement west of the Mississippi River, ending in a Union victory.
+En 1886 : Normanton incident: As the British merchant vessel Normanton sinks off the coast of Japan, her European officers appear to commandeer the ship’s lifeboats for themselves, leaving her Asian crew and passengers to die and conjuring significant political outrage in Japan.
 <br/><br/>
-En 1856 : Second Opium War: Dissatisfied with imperial commissioner Ye Mingchen’s reparations for the alleged slighting of a British-owned vessel and at Consul Harry Parkes’s urging, British Rear-Admiral Michael Seymour launches an assault on the Barrier Forts outside Canton in the first military engagement of the Second Opium War.
+En 1876 : Shinpūren rebellion: Upset at the Westernisation of Meiji Japan and the abolition of the Tokugawa feudal hierarchy, the Keishintō, a group of extremist Shinto former samurai, launch a surprise attack against the Meiji government in Kumamoto Prefecture.
 <br/><br/>
-En 1850 : The first National Women's Rights Convention begins in Worcester, Massachusetts.
+En 1871 : An estimated 17 to 22 Chinese immigrants are lynched in Los Angeles, California.
 <br/><br/>
-En 1812 : General Claude François de Malet begins a conspiracy to overthrow Napoleon, claiming that the Emperor died in the Russian campaign.
+En 1861 : The first transcontinental telegraph line across the United States is completed.
 <br/><br/>
-En 1798 : The forces of Ali Pasha of Janina defeat the French and capture the town of Preveza in the Battle of Nicopolis.
+En 1860 : Convention of Peking: The Second Opium War formally comes to a close, with Qing China ceding Kowloon in perpetuity to the victorious British Empire.
 <br/><br/>
-En 1707 : The First Parliament of the Kingdom of Great Britain convenes.
+En 1857 : Sheffield F.C., the world's oldest association football club still in operation, is founded in England.
 <br/><br/>
-En 1666 : The most intense tornado on record in English history, an F4 storm on the Fujita scale or T8 on the TORRO scale, strikes the county of Lincolnshire, with winds of more than 213 miles per hour (343 km/h).
+En 1851 : William Lassell discovers the moons Umbriel and Ariel orbiting Uranus.
 <br/><br/>
-En 1642 : The Battle of Edgehill is the first major battle of the English Civil War.
+En 1813 : Treaty of Gulistan: The Russo-Persian War of 1804-1813 comes to a close with the signing of the Treaty of Gulistan, under which terms Qajar Iran agrees to cede the bulk of its Caucasian territories, which comprise much of modern Dagestan, Georgia, Armenia, and Azerbaijan, to the Russian Empire.
 <br/><br/>
-En 1641 : Irish Catholic gentry from Ulster attempt to seize control of Dublin Castle, the seat of English rule in Ireland, so as to force concessions.
+En 1812 : Napoleonic Wars: The Battle of Maloyaroslavets takes place near Moscow.
 <br/><br/>
-En 1295 : The first treaty forming the Auld Alliance between Scotland and France against England is signed in Paris.
+En 1795 : Poland is completely consumed by Russia, Prussia and Austria.
 <br/><br/>
-En 1157 : The Battle of Grathe Heath ends the Danish Civil War.
+En 1648 : The Peace of Westphalia is signed, marking the end of the Thirty Years' War and the Eighty Years' War.
 <br/><br/>
-En 1086 : Spanish Reconquista: At the Battle of Sagrajas, the Almoravids defeats the Castilians, but are unable to take advantage of their victory.
+En 1641 : Felim O'Neill of Kinard, the leader of the Irish Rebellion, issues his Proclamation of Dungannon, justifying the uprising and declaring continued loyalty to King Charles I of England.
 <br/><br/>
-En 502 : The Synodus Palmaris, called by Gothic king Theoderic, absolves Pope Symmachus of all charges, thus ending the schism of Antipope Laurentius.
+En 1596 : The second Spanish armada sets sail to strike against England, but is smashed by storms off Cape Finisterre forcing a retreat to port.
 <br/><br/>
-En 425 : Valentinian III is elevated as Roman emperor at the age of six.
+En 1590 : John White, the governor of the second Roanoke Colony, returns to England after an unsuccessful search for the "lost" colonists.
 <br/><br/>
-En -42 : Liberators' civil war: Mark Antony and Octavian decisively defeat an army under Brutus in the second part of the Battle of Philippi, with Brutus committing suicide and ending the civil war.
+En 1360 : The Treaty of Brétigny is ratified, marking the end of the first phase of the Hundred Years' War.
 <br/><br/>
-En -4004 : James Ussher's proposed creation date of the world according to the Bible.
+En 1260 : Chartres Cathedral is dedicated in the presence of King Louis IX of France.
+<br/><br/>
+En 1260 : After defeating the Mongols at the Battle of Ain Jalut and assassinating the previous Mamluk sultan, Qutuz, Baybars ascends to the Egyptian throne as the fourth sultan of the Mamluk Sultanate.
+<br/><br/>
+En 69 : In the Second Battle of Bedriacum, troops loyal to Vespasian defeat those of Emperor Vitellius.
 <br/><br/>
