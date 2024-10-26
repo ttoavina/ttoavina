@@ -4,87 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 25/10 ?(Hover on the year)</h1>
+<h1> What happen this day 26/10 ?(Hover on the year)</h1>
 
-En 2023 : A mass shooting occurs in two locations in Lewiston, Maine. 18 people are killed and 13 more injured.
+En 2015 : A 7.5 magnitude earthquake strikes in the Hindu Kush mountain range in South Asia, killing 399 people and leaving 2,536 people injured.
 <br/><br/>
-En 2010 : Mount Merapi in Indonesia begins a month-long series of violent eruptions that kill 353 people and cause the evacuation of another 350,000 people.
+En 2012 : Microsoft made a public release of Windows 8 and made it available on new PCs.
 <br/><br/>
-En 2010 : A magnitude 7.8 earthquake strikes off Indonesia's Mentawai Islands, triggering a tsunami that kills at least 400 people.
+En 2004 : Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.
 <br/><br/>
-En 2009 : The October 2009 Baghdad bombings kill 155 and wound at least 721.
+En 2003 : The Cedar Fire, the third-largest wildfire in California history, kills 15 people, consumes 250,000 acres (1,000 km2), and destroys 2,200 homes around San Diego.
 <br/><br/>
-En 2001 : Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.
+En 2002 : Approximately 50 Chechen terrorists and 150 hostages die when Russian special forces troops storm a theater building in Moscow, which had been occupied by the terrorists during a musical performance three days before.
 <br/><br/>
-En 1999 : A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.
+En 2001 : The United States passes the USA PATRIOT Act into law.
 <br/><br/>
-En 1997 : After a civil war, Denis Sassou Nguesso proclaims himself President of the Republic of the Congo.
+En 2000 : A wave of protests forces Robert Guéï to step down as president after the Ivorian presidential election.
 <br/><br/>
-En 1995 : A commuter train slams into a school bus in Fox River Grove, Illinois, killing seven students.
+En 1999 : The United Kingdom's House of Lords votes to end the right of most hereditary peers to vote in Britain's upper chamber of Parliament.
 <br/><br/>
-En 1990 : The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union.
+En 1995 : Mossad agents assassinate Palestinian Islamic Jihad leader Fathi Shaqaqi in his hotel in Malta.
 <br/><br/>
-En 1983 : The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état.
+En 1995 : An avalanche hits the Icelandic village of Flateyri, destroying 29 homes and burying 45 people, and killing 20.
 <br/><br/>
-En 1980 : Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.
+En 1994 : Jordan and Israel sign a peace treaty.
 <br/><br/>
-En 1973 : Egypt and Israel accept United Nations Security Council Resolution 339.
+En 1991 : Three months after the end of the Ten-Day War, the last soldier of the Yugoslav People's Army leaves the territory of the Republic of Slovenia.
 <br/><br/>
-En 1971 : The People's Republic of China replaces the Republic of China at the United Nations.
+En 1989 : China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.
 <br/><br/>
-En 1968 : A Fairchild F-27 crashes into Moose Mountain while on approach to Lebanon Municipal Airport in Lebanon, New Hampshire, killing 32 people.
+En 1985 : The Australian government returns ownership of Uluru to the local Pitjantjatjara Aboriginals.
 <br/><br/>
-En 1962 : Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
+En 1979 : Park Chung Hee, President of South Korea, is assassinated by Korean CIA head Kim Jae-gyu.
 <br/><br/>
-En 1949 : The Battle of Guningtou in the Taiwan Strait begins.
+En 1977 : Ali Maow Maalin, the last natural case of smallpox, develops a rash in Somalia. The WHO and the CDC consider this date to be the anniversary of the eradication of smallpox, the most spectacular success of vaccination.
 <br/><br/>
-En 1945 : Fifty years of Japanese administration of Taiwan formally ends when the Republic of China assumes control.
+En 1968 : Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.
 <br/><br/>
-En 1944 : World War II: Heinrich Himmler orders a crackdown on the Edelweiss Pirates, a loosely organized youth culture in Nazi Germany that had assisted army deserters and others to hide from the Third Reich.
+En 1967 : Mohammad Reza Pahlavi crowns himself Emperor of Iran.
 <br/><br/>
-En 1944 : World War II: The USS Tang under Richard O'Kane (the top American submarine ace of the war) is sunk by the ship's own malfunctioning torpedo.
+En 1958 : Pan American Airways makes the first commercial flight of the Boeing 707 from New York City to Paris.
 <br/><br/>
-En 1944 : World War II: The final attempt of the Imperial Japanese Navy to win the war climaxes at the Battle of Leyte Gulf.
+En 1956 : Hungarian Revolution: In the towns of Mosonmagyaróvár and Esztergom, Hungarian secret police forces massacre civilians. As rebel strongholds in Budapest hold, fighting spreads throughout the country.
 <br/><br/>
-En 1940 : Benjamin O. Davis Sr. is named the first African American general in the United States Army.
+En 1955 : After the last Allied troops have left the country, and following the provisions of the Austrian Independence Treaty, Austria declares that it will never join a military alliance.
 <br/><br/>
-En 1932 : George Lansbury became the leader of the opposition British Labour Party.
+En 1955 : Ngô Đình Diệm proclaims himself as President of the newly created Republic of Vietnam.
 <br/><br/>
-En 1927 : The Italian luxury liner SS Principessa Mafalda sinks off the coast of Brazil, killing 314.
+En 1947 : Partition of India: The Maharaja of Kashmir and Jammu signs the Instrument of Accession with India, beginning the Indo-Pakistani War of 1947–1948 and the Kashmir conflict.
 <br/><br/>
-En 1924 : The Zinoviev letter, which Zinoviev himself denied writing, is published in the Daily Mail; the Labour party would later blame this letter for the Conservatives' landslide election win four days later.
+En 1944 : World War II: The Battle of Leyte Gulf ends with an overwhelming American victory.
 <br/><br/>
-En 1920 : After 74 days on hunger strike in Brixton Prison, England, the Sinn Féin Lord Mayor of Cork, Terence MacSwiney dies.
+En 1942 : World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.
 <br/><br/>
-En 1917 : Old Style date of the October Revolution in Russia.
+En 1937 : Nazi Germany begins expulsions of 18,000 Polish Jews.
 <br/><br/>
-En 1911 : The Xinhai Revolution spreads to Guangzhou, where the Qing general Feng-shan is assassinated by the Chinese Assassination Corps.
+En 1936 : The first electric generator at Hoover Dam goes into full operation.
 <br/><br/>
-En 1875 : Pyotr Ilyich Tchaikovsky’s Piano Concerto No. 1 in B♭ minor, Op. 23 premieres in Boston, Massachusetts, with Benjamin Johnson Lang as conductor and Hans von Bülow as soloist.
+En 1918 : World War I: Erich Ludendorff, quartermaster-general of the Imperial German Army, is dismissed by Kaiser Wilhelm II for refusing to cooperate in peace negotiations.
 <br/><br/>
-En 1868 : The Uspenski Cathedral, designed by Aleksey Gornostayev, is inaugurated in Helsinki, Finland.
+En 1917 : World War I: Brazil declares war on the Central Powers.
 <br/><br/>
-En 1861 : The Toronto Stock Exchange is created.
+En 1912 : First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje.
 <br/><br/>
-En 1854 : The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.
+En 1909 : Japanese occupation of Korea: An Jung-geun assassinates Japan's Resident-General of Korea.
 <br/><br/>
-En 1822 : Greek War of Independence: The First Siege of Missolonghi begins.
+En 1905 : King Oscar II recognizes the dissolution of the union between Norway and Sweden.
 <br/><br/>
-En 1812 : War of 1812: The American frigate, USS United States, commanded by Stephen Decatur, captures the British frigate HMS Macedonian.
+En 1892 : Ida B. Wells publishes Southern Horrors: Lynch Law in All Its Phases.
 <br/><br/>
-En 1809 : Golden Jubilee of George III is celebrated in Britain as he begins the fiftieth year of his reign.
+En 1890 : Malleco Viaduct in Chile, at the time "the highest railroad bridge in the world", is inaugurated by President José Manuel Balmaceda.
 <br/><br/>
-En 1760 : King George III succeeds to the British throne on the death of his grandfather George II.
+En 1881 : Wyatt Earp and Doc Holliday participate in the Gunfight at the O.K. Corral in Tombstone, Arizona.
 <br/><br/>
-En 1747 : War of the Austrian Succession: A British fleet under Admiral Edward Hawke defeats the French at the Second Battle of Cape Finisterre.
+En 1871 : Liberian President Edward James Roye is deposed in a coup d'état.
 <br/><br/>
-En 1616 : Dutch sea-captain Dirk Hartog makes the second recorded landfall by a European on Australian soil, at the later-named Dirk Hartog Island off the West Australian coast.
+En 1863 : The Football Association is founded.
 <br/><br/>
-En 1415 : Hundred Years' War: Henry V of England, with his lightly armoured infantry and archers, defeats the heavily armoured French cavalry in the Battle of Agincourt.
+En 1860 : Unification of Italy: The Expedition of the Thousand ends when Giuseppe Garibaldi presents his conquests to King Victor Emmanuel of Sardinia.
 <br/><br/>
-En 1147 : Seljuk Turks defeat German crusaders under Conrad III at the Battle of Dorylaeum.
+En 1859 : The Royal Charter Storm kills at least eight hundred people in the British Isles.
 <br/><br/>
-En 1147 : Reconquista: After a siege of four months, crusader knights conquer Lisbon.
+En 1825 : The Erie Canal opens, allowing direct passage from the Hudson River to Lake Erie.
 <br/><br/>
-En 473 : Emperor Leo I acclaims his grandson Leo II as Caesar of the East Roman Empire.
+En 1813 : War of 1812: A combined force of British regulars, Canadian militia and Mohawks defeat the United States Army in the Battle of the Chateauguay.
+<br/><br/>
+En 1774 : American Revolution: The First Continental Congress adjourns in Philadelphia.
+<br/><br/>
+En 1689 : General Enea Silvio Piccolomini of Austria burns down Skopje to prevent the spread of cholera; he dies of the disease soon afterwards.
+<br/><br/>
+En 1640 : The Treaty of Ripon is signed, restoring peace between Covenanter Scotland and King Charles I of England.
+<br/><br/>
+En 1597 : Imjin War: Korean Admiral Yi Sun-sin routs the Japanese Navy of 300 ships with only 13 ships at the Battle of Myeongnyang.
+<br/><br/>
+En 1520 : Charles V is crowned as Holy Roman Emperor.
+<br/><br/>
+En 1377 : Tvrtko I is crowned the first king of Bosnia.
+<br/><br/>
+En 1341 : The Byzantine civil war of 1341–1347 formally begins with the proclamation of John VI Kantakouzenos as Byzantine Emperor.
+<br/><br/>
+En 1185 : The Uprising of Asen and Peter begins on the feast day of St. Demetrius of Thessaloniki and ends with the creation of the Second Bulgarian Empire.
 <br/><br/>
