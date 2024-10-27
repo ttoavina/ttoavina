@@ -4,103 +4,95 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 26/10 ?(Hover on the year)</h1>
+<h1> What happen this day 27/10 ?(Hover on the year)</h1>
 
-En 2015 : A 7.5 magnitude earthquake strikes in the Hindu Kush mountain range in South Asia, killing 399 people and leaving 2,536 people injured.
+En 2019 : Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria.
 <br/><br/>
-En 2012 : Microsoft made a public release of Windows 8 and made it available on new PCs.
+En 2018 : A gunman opens fire on a Pittsburgh synagogue killing eleven and injuring six, including four police officers.
 <br/><br/>
-En 2004 : Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.
+En 2018 : Leicester City F.C. owner Vichai Srivaddhanaprabha dies in a helicopter crash along with four others after a Premier League match against West Ham United at the King Power Stadium in Leicester, England.
 <br/><br/>
-En 2003 : The Cedar Fire, the third-largest wildfire in California history, kills 15 people, consumes 250,000 acres (1,000 km2), and destroys 2,200 homes around San Diego.
+En 2017 : Catalonia declares independence from Spain.
 <br/><br/>
-En 2002 : Approximately 50 Chechen terrorists and 150 hostages die when Russian special forces troops storm a theater building in Moscow, which had been occupied by the terrorists during a musical performance three days before.
+En 2014 : Britain withdraws from Afghanistan at the end of Operation Herrick, after 12 years four months and seven days.
 <br/><br/>
-En 2001 : The United States passes the USA PATRIOT Act into law.
+En 1999 : Gunmen open fire in the Armenian Parliament, killing the Prime Minister and seven others.
 <br/><br/>
-En 2000 : A wave of protests forces Robert Guéï to step down as president after the Ivorian presidential election.
+En 1997 : The 1997 Asian financial crisis causes a crash in the Dow Jones Industrial Average.
 <br/><br/>
-En 1999 : The United Kingdom's House of Lords votes to end the right of most hereditary peers to vote in Britain's upper chamber of Parliament.
+En 1994 : Gliese 229B is the first Substellar Mass Object to be unquestionably identified.
 <br/><br/>
-En 1995 : Mossad agents assassinate Palestinian Islamic Jihad leader Fathi Shaqaqi in his hotel in Malta.
+En 1993 : Widerøe Flight 744 crashes near Overhalla, Norway, killing six people.
 <br/><br/>
-En 1995 : An avalanche hits the Icelandic village of Flateyri, destroying 29 homes and burying 45 people, and killing 20.
+En 1992 : United States Navy radioman Allen R. Schindler, Jr. is murdered by shipmate Terry M. Helvey for being gay, precipitating debate about gays in the military that results in the United States' "Don't ask, don't tell" military policy.
 <br/><br/>
-En 1994 : Jordan and Israel sign a peace treaty.
+En 1991 : Turkmenistan achieves independence from the Soviet Union.
 <br/><br/>
-En 1991 : Three months after the end of the Ten-Day War, the last soldier of the Yugoslav People's Army leaves the territory of the Republic of Slovenia.
+En 1988 : Cold War: Ronald Reagan suspends construction of the new U.S. Embassy in Moscow due to Soviet listening devices in the building structure.
 <br/><br/>
-En 1989 : China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.
+En 1986 : The British government suddenly deregulates financial markets, leading to a total restructuring of the way in which they operate in the country, in an event now referred to as the Big Bang.
 <br/><br/>
-En 1985 : The Australian government returns ownership of Uluru to the local Pitjantjatjara Aboriginals.
+En 1981 : Cold War: The Soviet submarine S-363 runs aground on the east coast of Sweden.
 <br/><br/>
-En 1979 : Park Chung Hee, President of South Korea, is assassinated by Korean CIA head Kim Jae-gyu.
+En 1979 : Saint Vincent and the Grenadines gains its independence from the United Kingdom.
 <br/><br/>
-En 1977 : Ali Maow Maalin, the last natural case of smallpox, develops a rash in Somalia. The WHO and the CDC consider this date to be the anniversary of the eradication of smallpox, the most spectacular success of vaccination.
+En 1971 : The Democratic Republic of the Congo is renamed Zaire.
 <br/><br/>
-En 1968 : Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.
+En 1964 : Ronald Reagan delivers a speech on behalf of the Republican candidate for president, Barry Goldwater. The speech launches his political career and comes to be known as "A Time for Choosing".
 <br/><br/>
-En 1967 : Mohammad Reza Pahlavi crowns himself Emperor of Iran.
+En 1962 : Major Rudolf Anderson of the United States Air Force becomes the only direct human casualty of the Cuban Missile Crisis when his U-2 reconnaissance airplane is shot down over Cuba by a Soviet-supplied surface-to-air missile.
 <br/><br/>
-En 1958 : Pan American Airways makes the first commercial flight of the Boeing 707 from New York City to Paris.
+En 1962 : By refusing to agree to the firing of a nuclear torpedo at a US warship, Vasily Arkhipov averts nuclear war.
 <br/><br/>
-En 1956 : Hungarian Revolution: In the towns of Mosonmagyaróvár and Esztergom, Hungarian secret police forces massacre civilians. As rebel strongholds in Budapest hold, fighting spreads throughout the country.
+En 1961 : NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1.
 <br/><br/>
-En 1955 : After the last Allied troops have left the country, and following the provisions of the Austrian Independence Treaty, Austria declares that it will never join a military alliance.
+En 1958 : Iskander Mirza, the first President of Pakistan, is deposed by General Ayub Khan, who had been appointed the enforcer of martial law by Mirza 20 days earlier.
 <br/><br/>
-En 1955 : Ngô Đình Diệm proclaims himself as President of the newly created Republic of Vietnam.
+En 1954 : Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.
 <br/><br/>
-En 1947 : Partition of India: The Maharaja of Kashmir and Jammu signs the Instrument of Accession with India, beginning the Indo-Pakistani War of 1947–1948 and the Kashmir conflict.
+En 1948 : Ecological disaster in Donora, Pennsylvania.
 <br/><br/>
-En 1944 : World War II: The Battle of Leyte Gulf ends with an overwhelming American victory.
+En 1944 : World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
 <br/><br/>
-En 1942 : World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.
+En 1936 : Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
 <br/><br/>
-En 1937 : Nazi Germany begins expulsions of 18,000 Polish Jews.
+En 1930 : Ratifications exchanged in London for the first London Naval Treaty go into effect immediately, further limiting the expensive naval arms race among its five signatories.
 <br/><br/>
-En 1936 : The first electric generator at Hoover Dam goes into full operation.
+En 1924 : The Uzbek SSR is founded in the Soviet Union.
 <br/><br/>
-En 1918 : World War I: Erich Ludendorff, quartermaster-general of the Imperial German Army, is dismissed by Kaiser Wilhelm II for refusing to cooperate in peace negotiations.
+En 1922 : A referendum in Rhodesia rejects the country's annexation to the South African Union.
 <br/><br/>
-En 1917 : World War I: Brazil declares war on the Central Powers.
+En 1919 : The Fourth Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Oleksandrivsk.
 <br/><br/>
-En 1912 : First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje.
+En 1916 : Negus Mikael, marching on the Ethiopian capital in support of his son Emperor Iyasu V, is defeated by Fitawrari abte Giyorgis, securing the throne for Empress Zewditu I.
 <br/><br/>
-En 1909 : Japanese occupation of Korea: An Jung-geun assassinates Japan's Resident-General of Korea.
+En 1914 : World War I: The new British battleship HMS Audacious is sunk by a minefield laid by the armed German merchant-cruiser Berlin.
 <br/><br/>
-En 1905 : King Oscar II recognizes the dissolution of the union between Norway and Sweden.
+En 1907 : Fifteen people are killed in Hungary when gendarmes opened fire on a crowd gathered at a church consecration.
 <br/><br/>
-En 1892 : Ida B. Wells publishes Southern Horrors: Lynch Law in All Its Phases.
+En 1870 : Franco-Prussian War: Marshal Bazaine surrenders to Prussian forces at the conclusion of the Siege of Metz along with 140,000 French soldiers.
 <br/><br/>
-En 1890 : Malleco Viaduct in Chile, at the time "the highest railroad bridge in the world", is inaugurated by President José Manuel Balmaceda.
+En 1838 : Missouri governor Lilburn Boggs issues the Extermination Order, which orders all Mormons to leave the state or be killed.
 <br/><br/>
-En 1881 : Wyatt Earp and Doc Holliday participate in the Gunfight at the O.K. Corral in Tombstone, Arizona.
+En 1810 : United States annexes the former Spanish colony of West Florida.
 <br/><br/>
-En 1871 : Liberian President Edward James Roye is deposed in a coup d'état.
+En 1806 : The French Army under Napoleon enters Berlin following the Prussian defeat at the Battle of Jena–Auerstedt.
 <br/><br/>
-En 1863 : The Football Association is founded.
+En 1795 : The United States and Spain sign the Treaty of Madrid, which establishes the boundaries between Spanish colonies and the U.S.
 <br/><br/>
-En 1860 : Unification of Italy: The Expedition of the Thousand ends when Giuseppe Garibaldi presents his conquests to King Victor Emmanuel of Sardinia.
+En 1775 : King George III expands on his Proclamation of Rebellion in the Thirteen Colonies in his speech from the throne at the opening of Parliament.
 <br/><br/>
-En 1859 : The Royal Charter Storm kills at least eight hundred people in the British Isles.
+En 1682 : Philadelphia is founded in the Commonwealth of Pennsylvania.
 <br/><br/>
-En 1825 : The Erie Canal opens, allowing direct passage from the Hudson River to Lake Erie.
+En 1674 : The French garrison in Grave surrenders the town to a Dutch army after a difficult siege.
 <br/><br/>
-En 1813 : War of 1812: A combined force of British regulars, Canadian militia and Mohawks defeat the United States Army in the Battle of the Chateauguay.
+En 1644 : Second Battle of Newbury in the English Civil War.
 <br/><br/>
-En 1774 : American Revolution: The First Continental Congress adjourns in Philadelphia.
+En 1553 : Condemned as a heretic, Michael Servetus is burned at the stake just outside Geneva.
 <br/><br/>
-En 1689 : General Enea Silvio Piccolomini of Austria burns down Skopje to prevent the spread of cholera; he dies of the disease soon afterwards.
+En 1524 : French troops lay siege to Pavia.
 <br/><br/>
-En 1640 : The Treaty of Ripon is signed, restoring peace between Covenanter Scotland and King Charles I of England.
+En 1275 : Traditional founding of the city of Amsterdam.
 <br/><br/>
-En 1597 : Imjin War: Korean Admiral Yi Sun-sin routs the Japanese Navy of 300 ships with only 13 ships at the Battle of Myeongnyang.
-<br/><br/>
-En 1520 : Charles V is crowned as Holy Roman Emperor.
-<br/><br/>
-En 1377 : Tvrtko I is crowned the first king of Bosnia.
-<br/><br/>
-En 1341 : The Byzantine civil war of 1341–1347 formally begins with the proclamation of John VI Kantakouzenos as Byzantine Emperor.
-<br/><br/>
-En 1185 : The Uprising of Asen and Peter begins on the feast day of St. Demetrius of Thessaloniki and ends with the creation of the Second Bulgarian Empire.
+En 312 : Constantine the Great is said to have received his famous Vision of the Cross.
 <br/><br/>
