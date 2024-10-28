@@ -4,95 +4,111 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/10 ?(Hover on the year)</h1>
+<h1> What happen this day 28/10 ?(Hover on the year)</h1>
 
-En 2019 : Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria.
+En 2018 : Jair Bolsonaro is elected president of Brazil with 57 million votes, with Workers' Party candidate Fernando Haddad as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president.
 <br/><br/>
-En 2018 : A gunman opens fire on a Pittsburgh synagogue killing eleven and injuring six, including four police officers.
+En 2014 : A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia.
 <br/><br/>
-En 2018 : Leicester City F.C. owner Vichai Srivaddhanaprabha dies in a helicopter crash along with four others after a Premier League match against West Ham United at the King Power Stadium in Leicester, England.
+En 2013 : Five people are killed and 38 are injured after a car crashes into barriers at Tiananmen Square in China.
 <br/><br/>
-En 2017 : Catalonia declares independence from Spain.
+En 2009 : The 28 October 2009 Peshawar bombing kills 117 and wounds 213.
 <br/><br/>
-En 2014 : Britain withdraws from Afghanistan at the end of Operation Herrick, after 12 years four months and seven days.
+En 2009 : NASA successfully launches the Ares I-X mission, the only rocket launch for its short-lived Constellation program.
 <br/><br/>
-En 1999 : Gunmen open fire in the Armenian Parliament, killing the Prime Minister and seven others.
+En 2009 : US President Barack Obama signs the Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act.
 <br/><br/>
-En 1997 : The 1997 Asian financial crisis causes a crash in the Dow Jones Industrial Average.
+En 2007 : Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.
 <br/><br/>
-En 1994 : Gliese 229B is the first Substellar Mass Object to be unquestionably identified.
+En 2006 : A funeral service takes place at the Bykivnia graves for Ukrainians who were killed by the Soviet secret police.
 <br/><br/>
-En 1993 : Widerøe Flight 744 crashes near Overhalla, Norway, killing six people.
+En 1995 : The Baku Metro fire sees 289 people killed and 270 injured.
 <br/><br/>
-En 1992 : United States Navy radioman Allen R. Schindler, Jr. is murdered by shipmate Terry M. Helvey for being gay, precipitating debate about gays in the military that results in the United States' "Don't ask, don't tell" military policy.
+En 1990 : Georgia holds its only free election under Soviet rule.
 <br/><br/>
-En 1991 : Turkmenistan achieves independence from the Soviet Union.
+En 1982 : The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party.
 <br/><br/>
-En 1988 : Cold War: Ronald Reagan suspends construction of the new U.S. Embassy in Moscow due to Soviet listening devices in the building structure.
+En 1971 : Prospero becomes the only British satellite to be launched by a British rocket.
 <br/><br/>
-En 1986 : The British government suddenly deregulates financial markets, leading to a total restructuring of the way in which they operate in the country, in an event now referred to as the Big Bang.
+En 1965 : Pope Paul VI promulgates Nostra aetate, by which the Roman Catholic Church officially recognizes the legitimacy of non-Christian faiths.
 <br/><br/>
-En 1981 : Cold War: The Soviet submarine S-363 runs aground on the east coast of Sweden.
+En 1962 : The Cuban Missile Crisis ends and Premier Nikita Khrushchev orders the removal of Soviet missiles from Cuba.
 <br/><br/>
-En 1979 : Saint Vincent and the Grenadines gains its independence from the United Kingdom.
+En 1958 : John XXIII is elected Pope.
 <br/><br/>
-En 1971 : The Democratic Republic of the Congo is renamed Zaire.
+En 1956 : Hungarian Revolution: A de facto ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries.
 <br/><br/>
-En 1964 : Ronald Reagan delivers a speech on behalf of the Republican candidate for president, Barry Goldwater. The speech launches his political career and comes to be known as "A Time for Choosing".
+En 1954 : Aeroflot Flight 136 crashes near Krasnoyarsk, killing 19.
 <br/><br/>
-En 1962 : Major Rudolf Anderson of the United States Air Force becomes the only direct human casualty of the Cuban Missile Crisis when his U-2 reconnaissance airplane is shot down over Cuba by a Soviet-supplied surface-to-air missile.
+En 1949 : An Air France Lockheed Constellation crashes in the Azores, killing all 48 people on board.
 <br/><br/>
-En 1962 : By refusing to agree to the firing of a nuclear torpedo at a US warship, Vasily Arkhipov averts nuclear war.
-<br/><br/>
-En 1961 : NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1.
-<br/><br/>
-En 1958 : Iskander Mirza, the first President of Pakistan, is deposed by General Ayub Khan, who had been appointed the enforcer of martial law by Mirza 20 days earlier.
-<br/><br/>
-En 1954 : Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.
+En 1948 : Paul Hermann Müller is awarded the Nobel Prize in Physiology or Medicine for his discovery of the insecticidal properties of DDT.
 <br/><br/>
 En 1948 : Ecological disaster in Donora, Pennsylvania.
 <br/><br/>
-En 1944 : World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
+En 1942 : The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada.
 <br/><br/>
-En 1936 : Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
+En 1940 : World War II: Greece rejects Italy's ultimatum. Italy invades Greece through Albania a few hours later.
 <br/><br/>
-En 1930 : Ratifications exchanged in London for the first London Naval Treaty go into effect immediately, further limiting the expensive naval arms race among its five signatories.
+En 1928 : Indonesia Raya, now the national anthem of Indonesia, is first played during the Second Indonesian Youth Congress.
 <br/><br/>
-En 1924 : The Uzbek SSR is founded in the Soviet Union.
+En 1922 : Italian fascists led by Benito Mussolini march on Rome and take over the Italian government.
 <br/><br/>
-En 1922 : A referendum in Rhodesia rejects the country's annexation to the South African Union.
+En 1919 : The U.S. Congress passes the Volstead Act over President Woodrow Wilson's veto, paving the way for Prohibition to begin the following January.
 <br/><br/>
-En 1919 : The Fourth Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Oleksandrivsk.
+En 1918 : World War I: A new Polish government in western Galicia is established, triggering the Polish–Ukrainian War.
 <br/><br/>
-En 1916 : Negus Mikael, marching on the Ethiopian capital in support of his son Emperor Iyasu V, is defeated by Fitawrari abte Giyorgis, securing the throne for Empress Zewditu I.
+En 1918 : World War I: Czech politicians peacefully take over the city of Prague, thus establishing the First Czechoslovak Republic.
 <br/><br/>
-En 1914 : World War I: The new British battleship HMS Audacious is sunk by a minefield laid by the armed German merchant-cruiser Berlin.
+En 1893 : Pyotr Tchaikovsky's Symphony No. 6 in B Minor, Pathétique receives its première performance only nine days before the composer's death.
 <br/><br/>
-En 1907 : Fifteen people are killed in Hungary when gendarmes opened fire on a crowd gathered at a church consecration.
+En 1891 : The Mino–Owari earthquake, the largest inland earthquake in Japan's history, occurs.
 <br/><br/>
-En 1870 : Franco-Prussian War: Marshal Bazaine surrenders to Prussian forces at the conclusion of the Siege of Metz along with 140,000 French soldiers.
+En 1886 : US president Grover Cleveland dedicates the Statue of Liberty.
 <br/><br/>
-En 1838 : Missouri governor Lilburn Boggs issues the Extermination Order, which orders all Mormons to leave the state or be killed.
+En 1864 : American Civil War: A Union attack on the Confederate capital of Richmond is repulsed.
 <br/><br/>
-En 1810 : United States annexes the former Spanish colony of West Florida.
+En 1835 : The United Tribes of New Zealand are established with the signature of the Declaration of Independence.
 <br/><br/>
-En 1806 : The French Army under Napoleon enters Berlin following the Prussian defeat at the Battle of Jena–Auerstedt.
+En 1834 : The Pinjarra massacre occurs in the Swan River Colony. An estimated 30 Noongar people are killed by British colonists.
 <br/><br/>
-En 1795 : The United States and Spain sign the Treaty of Madrid, which establishes the boundaries between Spanish colonies and the U.S.
+En 1776 : American Revolutionary War: British troops attack and capture Chatterton Hill from the Continental Army.
 <br/><br/>
-En 1775 : King George III expands on his Proclamation of Rebellion in the Thirteen Colonies in his speech from the throne at the opening of Parliament.
+En 1726 : The novel Gulliver's Travels written by Jonathan Swift is published.
 <br/><br/>
-En 1682 : Philadelphia is founded in the Commonwealth of Pennsylvania.
+En 1707 : The 1707 Hōei earthquake causes more than 5,000 deaths in Japan.
 <br/><br/>
-En 1674 : The French garrison in Grave surrenders the town to a Dutch army after a difficult siege.
+En 1664 : The Duke of York and Albany's Maritime Regiment of Foot, later to be known as the Royal Marines, is established.
 <br/><br/>
-En 1644 : Second Battle of Newbury in the English Civil War.
+En 1640 : The Treaty of Ripon is signed, ending the hostilities of the Second Bishops’ War.
 <br/><br/>
-En 1553 : Condemned as a heretic, Michael Servetus is burned at the stake just outside Geneva.
+En 1636 : The Massachusetts Bay Colony votes to establish a theological college, which would later become Harvard University.
 <br/><br/>
-En 1524 : French troops lay siege to Pavia.
+En 1628 : French Wars of Religion: The Siege of La Rochelle ends with the surrender of the Huguenots after fourteen months.
 <br/><br/>
-En 1275 : Traditional founding of the city of Amsterdam.
+En 1538 : The Universidad Santo Tomás de Aquino is founded in what is now the Dominican Republic.
 <br/><br/>
-En 312 : Constantine the Great is said to have received his famous Vision of the Cross.
+En 1531 : Abyssinian–Adal war: The Adal Sultanate seizes southern Ethiopia.
+<br/><br/>
+En 1520 : Ferdinand Magellan reaches the Pacific Ocean.
+<br/><br/>
+En 1516 : Second Ottoman–Mamluk War: Mamluks fail to stop the Ottoman advance towards Egypt at the Battle of Yaunis Khan.
+<br/><br/>
+En 1492 : Christopher Columbus lands in Cuba on his first voyage to the New World, surmising that it is Japan.
+<br/><br/>
+En 1453 : Ladislaus the Posthumous is crowned king of Bohemia in Prague.
+<br/><br/>
+En 1449 : Christian I is crowned king of Denmark.
+<br/><br/>
+En 1420 : Beijing is officially designated the capital of the Ming dynasty when the Forbidden City is completed.
+<br/><br/>
+En 1344 : The lower town of Smyrna is captured by Latin Christians in response to Aydınid piracy during the Smyrniote crusades.
+<br/><br/>
+En 969 : The Byzantine Empire recovers Antioch from Arab rule.
+<br/><br/>
+En 312 : Constantine I defeats Maxentius, becoming the sole Roman emperor in the West.
+<br/><br/>
+En 306 : Maxentius is proclaimed Roman emperor.
+<br/><br/>
+En 97 : Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor.
 <br/><br/>
