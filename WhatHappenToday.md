@@ -4,119 +4,97 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 29/10 ?(Hover on the year)</h1>
+<h1> What happen this day 30/10 ?(Hover on the year)</h1>
 
-En 2022 : At least 156 die at a crowd crush during a Halloween celebration in Itaewon district, Seoul, South Korea.
+En 2022 : A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people.
 <br/><br/>
-En 2022 : At least 100 people are killed and over 300 are injured by a double car bombing in Mogadishu, Somalia.
+En 2020 : A magnitude 7.0 earthquake strikes the Aegean Sea between Greece and Turkey, triggering a tsunami. At least 119 people die mainly due to collapsed buildings.
 <br/><br/>
-En 2020 : Jeremy Corbyn, Leader of the Labour Party and of the Opposition in the United Kingdom is suspended from the Labour Party following his response to findings from the EHRC on the issue of antisemitism within the party.
+En 2015 : A fire in a nightclub in the Romanian capital of Bucharest kills sixty-four people and leaves more than 147 injured.
 <br/><br/>
-En 2018 : A Boeing 737 MAX plane crashes after taking off from Jakarta, Indonesia killing 189 people on board.
+En 2014 : Sweden becomes the first European Union member state to officially recognize the State of Palestine.
 <br/><br/>
-En 2015 : China announces the end of its one-child policy after 35 years.
+En 2014 : Four people are killed when a Beechcraft Super King Air crashes at Wichita Dwight D. Eisenhower National Airport in Wichita, Kansas.
 <br/><br/>
-En 2014 : A mud slide; the 2014 Badulla landslide, in south-central Sri Lanka, kills at least 16 people, and leaves hundreds of people missing.
+En 2013 : Forty-five people are killed and seven injured after a bus catches fire in Mahabubnagar district, Andhra Pradesh (present-day Telangana), India.
 <br/><br/>
-En 2012 : Hurricane Sandy hits the east coast of the United States, killing hundreds, while leaving nearly $70 billion in damages and causing major power outages.
+En 2005 : The rebuilt Dresden Frauenkirche (destroyed in the firebombing of Dresden during World War II) is reconsecrated after a thirteen-year rebuilding project.
 <br/><br/>
-En 2008 : Delta Air Lines merges with Northwest Airlines, creating the world's largest airline and reducing the number of US legacy carriers to five.
+En 1995 : Quebec citizens narrowly vote (50.58% to 49.42%) in favour of remaining a province of Canada in their second referendum on national sovereignty.
 <br/><br/>
-En 2008 : A pair of deadly earthquakes hits Baluchistan, Pakistan, killing 215.
+En 1991 : The Israeli-Palestinian conflict: The Madrid Conference commences in an effort to revive peace negotiations between Israel and Palestine.
 <br/><br/>
-En 2006 : ADC Airlines Flight 053 crashes after takeoff from Nnamdi Azikiwe International Airport in Abuja, Nigeria killing 96 people and injuring nine.
+En 1985 : Space Shuttle Challenger lifts off for mission STS-61-A, its final successful mission.
 <br/><br/>
-En 2005 : Bombings in Delhi, India kill 67 and injure over 200 people.
+En 1983 : The first democratic elections in Argentina, after seven years of military rule, are held.
 <br/><br/>
-En 2004 : The Arabic-language news network Al Jazeera broadcasts an excerpt from a 2004 Osama bin Laden video in which the terrorist leader first admits direct responsibility for the September 11, 2001 attacks and references the 2004 U.S. presidential election.
+En 1983 : A magnitude 6.6 earthquake in the Turkish provinces of Erzurum and Kars leaves approximately 1,340 people dead.
 <br/><br/>
-En 2002 : A fire destroys a luxurious department store in Ho Chi Minh City, where 1,500 people are shopping. More than 60 people die and over 100 are unaccounted for in the deadliest peacetime disaster in Vietnam.
+En 1980 : El Salvador and Honduras agree to put the border dispute fought over in 1969's Football War before the International Court of Justice.
 <br/><br/>
-En 1999 : A large cyclone devastates Odisha, India.
+En 1975 : Prince Juan Carlos I of Spain becomes acting head of state, taking over for the country's ailing dictator, Gen. Francisco Franco.
 <br/><br/>
-En 1998 : In South Africa, the Truth and Reconciliation Commission presents its report, which condemns both sides for committing atrocities.
+En 1975 : Forty-five people are killed when Inex-Adria Aviopromet Flight 450 crashes into Suchdol, Prague, while on approach to Prague Ruzyně Airport (now Václav Havel Airport Prague) in Czechoslovakia (present-day Czech Republic).
 <br/><br/>
-En 1998 : Space Shuttle Discovery blasts off on STS-95 with 77-year-old John Glenn on board, making him the oldest person to go into space at that time.
+En 1973 : The Bosphorus Bridge in Turkey is completed, connecting the continents of Europe and Asia over the Bosphorus for the second time.
 <br/><br/>
-En 1998 : ATSC HDTV broadcasting in the United States is inaugurated with the launch of the STS-95 space shuttle mission.
+En 1968 : A squad of 120 North Korean Army commandos land in boats along a 25-mile long section of the eastern coast of South Korea in a failed attempt to overthrow the dictatorship of Park Chung Hee and bring about the reunification of Korea.
 <br/><br/>
-En 1998 : Hurricane Mitch, the second deadliest Atlantic hurricane in history, makes landfall in Honduras.
+En 1961 : The Soviet Union detonates the Tsar Bomba, the most powerful explosive device ever detonated.
 <br/><br/>
-En 1998 : The Gothenburg discothèque fire in Sweden kills 63 and injures over 200.
+En 1961 : Due to "violations of Vladimir Lenin's precepts", it is decreed that Joseph Stalin's body be removed from its place of honour inside Lenin's tomb and buried near the Kremlin Wall with a plain granite marker.
 <br/><br/>
-En 1994 : Francisco Martin Duran fires over two dozen shots at the White House; he is later convicted of trying to kill U.S. President Bill Clinton.
+En 1959 : Piedmont Airlines Flight 349 crashes on approach to Charlottesville–Albemarle Airport in Albemarle County, Virginia, killing 26 of the 27 on board.
 <br/><br/>
-En 1991 : The American Galileo spacecraft makes its closest approach to 951 Gaspra, becoming the first probe to visit an asteroid.
+En 1956 : Hungarian Revolution: The government of Imre Nagy recognizes newly established revolutionary workers' councils. Army officer Béla Király leads anti-Soviet militias in an attack on the headquarters of the Hungarian Working People's Party.
 <br/><br/>
-En 1986 : British Prime Minister Margaret Thatcher opens the last stretch of the M25 motorway.
+En 1953 : President Eisenhower approves the top-secret document NSC 162/2 concerning the maintenance of a strong nuclear deterrent force against the Soviet Union.
 <br/><br/>
-En 1985 : Major General Samuel K. Doe is announced as the winner of the first multi-party election in Liberia.
+En 1948 : A luzzu fishing boat overloaded with passengers capsizes and sinks in the Gozo Channel off Qala, Gozo, Malta, killing 23 of the 27 people on board.
 <br/><br/>
-En 1980 : Demonstration flight of a secretly modified C-130 for an Iran hostage crisis rescue attempt ends in a crash landing at Eglin Air Force Base's Duke Field, Florida, leading to the cancellation of Operation Credible Sport.
+En 1947 : The General Agreement on Tariffs and Trade (GATT), the foundation of the World Trade Organization (WTO), is founded.
 <br/><br/>
-En 1972 : The three surviving perpetrators of the Munich massacre are released from prison in exchange for the hostages of the hijacked Lufthansa Flight 615.
+En 1945 : Jackie Robinson of the Kansas City Monarchs signs a contract for the Brooklyn Dodgers, breaking the baseball color line.
 <br/><br/>
-En 1969 : The first-ever computer-to-computer link is established on ARPANET, the precursor to the Internet.
+En 1944 : Holocaust: Anne and Margot Frank are deported from Auschwitz to the Bergen-Belsen concentration camp, where they die from disease the following year, shortly before the end of WWII.
 <br/><br/>
-En 1967 : Montreal's World Fair, Expo 67, closes with over 50 million visitors.
+En 1942 : World War II: Lt. Tony Fasson and Able Seaman Colin Grazier drown while taking code books from the sinking German submarine U-559.
 <br/><br/>
-En 1964 : The United Republic of Tanganyika and Zanzibar is renamed to the United Republic of Tanzania.
+En 1941 : President Roosevelt approves $1 billion in Lend-Lease aid to the Allied nations.
 <br/><br/>
-En 1964 : Biggest jewel heist; involving the Star of India in the American Museum of Natural History in New York City by Murph the Surf and gang.
+En 1941 : Holocaust: Fifteen hundred Jews from Pidhaytsi are sent by Nazis to Bełżec extermination camp.
 <br/><br/>
-En 1960 : An airplane carrying the Cal Poly football team crashes on takeoff in Toledo, Ohio.
+En 1938 : Orson Welles broadcasts a radio adaptation of H. G. Wells's The War of the Worlds, causing a massive panic in some of the audience in the United States.
 <br/><br/>
-En 1957 : Israel's prime minister David Ben-Gurion and five of his ministers are injured when Moshe Dwek throws a grenade into the Knesset.
+En 1920 : The Communist Party of Australia is founded in Sydney.
 <br/><br/>
-En 1956 : Suez Crisis begins: Israeli forces invade the Sinai Peninsula and push Egyptian forces back toward the Suez Canal.
+En 1918 : World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.
 <br/><br/>
-En 1955 : The Soviet battleship Novorossiysk strikes a World War II mine in the harbor at Sevastopol.
+En 1918 : World War I: Lands of the Crown of Saint Stephen, a state union of Kingdom of Hungary and Triune Kingdom of Croatia, Slavonia and Dalmatia is abolished with decisions of Croatian and Hungarian parliaments
 <br/><br/>
-En 1953 : BCPA Flight 304 DC-6 crashes near San Francisco.
+En 1905 : Czar Nicholas II issues the October Manifesto, nominally granting the Russian peoples basic civil liberties and the right to form a duma. (October 17 in the Julian calendar)
 <br/><br/>
-En 1948 : Israeli-Palestinian conflict: Safsaf massacre: Israeli soldiers capture the Palestinian village of Safsaf in the Galilee; afterwards, between 52 and 64 villagers are massacred by the IDF.
+En 1888 : The Rudd Concession is granted by Matabeleland to agents of Cecil Rhodes.
 <br/><br/>
-En 1944 : The Dutch city of Breda is liberated by 1st Polish Armoured Division.
+En 1864 : The Treaty of Vienna is signed, by which Denmark relinquishes one province each to Prussia and Austria.
 <br/><br/>
-En 1944 : World War II: The Soviet Red Army enters Hungary.
+En 1863 : Danish Prince Vilhelm arrives in Athens to assume his throne as George I, King of the Hellenes.
 <br/><br/>
-En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political figures hold a public meeting to register outrage over Nazi Germany's persecution of Jews.
+En 1831 : Nat Turner is arrested for leading the bloodiest slave rebellion in United States history.
 <br/><br/>
-En 1941 : The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the "Great Action".
+En 1817 : Simón Bolívar becomes President of the Third Republic of Venezuela.
 <br/><br/>
-En 1929 : Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and beginning the Great Depression.
+En 1806 : War of the Fourth Coalition: Convinced that he is facing a much larger force, Prussian General von Romberg, commanding 5,300 men, surrenders the city of Stettin to 800 French soldiers.
 <br/><br/>
-En 1923 : Turkey becomes a republic following the dissolution of the Ottoman Empire.
+En 1657 : Anglo-Spanish War: Spanish forces fail to retake Jamaica at the Battle of Ocho Rios.
 <br/><br/>
-En 1921 : United States: Second trial of Sacco and Vanzetti in Boston, Massachusetts.
+En 1340 : Reconquista: Portuguese and Castilian forces halt a Muslim invasion at the Battle of Río Salado.
 <br/><br/>
-En 1918 : The German High Seas Fleet is incapacitated when sailors mutiny, an action which would trigger the German Revolution of 1918–19.
+En 1270 : The Eighth Crusade ends by an agreement between Charles I of Anjou (replacing his deceased brother King Louis IX of France) and the Hafsid dynasty of Tunis, Tunisia.
 <br/><br/>
-En 1914 : Ottoman entry into World War I.
+En 1137 : Ranulf of Apulia defeats Roger II of Sicily at the Battle of Rignano, securing his position as duke until his death two years later.
 <br/><br/>
-En 1888 : The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.
+En 758 : Guangzhou is sacked by Arab and Persian pirates.
 <br/><br/>
-En 1863 : Eighteen countries meet in Geneva and agree to form the International Red Cross.
-<br/><br/>
-En 1863 : American Civil War: Battle of Wauhatchie: Forces under Union General Ulysses S. Grant repel a Confederate attack led by General James Longstreet. Union forces thus open a supply line into Chattanooga, Tennessee.
-<br/><br/>
-En 1792 : Mount Hood (Oregon) is named after Samuel Hood, 1st Viscount Hood by Lt. William E. Broughton who sighted the mountain near the mouth of the Willamette River.
-<br/><br/>
-En 1675 : Leibniz makes the first use of the long s (∫) as a symbol of the integral in calculus.
-<br/><br/>
-En 1665 : Portuguese forces defeat the Kingdom of Kongo and decapitate King António I of Kongo, also known as Nvita a Nkanga.
-<br/><br/>
-En 1658 : Second Northern War: Naval forces of the Dutch Republic defeat the Swedes in the Battle of the Sound.
-<br/><br/>
-En 1621 : The London Pageant of 1621 celebrates the inauguration of Edward Barkham (Lord Mayor).
-<br/><br/>
-En 1611 : Russian homage to the King of Poland, Sigismund III Vasa.
-<br/><br/>
-En 1467 : Battle of Brustem: Charles the Bold defeats Prince-Bishopric of Liège.
-<br/><br/>
-En 1390 : First trial for witchcraft in Paris leading to the death of three people.
-<br/><br/>
-En 437 : Valentinian III, Western Roman Emperor, marries Licinia Eudoxia, daughter of his cousin Theodosius II, Eastern Roman Emperor in Constantinople unifying the two branches of the House of Theodosius.
-<br/><br/>
-En 312 : Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded.
+En 637 : Arab–Byzantine wars: Antioch surrenders to the Rashidun Caliphate after the Battle of the Iron Bridge.
 <br/><br/>
