@@ -4,109 +4,49 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 5/11 ?(Hover on the year)</h1>
+<h1> What happen this day 6/11 ?(Hover on the year)</h1>
 
-En 2021 : The Astroworld Festival crowd crush results in 10 deaths and 25 people being hospitalized
+En 2016 : Syrian civil war: The Syrian Democratic Forces (SDF) launch an offensive to capture the city of Raqqa from the Islamic State of Iraq and the Levant (ISIL).
 <br/><br/>
-En 2017 : Devin Patrick Kelley kills 26 and injures 22 in a church in Sutherland Springs, Texas.
+En 2012 : Tammy Baldwin becomes the first openly gay politician to be elected to the United States Senate.
 <br/><br/>
-En 2015 : An iron ore tailings dam bursts in the Brazilian state of Minas Gerais, flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing at least 17 deaths and two missing.
+En 2004 : An express train collides with a stationary car near the village of Ufton Nervet, England, killing seven and injuring 150.
 <br/><br/>
-En 2015 : Rona Ambrose takes over after Stephen Harper as the Leader of the Conservative Party of Canada.
+En 2002 : Jiang Lijun is detained by Chinese police for signing the Open Letter to the 16th National Congress of the Chinese Communist Party.
 <br/><br/>
-En 2013 : India launches the Mars Orbiter Mission, its first interplanetary probe.
+En 2002 : A Fokker 50 crashes near Luxembourg Airport, killing 20 and injuring three.
 <br/><br/>
-En 2010 : JS Air Flight 201 crashes after takeoff from Jinnah International Airport in Karachi, Pakistan, killing all 21 aboard.
+En 1995 : Cleveland Browns relocation controversy: Art Modell announces that he signed a deal that would relocate the Cleveland Browns to Baltimore.
 <br/><br/>
-En 2009 : U.S. Army Major Nidal Hasan murders 13 and wounds 32 at Fort Hood, Texas in the deadliest mass shooting at a U.S. military installation.
+En 1988 : Lancang–Gengma earthquakes: At least 730 are killed after two powerful earthquakes rock the China–Myanmar border in Yunnan Province.
 <br/><br/>
-En 2007 : China's first lunar satellite, Chang'e 1, goes into orbit around the Moon.
+En 1986 : Sumburgh disaster: A British International Helicopters Boeing 234LR Chinook crashes 21⁄2 miles east of Sumburgh Airport killing 45 people. It is the deadliest civilian helicopter crash on record.
 <br/><br/>
-En 2007 : The Android mobile operating system is unveiled by Google.
+En 1985 : Colombian conflict, leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
 <br/><br/>
-En 2006 : Saddam Hussein, the former president of Iraq, and his co-defendants Barzan Ibrahim al-Tikriti and Awad Hamed al-Bandar, are sentenced to death in the al-Dujail trial for their roles in the 1982 massacre of 148 Shia Muslims.
+En 1977 : The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39.
 <br/><br/>
-En 1996 : Pakistani President Farooq Leghari dismisses the government of Prime Minister Benazir Bhutto and dissolves the National Assembly.
+En 1971 : The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians.
 <br/><br/>
-En 1996 : Bill Clinton is reelected President of the United States.
+En 1963 : Nguyễn Ngọc Thơ is appointed to head the South Vietnamese government by General Dương Văn Minh's junta, five days after the latter deposed and assassinated President Ngô Đình Diệm.
 <br/><br/>
-En 1995 : André Dallaire attempts to assassinate Prime Minister Jean Chrétien of Canada. He is thwarted when the Prime Minister's wife locks the door.
+En 1947 : Meet the Press, the longest running television program in history, makes its debut on NBC Television.
 <br/><br/>
-En 1991 : Tropical Storm Thelma causes flash floods in the Philippine city of Ormoc, killing more than 4,900 people.
+En 1943 : World War II: The 1st Ukrainian Front liberates Kyiv from German occupation.
 <br/><br/>
-En 1990 : Rabbi Meir Kahane, founder of the far-right Kach movement, is shot dead after a speech at a New York City hotel.
+En 1936 : Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.
 <br/><br/>
-En 1986 : USS Rentz, USS Reeves and USS Oldendorf visit Qingdao, China; the first US naval visit to China since 1949.
+En 1900 : President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York. Republicans also swept the congressional elections, winning increased majorities in both the Senate and the House of Representatives.
 <br/><br/>
-En 1983 : The Byford Dolphin diving bell accident kills five and leaves one severely injured.
+En 1869 : In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.
 <br/><br/>
-En 1970 : The Military Assistance Command, Vietnam reports the lowest weekly American soldier death toll in five years (24).
+En 1860 : Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race.
 <br/><br/>
-En 1968 : Richard Nixon is elected as 37th President of the United States.
+En 1792 : Battle of Jemappes in the French Revolutionary Wars.
 <br/><br/>
-En 1956 : Suez Crisis: British and French paratroopers land in Egypt after a week-long bombing campaign.
+En 1217 : The Charter of the Forest is sealed at St Paul's Cathedral, London by King Henry III, acting under the regency of William Marshall, 1st Earl of Pembroke which re-establishes for free men rights of access to the royal forest that had been eroded by William the Conqueror and his heirs.
 <br/><br/>
-En 1955 : After being destroyed in World War II, the rebuilt Vienna State Opera reopens with a performance of Beethoven's Fidelio.
+En 963 : Synod of Rome: Emperor Otto I calls a council at St. Peter's Basilica in Rome. Pope John XII is deposed on charges of an armed rebellion against Otto.
 <br/><br/>
-En 1950 : Korean War: British and Australian forces from the 27th British Commonwealth Brigade successfully halted the advancing Chinese 117th Division during the Battle of Pakchon.
-<br/><br/>
-En 1945 : The three-day anti-Jewish riots in Tripolitania commence.
-<br/><br/>
-En 1943 : World War II: Bombing of the Vatican.
-<br/><br/>
-En 1940 : World War II: The British armed merchant cruiser HMS Jervis Bay is sunk by the German pocket battleship Admiral Scheer.
-<br/><br/>
-En 1940 : Franklin D. Roosevelt is the first and only President of the United States to be elected to a third term.
-<br/><br/>
-En 1925 : Secret agent Sidney Reilly, the first "super-spy" of the 20th century, is executed by the OGPU, the secret police of the Soviet Union.
-<br/><br/>
-En 1917 : Lenin calls for the October Revolution.
-<br/><br/>
-En 1917 : Tikhon is elected the Patriarch of Moscow and of the Russian Orthodox Church.
-<br/><br/>
-En 1916 : The Kingdom of Poland is proclaimed by the Act of 5th November of the emperors of Germany and Austria-Hungary.
-<br/><br/>
-En 1916 : The Everett massacre takes place in Everett, Washington as political differences lead to a shoot-out between the Industrial Workers of the World organizers and local police.
-<br/><br/>
-En 1914 : World War I: France and the British Empire declare war on the Ottoman Empire.
-<br/><br/>
-En 1913 : King Otto of Bavaria is deposed by his cousin, Prince Regent Ludwig, who assumes the title Ludwig III.
-<br/><br/>
-En 1912 : Woodrow Wilson is elected the 28th President of the United States, defeating incumbent William Howard Taft.
-<br/><br/>
-En 1911 : After declaring war on the Ottoman Empire on September 29, 1911, Italy annexes Tripoli and Cyrenaica.
-<br/><br/>
-En 1898 : Negrese nationalists revolt against Spanish rule and establish the short-lived Republic of Negros.
-<br/><br/>
-En 1895 : George B. Selden is granted the first U.S. patent for an automobile.
-<br/><br/>
-En 1881 : In New Zealand, 1600 armed volunteers and constabulary field forces led by Minister of Native Affairs John Bryce march on the pacifist Māori settlement at Parihaka, evicting upwards of 2000 residents, and destroying the settlement in the context of the New Zealand land confiscations.
-<br/><br/>
-En 1872 : Women's suffrage in the United States: In defiance of the law, suffragist Susan B. Anthony votes for the first time, and is later fined $100.
-<br/><br/>
-En 1862 : American Civil War: Abraham Lincoln removes George B. McClellan as commander of the Army of the Potomac.
-<br/><br/>
-En 1862 : American Indian Wars: In Minnesota, 303 Dakota warriors are found guilty of rape and murder of whites and are sentenced to death. Thirty-eight are ultimately hanged and the others reprieved.
-<br/><br/>
-En 1834 : Founding of the Free University of Brussels by Pierre-Théodore Verhaegen.
-<br/><br/>
-En 1828 : Greek War of Independence: The French Morea expedition to recapture Morea (now the Peloponnese) ends when the last Ottoman forces depart the peninsula.
-<br/><br/>
-En 1811 : Salvadoran priest José Matías Delgado rings the bells of La Merced church in San Salvador, calling for insurrection and launching the 1811 Independence Movement.
-<br/><br/>
-En 1780 : French-American forces under Colonel LaBalme are defeated by Miami Chief Little Turtle.
-<br/><br/>
-En 1768 : The Treaty of Fort Stanwix is signed, the purpose of which is to adjust the boundary line between Indian lands and white settlements set forth in the Royal Proclamation of 1763 in the Thirteen Colonies.
-<br/><br/>
-En 1757 : Seven Years' War: Frederick the Great defeats the allied armies of France and the Holy Roman Empire at the Battle of Rossbach.
-<br/><br/>
-En 1688 : Prince William III of Orange lands with a Dutch fleet at Brixham to challenge the rule of King James II of England (James VII of Scotland).
-<br/><br/>
-En 1605 : Gunpowder Plot: Guy Fawkes is arrested in the cellars of the Houses of Parliament, where he had planted gunpowder in an attempt to blow up the building and kill King James I of England.
-<br/><br/>
-En 1556 : Second Battle of Panipat: Fighting begins between the forces of Hem Chandra Vikramaditya, the Hindu king at Delhi and the forces of the Muslim emperor Akbar.
-<br/><br/>
-En 1499 : The Catholicon, written in 1464 by Jehan Lagadeuc in Tréguier, is published; this is the first Breton dictionary as well as the first French dictionary.
-<br/><br/>
-En 1138 : Lý Anh Tông is enthroned as emperor of Vietnam at the age of two, beginning a 37-year reign.
+En 447 : A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers.
 <br/><br/>
