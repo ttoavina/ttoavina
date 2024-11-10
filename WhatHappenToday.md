@@ -4,147 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 9/11 ?(Hover on the year)</h1>
+<h1> What happen this day 10/11 ?(Hover on the year)</h1>
 
-En 2023 : U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant.
+En 2020 : Armenia and Azerbaijan sign a ceasefire agreement, ending the Second Nagorno-Karabakh War, and prompting protests in Armenia.
 <br/><br/>
-En 2020 : Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan and Russia.
+En 2019 : President of Bolivia Evo Morales and several of his government resign after 19 days of civil protests and a recommendation from the military.
 <br/><br/>
-En 2014 : A non-binding self-determination consultation is held in Catalonia, asking Catalan citizens their opinion on whether Catalonia should become a state and, if so, whether it should be an independent state.
+En 2009 : Ships of the South and North Korean navies skirmish off Daecheong Island in the Yellow Sea.
 <br/><br/>
-En 2012 : A train carrying liquid fuel crashes and bursts into flames in northern Myanmar, killing 27 people and injuring 80 others.
+En 2008 : Over five months after landing on Mars, NASA declares the Phoenix mission concluded after communications with the lander were lost.
 <br/><br/>
-En 2012 : At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo.
+En 2006 : Sri Lankan Tamil politician Nadarajah Raviraj is assassinated in Colombo.
 <br/><br/>
-En 2005 : The Venus Express mission of the European Space Agency is launched from the Baikonur Cosmodrome in Kazakhstan.
+En 2006 : The National Museum of the Marine Corps in Quantico, Virginia is opened and dedicated by U.S. President George W. Bush, who announces that Marine Corporal Jason Dunham will posthumously receive the Medal of Honor.
 <br/><br/>
-En 2005 : Suicide bombers attack three hotels in Amman, Jordan, killing at least 60 people.
+En 2002 : Veteran's Day Weekend Tornado Outbreak: A tornado outbreak stretching from Northern Ohio to the Gulf Coast, one of the largest outbreaks recorded in November.
 <br/><br/>
-En 2004 : Firefox 1.0 is released.
+En 1999 : World Anti-Doping Agency is formed in Lausanne.
 <br/><br/>
-En 2000 : Uttarakhand officially becomes the 27th state of India, formed from thirteen districts of northwestern Uttar Pradesh.
+En 1997 : WorldCom and MCI Communications announce a $37 billion merger (the largest merger in US history at the time).
 <br/><br/>
-En 1999 : TAESA Flight 725 crashes after takeoff from Uruapan International Airport in Uruapan, Michoacán, Mexico, killing all 18 people on board.
+En 1995 : In Nigeria, playwright and environmental activist Ken Saro-Wiwa, along with eight others from the Movement for the Survival of the Ogoni People (Mosop), are hanged by government forces.
 <br/><br/>
-En 1998 : A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing.
+En 1989 : Longtime Bulgarian leader Todor Zhivkov is removed from office and replaced by Petar Mladenov.
 <br/><br/>
-En 1998 : Capital punishment in the United Kingdom, already abolished for murder, is completely abolished for all remaining capital offences.
+En 1989 : Germans begin to tear down the Berlin Wall.
 <br/><br/>
-En 1994 : The chemical element darmstadtium is discovered.
+En 1985 : A Dassault Falcon 50 and a Piper PA-28 Cherokee collide in mid-air over Fairview, New Jersey, killing six people and injuring eight.
 <br/><br/>
-En 1993 : Stari Most, the "old bridge" in the Bosnian city of Mostar, built in 1566, collapses after several days of bombing by Croat forces during the Croat–Bosniak War.
+En 1983 : Bill Gates introduces Windows 1.0.
 <br/><br/>
-En 1989 : Cold War: Fall of the Berlin Wall: East Germany opens checkpoints in the Berlin Wall, allowing its citizens to travel to West Berlin.
+En 1979 : A 106-car Canadian Pacific freight train carrying explosive and poisonous chemicals from Windsor, Ontario, Canada derails in Mississauga, Ontario.
 <br/><br/>
-En 1985 : Garry Kasparov, 22, of the Soviet Union, becomes the youngest World Chess Champion by beating fellow Soviet Anatoly Karpov.
+En 1975 : The 729-foot-long freighter SS Edmund Fitzgerald sinks during a storm on Lake Superior, killing all 29 crew on board.
 <br/><br/>
-En 1979 : Cold War: Nuclear false alarm: The NORAD computers and the Alternate National Military Command Center in Fort Ritchie, Maryland detected purported massive Soviet nuclear strike. After reviewing the raw data from satellites and checking the early-warning radars, the alert is cancelled.
+En 1975 : Israeli-Palestinian conflict: the United Nations General Assembly passes Resolution 3379, determining that Zionism is a form of racism.
 <br/><br/>
-En 1971 : American banker John List murdered his wife, mother, and three children with a pair of handguns.
+En 1972 : Southern Airways Flight 49 from Birmingham, Alabama is hijacked and, at one point, is threatened with crashing into the nuclear installation at the Oak Ridge National Laboratory. After two days, the plane lands in Havana, Cuba, where the hijackers are jailed by Fidel Castro.
 <br/><br/>
-En 1970 : Vietnam War: The Supreme Court of the United States votes 6–3 against hearing a case to allow Massachusetts to enforce its law granting residents the right to refuse military service in an undeclared war.
+En 1971 : In Cambodia, Khmer Rouge forces attack the city of Phnom Penh and its airport, killing 44, wounding at least 30 and damaging nine aircraft.
 <br/><br/>
-En 1967 : Apollo program: NASA launches the unmanned Apollo 4 test spacecraft, atop the first Saturn V rocket, from Florida's Cape Kennedy.
+En 1971 : A Merpati Nusantara Airlines Vickers Viscount crashes into the Indian Ocean near Padang, West Sumatra, Indonesia, killing all 69 people on board.
 <br/><br/>
-En 1965 : Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965.
+En 1970 : Vietnam War: Vietnamization: For the first time in five years, an entire week ends with no reports of American combat fatalities in Southeast Asia.
 <br/><br/>
-En 1965 : A Catholic Worker Movement member, Roger Allen LaPorte, protesting against the Vietnam War, sets himself on fire in front of the United Nations building.
+En 1970 : Luna 17: uncrewed space mission launched by the Soviet Union.
 <br/><br/>
-En 1963 : At a coal mine in Miike, Japan, an explosion kills 458 and hospitalises 839 with carbon monoxide poisoning.
+En 1969 : National Educational Television (the predecessor to the Public Broadcasting Service) in the United States debuts Sesame Street.
 <br/><br/>
-En 1960 : Robert McNamara is named president of the Ford Motor Company, becoming the first non-Ford family member to serve in that post. He resigns a month later to join the newly elected John F. Kennedy administration.
+En 1958 : The Hope Diamond is donated to the Smithsonian Institution by New York diamond merchant Harry Winston.
 <br/><br/>
-En 1953 : Cambodia gains independence from France.
+En 1954 : U.S. President Dwight D. Eisenhower dedicates the USMC War Memorial (Iwo Jima memorial) in Arlington Ridge Park in Arlington County, Virginia.
 <br/><br/>
-En 1945 : Soo Bahk Do and Moo Duk Kwan martial arts are founded in Korea.
+En 1951 : With the rollout of the North American Numbering Plan, direct-dial coast-to-coast telephone service begins in the United States.
 <br/><br/>
-En 1943 : An agreement for the foundation of the United Nations Relief and Rehabilitation Administration is signed by 44 countries in the White House, Washington, D.C.
+En 1946 : A magnitude 6.9 earthquake in the Peruvian Andes mountains kills at least 1,400 people.
 <br/><br/>
-En 1942 : Battle of Stalingrad: German forces of the 6th Army under general Friedrich Paulus reach finally the river bank of the Volga, capturing 90% of the ruined city of Stalingrad and splitting the remaining Soviet forces into two narrow pockets.
+En 1945 : Heavy fighting in Surabaya between Indonesian nationalists and returning colonialists after World War II, today celebrated as Heroes' Day (Hari Pahlawan).
 <br/><br/>
-En 1940 : Warsaw is awarded the Virtuti Militari by the Polish government-in-exile.
+En 1944 : The ammunition ship USS Mount Hood explodes at Seeadler Harbour, Manus, Admiralty Islands, killing at least 432 and wounding 371.
 <br/><br/>
-En 1938 : Kristallnacht occurs, instigated by the Nazis using the killing of German diplomat Ernst vom Rath by Herschel Grynszpan as justification.
+En 1942 : World War II: Germany invades Vichy France following French Admiral François Darlan's agreement to an armistice with the Allies in North Africa.
 <br/><br/>
-En 1937 : Second Sino-Japanese War: The Chinese Army withdraws from the Battle of Shanghai.
+En 1940 : The 1940 Vrancea earthquake strikes Romania killing an estimated 1,000 and injuring approximately 4,000 more.
 <br/><br/>
-En 1936 : American fashion designer Ruth Harkness encounters and captures a nine-week-old panda cub in Sichuan; it becomes the first live giant panda to enter the United States.
+En 1939 : Finnish author F. E. Sillanpää is awarded the Nobel Prize in Literature.
 <br/><br/>
-En 1935 : The Committee for Industrial Organization, the precursor to the Congress of Industrial Organizations, is founded in Atlantic City, New Jersey, by eight trade unions belonging to the American Federation of Labor.
+En 1918 : The Western Union Cable Office in North Sydney, Nova Scotia, receives a top-secret coded message from Europe (that would be sent to Ottawa and Washington, D.C.) that said on November 11, 1918, all fighting would cease on land, sea and in the air.
 <br/><br/>
-En 1923 : In Munich, police and government troops crush the Nazi Beer Hall Putsch.
+En 1910 : The date of Thomas A. Davis' opening of the San Diego Army and Navy Academy, although the official founding date is November 23, 1910.
 <br/><br/>
-En 1921 : The National Fascist Party (Partito Nazionale Fascista or PNF) is founded in Italy.
+En 1898 : Beginning of the Wilmington insurrection of 1898, the only instance of a municipal government being overthrown in United States history.
 <br/><br/>
-En 1918 : Kaiser Wilhelm II of Germany abdicates after the German Revolution, and Germany is proclaimed a Republic.
+En 1871 : Henry Morton Stanley locates missing explorer and missionary, David Livingstone in Ujiji, near Lake Tanganyika, famously greeting him with the words, "Dr. Livingstone, I presume?"
 <br/><br/>
-En 1917 : The Balfour Declaration is published in The Times newspaper.
+En 1865 : Major Henry Wirz, the superintendent of a prison camp in Andersonville, Georgia, is hanged, becoming one of only three American Civil War soldiers executed for war crimes.
 <br/><br/>
-En 1914 : SMS Emden is sunk by HMAS Sydney in the Battle of Cocos.
+En 1847 : The passenger ship Stephen Whitney is wrecked in thick fog off the southern coast of Ireland, killing 92 of the 110 on board. The disaster results in the construction of the Fastnet Rock lighthouse.
 <br/><br/>
-En 1913 : The Great Lakes Storm of 1913, the most destructive natural disaster ever to hit the lakes, reaches its greatest intensity after beginning two days earlier. The storm destroys 19 ships and kills more than 250 people.
+En 1821 : Cry of Independence by Rufina Alfaro at La Villa de Los Santos, Panama setting into motion a revolt which led to Panama's independence from Spain and to it immediately becoming part of Colombia.
 <br/><br/>
-En 1907 : The Cullinan Diamond is presented to King Edward VII on his birthday.
+En 1793 : A Goddess of Reason is proclaimed by the French Convention at the suggestion of Pierre Gaspard Chaumette.
 <br/><br/>
-En 1906 : Theodore Roosevelt is the first sitting President of the United States to make an official trip outside the country, doing so to inspect progress on the Panama Canal.
+En 1775 : The United States Marine Corps is founded at Tun Tavern in Philadelphia by Samuel Nicholas.
 <br/><br/>
-En 1905 : The Province of Alberta, Canada, holds its first general election.
+En 1766 : The last colonial governor of New Jersey, William Franklin, signs the charter of Queen's College (later renamed Rutgers University).
 <br/><br/>
-En 1901 : The Prince George, Duke of Cornwall (later George V of the United Kingdom) becomes Prince of Wales and Earl of Chester.
+En 1702 : English colonists under the command of James Moore besiege Spanish St. Augustine during Queen Anne's War.
 <br/><br/>
-En 1900 : Russian invasion of Manchuria: Russia completes its occupation of Manchuria with 100,000 troops.
+En 1674 : Third Anglo-Dutch War: As provided in the Treaty of Westminster, Netherlands cedes New Netherland to England.
 <br/><br/>
-En 1888 : Jack the Ripper murders Mary Jane Kelly, becoming his final victim in the Whitechapel murders.
+En 1659 : Chattrapati Shivaji Maharaj, Maratha King kills Afzal Khan, Adilshahi in the battle popularly known as Battle of Pratapgarh.
 <br/><br/>
-En 1887 : The United States receives rights to Pearl Harbor, Hawaii.
+En 1599 : Åbo Bloodbath: Fourteen noblemen who opposed Duke Charles are decapitated in the Old Great Square of Turku (Swedish: Åbo) for their involvement in the War against Sigismund.
 <br/><br/>
-En 1881 : Mapuche rebels attack the fortified Chilean settlement of Temuco.
+En 1444 : Battle of Varna: The crusading forces of King Władysław III of Poland (aka Ulaszlo I of Hungary and Władysław III of Varna) are defeated by the Turks under Sultan Murad II and Władysław is killed.
 <br/><br/>
-En 1872 : The Great Boston Fire of 1872.
+En 1293 : Raden Wijaya is crowned as the first monarch of Majapahit kingdom of Java, taking the throne name Kertarajasa Jayawardhana.
 <br/><br/>
-En 1870 : The Battle of Coulmiers ends in a Pyrrhic victory for the French army during the Franco-German War of 1870.
+En 1202 : Fourth Crusade: Despite letters from Pope Innocent III forbidding it and threatening excommunication, Catholic crusaders begin a siege of Zara (now Zadar, Croatia).
 <br/><br/>
-En 1867 : The Tokugawa shogunate hands back power to the Emperor of Japan, starting the Meiji Restoration.
+En 937 : Ten Kingdoms: Li Bian usurps the throne and deposes Emperor Yang Pu. The Wu State is replaced by Li (now called "Xu Zhigao"), who becomes the first ruler of Southern Tang.
 <br/><br/>
-En 1862 : American Civil War: Union General Ambrose Burnside assumes command of the Army of the Potomac, after George B. McClellan is removed.
-<br/><br/>
-En 1851 : Kentucky marshals abduct abolitionist minister Calvin Fairbank from Jeffersonville, Indiana, and take him to Kentucky to stand trial for helping a slave escape.
-<br/><br/>
-En 1799 : Napoleon Bonaparte leads the Coup of 18 Brumaire ending the Directory government, and becoming First Consul of the successor Consulate Government.
-<br/><br/>
-En 1791 : The Dublin Society of United Irishmen is founded.
-<br/><br/>
-En 1780 : American Revolutionary War: In the Battle of Fishdam Ford a force of British and Loyalist troops fail in a surprise attack against the South Carolina Patriot militia under Brigadier General Thomas Sumter.
-<br/><br/>
-En 1729 : Spain, France and Great Britain sign the Treaty of Seville.
-<br/><br/>
-En 1720 : The synagogue of Judah HeHasid is burned down by Arab creditors, leading to the expulsion of the Ashkenazim from Jerusalem.
-<br/><br/>
-En 1719 : In a treaty between Sweden and Hanover at the close of the Great Northern War, Sweden cedes the  Duchies of Bremen and Verden (in northern Germany) to Hanover.
-<br/><br/>
-En 1688 : Glorious Revolution: William of Orange captures Exeter.
-<br/><br/>
-En 1620 : The Bohemian King Frederick I flees Prague to Wroclaw one day after the defeat of his troops in the Battle of White Mountain.
-<br/><br/>
-En 1520 : More than 50 people are sentenced and executed in the Stockholm Bloodbath.
-<br/><br/>
-En 1456 : Ulrich II, Count of Celje, last ruler of the County of Cilli, is assassinated in Belgrade.
-<br/><br/>
-En 1431 : The Battle of Ilava: The Hungarians defeat the Hussite army.
-<br/><br/>
-En 1372 : Trần Duệ Tông succeeds his brother Trần Nghệ Tông as King of Vietnam.
-<br/><br/>
-En 1330 : At the Battle of Posada, Basarab I of Wallachia defeats the Hungarian army of Charles I Robert.
-<br/><br/>
-En 1323 : Siege of Warangal: Prataparudra surrenders to Muhammad bin Tughlaq, officially marking the end of the Kakatiya dynasty.
-<br/><br/>
-En 1313 : Louis the Bavarian defeats his cousin Frederick I of Austria at the Battle of Gammelsdorf.
-<br/><br/>
-En 1307 : Knights Templar officer Hugues de Pairaud is forced to confess during the Trials of the Knights Templar. He was persecuted on the charges of false idolism and sodomy.
-<br/><br/>
-En 1277 : The Treaty of Aberconwy, a humiliating settlement forced on Llywelyn ap Gruffudd by King Edward I of England, brings a temporary end to the Welsh Wars.
-<br/><br/>
-En 1180 : The Battle of Fujigawa: Minamoto forces (30,000 men) under Minamoto no Yoritomo defeat Taira no Koremori during a night attack near the Fuji River but he escapes safely with the routed army.
-<br/><br/>
-En 694 : At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.
+En 474 : Emperor Leo II dies after a reign of ten months. He is succeeded by his father Zeno, who becomes sole ruler of the Byzantine Empire.
 <br/><br/>
