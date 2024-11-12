@@ -4,139 +4,127 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 11/11 ?(Hover on the year)</h1>
+<h1> What happen this day 12/11 ?(Hover on the year)</h1>
 
-En 2022 : Russo-Ukrainian War: Ukrainian armed forces enter the city of Kherson following a successful two-month southern counteroffensive.
+En 2022 : A Boeing B-17 Flying Fortress and a Bell P-63 Kingcobra collide in mid-air over Dallas Executive Airport during an airshow, killing six.
 <br/><br/>
-En 2020 : Typhoon Vamco makes landfall in Luzon and several offshore islands, killing 67 people. The storm causes the worst floods in the region since Typhoon Ketsana in 2009.
+En 2021 : The Los Angeles Superior Court formally ends the 14-year conservatorship to pop singer Britney Spears.
 <br/><br/>
-En 2014 : Fifty-eight people are killed in a bus crash in the Sukkur District in southern Pakistan's Sindh province.
+En 2017 : The 7.3 Mw  Kermanshah earthquake shakes the northern Iran–Iraq border with a maximum Mercalli intensity of VIII (Severe). At least 410 people are killed and over 7,000 are injured.
 <br/><br/>
-En 2012 : A strong earthquake with the magnitude 6.8 hits northern Burma, killing at least 26 people.
+En 2015 : Two suicide bombers detonate explosives in Bourj el-Barajneh, Beirut, killing 43 people and injuring over 200 others.
 <br/><br/>
-En 2011 : A helicopter crash just outside Mexico City kills seven, including Francisco Blake Mora the Secretary of the Interior of Mexico.
+En 2014 : The Philae lander, deployed from the European Space Agency's Rosetta probe, reaches the surface of Comet 67P/Churyumov–Gerasimenko.
 <br/><br/>
-En 2006 : Her Majesty Queen Elizabeth II unveils the New Zealand War Memorial in London, United Kingdom, commemorating the loss of soldiers from the New Zealand Army and the British Army.
+En 2014 : An Armenian Mil Mi-24 attack helicopter is shot down by Azerbaijani forces, killing all three people on board.
 <br/><br/>
-En 2004 : New Zealand Tomb of the Unknown Warrior is dedicated at the National War Memorial, Wellington.
+En 2011 : Silvio Berlusconi tenders his resignation as Prime Minister of Italy, effective November 16, due in large part to the European sovereign debt crisis.
 <br/><br/>
-En 2004 : The Palestine Liberation Organization confirms the death of Yasser Arafat from unidentified causes. Mahmoud Abbas is elected chairman of the PLO minutes later.
+En 2011 : A blast in Iran's Shahid Modarres missile base leads to the death of 17 of the Revolutionary Guards members, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program.
 <br/><br/>
-En 2002 : A Fokker F27 Friendship operating as Laoag International Airlines Flight 585 crashes into Manila Bay shortly after takeoff from Ninoy Aquino International Airport, killing 19 people.
+En 2003 : Iraq War: In Nasiriyah, Iraq, at least 23 people, among them the first Italian casualties of the 2003 invasion of Iraq, are killed in a suicide bomb attack on an Italian police base.
 <br/><br/>
-En 2001 : Journalists Pierre Billaud, Johanne Sutton and Volker Handloik are killed in Afghanistan during an attack on the convoy they are traveling in.
+En 2003 : Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles.
 <br/><br/>
-En 2000 : Kaprun disaster: One hundred fifty-five skiers and snowboarders die when a cable car catches fire in an alpine tunnel in Kaprun, Austria.
+En 2001 : In New York City, American Airlines Flight 587, an Airbus A300 en route to the Dominican Republic, crashes minutes after takeoff from John F. Kennedy International Airport, killing all 260 on board and five on the ground.
 <br/><br/>
-En 1999 : The House of Lords Act is given Royal Assent, restricting membership of the British House of Lords by virtue of a hereditary peerage.
+En 2001 : War in Afghanistan: Taliban forces abandon Kabul, ahead of advancing Afghan Northern Alliance troops.
 <br/><br/>
-En 1993 : A sculpture honoring women who served in the Vietnam War is dedicated at the Vietnam Veterans Memorial in Washington, D.C.
+En 1999 : The 7.2 Mw  Düzce earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent). At least 845 people are killed and almost 5,000 are injured.
 <br/><br/>
-En 1992 : The General Synod of the Church of England votes to allow women to become priests.
+En 1997 : Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing.
 <br/><br/>
-En 1982 : Space Shuttle Columbia launches from the Kennedy Space Center on STS-5, the first operational mission of the Space Shuttle program.
+En 1996 : A Saudi Arabian Airlines Boeing 747 and a Kazakh Ilyushin Il-76 cargo plane collide in mid-air near New Delhi, killing 349 in the deadliest mid-air collision to date.
 <br/><br/>
-En 1981 : Antigua and Barbuda joins the United Nations.
+En 1995 : Erdut Agreement regarding the peaceful resolution to the Croatian War of Independence is reached.
 <br/><br/>
-En 1977 : A munitions explosion at a train station in Iri, South Korea kills at least 56 people.
+En 1995 : Space Shuttle Atlantis launches on STS-74 to deliver the Mir Docking Module to the Russian space station Mir.
 <br/><br/>
-En 1975 : Australian constitutional crisis of 1975: Australian Governor-General Sir John Kerr dismisses the government of Gough Whitlam, appoints Malcolm Fraser as caretaker Prime Minister and announces a general election to be held in early December.
+En 1991 : Santa Cruz massacre: The Indonesian Army open fire on a crowd of student protesters in Dili, East Timor.
 <br/><br/>
-En 1975 : Independence of Angola.
+En 1990 : Crown Prince Akihito is formally installed as Emperor Akihito of Japan, becoming the 125th Japanese monarch.
 <br/><br/>
-En 1972 : Vietnam War: Vietnamization: The United States Army turns over the massive Long Binh military base to South Vietnam.
+En 1990 : Tim Berners-Lee publishes a formal proposal for the World Wide Web.
 <br/><br/>
-En 1968 : Vietnam War: Operation Commando Hunt initiated. The goal is to interdict men and supplies on the Ho Chi Minh trail, through Laos into South Vietnam.
+En 1982 : USSR: Yuri Andropov becomes the General Secretary of the Communist Party's Central Committee, succeeding Leonid I. Brezhnev.
 <br/><br/>
-En 1967 : Vietnam War: In a propaganda ceremony in Phnom Penh, Cambodia, three American prisoners of war are released by the Viet Cong and turned over to "new left" antiwar activist Tom Hayden.
+En 1981 : Space Shuttle program: Mission STS-2, utilizing the Space Shuttle Columbia, marks the first time a crewed spacecraft is launched into space twice.
 <br/><br/>
-En 1966 : NASA launches Gemini 12.
+En 1980 : The NASA space probe Voyager I makes its closest approach to Saturn and takes the first images of its rings.
 <br/><br/>
-En 1965 : Southern Rhodesia's Prime Minister Ian Smith unilaterally declares the colony independent as the unrecognised state of Rhodesia.
+En 1979 : Iran hostage crisis: In response to the hostage situation in Tehran, U.S. President Jimmy Carter orders a halt to all petroleum imports into the United States from Iran.
 <br/><br/>
-En 1965 : United Air Lines Flight 227 crashes at Salt Lake City International Airport, killing 43.
+En 1977 : France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.
 <br/><br/>
-En 1962 : Kuwait's National Assembly ratifies the Constitution of Kuwait.
+En 1975 : The Comoros joins the United Nations.
 <br/><br/>
-En 1961 : Thirteen Italian Air Force servicemen, deployed to the Congo as a part of the UN peacekeeping force, are massacred by a mob in Kindu.
+En 1971 : Vietnam War: As part of Vietnamization, U.S. President Richard Nixon sets February 1, 1972 as the deadline for the removal of another 45,000 American troops from Vietnam.
 <br/><br/>
-En 1960 : A military coup against President Ngô Đình Diệm of South Vietnam is crushed.
+En 1971 : Aeroflot Flight N-63 crashes on approach to Vinnytsia Airport, killing 48.
 <br/><br/>
-En 1942 : World War II: France's zone libre is occupied by German forces in Case Anton.
+En 1970 : The Oregon Highway Division attempts to destroy a rotting beached sperm whale with explosives, leading to the now infamous "exploding whale" incident.
 <br/><br/>
-En 1942 : The Turkish parliament passes the Varlık Vergisi, a capital tax mostly levied on non-Muslim citizens with the unofficial aim to inflict financial ruin on them and end their prominence in the country's economy.
+En 1970 : The 1970 Bhola cyclone makes landfall on the coast of East Pakistan, becoming the deadliest tropical cyclone in history.
 <br/><br/>
-En 1940 : World War II: In the Battle of Taranto, the Royal Navy launches the first all-aircraft ship-to-ship naval attack in history.
+En 1969 : Vietnam War: Independent investigative journalist Seymour Hersh breaks the story of the My Lai Massacre.
 <br/><br/>
-En 1940 : World War II: The German auxiliary cruiser Atlantis captures top secret British mail from the Automedon, and sends it to Japan.
+En 1961 : Terry Jo Duperrault is the sole survivor of a series of brutal murders aboard the ketch Bluebelle.
 <br/><br/>
-En 1934 : The Shrine of Remembrance is opened in Melbourne, Australia.
+En 1958 : A team of rock climbers led by Warren Harding completes the first ascent of The Nose on El Capitan in Yosemite Valley.
 <br/><br/>
-En 1930 : Patent number US1781541 is awarded to Albert Einstein and Leó Szilárd for their invention, the Einstein refrigerator.
+En 1956 : Morocco, Sudan and Tunisia join the United Nations.
 <br/><br/>
-En 1926 : The United States Numbered Highway System is established.
+En 1956 : In the midst of the Suez Crisis, Palestinian refugees are shot dead in Rafah by Israel Defense Force soldiers following the invasion of the Gaza Strip.
 <br/><br/>
-En 1923 : Adolf Hitler is arrested in Munich for high treason for his role in the Beer Hall Putsch.
+En 1954 : Ellis Island ceases operations.
 <br/><br/>
-En 1921 : The Tomb of the Unknowns is dedicated by US President Warren G. Harding at Arlington National Cemetery.
+En 1948 : Aftermath of World War II: In Tokyo, the International Military Tribunal for the Far East sentences seven Japanese military and government officials, including General Hideki Tojo, to death for their roles in World War II.
 <br/><br/>
-En 1919 : The Industrial Workers of the World attack an Armistice Day parade in Centralia, Washington, ultimately resulting in the deaths of five people.
+En 1944 : World War II: The Royal Air Force launches 29 Avro Lancaster bombers, which sink the German battleship Tirpitz, with 12,000 lb Tallboy bombs off Tromsø, Norway.
 <br/><br/>
-En 1919 : Latvian forces defeat the West Russian Volunteer Army at Riga in the Latvian War of Independence.
+En 1942 : World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory.
 <br/><br/>
-En 1918 : World War I: Germany signs an armistice agreement with the Allies in a railroad car in the forest of Compiègne.
+En 1941 : World War II: Temperatures around Moscow drop to −12 °C (10 °F) as the Soviet Union launches ski troops for the first time against the freezing German forces near the city.
 <br/><br/>
-En 1918 : Józef Piłsudski assumes supreme military power in Poland – symbolic first day of Polish independence.
+En 1941 : World War II: The Soviet cruiser Chervona Ukraina is destroyed during the Battle of Sevastopol.
 <br/><br/>
-En 1918 : Emperor Charles I of Austria relinquishes power.
+En 1940 : World War II: The Battle of Gabon ends as Free French Forces take Libreville, Gabon, and all of French Equatorial Africa from Vichy French forces.
 <br/><br/>
-En 1911 : Many cities in the Midwestern United States break their record highs and lows on the same day as a strong cold front rolls through.
+En 1940 : World War II: Soviet Foreign Minister Vyacheslav Molotov arrives in Berlin to discuss the possibility of the Soviet Union joining the Axis Powers.
 <br/><br/>
-En 1889 : The State of Washington is admitted as the 42nd state of the United States.
+En 1938 : Nazi Germany issues the Decree on the Elimination of Jews from Economic Life prohibiting Jews from selling goods and services or working in a trade, totally segregating Jews from the German economy.
 <br/><br/>
-En 1887 : Four convicted anarchists were executed as a result of the Haymarket affair.
+En 1936 : In California, the San Francisco–Oakland Bay Bridge opens to traffic.
 <br/><br/>
-En 1880 : Australian bushranger Ned Kelly is hanged at Melbourne Gaol.
+En 1933 : Nazi Germany uses a referendum to ratify its withdrawal from the League of Nations.
 <br/><br/>
-En 1869 : The Victorian Aboriginal Protection Act is enacted in Australia, giving the government control of indigenous people's wages, their terms of employment, where they could live, and of their children, effectively leading to the Stolen Generations.
+En 1928 : SS Vestris sinks approximately 200 miles (320 km) off Hampton Roads, Virginia, killing at least 110 passengers, mostly women and children who die after the vessel is abandoned.
 <br/><br/>
-En 1865 : Treaty of Sinchula is signed whereby Bhutan cedes the areas east of the Teesta River to the British East India Company.
+En 1927 : Leon Trotsky is expelled from the Soviet Communist Party, leaving Joseph Stalin in undisputed control of the Soviet Union.
 <br/><br/>
-En 1855 : A powerful earthquake occurs in Edo, Japan, causing considerable damage in the Kantō region from the shaking and subsequent fires. It had a death toll of 7,000–10,000 people and destroyed around 14,000 buildings.
+En 1920 : The 1920 Cork hunger strike by Irish republicans ends after three deaths.
 <br/><br/>
-En 1839 : The Virginia Military Institute is founded in Lexington, Virginia.
+En 1920 : Italy and the Kingdom of Serbs, Croats and Slovenes sign the Treaty of Rapallo.
 <br/><br/>
-En 1831 : In Jerusalem, Virginia, Nat Turner is hanged after inciting a violent slave uprising.
+En 1918 : Dissolution of Austria-Hungary: Austria becomes a republic. After the proclamation, a coup attempt by the communist Red Guard is defeated by the social-democratic Volkswehr.
 <br/><br/>
-En 1813 : War of 1812: Battle of Crysler's Farm: British and Canadian forces defeat a larger American force, causing the Americans to abandon their Saint Lawrence campaign.
+En 1912 : First Balkan War: King George I of Greece makes a triumphal entry into Thessaloniki after its liberation from 482 years of Ottoman rule.
 <br/><br/>
-En 1805 : Napoleonic Wars: Battle of Dürenstein: Eight thousand French troops attempt to slow the retreat of a vastly superior Russian and Austrian force.
+En 1912 : The frozen bodies of Robert Scott and his men are found on the Ross Ice Shelf in Antarctica.
 <br/><br/>
-En 1778 : Cherry Valley massacre: Loyalists and Seneca Indian forces attack a fort and village in eastern New York during the American Revolutionary War, killing more than forty civilians and soldiers.
+En 1905 : Norway holds a referendum resulting in popular approval of the Storting's decision to authorise the government to make the offer of the throne of the newly independent country.
 <br/><br/>
-En 1750 : Riots break out in Lhasa after the murder of the Tibetan regent.
+En 1893 : Abdur Rahman Khan accepts the Durand Line as the border between the Emirate of Afghanistan and the British Raj.
 <br/><br/>
-En 1750 : The F.H.C. Society, also known as the Flat Hat Club, is formed at Raleigh Tavern, Williamsburg, Virginia. It is the first college fraternity.
+En 1892 : Pudge Heffelfinger becomes the first professional American football player on record, participating in his first paid game for the Allegheny Athletic Association.
 <br/><br/>
-En 1724 : Joseph Blake, alias Blueskin, a highwayman known for attacking "Thief-Taker General" (and thief) Jonathan Wild at the Old Bailey, is hanged in London.
+En 1835 : Construction is completed on the Wilberforce Monument in Kingston Upon Hull.
 <br/><br/>
-En 1675 : Gottfried Leibniz demonstrates integral calculus for the first time to find the area under the graph of y = ƒ(x).
+En 1439 : Plymouth becomes the first town incorporated by the English Parliament.
 <br/><br/>
-En 1673 : Second Battle of Khotyn in Ukraine: Polish–Lithuanian Commonwealth forces under the command of Jan Sobieski defeat the Ottoman army. In this battle, rockets made by Kazimierz Siemienowicz are successfully used.
+En 1330 : Battle of Posada ends: Wallachian Voievode Basarab I defeats the Hungarian army by ambush.
 <br/><br/>
-En 1634 : Following pressure from Anglican bishop John Atherton, the Irish House of Commons passes An Act for the Punishment for the Vice of Buggery.
+En 1028 : Future Byzantine empress Zoe takes the throne as empress consort to Romanos III Argyros.
 <br/><br/>
-En 1620 : The Mayflower Compact is signed in what is now Provincetown Harbor near Cape Cod.
-<br/><br/>
-En 1572 : Tycho Brahe observes the supernova SN 1572.
-<br/><br/>
-En 1500 : Treaty of Granada: Louis XII of France and Ferdinand II of Aragon agree to divide the Kingdom of Naples between them.
-<br/><br/>
-En 1215 : The Fourth Council of the Lateran meets, defining the doctrine of transubstantiation, the process by which bread and wine are, by that doctrine, said to transform into the body and blood of Christ.
-<br/><br/>
-En 1100 : Henry I of England marries Matilda of Scotland, the daughter of Malcolm III of Scotland and a direct descendant of the Saxon king Edmund Ironside; Matilda is crowned on the same day.
-<br/><br/>
-En 1028 : Constantine VIII dies, ending his uninterrupted reign as emperor or co-emperor of the Byzantine Empire of 66 years.
-<br/><br/>
-En 308 : At Carnuntum, Emperor emeritus Diocletian confers with Galerius, Augustus of the East, and Maximianus, the recently returned former Augustus of the West, in an attempt to end the civil wars of the Tetrarchy.
+En 954 : The 13-year-old Lothair III is crowned at the Abbey of Saint-Remi as king of the West Frankish Kingdom.
 <br/><br/>
