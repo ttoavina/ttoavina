@@ -4,127 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 12/11 ?(Hover on the year)</h1>
+<h1> What happen this day 13/11 ?(Hover on the year)</h1>
 
-En 2022 : A Boeing B-17 Flying Fortress and a Bell P-63 Kingcobra collide in mid-air over Dallas Executive Airport during an airshow, killing six.
+En 2015 : Islamic State operatives carry out a series of coordinated terrorist attacks in Paris, including suicide bombings, mass shootings and a hostage crisis. The terrorists kill 130 people, making it the deadliest attack in France since the Second World War.
 <br/><br/>
-En 2021 : The Los Angeles Superior Court formally ends the 14-year conservatorship to pop singer Britney Spears.
+En 2013 : Hawaii legalizes same-sex marriage.
 <br/><br/>
-En 2017 : The 7.3 Mw  Kermanshah earthquake shakes the northern Iran–Iraq border with a maximum Mercalli intensity of VIII (Severe). At least 410 people are killed and over 7,000 are injured.
+En 2013 : 4 World Trade Center officially opens.
 <br/><br/>
-En 2015 : Two suicide bombers detonate explosives in Bourj el-Barajneh, Beirut, killing 43 people and injuring over 200 others.
+En 2012 : A total solar eclipse occurs in parts of Australia and the South Pacific.
 <br/><br/>
-En 2014 : The Philae lander, deployed from the European Space Agency's Rosetta probe, reaches the surface of Comet 67P/Churyumov–Gerasimenko.
+En 2002 : Iraq disarmament crisis: Iraq agrees to the terms of the UN Security Council Resolution 1441.
 <br/><br/>
-En 2014 : An Armenian Mil Mi-24 attack helicopter is shot down by Azerbaijani forces, killing all three people on board.
+En 2002 : During the Prestige oil spill, a storm bursts a tank of the oil tanker MV Prestige, which was not allowed to dock and sank on November 19, 2002, off the coast of Galicia, spilling 63,000 metric tons of heavy fuel oil, more than the Exxon Valdez oil spill.
 <br/><br/>
-En 2011 : Silvio Berlusconi tenders his resignation as Prime Minister of Italy, effective November 16, due in large part to the European sovereign debt crisis.
+En 2001 : War on Terror: In the first such act since World War II, US President George W. Bush signs an executive order allowing military tribunals against foreigners suspected of connections to terrorist acts or planned acts on the United States.
 <br/><br/>
-En 2011 : A blast in Iran's Shahid Modarres missile base leads to the death of 17 of the Revolutionary Guards members, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program.
+En 2000 : Philippine House Speaker Manny Villar passes the articles of impeachment against Philippine President Joseph Estrada.
 <br/><br/>
-En 2003 : Iraq War: In Nasiriyah, Iraq, at least 23 people, among them the first Italian casualties of the 2003 invasion of Iraq, are killed in a suicide bomb attack on an Italian police base.
+En 1996 : As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number,
 <br/><br/>
-En 2003 : Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles.
+En 1995 : Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empire.
 <br/><br/>
-En 2001 : In New York City, American Airlines Flight 587, an Airbus A300 en route to the Dominican Republic, crashes minutes after takeoff from John F. Kennedy International Airport, killing all 260 on board and five on the ground.
+En 1995 : Nigeria Airways Flight 357 crashes at Kaduna International Airport in Kaduna, Nigeria, killing 11 people and injuring 66.
 <br/><br/>
-En 2001 : War in Afghanistan: Taliban forces abandon Kabul, ahead of advancing Afghan Northern Alliance troops.
+En 1994 : In a referendum, voters in Sweden decide to join the European Union.
 <br/><br/>
-En 1999 : The 7.2 Mw  Düzce earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent). At least 845 people are killed and almost 5,000 are injured.
+En 1993 : China Northern Airlines Flight 6901 crashes on approach to Ürümqi Diwopu International Airport in Ürümqi, China, killing 12 people.
 <br/><br/>
-En 1997 : Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing.
+En 1992 : The High Court of Australia rules in Dietrich v The Queen that although there is no absolute right to have publicly funded counsel, in most circumstances a judge should grant any request for an adjournment or stay when an accused is unrepresented.
 <br/><br/>
-En 1996 : A Saudi Arabian Airlines Boeing 747 and a Kazakh Ilyushin Il-76 cargo plane collide in mid-air near New Delhi, killing 349 in the deadliest mid-air collision to date.
+En 1991 : The Republic of Karelia, an autonomous republic of Russia, is formed from the former Karelian ASSR.
 <br/><br/>
-En 1995 : Erdut Agreement regarding the peaceful resolution to the Croatian War of Independence is reached.
+En 1990 : In Aramoana, New Zealand, David Gray shoots dead 13 people in a massacre before being tracked down and killed by police the next day.
 <br/><br/>
-En 1995 : Space Shuttle Atlantis launches on STS-74 to deliver the Mir Docking Module to the Russian space station Mir.
+En 1989 : Hans-Adam II, the present Prince of Liechtenstein, begins his reign on the death of his father.
 <br/><br/>
-En 1991 : Santa Cruz massacre: The Indonesian Army open fire on a crowd of student protesters in Dili, East Timor.
+En 1986 : The Late, Late Breakfast Show incident leads to death of 24 year old Michael Lush and show cancellation.
 <br/><br/>
-En 1990 : Crown Prince Akihito is formally installed as Emperor Akihito of Japan, becoming the 125th Japanese monarch.
+En 1985 : The volcano Nevado del Ruiz erupts and melts a glacier, causing a lahar (volcanic mudslide) that buries Armero, Colombia, killing approximately 23,000 people.
 <br/><br/>
-En 1990 : Tim Berners-Lee publishes a formal proposal for the World Wide Web.
+En 1985 : Xavier Suárez is sworn in as Miami's first Cuban-born mayor.
 <br/><br/>
-En 1982 : USSR: Yuri Andropov becomes the General Secretary of the Communist Party's Central Committee, succeeding Leonid I. Brezhnev.
+En 1982 : Ray Mancini defeats Duk Koo Kim in a boxing match held in Las Vegas. Kim's subsequent death (on November 17) leads to significant changes in the sport.
 <br/><br/>
-En 1981 : Space Shuttle program: Mission STS-2, utilizing the Space Shuttle Columbia, marks the first time a crewed spacecraft is launched into space twice.
+En 1982 : The Vietnam Veterans Memorial is dedicated in Washington, D.C. after a march to its site by thousands of Vietnam War veterans.
 <br/><br/>
-En 1980 : The NASA space probe Voyager I makes its closest approach to Saturn and takes the first images of its rings.
+En 1970 : Bhola cyclone: A 240 km/h (150 mph) tropical cyclone hits the densely populated Ganges Delta region of East Pakistan (now Bangladesh), killing an estimated 500,000 people in one night.
 <br/><br/>
-En 1979 : Iran hostage crisis: In response to the hostage situation in Tehran, U.S. President Jimmy Carter orders a halt to all petroleum imports into the United States from Iran.
+En 1969 : Vietnam War: Anti-war protesters in Washington, D.C. stage a symbolic March Against Death.
 <br/><br/>
-En 1977 : France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.
+En 1966 : In response to Fatah raids against Israelis near the West Bank border, Israel launches an attack on the village of As-Samu.
 <br/><br/>
-En 1975 : The Comoros joins the United Nations.
+En 1966 : All Nippon Airways Flight 533 crashes into the Seto Inland Sea near Matsuyama Airport in Japan, killing 50 people.
 <br/><br/>
-En 1971 : Vietnam War: As part of Vietnamization, U.S. President Richard Nixon sets February 1, 1972 as the deadline for the removal of another 45,000 American troops from Vietnam.
+En 1965 : Fire and sinking of SS Yarmouth Castle, 87 dead.
 <br/><br/>
-En 1971 : Aeroflot Flight N-63 crashes on approach to Vinnytsia Airport, killing 48.
+En 1956 : The Supreme Court of the United States declares Alabama laws requiring segregated buses illegal, thus ending the Montgomery bus boycott.
 <br/><br/>
-En 1970 : The Oregon Highway Division attempts to destroy a rotting beached sperm whale with explosives, leading to the now infamous "exploding whale" incident.
+En 1954 : Great Britain defeats France to capture the first ever Rugby League World Cup in Paris in front of around 30,000 spectators.
 <br/><br/>
-En 1970 : The 1970 Bhola cyclone makes landfall on the coast of East Pakistan, becoming the deadliest tropical cyclone in history.
+En 1950 : General Carlos Delgado Chalbaud, President of Venezuela, is assassinated in Caracas.
 <br/><br/>
-En 1969 : Vietnam War: Independent investigative journalist Seymour Hersh breaks the story of the My Lai Massacre.
+En 1947 : The Soviet Union completes development of the AK-47, one of the first proper assault rifles.
 <br/><br/>
-En 1961 : Terry Jo Duperrault is the sole survivor of a series of brutal murders aboard the ketch Bluebelle.
+En 1942 : World War II: Naval Battle of Guadalcanal: U.S. and Japanese ships engage in an intense, close-quarters surface naval engagement during the Guadalcanal Campaign.
 <br/><br/>
-En 1958 : A team of rock climbers led by Warren Harding completes the first ascent of The Nose on El Capitan in Yosemite Valley.
+En 1941 : World War II: The aircraft carrier HMS Ark Royal is torpedoed by U-81, sinking the following day.
 <br/><br/>
-En 1956 : Morocco, Sudan and Tunisia join the United Nations.
+En 1940 : Walt Disney's animated musical film Fantasia is first released at New York's Broadway Theatre, on the first night of a roadshow.
 <br/><br/>
-En 1956 : In the midst of the Suez Crisis, Palestinian refugees are shot dead in Rafah by Israel Defense Force soldiers following the invasion of the Gaza Strip.
+En 1927 : The Holland Tunnel opens to traffic as the first Hudson River vehicle tunnel linking New Jersey to New York City.
 <br/><br/>
-En 1954 : Ellis Island ceases operations.
+En 1922 : The United States Supreme Court upholds mandatory vaccinations for public school students in Zucht v. King.
 <br/><br/>
-En 1948 : Aftermath of World War II: In Tokyo, the International Military Tribunal for the Far East sentences seven Japanese military and government officials, including General Hideki Tojo, to death for their roles in World War II.
+En 1918 : World War I: Allied troops occupy Constantinople, the capital of the Ottoman Empire.
 <br/><br/>
-En 1944 : World War II: The Royal Air Force launches 29 Avro Lancaster bombers, which sink the German battleship Tirpitz, with 12,000 lb Tallboy bombs off Tromsø, Norway.
+En 1917 : World War I: beginning of the First Battle of Monte Grappa (in Italy known as the "First Battle of the Piave"). The Austro-Hungarian Armed Forces, despite help from the German Alpenkorps and numerical superiority, will fail their offensive against the Italian Army now led by its new chief of staff Armando Diaz.
 <br/><br/>
-En 1942 : World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory.
+En 1916 : World War I: Prime Minister of Australia Billy Hughes is expelled from the Labor Party over his support for conscription.
 <br/><br/>
-En 1941 : World War II: Temperatures around Moscow drop to −12 °C (10 °F) as the Soviet Union launches ski troops for the first time against the freezing German forces near the city.
+En 1914 : Zaian War: Berber tribesmen inflict the heaviest defeat of French forces in Morocco at the Battle of El Herri.
 <br/><br/>
-En 1941 : World War II: The Soviet cruiser Chervona Ukraina is destroyed during the Battle of Sevastopol.
+En 1901 : The 1901 Caister lifeboat disaster.
 <br/><br/>
-En 1940 : World War II: The Battle of Gabon ends as Free French Forces take Libreville, Gabon, and all of French Equatorial Africa from Vichy French forces.
+En 1887 : Bloody Sunday clashes in central London.
 <br/><br/>
-En 1940 : World War II: Soviet Foreign Minister Vyacheslav Molotov arrives in Berlin to discuss the possibility of the Soviet Union joining the Axis Powers.
+En 1864 : American Civil War: The three-day Battle of Bull's Gap ends in a Union rout as Confederates under Major General John C. Breckinridge pursue them to Strawberry Plains, Tennessee.
 <br/><br/>
-En 1938 : Nazi Germany issues the Decree on the Elimination of Jews from Economic Life prohibiting Jews from selling goods and services or working in a trade, totally segregating Jews from the German economy.
+En 1851 : The Denny Party lands at Alki Point, before moving to the other side of Elliott Bay to what would become Seattle.
 <br/><br/>
-En 1936 : In California, the San Francisco–Oakland Bay Bridge opens to traffic.
+En 1841 : James Braid first sees a demonstration of animal magnetism by Charles Lafontaine, which leads to his study of the subject he eventually calls hypnotism.
 <br/><br/>
-En 1933 : Nazi Germany uses a referendum to ratify its withdrawal from the League of Nations.
+En 1833 : Great Meteor Storm of 1833.
 <br/><br/>
-En 1928 : SS Vestris sinks approximately 200 miles (320 km) off Hampton Roads, Virginia, killing at least 110 passengers, mostly women and children who die after the vessel is abandoned.
+En 1775 : American Revolutionary War: Patriot revolutionary forces under Gen. Richard Montgomery occupy Montreal.
 <br/><br/>
-En 1927 : Leon Trotsky is expelled from the Soviet Communist Party, leaving Joseph Stalin in undisputed control of the Soviet Union.
+En 1715 : Jacobite rising in Scotland: Battle of Sheriffmuir: The forces of the Kingdom of Great Britain halt the Jacobite advance, although the action is inconclusive.
 <br/><br/>
-En 1920 : The 1920 Cork hunger strike by Irish republicans ends after three deaths.
+En 1642 : First English Civil War: Battle of Turnham Green: The Royalist forces withdraw in the face of the Parliamentarian army and fail to take London.
 <br/><br/>
-En 1920 : Italy and the Kingdom of Serbs, Croats and Slovenes sign the Treaty of Rapallo.
+En 1160 : Louis VII of France marries Adela of Champagne.
 <br/><br/>
-En 1918 : Dissolution of Austria-Hungary: Austria becomes a republic. After the proclamation, a coup attempt by the communist Red Guard is defeated by the social-democratic Volkswehr.
+En 1093 : Battle of Alnwick: in an English victory over the Scots, Malcolm III of Scotland, and his son Edward, are killed.
 <br/><br/>
-En 1912 : First Balkan War: King George I of Greece makes a triumphal entry into Thessaloniki after its liberation from 482 years of Ottoman rule.
-<br/><br/>
-En 1912 : The frozen bodies of Robert Scott and his men are found on the Ross Ice Shelf in Antarctica.
-<br/><br/>
-En 1905 : Norway holds a referendum resulting in popular approval of the Storting's decision to authorise the government to make the offer of the throne of the newly independent country.
-<br/><br/>
-En 1893 : Abdur Rahman Khan accepts the Durand Line as the border between the Emirate of Afghanistan and the British Raj.
-<br/><br/>
-En 1892 : Pudge Heffelfinger becomes the first professional American football player on record, participating in his first paid game for the Allegheny Athletic Association.
-<br/><br/>
-En 1835 : Construction is completed on the Wilberforce Monument in Kingston Upon Hull.
-<br/><br/>
-En 1439 : Plymouth becomes the first town incorporated by the English Parliament.
-<br/><br/>
-En 1330 : Battle of Posada ends: Wallachian Voievode Basarab I defeats the Hungarian army by ambush.
-<br/><br/>
-En 1028 : Future Byzantine empress Zoe takes the throne as empress consort to Romanos III Argyros.
-<br/><br/>
-En 954 : The 13-year-old Lothair III is crowned at the Abbey of Saint-Remi as king of the West Frankish Kingdom.
+En 1002 : English king Æthelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre.
 <br/><br/>
