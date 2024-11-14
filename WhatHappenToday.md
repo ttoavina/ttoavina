@@ -4,109 +4,101 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 13/11 ?(Hover on the year)</h1>
+<h1> What happen this day 14/11 ?(Hover on the year)</h1>
 
-En 2015 : Islamic State operatives carry out a series of coordinated terrorist attacks in Paris, including suicide bombings, mass shootings and a hostage crisis. The terrorists kill 130 people, making it the deadliest attack in France since the Second World War.
+En 2019 : A mass shooting occurs at Saugus High School in Santa Clarita, California, resulting in three deaths, including that of the perpetrator, and three injuries.
 <br/><br/>
-En 2013 : Hawaii legalizes same-sex marriage.
+En 2017 : A gunman kills four people and injures 12 others during a shooting spree across Rancho Tehama, California. He had earlier murdered his wife in their home.
 <br/><br/>
-En 2013 : 4 World Trade Center officially opens.
+En 2016 : A magnitude 7.8 earthquake strikes Kaikōura, New Zealand, at a depth of 15 km (9 miles), resulting in the deaths of two people.
 <br/><br/>
-En 2012 : A total solar eclipse occurs in parts of Australia and the South Pacific.
+En 2012 : Israel launches a major military operation in the Gaza Strip in response to an escalation of rocket attacks by Hamas.
 <br/><br/>
-En 2002 : Iraq disarmament crisis: Iraq agrees to the terms of the UN Security Council Resolution 1441.
+En 2008 : The first G-20 economic summit opens in Washington, D.C.
 <br/><br/>
-En 2002 : During the Prestige oil spill, a storm bursts a tank of the oil tanker MV Prestige, which was not allowed to dock and sank on November 19, 2002, off the coast of Galicia, spilling 63,000 metric tons of heavy fuel oil, more than the Exxon Valdez oil spill.
+En 2008 : Space Shuttle Endeavour launches on STS-126 to continue assembly of the International Space Station.
 <br/><br/>
-En 2001 : War on Terror: In the first such act since World War II, US President George W. Bush signs an executive order allowing military tribunals against foreigners suspected of connections to terrorist acts or planned acts on the United States.
+En 2003 : Astronomers discover Sedna, a distant trans-Neptunian dwarf planet.
 <br/><br/>
-En 2000 : Philippine House Speaker Manny Villar passes the articles of impeachment against Philippine President Joseph Estrada.
+En 2001 : War in Afghanistan: Afghan Northern Alliance fighters take over the capital Kabul.
 <br/><br/>
-En 1996 : As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number,
+En 2001 : A magnitude 7.8 earthquake strikes a remote part of the Tibetan plateau. It has the longest known surface rupture recorded on land (~400 km) and is the best documented example of a supershear earthquake.
 <br/><br/>
-En 1995 : Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empire.
+En 1995 : A budget standoff between Democrats and Republicans in the U.S. Congress forces the federal government to temporarily close national parks and museums and to run most government offices with skeleton staffs.
 <br/><br/>
-En 1995 : Nigeria Airways Flight 357 crashes at Kaduna International Airport in Kaduna, Nigeria, killing 11 people and injuring 66.
+En 1992 : In poor conditions caused by Cyclone Forrest, Vietnam Airlines Flight 474 crashes near Nha Trang, killing 30.
 <br/><br/>
-En 1994 : In a referendum, voters in Sweden decide to join the European Union.
+En 1991 : American and British authorities announce indictments against two Libyan intelligence officials in connection with the downing of the Pan Am Flight 103.
 <br/><br/>
-En 1993 : China Northern Airlines Flight 6901 crashes on approach to Ürümqi Diwopu International Airport in Ürümqi, China, killing 12 people.
+En 1991 : Cambodian Prince Norodom Sihanouk returns to Phnom Penh after thirteen years in exile.
 <br/><br/>
-En 1992 : The High Court of Australia rules in Dietrich v The Queen that although there is no absolute right to have publicly funded counsel, in most circumstances a judge should grant any request for an adjournment or stay when an accused is unrepresented.
+En 1990 : After German reunification, the Federal Republic of Germany and Poland sign a treaty confirming the Oder–Neisse line as the border between Germany and Poland.
 <br/><br/>
-En 1991 : The Republic of Karelia, an autonomous republic of Russia, is formed from the former Karelian ASSR.
+En 1984 : Zamboanga City mayor Cesar Climaco, a prominent critic of the government of Philippine President Ferdinand Marcos, is assassinated in his home city.
 <br/><br/>
-En 1990 : In Aramoana, New Zealand, David Gray shoots dead 13 people in a massacre before being tracked down and killed by police the next day.
+En 1982 : Lech Wałęsa, the leader of Poland's outlawed Solidarity movement, is released after eleven months of internment near the Soviet border.
 <br/><br/>
-En 1989 : Hans-Adam II, the present Prince of Liechtenstein, begins his reign on the death of his father.
+En 1979 : US President Jimmy Carter issues Executive Order 12170, freezing all Iranian assets in the United States in response to the hostage crisis.
 <br/><br/>
-En 1986 : The Late, Late Breakfast Show incident leads to death of 24 year old Michael Lush and show cancellation.
+En 1978 : France conducts the Aphrodite nuclear test as 25th in the group of 29 1975–78 French nuclear tests.
 <br/><br/>
-En 1985 : The volcano Nevado del Ruiz erupts and melts a glacier, causing a lahar (volcanic mudslide) that buries Armero, Colombia, killing approximately 23,000 people.
+En 1977 : During a British House of Commons debate, Labour MP Tam Dalyell poses what would become known as the West Lothian question, referring to issues related to devolution in the United Kingdom.
 <br/><br/>
-En 1985 : Xavier Suárez is sworn in as Miami's first Cuban-born mayor.
+En 1975 : With the signing of the Madrid Accords, Spain abandons Western Sahara.
 <br/><br/>
-En 1982 : Ray Mancini defeats Duk Koo Kim in a boxing match held in Las Vegas. Kim's subsequent death (on November 17) leads to significant changes in the sport.
+En 1973 : In the United Kingdom, Princess Anne marries Captain Mark Phillips, in Westminster Abbey.
 <br/><br/>
-En 1982 : The Vietnam Veterans Memorial is dedicated in Washington, D.C. after a march to its site by thousands of Vietnam War veterans.
+En 1973 : The Athens Polytechnic uprising, a massive demonstration of popular rejection of the Greek military junta of 1967–74, begins.
 <br/><br/>
-En 1970 : Bhola cyclone: A 240 km/h (150 mph) tropical cyclone hits the densely populated Ganges Delta region of East Pakistan (now Bangladesh), killing an estimated 500,000 people in one night.
+En 1971 : Mariner 9 enters orbit around Mars.
 <br/><br/>
-En 1969 : Vietnam War: Anti-war protesters in Washington, D.C. stage a symbolic March Against Death.
+En 1970 : Soviet Union enters ICAO, making Russian the fourth official language of organization.
 <br/><br/>
-En 1966 : In response to Fatah raids against Israelis near the West Bank border, Israel launches an attack on the village of As-Samu.
+En 1970 : Southern Airways Flight 932 crashes in the mountains near Huntington, West Virginia, killing 75, including almost all of the Marshall University football team.
 <br/><br/>
-En 1966 : All Nippon Airways Flight 533 crashes into the Seto Inland Sea near Matsuyama Airport in Japan, killing 50 people.
+En 1969 : Apollo program: NASA launches Apollo 12, the second crewed mission to the surface of the Moon.
 <br/><br/>
-En 1965 : Fire and sinking of SS Yarmouth Castle, 87 dead.
+En 1967 : The Congress of Colombia, in commemoration of the 150th anniversary of the death of Policarpa Salavarrieta, declares this day as "Day of the Colombian Woman".
 <br/><br/>
-En 1956 : The Supreme Court of the United States declares Alabama laws requiring segregated buses illegal, thus ending the Montgomery bus boycott.
+En 1967 : American physicist Theodore Maiman is given a patent for his ruby laser systems, the world's first laser.
 <br/><br/>
-En 1954 : Great Britain defeats France to capture the first ever Rugby League World Cup in Paris in front of around 30,000 spectators.
+En 1965 : Vietnam War: The Battle of Ia Drang begins: The first major engagement between regular American and North Vietnamese forces.
 <br/><br/>
-En 1950 : General Carlos Delgado Chalbaud, President of Venezuela, is assassinated in Caracas.
+En 1960 : Ruby Bridges becomes the first black child to attend an all-white elementary school in Louisiana.
 <br/><br/>
-En 1947 : The Soviet Union completes development of the AK-47, one of the first proper assault rifles.
+En 1957 : The "Apalachin meeting" in rural Tioga County in upstate New York is raided by law enforcement; many high-level Mafia figures are arrested while trying to flee.
 <br/><br/>
-En 1942 : World War II: Naval Battle of Guadalcanal: U.S. and Japanese ships engage in an intense, close-quarters surface naval engagement during the Guadalcanal Campaign.
+En 1952 : The New Musical Express publishes the first regular UK Singles Chart.
 <br/><br/>
-En 1941 : World War II: The aircraft carrier HMS Ark Royal is torpedoed by U-81, sinking the following day.
+En 1941 : World War II: The aircraft carrier HMS Ark Royal sinks due to torpedo damage from the German submarine U-81 sustained on November 13.
 <br/><br/>
-En 1940 : Walt Disney's animated musical film Fantasia is first released at New York's Broadway Theatre, on the first night of a roadshow.
+En 1941 : World War II: German troops, aided by local auxiliaries, murder nine thousand residents of the Słonim Ghetto in a single day.
 <br/><br/>
-En 1927 : The Holland Tunnel opens to traffic as the first Hudson River vehicle tunnel linking New Jersey to New York City.
+En 1940 : World War II: In England, Coventry is heavily bombed by German Luftwaffe bombers. Coventry Cathedral is almost completely destroyed.
 <br/><br/>
-En 1922 : The United States Supreme Court upholds mandatory vaccinations for public school students in Zucht v. King.
+En 1938 : The Lions Gate Bridge, connecting Vancouver to the North Shore region, opens to traffic.
 <br/><br/>
-En 1918 : World War I: Allied troops occupy Constantinople, the capital of the Ottoman Empire.
+En 1922 : The British Broadcasting Company begins radio service in the United Kingdom.
 <br/><br/>
-En 1917 : World War I: beginning of the First Battle of Monte Grappa (in Italy known as the "First Battle of the Piave"). The Austro-Hungarian Armed Forces, despite help from the German Alpenkorps and numerical superiority, will fail their offensive against the Italian Army now led by its new chief of staff Armando Diaz.
+En 1921 : The Communist Party of Spain is founded, and issues the first edition of Mundo obrero.
 <br/><br/>
-En 1916 : World War I: Prime Minister of Australia Billy Hughes is expelled from the Labor Party over his support for conscription.
+En 1920 : Pesäpallo, the Finnish version of baseball developed by Lauri Pihkala, is played for the first time at Kaisaniemi Park in Helsinki.
 <br/><br/>
-En 1914 : Zaian War: Berber tribesmen inflict the heaviest defeat of French forces in Morocco at the Battle of El Herri.
+En 1918 : The Provisional National Assembly of the new republic of Czechoslovakia meets to devise a constitution.
 <br/><br/>
-En 1901 : The 1901 Caister lifeboat disaster.
+En 1914 : The Joensuu City Hall, designed by Eliel Saarinen, was inaugurated in Joensuu, Finland.
 <br/><br/>
-En 1887 : Bloody Sunday clashes in central London.
+En 1910 : Aviator Eugene Burton Ely performs the first takeoff from a ship in Hampton Roads, Virginia, taking off from a makeshift deck on the USS Birmingham in a Curtiss pusher.
 <br/><br/>
-En 1864 : American Civil War: The three-day Battle of Bull's Gap ends in a Union rout as Confederates under Major General John C. Breckinridge pursue them to Strawberry Plains, Tennessee.
+En 1889 : Pioneering female journalist Nellie Bly (aka Elizabeth Cochrane) begins a successful attempt to travel around the world in less than 80 days. She completes the trip in 72 days.
 <br/><br/>
-En 1851 : The Denny Party lands at Alki Point, before moving to the other side of Elliott Bay to what would become Seattle.
+En 1851 : Moby-Dick, a novel by Herman Melville, is published in the USA.
 <br/><br/>
-En 1841 : James Braid first sees a demonstration of animal magnetism by Charles Lafontaine, which leads to his study of the subject he eventually calls hypnotism.
+En 1812 : Napoleonic Wars: At the Battle of Smoliani, French Marshals Victor and Oudinot are defeated by the Russians under General Peter Wittgenstein.
 <br/><br/>
-En 1833 : Great Meteor Storm of 1833.
+En 1770 : James Bruce discovers what he believes to be the source of the Nile.
 <br/><br/>
-En 1775 : American Revolutionary War: Patriot revolutionary forces under Gen. Richard Montgomery occupy Montreal.
+En 1680 : German astronomer Gottfried Kirch discovers the Great Comet of 1680, the first comet to be discovered by telescope.
 <br/><br/>
-En 1715 : Jacobite rising in Scotland: Battle of Sheriffmuir: The forces of the Kingdom of Great Britain halt the Jacobite advance, although the action is inconclusive.
-<br/><br/>
-En 1642 : First English Civil War: Battle of Turnham Green: The Royalist forces withdraw in the face of the Parliamentarian army and fail to take London.
-<br/><br/>
-En 1160 : Louis VII of France marries Adela of Champagne.
-<br/><br/>
-En 1093 : Battle of Alnwick: in an English victory over the Scots, Malcolm III of Scotland, and his son Edward, are killed.
-<br/><br/>
-En 1002 : English king Æthelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre.
+En -332 : Alexander the Great is crowned pharaoh of Egypt.
 <br/><br/>
