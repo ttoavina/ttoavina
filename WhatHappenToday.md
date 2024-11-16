@@ -4,125 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/11 ?(Hover on the year)</h1>
+<h1> What happen this day 16/11 ?(Hover on the year)</h1>
 
-En 2022 : The world population reached eight billion.
+En 2022 : Artemis Program: NASA launches Artemis 1 on the first flight of the Space Launch System, the start of the program's future missions to the moon.
 <br/><br/>
-En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
+En 2009 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-129 to the International Space Station.
 <br/><br/>
-En 2017 : A flood a few miles outside of Athens results in the death of 25 people.
+En 2005 : Following a 31-year wait, Australia defeats Uruguay in a penalty shootout to qualify for the 2006 FIFA World Cup.
 <br/><br/>
-En 2016 : Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament.
+En 2004 : Half-Life 2 is released, a game winning 39 Game of the Year awards and being cited as one of the best games ever made.
 <br/><br/>
-En 2013 : Sony releases the PlayStation 4 (PS4) game console.
+En 2002 : The first cases of the 2002–2004 SARS outbreak are traced to Foshan, Guangdong Province, China.
 <br/><br/>
-En 2012 : Xi Jinping becomes General Secretary of the Chinese Communist Party and a new seven-member Politburo Standing Committee is inaugurated.
+En 1997 : After nearly 18 years of incarceration, China releases Wei Jingsheng, a pro-democracy dissident, from jail for medical reasons.
 <br/><br/>
-En 2007 : Cyclone Sidr hits Bangladesh, killing an estimated 5,000 people and destroying parts of the world's largest mangrove forest, the Sundarbans.
+En 1992 : The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.
 <br/><br/>
-En 2006 : Al Jazeera English launches worldwide.
+En 1990 : Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.
 <br/><br/>
-En 2003 : The first day of the 2003 Istanbul bombings, in which two car bombs, targeting two synagogues, explode, kill 25 people and wound 300 more.
+En 1989 : El Salvadoran army troops kill six Jesuit priests and two others at Jose Simeon Canas University.
 <br/><br/>
-En 2002 : Hu Jintao becomes General Secretary of the Chinese Communist Party and a new nine-member Politburo Standing Committee is inaugurated.
+En 1988 : The Supreme Soviet of the Estonian Soviet Socialist Republic declares that Estonia is "sovereign" but stops short of declaring independence.
 <br/><br/>
-En 2001 : Microsoft launches the Xbox game console.
+En 1988 : In the first open election in more than a decade, voters in Pakistan elect populist candidate Benazir Bhutto to be Prime Minister of Pakistan.
 <br/><br/>
-En 2000 : A chartered Antonov An-24 crashes after takeoff from Luanda, Angola, killing more than 40 people.
+En 1981 : Aeroflot Flight 3603 crashes during landing at Norilsk Airport, killing 99.
 <br/><br/>
-En 2000 : Jharkhand officially becomes the 28th state of India, formed from eighteen districts of southern Bihar.
+En 1979 : The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.
 <br/><br/>
-En 1994 : A magnitude 7.1 earthquake hits the central Philippine island of Mindoro, killing 78 people, injuring 430 and triggering a tsunami up to 8.5 m (28 ft) high.
+En 1974 : The Arecibo message is broadcast from Puerto Rico.
 <br/><br/>
-En 1990 : The Communist People's Republic of Bulgaria is disestablished and a new republican government is instituted.
+En 1973 : Skylab program: NASA launches Skylab 4 with a crew of three astronauts from Cape Canaveral, Florida for an 84-day mission.
 <br/><br/>
-En 1990 : Space Shuttle Atlantis is launched on STS-38, a classified mission for the Department of Defense.
+En 1973 : U.S. President Richard Nixon signs the Trans-Alaska Pipeline Authorization Act into law, authorizing the construction of the Alaska Pipeline.
 <br/><br/>
-En 1988 : In the Soviet Union, the uncrewed Shuttle Buran makes its only space flight.
+En 1967 : Aeroflot Flight 2230 crashes near Koltsovo Airport, killing 107.
 <br/><br/>
-En 1988 : Israeli–Palestinian conflict: An independent State of Palestine is proclaimed by the Palestinian National Council.
+En 1965 : Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.
 <br/><br/>
-En 1988 : The first Fairtrade label, Max Havelaar, is launched in the Netherlands.
+En 1959 : Aeroflot Flight 315 crashes on approach to Lviv Airport, killing all 40 people on board.
 <br/><br/>
-En 1987 : In Brașov, Romania, workers rebel against the communist regime of Nicolae Ceaușescu.
+En 1958 : National Airlines Flight 967 explodes in mid-air over the Gulf of Mexico, killing all 42 aboard.
 <br/><br/>
-En 1987 : Continental Airlines Flight 1713 crashes during takeoff from Stapleton International Airport in Denver, Colorado, killing 25.
+En 1945 : UNESCO is founded.
 <br/><br/>
-En 1985 : A research assistant is injured when a package from the Unabomber addressed to a University of Michigan professor explodes.
+En 1944 : World War II: In support of the Battle of Hürtgen Forest, the town of Düren is destroyed by Allied aircraft.
 <br/><br/>
-En 1985 : The Anglo-Irish Agreement is signed at Hillsborough Castle by British Prime Minister Margaret Thatcher and Irish Taoiseach Garret FitzGerald.
+En 1944 : The Jussi Awards, the Finnish film award ceremony, is held for the first time at Restaurant Adlon in Helsinki.
 <br/><br/>
-En 1983 : Turkish Republic of Northern Cyprus declares independence; it is only recognized by Turkey.
+En 1940 : World War II: In response to the leveling of Coventry by the German Luftwaffe two days before, the Royal Air Force bombs Hamburg.
 <br/><br/>
-En 1979 : A package from Unabomber Ted Kaczynski begins smoking in the cargo hold of a flight from Chicago to Washington, D.C., forcing the plane to make an emergency landing.
+En 1940 : The Holocaust: In occupied Poland, the Nazis close off the Warsaw Ghetto from the outside world.
 <br/><br/>
-En 1978 : A chartered Douglas DC-8 crashes near Colombo, Sri Lanka, killing 183.
+En 1940 : New York City's "Mad Bomber" George Metesky places his first bomb at a Manhattan office building used by Consolidated Edison.
 <br/><br/>
-En 1976 : René Lévesque and the Parti Québécois take power to become the first Quebec government of the 20th century clearly in favor of independence.
+En 1938 : LSD is first synthesized by Albert Hofmann from ergotamine at the Sandoz Laboratories in Basel.
 <br/><br/>
-En 1971 : Intel releases the world's first commercial single-chip microprocessor, the 4004.
+En 1933 : The United States and the Soviet Union establish formal diplomatic relations.
 <br/><br/>
-En 1969 : Cold War: The Soviet submarine K-19 collides with the American submarine USS Gato in the Barents Sea.
+En 1920 : Qantas, Australia's national airline, is founded as Queensland and Northern Territory Aerial Services Limited.
 <br/><br/>
-En 1969 : Vietnam War: In Washington, D.C., 250,000-500,000 protesters staged a peaceful demonstration against the war, including a symbolic "March Against Death".
+En 1914 : The Federal Reserve Bank of the United States officially opens.
 <br/><br/>
-En 1968 : The Cleveland Transit System becomes the first transit system in the western hemisphere to provide direct rapid transit service from a city's downtown to its major airport.
+En 1907 : Indian Territory and Oklahoma Territory join to form Oklahoma, which is admitted as the 46th U.S. state.
 <br/><br/>
-En 1967 : The only fatality of the North American X-15 program occurs during the 191st flight when Air Force test pilot Michael J. Adams loses control of his aircraft which is destroyed mid-air over the Mojave Desert.
+En 1904 : English engineer John Ambrose Fleming receives a patent for the thermionic valve (vacuum tube).
 <br/><br/>
-En 1966 : Project Gemini: Gemini 12 completes the program's final mission, when it splashes down safely in the Atlantic Ocean.
+En 1885 : Canadian rebel leader of the Métis and "Father of Manitoba" Louis Riel is executed for treason.
 <br/><br/>
-En 1965 : Craig Breedlove sets a land speed record of 600.601 mph (966.574 km/h) in his car, the Spirit of America, at the Bonneville Salt Flats in Utah.
+En 1871 : The National Rifle Association of America receives its charter from New York State.
 <br/><br/>
-En 1957 : Short Solent 3 crashes near Chessell.
+En 1863 : American Civil War: In the Battle of Campbell's Station, Confederate troops unsuccessfully attack Union forces which allows General Ambrose Burnside to secure Knoxville, Tennessee.
 <br/><br/>
-En 1955 : The first part of the Saint Petersburg Metro is opened.
+En 1857 : Second relief of Lucknow: Twenty-four Victoria Crosses are awarded, the most in a single day.
 <br/><br/>
-En 1951 : Nikos Beloyannis, along with 11 comrades, is sentenced to death for attempting to reestablish the Communist Party of Greece.
+En 1855 : David Livingstone becomes the first European to see the Victoria Falls in what is now Zambia-Zimbabwe.
 <br/><br/>
-En 1943 : The Holocaust: German SS leader Heinrich Himmler orders that Gypsies are to be put "on the same level as Jews and placed in concentration camps".
+En 1849 : A Russian court sentences writer Fyodor Dostoyevsky to death for anti-government activities linked to a radical intellectual group; his sentence is later commuted to hard labor.
 <br/><br/>
-En 1942 : World War II: The Battle of Guadalcanal ends in a decisive Allied victory.
+En 1828 : Greek War of Independence: The London Protocol entails the creation of an autonomous Greek state under Ottoman suzerainty, encompassing the Morea and the Cyclades.
 <br/><br/>
-En 1938 : Nazi Germany bans Jewish children from public schools in the aftermath of Kristallnacht.
+En 1822 : American Old West: Missouri trader William Becknell arrives in Santa Fe, New Mexico, over a route that became known as the Santa Fe Trail.
 <br/><br/>
-En 1933 : Thailand holds its first election.
+En 1805 : Napoleonic Wars: Battle of Schöngrabern: Russian forces under Pyotr Bagration delay the pursuit by French troops under Joachim Murat.
 <br/><br/>
-En 1928 : The RNLI lifeboat Mary Stanford capsizes in Rye Harbour with the loss of the entire 17-man crew.
+En 1797 : The Prussian heir apparent, Frederick William, becomes King of Prussia as Frederick William III.
 <br/><br/>
-En 1922 : At least 300 are massacred during a general strike in Guayaquil, Ecuador.
+En 1793 : French Revolution: Ninety dissident Roman Catholic priests are executed by drowning at Nantes.
 <br/><br/>
-En 1920 : The first assembly of the League of Nations is held in Geneva, Switzerland.
+En 1776 : American Revolutionary War: British and Hessian units capture Fort Washington from the Patriots.
 <br/><br/>
-En 1920 : The Free City of Danzig is established.
+En 1632 : King Gustavus Adolphus of Sweden was killed at the Battle of Lützen during the Thirty Years' War.
 <br/><br/>
-En 1917 : Eduskunta declares itself the supreme state power of Finland, prompting its declaration of independence and secession from Russia.
+En 1532 : Francisco Pizarro and his men capture Inca Emperor Atahualpa at the Battle of Cajamarca.
 <br/><br/>
-En 1899 : Second Boer War: Battle of Chieveley, a British armored train is ambushed and partially derailed. British lose the battle, with 80 soldiers captured, along with war correspondent Winston Churchill.
+En 1491 : An auto-da-fé, held in the Brasero de la Dehesa outside of Ávila, concludes the case of the Holy Child of La Guardia with the public execution of several Jewish and converso suspects.
 <br/><br/>
-En 1889 : Brazil is declared a republic by Marshal Deodoro da Fonseca as Emperor Pedro II is deposed in a military coup.
+En 1272 : While travelling during the Ninth Crusade, Prince Edward becomes King of England upon Henry III of England's death, but he will not return to England for nearly two years to assume the throne.
 <br/><br/>
-En 1884 : The Berlin Conference of 1884–1885 met on 15 November 1884, and after an adjournment concluded on 26 February 1885, with the signature of a General Act, regulating the European colonisation and trade in Africa during the New Imperialism period.
-<br/><br/>
-En 1864 : American Civil War: Union General William Tecumseh Sherman begins his March to the Sea.
-<br/><br/>
-En 1849 : Boilers of the steamboat Louisiana explode as she pulls back from the dock in New Orleans, killing more than 150 people.
-<br/><br/>
-En 1842 : A slave revolt in the Cherokee Nation commences.
-<br/><br/>
-En 1806 : Pike Expedition: Lieutenant Zebulon Pike spots a mountain peak while near the Colorado foothills of the Rocky Mountains. It is later named Pikes Peak in his honor.
-<br/><br/>
-En 1777 : American Revolutionary War: After 16 months of debate the Continental Congress approves the Articles of Confederation.
-<br/><br/>
-En 1760 : The secondly-built Castellania in Valletta is officially inaugurated with the blessing of the interior Chapel of Sorrows.
-<br/><br/>
-En 1705 : Rákóczi's War of Independence: The Habsburg Empire and Denmark win a military victory over the Kurucs from Hungary in the Battle of Zsibó.
-<br/><br/>
-En 1533 : Francisco Pizarro arrives in Cuzco, the capital of the Inca Empire.
-<br/><br/>
-En 1532 : Spanish conquest of the Inca Empire: Commanded by Francisco Pizarro, Spanish conquistadors under Hernando de Soto meet Incan Emperor Atahualpa for the first time outside Cajamarca, arranging for a meeting in the city plaza the following day.
-<br/><br/>
-En 1315 : Growth of the Old Swiss Confederacy: The Schweizer Eidgenossenschaft ambushes the army of Leopold I in the Battle of Morgarten.
-<br/><br/>
-En 655 : Battle of the Winwaed: Penda of Mercia is defeated by Oswiu of Northumbria.
+En 951 : Emperor Li Jing sends a Southern Tang expeditionary force of 10,000 men under Bian Hao to conquer Chu. Li Jing removes the ruling family to his own capital in Nanjing, ending the Chu Kingdom.
 <br/><br/>
