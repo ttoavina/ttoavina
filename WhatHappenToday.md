@@ -4,103 +4,121 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/11 ?(Hover on the year)</h1>
+<h1> What happen this day 17/11 ?(Hover on the year)</h1>
 
-En 2022 : Artemis Program: NASA launches Artemis 1 on the first flight of the Space Launch System, the start of the program's future missions to the moon.
+En 2019 : The first known case of COVID-19 is traced to a 55-year-old man who had visited a market in Wuhan, Hubei Province, China.
 <br/><br/>
-En 2009 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-129 to the International Space Station.
+En 2013 : Fifty people are killed when Tatarstan Airlines Flight 363 crashes at Kazan Airport, Russia.
 <br/><br/>
-En 2005 : Following a 31-year wait, Australia defeats Uruguay in a penalty shootout to qualify for the 2006 FIFA World Cup.
+En 2013 : A rare late-season tornado outbreak strikes the Midwest. Illinois and Indiana are most affected with tornado reports as far north as lower Michigan. In all around six dozen tornadoes touch down in approximately an 11-hour time period, including seven EF3 and two EF4 tornadoes.
 <br/><br/>
-En 2004 : Half-Life 2 is released, a game winning 39 Game of the Year awards and being cited as one of the best games ever made.
+En 2012 : At least 50 schoolchildren are killed in an accident at a railway crossing near Manfalut, Egypt.
 <br/><br/>
-En 2002 : The first cases of the 2002–2004 SARS outbreak are traced to Foshan, Guangdong Province, China.
+En 2003 : Actor Arnold Schwarzenegger’s tenure as the governor of California began.
 <br/><br/>
-En 1997 : After nearly 18 years of incarceration, China releases Wei Jingsheng, a pro-democracy dissident, from jail for medical reasons.
+En 2000 : A catastrophic landslide in Log pod Mangartom, Slovenia, kills seven, and causes millions of SIT of damage. It is one of the worst catastrophes in Slovenia in the past 100 years.
 <br/><br/>
-En 1992 : The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.
+En 2000 : Alberto Fujimori is removed from office as president of Peru.
 <br/><br/>
-En 1990 : Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.
+En 1997 : In Luxor, Egypt, 62 people are killed by six Islamic militants outside the Temple of Hatshepsut, known as Luxor massacre.
 <br/><br/>
-En 1989 : El Salvadoran army troops kill six Jesuit priests and two others at Jose Simeon Canas University.
+En 1993 : United States House of Representatives passes a resolution to establish the North American Free Trade Agreement.
 <br/><br/>
-En 1988 : The Supreme Soviet of the Estonian Soviet Socialist Republic declares that Estonia is "sovereign" but stops short of declaring independence.
+En 1993 : In Nigeria, General Sani Abacha ousts the government of Ernest Shonekan in a military coup.
 <br/><br/>
-En 1988 : In the first open election in more than a decade, voters in Pakistan elect populist candidate Benazir Bhutto to be Prime Minister of Pakistan.
+En 1990 : Fugendake, part of the Mount Unzen volcanic complex, Nagasaki Prefecture, Japan, becomes active again and erupts.
 <br/><br/>
-En 1981 : Aeroflot Flight 3603 crashes during landing at Norilsk Airport, killing 99.
+En 1989 : Cold War: Velvet Revolution begins: In Czechoslovakia, a student demonstration in Prague is quelled by riot police. This sparks an uprising aimed at overthrowing the communist government (it succeeds on December 29).
 <br/><br/>
-En 1979 : The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.
+En 1986 : The flight crew of Japan Airlines Flight 1628 are involved in a UFO sighting incident while flying over Alaska.
 <br/><br/>
-En 1974 : The Arecibo message is broadcast from Puerto Rico.
+En 1983 : The Zapatista Army of National Liberation is founded in Mexico.
 <br/><br/>
-En 1973 : Skylab program: NASA launches Skylab 4 with a crew of three astronauts from Cape Canaveral, Florida for an 84-day mission.
+En 1973 : Watergate scandal: In Orlando, Florida, U.S. President Richard Nixon tells 400 Associated Press managing editors "I am not a crook."
 <br/><br/>
-En 1973 : U.S. President Richard Nixon signs the Trans-Alaska Pipeline Authorization Act into law, authorizing the construction of the Alaska Pipeline.
+En 1973 : The Athens Polytechnic uprising against the military regime ends in a bloodshed in the Greek capital.
 <br/><br/>
-En 1967 : Aeroflot Flight 2230 crashes near Koltsovo Airport, killing 107.
+En 1970 : Vietnam War: Lieutenant William Calley goes on trial for the My Lai Massacre.
 <br/><br/>
-En 1965 : Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.
+En 1970 : Luna programme: The Soviet Union lands Lunokhod 1 on Mare Imbrium (Sea of Rains) on the Moon. This is the first roving remote-controlled robot to land on another world and is released by the orbiting Luna 17 spacecraft.
 <br/><br/>
-En 1959 : Aeroflot Flight 315 crashes on approach to Lviv Airport, killing all 40 people on board.
+En 1969 : Cold War: Negotiators from the Soviet Union and the United States meet in Helsinki, Finland to begin SALT I negotiations aimed at limiting the number of strategic weapons on both sides.
 <br/><br/>
-En 1958 : National Airlines Flight 967 explodes in mid-air over the Gulf of Mexico, killing all 42 aboard.
+En 1968 : British European Airways introduces the BAC One-Eleven into commercial service.
 <br/><br/>
-En 1945 : UNESCO is founded.
+En 1968 : Viewers of the Raiders–Jets football game in the eastern United States are denied the opportunity to watch its exciting finish when NBC broadcasts Heidi instead, prompting changes to sports broadcasting in the U.S.
 <br/><br/>
-En 1944 : World War II: In support of the Battle of Hürtgen Forest, the town of Düren is destroyed by Allied aircraft.
+En 1967 : Vietnam War: Acting on optimistic reports that he had been given on November 13, U.S. President Lyndon B. Johnson tells the nation that, while much remained to be done, "We are inflicting greater losses than we're taking...We are making progress."
 <br/><br/>
-En 1944 : The Jussi Awards, the Finnish film award ceremony, is held for the first time at Restaurant Adlon in Helsinki.
+En 1962 : President John F. Kennedy dedicates Washington Dulles International Airport, serving the Washington, D.C., region.
 <br/><br/>
-En 1940 : World War II: In response to the leveling of Coventry by the German Luftwaffe two days before, the Royal Air Force bombs Hamburg.
+En 1957 : Vickers Viscount G-AOHP of British European Airways crashes at Ballerup after the failure of three engines on approach to Copenhagen Airport. The cause is a malfunction of the anti-icing system on the aircraft. There are no fatalities.
 <br/><br/>
-En 1940 : The Holocaust: In occupied Poland, the Nazis close off the Warsaw Ghetto from the outside world.
+En 1953 : The remaining human inhabitants of the Blasket Islands, County Kerry, Ireland, are evacuated to the mainland.
 <br/><br/>
-En 1940 : New York City's "Mad Bomber" George Metesky places his first bomb at a Manhattan office building used by Consolidated Edison.
+En 1950 : Lhamo Dondrub is officially named the 14th Dalai Lama.
 <br/><br/>
-En 1938 : LSD is first synthesized by Albert Hofmann from ergotamine at the Sandoz Laboratories in Basel.
+En 1950 : United Nations Security Council Resolution 89 relating to the Palestine Question is adopted.
 <br/><br/>
-En 1933 : The United States and the Soviet Union establish formal diplomatic relations.
+En 1947 : The Screen Actors Guild implements an anti-Communist loyalty oath.
 <br/><br/>
-En 1920 : Qantas, Australia's national airline, is founded as Queensland and Northern Territory Aerial Services Limited.
+En 1947 : American scientists John Bardeen and Walter Houser Brattain observe the basic principles of the transistor, a key element for the electronics revolution of the 20th century.
 <br/><br/>
-En 1914 : The Federal Reserve Bank of the United States officially opens.
+En 1940 : The Tartu Art Museum was established in Tartu, Estonia.
 <br/><br/>
-En 1907 : Indian Territory and Oklahoma Territory join to form Oklahoma, which is admitted as the 46th U.S. state.
+En 1939 : Nine Czech students are executed as a response to anti-Nazi demonstrations prompted by the death of Jan Opletal. All Czech universities are shut down and more than 1,200 students sent to concentration camps. Since this event, International Students' Day is celebrated in many countries, especially in the Czech Republic.
 <br/><br/>
-En 1904 : English engineer John Ambrose Fleming receives a patent for the thermionic valve (vacuum tube).
+En 1903 : The Russian Social Democratic Labour Party splits into two groups: The Bolsheviks (Russian for "majority") and Mensheviks (Russian for "minority").
 <br/><br/>
-En 1885 : Canadian rebel leader of the Métis and "Father of Manitoba" Louis Riel is executed for treason.
+En 1896 : The Western Pennsylvania Hockey League, which later became the first ice hockey league to openly trade and hire players, began play at Pittsburgh's Schenley Park Casino.
 <br/><br/>
-En 1871 : The National Rifle Association of America receives its charter from New York State.
+En 1894 : H. H. Holmes, one of the first modern serial killers, is arrested in Boston, Massachusetts.
 <br/><br/>
-En 1863 : American Civil War: In the Battle of Campbell's Station, Confederate troops unsuccessfully attack Union forces which allows General Ambrose Burnside to secure Knoxville, Tennessee.
+En 1885 : Serbo-Bulgarian War: The decisive Battle of Slivnitsa begins.
 <br/><br/>
-En 1857 : Second relief of Lucknow: Twenty-four Victoria Crosses are awarded, the most in a single day.
+En 1878 : First assassination attempt against Umberto I of Italy by anarchist Giovanni Passannante, who was armed with a dagger. The King survived with a slight wound in an arm. Prime Minister Benedetto Cairoli blocked the aggressor, receiving an injury in a leg.
 <br/><br/>
-En 1855 : David Livingstone becomes the first European to see the Victoria Falls in what is now Zambia-Zimbabwe.
+En 1869 : In Egypt, the Suez Canal, linking the Mediterranean Sea with the Red Sea, is inaugurated.
 <br/><br/>
-En 1849 : A Russian court sentences writer Fyodor Dostoyevsky to death for anti-government activities linked to a radical intellectual group; his sentence is later commuted to hard labor.
+En 1863 : American Civil War: Siege of Knoxville begins: Confederate forces led by General James Longstreet place Knoxville, Tennessee, under siege.
 <br/><br/>
-En 1828 : Greek War of Independence: The London Protocol entails the creation of an autonomous Greek state under Ottoman suzerainty, encompassing the Morea and the Cyclades.
+En 1858 : Modified Julian Day zero.
 <br/><br/>
-En 1822 : American Old West: Missouri trader William Becknell arrives in Santa Fe, New Mexico, over a route that became known as the Santa Fe Trail.
+En 1858 : The city of Denver, Colorado is founded.
 <br/><br/>
-En 1805 : Napoleonic Wars: Battle of Schöngrabern: Russian forces under Pyotr Bagration delay the pursuit by French troops under Joachim Murat.
+En 1856 : American Old West: On the Sonoita River in present-day southern Arizona, the United States Army establishes Fort Buchanan in order to help control new land acquired in the Gadsden Purchase.
 <br/><br/>
-En 1797 : The Prussian heir apparent, Frederick William, becomes King of Prussia as Frederick William III.
+En 1837 : An earthquake in Valdivia, south-central Chile, causes a tsunami that leads to significant destruction along Japan's coast.
 <br/><br/>
-En 1793 : French Revolution: Ninety dissident Roman Catholic priests are executed by drowning at Nantes.
+En 1831 : Ecuador and Venezuela are separated from Gran Colombia.
 <br/><br/>
-En 1776 : American Revolutionary War: British and Hessian units capture Fort Washington from the Patriots.
+En 1820 : Captain Nathaniel Palmer becomes the first American to see Antarctica. (The Palmer Peninsula is later named after him.)
 <br/><br/>
-En 1632 : King Gustavus Adolphus of Sweden was killed at the Battle of Lützen during the Thirty Years' War.
+En 1811 : José Miguel Carrera, Chilean founding father, is sworn in as President of the executive Junta of the government of Chile.
 <br/><br/>
-En 1532 : Francisco Pizarro and his men capture Inca Emperor Atahualpa at the Battle of Cajamarca.
+En 1810 : Sweden declares war on its ally the United Kingdom to begin the Anglo-Swedish War, although no fighting ever takes place.
 <br/><br/>
-En 1491 : An auto-da-fé, held in the Brasero de la Dehesa outside of Ávila, concludes the case of the Holy Child of La Guardia with the public execution of several Jewish and converso suspects.
+En 1800 : The United States Congress holds its first session in Washington, D.C.
 <br/><br/>
-En 1272 : While travelling during the Ninth Crusade, Prince Edward becomes King of England upon Henry III of England's death, but he will not return to England for nearly two years to assume the throne.
+En 1796 : French Revolutionary Wars: Battle of the Bridge of Arcole: French forces defeat the Austrians in Italy.
 <br/><br/>
-En 951 : Emperor Li Jing sends a Southern Tang expeditionary force of 10,000 men under Bian Hao to conquer Chu. Li Jing removes the ruling family to his own capital in Nanjing, ending the Chu Kingdom.
+En 1777 : Articles of Confederation (United States) are submitted to the states for ratification.
+<br/><br/>
+En 1775 : The city of Kuopio, Finland (belonging to Sweden at this time) is founded by King Gustav III of Sweden.
+<br/><br/>
+En 1603 : English explorer, writer and courtier Sir Walter Raleigh goes on trial for treason.
+<br/><br/>
+En 1558 : Elizabethan era begins: Queen Mary I of England dies and is succeeded by her half-sister Elizabeth I of England.
+<br/><br/>
+En 1511 : Henry VIII of England concludes the Treaty of Westminster, a pledge of mutual aid against the French, with Ferdinand II of Aragon.
+<br/><br/>
+En 1494 : French King Charles VIII occupies Florence, Italy.
+<br/><br/>
+En 1405 : Sharif ul-Hāshim establishes the Sultanate of Sulu.
+<br/><br/>
+En 1292 : John Balliol becomes King of Scotland.
+<br/><br/>
+En 1183 : Genpei War: The Battle of Mizushima takes place off the Japanese coast, where Minamoto no Yoshinaka's invasion force is intercepted and defeated by the Taira clan.
+<br/><br/>
+En 887 : Emperor Charles the Fat is deposed by the Frankish magnates in an assembly at Frankfurt, leading his nephew, Arnulf of Carinthia, to declare himself king of the East Frankish Kingdom in late November.
 <br/><br/>
