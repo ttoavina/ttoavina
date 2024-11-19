@@ -4,113 +4,101 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 18/11 ?(Hover on the year)</h1>
+<h1> What happen this day 19/11 ?(Hover on the year)</h1>
 
-En 2020 : The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources.
+En 2023 : The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia.
 <br/><br/>
-En 2013 : NASA launches the MAVEN probe to Mars.
+En 2022 : A gunman kills five and injures 17 at Club Q, a gay nightclub in Colorado Springs, Colorado.
 <br/><br/>
-En 2012 : Pope Tawadros II of Alexandria becomes the 118th Pope of the Coptic Orthodox Church of Alexandria.
+En 2013 : A double suicide bombing at the Iranian embassy in Beirut kills 23 people and injures 160 others.
 <br/><br/>
-En 2003 : The Massachusetts Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional and gives the state legislature 180 days to change the law making Massachusetts the first state in the United States to grant marriage rights to same-sex couples.
+En 2010 : The first of four explosions takes place at the Pike River Mine in New Zealand. Twenty-nine people are killed in the nation's worst mining disaster since 1914.
 <br/><br/>
-En 2002 : Iraq disarmament crisis: United Nations weapons inspectors led by Hans Blix arrive in Iraq.
+En 2004 : The worst brawl in NBA history results in several players being suspended. Several players and fans are charged with assault and battery.
 <br/><br/>
-En 1999 : At Texas A&M University, the Aggie Bonfire collapses killing 12 students and injuring 27 others.
+En 2002 : The Greek oil tanker Prestige splits in half and sinks off the coast of Galicia, releasing over 76,000 m3 (20 million US gal) of oil in the largest environmental disaster in Spanish and Portuguese history.
 <br/><br/>
-En 1996 : A fire occurs on a train traveling through the Channel Tunnel from France to England causing several injuries and damaging approximately 500 metres (1,600 ft) of tunnel.
+En 1999 : Shenzhou 1: The People's Republic of China launches its first Shenzhou spacecraft.
 <br/><br/>
-En 1993 : In the United States, the North American Free Trade Agreement (NAFTA) is approved by the House of Representatives.
+En 1999 : John Carpenter becomes the first person to win the top prize in the TV game show Who Wants to Be a Millionaire?
 <br/><br/>
-En 1993 : In South Africa, 21 political parties approve a new constitution, expanding voting rights and ending white minority rule.
+En 1998 : Clinton–Lewinsky scandal: The United States House of Representatives Judiciary Committee begins impeachment hearings against U.S. President Bill Clinton.
 <br/><br/>
-En 1991 : Shiite Muslim kidnappers in Lebanon release Anglican Church envoys Terry Waite and Thomas Sutherland.
+En 1997 : Space Shuttle Columbia is launched on STS-87.
 <br/><br/>
-En 1991 : After an 87-day siege, the Croatian city of Vukovar capitulates to the besieging Yugoslav People's Army and allied Serb paramilitary forces.
+En 1996 : Space Shuttle program: Columbia is launched on STS-80, which would become the longest mission in the program at 17 days. On this mission, astronaut Story Musgrave becomes the only astronaut to fly on all five space shuttles.
 <br/><br/>
-En 1991 : The autonomous Croatian Community of Herzeg-Bosnia, which would in 1993 become a republic, was established in Bosnia and Herzegovina.
+En 1996 : A Beechcraft 1900 and a Beechcraft King Air collide at Quincy Regional Airport in Quincy, Illinois, killing 14.
 <br/><br/>
-En 1987 : King's Cross fire: In London, 31 people die in a fire at the city's busiest underground station, King's Cross St Pancras.
+En 1994 : In the United Kingdom, the first National Lottery draw is held. A £1 ticket gave a one-in-14-million chance of correctly guessing the winning six out of 49 numbers.
 <br/><br/>
-En 1985 : The first comic of Calvin and Hobbes is published in ten newspapers.
+En 1988 : Serbian communist representative and future Serbian and Yugoslav president Slobodan Milošević publicly declares that Serbia is under attack from Albanian separatists in Kosovo as well as internal treachery within Yugoslavia and a foreign conspiracy to destroy Serbia and Yugoslavia.
 <br/><br/>
-En 1983 : Aeroflot Flight 6833 is hijacked en route from Tbilisi to Leningrad. After returning to Tbilisi, the aircraft is subsequentially raided on the ground, resulting in seven deaths.
+En 1985 : Cold War: In Geneva, U.S. President Ronald Reagan and Soviet Union General Secretary Mikhail Gorbachev meet for the first time.
 <br/><br/>
-En 1978 : The McDonnell Douglas F/A-18 Hornet makes its first flight, at the Naval Air Test Center in Maryland, United States.
+En 1985 : Pennzoil wins a US$10.53 billion judgment against Texaco, in the largest civil verdict in the history of the United States, stemming from Texaco executing a contract to buy Getty Oil after Pennzoil had entered into an unsigned, yet still binding, buyout contract with Getty.
 <br/><br/>
-En 1978 : In Jonestown, Guyana, Jim Jones leads his Peoples Temple to a mass murder–suicide that claimed 918 lives in all, 909 of them in Jonestown itself, including over 270 children.
+En 1985 : Police in Baling, Malaysia, lay siege to houses occupied by an Islamic sect of about 400 people led by Ibrahim Mahmud.
 <br/><br/>
-En 1971 : Oman declares its independence from the United Kingdom.
+En 1984 : San Juanico disaster: A series of explosions at the Pemex petroleum storage facility at San Juan Ixhuatepec in Mexico City starts a major fire and kills about 500 people.
 <br/><br/>
-En 1970 : U.S. President Richard Nixon asks the U.S. Congress for $155 million in supplemental aid for the Cambodian government.
+En 1979 : Iran hostage crisis: Iranian leader Ayatollah Ruhollah Khomeini orders the release of 13 female and black American hostages being held at the US Embassy in Tehran.
 <br/><br/>
-En 1963 : The first push-button telephone goes into service.
+En 1977 : TAP Air Portugal Flight 425 crashes in the Madeira Islands, killing 131.
 <br/><br/>
-En 1961 : United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
+En 1969 : Apollo program: Apollo 12 astronauts Pete Conrad and Alan Bean land at Oceanus Procellarum (the "Ocean of Storms") and become the third and fourth humans to walk on the Moon.
 <br/><br/>
-En 1949 : The Iva Valley Shooting occurs after the coal miners of Enugu in Nigeria go on strike over withheld wages; 21 miners are shot dead and 51 are wounded by police under the supervision of the British colonial administration of Nigeria.
+En 1969 : Association football player Pelé scores his 1,000th goal.
 <br/><br/>
-En 1947 : The Ballantyne's Department Store fire in Christchurch, New Zealand, kills 41; it is the worst fire disaster in the history of New Zealand.
+En 1967 : The establishment of TVB, the first wireless commercial television station in Hong Kong.
 <br/><br/>
-En 1944 : The Popular Socialist Youth is founded in Cuba.
+En 1955 : National Review publishes its first issue.
 <br/><br/>
-En 1943 : World War II: Battle of Berlin: Four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew.
+En 1954 : Télé Monte Carlo, Europe's oldest private television channel, is launched by Prince Rainier III.
 <br/><br/>
-En 1940 : World War II: German leader Adolf Hitler and Italian Foreign Minister Galeazzo Ciano meet to discuss Benito Mussolini's disastrous Italian invasion of Greece.
+En 1952 : Greek Field Marshal Alexander Papagos becomes the 152nd Prime Minister of Greece.
 <br/><br/>
-En 1929 : Grand Banks earthquake: Off the south coast of Newfoundland in the Atlantic Ocean, a Richter magnitude 7.2 submarine earthquake, centered on the  Grand Banks, breaks 12 submarine transatlantic telegraph cables and triggers a tsunami that destroys many south coast communities in the Burin Peninsula.
+En 1950 : US General Dwight D. Eisenhower becomes Supreme Commander of NATO-Europe.
 <br/><br/>
-En 1928 : Release of the animated short Steamboat Willie, the first fully synchronized sound cartoon.
+En 1946 : Afghanistan, Iceland and Sweden join the United Nations.
 <br/><br/>
-En 1918 : Latvia declares its independence from Russia.
+En 1944 : World War II: U.S. President Franklin D. Roosevelt announces the sixth War Loan Drive, aimed at selling US$14 billion in war bonds to help pay for the war effort.
 <br/><br/>
-En 1916 : World War I: First Battle of the Somme: In France, British Expeditionary Force commander Douglas Haig calls off the battle which started on July 1, 1916.
+En 1944 : World War II: Thirty members of the Luxembourgish resistance defend the town of Vianden against a larger Waffen-SS attack in the Battle of Vianden.
 <br/><br/>
-En 1910 : In their campaign for women's voting rights, hundreds of suffragettes march to the British Parliament in London. Several are beaten by police, newspaper attention embarrasses the authorities, and the march is dubbed Black Friday.
+En 1943 : Holocaust: Nazis liquidate Janowska concentration camp in Lemberg (Lviv), western Ukraine, murdering at least 6,000 Jews after a failed uprising and mass escape attempt.
 <br/><br/>
-En 1909 : Two United States warships are sent to Nicaragua after 500 revolutionaries (including two Americans) are executed by order of José Santos Zelaya.
+En 1942 : World War II: Battle of Stalingrad: Soviet Union forces under General Georgy Zhukov launch the Operation Uranus counterattacks at Stalingrad, turning the tide of the battle in the USSR's favor.
 <br/><br/>
-En 1905 : Prince Carl of Denmark becomes King Haakon VII of Norway.
+En 1942 : Mutesa II is crowned the 35th and last Kabaka (king) of Buganda, prior to the restoration of the kingdom in 1993.
 <br/><br/>
-En 1903 : The Hay–Bunau-Varilla Treaty is signed by the United States and Panama, giving the United States exclusive rights over the Panama Canal Zone.
+En 1941 : World War II: Battle between HMAS Sydney and HSK Kormoran. The two ships sink each other off the coast of Western Australia, with the loss of 645 Australians and about 77 German seamen.
 <br/><br/>
-En 1901 : Britain and the United States sign the Hay–Pauncefote Treaty, which nullifies the Clayton–Bulwer Treaty and withdraws British objections to an American-controlled canal in Panama.
+En 1916 : Samuel Goldwyn and Edgar Selwyn establish Goldwyn Pictures.
 <br/><br/>
-En 1883 : American and Canadian railroads institute five standard continental time zones, ending the confusion of thousands of local times.
+En 1912 : First Balkan War: The Serbian Army captures Bitola, ending the five-century-long Ottoman rule of Macedonia.
 <br/><br/>
-En 1872 : Susan B. Anthony and 14 other women are arrested for voting illegally in the United States presidential election of 1872.
+En 1911 : The Doom Bar in Cornwall claims two ships, Island Maid and Angele, the latter killing the entire crew except the captain.
 <br/><br/>
-En 1867 : An earthquake strikes the Virgin Islands, triggering the largest tsunami witnessed in the Caribbean and killing dozens.
+En 1885 : Serbo-Bulgarian War: Bulgarian victory in the Battle of Slivnitsa solidifies the unification between the Principality of Bulgaria and Eastern Rumelia.
 <br/><br/>
-En 1863 : King Christian IX of Denmark signs the November constitution that declares Schleswig to be part of Denmark. This is seen by the German Confederation as a violation of the London Protocol and leads to the German–Danish war of 1864.
+En 1881 : A meteorite lands near the village of Grossliebenthal, southwest of Odesa, Ukraine.
 <br/><br/>
-En 1812 : Napoleonic Wars: The Battle of Krasnoi ends in French defeat, but Marshal of France Michel Ney's leadership leads to him becoming known as "the bravest of the brave".
+En 1863 : American Civil War: U.S. President Abraham Lincoln delivers the Gettysburg Address at the dedication ceremony for the military cemetery at Gettysburg, Pennsylvania.
 <br/><br/>
-En 1809 : In a naval action during the Napoleonic Wars, French frigates defeat British East Indiamen in the Bay of Bengal.
+En 1847 : The second Canadian railway line, the Montreal and Lachine Railroad, is opened.
 <br/><br/>
-En 1803 : The Battle of Vertières, the last major battle of the Haitian Revolution, is fought, leading to the establishment of the Republic of Haiti, the first black republic in the Western Hemisphere.
+En 1816 : Warsaw University is established.
 <br/><br/>
-En 1760 : The rebuilt debtors' prison, at the Castellania in Valletta, receives the first prisoners.
+En 1808 : Finnish War: The Convention of Olkijoki in Raahe ends hostilities in Finland.
 <br/><br/>
-En 1730 : The future Frederick the Great of Prussia is granted a pardon by his father and is released from confinement.
+En 1802 : The Garinagu arrive at British Honduras (present-day Belize).
 <br/><br/>
-En 1626 : The new St. Peter's Basilica in Rome is consecrated.
+En 1794 : The United States and the Kingdom of Great Britain sign Jay's Treaty, which attempts to resolve some of the lingering problems left over from the American Revolutionary War.
 <br/><br/>
-En 1601 : Tiryaki Hasan Pasha, an Ottoman provincial governor, routs the Habsburg forces commanded by Archduke Ferdinand II of Austria who were besieging Nagykanizsa.
+En 1493 : Christopher Columbus goes ashore on an island called Borinquen he first saw the day before. He names it San Juan Bautista (later renamed again Puerto Rico).
 <br/><br/>
-En 1493 : Christopher Columbus first sights the island now known as Puerto Rico.
+En 636 : The Rashidun Caliphate defeats the Sasanian Empire at the Battle of al-Qādisiyyah in Iraq.
 <br/><br/>
-En 1421 : St Elizabeth's flood: A dike in the Grote Hollandse Waard in the Netherlands breaks, killing about 10,000 people.
-<br/><br/>
-En 1302 : Pope Boniface VIII issues the Papal bull Unam sanctam, claiming spiritual supremacy for the papacy.
-<br/><br/>
-En 1210 : Pope Innocent III excommunicates Holy Roman Emperor Otto IV for invading the Kingdom of Sicily after promising to recognize papal control over it.
-<br/><br/>
-En 1105 : Maginulfo is elected Antipope Sylvester IV in opposition to Pope Paschal II.
-<br/><br/>
-En 1095 : The Council of Clermont begins: called by Pope Urban II, it led to the First Crusade to the Holy Land.
-<br/><br/>
-En 401 : The Visigoths, led by king Alaric I, cross the Alps and invade northern Italy.
-<br/><br/>
-En 326 : The old St. Peter's Basilica is consecrated by Pope Sylvester I.
+En 461 : Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer.
 <br/><br/>
