@@ -4,101 +4,139 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 20/11 ?(Hover on the year)</h1>
+<h1> What happen this day 21/11 ?(Hover on the year)</h1>
 
-En 2022 : The 2022 FIFA World Cup begins in Qatar. This is the first time the tournament was held in the Middle East.
+En 2022 : A magnitude 5.6 earthquake on the Indonesian island of Java kills between 335 and 602 people.
 <br/><br/>
-En 2016 : Jimmie Johnson wins his seventh NASCAR Cup Series championship to tie Richard Petty and Dale Earnhardt for the most all-time.
+En 2021 : An SUV plows through a Christmas parade in Waukesha, Wisconsin, killing six and injuring 62.
 <br/><br/>
-En 2015 : Following a hostage siege, at least 19 people are killed in Bamako, Mali.
+En 2019 : Israeli Prime Minister Benjamin Netanyahu is indicted on charges of bribery, fraud, and breach of trust.
 <br/><br/>
-En 2003 : After the November 15 bombings, a second day of the 2003 Istanbul bombings occurs in Istanbul, Turkey, destroying the Turkish head office of HSBC Bank AS and the British consulate.
+En 2019 : Tesla launches the SUV Cybertruck. A gaffe occurs during the launch event when its "unbreakable" windows shatter during demonstration.
 <br/><br/>
-En 1998 : A court in Taliban-controlled Afghanistan declares accused terrorist Osama bin Laden "a man without a sin" in regard to the 1998 U.S. embassy bombings in Kenya and Tanzania.
+En 2017 : Robert Mugabe formally resigns as President of Zimbabwe, after thirty-seven years in office.
 <br/><br/>
-En 1998 : The first space station module component, Zarya, for the International Space Station is launched from the Baikonur Cosmodrome in Kazakhstan.
+En 2015 : The government of Belgium imposes a security lockdown on Brussels, including the closure of shops, schools, and public transportation, due to potential terrorist attacks.
 <br/><br/>
-En 1996 : A fire breaks out in an office building in Hong Kong, killing 41 people and injuring 81.
+En 2014 : A stampede in Kwekwe, Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others.
 <br/><br/>
-En 1994 : The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)
+En 2013 : Fifty-four people are killed when the roof of a shopping center collapses in Riga, Latvia.
 <br/><br/>
-En 1993 : Savings and loan crisis: The United States Senate Ethics Committee issues a stern censure of California senator Alan Cranston for his "dealings" with savings-and-loan executive Charles Keating.
+En 2013 : Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine–European Union Association Agreement.
 <br/><br/>
-En 1993 : North Macedonia's deadliest aviation disaster occurs when Avioimpex Flight 110, a Yakovlev Yak-42, crashes near Ohrid, killing all 116 people on board.
+En 2012 : At least 28 are wounded after a bomb is thrown onto a bus in Tel Aviv.
 <br/><br/>
-En 1992 : In England, a fire breaks out in Windsor Castle, badly damaging the castle and causing over £50 million worth of damage.
+En 2009 : A mine explosion in Heilongjiang, China kills 108.
 <br/><br/>
-En 1991 : An Azerbaijani MI-8 helicopter carrying 19 peacekeeping mission team with officials and journalists from Russia, Kazakhstan and Azerbaijan is shot down by Armenian military forces in Khojavend District of Azerbaijan.
+En 2006 : Anti-Syrian Lebanese politician and government minister Pierre Gemayel is assassinated in suburban Beirut.
 <br/><br/>
-En 1990 : Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, is arrested; he eventually confesses to 56 killings.
+En 2004 : The second round of the Ukrainian presidential election is held, giving rise to massive protests and controversy over the election's integrity.
 <br/><br/>
-En 1989 : Velvet Revolution: The number of protesters assembled in Prague, Czechoslovakia, swells from 200,000 the day before to an estimated half-million.
+En 2004 : Dominica is hit by the most destructive earthquake in its history. The northern half of the island sustains the most damage, especially the town of Portsmouth. In neighboring Guadeloupe, one person is killed.
 <br/><br/>
-En 1985 : Microsoft Windows 1.0, the first graphical personal computer operating environment developed by Microsoft, is released.
+En 2004 : The Paris Club agrees to write off 80% (up to $100 billion) of Iraq's external debt.
 <br/><br/>
-En 1980 : Lake Peigneur in Louisiana drains into an underlying salt deposit. A misplaced Texaco oil probe had been drilled into the Diamond Crystal Salt Mine, causing water to flow down into the mine, eroding the edges of the hole.
+En 2004 : China Eastern Airlines Flight 5210 crashes after takeoff from Baotou Donghe Airport, killing 55.
 <br/><br/>
-En 1979 : Grand Mosque seizure: About 200 Sunni Muslims revolt in Saudi Arabia at the site of the Kaaba in Mecca during the pilgrimage and take about 6,000 hostages. The Saudi government receives help from Pakistani special forces to put down the uprising.
+En 2002 : NATO invites Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia to become members.
 <br/><br/>
-En 1977 : Egyptian President Anwar Sadat becomes the first Arab leader to officially visit Israel, when he meets Israeli prime minister Menachem Begin and speaks before the Knesset in Jerusalem, seeking a permanent peace settlement.
+En 2002 : Arturo Guzmán Decena, founder of Los Zetas and high-member of the Gulf Cartel, is killed in a shoot-out with the Mexican Army and the police.
 <br/><br/>
-En 1974 : The United States Department of Justice files its final anti-trust suit against AT&T Corporation. This suit later leads to the breakup of AT&T and its Bell System.
+En 1998 : Finnish satanist Jarno Elg kills a 23-year-old man and performs a ritual-like cutting and eating of body parts in Hyvinkää, Finland.
 <br/><br/>
-En 1974 : The first fatal crash of a Boeing 747 occurs when Lufthansa Flight 540 crashes while attempting to takeoff from Jomo Kenyatta International Airport in Nairobi, Kenya, killing 59 out of the 157 people on board.
+En 1996 : Humberto Vidal explosion: Thirty-three people die when a Humberto Vidal shoe shop in Río Piedras, Puerto Rico explodes.
 <br/><br/>
-En 1969 : Vietnam War: The Plain Dealer (Cleveland, Ohio) publishes explicit photographs of dead villagers from the My Lai Massacre in Vietnam.
+En 1995 : The Dayton Agreement is initialed at the Wright-Patterson Air Force Base, near Dayton, Ohio, ending three and a half years of war in Bosnia and Herzegovina.
 <br/><br/>
-En 1969 : Occupation of Alcatraz: Native American activists seize control of Alcatraz Island until being ousted by the U.S. Government on June 11, 1971.
+En 1992 : A major tornado strikes the Houston, Texas area during the afternoon. Over the next two days the largest tornado outbreak ever to occur in the US during November spawns over 100 tornadoes.
 <br/><br/>
-En 1968 : A total of 78 miners are killed in an explosion at the Consolidated Coal Company's No. 9 mine in Farmington, West Virginia in the Farmington Mine disaster.
+En 1990 : Bangkok Airways Flight 125 crashes on approach to Samui Airport, killing 38.
 <br/><br/>
-En 1962 : Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation.
+En 1986 : National Security Council member Oliver North and his secretary start to shred documents allegedly implicating them in the Iran–Contra affair.
 <br/><br/>
-En 1959 : The Declaration of the Rights of the Child is adopted by the United Nations.
+En 1985 : United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.
 <br/><br/>
-En 1947 : The Princess Elizabeth marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.
+En 1980 : A deadly fire breaks out at the MGM Grand Hotel in Paradise, Nevada (now Bally's Las Vegas). Eighty-five people are killed and more than 650 are injured in the worst disaster in Nevada history.
 <br/><br/>
-En 1945 : Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg.
+En 1979 : The United States Embassy in Islamabad, Pakistan, is attacked by a mob and set on fire, killing four.
 <br/><br/>
-En 1943 : World War II: Battle of Tarawa (Operation Galvanic) begins: United States Marines land on Tarawa Atoll in the Gilbert Islands and suffer heavy fire from Japanese shore guns and machine guns.
+En 1977 : Minister of Internal Affairs Allan Highet announces that the national anthems of New Zealand shall be the traditional anthem "God Save the Queen" and "God Defend New Zealand".
 <br/><br/>
-En 1940 : World War II: Hungary becomes a signatory of the Tripartite Pact, officially joining the Axis powers.
+En 1974 : The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but subsequently acquitted.
 <br/><br/>
-En 1936 : José Antonio Primo de Rivera, founder of the Falange, is killed by a republican execution squad.
+En 1972 : Voters in South Korea overwhelmingly approve a new constitution, giving legitimacy to Park Chung Hee and the Fourth Republic.
 <br/><br/>
-En 1917 : World War I: Battle of Cambrai begins: British forces make early progress in an attack on German positions but are later pushed back.
+En 1971 : Indian troops, partly aided by Mukti Bahini (Bengali guerrillas), defeat the Pakistan army in the Battle of Garibpur.
 <br/><br/>
-En 1910 : Mexican Revolution: Francisco I. Madero issues the Plan de San Luis Potosí, denouncing Mexican President Porfirio Díaz, calling for a revolution to overthrow the government of Mexico, effectively starting the Mexican Revolution.
+En 1970 : Vietnam War: Operation Ivory Coast: A joint United States Air Force and Army team raids the Sơn Tây prisoner-of-war camp in an attempt to free American prisoners of war thought to be held there.
 <br/><br/>
-En 1900 : The French actress Sarah Bernhardt receives the press at the Savoy Hotel in New York at the outset of her first visit since 1896. She talked about her impending tour with a troupe of more than 50 performers and her plans to play the title role in Hamlet.
+En 1969 : U.S. President Richard Nixon and Japanese Premier Eisaku Satō agree on the return of Okinawa to Japanese control in 1972. The U.S. retains rights to bases on the island, but these are to be nuclear-free.
 <br/><br/>
-En 1873 : Garnier Expedition: French forces under Lieutenant Francis Garnier captured Hanoi from the Vietnamese.
+En 1969 : The first permanent ARPANET link is established between UCLA and SRI.
 <br/><br/>
-En 1861 : American Civil War: A secession ordinance is filed by Kentucky's Confederate government.
+En 1967 : Vietnam War: American General William Westmoreland tells news reporters: "I am absolutely certain that whereas in 1965 the enemy was winning, today he is certainly losing."
 <br/><br/>
-En 1845 : Anglo-French blockade of the Río de la Plata: Battle of Vuelta de Obligado.
+En 1964 : The Verrazzano-Narrows Bridge opens to traffic. At the time it is the world's longest bridge span.
 <br/><br/>
-En 1820 : An 80-ton sperm whale attacks and sinks the Essex (a whaling ship from Nantucket, Massachusetts) 3,200 kilometres (2,000 mi) from the western coast of South America. (Herman Melville's 1851 novel Moby-Dick was in part inspired by this incident.)
+En 1964 : Second Vatican Council: The third session of the Roman Catholic Church's ecumenical council closes.
 <br/><br/>
-En 1815 : The Second Treaty of Paris is signed, returning the French frontiers to their 1790 extent, imposing large indemnities, and prolonging the occupation by troops of Great Britain, Austria, Prussia, and Russia for several more years.
+En 1962 : The Chinese People's Liberation Army declares a unilateral ceasefire in the Sino-Indian War.
 <br/><br/>
-En 1805 : Beethoven's only opera, Fidelio, premieres in Vienna.
+En 1961 : The "La Ronde" opens in Honolulu, first revolving restaurant in the United States.
 <br/><br/>
-En 1789 : New Jersey becomes the first U.S. state to ratify the Bill of Rights.
+En 1959 : American disc jockey Alan Freed, who had popularized the term "rock and roll" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal.
 <br/><br/>
-En 1776 : American Revolutionary War: British forces land at the Palisades and then attack Fort Lee. The Continental Army starts to retreat across New Jersey.
+En 1953 : The Natural History Museum, London announces that the "Piltdown Man" skull, initially believed to be one of the most important fossilized hominid skulls ever found, is a hoax.
 <br/><br/>
-En 1739 : Start of the Battle of Porto Bello between British and Spanish forces during the War of Jenkins' Ear.
+En 1950 : Two Canadian National Railway trains collide in northeastern British Columbia in the Canoe River train crash; the death toll is 21, with 17 of them Canadian troops bound for Korea.
 <br/><br/>
-En 1695 : Zumbi, the last of the leaders of Quilombo dos Palmares in early Brazil, is executed by the forces of Portuguese bandeirante Domingos Jorge Velho.
+En 1945 : The United Auto Workers strike 92 General Motors plants in 50 cities to back up worker demands for a 30-percent raise.
 <br/><br/>
-En 1441 : The Peace of Cremona ends the war between the Republic of Venice and the Duchy of Milan, after the victorious Venetian enterprise of military engineering of the Galeas per montes.
+En 1944 : World War II: American submarine USS Sealion sinks the Japanese battleship Kongō and Japanese destroyer Urakaze in the Formosa Strait.
 <br/><br/>
-En 1407 : John the Fearless, Duke of Burgundy, and Louis of Valois, Duke of Orléans, agree to a truce, but Burgundy would kill Orléans three days later.
+En 1942 : The completion of the Alaska Highway (also known as the Alcan Highway) is celebrated (however, the highway is not usable by standard road vehicles until 1943).
 <br/><br/>
-En 1194 : Palermo is conquered by Henry VI, Holy Roman Emperor.
+En 1927 : Columbine Mine massacre: Striking coal miners are allegedly attacked with machine guns by a detachment of state police dressed in civilian clothes.
 <br/><br/>
-En 762 : During the An Shi Rebellion, the Tang dynasty, with the help of Huihe tribe, recaptures Luoyang from the rebels.
+En 1922 : Rebecca Latimer Felton of Georgia takes the oath of office, becoming the first female United States Senator.
 <br/><br/>
-En 284 : Diocletian is chosen as Roman emperor.
+En 1920 : Irish War of Independence: On "Bloody Sunday" in Dublin, the Irish Republican Army (IRA) assassinated a group of British Intelligence agents, and British forces killed 14 civilians at a Gaelic football match at Croke Park.
+<br/><br/>
+En 1918 : The Flag of Estonia, previously used by pro-independence activists, is formally adopted as the national flag of the Republic of Estonia.
+<br/><br/>
+En 1918 : The Parliament (Qualification of Women) Act 1918 is passed, allowing women to stand for Parliament in the UK.
+<br/><br/>
+En 1918 : A pogrom takes place in Lwów (now Lviv); over three days, at least 50 Jews and 270 Ukrainian Christians are killed by Poles.
+<br/><br/>
+En 1916 : Mines from SM U-73 sink HMHS Britannic, the largest ship lost in the First World War.
+<br/><br/>
+En 1910 : Sailors on board Brazil's warships including the Minas Gerais, São Paulo, and Bahia, violently rebel in what is now known as the Revolta da Chibata (Revolt of the Lash).
+<br/><br/>
+En 1905 : Albert Einstein's paper that leads to the mass–energy equivalence formula, E = mc², is published in the journal Annalen der Physik.
+<br/><br/>
+En 1902 : The Philadelphia Football Athletics defeat the Kanaweola Athletic Club of Elmira, New York, 39–0, in the first-ever professional American football night game.
+<br/><br/>
+En 1900 : Claude Monet's paintings shown at Gallery Durand-Ruel in Paris.
+<br/><br/>
+En 1894 : Port Arthur, China, falls to the Japanese, a decisive victory of the First Sino-Japanese War; Japanese troops are accused of massacring the remaining inhabitants.
+<br/><br/>
+En 1877 : Thomas Edison announces his invention of the phonograph, a machine that can record and play sound.
+<br/><br/>
+En 1861 : American Civil War: Confederate President Jefferson Davis appoints Judah Benjamin Secretary of War.
+<br/><br/>
+En 1851 : Mutineers take control of the Chilean penal colony of Punta Arenas in the Strait of Magellan.
+<br/><br/>
+En 1789 : North Carolina ratifies the United States Constitution and is admitted as the 12th U.S. state.
+<br/><br/>
+En 1783 : In Paris, Jean-François Pilâtre de Rozier and François Laurent d'Arlandes make the first untethered hot air balloon flight.
+<br/><br/>
+En 1676 : The Danish astronomer Ole Rømer presents the first quantitative measurements of the speed of light.
+<br/><br/>
+En 1620 : Plymouth Colony settlers sign the Mayflower Compact (November 11, O.S.)
+<br/><br/>
+En 1386 : Timur of Samarkand captures and sacks the Georgian capital of Tbilisi, taking King Bagrat V of Georgia captive.
+<br/><br/>
+En 235 : Pope Anterus succeeds Pontian as the nineteenth pope.
+<br/><br/>
+En -164 : Judas Maccabeus, son of Mattathias of the Hasmonean family, rededicates the Temple in Jerusalem, an event that is commemorated each year by the festival of Hanukkah. (25 Kislev 3597 in the Hebrew calendar.)
 <br/><br/>
