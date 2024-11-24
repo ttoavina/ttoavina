@@ -4,105 +4,101 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 23/11 ?(Hover on the year)</h1>
+<h1> What happen this day 24/11 ?(Hover on the year)</h1>
 
-En 2019 : The last Sumatran rhinoceros in Malaysia, Imam, dies, making the species officially extinct in the country.
+En 2023 : Hibiscus Rising, commemorating David Oluwale, is unveiled in Leeds.
 <br/><br/>
-En 2018 : Founders of Italian fashion brand Dolce & Gabbana issue an apology following a series of offensive advertisements on social media promoting a fashion show in Shanghai, China, which was canceled.
+En 2022 : Five days after the general elections which resulted in a hung parliament, opposition leader and former deputy prime minister Anwar Ibrahim is officially named as the 10th prime minister of Malaysia.
 <br/><br/>
-En 2015 : Blue Origin's New Shepard space vehicle became the first rocket to successfully fly to space and then return to Earth for a controlled, vertical landing.
+En 2017 : A terrorist attack on a Mosque in Al-Rawda, North Sinai, Egypt kills 311 people and injures 128.
 <br/><br/>
-En 2011 : Arab Spring: After 11 months of protests in Yemen, Yemeni president Ali Abdullah Saleh signs a deal to transfer power to the vice president, in exchange for legal immunity.
+En 2016 : The government of Colombia and the Revolutionary Armed Forces of Colombia—People's Army sign a revised peace deal, bringing an end to the country's more than 50-year-long civil war.
 <br/><br/>
-En 2010 : Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.
+En 2015 : A Russian Air Force Sukhoi Su-24 fighter jet is shot down by the Turkish Air Force over the Syria–Turkey border, killing one of the two pilots; a Russian marine is also killed during a subsequent rescue effort.
 <br/><br/>
-En 2009 : The Maguindanao massacre occurs in Ampatuan, Maguindanao, Philippines; 58 opponents of Andal Ampatuan Jr. are kidnapped and killed.
+En 2015 : A terrorist attack on a hotel in Al-Arish, Egypt, kills at least seven people and injures 12 others.
 <br/><br/>
-En 2007 : MS Explorer, a cruise liner carrying 154 people, sinks in the Antarctic Ocean south of Argentina after hitting an iceberg near the South Shetland Islands. There are no fatalities.
+En 2015 : An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 14 people dead.
 <br/><br/>
-En 2006 : A series of bombings kills at least 215 people and injures 257 others in Sadr City, making it the second deadliest sectarian attack since the beginning of the Iraq War in 2003.
+En 2013 : Iran signs an interim agreement with the P5+1 countries, limiting its nuclear program in exchange for reduced sanctions.
 <br/><br/>
-En 2005 : Ellen Johnson Sirleaf is elected president of Liberia and becomes the first woman to lead an African country.
+En 2012 : A fire at a clothing factory in Dhaka, Bangladesh, kills at least 112 people.
 <br/><br/>
-En 2004 : The Holy Trinity Cathedral of Tbilisi, the largest religious building in Georgia, is consecrated.
+En 2009 : The Avdhela Project, an Aromanian digital library and cultural initiative, is founded in Bucharest, Romania.
 <br/><br/>
-En 2003 : Rose Revolution: Georgian president Eduard Shevardnadze resigns following weeks of mass protests over flawed elections.
+En 1992 : China Southern Airlines Flight 3943 crashes on approach to Guilin Qifengling Airport in Guilin, China, killing all 141 people on board.
 <br/><br/>
-En 2002 : Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.
+En 1991 : Space Shuttle program: Atlantis launches on STS-44.
 <br/><br/>
-En 2001 : The Convention on Cybercrime is signed in Budapest, Hungary.
+En 1989 : After a week of mass protests against the Communist regime known as the Velvet Revolution, Miloš Jakeš and the entire Politburo of the Czechoslovak Communist Party resign from office.  This brings an effective end to Communist rule in Czechoslovakia.
 <br/><br/>
-En 1996 : Ethiopian Airlines Flight 961 is hijacked, then crashes into the Indian Ocean off the coast of Comoros after running out of fuel, killing 125.
+En 1976 : The Çaldıran–Muradiye earthquake in eastern Turkey kills between 4,000 and 5,000 people.
 <br/><br/>
-En 1992 : The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.
+En 1974 : Donald Johanson and Tom Gray discover the 40% complete Australopithecus afarensis skeleton, nicknamed "Lucy" (after The Beatles song "Lucy in the Sky with Diamonds"), in the Awash Valley of Ethiopia's Afar Depression.
 <br/><br/>
-En 1991 : Queen lead singer Freddie Mercury announces in a statement that he is HIV-positive. He dies the following day.
+En 1973 : A national speed limit is imposed on the Autobahn in Germany because of the 1973 oil crisis. The speed limit lasts only four months.
 <br/><br/>
-En 1985 : Gunmen hijack EgyptAir Flight 648 en route from Athens to Cairo. When the plane lands in Malta, Egyptian commandos storm the aircraft, but 60 people die in the raid.
+En 1971 : During a severe thunderstorm over Washington state, a hijacker calling himself Dan Cooper (aka D. B. Cooper) parachutes from a Northwest Orient Airlines plane with $200,000 in ransom money. He has never been found.
 <br/><br/>
-En 1981 : Iran–Contra affair: Ronald Reagan signs the top secret National Security Decision Directive 17 (NSDD-17), giving the Central Intelligence Agency the authority to recruit and support Contra rebels in Nicaragua.
+En 1969 : Apollo program: The Apollo 12 command module splashes down safely in the Pacific Ocean, ending the second crewed mission to land on the Moon.
 <br/><br/>
-En 1980 : The 6.9 Mw  Irpinia earthquake shakes southern Italy with a maximum Mercalli intensity of X (Extreme), killing 2,483–4,900, and injuring 7,700–8,934.
+En 1966 : Bulgarian TABSO Flight 101 crashes near Bratislava, Czechoslovakia, killing all 82 people on board.
 <br/><br/>
-En 1978 : Cyclone kills about 1,000 people in eastern Sri Lanka.
+En 1965 : Joseph-Désiré Mobutu seizes power in the Democratic Republic of the Congo and becomes President; he rules the country (which he renames Zaire in 1971) for over 30 years, until being overthrown by rebels in 1997.
 <br/><br/>
-En 1978 : The Geneva Frequency Plan of 1975 goes into effect, realigning many of Europe's longwave and mediumwave broadcasting frequencies.
+En 1963 : Lee Harvey Oswald, the assassin of President John F. Kennedy, is killed by Jack Ruby on live television. Robert H. Jackson takes a photograph of the shooting that will win the 1964 Pulitzer Prize in Photography.
 <br/><br/>
-En 1976 : Jacques Mayol is the first man to reach a depth of 100 m (330 ft) undersea without breathing equipment.
+En 1962 : Cold War: The West Berlin branch of the Socialist Unity Party of Germany forms a separate party, the Socialist Unity Party of West Berlin.
 <br/><br/>
-En 1974 : Sixty Ethiopian politicians, aristocrats, military officers, and other persons are executed by the provisional military government.
+En 1962 : The influential British satirical television programme That Was the Week That Was is first broadcast.
 <br/><br/>
-En 1972 : The Soviet Union makes its final attempt at launching the N1 rocket.
+En 1944 : World War II: The 73rd Bombardment Wing launches the first attack on Tokyo from the Northern Mariana Islands.
 <br/><br/>
-En 1971 : Representatives of the People's Republic of China attend the United Nations, including the United Nations Security Council, for the first time.
+En 1943 : World War II: At the battle of Makin the USS Liscome Bay is torpedoed near Tarawa and sinks, killing 650 men.
 <br/><br/>
-En 1963 : The first episode of Doctor Who (An Unearthly Child) is broadcast by the BBC, which is now the world's longest running science fiction drama.
+En 1941 : World War II: The United States grants Lend-Lease to the Free French Forces.
 <br/><br/>
-En 1959 : French President Charles de Gaulle declares in a speech in Strasbourg his vision for "Europe, from the Atlantic to the Urals".
+En 1940 : World War II: The First Slovak Republic becomes a signatory to the Tripartite Pact, officially joining the Axis powers.
 <br/><br/>
-En 1955 : The Cocos Islands are transferred from the control of the United Kingdom to that of Australia.
+En 1935 : The Senegalese Socialist Party holds its second congress.
 <br/><br/>
-En 1946 : French naval bombardment of Hai Phong, Vietnam, kills thousands of civilians.
+En 1932 : In Washington, D.C., the FBI Scientific Crime Detection Laboratory (better known as the FBI Crime Lab) officially opens.
 <br/><br/>
-En 1944 : World War II: The Lotta Svärd Movement is disbanded under the terms of the armistice treaty in Finland after the Continuation War.
+En 1929 : The Finnish far-right Lapua Movement officially begins when a group of mainly the former White Guard members, led by Vihtori Kosola, interrupted communism occasion at the Workers' House in Lapua, Finland.
 <br/><br/>
-En 1943 : World War II: The Deutsche Opernhaus on Bismarckstraße in the Berlin neighborhood of Charlottenburg is destroyed. It will eventually be rebuilt in 1961 and be called the Deutsche Oper Berlin.
+En 1922 : Nine Irish Republican Army members are executed by an Irish Free State firing squad. Among them is author Erskine Childers, who had been arrested for illegally carrying a revolver.
 <br/><br/>
-En 1943 : World War II: Tarawa and Makin atolls fall to American forces.
+En 1917 : In Milwaukee, nine members of the Milwaukee Police Department are killed by a bomb, the most deaths in a single event in U.S. police history until the September 11 attacks in 2001.
 <br/><br/>
-En 1940 : World War II: Romania becomes a signatory of the Tripartite Pact, officially joining the Axis powers.
+En 1906 : A 13–6 victory by the Massillon Tigers over their rivals, the Canton Bulldogs, for the "Ohio League" Championship, leads to accusations that the championship series was fixed and results in the first major scandal in professional American football.
 <br/><br/>
-En 1939 : World War II: HMS Rawalpindi is sunk by the German battleships Scharnhorst and Gneisenau.
+En 1877 : Anna Sewell's animal welfare novel Black Beauty is published.
 <br/><br/>
-En 1934 : An Anglo-Ethiopian boundary commission in the Ogaden discovers an Italian garrison at Walwal, well within Ethiopian territory. This leads to the Abyssinia Crisis.
+En 1863 : American Civil War: Battle of Lookout Mountain: Near Chattanooga, Tennessee, Union forces under General Ulysses S. Grant capture Lookout Mountain and begin to break the Confederate siege of the city led by General Braxton Bragg.
 <br/><br/>
-En 1924 : Edwin Hubble's discovery, that the Andromeda "nebula" is actually another island galaxy far outside our own Milky Way, is first published in The New York Times.
+En 1850 : Danish troops defeat a Schleswig-Holstein force in the town of Lottorf, Schleswig-Holstein.
 <br/><br/>
-En 1923 : The 1923 Irish hunger strikes ends, four Irish Republicans die from starvation.
+En 1835 : The Texas Provincial Government authorizes the creation of a horse-mounted police force called the Texas Rangers (which is now the Texas Ranger Division of the Texas Department of Public Safety).
 <br/><br/>
-En 1921 : Warren G. Harding, 29th President of the United States, signs the Willis–Campbell Act into law, prohibiting doctors from prescribing beer or liquor for medicinal purposes.
+En 1832 : South Carolina passes the Ordinance of Nullification, declaring that the Tariffs of 1828 and 1832 were null and void in the state, beginning the Nullification Crisis.
 <br/><br/>
-En 1914 : Mexican Revolution: The last of U.S. forces withdraw from Veracruz, occupied seven months earlier in response to the Tampico Affair.
+En 1750 : Tarabai, regent of the Maratha Empire, imprisons Rajaram II of Satara for refusing to remove Balaji Baji Rao from the post of peshwa.
 <br/><br/>
-En 1910 : Johan Alfred Ander becomes the last person to be executed in Sweden.
+En 1642 : Abel Tasman becomes the first European to discover the island Van Diemen's Land (later renamed Tasmania).
 <br/><br/>
-En 1890 : King William III of the Netherlands dies without a male heir and a special law is passed to allow his daughter Princess Wilhelmina to succeed him.
+En 1542 : Battle of Solway Moss: An English army defeats a much larger Scottish force near the River Esk in Dumfries and Galloway.
 <br/><br/>
-En 1876 : Corrupt Tammany Hall leader William Magear Tweed (better known as Boss Tweed) is delivered to authorities in New York City after being captured in Spain.
+En 1429 : Hundred Years' War: Joan of Arc unsuccessfully besieges La Charité.
 <br/><br/>
-En 1867 : The Manchester Martyrs are hanged in Manchester, England, for killing a police officer while freeing two Irish Republican Brotherhood members from custody.
+En 1359 : Peter I of Cyprus ascends the throne of Cyprus after his father, Hugh IV of Cyprus, abdicates.
 <br/><br/>
-En 1863 : American Civil War: Battle of Chattanooga begins: Union forces led by General Ulysses S. Grant reinforce troops at Chattanooga, Tennessee, and counter-attack Confederate troops.
+En 1248 : An overnight landslide on the north side of Mont Granier, one of the largest historical rockslope failures ever recorded in Europe, destroys five villages.
 <br/><br/>
-En 1808 : French and Poles defeat the Spanish at Battle of Tudela.
+En 1227 : Gąsawa massacre: At an assembly of Piast dukes at Gąsawa, Polish Prince Leszek the White,  Duke Henry the Bearded and others are attacked by assassins while bathing.
 <br/><br/>
-En 1733 : The start of the 1733 slave insurrection on St. John in what was then the Danish West Indies.
+En 1221 : Genghis Khan defeats the renegade Khwarazmian prince Jalal al-Din at the Battle of the Indus, completing the Mongol conquest of Central Asia.
 <br/><br/>
-En 1644 : John Milton publishes Areopagitica, a pamphlet decrying censorship.
+En 1190 : Conrad of Montferrat becomes King of Jerusalem upon his marriage to Isabella I of Jerusalem.
 <br/><br/>
-En 1499 : Seven days after being convicted of treason, Perkin Warbeck, a pretender to the throne of England, is hanged for attempting to escape from the Tower of London; his supporter John Atwater is executed with him.
-<br/><br/>
-En 1248 : Conquest of Seville by Christian troops under King Ferdinand III of Castile.
-<br/><br/>
-En -534 : Thespis of Icaria becomes the first recorded actor to portray a character on stage.
+En 380 : Theodosius I makes his adventus, or formal entry, into Constantinople.
 <br/><br/>
