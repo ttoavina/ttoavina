@@ -4,105 +4,115 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 26/11 ?(Hover on the year)</h1>
+<h1> What happen this day 27/11 ?(Hover on the year)</h1>
 
-En 2021 : COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.
+En 2020 : Iran's top nuclear scientist, Mohsen Fakhrizadeh, is assassinated near Tehran.
 <br/><br/>
-En 2019 : A magnitude 6.4 earthquake strikes western Albania leaving at least 52 people dead and over 1,000 injured. This was the world's deadliest earthquake of 2019, and the deadliest to strike the country in 99 years.
+En 2020 : Days after the announcement of its discovery, the Utah monolith is removed by recreationists.
 <br/><br/>
-En 2018 : The robotic probe Insight lands on Elysium Planitia, Mars.
+En 2015 : An active shooter inside a Planned Parenthood facility in Colorado Springs, Colorado, shoots at least four police officers. One officer later dies. Two civilians are also killed, and six injured. The shooter later surrendered.
 <br/><br/>
-En 2011 : NATO attack in Pakistan: NATO forces in Afghanistan attack a Pakistani check post in a friendly fire incident, killing 24 soldiers and wounding 13 others.
+En 2009 : Nevsky Express bombing: A bomb explodes on the Nevsky Express train between Moscow and Saint Petersburg, derailing it and causing 28 deaths and 96 injuries.
 <br/><br/>
-En 2011 : The Mars Science Laboratory launches to Mars with the Curiosity Rover.
+En 2008 : XL Airways Germany Flight 888T: An Airbus A320 performing a flight test crashes near the French commune of Canet-en-Roussillon, killing all seven people on board.
 <br/><br/>
-En 2008 : Mumbai attacks, a series of terrorist attacks killing approximately 175 citizens by 10 members of Lashkar-e-Taiba, a Pakistan based extremist Islamist terrorist organisation.
+En 2006 : The House of Commons of Canada approves a motion introduced by Prime Minister Stephen Harper recognizing the Québécois as a nation within Canada.
 <br/><br/>
-En 2008 : The ocean liner Queen Elizabeth 2, now out of service, docks in Dubai.
+En 2004 : Pope John Paul II returns the relics of Saint John Chrysostom to the Eastern Orthodox Church.
 <br/><br/>
-En 2004 : Ruzhou School massacre: A man stabs and kills eight people and seriously wounds another four in a school dormitory in Ruzhou, China.
+En 2004 : Blackwater 61 crash: A CASA C-212 Aviocar crashes into the Koh-i-Baba mountain range in Afghanistan, killing six.
 <br/><br/>
-En 2004 : The last Poʻouli (Black-faced honeycreeper) dies of avian malaria in the Maui Bird Conservation Center in Olinda, Hawaii, before it could breed, making the species in all probability extinct.
+En 2001 : A hydrogen atmosphere is discovered on the extrasolar planet Osiris by the Hubble Space Telescope, the first atmosphere detected on an extrasolar planet.
 <br/><br/>
-En 2003 : The Concorde makes its final flight, over Bristol, England.
+En 1999 : The centre-left Labour Party takes control of the New Zealand government with leader Helen Clark becoming the first elected female prime minister in New Zealand's history.
 <br/><br/>
-En 2000 : George W. Bush is certified the winner of Florida's electoral votes by Katherine Harris, going on to win the United States presidential election, despite losing in the national popular vote.
+En 1997 : Twenty-five people are killed in the second Souhane massacre in Algeria.
 <br/><br/>
-En 1999 : The 7.5 Mw  Ambrym earthquake shakes Vanuatu and a destructive tsunami follows. Ten people were killed and forty were injured.
+En 1992 : For the second time in a year, military forces try to overthrow president Carlos Andrés Pérez in Venezuela.
 <br/><br/>
-En 1998 : Tony Blair becomes the first Prime Minister of the United Kingdom to address the Oireachtas, the parliament of the Republic of Ireland.
+En 1989 : Avianca Flight 203: A Boeing 727 explodes in mid-air over Colombia, killing all 107 people on board and three people on the ground. The Medellín Cartel will claim responsibility for the attack.
 <br/><br/>
-En 1998 : The Khanna rail disaster takes 212 lives in Khanna, Ludhiana, India.
+En 1984 : Under the Brussels Agreement signed between the governments of the United Kingdom and Spain, the former agrees to enter into discussions with Spain over Gibraltar, including sovereignty.
 <br/><br/>
-En 1991 : National Assembly of Azerbaijan abolishes the autonomous status of Nagorno-Karabakh Autonomous Oblast of Azerbaijan and renames several cities with Azeri names.
+En 1983 : Avianca Flight 011: A Boeing 747 crashes near Madrid's Barajas Airport, killing 181.
 <br/><br/>
-En 1986 : Iran–Contra affair: U.S. President Ronald Reagan announces the members of what will become known as the Tower Commission.
+En 1978 : In San Francisco, city mayor George Moscone and openly gay city supervisor Harvey Milk are assassinated by former supervisor Dan White.
 <br/><br/>
-En 1986 : The trial of John Demjanjuk, accused of committing war crimes as a guard at the Nazi Treblinka extermination camp, starts in Jerusalem.
+En 1978 : The Kurdistan Workers' Party (PKK) is founded in the Turkish village of Fis.
 <br/><br/>
-En 1983 : Brink's-Mat robbery: In London, 6,800 gold bars worth nearly £26 million are stolen from the Brink's-Mat vault at Heathrow Airport.
+En 1975 : The Provisional IRA assassinates Ross McWhirter, after a press conference in which McWhirter had announced a reward for the capture of those responsible for multiple bombings and shootings across England.
 <br/><br/>
-En 1979 : Pakistan International Airlines Flight 740 crashes near Taif in Mecca Province, Saudi Arabia, killing all 156 people on board.
+En 1973 : Twenty-fifth Amendment: The United States Senate votes 92–3 to confirm Gerald Ford as Vice President of the United States. (On December 6, the House will confirm him 387–35).
 <br/><br/>
-En 1977 : An unidentified hijacker named Vrillon, claiming to be the representative of the "Ashtar Galactic Command", takes over Britain's Southern Television for six minutes, starting at 5:12 pm.
+En 1971 : The Soviet space program's Mars 2 orbiter releases a descent module. It malfunctions and crashes, but it is the first man-made object to reach the surface of Mars.
 <br/><br/>
-En 1970 : In Basse-Terre, Guadeloupe, 38 millimetres (1.5 in) of rain fall in a minute, the heaviest rainfall ever recorded.
+En 1968 : Penny Ann Early becomes the first woman to play in a major professional men's basketball league, for the Kentucky Colonels in an ABA game against the Los Angeles Stars.
 <br/><br/>
-En 1968 : Vietnam War: United States Air Force helicopter pilot James P. Fleming rescues an Army Special Forces unit pinned down by Viet Cong fire. He is later awarded the Medal of Honor.
+En 1965 : Vietnam War: The Pentagon tells U.S. President Lyndon B. Johnson that if planned operations are to succeed, the number of American troops in Vietnam has to be increased from 120,000 to 400,000.
 <br/><br/>
-En 1965 : France launches Astérix, becoming the third nation to put an object in orbit using its own booster.
+En 1954 : Alger Hiss is released from prison after serving 44 months for perjury.
 <br/><br/>
-En 1950 : Korean War: Communist Chinese troops launch a massive counterattack (Battle of the Ch'ongch'on River and Battle of Chosin Reservoir) against United Nations and South Korean forces.
+En 1945 : CARE (then the Cooperative for American Remittances to Europe) is founded to send CARE Packages of food relief to Europe after World War II.
 <br/><br/>
-En 1949 : The Constituent Assembly of India adopts the constitution presented by Dr. B. R. Ambedkar.
+En 1944 : World War II: RAF Fauld explosion: An explosion at a Royal Air Force ammunition dump in Staffordshire kills seventy people.
 <br/><br/>
-En 1944 : World War II: A German V-2 rocket hits a Woolworth's shop in New Cross, London, killing 168 people.
+En 1942 : World War II: At Toulon, the French navy scuttles its ships and submarines to keep them out of Nazi hands.
 <br/><br/>
-En 1944 : World War II: Germany begins V-1 and V-2 attacks on Antwerp, Belgium.
+En 1940 : In Romania, the ruling Iron Guard fascist party assassinates over 60 of arrested King Carol II of Romania's aides and other political dissidents.
 <br/><br/>
-En 1943 : World War II: HMT Rohna is sunk by the Luftwaffe in an air attack in the Mediterranean north of Béjaïa, Algeria.
+En 1940 : World War II: At the Battle of Cape Spartivento, the Royal Navy engages the Regia Marina in the Mediterranean Sea.
 <br/><br/>
-En 1942 : World War II: Yugoslav Partisans convene the first meeting of the Anti-Fascist Council for the National Liberation of Yugoslavia at Bihać in northwestern Bosnia.
+En 1924 : In New York City, the first Macy's Thanksgiving Day Parade is held.
 <br/><br/>
-En 1942 : Casablanca, the movie starring Humphrey Bogart and Ingrid Bergman, premieres in New York City.
+En 1918 : The Makhnovshchina is established.
 <br/><br/>
-En 1941 : World War II: The Hull note is given to the Japanese ambassador, demanding that Japan withdraw from China and French Indochina, in return for which the United States would lift economic sanctions. On the same day, Japan's 1st Air Fleet departs Hitokappu Bay for Hawaii.
+En 1917 : P. E. Svinhufvud becomes the chairman of his first senate, technically the first Prime Minister of Finland.
 <br/><br/>
-En 1939 : Shelling of Mainila: The Soviet Army orchestrates an incident which is used to justify the start of the Winter War with Finland four days later.
+En 1912 : Spain declares a protectorate over the north shore of Morocco.
 <br/><br/>
-En 1924 : The Mongolian People's Republic is officially established after a new constitution, passed by the first State Great Khural, abolishes the monarchy.
+En 1901 : The U.S. Army War College is established.
 <br/><br/>
-En 1922 : Howard Carter and Lord Carnarvon become the first people to enter the tomb of Pharaoh Tutankhamun in over 3,000 years.
+En 1896 : Also sprach Zarathustra by Richard Strauss is first performed.
 <br/><br/>
-En 1922 : The Toll of the Sea debuts as the first general release film to use two-tone Technicolor. (The Gulf Between was the first film to do so, but it was not widely distributed.)
+En 1895 : At the Swedish–Norwegian Club in Paris, Alfred Nobel signs his last will and testament, setting aside his estate to establish the Nobel Prize after he dies.
 <br/><br/>
-En 1920 : Ukrainian War of Independence: The Red Army launches a surprise attack against the Makhnovshchina.
+En 1879 : War of the Pacific: Battle of Tarapacá: The confrontation between the Chilean Army and the Peruvian Army takes place in Tarapacá, the Peruvian victory is consummated with the death of the 2 generals and the capture the Chilean general in said place of battle, headed by the Peruvian victory of General Juan Buendía y Noregia.
 <br/><br/>
-En 1918 : The Montenegrin Podgorica Assembly votes for a "union of the people", declaring assimilation into the Kingdom of Serbia.
+En 1868 : American Indian Wars: Battle of Washita River: United States Army Lieutenant Colonel George Armstrong Custer leads an attack on Cheyenne living on reservation land.
 <br/><br/>
-En 1917 : The Manchester Guardian publishes the 1916 secret Sykes-Picot Agreement between the United Kingdom and France.
+En 1863 : American Civil War: Confederate cavalry leader John Hunt Morgan and several of his men escape the Ohio Penitentiary and return safely to the South.
 <br/><br/>
-En 1917 : The National Hockey League is formed, with the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Quebec Bulldogs, and Toronto Arenas as its first teams.
+En 1863 : American Civil War: Battle of Mine Run: Union forces under General George Meade take up positions against troops led by Confederate General Robert E. Lee.
 <br/><br/>
-En 1914 : HMS Bulwark is destroyed by a large internal explosion with the loss of 741 men while at anchor near Sheerness.
+En 1856 : The Coup of 1856 leads to Luxembourg's unilateral adoption of a new, reactionary constitution.
 <br/><br/>
-En 1865 : Battle of Papudo: A Spanish navy schooner is defeated by a Chilean corvette north of Valparaíso, Chile.
+En 1839 : In Boston, Massachusetts, the American Statistical Association is founded.
 <br/><br/>
-En 1863 : United States President Abraham Lincoln proclaims November 26 as a national Thanksgiving Day, to be celebrated annually on the final Thursday of November.  Following the Franksgiving controversy from 1939 to 1941, it has been observed on the fourth Thursday in 1942 and subsequent years.
+En 1835 : James Pratt and John Smith are hanged in London; they are the last two to be executed for sodomy in England.
 <br/><br/>
-En 1852 : An earthquake as high as magnitude 8.8 rocks the Banda Sea, triggering a tsunami and killing at least 60 in the Dutch East Indies.
+En 1830 : Saint Catherine Labouré experiences a Marian apparition.
 <br/><br/>
-En 1812 : The Battle of Berezina begins during Napoleon's retreat from Russia.
+En 1815 : Adoption of the Constitution of the Kingdom of Poland.
 <br/><br/>
-En 1805 : Official opening of Thomas Telford's Pontcysyllte Aqueduct.
+En 1809 : The Berners Street hoax is perpetrated by Theodore Hook in the City of Westminster, London.
 <br/><br/>
-En 1789 : A national Thanksgiving Day is observed in the United States as proclaimed by President George Washington at the request of Congress.
+En 1755 : An earthquake in northern Morocco devastates the cities of Fes and Meknes.
 <br/><br/>
-En 1778 : In the Hawaiian Islands, Captain James Cook becomes the first European to visit Maui.
+En 1727 : The foundation stone to the Jerusalem Church in Berlin is laid.
 <br/><br/>
-En 1476 : Vlad the Impaler defeats Basarab Laiota with the help of Stephen the Great and Stephen V Báthory and becomes the ruler of Wallachia for the third time.
+En 1542 : Palace plot of Renyin year: A group of Ming dynasty palace women fail to murder the Jiajing Emperor, and are executed by slow-slicing.
 <br/><br/>
-En 1161 : Battle of Caishi: A Song dynasty fleet fights a naval engagement with Jin dynasty ships on the Yangtze river during the Jin–Song Wars.
+En 1382 : Al-Salih Hajji, the last Qalawunid sultan, was deposed by Barquq in 1382, ending the long period of the Turkic Bahri Mamluk period in general and particularly the Qalawunid dynasty and starting the reign of the Circassian Burji Mamluk.
 <br/><br/>
-En 783 : The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus.
+En 1095 : Pope Urban II declares the First Crusade at the Council of Clermont.
+<br/><br/>
+En 602 : Byzantine Emperor Maurice is forced to watch as the usurper Phocas executes his five sons before Maurice is beheaded himself.
+<br/><br/>
+En 511 : King Clovis I dies at Lutetia and is buried in the Abbey of St Genevieve.
+<br/><br/>
+En 395 : Rufinus, praetorian prefect of the East, is murdered by Gothic mercenaries under Gainas.
+<br/><br/>
+En 176 : Emperor Marcus Aurelius grants his son Commodus the rank of "Imperator" and makes him Supreme Commander of the Roman legions.
+<br/><br/>
+En 25 : Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han.
 <br/><br/>
