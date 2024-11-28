@@ -4,115 +4,119 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/11 ?(Hover on the year)</h1>
+<h1> What happen this day 28/11 ?(Hover on the year)</h1>
 
-En 2020 : Iran's top nuclear scientist, Mohsen Fakhrizadeh, is assassinated near Tehran.
+En 2020 : Over seven hundred civilians are massacred by the Ethiopian National Defense Force and Eritrean Army in Aksum, Ethiopia.
 <br/><br/>
-En 2020 : Days after the announcement of its discovery, the Utah monolith is removed by recreationists.
+En 2016 : LaMia Flight 2933 crashes near Medellin, Colombia, killing 71 of 77 people on board, including members of the Brazilian football club Chapecoense
 <br/><br/>
-En 2015 : An active shooter inside a Planned Parenthood facility in Colorado Springs, Colorado, shoots at least four police officers. One officer later dies. Two civilians are also killed, and six injured. The shooter later surrendered.
+En 2014 : Gunmen set off three bombs at the central mosque in the northern Nigerian city of Kano killing at least 120 people.
 <br/><br/>
-En 2009 : Nevsky Express bombing: A bomb explodes on the Nevsky Express train between Moscow and Saint Petersburg, derailing it and causing 28 deaths and 96 injuries.
+En 2002 : Suicide bombers blow up an Israeli-owned hotel in Mombasa, Kenya; their colleagues fail in their attempt to bring down Arkia Israel Airlines Flight 582 with surface-to-air missiles.
 <br/><br/>
-En 2008 : XL Airways Germany Flight 888T: An Airbus A320 performing a flight test crashes near the French commune of Canet-en-Roussillon, killing all seven people on board.
+En 1991 : South Ossetia declares independence from Georgia.
 <br/><br/>
-En 2006 : The House of Commons of Canada approves a motion introduced by Prime Minister Stephen Harper recognizing the Québécois as a nation within Canada.
+En 1990 : British Prime Minister Margaret Thatcher resigns as leader of the Conservative Party and, therefore, as Prime Minister. She is succeeded in both positions by John Major.
 <br/><br/>
-En 2004 : Pope John Paul II returns the relics of Saint John Chrysostom to the Eastern Orthodox Church.
+En 1989 : Cold War: Velvet Revolution: In the face of protests, the Communist Party of Czechoslovakia announces it will give up its monopoly on political power.
 <br/><br/>
-En 2004 : Blackwater 61 crash: A CASA C-212 Aviocar crashes into the Koh-i-Baba mountain range in Afghanistan, killing six.
+En 1987 : South African Airways Flight 295 crashes into the Indian Ocean, killing all 159 people on board.
 <br/><br/>
-En 2001 : A hydrogen atmosphere is discovered on the extrasolar planet Osiris by the Hubble Space Telescope, the first atmosphere detected on an extrasolar planet.
+En 1983 : Space Shuttle Columbia is launched on STS-9, the first mission to carry the European Space Agency's Spacelab module.
 <br/><br/>
-En 1999 : The centre-left Labour Party takes control of the New Zealand government with leader Helen Clark becoming the first elected female prime minister in New Zealand's history.
+En 1980 : Iran–Iraq War: Operation Morvarid: The bulk of the Iraqi Navy is destroyed by the Iranian Navy in the Persian Gulf. (Commemorated in Iran as Navy Day.)
 <br/><br/>
-En 1997 : Twenty-five people are killed in the second Souhane massacre in Algeria.
+En 1979 : Air New Zealand Flight 901, a DC-10 sightseeing flight over Antarctica, crashes into Mount Erebus, killing all 257 people on board.
 <br/><br/>
-En 1992 : For the second time in a year, military forces try to overthrow president Carlos Andrés Pérez in Venezuela.
+En 1975 : East Timor declares its independence from Portugal.
 <br/><br/>
-En 1989 : Avianca Flight 203: A Boeing 727 explodes in mid-air over Colombia, killing all 107 people on board and three people on the ground. The Medellín Cartel will claim responsibility for the attack.
+En 1972 : Last executions in Paris: Claude Buffet and Roger Bontems are guillotined at La Santé Prison.
 <br/><br/>
-En 1984 : Under the Brussels Agreement signed between the governments of the United Kingdom and Spain, the former agrees to enter into discussions with Spain over Gibraltar, including sovereignty.
+En 1971 : Fred Quilt, a leader of the Tsilhqot'in First Nation suffers severe abdominal injuries allegedly caused by Royal Canadian Mounted Police officers; he dies two days later.
 <br/><br/>
-En 1983 : Avianca Flight 011: A Boeing 747 crashes near Madrid's Barajas Airport, killing 181.
+En 1971 : Wasfi al-Tal, Prime Minister of Jordan, is assassinated by the Black September unit of the Palestine Liberation Organization.
 <br/><br/>
-En 1978 : In San Francisco, city mayor George Moscone and openly gay city supervisor Harvey Milk are assassinated by former supervisor Dan White.
+En 1967 : The first pulsar (PSR B1919+21, in the constellation of Vulpecula) is discovered by two astronomers Jocelyn Bell Burnell and Antony Hewish.
 <br/><br/>
-En 1978 : The Kurdistan Workers' Party (PKK) is founded in the Turkish village of Fis.
+En 1966 : Michel Micombero overthrows the monarchy of Burundi and makes himself the first president.
 <br/><br/>
-En 1975 : The Provisional IRA assassinates Ross McWhirter, after a press conference in which McWhirter had announced a reward for the capture of those responsible for multiple bombings and shootings across England.
+En 1965 : Vietnam War: In response to U.S. President Lyndon B. Johnson's call for "more flags" in Vietnam, Philippine President-elect Ferdinand Marcos announces he will send troops to help fight in South Vietnam.
 <br/><br/>
-En 1973 : Twenty-fifth Amendment: The United States Senate votes 92–3 to confirm Gerald Ford as Vice President of the United States. (On December 6, the House will confirm him 387–35).
+En 1964 : Mariner program: NASA launches the Mariner 4 probe toward Mars.
 <br/><br/>
-En 1971 : The Soviet space program's Mars 2 orbiter releases a descent module. It malfunctions and crashes, but it is the first man-made object to reach the surface of Mars.
+En 1964 : Vietnam War: National Security Council members agree to recommend that U.S. President Lyndon B. Johnson adopt a plan for a two-stage escalation of bombing in North Vietnam.
 <br/><br/>
-En 1968 : Penny Ann Early becomes the first woman to play in a major professional men's basketball league, for the Kentucky Colonels in an ABA game against the Los Angeles Stars.
+En 1960 : Mauritania becomes independent of France.
 <br/><br/>
-En 1965 : Vietnam War: The Pentagon tells U.S. President Lyndon B. Johnson that if planned operations are to succeed, the number of American troops in Vietnam has to be increased from 120,000 to 400,000.
+En 1958 : Chad, the Republic of the Congo, and Gabon become autonomous republics within the French Community.
 <br/><br/>
-En 1954 : Alger Hiss is released from prison after serving 44 months for perjury.
+En 1958 : First successful flight of SM-65 Atlas; the first operational intercontinental ballistic missile (ICBM), developed by the United States and the first member of the Atlas rocket family.
 <br/><br/>
-En 1945 : CARE (then the Cooperative for American Remittances to Europe) is founded to send CARE Packages of food relief to Europe after World War II.
+En 1943 : World War II: Tehran Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill and Soviet Premier Joseph Stalin meet in Tehran, Iran, to discuss war strategy.
 <br/><br/>
-En 1944 : World War II: RAF Fauld explosion: An explosion at a Royal Air Force ammunition dump in Staffordshire kills seventy people.
+En 1942 : In Boston, Massachusetts, a fire in the Cocoanut Grove nightclub kills 492 people.
 <br/><br/>
-En 1942 : World War II: At Toulon, the French navy scuttles its ships and submarines to keep them out of Nazi hands.
+En 1925 : The Grand Ole Opry begins broadcasting in Nashville, Tennessee, as the WSM Barn Dance.
 <br/><br/>
-En 1940 : In Romania, the ruling Iron Guard fascist party assassinates over 60 of arrested King Carol II of Romania's aides and other political dissidents.
+En 1920 : FIDAC (The Interallied Federation of War Veterans Organisations), the first international organization of war veterans is established in Paris, France.
 <br/><br/>
-En 1940 : World War II: At the Battle of Cape Spartivento, the Royal Navy engages the Regia Marina in the Mediterranean Sea.
+En 1920 : Irish War of Independence: Kilmichael Ambush: The Irish Republican Army ambush a convoy of British Auxiliaries and kill seventeen.
 <br/><br/>
-En 1924 : In New York City, the first Macy's Thanksgiving Day Parade is held.
+En 1919 : Lady Astor is elected as a Member of the Parliament of the United Kingdom. She is the first woman to sit in the House of Commons. (Countess Markievicz, the first to be elected, refused to sit.)
 <br/><br/>
-En 1918 : The Makhnovshchina is established.
+En 1918 : The Soviet Forces move against Estonia when the 6th Red Rifle Division strikes the border town of Narva, marking the beginning of the Estonian War of Independence.
 <br/><br/>
-En 1917 : P. E. Svinhufvud becomes the chairman of his first senate, technically the first Prime Minister of Finland.
+En 1917 : The Estonian Provincial Assembly declares itself the sovereign power of Estonia.
 <br/><br/>
-En 1912 : Spain declares a protectorate over the north shore of Morocco.
+En 1914 : World War I: Following a war-induced closure in July, the New York Stock Exchange re-opens for bond trading.
 <br/><br/>
-En 1901 : The U.S. Army War College is established.
+En 1912 : Albania declares its independence from the Ottoman Empire.
 <br/><br/>
-En 1896 : Also sprach Zarathustra by Richard Strauss is first performed.
+En 1908 : A mine explosion in Marianna, Pennsylvania, kills 154 men, leaving only one survivor.
 <br/><br/>
-En 1895 : At the Swedish–Norwegian Club in Paris, Alfred Nobel signs his last will and testament, setting aside his estate to establish the Nobel Prize after he dies.
+En 1905 : Irish nationalist Arthur Griffith founds Sinn Féin as a political party with the main aim of establishing a dual monarchy in Ireland.
 <br/><br/>
-En 1879 : War of the Pacific: Battle of Tarapacá: The confrontation between the Chilean Army and the Peruvian Army takes place in Tarapacá, the Peruvian victory is consummated with the death of the 2 generals and the capture the Chilean general in said place of battle, headed by the Peruvian victory of General Juan Buendía y Noregia.
+En 1899 : The Second Boer War: A British column is engaged by Boer forces at the Battle of Modder River; although the Boers withdraw, the British suffer heavy casualties.
 <br/><br/>
-En 1868 : American Indian Wars: Battle of Washita River: United States Army Lieutenant Colonel George Armstrong Custer leads an attack on Cheyenne living on reservation land.
+En 1895 : The first American automobile race takes place over the 54 miles from Chicago's Jackson Park to Evanston, Illinois. Frank Duryea wins in approximately 10 hours.
 <br/><br/>
-En 1863 : American Civil War: Confederate cavalry leader John Hunt Morgan and several of his men escape the Ohio Penitentiary and return safely to the South.
+En 1893 : Women's suffrage in New Zealand concludes with the 1893 New Zealand general election.
 <br/><br/>
-En 1863 : American Civil War: Battle of Mine Run: Union forces under General George Meade take up positions against troops led by Confederate General Robert E. Lee.
+En 1885 : Bulgarian victory in the Serbo-Bulgarian War preserves the Unification of Bulgaria.
 <br/><br/>
-En 1856 : The Coup of 1856 leads to Luxembourg's unilateral adoption of a new, reactionary constitution.
+En 1862 : American Civil War: In the Battle of Cane Hill, Union troops under General James G. Blunt defeat General John Marmaduke's Confederates.
 <br/><br/>
-En 1839 : In Boston, Massachusetts, the American Statistical Association is founded.
+En 1862 : Notts County F.C. is founded in Nottingham, England, making it the Worlds Oldest professional Association football club in the world.
 <br/><br/>
-En 1835 : James Pratt and John Smith are hanged in London; they are the last two to be executed for sodomy in England.
+En 1861 : American Civil War: The Confederate States of America accept a rival state government's pronouncement that declares Missouri to be the 12th state of the Confederacy.
 <br/><br/>
-En 1830 : Saint Catherine Labouré experiences a Marian apparition.
+En 1843 : Ka Lā Hui (Hawaiian Independence Day): The Kingdom of Hawaii is officially recognized by the United Kingdom and France as an independent nation.
 <br/><br/>
-En 1815 : Adoption of the Constitution of the Kingdom of Poland.
+En 1821 : Panama Independence Day: Panama separates from Spain and joins Gran Colombia.
 <br/><br/>
-En 1809 : The Berners Street hoax is perpetrated by Theodore Hook in the City of Westminster, London.
+En 1814 : The Times of London becomes the first newspaper to be produced on a steam-powered printing press, built by the German team of Koenig & Bauer.
 <br/><br/>
-En 1755 : An earthquake in northern Morocco devastates the cities of Fes and Meknes.
+En 1811 : Beethoven's Piano Concerto No. 5 in E-flat major, Op. 73, premieres at the Gewandhaus in Leipzig.
 <br/><br/>
-En 1727 : The foundation stone to the Jerusalem Church in Berlin is laid.
+En 1798 : Trade between the United States and modern-day Uruguay begins when John Leamy's frigate John arrives in Montevideo.
 <br/><br/>
-En 1542 : Palace plot of Renyin year: A group of Ming dynasty palace women fail to murder the Jiajing Emperor, and are executed by slow-slicing.
+En 1785 : The first Treaty of Hopewell is signed, by which the United States acknowledges Cherokee lands in what is now East Tennessee.
 <br/><br/>
-En 1382 : Al-Salih Hajji, the last Qalawunid sultan, was deposed by Barquq in 1382, ending the long period of the Turkic Bahri Mamluk period in general and particularly the Qalawunid dynasty and starting the reign of the Circassian Burji Mamluk.
+En 1666 : At least 3,000 men of the Royal Scots Army led by Tam Dalyell of the Binns defeat about 900 Covenanter insurgents led by James Wallace of Auchens in the Battle of Rullion Green.
 <br/><br/>
-En 1095 : Pope Urban II declares the First Crusade at the Council of Clermont.
+En 1660 : At Gresham College, twelve men, including Christopher Wren, Robert Boyle, John Wilkins, and Sir Robert Moray decide to found what is later known as the Royal Society.
 <br/><br/>
-En 602 : Byzantine Emperor Maurice is forced to watch as the usurper Phocas executes his five sons before Maurice is beheaded himself.
+En 1627 : The Polish–Lithuanian Commonwealth Navy has its greatest and last naval victory in the Battle of Oliwa.
 <br/><br/>
-En 511 : King Clovis I dies at Lutetia and is buried in the Abbey of St Genevieve.
+En 1582 : In Stratford-upon-Avon, William Shakespeare and Anne Hathaway pay a £40 (equivalent to £14,557 in 2023) bond in lieu of posting wedding banns, which enables them to marry immediately.
 <br/><br/>
-En 395 : Rufinus, praetorian prefect of the East, is murdered by Gothic mercenaries under Gainas.
+En 1520 : After 38 days, an expedition under the command of Ferdinand Magellan completes the first passage through the Strait of Magellan and enters the Pacific Ocean.
 <br/><br/>
-En 176 : Emperor Marcus Aurelius grants his son Commodus the rank of "Imperator" and makes him Supreme Commander of the Roman legions.
+En 1470 : Champa–Đại Việt War: Emperor Lê Thánh Tông of Đại Việt formally launches his attack against Champa.
 <br/><br/>
-En 25 : Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han.
+En 1443 : Skanderbeg and his forces liberate Kruja in central Albania and raise the Albanian flag.
+<br/><br/>
+En 936 : Shi Jingtang is enthroned as the first emperor of the Later Jin by Emperor Taizong of Liao, following a revolt against Emperor Fei of Later Tang.
+<br/><br/>
+En 587 : Treaty of Andelot: King Guntram of Burgundy recognizes Childebert II as his heir.
 <br/><br/>
