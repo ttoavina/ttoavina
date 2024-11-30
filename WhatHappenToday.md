@@ -4,95 +4,83 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 29/11 ?(Hover on the year)</h1>
+<h1> What happen this day 30/11 ?(Hover on the year)</h1>
 
-En 2013 : LAM Mozambique Airlines 470 crashes in the Bwabata National Park in a pilot mass murder-suicide, killing all 33 people on board.
+En 2022 : The AI chatbot ChatGPT is launched by OpenAI.
 <br/><br/>
-En 2009 : Maurice Clemmons shoots and kills four police officers inside a coffee shop in Lakewood, Washington.
+En 2021 : Barbados becomes a republic.
 <br/><br/>
-En 2007 : The Armed Forces of the Philippines lay siege to the Peninsula Manila after soldiers led by Senator Antonio Trillanes stage a mutiny.
+En 2021 : A 15-year-old gunman murders four students and injures seven people, including a teacher, in a mass shooting at Oxford High School in Oxford Township, Michigan.
 <br/><br/>
-En 1987 : North Korean agents plant a bomb on Korean Air Flight 858, which kills all 115 passengers and crew.
+En 2018 : A magnitude 7.1 earthquake with its epicenter only 24 km from Anchorage, Alaska causes significant property damage but no deaths.
 <br/><br/>
-En 1986 : The Surinamese military attacks the village of Moiwana during the Suriname Guerrilla War, killing at least 39 civilians, mostly women and children.
+En 2005 : John Sentamu becomes the first black archbishop in the Church of England with his enthronement as the 97th Archbishop of York.
 <br/><br/>
-En 1982 : Michael Jackson releases Thriller, the best-selling music album of all time.
+En 2004 : A McDonnell Douglas MD-82, operating as Lion Air Flight 538, overran the runway and crashed, killing 25 people.
 <br/><br/>
-En 1972 : Atari releases Pong, the first commercially successful video game.
+En 2000 : NASA launches STS-97, the 101st Space Shuttle mission.
 <br/><br/>
-En 1967 : U.S. Secretary of Defense Robert McNamara announces his resignation.
+En 1999 : Exxon and Mobil sign a US$73.7 billion agreement to merge, thus creating ExxonMobil, the world's largest company.
 <br/><br/>
-En 1963 : U.S. President Lyndon B. Johnson establishes the Warren Commission to investigate the assassination of President John F. Kennedy.
+En 1999 : In Seattle, United States, demonstrations against a World Trade Organization meeting by anti-globalization protesters catch police unprepared and force the cancellation of opening ceremonies.
 <br/><br/>
-En 1963 : Trans-Canada Air Lines Flight 831 crashes shortly after takeoff from Montreal-Dorval International Airport, killing all 118 people on board.
+En 1999 : British Aerospace and Marconi Electronic Systems merge to form BAE Systems, Europe's largest defense contractor and the fourth largest aerospace firm in the world.
 <br/><br/>
-En 1963 : "I Want to Hold Your Hand", recorded on October 17, 1963, is released by the Beatles in the United Kingdom.
+En 1995 : Official end of Operation Desert Storm.
 <br/><br/>
-En 1961 : Enos, a chimpanzee, is launched into space. The spacecraft orbits the Earth twice and splashes down off the coast of Puerto Rico.
+En 1995 : U.S. President Bill Clinton visits Northern Ireland and speaks in favor of the "Northern Ireland peace process" to a huge rally at Belfast City Hall; he calls IRA fighters "yesterday's men".
 <br/><br/>
-En 1952 : U.S. President-elect Dwight D. Eisenhower fulfills a campaign promise by traveling to Korea to find out what can be done to end the conflict.
+En 1981 : Cold War: In Geneva, representatives from the United States and the Soviet Union begin to negotiate intermediate-range nuclear weapon reductions in Europe. (The meetings end inconclusively on December 17.)
 <br/><br/>
-En 1947 : The United Nations General Assembly approve the United Nations Partition Plan for Palestine.
+En 1972 : Vietnam War: White House Press Secretary Ron Ziegler tells the press that there will be no more public announcements concerning American troop withdrawals from Vietnam because troop levels are now down to 27,000.
 <br/><br/>
-En 1947 : French forces carry out a massacre at Mỹ Trạch, Vietnam during the First Indochina War.
+En 1971 : Iran seizes the Greater and Lesser Tunbs from the Emirates of Sharjah and Ras Al Khaimah.
 <br/><br/>
-En 1945 : The Federal People's Republic of Yugoslavia is declared.
+En 1967 : Decolonization: South Yemen becomes independent from the United Kingdom.
 <br/><br/>
-En 1944 : Albania is liberated by the Partisans.
+En 1967 : The Pakistan Peoples Party is founded by Zulfikar Ali Bhutto, who becomes its first chairman.
 <br/><br/>
-En 1943 : The second session of the Anti-Fascist Council for the National Liberation of Yugoslavia (AVNOJ), held to determine the post-war ordering of the country, concludes in Jajce (present-day Bosnia and Herzegovina).
+En 1967 : Pro-Soviet communists in the Philippines establish Malayang Pagkakaisa ng Kabataan Pilipino as its new youth wing.
 <br/><br/>
-En 1929 : U.S. Admiral Richard E. Byrd leads the first expedition to fly over the South Pole.
+En 1966 : Decolonization: Barbados becomes independent from the United Kingdom.
 <br/><br/>
-En 1922 : The Armenian Revolutionary Committee declares Armenia to be a Soviet Socialist Republic, starting 71 years of Soviet rule in Armenia
+En 1962 : Eastern Air Lines Flight 512 crashes at Idlewild Airport, killing 25 people.
 <br/><br/>
-En 1899 : FC Barcelona is founded by Catalan, Spanish and Englishmen.  It later develops into one of Spanish football's most iconic and strongest teams.
+En 1954 : In Sylacauga, Alabama, United States, the Hodges meteorite crashes through a roof and hits a woman taking an afternoon nap; this is the only documented case in the Western Hemisphere of a human being hit by a rock from space.
 <br/><br/>
-En 1890 : The Meiji Constitution goes into effect in Japan, and the first Diet convenes.
+En 1953 : Edward Mutesa II, the kabaka (king) of Buganda is deposed and exiled to London by Sir Andrew Cohen, Governor of Uganda.
 <br/><br/>
-En 1877 : Thomas Edison demonstrates his phonograph for the first time.
+En 1947 : Civil War in Mandatory Palestine begins, leading up to the creation of the State of Israel and the 1948 Arab–Israeli War.
 <br/><br/>
-En 1872 : The Modoc War begins with the Battle of Lost River.
+En 1942 : World War II: Battle of Tassafaronga; A smaller squadron of Imperial Japanese Navy destroyers led by Raizō Tanaka defeats a U.S. Navy cruiser force under Carleton H. Wright.
 <br/><br/>
-En 1864 : Colorado War: Colorado volunteers led by Colonel John Chivington massacre at least 150 Cheyenne and Arapaho noncombatants inside Colorado Territory.
+En 1941 : The Holocaust: The SS-Einsatzgruppen round up roughly 25,000 Jews from the Riga Ghetto and kill them in the Rumbula massacre.
 <br/><br/>
-En 1864 : American Civil War: The Confederate Army of Tennessee misses an opportunity to crush the Union Army of the Ohio in the Battle of Spring Hill during the Franklin–Nashville campaign.
+En 1940 : World War II: Signing of the Sino-Japanese Treaty of 1940 between the Empire of Japan and the newly formed Wang Jingwei-led Reorganized National Government of the Republic of China. This treaty was considered so unfair to China that it was compared to the Twenty-One Demands.
 <br/><br/>
-En 1863 : American Civil War: Union forces under General Ambrose Burnside successfully defend Knoxville, Tennessee from an attack by Confederate forces under General James Longstreet in the Battle of Fort Sanders during the Siege of Knoxville.
+En 1939 : World War II: The Soviet Red Army crosses the Finnish border in several places and bomb Helsinki and several other Finnish cities, starting the Winter War.
 <br/><br/>
-En 1850 : The treaty, Punctation of Olmütz, is signed in Olomouc. Prussia capitulates to Austria, which will take over the leadership of the German Confederation.
+En 1936 : In London, the Crystal Palace is destroyed by fire.
 <br/><br/>
-En 1847 : The Sonderbund is defeated by the joint forces of other Swiss cantons under General Guillaume-Henri Dufour.
+En 1916 : Costa Rica signs the Buenos Aires Convention, a copyright treaty.
 <br/><br/>
-En 1847 : Missionaries Dr. Marcus Whitman, his wife Narcissa, and 15 others are killed by Cayuse and Umatilla Indians, causing the Cayuse War.
+En 1872 : The first-ever international football match takes place at Hamilton Crescent, Glasgow, between Scotland and England.
 <br/><br/>
-En 1830 : An armed rebellion against Russia's rule in Poland begins.
+En 1864 : American Civil War: The Confederate Army of Tennessee suffers heavy losses in an attack on the Union Army of the Ohio in the Battle of Franklin.
 <br/><br/>
-En 1807 : John VI of Portugal flees Lisbon from advancing Napoleonic forces during the Peninsular War, transferring the Portuguese court to Brazil.
+En 1853 : Crimean War: Battle of Sinop: The Imperial Russian Navy under Pavel Nakhimov destroys the Ottoman fleet under Osman Pasha at Sinop, a sea port in northern Turkey.
 <br/><br/>
-En 1783 : A 5.3 magnitude earthquake strikes New Jersey.
+En 1803 : The Balmis Expedition starts in Spain with the aim of vaccinating millions against smallpox in Spanish America and Philippines.
 <br/><br/>
-En 1781 : The crew of the British slave ship Zong murders 54 Africans by dumping them into the sea to claim insurance, beginning the Zong massacre.
+En 1803 : In New Orleans, Spanish representatives officially transfer the Louisiana Territory to the French First Republic.
 <br/><br/>
-En 1777 : San Jose, California, is founded as Pueblo de San José de Guadalupe by José Joaquín Moraga. It is the first civilian settlement, or pueblo, in Alta California.
+En 1786 : The Grand Duchy of Tuscany, under Pietro Leopoldo I, becomes the first modern state to abolish the death penalty (later commemorated as Cities for Life Day).
 <br/><br/>
-En 1776 : During the American Revolutionary War, the Battle of Fort Cumberland, Nova Scotia, comes to an end with the arrival of British reinforcements.
+En 1782 : American Revolutionary War: Treaty of Paris: In Paris, representatives from the United States and Great Britain sign preliminary peace articles (later formalized as the 1783 Treaty of Paris).
 <br/><br/>
-En 1732 : The magnitude 6.6 Irpinia earthquake causes 1,940 deaths in the former Kingdom of Naples, southern Italy.
+En 1718 : Great Northern War: King Charles XII of Sweden dies during a siege of the fortress of Fredriksten in Norway.
 <br/><br/>
-En 1729 : Natchez Indians massacre 138 Frenchmen, 35 French women, and 56 children at Fort Rosalie, near the site of modern-day Natchez, Mississippi.
+En 1707 : Queen Anne's War: The second Siege of Pensacola comes to end with the failure of the British Empire and their Creek allies to capture Pensacola, Spanish Florida.
 <br/><br/>
-En 1612 : The Battle of Swally takes place, which loosens the Portuguese Empire's hold on India.
-<br/><br/>
-En 1549 : The papal conclave of 1549–50 begins.
-<br/><br/>
-En 1114 : A large earthquake damages the areas of the Crusaders in the Middle East. Antioch, Mamistra, Marash and Edessa are hit by the shocks.
-<br/><br/>
-En 903 : The Abbasid army under Muhammad ibn Sulayman al-Katib defeats the Qarmatians at the Battle of Hama.
-<br/><br/>
-En 618 : The Tang dynasty scores a decisive victory over their rival Xue Rengao at the Battle of Qianshuiyuan.
-<br/><br/>
-En 561 : Following the death of King Chlothar I at Compiègne, his four sons, Charibert I, Guntram, Sigebert I and Chilperic I, divide the Frankish Kingdom.
-<br/><br/>
-En 528 : Antioch suffers its second major earthquake in two years, killing thousands and destroying its remaining edifice.
+En 978 : Franco-German war of 978–980: Holy Roman Emperor Otto II lifts the siege of Paris and withdraws.
 <br/><br/>
