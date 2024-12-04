@@ -4,99 +4,135 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 3/12 ?(Hover on the year)</h1>
+<h1> What happen this day 4/12 ?(Hover on the year)</h1>
 
-En 2023 : Mount Marapi located in West Sumatra, Indonesia begins a sporadic series of eruptions. 23 people were killed, and 12 were injured.
+En 2021 : Semeru on the Indonesian island of Java erupts, killing at least 68 people.
 <br/><br/>
-En 2022 : Massive power outage after Moore County substation attack, that leaves 45,000 people, without power, for five days, leading to a FBI probe.
+En 2017 : The Thomas Fire starts near Santa Paula in California. It eventually became the largest wildfire in modern California history to date after burning 440 square miles (1,140 km2) in Ventura and Santa Barbara Counties.
 <br/><br/>
-En 2014 : The Japanese space agency, JAXA, launches the space explorer Hayabusa2 from the Tanegashima Space Center on a six-year round trip mission to an asteroid to collect rock samples.
+En 2015 : A firebomb is thrown into a restaurant in the Egyptian capital of Cairo, killing 17 people.
 <br/><br/>
-En 2012 : At least 475 people are killed after Typhoon Bopha makes landfall in the Philippines.
+En 2014 : Islamic insurgents kill three state police at a traffic circle before taking an empty school and a "press house" in Grozny. Ten state forces die with 28 injured in gun battles ending with ten insurgents killed.
 <br/><br/>
-En 2009 : A suicide bombing at a hotel in Mogadishu, Somalia, kills 25 people, including three ministers of the Transitional Federal Government.
+En 2006 : Six black youths assault a white teenager in Jena, Louisiana.
 <br/><br/>
-En 2007 : Winter storms cause the Chehalis River to flood many cities in Lewis County, Washington, and close a 32-kilometre (20 mi) portion of Interstate 5 for several days. At least eight deaths and billions of dollars in damages are blamed on the floods.
+En 2005 : Tens of thousands of people in Hong Kong protest for democracy and call on the government to allow universal and equal suffrage.
 <br/><br/>
-En 2005 : XCOR Aerospace makes the first crewed rocket aircraft delivery of U.S. Mail in Kern County, California.
+En 1998 : The Unity Module, the second module of the International Space Station, is launched.
 <br/><br/>
-En 1999 : NASA loses radio contact with the Mars Polar Lander moments before the spacecraft enters the Martian atmosphere.
+En 1992 : Somali Civil War: President George H. W. Bush orders 28,000 U.S. troops to Somalia in Northeast Africa.
 <br/><br/>
-En 1997 : In Ottawa, Ontario, Canada, representatives from 121 countries sign the Ottawa Treaty prohibiting manufacture and deployment of anti-personnel landmines. The United States, People's Republic of China, and Russia do not sign the treaty, however.
+En 1991 : Terry A. Anderson is released after seven years in captivity as a hostage in Beirut; he is the last and longest-held American hostage in Lebanon.
 <br/><br/>
-En 1995 : Cameroon Airlines Flight 3701 crashes on approach to Douala International Airport in Douala, Cameroon, killing 71 of the 76 people on board.
+En 1991 : Pan American World Airways ceases its operations after 64 years.
 <br/><br/>
-En 1994 : Taiwan holds its first full local elections; James Soong elected as the first and only directly elected Governor of Taiwan, Chen Shui-bian became the first directly elected Mayor of Taipei, Wu Den-yih became the first directly elected Mayor of Kaohsiung.
+En 1986 : The MV Amazon Venture oil tanker begins leaking oil while at the port of Savannah in the United States, resulting in an oil spill of approximately 500,000 US gallons (1,900,000 L).
 <br/><br/>
-En 1994 : Sony releases the first PlayStation in Japan.
+En 1984 : Sri Lankan Civil War: Sri Lankan Army soldiers kill 107–150 civilians in Mannar.
 <br/><br/>
-En 1992 : The Greek oil tanker Aegean Sea, carrying 80,000 tonnes of crude oil, runs aground in a storm while approaching A Coruña, Spain, and spills much of its cargo.
+En 1983 : US Navy aircraft from USS John F. Kennedy and USS Independence attack Syrian missile sites in Lebanon in response to an F-14 being fired on by an SA-7. One A-6 Intruder and A-7 Corsair are shot down. One American pilot is killed, one is rescued, and one is captured.
 <br/><br/>
-En 1992 : A test engineer for Sema Group uses a personal computer to send the world's first text message via the Vodafone network to the phone of a colleague.
+En 1982 : The People's Republic of China adopts its current constitution.
 <br/><br/>
-En 1989 : In a meeting off the coast of Malta, U.S. President George H. W. Bush and Soviet General Secretary Mikhail Gorbachev release statements indicating that the Cold War between NATO and the Warsaw Pact may be coming to an end.
+En 1981 : South Africa grants independence to the Ciskei "homeland" (not recognized by any government outside South Africa).
 <br/><br/>
-En 1984 : Bhopal disaster: A methyl isocyanate leak from a Union Carbide pesticide plant in Bhopal, India, kills more than 3,800 people outright and injures 150,000–600,000 others (some 6,000 of whom later died from their injuries) in one of the worst industrial disasters in history.
+En 1979 : The Hastie fire in Hull kills three schoolboys and eventually leads police to arrest Bruce George Peter Lee.
 <br/><br/>
-En 1982 : A soil sample is taken from Times Beach, Missouri, that will be found to contain 300 times the safe level of dioxin.
+En 1978 : Following the murder of Mayor George Moscone, Dianne Feinstein becomes San Francisco's first female mayor.
 <br/><br/>
-En 1979 : In Cincinnati, 11 fans are suffocated in a crush for seats on the concourse outside Riverfront Coliseum before a Who concert.
+En 1977 : Jean-Bédel Bokassa, president of the Central African Republic, crowns himself Emperor Bokassa I of the Central African Empire.
 <br/><br/>
-En 1979 : Iranian Revolution: Ayatollah Ruhollah Khomeini becomes the first Supreme Leader of Iran.
+En 1977 : Malaysian Airline System Flight 653 is hijacked and crashes in Tanjong Kupang, Johor, killing 100.
 <br/><br/>
-En 1973 : Pioneer program: Pioneer 10 sends back the first close-up images of Jupiter.
+En 1974 : Martinair Flight 138 crashes into the Saptha Kanya mountain range in Maskeliya, Sri Lanka, killing 191.
 <br/><br/>
-En 1972 : Spantax Flight 275 crashes during takeoff from Tenerife North–Ciudad de La Laguna Airport, killing all 155 people on board.
+En 1971 : The PNS Ghazi, a Pakistan Navy submarine, sinks during the course of the Indo-Pakistani Naval War of 1971.
 <br/><br/>
-En 1971 : Indo-Pakistani War of 1971: Pakistan launches a pre-emptive strike against India and a full-scale war begins.
+En 1971 : During a concert by Frank Zappa and The Mothers of Invention at the Montreux Casino, an audience member fires a flare gun into the ceiling, causing a fire that destroys the venue. The incident served as the inspiration for Deep Purple's 1973 song Smoke on the Water.
 <br/><br/>
-En 1967 : At Groote Schuur Hospital in Cape Town, South Africa, a transplant team headed by Christiaan Barnard carries out the first heart transplant on a human (53-year-old Louis Washkansky).
+En 1969 : Black Panther Party members Fred Hampton and Mark Clark are shot and killed during a raid by 14 Chicago police officers.
 <br/><br/>
-En 1965 : Soviet Union, Space probe of the Luna program, called Luna 8, is launched, but crashes on the Moon.
+En 1965 : Launch of Gemini 7 with crew members Frank Borman and Jim Lovell. The Gemini 7 spacecraft was the passive target for the first crewed space rendezvous performed by the crew of Gemini 6A.
 <br/><br/>
-En 1960 : The musical Camelot debuts at the Majestic Theatre on Broadway. It will become associated with the Kennedy administration.
+En 1964 : Free Speech Movement: Police arrest over 800 students at the University of California, Berkeley, following their takeover and sit-in at the administration building in protest of the UC Regents' decision to forbid protests on UC property.
 <br/><br/>
-En 1959 : The current flag of Singapore is adopted, six months after Singapore became self-governing within the British Empire.
+En 1956 : The Million Dollar Quartet (Elvis Presley, Jerry Lee Lewis, Carl Perkins, and Johnny Cash) get together at Sun Studio for the first and last time.
 <br/><br/>
-En 1944 : Greek Civil War: Fighting breaks out in Athens between the ELAS and government forces supported by the British Army.
+En 1950 : Korean War: Jesse L. Brown (the 1st African-American Naval aviator) is killed in action during the Battle of Chosin Reservoir.
 <br/><br/>
-En 1938 : Nazi Germany issues the Decree on the Utilization of Jewish Property forcing Jews to sell real property, businesses, and stocks at below market value as part of Aryanization.
+En 1950 : Korean War: Associated Press photographer Max Desfor photographs hundreds of Korean refugees crossing a downed bridge in the Taedong River: 1951 Pulitzer Prize winner Flight of Refugees Across Wrecked Bridge in Korea.
 <br/><br/>
-En 1929 : President Herbert Hoover delivers his first State of the Union message to Congress. It is presented in the form of a written message rather than a speech.
+En 1949 : Sir Duncan George Stewart, governor of the Crown Colony of Sarawak, was fatally stabbed by a member of the Rukun 13.
 <br/><br/>
-En 1925 : Final agreement is signed between the Irish Free State, Northern Ireland and the United Kingdom formalizing the Partition of Ireland.
+En 1948 : Chinese Civil War: The SS Kiangya, carrying Nationalist refugees from Shanghai, explodes in the Huangpu River.
 <br/><br/>
-En 1920 : Following more than a month of Turkish–Armenian War, the Turkish-dictated Treaty of Alexandropol is concluded.
+En 1945 : By a vote of 65–7, the United States Senate approves United States participation in the United Nations. (The UN had been established on October 24, 1945.)
 <br/><br/>
-En 1919 : After nearly 20 years of planning and construction, including two collapses causing 89 deaths, the Quebec Bridge opens to traffic.
+En 1943 : World War II: In Yugoslavia, resistance leader Marshal Josip Broz Tito proclaims a provisional democratic Yugoslav government in-exile.
 <br/><br/>
-En 1912 : Bulgaria, Greece, Montenegro, and Serbia (the Balkan League) sign an armistice with the Ottoman Empire, temporarily halting the First Balkan War. (The armistice will expire on February 3, 1913, and hostilities will resume.)
+En 1943 : World War II: U.S. President Franklin D. Roosevelt closes down the Works Progress Administration, because of the high levels of wartime employment in the United States.
 <br/><br/>
-En 1910 : Modern neon lighting is first demonstrated by Georges Claude at the Paris Motor Show.
+En 1942 : World War II: Carlson's patrol during the Guadalcanal Campaign ends.
 <br/><br/>
-En 1904 : The Jovian moon Himalia is discovered by Charles Dillon Perrine at California's Lick Observatory.
+En 1939 : World War II: HMS Nelson is struck by a mine (laid by U-31) off the Scottish coast and is laid up for repairs until August 1940.
 <br/><br/>
-En 1901 : In a State of the Union message, U.S. President Theodore Roosevelt delivers a 20,000-word report to the House of Representatives asking Congress to curb the power of trusts "within reasonable limits".  The speech was not delivered in person.
+En 1928 : Cosmo Gordon Lang was enthroned as the Archbishop of Canterbury, the first bachelor to be appointed in 150 years.
 <br/><br/>
-En 1898 : The Duquesne Country and Athletic Club defeats an all-star collection of early football players 16–0, in what is considered to be the first all-star game for professional American football.
+En 1919 : Ukrainian War of Independence: The Polonsky conspiracy is initiated, with an attempt to assassinate the high command of the Revolutionary Insurgent Army of Ukraine.
 <br/><br/>
-En 1881 : The first issue of Tamperean daily newspaper Aamulehti ("Morning Paper") is published.
+En 1918 : U.S. President Woodrow Wilson sails for the World War I peace talks in Versailles, becoming the first US president to travel to Europe while in office.
 <br/><br/>
-En 1859 : Nigeria's first newspaper, missionary Henry Townsend's Iwe Irohin, was published.
+En 1917 : The Finnish Senate submits to the Parliament of Finland a proposal for the form of government of the Republic of Finland and issued a communication to Parliament declaring the independence of Finland.
 <br/><br/>
-En 1854 : Battle of the Eureka Stockade: More than 20 gold miners at Ballarat, Victoria, are killed by state troopers in an uprising over mining licences.
+En 1909 : In Canadian football, the First Grey Cup game is played. The University of Toronto Varsity Blues defeat the Toronto Parkdale Canoe Club, 26–6.
 <br/><br/>
-En 1834 : The Zollverein (German Customs Union) begins the first regular census in Germany.
+En 1909 : The Montreal Canadiens ice hockey club, the oldest surviving professional hockey franchise in the world, is founded as a charter member of the National Hockey Association.
 <br/><br/>
-En 1818 : Illinois becomes the 21st U.S. state.
+En 1906 : Alpha Phi Alpha the first intercollegiate Greek lettered fraternity for African-Americans was founded at Cornell University in Ithaca, New York.
 <br/><br/>
-En 1800 : War of the Second Coalition: Battle of Hohenlinden: French General Jean Victor Marie Moreau decisively defeats the Archduke John of Austria near Munich. Coupled with First Consul Napoleon Bonaparte's earlier victory at Marengo, this will force the Austrians to sign an armistice and end the war.
+En 1893 : First Matabele War: A patrol of 34 British South Africa Company soldiers is ambushed and annihilated by more than 3,000 Matabele warriors on the Shangani River in Matabeleland.
 <br/><br/>
-En 1800 : United States presidential election: The Electoral College casts votes for president and vice president that result in a tie between Thomas Jefferson and Aaron Burr.
+En 1881 : The first edition of the Los Angeles Times is published.
 <br/><br/>
-En 1799 : War of the Second Coalition: Battle of Wiesloch: Austrian Lieutenant Field Marshal Anton Sztáray defeats the French at Wiesloch.
+En 1875 : Notorious New York City politician Boss Tweed escapes from prison; he is later recaptured in Spain.
 <br/><br/>
-En 1775 : American Revolutionary War: USS Alfred becomes the first vessel to fly the Grand Union Flag (the precursor to the Stars and Stripes); the flag is hoisted by John Paul Jones.
+En 1872 : The American brigantine Mary Celeste is discovered drifting in the Atlantic. Her crew is never found.
 <br/><br/>
-En 915 : Pope John X crowns Berengar I of Italy as Holy Roman Emperor (probable date).
+En 1867 : Former Minnesota farmer Oliver Hudson Kelley founds the Order of the Patrons of Husbandry (better known today as the Grange).
+<br/><br/>
+En 1865 : North Carolina ratifies 13th Amendment to the U.S. Constitution, followed two days later by Georgia, and U.S. slaves were legally free within two weeks.
+<br/><br/>
+En 1864 : American Civil War: Sherman's March to the Sea: Union cavalry forces defeat Confederate cavalry in the Battle of Waynesboro, Georgia, opening the way for General William T. Sherman's army to approach the coast.
+<br/><br/>
+En 1863 : American Civil War: Confederate General James Longstreet lifts his unsuccessful siege of Knoxville, Tennessee after failing to capture the city.
+<br/><br/>
+En 1861 : American Civil War: The 109 electors of the several states of the Confederate States of America unanimously elect Jefferson Davis as President and Alexander H. Stephens as Vice President.
+<br/><br/>
+En 1829 : In the face of fierce local opposition, British Governor-General Lord William Bentinck issues a regulation declaring that anyone who abets sati in Bengal is guilty of culpable homicide.
+<br/><br/>
+En 1804 : The United States House of Representatives adopts articles of impeachment against Supreme Court Justice Samuel Chase.
+<br/><br/>
+En 1791 : The first edition of The Observer, the world's first Sunday newspaper, is published.
+<br/><br/>
+En 1786 : Mission Santa Barbara is dedicated (on the feast day of Saint Barbara).
+<br/><br/>
+En 1783 : At Fraunces Tavern in New York City, U.S. General George Washington bids farewell to his officers.
+<br/><br/>
+En 1745 : Charles Edward Stuart's army reaches Derby, its furthest point during the Second Jacobite Rising.
+<br/><br/>
+En 1676 : The Battle of Lund, becomes the bloodiest battle in Scandinavian history.
+<br/><br/>
+En 1623 : 50 Christians are executed in Edo, Japan, during the Great Martyrdom of Edo.
+<br/><br/>
+En 1619 : Thirty-eight colonists arrive at Berkeley Hundred, Virginia. The group's charter proclaims that the day "be yearly and perpetually kept holy as a day of thanksgiving to Almighty God."
+<br/><br/>
+En 1563 : The final session of the Council of Trent is held nearly 18 years after the body held its first session on December 13, 1545.
+<br/><br/>
+En 1259 : Kings Louis IX of France and Henry III of England agree to the Treaty of Paris, in which Henry renounces his claims to French-controlled territory on continental Europe (including Normandy) in exchange for Louis withdrawing his support for English rebels.
+<br/><br/>
+En 1110 : An army led by Baldwin I of Jerusalem and Sigurd the Crusader of Norway captures Sidon at the end of the First Crusade.
+<br/><br/>
+En 963 : The lay papal protonotary is elected pope and takes the name Leo VIII, being consecrated on 6 December after ordination.
+<br/><br/>
+En 771 : Austrasian king Carloman I died and left his brother Charlemagne as sole king of the Frankish Kingdom.
 <br/><br/>
