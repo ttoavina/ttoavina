@@ -4,111 +4,133 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 24/12 ?(Hover on the year)</h1>
+<h1> What happen this day 25/12 ?(Hover on the year)</h1>
 
-En 2021 : Burmese military forces commit the Mo So massacre, killing at least 44 civilians.
+En 2021 : The James Webb Space Telescope is launched.
 <br/><br/>
-En 2018 : A helicopter crash kills Martha Érika Alonso, first female Governor of Puebla, Mexico, and her husband Rafael Moreno Valle Rosas, former governor.
+En 2020 : An explosion in Nashville, Tennessee, occurs, leaving three civilians in the hospital.
 <br/><br/>
-En 2008 : The Lord's Resistance Army, a Ugandan rebel group, begins a series of attacks against civilians in the Democratic Republic of the Congo, massacring more than 400.
+En 2019 : Twenty people are killed and thousands are left homeless by Typhoon Phanfone in the Philippines.
 <br/><br/>
-En 2005 : Chad–Sudan relations: Chad declares a state of belligerence against Sudan following a December 18 attack on Adré, which left about 100 people dead.
+En 2016 : A Russian Defence Ministry Tupolev Tu-154 carrying members of the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff, killing all 92 people on board.
 <br/><br/>
-En 2003 : The Spanish police thwart an attempt by ETA to detonate 50 kg of explosives at 3:55 p.m. inside Madrid's busy Chamartín Station.
+En 2012 : An Antonov An-72 plane crashes close to the city of Shymkent, killing 27 people.
 <br/><br/>
-En 1999 : Indian Airlines Flight 814 is hijacked in Indian airspace between Kathmandu, Nepal, and Delhi, India. The aircraft landed at Kandahar in Afghanistan. The incident ended on December 31 with the release of 190 survivors (one passenger is killed).
+En 2012 : Air Bagan Flight 011, a Fokker 100, crashes on approach to Heho Airport in Heho, Myanmar, killing two people.
 <br/><br/>
-En 1997 : The Sid El-Antri massacre in Algeria kills between 50 and 100 people.
+En 2004 : The Cassini orbiter releases Huygens probe which successfully landed on Saturn's moon Titan on January 14, 2005.
 <br/><br/>
-En 1996 : A Learjet 35 crashes into Smarts Mountain near Dorchester, New Hampshire, killing both pilots on board.
+En 2003 : UTA Flight 141, a Boeing 727-223, crashes at the Cotonou Airport in Benin, killing 141 people.
 <br/><br/>
-En 1994 : Air France Flight 8969 is hijacked on the ground at Houari Boumediene Airport, Algiers, Algeria. Over the course of three days three passengers are killed, as are all four terrorists.
+En 2003 : The ill-fated Beagle 2 probe, released from the Mars Express spacecraft on December 19, stops transmitting shortly before its scheduled landing.
 <br/><br/>
-En 1983 : Aeroflot Flight 601 crashes during takeoff from Leshukonskoye Airport, Russia, killing 44 of the 49 people on board.
+En 1999 : Cubana de Aviación Flight 310, a Yakovlev Yak-42, crashes near Bejuma, Carabobo State, Venezuela, killing 22 people.
 <br/><br/>
-En 1974 : Cyclone Tracy devastates Darwin, Australia.
+En 1996 : The body of American child beauty queen JonBenét Ramsey was found in her family's Boulder, Colorado, home. Her murder remains unsolved.
 <br/><br/>
-En 1973 : District of Columbia Home Rule Act is passed, allowing residents of Washington, D.C. to elect their own local government.
+En 1991 : Mikhail Gorbachev resigns as President of the Soviet Union (the union itself is dissolved the next day). Ukraine's referendum is finalized and Ukraine officially leaves the Soviet Union.
 <br/><br/>
-En 1971 : LANSA Flight 508 is struck by lightning and crashes in the Puerto Inca District in the Department of Huánuco in Peru, killing 91.
+En 1989 : Romanian Revolution: Deposed President of Romania Nicolae Ceaușescu and his wife, Elena, are condemned to death and executed after a summary trial.
 <br/><br/>
-En 1969 : Nigerian troops capture Umuahia, the Biafran capital.
+En 1986 : Iraqi Airways Flight 163, a Boeing 737-270C, is hijacked and crashes in Arar, Saudi Arabia, killing 63 people.
 <br/><br/>
-En 1968 : Apollo program: The crew of Apollo 8 enters into orbit around the Moon, becoming the first humans to do so. They performed ten lunar orbits, took the Earthrise photograph, broadcast live TV pictures, and read the first ten verses of Genesis.
+En 1977 : Israeli Prime Minister Menachem Begin meets in Egypt with its president Anwar Sadat.
 <br/><br/>
-En 1966 : A Canadair CL-44 chartered by the United States military crashes into a small village in South Vietnam, killing 111.
+En 1976 : EgyptAir Flight 864, a Boeing 707-366C, crashes on approach to Don Mueang International Airport, killing 71 people.
 <br/><br/>
-En 1964 : Vietnam War: Viet Cong operatives bomb the Brinks Hotel in Saigon, South Vietnam to demonstrate they can strike an American installation in the heavily guarded capital.
+En 1968 : Apollo program: Apollo 8 performs the first successful Trans-Earth injection (TEI) maneuver, sending the crew and spacecraft on a trajectory back to Earth from Lunar orbit.
 <br/><br/>
-En 1964 : Flying Tiger Line Flight 282 crashes after takeoff from San Francisco International Airport, killing three.
+En 1968 : Kilvenmani massacre: Forty-four Dalits (untouchables) are burnt to death in Kizhavenmani village, Tamil Nadu, a retaliation for a campaign for higher wages by Dalit laborers.
 <br/><br/>
-En 1953 : Tangiwai disaster: In New Zealand's North Island, at Tangiwai, a railway bridge is damaged by a lahar and collapses beneath a passenger train, killing 151 people.
+En 1963 : Turkish Cypriot Bayrak Radio begins transmitting in Cyprus after Turkish Cypriots are forcibly excluded from Cyprus Broadcasting Corporation.
 <br/><br/>
-En 1952 : First flight of Britain's Handley Page Victor strategic bomber.
+En 1962 : The Soviet Union conducts its final above-ground nuclear weapon test, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.
 <br/><br/>
-En 1951 : Libya becomes independent. Idris I is proclaimed King of Libya.
+En 1951 : A bomb explodes at the home of Harry T. Moore and Harriette V. S. Moore, early leaders of the Civil Rights Movement, killing Harry instantly and fatally wounding Harriette.
 <br/><br/>
-En 1945 : Five of nine children become missing after their home in Fayetteville, West Virginia, is burned down.
+En 1950 : The Stone of Scone, traditional coronation stone of British monarchs, is taken from Westminster Abbey by Scottish nationalist students. It later turns up in Scotland on April 11, 1951.
 <br/><br/>
-En 1944 : World War II: The Belgian Troopship Leopoldville was torpedoed and sank with the loss of 763 soldiers and 56 crew.
+En 1946 : The first European self-sustaining nuclear chain reaction is initiated within the Soviet Union's F-1 nuclear reactor.
 <br/><br/>
-En 1943 : World War II: U.S. General Dwight D. Eisenhower is named Supreme Allied Commander for Operation Overlord.
+En 1941 : Admiral Chester W. Nimitz, appointed commander of the U.S. Pacific Fleet on December 17, arrives at Pearl Harbor.
 <br/><br/>
-En 1942 : World War II: French monarchist, Fernand Bonnier de La Chapelle, assassinates Vichy French Admiral François Darlan in Algiers, Algeria.
+En 1941 : World War II: Battle of Hong Kong ends, beginning the Japanese occupation of Hong Kong.
 <br/><br/>
-En 1941 : World War II: Kuching is conquered by Japanese forces.
+En 1941 : Admiral Émile Muselier seizes the archipelago of Saint Pierre and Miquelon, which become the first part of France to be liberated by the Free French Forces.
 <br/><br/>
-En 1941 : World War II: Benghazi is conquered by the British Eighth Army.
+En 1932 : A magnitude 7.6 earthquake in Gansu, China kills 275 people.
 <br/><br/>
-En 1939 : World War II: Pope Pius XII makes a Christmas Eve appeal for peace.
+En 1927 : B. R. Ambedkar and his followers burn copies of the Manusmriti in Mahad, Maharashtra, to protest its treatment of Dalit people.
 <br/><br/>
-En 1929 : Assassination attempt on Argentine President Hipólito Yrigoyen.
+En 1915 : The National Protection War breaks out against the Empire of China, as military leaders Cai E and Tang Jiyao proclaim the independence of Yunnan and begin a campaign to restore the Republic.
 <br/><br/>
-En 1929 : A four alarm fire breaks out in the West Wing of the White House in Washington, D.C.
+En 1914 : World War I: A series of unofficial truces occur across the Western Front to celebrate Christmas.
 <br/><br/>
-En 1924 : Albania becomes a republic.
+En 1870 : Wagner's Siegfried Idyll is first performed.
 <br/><br/>
-En 1920 : Gabriele D'Annunzio surrendered the Italian Regency of Carnaro in the city of Fiume to Italian Armed Forces.
+En 1868 : Pardons for ex-Confederates: United States President Andrew Johnson grants an unconditional pardon to all Confederate veterans.
 <br/><br/>
-En 1918 : Region of Međimurje is captured by the Kingdom of Serbs, Croats and Slovenes from Hungary.
+En 1837 : Second Seminole War: American general Zachary Taylor leads 1,100 troops against the Seminoles at the Battle of Lake Okeechobee.
 <br/><br/>
-En 1914 : World War I: The "Christmas truce" begins.
+En 1831 : The Great Jamaican Slave Revolt begins; up to 20% of Jamaica's slaves mobilize in an ultimately unsuccessful fight for freedom.
 <br/><br/>
-En 1913 : The Italian Hall disaster in Calumet, Michigan results in the deaths of 73 striking workers families at a Christmas party participants (including 59 children) when someone falsely yells "fire".
+En 1826 : The Eggnog Riot at the United States Military Academy concludes after beginning the previous evening.
 <br/><br/>
-En 1906 : Reginald Fessenden transmits the first radio broadcast; consisting of a poetry reading, a violin solo, and a speech.
+En 1815 : The Handel and Haydn Society, oldest continually performing arts organization in the United States, gives its first performance.
 <br/><br/>
-En 1871 : The opera Aida premieres in Cairo, Egypt.
+En 1814 : Rev. Samuel Marsden holds the first Christian service on land in New Zealand at Rangihoua Bay.
 <br/><br/>
-En 1868 : The Greek Presidential Guard is established as the royal escort by King George I.
+En 1809 : Dr. Ephraim McDowell performs the first ovariotomy, removing a 22-pound tumor.
 <br/><br/>
-En 1865 : Former Confederate officers Frank McCord, Richard Reed, John Lester, John Kennedy, J. Calvin Jones, and James Crowe form the Ku Klux Klan.
+En 1793 : Northwest Indian War: General "Mad Anthony" Wayne and a 300 man detachment identify the site of St. Clair's 1791 defeat by the large number of unburied human remains at modern Fort Recovery, Ohio.
 <br/><br/>
-En 1846 : British acquired Labuan from the Sultanate of Brunei for Great Britain.
+En 1776 : American Revolutionary War: General George Washington and the Continental Army cross the Delaware River at night to attack Hessian forces serving Great Britain at Trenton, New Jersey, the next day.
 <br/><br/>
-En 1826 : The Eggnog Riot at the United States Military Academy begins that night, wrapping up the following morning.
+En 1766 : Mapuches in Chile launch a series of surprise attacks against the Spanish starting the Mapuche uprising of 1766.
 <br/><br/>
-En 1818 : The first performance of "Silent Night" takes place in the Nikolauskirche in Oberndorf, Austria.
+En 1758 : Halley's Comet is sighted by Johann Georg Palitzsch, confirming Edmund Halley's prediction of its passage.  This was the first passage of a comet predicted ahead of time.
 <br/><br/>
-En 1814 : Representatives of the United Kingdom and the United States sign the Treaty of Ghent, ending the War of 1812.
+En 1724 : J. S. Bach leads the first performance of Gelobet seist du, Jesu Christ, BWV 91, in Leipzig, based on Luther's 1524 Christmas hymn.
 <br/><br/>
-En 1800 : The Plot of the rue Saint-Nicaise fails to kill Napoleon Bonaparte.
+En 1559 : Pope Pius IV is elected, four months after his predecessor's death.
 <br/><br/>
-En 1777 : Kiritimati, also called Christmas Island, is discovered by James Cook.
+En 1553 : Battle of Tucapel: Mapuche rebels under Lautaro defeat the Spanish conquistadors and executes the governor of Chile, Pedro de Valdivia.
 <br/><br/>
-En 1737 : The Marathas defeat the combined forces of the Mughal Empire, Rajputs of Jaipur, Nizam of Hyderabad, Nawab of Awadh and Nawab of Bengal in the Battle of Bhopal.
+En 1492 : The carrack Santa María, commanded by Christopher Columbus, runs onto a reef off Haiti due to an improper watch.
 <br/><br/>
-En 1500 : A joint Venetian–Spanish fleet captures the Castle of St. George on the island of Cephalonia.
+En 1261 : Eleven-year-old John IV Laskaris of the restored Eastern Roman Empire is deposed and blinded by orders of his co-ruler Michael VIII Palaiologos.
 <br/><br/>
-En 1294 : Pope Boniface VIII is elected, replacing St. Celestine V, who had resigned.
+En 1130 : Count Roger II of Sicily is crowned the first king of Sicily.
 <br/><br/>
-En 1144 : The capital of the crusader County of Edessa falls to Imad ad-Din Zengi, the atabeg of Mosul and Aleppo.
+En 1100 : Baldwin of Boulogne is crowned the first King of Jerusalem in the Church of the Nativity in Bethlehem.
 <br/><br/>
-En 971 : Battle of Ayn Shams: The Fatimids under Jawhar defeat the Qarmatians at the gates of Cairo, putting an end to the First Qarmatian invasion of Egypt.
+En 1076 : Coronation of Bolesław II the Generous as king of Poland.
 <br/><br/>
-En 759 : Tang dynasty poet Du Fu departs for Chengdu, where he is hosted by fellow poet Pei Di.
+En 1066 : William the Conqueror, Duke of Normandy is crowned king of England, at Westminster Abbey, London.
 <br/><br/>
-En 640 : Pope John IV is elected, several months after his predecessor's death.
+En 1046 : Henry III is crowned Holy Roman Emperor by Pope Clement II.
 <br/><br/>
-En 502 : Chinese emperor Xiao Yan names Xiao Tong his heir designate.
+En 1025 : Coronation of Mieszko II Lambert as king of Poland.
+<br/><br/>
+En 1013 : Sweyn Forkbeard takes control of the Danelaw and is proclaimed king of England.
+<br/><br/>
+En 1000 : The foundation of the Kingdom of Hungary: Hungary is established as a Christian kingdom by Stephen I of Hungary.
+<br/><br/>
+En 820 : Eastern Emperor Leo V is murdered in a church of the Great Palace of Constantinople by followers of Michael II.
+<br/><br/>
+En 800 : The coronation of Charlemagne as Holy Roman Emperor, in Rome.
+<br/><br/>
+En 597 : Augustine of Canterbury and his fellow-labourers baptise in Kent more than 10,000 Anglo-Saxons.
+<br/><br/>
+En 508 : Clovis I, king of the Franks, is baptized into the Catholic faith at Reims, by Saint Remigius.
+<br/><br/>
+En 350 : Vetranio meets Constantius II at Naissus (Serbia) and is forced to abdicate his imperial title. Constantius allows him to live as a private citizen on a state pension.
+<br/><br/>
+En 336 : First documentary sign of Christmas celebration in Rome.
+<br/><br/>
+En 333 : Roman Emperor Constantine the Great elevates his youngest son Constans to the rank of Caesar.
+<br/><br/>
+En 274 : A temple to Sol Invictus is dedicated in Rome by Emperor Aurelian.
+<br/><br/>
+En 36 : Forces of Emperor Guangwu of the Eastern Han, under the command of Wu Han, conquer the separatist Chengjia empire, reuniting China.
 <br/><br/>
