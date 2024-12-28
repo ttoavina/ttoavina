@@ -4,87 +4,81 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/12 ?(Hover on the year)</h1>
+<h1> What happen this day 28/12 ?(Hover on the year)</h1>
 
-En 2019 : Bek Air Flight 2100 crashes during takeoff from Almaty International Airport in Almaty, Kazakhstan, killing 13.
+En 2014 : Indonesia AirAsia Flight 8501 crashes into the Karimata Strait en route from Surabaya to Singapore, killing all 162 people aboard.
 <br/><br/>
-En 2009 : Iranian election protests: On the Day of Ashura in Tehran, Iran, government security forces fire upon demonstrators.
+En 2014 : Nine people die and another 19 are reported missing, when the MS Norman Atlantic catches fire in the Strait of Otranto, in the Adriatic Sea, in Italian waters.
 <br/><br/>
-En 2008 : Operation Cast Lead: Israel launches three-week operation on Gaza.
+En 2009 : Forty-three people die in a suicide bombing in Karachi, Pakistan, where Shia Muslims are observing the Day of Ashura.
 <br/><br/>
-En 2007 : Former Pakistani prime minister Benazir Bhutto is assassinated in a shooting incident.
+En 2006 : War in Somalia: The militaries of Somalia's Transitional Federal Government and Ethiopian troops capture Mogadishu unopposed.
 <br/><br/>
-En 2007 : Riots erupt in Mombasa, Kenya, after Mwai Kibaki is declared the winner of the presidential election, triggering a political, economic, and humanitarian crisis.
+En 1989 : A magnitude 5.6 earthquake hits Newcastle, New South Wales, Australia, killing 13 people.
 <br/><br/>
-En 2004 : Radiation from an explosion on the magnetar SGR 1806-20 reaches Earth. It is the brightest extrasolar event known to have been witnessed on the planet.
+En 1978 : United Airlines Flight 173 crashes in a residential neighborhood near Portland International Airport, killing 10 people.
 <br/><br/>
-En 2002 : Two truck bombs kill 72 and wound 200 at the pro-Moscow headquarters of the Chechen government in Grozny, Chechnya, Russia.
+En 1973 : The United States Endangered Species Act is signed into law by President Richard Nixon.
 <br/><br/>
-En 1999 : Burger King and the U.S. Consumer Product Safety Commission order a recall of plastic Poké Ball containers after they are determined to be a choking hazard.
+En 1972 : The last scheduled day for induction into the military by the Selective Service System. Due to the fact that President Richard Nixon declared this day a national day of mourning due to former President Harry S Truman's death, approximately 300 men were not able to report due to most Federal offices being closed. Since the draft was not resumed in 1973, they were never drafted.
 <br/><br/>
-En 1997 : Protestant paramilitary leader Billy Wright is assassinated in Northern Ireland, United Kingdom.
+En 1967 : American businesswoman Muriel Siebert becomes the first woman to own a seat on the New York Stock Exchange.
 <br/><br/>
-En 1996 : Taliban forces retake the strategic Bagram Airfield which solidifies their buffer zone around Kabul, Afghanistan.
+En 1958 : "Greatest Game Ever Played": The Baltimore Colts defeat the New York Giants in the first ever National Football League sudden death overtime game at New York's Yankee Stadium to win the NFL Championship.
 <br/><br/>
-En 1991 : Scandinavian Airlines System Flight 751 crashes in Gottröra in the Norrtälje Municipality in Sweden, injuring 92.
+En 1956 : Chin Peng, David Marshall and Tunku Abdul Rahman meet in Baling, Malaya to try and resolve the Malayan Emergency situation.
 <br/><br/>
-En 1989 : The Romanian Revolution concludes, as the last minor street confrontations and stray shootings abruptly end in the country's capital, Bucharest.
+En 1948 : The DC-3 airliner NC16002 disappears 80 kilometres (50 mi) south of Miami.
 <br/><br/>
-En 1985 : Palestinian guerrillas kill eighteen people inside the airports of Rome, Italy, and Vienna, Austria.
+En 1944 : Maurice Richard becomes the first player to score eight points in one game of NHL ice hockey.
 <br/><br/>
-En 1983 : Pope John Paul II visits Mehmet Ali Ağca in Rebibbia's prison and personally forgives him for the 1981 attack on him in St. Peter's Square.
+En 1943 : Soviet authorities launch Operation Ulussy, beginning the deportation of the Kalmyk nation to Siberia and Central Asia.
 <br/><br/>
-En 1978 : Spain becomes a democracy after 40 years of fascist dictatorship.
+En 1943 : World War II: After eight days of brutal house-to-house fighting, the Battle of Ortona concludes with the victory of the 1st Canadian Infantry Division over the German 1st Parachute Division and the capture of the Italian town of Ortona.
 <br/><br/>
-En 1968 : Apollo program: Apollo 8 splashes down in the Pacific Ocean, ending the first orbital crewed mission to the Moon.
+En 1941 : World War II: Operation Anthropoid, the plot to assassinate high-ranking Nazi officer Reinhard Heydrich, commences.
 <br/><br/>
-En 1968 : North Central Airlines Flight 458 crashes at O'Hare International Airport, killing 28.
+En 1918 : Constance Markievicz, while detained in Holloway prison, becomes the first woman to be elected Member of Parliament (MP) to the British House of Commons.
 <br/><br/>
-En 1966 : The Cave of Swallows, the largest known cave shaft in the world, is discovered in Aquismón, San Luis Potosí, Mexico.
+En 1912 : The first municipally owned streetcars take to the streets in San Francisco.
 <br/><br/>
-En 1949 : Indonesian National Revolution: The Netherlands officially recognizes Indonesian independence. End of the Dutch East Indies.
+En 1908 : The 7.1 Mw  Messina earthquake shakes Southern Italy with a maximum Mercalli intensity of XI (Extreme), killing between about 80,000.
 <br/><br/>
-En 1945 : The International Monetary Fund is created with the signing of an agreement by 29 nations.
+En 1902 : The Syracuse Athletic Club defeat the New York Philadelphians, 5–0, in the first indoor professional football game, which was held at Madison Square Garden.
 <br/><br/>
-En 1939 : The 7.8 Mw  Erzincan earthquake shakes eastern Turkey with a maximum Mercalli intensity of XI (Extreme). At least 32,700 people were killed.
+En 1895 : The Lumière brothers perform for their first paying audience at the Grand Cafe in Boulevard des Capucines.
 <br/><br/>
-En 1939 : Winter War: Finland holds off a Soviet attack in the Battle of Kelja.
+En 1895 : Wilhelm Röntgen publishes a paper detailing his discovery of a new type of radiation, which later will be known as x-rays.
 <br/><br/>
-En 1935 : Regina Jonas is ordained as the first female rabbi in the history of Judaism.
+En 1885 : Indian National Congress, a political party of India, is founded in Bombay Presidency, British India.
 <br/><br/>
-En 1932 : Radio City Music Hall, "Showplace of the Nation", opens in New York City.
+En 1879 : Tay Bridge disaster: The central part of the Tay Rail Bridge in Dundee, Scotland, United Kingdom collapses as a train passes over it, killing 75.
 <br/><br/>
-En 1929 : Soviet General Secretary Joseph Stalin orders the "liquidation of the kulaks as a class".
+En 1846 : Iowa is admitted as the 29th U.S. state.
 <br/><br/>
-En 1927 : Kern and Hammerstein's musical play Show Boat, considered to be the first true American musical play, opens at the Ziegfeld Theatre on Broadway.
+En 1836 : South Australia and Adelaide are founded.
 <br/><br/>
-En 1922 : Japanese aircraft carrier Hōshō becomes the first purpose-built aircraft carrier to be commissioned in the world.
+En 1836 : Spain recognizes the independence of Mexico with the signing of the Santa María–Calatrava Treaty.
 <br/><br/>
-En 1918 : The Great Poland Uprising against the Germans begins.
+En 1835 : Osceola leads his Seminole warriors in Florida into the Second Seminole War against the United States Army.
 <br/><br/>
-En 1918 : Ukrainian War of Independence: The Revolutionary Insurgent Army of Ukraine occupies Yekaterinoslav and seizes seven airplanes from the UPRAF, establishing an Insurgent Air Fleet.
+En 1832 : John C. Calhoun becomes the first Vice President of the United States to resign. He resigned after being elected Senator from South Carolina.
 <br/><br/>
-En 1911 : "Jana Gana Mana", the national anthem of India, is first sung in the Calcutta Session of the Indian National Congress.
+En 1795 : Construction of Yonge Street, formerly recognized as the longest street in the world, begins in York, Upper Canada (present-day Toronto).
 <br/><br/>
-En 1845 : Ether anesthetic is used for childbirth for the first time by Dr. Crawford Long in Jefferson, Georgia.
+En 1768 : King Taksin's coronation achieved through conquest as a king of Thailand and established Thonburi as a capital.
 <br/><br/>
-En 1845 : Having coined the phrase "manifest destiny" the previous July, journalist John L. O'Sullivan argued in his newspaper New York Morning News that the United States had the right to claim the entire Oregon Country.
+En 1659 : The Marathas defeat the Adilshahi forces in the Battle of Kolhapur.
 <br/><br/>
-En 1836 : The worst ever avalanche in England occurs at Lewes, Sussex, killing eight people.
+En 1308 : The reign of Emperor Hanazono of Japan begins.
 <br/><br/>
-En 1831 : Charles Darwin embarks on his journey aboard HMS Beagle, during which he will begin to formulate his theory of evolution.
+En 1065 : Edward the Confessor's Romanesque monastic church at Westminster Abbey is consecrated.
 <br/><br/>
-En 1814 : War of 1812: The destruction of the schooner USS Carolina brings to an end Commodore Daniel Patterson's makeshift fleet, which fought a series of delaying actions that contributed to Andrew Jackson's victory at the Battle of New Orleans.
+En 893 : An earthquake destroys the city of Dvin, Armenia.
 <br/><br/>
-En 1703 : Portugal and England sign the Methuen Treaty which allows Portugal to export wines to England on favorable trade terms.
+En 484 : Alaric II succeeds his father Euric and becomes king of the Visigoths. He establishes his capital at Aire-sur-l'Adour (Southern Gaul).
 <br/><br/>
-En 1657 : The Flushing Remonstrance articulates for the first time in North American history that freedom of religion is a fundamental right.
+En 457 : Majorian is acclaimed as Western Roman emperor.
 <br/><br/>
-En 1655 : Second Northern War/the Deluge: Monks at the Jasna Góra Monastery in Częstochowa are successful in fending off a month-long siege.
-<br/><br/>
-En 1521 : The Zwickau prophets arrive in Wittenberg, disturbing the peace and preaching the Apocalypse.
-<br/><br/>
-En 1512 : The Spanish Crown issues the Laws of Burgos, governing the conduct of settlers with regard to native Indians in the New World.
-<br/><br/>
-En 537 : The second Hagia Sophia in Constantinople is consecrated.
+En 418 : A papal election begins, resulting in the election of Pope Boniface I.
 <br/><br/>
