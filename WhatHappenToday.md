@@ -4,81 +4,111 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 2/1 ?(Hover on the year)</h1>
+<h1> What happen this day 3/1 ?(Hover on the year)</h1>
 
-En 2024 : Two aircraft collide on a runway at Haneda Airport in Tokyo, killing 5 and injuring 15.
+En 2024 : At least 91 people are killed in bombings in Kerman, Iran, during a ceremony commemorating the assassination of Iranian General Qasem Soleimani 4 years ago.
 <br/><br/>
-En 2022 : Massive nationwide protests and unrest break out in Kazakhstan over the sudden increase of liquefied petroleum gas prices, leaving over 200 people dead and thousands injured.
+En 2023 : Singapore's Jurong Bird Park permanently closes.
 <br/><br/>
-En 2019 : Adventist Health System and its subsidiaries rebranded to AdventHealth.
+En 2020 : Iranian General Qasem Soleimani is killed by an American airstrike near Baghdad International Airport, igniting global concerns of a potential armed conflict.
 <br/><br/>
-En 2004 : Stardust successfully flies past Comet Wild 2, collecting samples that are returned to Earth.
+En 2019 : Chang'e 4 makes the first soft landing on the far side of the Moon, deploying the Yutu-2 lunar rover.
 <br/><br/>
-En 1993 : Sri Lankan Civil War: The Sri Lanka Navy kill 35–100 civilians on the Jaffna Lagoon.
+En 2018 : For the first time in history, all five major storm surge gates in the Netherlands are closed simultaneously in the wake of a storm.
 <br/><br/>
-En 1991 : Sharon Pratt Dixon becomes the first African American woman mayor of a major city and first woman Mayor of the District of Columbia.
+En 2016 : In response to the execution of Nimr al-Nimr, Iran ends its diplomatic relations with Saudi Arabia.
 <br/><br/>
-En 1988 : Condor Flugdienst Flight 3782 crashes near Seferihisar, Turkey, killing 16 people.
+En 2015 : Boko Haram militants destroy the entire town of Baga in north-east Nigeria, starting the Baga massacre and killing as many as 2,000 people.
 <br/><br/>
-En 1981 : One of the largest investigations by a British police force ends when serial killer Peter Sutcliffe, the "Yorkshire Ripper", is arrested in Sheffield, South Yorkshire.
+En 2009 : The first block of the blockchain of the decentralized payment system Bitcoin, called the Genesis block, is established by the creator of the system, Satoshi Nakamoto.
 <br/><br/>
-En 1978 : On the orders of the President of Pakistan, Muhammad Zia-ul-Haq, paramilitary forces opened fire on peaceful protesting workers in Multan, Pakistan; it is known as 1978 massacre at Multan Colony Textile Mills.
+En 2004 : Flash Airlines Flight 604 crashes into the Red Sea, resulting in 148 deaths, making it one of the deadliest aviation accidents in Egyptian history.
 <br/><br/>
-En 1976 : The Gale of January 1976 begins, resulting in coastal flooding around the southern North Sea coasts, affecting countries from Ireland to Yugoslavia and causing at least 82 deaths and US$1.3 billion in damage.
+En 2002 : Israeli–Palestinian conflict: Israeli forces seize the Palestinian freighter Karine A in the Red Sea, finding 50 tons of weapons.
 <br/><br/>
-En 1975 : At the opening of a new railway line, a bomb blast at Samastipur, Bihar, India, fatally wounds Lalit Narayan Mishra, Minister of Railways.
+En 1999 : The Mars Polar Lander is launched by NASA.
 <br/><br/>
-En 1975 : The Federal Rules of Evidence are approved by the United States Congress.
+En 1994 : Baikal Airlines Flight 130 crashes near Mamoney, Irkutsk, Russia, resulting in 125 deaths.
 <br/><br/>
-En 1974 : United States President Richard Nixon signs a bill lowering the maximum U.S. speed limit to 55 mph in order to conserve gasoline during an OPEC embargo.
+En 1993 : In Moscow, Russia, George H. W. Bush and Boris Yeltsin sign the second Strategic Arms Reduction Treaty (START).
 <br/><br/>
-En 1971 : The second Ibrox disaster kills 66 fans at a Rangers-Celtic association football (soccer) match.
+En 1992 : CommutAir Flight 4821 crashes on approach to Adirondack Regional Airport, in Saranac Lake, New York, killing two people.
 <br/><br/>
-En 1967 : Ronald Reagan, past movie actor and future President of the United States, is sworn in as Governor of California.
+En 1990 : United States invasion of Panama: Manuel Noriega, former leader of Panama, surrenders to American forces.
 <br/><br/>
-En 1963 : Vietnam War: The Viet Cong wins its first major victory, at the Battle of Ap Bac.
+En 1987 : Varig Flight 797 crashes near Akouré in the Ivory Coast, resulting in 50 deaths.
 <br/><br/>
-En 1959 : Luna 1, the first spacecraft to reach the vicinity of the Moon and to orbit the Sun, is launched by the Soviet Union.
+En 1977 : Apple Computer is incorporated.
 <br/><br/>
-En 1955 : Following the assassination of the Panamanian president José Antonio Remón Cantera, his deputy, José Ramón Guizado, takes power, but is quickly deposed after his involvement in Cantera's death is discovered.
+En 1976 : The International Covenant on Economic, Social and Cultural Rights, adopted by the United Nations General Assembly, comes into force.
 <br/><br/>
-En 1954 : India establishes its highest civilian awards, the Bharat Ratna and the Padma Vibhushan.
+En 1962 : Pope John XXIII excommunicates Fidel Castro.
 <br/><br/>
-En 1949 : Luis Muñoz Marín is inaugurated as the first democratically elected Governor of Puerto Rico.
+En 1961 : Cold War: After a series of economic retaliations against one another, the United States severs diplomatic relations with Cuba.
 <br/><br/>
-En 1942 : The Federal Bureau of Investigation (FBI) obtains the conviction of 33 members of a German spy ring headed by Fritz Joubert Duquesne in the largest espionage case in United States history; Also known as the Duquesne Spy Ring.
+En 1961 : The SL-1 nuclear reactor, near Idaho Falls, Idaho, is destroyed by a steam explosion in the only reactor incident in the United States to cause immediate fatalities.
 <br/><br/>
-En 1942 : World War II: Manila is captured by Japanese forces, enabling them to control the Philippines.
+En 1961 : A protest by agricultural workers in Baixa de Cassanje, Portuguese Angola, turns into a revolt, opening the Angolan War of Independence, the first of the Portuguese Colonial Wars.
 <br/><br/>
-En 1941 : World War II: The Cardiff Blitz severely damages the cathedral in Cardiff, Wales.
+En 1961 : Aero Flight 311 crashes into the forest in Kvevlax, Finland, killing 25 people.
 <br/><br/>
-En 1921 : World premiere of the science fiction play R.U.R. by the Czech writer Karel Čapek in a theater in Hradec Králové.
+En 1959 : Alaska is admitted as the 49th U.S. state.
 <br/><br/>
-En 1920 : The second Palmer Raid, ordered by the US Department of Justice, results in 6,000 suspected communists and anarchists being arrested and held without trial.
+En 1958 : The West Indies Federation is formed.
 <br/><br/>
-En 1900 : American statesman and diplomat John Hay announces the Open Door Policy to promote trade with China.
+En 1957 : The Hamilton Watch Company introduces the first electric watch.
 <br/><br/>
-En 1900 : Chicago Canal opens.
+En 1956 : A fire damages the top part of the Eiffel Tower.
 <br/><br/>
-En 1865 : Uruguayan War: The Siege of Paysandú ends as the Brazilians and Coloradans capture Paysandú, Uruguay.
+En 1953 : Frances P. Bolton and her son, Oliver from Ohio, become the first mother and son to serve simultaneously in the U.S. Congress.
 <br/><br/>
-En 1863 : American Civil War: The three-day Battle of Stones River ends in a Union victory when the Confederate Army of Tennessee under General Braxton Bragg are repulsed for the final time by the Army of the Cumberland under General William S. Rosecrans.
+En 1949 : The Bangko Sentral ng Pilipinas, the central bank of the Philippines, is established.
 <br/><br/>
-En 1818 : The British Institution of Civil Engineers is founded by a group of six engineers; Thomas Telford would later become its first president.
+En 1947 : Proceedings of the U.S. Congress are televised for the first time.
 <br/><br/>
-En 1791 : Northwest Indian War: The Big Bottom massacre is committed by Lenape and Wyandot warriors in the Ohio Country, North America.
+En 1946 : Popular Canadian American jockey George Woolf suffers a concussion during a freak racing accident; he dies from the injury the following day. The annual George Woolf Memorial Jockey Award is created to honor him.
 <br/><br/>
-En 1788 : Georgia becomes the fourth state to ratify the United States Constitution.
+En 1944 : World War II: US flying ace Major Greg "Pappy" Boyington is shot down in his Vought F4U Corsair by Captain Masajiro Kawato flying a Mitsubishi A6M Zero.
 <br/><br/>
-En 1777 : American Revolutionary War: American forces under the command of General George Washington repulse a British attack led by General Charles Cornwallis at the Battle of the Assunpink Creek near Trenton, New Jersey.
+En 1933 : Minnie D. Craig becomes the first woman elected as Speaker of the North Dakota House of Representatives, the first woman to hold a Speaker position anywhere in the United States.
 <br/><br/>
-En 1680 : Trunajaya rebellion: Amangkurat II of Mataram and his bodyguards execute the rebel leader Trunajaya.
+En 1920 : Over 640 are killed after a magnitude 6.4 earthquake strikes the Mexican states Puebla and Veracruz.
 <br/><br/>
-En 1492 : Reconquista: The Emirate of Granada, the last Moorish stronghold in Spain, surrenders.
+En 1913 : An Atlantic coast storm sets the lowest confirmed barometric pressure reading (955.0 mb (28.20 inHg)) for a non-tropical system in the continental United States.
 <br/><br/>
-En 533 : Mercurius becomes Pope John II, the first pope to adopt a new name upon elevation to the papacy.
+En 1913 : First Balkan War: Greece completes its capture of the eastern Aegean island of Chios, as the last Ottoman forces on the island surrender.
 <br/><br/>
-En 366 : The Alemanni cross the frozen Rhine in large numbers, invading the Roman Empire.
+En 1911 : A magnitude 7.7 earthquake destroys the city of Almaty in Russian Turkestan.
 <br/><br/>
-En 69 : The Roman legions in Germania Superior refuse to swear loyalty to Galba. They rebel and proclaim Vitellius as emperor.
+En 1911 : A gun battle in the East End of London leaves two dead. It sparked a political row over the involvement of then-Home Secretary Winston Churchill.
+<br/><br/>
+En 1885 : Sino-French War: Beginning of the Battle of Núi Bop.
+<br/><br/>
+En 1871 : In the Battle of Bapaume, an engagement in the Franco-Prussian War, General Louis Faidherbe's forces bring about a Prussian retreat.
+<br/><br/>
+En 1870 : Construction work begins on the Brooklyn Bridge in New York, United States.
+<br/><br/>
+En 1868 : Meiji Restoration in Japan: The Tokugawa shogunate is abolished; agents of Satsuma and Chōshū seize power.
+<br/><br/>
+En 1861 : American Civil War: Delaware votes not to secede from the United States.
+<br/><br/>
+En 1848 : Joseph Jenkins Roberts is sworn in as the first president of Liberia.
+<br/><br/>
+En 1833 : Captain James Onslow, in the Clio, reasserts British sovereignty over the Falkland Islands.
+<br/><br/>
+En 1815 : Austria, the United Kingdom, and France form a secret defensive alliance against Prussia and Russia.
+<br/><br/>
+En 1777 : American Revolutionary War: American forces under General George Washington defeat British forces at the Battle of Princeton, helping boost patriot morale.
+<br/><br/>
+En 1749 : Benning Wentworth issues the first of the New Hampshire Grants, leading to the establishment of Vermont.
+<br/><br/>
+En 1749 : The first issue of Berlingske, Denmark's oldest continually operating newspaper, is published.
+<br/><br/>
+En 1653 : By the Coonan Cross Oath, the Eastern Church in India cuts itself off from colonial Portuguese tutelage.
+<br/><br/>
+En 1521 : Pope Leo X excommunicates Martin Luther in the papal bull Decet Romanum Pontificem.
+<br/><br/>
+En 250 : Emperor Decius orders everyone in the Roman Empire (except Jews) to make sacrifices to the Roman gods.
+<br/><br/>
+En 69 : The Roman legions on the Rhine refuse to declare their allegiance to Galba, instead proclaiming their legate, Aulus Vitellius, as emperor.
 <br/><br/>
