@@ -4,117 +4,115 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 8/1 ?(Hover on the year)</h1>
+<h1> What happen this day 9/1 ?(Hover on the year)</h1>
 
-En 2023 : Supporters of former Brazil president Jair Bolsonaro storm the Brazilian Congress.
+En 2021 : Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.
 <br/><br/>
-En 2021 : Twenty-three people are killed in what is described as a police ″massacre″ in La Vega, Caracas, Venezuela.
+En 2015 : The perpetrators of the Charlie Hebdo shooting in Paris two days earlier are both killed after a hostage situation; a second hostage situation, related to the Charlie Hebdo shooting, occurs at a Jewish market in Vincennes.
 <br/><br/>
-En 2020 : Ukraine International Airlines Flight 752 crashes immediately after takeoff at Tehran Imam Khomeini International Airport; all 176 on board are killed. The plane was shot down by an Iranian anti-aircraft missile.
+En 2015 : A mass poisoning at a funeral in Mozambique involving beer that was contaminated with Burkholderia gladioli leaves 75 dead and over 230 people ill.
 <br/><br/>
-En 2016 : Joaquín Guzmán, widely regarded as the world's most powerful drug trafficker, is recaptured following his escape from a maximum security prison in Mexico.
+En 2014 : An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others.
 <br/><br/>
-En 2016 : West Air Sweden Flight 294 crashes near the Swedish reservoir of Akkajaure; both pilots, the only people on board, are killed.
+En 2011 : Iran Air Flight 277 crashes near Urmia in the northwest of the country, in icy conditions, killing 78 people.
 <br/><br/>
-En 2011 : Sitting US Congresswoman Gabby Giffords is shot in the head along with 18 others in a mass shooting in Tucson, Arizona. Giffords survived the assassination attempt, but six others died, including John Roll, a federal judge.
+En 2007 : Apple CEO Steve Jobs introduces the original iPhone at a Macworld keynote in San Francisco.
 <br/><br/>
-En 2010 : Gunmen from an offshoot of the Front for the Liberation of the Enclave of Cabinda attack a bus carrying the Togo national football team on its way to the 2010 Africa Cup of Nations, killing three people and injuring another nine.
+En 2005 : Mahmoud Abbas wins the election to succeed Yasser Arafat as President of the Palestinian National Authority, replacing interim president Rawhi Fattouh.
 <br/><br/>
-En 2009 : A 6.1-magnitude earthquake in northern Costa Rica kills 15 people and injures 32.
+En 2005 : The Sudan People's Liberation Movement and the Government of Sudan sign the Comprehensive Peace Agreement to end the Second Sudanese Civil War.
 <br/><br/>
-En 2005 : The nuclear sub USS San Francisco collides at full speed with an undersea mountain south of Guam. One man is killed, but the sub surfaces and is repaired.
+En 2004 : An inflatable boat carrying illegal Albanian emigrants stalls near the Karaburun Peninsula en route to Brindisi, Italy; exposure to the elements kills 28. This is the second deadliest marine disaster in Albanian history.
 <br/><br/>
-En 2004 : The RMS Queen Mary 2, then the largest ocean liner ever built, is christened by her namesake's granddaughter, Queen Elizabeth II.
+En 2003 : TANS Perú Flight 222 crashes on approach to Chachapoyas Airport in Chachapoyas, Peru, killing 46 people.
 <br/><br/>
-En 2003 : Turkish Airlines Flight 634 crashes near Diyarbakır Airport, Turkey, killing the entire crew and 70 of the 75 passengers.
+En 1997 : Comair Flight 3272 crashes in Raisinville Township in Monroe County, Michigan, killing 29 people.
 <br/><br/>
-En 2003 : Air Midwest Flight 5481 crashes at Charlotte-Douglas Airport, in Charlotte, North Carolina, killing all 21 people on board.
+En 1996 : First Chechen War: Chechen separatists launch a raid against the helicopter airfield and later a civilian hospital in the city of Kizlyar in the neighboring Dagestan, which turns into a massive hostage crisis involving thousands of civilians.
 <br/><br/>
-En 2002 : President of the United States George W. Bush signs into law the No Child Left Behind Act.
+En 1992 : The Assembly of the Serb People in Bosnia and Herzegovina proclaims the creation of Republika Srpska, a new state within Yugoslavia.
 <br/><br/>
-En 1996 : An Antonov An-32 cargo aircraft crashes into a crowded market in Kinshasa, Zaire, killing up to 223 people on the ground; two of six crew members are also killed.
+En 1992 : The first discoveries of extrasolar planets are announced by astronomers Aleksander Wolszczan and Dale Frail. They discovered two planets orbiting the pulsar PSR 1257+12.
 <br/><br/>
-En 1994 : Russian cosmonaut Valeri Polyakov on Soyuz TM-18 leaves for Mir. He would stay on the space station until March 22, 1995, for a record 437 days in space.
+En 1991 : Representatives from the United States and Iraq meet at the Geneva Peace Conference to try to find a peaceful resolution to the Iraqi invasion of Kuwait.
 <br/><br/>
-En 1989 : Kegworth air disaster: British Midland Flight 92, a Boeing 737-400, crashes into the M1 motorway, killing 47 of the 126 people on board.
+En 1964 : Martyrs' Day: Several Panamanian youths try to raise the Panamanian flag in the U.S.-controlled Panama Canal Zone, leading to fighting between U.S. military and Panamanian civilians.
 <br/><br/>
-En 1982 : Breakup of the Bell System: In the United States, AT&T agrees to divest itself of twenty-two subdivisions.
+En 1962 : Apollo program: NASA announces plans to build the C-5 rocket launch vehicle, then known as the "Advanced Saturn", to carry human beings to the Moon.
 <br/><br/>
-En 1981 : A local farmer reports a UFO sighting in Trans-en-Provence, France, claimed to be "perhaps the most completely and carefully documented sighting of all time".
+En 1961 : British authorities announce they have uncovered the Soviet Portland spy ring in London.
 <br/><br/>
-En 1977 : Three bombs explode in Moscow, Russia, Soviet Union, within 37 minutes, killing seven. The bombings are attributed to an Armenian separatist group.
+En 1960 : President of Egypt Gamal Abdel Nasser opens construction on the Aswan Dam by detonating ten tons of dynamite to demolish twenty tons of granite on the east bank of the Nile.
 <br/><br/>
-En 1975 : Ella T. Grasso becomes Governor of Connecticut, the first woman to serve as a Governor in the United States other than by succeeding her husband.
+En 1959 : The Vega de Tera dam fails, triggering a disastrous flood that nearly destroys the town of Ribadelago and kills 144 residents.
 <br/><br/>
-En 1973 : Soviet space mission Luna 21 is launched.
+En 1957 : British Prime Minister Sir Anthony Eden resigns from office following his failure to retake the Suez Canal from Egyptian sovereignty.
 <br/><br/>
-En 1973 : Watergate scandal: The trial of seven men accused of illegal entry into Democratic Party headquarters at Watergate begins.
+En 1945 : World War II: The Sixth United States Army begins the invasion of Lingayen Gulf.
 <br/><br/>
-En 1972 : Bowing to international pressure, President of Pakistan Zulfikar Ali Bhutto releases Bengali leader Sheikh Mujibur Rahman from prison, who had been arrested after declaring the independence of Bangladesh.
+En 1941 : World War II: First flight of the Avro Lancaster.
 <br/><br/>
-En 1964 : President Lyndon B. Johnson declares a "War on Poverty" in the United States.
+En 1927 : A fire at the Laurier Palace movie theatre in Montreal, Quebec, Canada, kills 78 children.
 <br/><br/>
-En 1961 : In France a referendum supports Charles de Gaulle's policies in Algeria.
+En 1923 : Juan de la Cierva makes the first autogyro flight.
 <br/><br/>
-En 1959 : Charles de Gaulle is proclaimed as the first President of the French Fifth Republic.
+En 1923 : Lithuanian residents of the Memel Territory rebel against the League of Nations' decision to leave the area as a mandated region under French control.
 <br/><br/>
-En 1956 : Operation Auca: Five U.S. missionaries are killed by the Waorani of Ecuador shortly after making first contact.
+En 1921 : Greco-Turkish War: The First Battle of İnönü, the first battle of the war, begins near Eskişehir in Anatolia.
 <br/><br/>
-En 1946 : Andrei Zhdanov, Chairman of the Finnish Allied Commission, submitted to the Finnish War Criminal Court an interrogation report by General Erich Buschenhagen, a German prisoner of war, on the contacts between Finnish and German military personnel before the Continuation War and a copy of Hitler's Barbarossa plan.
+En 1920 : Ukrainian War of Independence: The All-Ukrainian Central Executive Committee outlaws the Makhnovshchina by decree, igniting the Bolshevik–Makhnovist conflict.
 <br/><br/>
-En 1945 : World War II: Philippine Commonwealth troops under the Philippine Commonwealth Army units enter the province of Ilocos Sur in Northern Luzon and attack invading Japanese Imperial forces.
+En 1918 : Battle of Bear Valley: The last battle of the American Indian Wars.
 <br/><br/>
-En 1940 : World War II: Britain introduces food rationing.
+En 1917 : World War I: The Battle of Rafa is fought near the Egyptian border with Palestine.
 <br/><br/>
-En 1936 : Kashf-e hijab decree is made and immediately enforced by Reza Shah, Iran's head of state, banning the wearing of Islamic veils in public.
+En 1916 : World War I: The Battle of Gallipoli concludes with an Ottoman Empire victory when the last Allied forces are evacuated from the peninsula.
 <br/><br/>
-En 1933 : Anarchist insurrection of January 1933 breaks out in Barcelona, Spain.
+En 1914 : The Phi Beta Sigma fraternity is founded by African-American students at Howard University in Washington D.C., United States.
 <br/><br/>
-En 1926 : Crown Prince Nguyễn Phúc Vĩnh Thuỵ is crowned emperor of Vietnam, the country's last monarch.
+En 1909 : Ernest Shackleton, leading the Nimrod Expedition to the South Pole, plants the British flag 97 nautical miles (180 km; 112 mi) from the South Pole, the farthest anyone had ever reached at that time.
 <br/><br/>
-En 1926 : Abdul-Aziz ibn Saud is crowned King of Hejaz.
+En 1903 : Hallam Tennyson, 2nd Baron Tennyson, son of the poet Alfred Tennyson, becomes the second Governor-General of Australia.
 <br/><br/>
-En 1920 : The steel strike of 1919 ends in failure for the Amalgamated Association of Iron, Steel and Tin Workers labor union.
+En 1878 : Umberto I becomes King of Italy.
 <br/><br/>
-En 1918 : U.S. President Woodrow Wilson announces his "Fourteen Points" as conditions for ending World War I.
+En 1861 : American Civil War: "Star of the West" incident occurs near Charleston, South Carolina.
 <br/><br/>
-En 1912 : The African National Congress is founded, under the name South African Native National Congress (SANNC).
+En 1861 : Mississippi becomes the second state to secede from the Union before the outbreak of the American Civil War.
 <br/><br/>
-En 1900 : President William McKinley  places Alaska under military rule.
+En 1858 : British forces finally defeat Rajab Ali Khan of Chittagong
 <br/><br/>
-En 1889 : Herman Hollerith is issued US patent #395,791 for the 'Art of Applying Statistics' — his punched card calculator.
+En 1857 : The 7.9 Mw  Fort Tejon earthquake shakes Central and Southern California with a maximum Mercalli intensity of IX (Violent).
 <br/><br/>
-En 1877 : Crazy Horse and his warriors fight their last battle against the United States Cavalry at Wolf Mountain, Montana Territory.
+En 1839 : The French Academy of Sciences announces the Daguerreotype photography process.
 <br/><br/>
-En 1867 : The United States Congress passes the bill to allow African American men the right to vote in Washington, D.C.
+En 1822 : The Portuguese prince Pedro I of Brazil decides to stay in Brazil against the orders of the Portuguese King João VI, beginning the Brazilian independence process.
 <br/><br/>
-En 1863 : American Civil War: Second Battle of Springfield.
+En 1816 : Humphry Davy tests his safety lamp for miners at Hebburn Colliery.
 <br/><br/>
-En 1835 : US President Andrew Jackson announces a celebratory dinner after having reduced the United States national debt to zero for the only time.
+En 1806 : Admiral Horatio Lord Nelson receives a state funeral and is interred in St Paul's Cathedral.
 <br/><br/>
-En 1828 : The Democratic Party of the United States is organized.
+En 1799 : British Prime Minister William Pitt the Younger introduces an income tax of two shillings to the pound to raise funds for Great Britain's war effort in the Napoleonic Wars.
 <br/><br/>
-En 1815 : War of 1812: Battle of New Orleans: Andrew Jackson leads American forces in victory over the British.
+En 1793 : Jean-Pierre Blanchard becomes the first person to fly in a balloon in the United States.
 <br/><br/>
-En 1811 : Charles Deslondes leads an unsuccessful slave revolt in the North American settlements of St. Charles and St. James, Louisiana.
+En 1792 : Treaty of Jassy between Russian and Ottoman Empire is signed, ending the Russo-Turkish War of 1787–92.
 <br/><br/>
-En 1806 : The Dutch Cape Colony in southern Africa becomes the British Cape Colony as a result of the Battle of Blaauwberg.
+En 1788 : Connecticut becomes the fifth state to ratify the United States Constitution.
 <br/><br/>
-En 1790 : George Washington delivers the first State of the Union address in New York City.
+En 1787 : The nationally known image of the Black Nazarene in the Philippines was transferred from what is now Rizal Park to its present shrine in the minor basilica of Quiapo Church. This is annually commemorated through its Traslación (solemn transfer) in the streets of Manila and is attended by millions of devotees.
 <br/><br/>
-En 1746 : Second Jacobite rising: Bonnie Prince Charlie occupies Stirling.
+En 1760 : Ahmad Shah Durrani defeats the Marathas in the Battle of Barari Ghat.
 <br/><br/>
-En 1735 : The premiere of George Frideric Handel's Ariodante takes place at the Royal Opera House, Covent Garden.
+En 1693 : Sicily earthquake: The first of two earthquakes destroys parts of Sicily and Malta. After the second quake on 11 January, the death toll is estimated at between 60,000 and 100,000 people.
 <br/><br/>
-En 1547 : The first Lithuanian-language book, the Catechism of Martynas Mažvydas, is published in Königsberg.
+En 1431 : The trial of Joan of Arc begins in Rouen.
 <br/><br/>
-En 1499 : Louis XII of France marries Anne of Brittany in accordance with a law set by his predecessor, Charles VIII.
+En 1349 : The Jewish population of Basel, believed by the residents to be the cause of the ongoing Black Death, is rounded up and incinerated.
 <br/><br/>
-En 1454 : The papal bull Romanus Pontifex awards the Kingdom of Portugal exclusive trade and colonization rights to all of Africa south of Cape Bojador.
+En 1127 : Jin–Song Wars: Invading Jurchen soldiers from the Jin dynasty besiege and sack Bianjing (Kaifeng), the capital of the Song dynasty of China, and abduct Emperor Qinzong of Song and others, ending the Northern Song period.
 <br/><br/>
-En 1297 : François Grimaldi, disguised as a monk, leads his men to capture the fortress protecting the Rock of Monaco, establishing his family as the rulers of Monaco.
+En 1038 : An earthquake in Dingxiang, China kills an estimated 32,300.
 <br/><br/>
-En 871 : Æthelred I and Alfred the Great lead a West Saxon army to repel an invasion by Danelaw Vikings.
-<br/><br/>
-En 307 : Sima Chi becomes emperor of the Jin dynasty in succession to his father, Sima Zhong, despite a challenge from his uncle, Sima Ying.
+En 681 : Twelfth Council of Toledo: King Erwig of the Visigoths initiates a council in which he implements diverse measures against the Jews in Spain.
 <br/><br/>
