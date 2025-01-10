@@ -4,115 +4,83 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 9/1 ?(Hover on the year)</h1>
+<h1> What happen this day 10/1 ?(Hover on the year)</h1>
 
-En 2021 : Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.
+En 2019 : A 13-year-old American girl, Jayme Closs, is found alive in Gordon, Wisconsin, having been kidnapped 88 days earlier from her parents' home whilst they were murdered.
 <br/><br/>
-En 2015 : The perpetrators of the Charlie Hebdo shooting in Paris two days earlier are both killed after a hostage situation; a second hostage situation, related to the Charlie Hebdo shooting, occurs at a Jewish market in Vincennes.
+En 2015 : A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, killing at least 62 people.
 <br/><br/>
-En 2015 : A mass poisoning at a funeral in Mozambique involving beer that was contaminated with Burkholderia gladioli leaves 75 dead and over 230 people ill.
+En 2013 : More than 100 people are killed and 270 injured in several bomb blasts in the Quetta area of Pakistan.
 <br/><br/>
-En 2014 : An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others.
+En 2012 : A bombing at Jamrud in Pakistan, kills at least 30 people and injures 78 others.
 <br/><br/>
-En 2011 : Iran Air Flight 277 crashes near Urmia in the northwest of the country, in icy conditions, killing 78 people.
+En 2007 : A general strike begins in Guinea in an attempt to get President Lansana Conté to resign.
 <br/><br/>
-En 2007 : Apple CEO Steve Jobs introduces the original iPhone at a Macworld keynote in San Francisco.
+En 2000 : Crossair Flight 498, a Saab 340 aircraft, crashes in Niederhasli, Switzerland, after taking off from Zurich Airport, killing 13 people.
 <br/><br/>
-En 2005 : Mahmoud Abbas wins the election to succeed Yasser Arafat as President of the Palestinian National Authority, replacing interim president Rawhi Fattouh.
+En 1990 : Time Warner is formed by the merger of Time Inc. and Warner Communications.
 <br/><br/>
-En 2005 : The Sudan People's Liberation Movement and the Government of Sudan sign the Comprehensive Peace Agreement to end the Second Sudanese Civil War.
+En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.
 <br/><br/>
-En 2004 : An inflatable boat carrying illegal Albanian emigrants stalls near the Karaburun Peninsula en route to Brindisi, Italy; exposure to the elements kills 28. This is the second deadliest marine disaster in Albanian history.
+En 1984 : Holy See–United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
 <br/><br/>
-En 2003 : TANS Perú Flight 222 crashes on approach to Chachapoyas Airport in Chachapoyas, Peru, killing 46 people.
+En 1981 : Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments
 <br/><br/>
-En 1997 : Comair Flight 3272 crashes in Raisinville Township in Monroe County, Michigan, killing 29 people.
+En 1980 : The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.
 <br/><br/>
-En 1996 : First Chechen War: Chechen separatists launch a raid against the helicopter airfield and later a civilian hospital in the city of Kizlyar in the neighboring Dagestan, which turns into a massive hostage crisis involving thousands of civilians.
+En 1972 : Sheikh Mujibur Rahman returns to the newly independent Bangladesh as president after spending over nine months in prison in Pakistan.
 <br/><br/>
-En 1992 : The Assembly of the Serb People in Bosnia and Herzegovina proclaims the creation of Republika Srpska, a new state within Yugoslavia.
+En 1966 : Tashkent Declaration, a peace agreement between India and Pakistan signed that resolved the Indo-Pakistani War of 1965.
 <br/><br/>
-En 1992 : The first discoveries of extrasolar planets are announced by astronomers Aleksander Wolszczan and Dale Frail. They discovered two planets orbiting the pulsar PSR 1257+12.
+En 1954 : BOAC Flight 781, a de Havilland DH.106 Comet 1, explodes and falls into the Tyrrhenian Sea, killing 35 people.
 <br/><br/>
-En 1991 : Representatives from the United States and Iraq meet at the Geneva Peace Conference to try to find a peaceful resolution to the Iraqi invasion of Kuwait.
+En 1946 : The first General Assembly of the United Nations assembles in the Methodist Central Hall, Westminster. Fifty-one nations are represented.
 <br/><br/>
-En 1964 : Martyrs' Day: Several Panamanian youths try to raise the Panamanian flag in the U.S.-controlled Panama Canal Zone, leading to fighting between U.S. military and Panamanian civilians.
+En 1946 : The United States Army Signal Corps successfully conducts Project Diana, bouncing radio waves off the Moon and receiving the reflected signals.
 <br/><br/>
-En 1962 : Apollo program: NASA announces plans to build the C-5 rocket launch vehicle, then known as the "Advanced Saturn", to carry human beings to the Moon.
+En 1941 : World War II: The Greek army captures Kleisoura.
 <br/><br/>
-En 1961 : British authorities announce they have uncovered the Soviet Portland spy ring in London.
+En 1927 : Fritz Lang's futuristic film Metropolis is released in Germany.
 <br/><br/>
-En 1960 : President of Egypt Gamal Abdel Nasser opens construction on the Aswan Dam by detonating ten tons of dynamite to demolish twenty tons of granite on the east bank of the Nile.
+En 1920 : The Treaty of Versailles takes effect, officially ending World War I for all combatant nations except the United States.
 <br/><br/>
-En 1959 : The Vega de Tera dam fails, triggering a disastrous flood that nearly destroys the town of Ribadelago and kills 144 residents.
+En 1920 : League of Nations Covenant automatically enters into force after the Treaty of Versailles is ratified by Germany.
 <br/><br/>
-En 1957 : British Prime Minister Sir Anthony Eden resigns from office following his failure to retake the Suez Canal from Egyptian sovereignty.
+En 1917 : Imperial Trans-Antarctic Expedition: Seven survivors of the Ross Sea party were rescued after being stranded for several months.
 <br/><br/>
-En 1945 : World War II: The Sixth United States Army begins the invasion of Lingayen Gulf.
+En 1916 : World War I: Imperial Russia begins the Erzurum Offensive, leading to the defeat of the Ottoman Empire's Third Army.
 <br/><br/>
-En 1941 : World War II: First flight of the Avro Lancaster.
+En 1901 : The first great Texas oil gusher is discovered at Spindletop in Beaumont, Texas.
 <br/><br/>
-En 1927 : A fire at the Laurier Palace movie theatre in Montreal, Quebec, Canada, kills 78 children.
+En 1901 : New York: Automobile Club of America installs signs on major highways.
 <br/><br/>
-En 1923 : Juan de la Cierva makes the first autogyro flight.
+En 1876 : The Plan of Tuxtepec is announced.
 <br/><br/>
-En 1923 : Lithuanian residents of the Memel Territory rebel against the League of Nations' decision to leave the area as a mandated region under French control.
+En 1870 : John D. Rockefeller incorporates Standard Oil.
 <br/><br/>
-En 1921 : Greco-Turkish War: The First Battle of İnönü, the first battle of the war, begins near Eskişehir in Anatolia.
+En 1863 : The Metropolitan Railway, the world's oldest underground railway, opens between Paddington and Farringdon, marking the beginning of the London Underground.
 <br/><br/>
-En 1920 : Ukrainian War of Independence: The All-Ukrainian Central Executive Committee outlaws the Makhnovshchina by decree, igniting the Bolshevik–Makhnovist conflict.
+En 1861 : American Civil War: Florida becomes the third state to secede from the Union.
 <br/><br/>
-En 1918 : Battle of Bear Valley: The last battle of the American Indian Wars.
+En 1812 : The first steamboat on the Ohio River or the Mississippi River arrives in New Orleans, 82 days after departing from Pittsburgh.
 <br/><br/>
-En 1917 : World War I: The Battle of Rafa is fought near the Egyptian border with Palestine.
+En 1791 : The Siege of Dunlap's Station begins near Cincinnati during the Northwest Indian War.
 <br/><br/>
-En 1916 : World War I: The Battle of Gallipoli concludes with an Ottoman Empire victory when the last Allied forces are evacuated from the peninsula.
+En 1776 : American Revolution: Thomas Paine publishes his pamphlet Common Sense.
 <br/><br/>
-En 1914 : The Phi Beta Sigma fraternity is founded by African-American students at Howard University in Washington D.C., United States.
+En 1645 : Archbishop William Laud is beheaded for treason at the Tower of London.
 <br/><br/>
-En 1909 : Ernest Shackleton, leading the Nimrod Expedition to the South Pole, plants the British flag 97 nautical miles (180 km; 112 mi) from the South Pole, the farthest anyone had ever reached at that time.
+En 1475 : Stephen III of Moldavia defeats the Ottoman Empire at the Battle of Vaslui.
 <br/><br/>
-En 1903 : Hallam Tennyson, 2nd Baron Tennyson, son of the poet Alfred Tennyson, becomes the second Governor-General of Australia.
+En 1430 : Philip the Good, the Duke of Burgundy, establishes the Order of the Golden Fleece, the most prestigious, exclusive, and expensive order of chivalry in the world.
 <br/><br/>
-En 1878 : Umberto I becomes King of Italy.
+En 1072 : Robert Guiscard conquers Palermo in Sicily for the Normans.
 <br/><br/>
-En 1861 : American Civil War: "Star of the West" incident occurs near Charleston, South Carolina.
+En 236 : Pope Fabian succeeds Anterus to become the twentieth pope of Rome.
 <br/><br/>
-En 1861 : Mississippi becomes the second state to secede from the Union before the outbreak of the American Civil War.
+En 69 : Lucius Calpurnius Piso Licinianus is appointed by Galba as deputy Roman Emperor.
 <br/><br/>
-En 1858 : British forces finally defeat Rajab Ali Khan of Chittagong
+En 9 : The Western Han dynasty ends when Wang Mang claims that the divine Mandate of Heaven called for the end of the dynasty and the beginning of his own, the Xin dynasty.
 <br/><br/>
-En 1857 : The 7.9 Mw  Fort Tejon earthquake shakes Central and Southern California with a maximum Mercalli intensity of IX (Violent).
-<br/><br/>
-En 1839 : The French Academy of Sciences announces the Daguerreotype photography process.
-<br/><br/>
-En 1822 : The Portuguese prince Pedro I of Brazil decides to stay in Brazil against the orders of the Portuguese King João VI, beginning the Brazilian independence process.
-<br/><br/>
-En 1816 : Humphry Davy tests his safety lamp for miners at Hebburn Colliery.
-<br/><br/>
-En 1806 : Admiral Horatio Lord Nelson receives a state funeral and is interred in St Paul's Cathedral.
-<br/><br/>
-En 1799 : British Prime Minister William Pitt the Younger introduces an income tax of two shillings to the pound to raise funds for Great Britain's war effort in the Napoleonic Wars.
-<br/><br/>
-En 1793 : Jean-Pierre Blanchard becomes the first person to fly in a balloon in the United States.
-<br/><br/>
-En 1792 : Treaty of Jassy between Russian and Ottoman Empire is signed, ending the Russo-Turkish War of 1787–92.
-<br/><br/>
-En 1788 : Connecticut becomes the fifth state to ratify the United States Constitution.
-<br/><br/>
-En 1787 : The nationally known image of the Black Nazarene in the Philippines was transferred from what is now Rizal Park to its present shrine in the minor basilica of Quiapo Church. This is annually commemorated through its Traslación (solemn transfer) in the streets of Manila and is attended by millions of devotees.
-<br/><br/>
-En 1760 : Ahmad Shah Durrani defeats the Marathas in the Battle of Barari Ghat.
-<br/><br/>
-En 1693 : Sicily earthquake: The first of two earthquakes destroys parts of Sicily and Malta. After the second quake on 11 January, the death toll is estimated at between 60,000 and 100,000 people.
-<br/><br/>
-En 1431 : The trial of Joan of Arc begins in Rouen.
-<br/><br/>
-En 1349 : The Jewish population of Basel, believed by the residents to be the cause of the ongoing Black Death, is rounded up and incinerated.
-<br/><br/>
-En 1127 : Jin–Song Wars: Invading Jurchen soldiers from the Jin dynasty besiege and sack Bianjing (Kaifeng), the capital of the Song dynasty of China, and abduct Emperor Qinzong of Song and others, ending the Northern Song period.
-<br/><br/>
-En 1038 : An earthquake in Dingxiang, China kills an estimated 32,300.
-<br/><br/>
-En 681 : Twelfth Council of Toledo: King Erwig of the Visigoths initiates a council in which he implements diverse measures against the Jews in Spain.
+En -49 : Julius Caesar crosses the Rubicon, signalling the start of civil war.
 <br/><br/>
