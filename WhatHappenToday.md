@@ -4,101 +4,91 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 11/1 ?(Hover on the year)</h1>
+<h1> What happen this day 12/1 ?(Hover on the year)</h1>
 
-En 2020 : COVID-19 pandemic in Hubei: Municipal health officials in Wuhan announce the first recorded death from COVID-19.
+En 2020 : Taal Volcano in the Philippines erupts and kills 39 people.
 <br/><br/>
-En 2013 : One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia.
+En 2016 : Ten people are killed and 15 wounded in a bombing near the Blue Mosque in Istanbul.
 <br/><br/>
-En 2003 : Illinois Governor George Ryan commutes the death sentences of 167 prisoners on Illinois's death row based on the Jon Burge scandal.
+En 2015 : Government raids kill 143 Boko Haram fighters in Kolofata, Cameroon.
 <br/><br/>
-En 1998 : Over 100 people are killed in the Sidi-Hamed massacre in Algeria.
+En 2012 : Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Băsescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers.
 <br/><br/>
-En 1996 : Space Shuttle program: STS-72 launches from the Kennedy Space Center marking the start of the 74th Space Shuttle mission and the 10th flight of Endeavour.
+En 2010 : An earthquake in Haiti occurs, killing between 220,000 and 300,000 people and destroying much of the capital Port-au-Prince.
 <br/><br/>
-En 1995 : 51 people are killed in a plane crash in María La Baja, Colombia.
+En 2007 : Comet C/2006 P1 (McNaught), one of the brightest comets ever observed is at its zenith visible during the day.
 <br/><br/>
-En 1994 : The Irish Government announces the end of a 15-year broadcasting ban on the IRA and its political arm Sinn Féin.
+En 2006 : A stampede during the Stoning of the Devil ritual on the last day at the Hajj in Mina, Saudi Arabia, kills at least 362 Muslim pilgrims.
 <br/><br/>
-En 1986 : The Gateway Bridge, Brisbane, Queensland, Australia is officially opened.
+En 2005 : Deep Impact launches from Cape Canaveral on a Delta II rocket.
 <br/><br/>
-En 1983 : United Airlines Flight 2885 crashes after takeoff from Detroit Metropolitan Airport, killing three.
+En 2004 : The world's largest ocean liner, RMS Queen Mary 2, makes its maiden voyage.
 <br/><br/>
-En 1973 : Major League Baseball owners vote in approval of the American League adopting the designated hitter position.
+En 2001 : Downtown Disney opens to the public as part of the Disneyland Resort in Anaheim, California.
 <br/><br/>
-En 1972 : East Pakistan renames itself Bangladesh.
+En 1998 : Nineteen European nations agree to forbid human cloning.
 <br/><br/>
-En 1966 : The Tbilisi Metro is opened.
+En 1997 : Space Shuttle program: Atlantis launches from the Kennedy Space Center on mission STS-81 to the Russian space station Mir, carrying astronaut Jerry M. Linenger for a four-month stay on board the station, replacing astronaut John E. Blaha.
 <br/><br/>
-En 1964 : Surgeon General of the United States Dr. Luther Terry, M.D., publishes the landmark report Smoking and Health: Report of the Advisory Committee to the Surgeon General of the Public Health Service saying that smoking may be hazardous to health, sparking national and worldwide anti-smoking efforts.
+En 1991 : Persian Gulf War: An act of the U.S. Congress authorizes the use of American military force to drive Iraq out of Kuwait.
 <br/><br/>
-En 1962 : Cold War: While tied to its pier in Polyarny, the Soviet submarine B-37 is destroyed when fire breaks out in its torpedo compartment.
+En 1990 : A seven-day pogrom breaks out against the Armenian civilian population of Baku, Azerbaijan, during which Armenians were beaten, tortured, murdered, and expelled from the city.
 <br/><br/>
-En 1962 : An avalanche on Huascarán in Peru causes around 4,000 deaths.
+En 1986 : Space Shuttle program: Congressman and future NASA Administrator Bill Nelson lifts off from Kennedy Space Center aboard Columbia on mission STS-61-C as a payload specialist.
 <br/><br/>
-En 1961 : Throgs Neck Bridge over the East River, linking New York City's boroughs of The Bronx and Queens, opens to road traffic.
+En 1976 : The United Nations Security Council votes 11–1 to allow the Palestine Liberation Organization to participate in a Security Council debate (without voting rights).
 <br/><br/>
-En 1959 : 36 people are killed when Lufthansa Flight 502 crashes on approach to Rio de Janeiro/Galeão International Airport in Brazil.
+En 1971 : The Harrisburg Seven: Rev. Philip Berrigan and five other activists are indicted on charges of conspiring to kidnap Henry Kissinger and of plotting to blow up the heating tunnels of federal buildings in Washington, D.C.
 <br/><br/>
-En 1957 : The African Convention is founded in Dakar, Senegal.
+En 1970 : Biafra capitulates, ending the Nigerian Civil War.
 <br/><br/>
-En 1949 : The first "networked" television broadcasts took place as KDKA-TV in Pittsburgh, Pennsylvania goes on the air connecting the east coast and mid-west programming.
+En 1969 : The New York Jets of the American Football League defeat the Baltimore Colts of the National Football League to win Super Bowl III in what is considered to be one of the greatest upsets in sports history.
 <br/><br/>
-En 1946 : Enver Hoxha, Secretary General of the Communist Party of Albania, declares the People's Republic of Albania with himself as head of state.
+En 1967 : Dr. James Bedford becomes the first person to be cryonically preserved with intent of future resuscitation.
 <br/><br/>
-En 1943 : The Republic of China agrees to the Sino-British New Equal Treaty and the Sino-American New Equal Treaty.
+En 1966 : Lyndon B. Johnson states that the United States should stay in South Vietnam until Communist aggression there is ended.
 <br/><br/>
-En 1943 : Italian-American anarchist Carlo Tresca is assassinated in New York City.
+En 1964 : Rebels in Zanzibar begin a revolt known as the Zanzibar Revolution and proclaim a republic.
 <br/><br/>
-En 1942 : World War II: Japanese forces capture Kuala Lumpur, the capital of the Federated Malay States.
+En 1962 : Vietnam War: Operation Chopper, the first American combat mission in the war, takes place.
 <br/><br/>
-En 1942 : World War II: Japanese forces attack Tarakan in Borneo, Netherlands Indies (Battle of Tarakan)
+En 1955 : A Martin 2-0-2 and Douglas DC-3 collide over Boone County, Kentucky, killing 15 people.
 <br/><br/>
-En 1935 : Amelia Earhart becomes the first person to fly solo from Hawaii to California.
+En 1945 : World War II: The Red Army begins the Vistula–Oder Offensive.
 <br/><br/>
-En 1927 : Louis B. Mayer, head of film studio Metro-Goldwyn-Mayer (MGM), announces the creation of the Academy of Motion Picture Arts and Sciences, at a banquet in Los Angeles, California.
+En 1942 : World War II: United States President Franklin D. Roosevelt creates the National War Labor Board.
 <br/><br/>
-En 1923 : Occupation of the Ruhr: Troops from France and Belgium occupy the Ruhr area to force Germany to make its World War I reparation payments.
+En 1933 : Casas Viejas incident: 22 peasants killed by the Security and Assault Corps in Casas Viejas, Spain.
 <br/><br/>
-En 1922 : Leonard Thompson becomes the first person to be injected with insulin.
+En 1932 : Hattie Caraway becomes the first woman elected to the United States Senate.
 <br/><br/>
-En 1917 : The Kingsland munitions factory explosion occurs as a result of sabotage.
+En 1918 : The Minnie Pit Disaster coal mining accident occurs in Halmer End, Staffordshire, in which 155 men and boys die.
 <br/><br/>
-En 1914 : The Karluk, flagship of the Canadian Arctic Expedition, sank after being crushed by ice.
+En 1916 : Both Oswald Boelcke and Max Immelmann, for achieving eight aerial victories each over Allied aircraft, receive the German Empire's highest military award, the Pour le Mérite as the first German aviators to earn it.
 <br/><br/>
-En 1912 : Immigrant textile workers in Lawrence, Massachusetts, go on strike when wages are reduced in response to a mandated shortening of the work week.
+En 1915 : The United States House of Representatives rejects a proposal to require states to give women the right to vote.
 <br/><br/>
-En 1908 : Grand Canyon National Monument is created.
+En 1911 : The University of the Philippines College of Law is formally established; three future Philippine presidents are among the first enrollees.
 <br/><br/>
-En 1879 : The Anglo-Zulu War begins.
+En 1895 : The National Trust is founded in the United Kingdom.
 <br/><br/>
-En 1863 : American Civil War: The three-day Battle of Arkansas Post concludes as General John McClernand and Admiral David Dixon Porter capture Fort Hindman and secure control over the Arkansas River for the Union.
+En 1872 : Yohannes IV is crowned Emperor of Ethiopia in Axum, the first imperial coronation in that city in over 200 years.
 <br/><br/>
-En 1863 : American Civil War: CSS Alabama encounters and sinks the USS Hatteras off Galveston Lighthouse in Texas.
+En 1866 : The Royal Aeronautical Society is formed in London.
 <br/><br/>
-En 1861 : American Civil War: Alabama secedes from the United States.
+En 1848 : The Palermo rising takes place in Sicily against the Bourbon Kingdom of the Two Sicilies.
 <br/><br/>
-En 1851 : Taiping Rebellion: Hong Xiuquan proclaims the Taiping Heavenly Kingdom, starting the Jintian Uprising.
+En 1808 : John Rennie's scheme to defend St Mary's Church, Reculver, founded in 669, from coastal erosion is abandoned in favour of demolition, despite the church being an exemplar of Anglo-Saxon architecture and sculpture.
 <br/><br/>
-En 1805 : The Michigan Territory is created.
+En 1808 : The organizational meeting leading to the creation of the Wernerian Natural History Society, a former Scottish learned society, is held in Edinburgh.
 <br/><br/>
-En 1787 : William Herschel discovers Titania and Oberon, two moons of Uranus.
+En 1792 : Federalist Thomas Pinckney appointed first U.S. minister to Britain.
 <br/><br/>
-En 1779 : Ching-Thang Khomba is crowned King of Manipur.
+En 1616 : The city of Belém, Brazil is founded on the Amazon River delta by Portuguese captain Francisco Caldeira Castelo Branco.
 <br/><br/>
-En 1759 : The first American life insurance company, the Corporation for Relief of Poor and Distressed Presbyterian Ministers and of the Poor and Distressed Widows and Children of the Presbyterian Ministers (now part of Unum Group), is incorporated in Philadelphia, Pennsylvania.
+En 1554 : Bayinnaung, who would go on to assemble the largest empire in the history of Southeast Asia, is crowned King of Burma.
 <br/><br/>
-En 1654 : Arauco War: A Spanish army is defeated by local Mapuche-Huilliches as it tries to cross Bueno River in Southern Chile.
+En 1528 : Gustav I of Sweden is crowned King of Sweden, having already reigned since his election in June 1523.
 <br/><br/>
-En 1569 : First recorded lottery in England.
-<br/><br/>
-En 1158 : Vladislaus II, Duke of Bohemia becomes King of Bohemia.
-<br/><br/>
-En 1055 : Theodora is crowned empress of the Byzantine Empire.
-<br/><br/>
-En 930 : Sack of Mecca by the Qarmatians.
-<br/><br/>
-En 630 : Conquest of Mecca: The prophet Muhammad and his followers conquer the city, and the Quraysh association of clans surrenders.
-<br/><br/>
-En 532 : Nika riots in Constantinople: A quarrel between supporters of different chariot teams—the Blues and the Greens—in the Hippodrome escalates into violence.
+En 475 : Byzantine Emperor Zeno is forced to flee his capital at Constantinople, and his general, Basiliscus gains control of the empire.
 <br/><br/>
