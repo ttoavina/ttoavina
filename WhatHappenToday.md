@@ -4,115 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/1 ?(Hover on the year)</h1>
+<h1> What happen this day 16/1 ?(Hover on the year)</h1>
 
-En 2023 : Yeti Airlines Flight 691 crashes near Pokhara International Airport, killing all 72 people on board.
+En 2020 : The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.
 <br/><br/>
-En 2022 : The Hunga Tonga-Hunga Haʻapai volcano erupts, cutting off communications with Tonga and causing a tsunami across the Pacific.
+En 2020 : The United States Senate ratifies the United States–Mexico–Canada Agreement as a replacement for NAFTA.
 <br/><br/>
-En 2021 : A 6.2-magnitude earthquake strikes Indonesia's Sulawesi island killing at least 105 and injuring 3,369 people.
+En 2018 : Myanmar police open fire on a group of ethnic Rakhine protesters, killing seven and wounding twelve.
 <br/><br/>
-En 2020 : The Japanese Ministry of Health, Labour and Welfare confirms the first case of COVID-19 in Japan.
+En 2017 : Turkish Airlines Flight 6491 crashes into a residential area near Manas International Airport in Kyrgyzstan, killing 39 people.
 <br/><br/>
-En 2019 : Somali militants attack the DusitD2 hotel in Nairobi, Kenya killing at least 21 people and injuring 19.
+En 2016 : Thirty-three out of 126 freed hostages are injured and 23 killed in terrorist attacks in Ouagadougou, Burkina Faso on a hotel and a nearby restaurant.
 <br/><br/>
-En 2019 : Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.
+En 2012 : The Mali War begins when Tuareg militias start fighting the Malian government for independence.
 <br/><br/>
-En 2018 : British multinational construction and facilities management services company Carillion went into liquidation – officially, "the largest ever trading liquidation in the UK"
+En 2011 : Syrian civil war: The Movement for a Democratic Society (TEV-DEM) is established with the stated goal of re-organizing Syria along the lines of democratic confederalism.
 <br/><br/>
-En 2016 : The Kenyan Army suffers its worst defeat ever in a battle with Al-Shabaab Islamic insurgents in El-Adde, Somalia. An estimated 150 Kenyan soldiers are killed in the battle.
+En 2006 : Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state.
 <br/><br/>
-En 2015 : The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets.
+En 2003 : The Space Shuttle Columbia takes off for mission STS-107 which would be its final one. Columbia disintegrated 16 days later on re-entry.
 <br/><br/>
-En 2013 : A train carrying Egyptian Army recruits derails near Giza, Greater Cairo, killing 19 and injuring 120 others.
+En 2002 : War in Afghanistan: The UN Security Council unanimously establishes an arms embargo and the freezing of assets of Osama bin Laden, al-Qaeda, and the remaining members of the Taliban.
 <br/><br/>
-En 2009 : US Airways Flight 1549 ditches safely in the Hudson River after the plane collides with birds less than two minutes after take-off. This becomes known as "The Miracle on the Hudson" as all 155 people on board were rescued.
+En 2001 : Second Congo War: Congolese President Laurent-Désiré Kabila is assassinated by one of his own bodyguards in Kinshasa.
 <br/><br/>
-En 2005 : ESA's SMART-1 lunar orbiter discovers elements such as calcium, aluminum, silicon, iron, and other surface elements on the Moon.
+En 2001 : US President Bill Clinton awards former President Theodore Roosevelt a posthumous Medal of Honor for his service in the Spanish–American War.
 <br/><br/>
-En 2001 : Wikipedia, a free wiki content encyclopedia, is launched (Wikipedia Day).
+En 1995 : An avalanche hits the Icelandic village Súðavík, destroying 25 homes and burying 26 people, 14 of whom died.
 <br/><br/>
-En 1991 : The United Nations deadline for the withdrawal of Iraqi forces from occupied Kuwait expires, preparing the way for the start of Operation Desert Storm.
+En 1992 : El Salvador officials and rebel leaders sign the Chapultepec Peace Accords in Mexico City, Mexico ending the 12-year Salvadoran Civil War that claimed at least 75,000 lives.
 <br/><br/>
-En 1991 : Elizabeth II, in her capacity as Queen of Australia, signs letters patent allowing Australia to become the first Commonwealth realm to institute its own Victoria Cross in its honours system.
+En 1991 : Coalition Forces go to war with Iraq, beginning the Gulf War.
 <br/><br/>
-En 1981 : Pope John Paul II receives a delegation from the Polish trade union Solidarity at the Vatican led by Lech Wałęsa.
+En 1983 : Turkish Airlines Flight 158 crashes at Ankara Esenboğa Airport in Ankara, Turkey, killing 47 and injuring 20.
 <br/><br/>
-En 1977 : Linjeflyg Flight 618 crashes in Kälvesta near Stockholm Bromma Airport in Stockholm, Sweden, killing 22 people.
+En 1979 : Iranian Revolution: The last Iranian Shah flees Iran with his family for good and relocates to Egypt.
 <br/><br/>
-En 1976 : Gerald Ford's would-be assassin, Sara Jane Moore, is sentenced to life in prison.
+En 1969 : Czech student Jan Palach commits suicide by self-immolation in Prague, Czechoslovakia, in protest against the Soviets' crushing of the Prague Spring the year before.
 <br/><br/>
-En 1975 : The Alvor Agreement is signed, ending the Angolan War of Independence and giving Angola independence from Portugal.
+En 1969 : Space Race: Soviet spacecraft Soyuz 4 and Soyuz 5 perform the first-ever docking of crewed spacecraft in orbit, the first-ever transfer of crew from one space vehicle to another, and the only time such a transfer was accomplished with a space walk.
 <br/><br/>
-En 1973 : Vietnam War: Citing progress in peace negotiations, President Richard Nixon announces the suspension of offensive action in North Vietnam.
+En 1959 : Austral Líneas Aéreas Flight 205 crashes into the Atlantic Ocean near Astor Piazzolla International Airport in Mar del Plata, Argentina, killing 51.
 <br/><br/>
-En 1970 : Nigerian Civil War: Biafran rebels surrender following an unsuccessful 32-month fight for independence from Nigeria.
+En 1945 : World War II: Adolf Hitler moves into his underground bunker, the so-called Führerbunker.
 <br/><br/>
-En 1970 : Muammar Gaddafi is proclaimed premier of Libya.
+En 1942 : The Holocaust: Nazi Germany begins deporting Jews from the Łódź Ghetto to Chełmno extermination camp.
 <br/><br/>
-En 1969 : The Soviet Union launches Soyuz 5.
+En 1942 : Crash of TWA Flight 3, killing all 22 aboard, including film star Carole Lombard.
 <br/><br/>
-En 1967 : The first Super Bowl is played in Los Angeles. The Green Bay Packers defeat the Kansas City Chiefs 35–10.
+En 1921 : The Marxist Left in Slovakia and the Transcarpathian Ukraine holds its founding congress in Ľubochňa.
 <br/><br/>
-En 1966 : The First Nigerian Republic, led by Abubakar Tafawa Balewa is overthrown in a military coup d'état.
+En 1920 : The League of Nations holds its first council meeting in Paris, France.
 <br/><br/>
-En 1962 : The Derveni papyrus, Europe's oldest surviving manuscript dating to 340 BC, is found in northern Greece.
+En 1919 : Nebraska becomes the 36th state to approve the Eighteenth Amendment to the United States Constitution. With the necessary three-quarters of the states approving the amendment, Prohibition is constitutionally mandated in the United States one year later.
 <br/><br/>
-En 1962 : Netherlands New Guinea Conflict: Indonesian Navy fast patrol boat RI Macan Tutul commanded by Commodore Yos Sudarso sunk in Arafura Sea by the Dutch Navy.
+En 1913 : Indian mathematician Srinivasa Ramanujan writes his first letter to G. H. Hardy at Cambridge, stating without proof various formulae involving integrals, infinite series, and continued fractions, beginning a long correspondence between the two as well as widespread recognition of Ramanujan's results.
 <br/><br/>
-En 1949 : Chinese Civil War: The Communist forces take over Tianjin from the Nationalist government.
+En 1909 : Ernest Shackleton's expedition finds the magnetic South Pole.
 <br/><br/>
-En 1947 : The Black Dahlia murder: The dismembered corpse of Elizabeth Short was found in Los Angeles.
+En 1900 : The United States Senate accepts the Anglo-German treaty of 1899 in which the United Kingdom renounces its claims to the Samoan islands.
 <br/><br/>
-En 1943 : World War II: The Soviet counter-offensive at Voronezh begins.
+En 1883 : The Pendleton Civil Service Reform Act, establishing the United States Civil Service, is enacted by Congress.
 <br/><br/>
-En 1943 : The Pentagon is dedicated in Arlington County, Virginia.
+En 1878 : Russo-Turkish War (1877–78): Battle of Philippopolis: Captain Aleksandr Burago with a squadron of Russian Imperial army dragoons liberates Plovdiv from Ottoman rule.
 <br/><br/>
-En 1937 : Spanish Civil War: Nationalists and Republicans both withdraw after suffering heavy losses, ending the Second Battle of the Corunna Road.
+En 1862 : Hartley Colliery disaster: Two hundred and four men and boys killed in a mining disaster, prompting a change in UK law which henceforth required all collieries to have at least two independent means of escape.
 <br/><br/>
-En 1936 : The first building to be completely covered in glass, built for the Owens-Illinois Glass Company, is completed in Toledo, Ohio.
+En 1847 : Westward expansion of the United States: John C. Frémont is appointed Governor of the new California Territory.
 <br/><br/>
-En 1934 : The 8.0 Mw  Nepal–Bihar earthquake strikes Nepal and Bihar with a maximum Mercalli intensity of XI (Extreme), killing an estimated 6,000–10,700 people.
+En 1809 : Peninsular War: The British defeat the French at the Battle of La Coruña.
 <br/><br/>
-En 1919 : Rosa Luxemburg and Karl Liebknecht, two of the most prominent communists in Germany, are clubbed and then shot to death by members of the Freikorps at the end of the Spartacist uprising.
+En 1786 : Virginia enacts the Statute for Religious Freedom authored by Thomas Jefferson.
 <br/><br/>
-En 1919 : Great Molasses Flood: A wave of molasses released from an exploding storage tank sweeps through Boston, Massachusetts, killing 21 and injuring 150.
+En 1780 : American Revolutionary War: Battle of Cape St. Vincent.
 <br/><br/>
-En 1911 : Palestinian Arabic-language Falastin newspaper founded.
+En 1757 : Forces of the Maratha Empire defeat a 5,000-strong army of the Durrani Empire in the Battle of Narela.
 <br/><br/>
-En 1910 : Construction ends on the Buffalo Bill Dam in Wyoming, United States, which was the highest dam in the world at the time, at 99 m (325 ft).
+En 1716 : King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of the Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain.
 <br/><br/>
-En 1908 : The Alpha Kappa Alpha sorority becomes the first Greek-letter organization founded and established by African American college women.
+En 1707 : The Scottish Parliament ratifies the Act of Union, paving the way for the creation of Great Britain.
 <br/><br/>
-En 1892 : James Naismith publishes the rules of basketball.
+En 1605 : The first edition of El ingenioso hidalgo Don Quijote de la Mancha (Book One of Don Quixote) by Miguel de Cervantes is published in Madrid, Spain.
 <br/><br/>
-En 1889 : The Coca-Cola Company, then known as the Pemberton Medicine Company, is incorporated in Atlanta.
+En 1572 : Thomas Howard, 4th Duke of Norfolk is tried and found guilty of treason for his part in the Ridolfi plot to restore Catholicism in England.
 <br/><br/>
-En 1876 : The first newspaper in Afrikaans, Die Afrikaanse Patriot, is published in Paarl.
+En 1556 : Philip II becomes King of Spain.
 <br/><br/>
-En 1870 : A political cartoon for the first time symbolizes the Democratic Party with a donkey ("A Live Jackass Kicking a Dead Lion" by Thomas Nast for Harper's Weekly).
+En 1547 : Grand Duke Ivan IV of Muscovy becomes the first Tsar of Russia, replacing the 264-year-old Grand Duchy of Moscow with the Tsardom of Russia.
 <br/><br/>
-En 1867 : Forty people die when ice covering the boating lake at Regent's Park, London, collapses.
+En 1537 : Bigod's Rebellion, an armed insurrection attempting to resist the English Reformation, begins.
 <br/><br/>
-En 1865 : American Civil War: Fort Fisher in North Carolina falls to the Union, thus cutting off the last major seaport of the Confederacy.
+En 1362 : Saint Marcellus's flood kills at least 25,000 people on the shores of the North Sea.
 <br/><br/>
-En 1822 : Greek War of Independence: Demetrios Ypsilantis is elected president of the legislative assembly.
+En 1275 : Edward I permits his mother Eleanor of Provence to expel the Jews from the towns Worcester, Marlborough, Cambridge and Gloucester.
 <br/><br/>
-En 1818 : A paper by David Brewster is read to the Royal Society, belatedly announcing his discovery of what we now call the biaxial class of doubly-refracting crystals. On the same day, Augustin-Jean Fresnel signs a "supplement" (submitted four days later) on reflection of polarized light.
+En 1120 : Crusades: The Council of Nablus is held, establishing the earliest surviving written laws of the Crusader Kingdom of Jerusalem.
 <br/><br/>
-En 1815 : War of 1812: American frigate USS President, commanded by Commodore Stephen Decatur, is captured by a squadron of four British frigates.
+En 929 : Emir Abd-ar-Rahman III establishes the Caliphate of Córdoba.
 <br/><br/>
-En 1782 : Superintendent of Finance Robert Morris addresses the U.S. Congress to recommend establishment of a national mint and decimal coinage.
+En 550 : Gothic War: The Ostrogoths, under King Totila, conquer Rome after a long siege, by bribing the Isaurian garrison.
 <br/><br/>
-En 1777 : American Revolutionary War: New Connecticut (present-day Vermont) declares its independence.
+En 378 : General Siyaj K'ak' conquers Tikal, enlarging the domain of King Spearthrower Owl of Teotihuacán.
 <br/><br/>
-En 1759 : The British Museum opens to the public.
+En -27 : Gaius Julius Caesar Octavianus is granted the title Augustus by the Roman Senate, marking the beginning of the Roman Empire.
 <br/><br/>
-En 1582 : Truce of Yam-Zapolsky: Russia cedes Livonia to the Polish–Lithuanian Commonwealth.
-<br/><br/>
-En 1559 : Elizabeth I is crowned Queen of England and Ireland in Westminster Abbey, London.
-<br/><br/>
-En 1541 : King Francis I of France gives Jean-François Roberval a commission to settle the province of New France (Canada) and provide for the spread of the "Holy Catholic faith".
-<br/><br/>
-En 69 : Otho seizes power in Rome, proclaiming himself Emperor of Rome, beginning a reign of only three months.
+En -1458 : Hatshepsut dies at the age of 50 and is buried in the Valley of the Kings.
 <br/><br/>
