@@ -4,109 +4,123 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/1 ?(Hover on the year)</h1>
+<h1> What happen this day 17/1 ?(Hover on the year)</h1>
 
-En 2020 : The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.
+En 2023 : An avalanche strikes Nyingchi, Tibet, killing 28 people.
 <br/><br/>
-En 2020 : The United States Senate ratifies the United States–Mexico–Canada Agreement as a replacement for NAFTA.
+En 2017 : The search for Malaysia Airlines Flight 370 is announced to be suspended.
 <br/><br/>
-En 2018 : Myanmar police open fire on a group of ethnic Rakhine protesters, killing seven and wounding twelve.
+En 2016 : President Barack Obama announces the Joint Comprehensive Plan of Action.
 <br/><br/>
-En 2017 : Turkish Airlines Flight 6491 crashes into a residential area near Manas International Airport in Kyrgyzstan, killing 39 people.
+En 2013 : Former cyclist Lance Armstrong confesses to his doping in an airing of Oprah's Next Chapter.
 <br/><br/>
-En 2016 : Thirty-three out of 126 freed hostages are injured and 23 killed in terrorist attacks in Ouagadougou, Burkina Faso on a hotel and a nearby restaurant.
+En 2013 : Shahzad Luqman is murdered by members of Golden Dawn in Petralona, Athens, leading the creation of new measures to combat race-based attacks in Greece.
 <br/><br/>
-En 2012 : The Mali War begins when Tuareg militias start fighting the Malian government for independence.
+En 2010 : Rioting begins between Muslim and Christian groups in Jos, Nigeria, results in at least 200 deaths.
 <br/><br/>
-En 2011 : Syrian civil war: The Movement for a Democratic Society (TEV-DEM) is established with the stated goal of re-organizing Syria along the lines of democratic confederalism.
+En 2008 : British Airways Flight 38 crashes short of the runway at Heathrow Airport, injuring 47.
 <br/><br/>
-En 2006 : Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state.
+En 2007 : The Doomsday Clock is set to five minutes to midnight in response to North Korea's nuclear testing.
 <br/><br/>
-En 2003 : The Space Shuttle Columbia takes off for mission STS-107 which would be its final one. Columbia disintegrated 16 days later on re-entry.
+En 2002 : Mount Nyiragongo erupts in the Democratic Republic of the Congo, displacing an estimated 400,000 people.
 <br/><br/>
-En 2002 : War in Afghanistan: The UN Security Council unanimously establishes an arms embargo and the freezing of assets of Osama bin Laden, al-Qaeda, and the remaining members of the Taliban.
+En 1998 : Clinton–Lewinsky scandal: Matt Drudge breaks the story of the Bill Clinton–Monica Lewinsky affair on his Drudge Report website.
 <br/><br/>
-En 2001 : Second Congo War: Congolese President Laurent-Désiré Kabila is assassinated by one of his own bodyguards in Kinshasa.
+En 1997 : Cape Canaveral Air Force Station: A Delta II carrying the GPS IIR-1 satellite explodes 13 seconds after launch, dropping 250 tons of burning rocket remains around the launch pad.
 <br/><br/>
-En 2001 : US President Bill Clinton awards former President Theodore Roosevelt a posthumous Medal of Honor for his service in the Spanish–American War.
+En 1996 : The Czech Republic applies for membership in the European Union.
 <br/><br/>
-En 1995 : An avalanche hits the Icelandic village Súðavík, destroying 25 homes and burying 26 people, 14 of whom died.
+En 1995 : The 6.9 Mw  Great Hanshin earthquake shakes the southern Hyōgo Prefecture with a maximum Shindo of VII, leaving 5,502–6,434 people dead, and 251,301–310,000 displaced.
 <br/><br/>
-En 1992 : El Salvador officials and rebel leaders sign the Chapultepec Peace Accords in Mexico City, Mexico ending the 12-year Salvadoran Civil War that claimed at least 75,000 lives.
+En 1994 : The 6.7 Mw  Northridge earthquake shakes the Greater Los Angeles Area with a maximum Mercalli intensity of IX (Violent), leaving 57 people dead and more than 8,700 injured.
 <br/><br/>
-En 1991 : Coalition Forces go to war with Iraq, beginning the Gulf War.
+En 1992 : During a visit to South Korea, Japanese Prime Minister Kiichi Miyazawa apologizes for forcing Korean women into sexual slavery during World War II.
 <br/><br/>
-En 1983 : Turkish Airlines Flight 158 crashes at Ankara Esenboğa Airport in Ankara, Turkey, killing 47 and injuring 20.
+En 1991 : Gulf War: Operation Desert Storm begins early in the morning as aircraft strike positions across Iraq, it is also the first major combat sortie for the F-117. LCDR Scott Speicher's F/A-18C Hornet from VFA-81 is shot down by a Mig-25 and is the first American casualty of the War. Iraq fires eight Scud missiles into Israel in an unsuccessful bid to provoke Israeli retaliation.
 <br/><br/>
-En 1979 : Iranian Revolution: The last Iranian Shah flees Iran with his family for good and relocates to Egypt.
+En 1991 : Crown Prince Harald of Norway becomes King Harald V, following the death of his father, King Olav V.
 <br/><br/>
-En 1969 : Czech student Jan Palach commits suicide by self-immolation in Prague, Czechoslovakia, in protest against the Soviets' crushing of the Prague Spring the year before.
+En 1981 : President of the Philippines Ferdinand Marcos lifts martial law eight years and five months after declaring it.
 <br/><br/>
-En 1969 : Space Race: Soviet spacecraft Soyuz 4 and Soyuz 5 perform the first-ever docking of crewed spacecraft in orbit, the first-ever transfer of crew from one space vehicle to another, and the only time such a transfer was accomplished with a space walk.
+En 1977 : Capital punishment in the United States resumes after a ten-year hiatus, as convicted murderer Gary Gilmore is executed by firing squad in Utah.
 <br/><br/>
-En 1959 : Austral Líneas Aéreas Flight 205 crashes into the Atlantic Ocean near Astor Piazzolla International Airport in Mar del Plata, Argentina, killing 51.
+En 1969 : Black Panther Party members Bunchy Carter and John Huggins are killed during a meeting in Campbell Hall on the campus of UCLA.
 <br/><br/>
-En 1945 : World War II: Adolf Hitler moves into his underground bunker, the so-called Führerbunker.
+En 1966 : Palomares incident: A B-52 bomber collides with a KC-135 Stratotanker over Spain, killing seven airmen, and dropping three 70-kiloton nuclear bombs near the town of Palomares and another one into the sea.
 <br/><br/>
-En 1942 : The Holocaust: Nazi Germany begins deporting Jews from the Łódź Ghetto to Chełmno extermination camp.
+En 1961 : U.S. President Dwight D. Eisenhower delivers a televised farewell address to the nation three days before leaving office, in which he warns against the accumulation of power by the "military–industrial complex" as well as the dangers of massive spending, especially deficit spending.
 <br/><br/>
-En 1942 : Crash of TWA Flight 3, killing all 22 aboard, including film star Carole Lombard.
+En 1961 : Former Congolese Prime Minister Patrice Lumumba is murdered in circumstances suggesting the support and complicity of the governments of Belgium and the United States.
 <br/><br/>
-En 1921 : The Marxist Left in Slovakia and the Transcarpathian Ukraine holds its founding congress in Ľubochňa.
+En 1950 : The Great Brink's Robbery: Eleven thieves steal more than $2 million from an armored car company's offices in Boston.
 <br/><br/>
-En 1920 : The League of Nations holds its first council meeting in Paris, France.
+En 1950 : United Nations Security Council Resolution 79 relating to arms control is adopted.
 <br/><br/>
-En 1919 : Nebraska becomes the 36th state to approve the Eighteenth Amendment to the United States Constitution. With the necessary three-quarters of the states approving the amendment, Prohibition is constitutionally mandated in the United States one year later.
+En 1948 : The Renville Agreement between the Netherlands and Indonesia is ratified.
 <br/><br/>
-En 1913 : Indian mathematician Srinivasa Ramanujan writes his first letter to G. H. Hardy at Cambridge, stating without proof various formulae involving integrals, infinite series, and continued fractions, beginning a long correspondence between the two as well as widespread recognition of Ramanujan's results.
+En 1946 : The UN Security Council holds its first session.
 <br/><br/>
-En 1909 : Ernest Shackleton's expedition finds the magnetic South Pole.
+En 1945 : World War II: The Vistula–Oder Offensive forces German troops out of Warsaw.
 <br/><br/>
-En 1900 : The United States Senate accepts the Anglo-German treaty of 1899 in which the United Kingdom renounces its claims to the Samoan islands.
+En 1945 : The SS-Totenkopfverbände begin the evacuation of the Auschwitz concentration camp as the Red Army closes in.
 <br/><br/>
-En 1883 : The Pendleton Civil Service Reform Act, establishing the United States Civil Service, is enacted by Congress.
+En 1945 : Swedish diplomat Raoul Wallenberg is taken into Soviet custody while in Hungary; he is never publicly seen again.
 <br/><br/>
-En 1878 : Russo-Turkish War (1877–78): Battle of Philippopolis: Captain Aleksandr Burago with a squadron of Russian Imperial army dragoons liberates Plovdiv from Ottoman rule.
+En 1944 : World War II: Allied forces launch the first of four assaults on Monte Cassino with the intention of breaking through the Winter Line and seizing Rome, an effort that would ultimately take four months and cost 105,000 Allied casualties.
 <br/><br/>
-En 1862 : Hartley Colliery disaster: Two hundred and four men and boys killed in a mining disaster, prompting a change in UK law which henceforth required all collieries to have at least two independent means of escape.
+En 1943 : World War II: Greek submarine Papanikolis captures the 200-ton sailing vessel Agios Stefanos and mans her with part of her crew.
 <br/><br/>
-En 1847 : Westward expansion of the United States: John C. Frémont is appointed Governor of the new California Territory.
+En 1941 : Franco-Thai War: Vichy French forces inflict a decisive defeat over the Royal Thai Navy.
 <br/><br/>
-En 1809 : Peninsular War: The British defeat the French at the Battle of La Coruña.
+En 1920 : Alcohol Prohibition begins in the United States as the Volstead Act goes into effect.
 <br/><br/>
-En 1786 : Virginia enacts the Statute for Religious Freedom authored by Thomas Jefferson.
+En 1918 : Finnish Civil War: The first serious battles take place between the Red Guards and the White Guard.
 <br/><br/>
-En 1780 : American Revolutionary War: Battle of Cape St. Vincent.
+En 1917 : The United States pays Denmark $25 million for the Virgin Islands.
 <br/><br/>
-En 1757 : Forces of the Maratha Empire defeat a 5,000-strong army of the Durrani Empire in the Battle of Narela.
+En 1915 : Russia defeats Ottoman Turkey in the Battle of Sarikamish during the Caucasus Campaign of World War I.
 <br/><br/>
-En 1716 : King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of the Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain.
+En 1912 : British polar explorer Captain Robert Falcon Scott reaches the South Pole, one month after Roald Amundsen.
 <br/><br/>
-En 1707 : The Scottish Parliament ratifies the Act of Union, paving the way for the creation of Great Britain.
+En 1904 : Anton Chekhov's The Cherry Orchard receives its premiere performance at the Moscow Art Theatre.
 <br/><br/>
-En 1605 : The first edition of El ingenioso hidalgo Don Quijote de la Mancha (Book One of Don Quixote) by Miguel de Cervantes is published in Madrid, Spain.
+En 1903 : El Yunque National Forest in Puerto Rico becomes part of the United States National Forest System as the Luquillo Forest Reserve.
 <br/><br/>
-En 1572 : Thomas Howard, 4th Duke of Norfolk is tried and found guilty of treason for his part in the Ridolfi plot to restore Catholicism in England.
+En 1899 : The United States takes possession of Wake Island in the Pacific Ocean.
 <br/><br/>
-En 1556 : Philip II becomes King of Spain.
+En 1893 : Lorrin A. Thurston, along with the Citizens' Committee of Public Safety, led the Overthrow of the Kingdom of Hawaii and the government of Queen Liliʻuokalani.
 <br/><br/>
-En 1547 : Grand Duke Ivan IV of Muscovy becomes the first Tsar of Russia, replacing the 264-year-old Grand Duchy of Moscow with the Tsardom of Russia.
+En 1885 : A British force defeats a large Dervish army at the Battle of Abu Klea in the Sudan.
 <br/><br/>
-En 1537 : Bigod's Rebellion, an armed insurrection attempting to resist the English Reformation, begins.
+En 1873 : A group of Modoc warriors defeats the United States Army in the First Battle of the Stronghold, part of the Modoc War.
 <br/><br/>
-En 1362 : Saint Marcellus's flood kills at least 25,000 people on the shores of the North Sea.
+En 1852 : The United Kingdom signs the Sand River Convention with the South African Republic.
 <br/><br/>
-En 1275 : Edward I permits his mother Eleanor of Provence to expel the Jews from the towns Worcester, Marlborough, Cambridge and Gloucester.
+En 1811 : Mexican War of Independence: In the Battle of Calderón Bridge, a heavily outnumbered Spanish force of 6,000 troops defeats nearly 100,000 Mexican revolutionaries.
 <br/><br/>
-En 1120 : Crusades: The Council of Nablus is held, establishing the earliest surviving written laws of the Crusader Kingdom of Jerusalem.
+En 1799 : Maltese patriot Dun Mikiel Xerri, along with a number of other patriots, is executed.
 <br/><br/>
-En 929 : Emir Abd-ar-Rahman III establishes the Caliphate of Córdoba.
+En 1781 : American Revolutionary War: Battle of Cowpens: Continental troops under Brigadier General Daniel Morgan defeat British forces under Lieutenant Colonel Banastre Tarleton at the battle in South Carolina.
 <br/><br/>
-En 550 : Gothic War: The Ostrogoths, under King Totila, conquer Rome after a long siege, by bribing the Isaurian garrison.
+En 1773 : Captain James Cook leads the first expedition to sail south of the Antarctic Circle.
 <br/><br/>
-En 378 : General Siyaj K'ak' conquers Tikal, enlarging the domain of King Spearthrower Owl of Teotihuacán.
+En 1649 : The Second Ormonde Peace creates an alliance between the Irish Royalists and Confederates during the War of the Three Kingdoms. The coalition was then decisively defeated during the Cromwellian conquest of Ireland.
 <br/><br/>
-En -27 : Gaius Julius Caesar Octavianus is granted the title Augustus by the Roman Senate, marking the beginning of the Roman Empire.
+En 1648 : England's Long Parliament passes the "Vote of No Addresses", breaking off negotiations with King Charles I and thereby setting the scene for the second phase of the English Civil War.
 <br/><br/>
-En -1458 : Hatshepsut dies at the age of 50 and is buried in the Valley of the Kings.
+En 1641 : Reapers' War: The Junta de Braços (parliamentary assembly) of the Principality of Catalonia accepts the proposal of establishment of the Catalan Republic under French protection.
+<br/><br/>
+En 1608 : Emperor Susenyos I of Ethiopia surprises an Oromo army at Ebenat; his army reportedly kills 12,000 Oromo at the cost of 400 of his men.
+<br/><br/>
+En 1595 : During the French Wars of Religion, Henry IV of France declares war on Spain.
+<br/><br/>
+En 1562 : France grants religious toleration to the Huguenots in the Edict of Saint-Germain.
+<br/><br/>
+En 1524 : Giovanni da Verrazzano sets sail westward from Madeira to find a sea route to the Pacific Ocean.
+<br/><br/>
+En 1377 : Pope Gregory XI reaches Rome, after deciding to move the Papacy back to Rome from Avignon.
+<br/><br/>
+En 1362 : Saint Marcellus' flood kills at least 25,000 people on the shores of the North Sea.
+<br/><br/>
+En -38 : Octavian divorces his wife Scribonia and marries Livia Drusilla, ending the fragile peace between the Second Triumvirate and Sextus Pompey.
 <br/><br/>
