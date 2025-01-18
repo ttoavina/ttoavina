@@ -4,123 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/1 ?(Hover on the year)</h1>
+<h1> What happen this day 18/1 ?(Hover on the year)</h1>
 
-En 2023 : An avalanche strikes Nyingchi, Tibet, killing 28 people.
+En 2023 : A helicopter crash in Ukraine leaves 14 people dead, including the country's Interior Minister, Denys Monastyrsky.
 <br/><br/>
-En 2017 : The search for Malaysia Airlines Flight 370 is announced to be suspended.
+En 2019 : An oil pipeline explosion near Tlahuelilpan, Hidalgo, Mexico, kills 137 people.
 <br/><br/>
-En 2016 : President Barack Obama announces the Joint Comprehensive Plan of Action.
+En 2018 : A bus catches fire on the Samara–Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping.
 <br/><br/>
-En 2013 : Former cyclist Lance Armstrong confesses to his doping in an airing of Oprah's Next Chapter.
+En 2012 : More than 115,000 websites engage in an online protest against the Stop Online Piracy Act and the Protect IP Act in the US.[citation needed] The websites involved viewed the laws as infringing on the right to free speech and many of them temporarily shut down in protest.
 <br/><br/>
-En 2013 : Shahzad Luqman is murdered by members of Golden Dawn in Petralona, Athens, leading the creation of new measures to combat race-based attacks in Greece.
+En 2008 : The Euphronios Krater is unveiled in Rome after being returned to Italy by the Metropolitan Museum of Art.
 <br/><br/>
-En 2010 : Rioting begins between Muslim and Christian groups in Jos, Nigeria, results in at least 200 deaths.
+En 2007 : The strongest storm in the United Kingdom in 17 years kills 14 people and Germany sees the worst storm since 1999 with 13 deaths. Cyclone Kyrill causes at least 44 deaths across 20 countries in Western Europe.
 <br/><br/>
-En 2008 : British Airways Flight 38 crashes short of the runway at Heathrow Airport, injuring 47.
+En 2005 : The Airbus A380, the world's largest commercial jet, is unveiled at a ceremony in Toulouse, France
 <br/><br/>
-En 2007 : The Doomsday Clock is set to five minutes to midnight in response to North Korea's nuclear testing.
+En 2003 : A bushfire kills four people and destroys more than 500 homes in Canberra, Australia.
 <br/><br/>
-En 2002 : Mount Nyiragongo erupts in the Democratic Republic of the Congo, displacing an estimated 400,000 people.
+En 2002 : The Sierra Leone Civil War is declared over.
 <br/><br/>
-En 1998 : Clinton–Lewinsky scandal: Matt Drudge breaks the story of the Bill Clinton–Monica Lewinsky affair on his Drudge Report website.
+En 1993 : Martin Luther King, Jr. Day is officially observed for the first time in all 50 US states.
 <br/><br/>
-En 1997 : Cape Canaveral Air Force Station: A Delta II carrying the GPS IIR-1 satellite explodes 13 seconds after launch, dropping 250 tons of burning rocket remains around the launch pad.
+En 1990 : Washington, D.C., Mayor Marion Barry is arrested for drug possession in an FBI sting.
 <br/><br/>
-En 1996 : The Czech Republic applies for membership in the European Union.
+En 1988 : China Southwest Airlines Flight 4146 crashes near Chongqing Baishiyi Airport, killing all 98 passengers and 10 crew members.
 <br/><br/>
-En 1995 : The 6.9 Mw  Great Hanshin earthquake shakes the southern Hyōgo Prefecture with a maximum Shindo of VII, leaving 5,502–6,434 people dead, and 251,301–310,000 displaced.
+En 1986 : An Aerovías Sud Aviation Caravelle crashes on approach to Mundo Maya International Airport in Flores, Petén, Guatemala, killing all 94 people on board.
 <br/><br/>
-En 1994 : The 6.7 Mw  Northridge earthquake shakes the Greater Los Angeles Area with a maximum Mercalli intensity of IX (Violent), leaving 57 people dead and more than 8,700 injured.
+En 1983 : The International Olympic Committee restores Jim Thorpe's Olympic medals to his family.
 <br/><br/>
-En 1992 : During a visit to South Korea, Japanese Prime Minister Kiichi Miyazawa apologizes for forcing Korean women into sexual slavery during World War II.
+En 1981 : Phil Smith and Phil Mayfield parachute off a Houston skyscraper, becoming the first two people to BASE jump from objects in all four categories: buildings, antennae, spans (bridges), and earth (cliffs).
 <br/><br/>
-En 1991 : Gulf War: Operation Desert Storm begins early in the morning as aircraft strike positions across Iraq, it is also the first major combat sortie for the F-117. LCDR Scott Speicher's F/A-18C Hornet from VFA-81 is shot down by a Mig-25 and is the first American casualty of the War. Iraq fires eight Scud missiles into Israel in an unsuccessful bid to provoke Israeli retaliation.
+En 1978 : The European Court of Human Rights finds the United Kingdom's government guilty of mistreating prisoners in Northern Ireland, but not guilty of torture.
 <br/><br/>
-En 1991 : Crown Prince Harald of Norway becomes King Harald V, following the death of his father, King Olav V.
+En 1977 : Scientists at the Centers for Disease Control and Prevention announce they have identified a previously unknown bacterium as the cause of the mysterious Legionnaires' disease.
 <br/><br/>
-En 1981 : President of the Philippines Ferdinand Marcos lifts martial law eight years and five months after declaring it.
+En 1977 : Australia's worst rail disaster occurs at Granville, Sydney, killing 83.
 <br/><br/>
-En 1977 : Capital punishment in the United States resumes after a ten-year hiatus, as convicted murderer Gary Gilmore is executed by firing squad in Utah.
+En 1977 : SFR Yugoslavia's Prime minister, Džemal Bijedić, his wife and six others are killed in a plane crash in Bosnia and Herzegovina.
 <br/><br/>
-En 1969 : Black Panther Party members Bunchy Carter and John Huggins are killed during a meeting in Campbell Hall on the campus of UCLA.
+En 1976 : Lebanese Christian militias kill at least 1,000 in Karantina, Beirut.
 <br/><br/>
-En 1966 : Palomares incident: A B-52 bomber collides with a KC-135 Stratotanker over Spain, killing seven airmen, and dropping three 70-kiloton nuclear bombs near the town of Palomares and another one into the sea.
+En 1974 : A Disengagement of Forces agreement is signed between the Israeli and Egyptian governments, ending conflict on the Egyptian front of the Yom Kippur War.
 <br/><br/>
-En 1961 : U.S. President Dwight D. Eisenhower delivers a televised farewell address to the nation three days before leaving office, in which he warns against the accumulation of power by the "military–industrial complex" as well as the dangers of massive spending, especially deficit spending.
+En 1972 : Members of the Mukti Bahini lay down their arms to the government of the newly independent Bangladesh, a month after winning the war against the occupying Pakistan Army.
 <br/><br/>
-En 1961 : Former Congolese Prime Minister Patrice Lumumba is murdered in circumstances suggesting the support and complicity of the governments of Belgium and the United States.
+En 1969 : United Airlines Flight 266 crashes into Santa Monica Bay killing all 32 passengers and six crew members.
 <br/><br/>
-En 1950 : The Great Brink's Robbery: Eleven thieves steal more than $2 million from an armored car company's offices in Boston.
+En 1967 : Albert DeSalvo, the "Boston Strangler", is convicted of numerous crimes and is sentenced to life imprisonment.
 <br/><br/>
-En 1950 : United Nations Security Council Resolution 79 relating to arms control is adopted.
+En 1960 : Capital Airlines Flight 20 crashes into a farm in Charles City County, Virginia, killing all 50 aboard, the third fatal Capital Airlines crash in as many years.
 <br/><br/>
-En 1948 : The Renville Agreement between the Netherlands and Indonesia is ratified.
+En 1958 : Willie O'Ree, the first Black Canadian National Hockey League player, makes his NHL debut with the Boston Bruins.
 <br/><br/>
-En 1946 : The UN Security Council holds its first session.
+En 1945 : World War II: Liberation of Kraków, Poland by the Red Army.
 <br/><br/>
-En 1945 : World War II: The Vistula–Oder Offensive forces German troops out of Warsaw.
+En 1943 : Warsaw Ghetto Uprising: The first uprising of Jews in the Warsaw Ghetto.
 <br/><br/>
-En 1945 : The SS-Totenkopfverbände begin the evacuation of the Auschwitz concentration camp as the Red Army closes in.
+En 1941 : World War II: British troops launch a general counter-offensive against Italian East Africa.
 <br/><br/>
-En 1945 : Swedish diplomat Raoul Wallenberg is taken into Soviet custody while in Hungary; he is never publicly seen again.
+En 1932 : Alt Llobregat insurrection breaks out in Central Catalonia, Spain.
 <br/><br/>
-En 1944 : World War II: Allied forces launch the first of four assaults on Monte Cassino with the intention of breaking through the Winter Line and seizing Rome, an effort that would ultimately take four months and cost 105,000 Allied casualties.
+En 1919 : World War I: The Paris Peace Conference opens in Versailles, France.
 <br/><br/>
-En 1943 : World War II: Greek submarine Papanikolis captures the 200-ton sailing vessel Agios Stefanos and mans her with part of her crew.
+En 1919 : Ignacy Jan Paderewski becomes Prime Minister of the newly independent Poland.
 <br/><br/>
-En 1941 : Franco-Thai War: Vichy French forces inflict a decisive defeat over the Royal Thai Navy.
+En 1915 : Japan issues the "Twenty-One Demands" to the Republic of China in a bid to increase its power in East Asia.
 <br/><br/>
-En 1920 : Alcohol Prohibition begins in the United States as the Volstead Act goes into effect.
+En 1913 : First Balkan War: A Greek flotilla defeats the Ottoman Navy in the Naval Battle of Lemnos, securing the islands of the Northern Aegean Sea for Greece.
 <br/><br/>
-En 1918 : Finnish Civil War: The first serious battles take place between the Red Guards and the White Guard.
+En 1911 : Eugene B. Ely lands on the deck of the USS Pennsylvania anchored in San Francisco Bay, the first time an aircraft landed on a ship.
 <br/><br/>
-En 1917 : The United States pays Denmark $25 million for the Virgin Islands.
+En 1896 : An X-ray generating machine is exhibited for the first time by H. L. Smith.
 <br/><br/>
-En 1915 : Russia defeats Ottoman Turkey in the Battle of Sarikamish during the Caucasus Campaign of World War I.
+En 1886 : Modern field hockey is born with the formation of The Hockey Association in England.
 <br/><br/>
-En 1912 : British polar explorer Captain Robert Falcon Scott reaches the South Pole, one month after Roald Amundsen.
+En 1871 : Wilhelm I of Germany is proclaimed Kaiser Wilhelm in the Hall of Mirrors of the Palace of Versailles (France) towards the end of the Franco-Prussian War. Wilhelm already had the title of German Emperor since the constitution of 1 January 1871, but he had hesitated to accept the title.
 <br/><br/>
-En 1904 : Anton Chekhov's The Cherry Orchard receives its premiere performance at the Moscow Art Theatre.
+En 1866 : Wesley College is established in Melbourne, Australia.
 <br/><br/>
-En 1903 : El Yunque National Forest in Puerto Rico becomes part of the United States National Forest System as the Luquillo Forest Reserve.
+En 1806 : Jan Willem Janssens surrenders the Dutch Cape Colony to the British.
 <br/><br/>
-En 1899 : The United States takes possession of Wake Island in the Pacific Ocean.
+En 1788 : The first elements of the First Fleet carrying 736 convicts from Great Britain to Australia arrive at Botany Bay.
 <br/><br/>
-En 1893 : Lorrin A. Thurston, along with the Citizens' Committee of Public Safety, led the Overthrow of the Kingdom of Hawaii and the government of Queen Liliʻuokalani.
+En 1778 : James Cook is the first known European to discover the Hawaiian Islands, which he names the "Sandwich Islands".
 <br/><br/>
-En 1885 : A British force defeats a large Dervish army at the Battle of Abu Klea in the Sudan.
+En 1701 : Frederick I crowns himself King in Prussia in Königsberg.
 <br/><br/>
-En 1873 : A group of Modoc warriors defeats the United States Army in the First Battle of the Stronghold, part of the Modoc War.
+En 1670 : Henry Morgan captures Panama.
 <br/><br/>
-En 1852 : The United Kingdom signs the Sand River Convention with the South African Republic.
+En 1586 : The magnitude 7.9 Tenshō earthquake strikes Honshu, Japan, killing 8,000 people and triggering a tsunami.
 <br/><br/>
-En 1811 : Mexican War of Independence: In the Battle of Calderón Bridge, a heavily outnumbered Spanish force of 6,000 troops defeats nearly 100,000 Mexican revolutionaries.
+En 1562 : Pope Pius IV reopens the Council of Trent for its third and final session.
 <br/><br/>
-En 1799 : Maltese patriot Dun Mikiel Xerri, along with a number of other patriots, is executed.
+En 1486 : King Henry VII of England marries Elizabeth of York, daughter of Edward IV, uniting the House of Lancaster and the House of York.
 <br/><br/>
-En 1781 : American Revolutionary War: Battle of Cowpens: Continental troops under Brigadier General Daniel Morgan defeat British forces under Lieutenant Colonel Banastre Tarleton at the battle in South Carolina.
+En 1126 : Emperor Huizong abdicates the Chinese throne in favour of his son Emperor Qinzong.
 <br/><br/>
-En 1773 : Captain James Cook leads the first expedition to sail south of the Antarctic Circle.
+En 532 : Nika riots in Constantinople fail.
 <br/><br/>
-En 1649 : The Second Ormonde Peace creates an alliance between the Irish Royalists and Confederates during the War of the Three Kingdoms. The coalition was then decisively defeated during the Cromwellian conquest of Ireland.
-<br/><br/>
-En 1648 : England's Long Parliament passes the "Vote of No Addresses", breaking off negotiations with King Charles I and thereby setting the scene for the second phase of the English Civil War.
-<br/><br/>
-En 1641 : Reapers' War: The Junta de Braços (parliamentary assembly) of the Principality of Catalonia accepts the proposal of establishment of the Catalan Republic under French protection.
-<br/><br/>
-En 1608 : Emperor Susenyos I of Ethiopia surprises an Oromo army at Ebenat; his army reportedly kills 12,000 Oromo at the cost of 400 of his men.
-<br/><br/>
-En 1595 : During the French Wars of Religion, Henry IV of France declares war on Spain.
-<br/><br/>
-En 1562 : France grants religious toleration to the Huguenots in the Edict of Saint-Germain.
-<br/><br/>
-En 1524 : Giovanni da Verrazzano sets sail westward from Madeira to find a sea route to the Pacific Ocean.
-<br/><br/>
-En 1377 : Pope Gregory XI reaches Rome, after deciding to move the Papacy back to Rome from Avignon.
-<br/><br/>
-En 1362 : Saint Marcellus' flood kills at least 25,000 people on the shores of the North Sea.
-<br/><br/>
-En -38 : Octavian divorces his wife Scribonia and marries Livia Drusilla, ending the fragile peace between the Second Triumvirate and Sextus Pompey.
+En 474 : Seven-year-old Leo II succeeds his maternal grandfather Leo I as Byzantine emperor. He dies ten months later.
 <br/><br/>
