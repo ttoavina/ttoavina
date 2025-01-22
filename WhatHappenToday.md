@@ -4,97 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 21/1 ?(Hover on the year)</h1>
+<h1> What happen this day 22/1 ?(Hover on the year)</h1>
 
-En 2023 : Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.
+En 2024 : Ram Mandir is inaugurated by Indian Prime Minister Narendra Modi at Ayodhya, Uttar Pradesh after 500 years of dispute.
 <br/><br/>
-En 2017 : Over 400 cities across America and 160+ countries worldwide participate in a large-scale women's march, on Donald Trump's first full day as President of the United States.
+En 2009 : U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.
 <br/><br/>
-En 2014 : Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
+En 2007 : At least 88 people are killed when two car bombs explode in the Bab Al-Sharqi market in central Baghdad, Iraq.
 <br/><br/>
-En 2011 : Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
+En 2006 : Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous president.
 <br/><br/>
-En 2009 : Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
+En 1999 : Australian missionary Graham Staines and his two sons are burned alive by radical Hindus while sleeping in their car in Eastern India.
 <br/><br/>
-En 2005 : In Belmopan, Belize, the unrest over the government's new taxes erupts into riots.
+En 1998 : Space Shuttle program: space shuttle Endeavour launches on STS-89 to dock with the Russian space station Mir.
 <br/><br/>
-En 2004 : NASA's MER-A (the Mars Rover Spirit) ceases communication with mission control. The problem lies in the management of its flash memory and is fixed remotely from Earth on February 6.
+En 1995 : Israeli–Palestinian conflict: Beit Lid suicide bombing: In central Israel, near Netanya, two Gazans blow themselves up at a military transit point, killing 19 Israeli soldiers.
 <br/><br/>
-En 2003 : A 7.6 magnitude earthquake strikes the Mexican state of Colima, killing 29 and leaving approximately 10,000 people homeless.
+En 1992 : Rebel forces occupy Zaire's national radio station in Kinshasa and broadcast a demand for the government's resignation.
 <br/><br/>
-En 2000 : Ecuador: After the Ecuadorian Congress is seized by indigenous organizations, Col. Lucio Gutiérrez, Carlos Solorzano and Antonio Vargas depose President Jamil Mahuad. Gutierrez is later replaced by Gen. Carlos Mendoza, who resigns and allows Vice-President Gustavo Noboa to succeed Mahuad.
+En 1992 : Space Shuttle program: The space shuttle Discovery launches on STS-42 carrying Dr. Roberta Bondar, who becomes the first Canadian woman and the first neurologist in space.
 <br/><br/>
-En 1999 : War on Drugs: In one of the largest drug busts in American history, the United States Coast Guard intercepts a ship with over 4,300 kilograms (9,500 lb) of cocaine on board.
+En 1987 : Philippine security forces open fire on a crowd of 10,000–15,000 demonstrators at Malacañang Palace, Manila, killing 13.
 <br/><br/>
-En 1997 : The U.S. House of Representatives votes 395–28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
+En 1984 : The Apple Macintosh, the first consumer computer to popularize the computer mouse and the graphical user interface, is introduced during a Super Bowl XVIII television commercial.
 <br/><br/>
-En 1985 : Galaxy Airlines Flight 203 crashes near Reno–Tahoe International Airport in Reno, Nevada, killing 70 people.
+En 1973 : The Supreme Court of the United States delivers its decisions in Roe v. Wade and Doe v. Bolton, legalizing elective abortion in all fifty states.
 <br/><br/>
-En 1981 : Production of the DeLorean sports car begins in Dunmurry, Northern Ireland, United Kingdom.
+En 1973 : The crew of Apollo 17 addresses a joint session of Congress after the completion of the final Apollo Moon landing mission.
 <br/><br/>
-En 1980 : Iran Air Flight 291 crashes in the Alborz Mountains while on approach to Mehrabad International Airport in Tehran, Iran, killing 128 people.
+En 1973 : A chartered Boeing 707 explodes in flames upon landing at Kano Airport, Nigeria, killing 176.
 <br/><br/>
-En 1976 : Commercial service of Concorde begins with the London-Bahrain and Paris-Rio routes.
+En 1973 : In a bout for the world heavyweight boxing championship in Kingston, Jamaica, challenger George Foreman knocks down champion Joe Frazier six times in the first two rounds before the fight is stopped by referee Arthur Mercante.
 <br/><br/>
-En 1971 : The current Emley Moor transmitting station, the tallest free-standing structure in the United Kingdom, begins transmitting UHF broadcasts.
+En 1971 : The Singapore Declaration, one of the two most important documents to the uncodified constitution of the Commonwealth of Nations, is issued.
 <br/><br/>
-En 1968 : Vietnam War, Battle of Khe Sanh: One of the most publicized and controversial battles of the war begins.
+En 1970 : The Boeing 747, the world's first "jumbo jet", enters commercial service for launch customer Pan American Airways with its maiden voyage from New York's John F. Kennedy International Airport to London Heathrow Airport.
 <br/><br/>
-En 1968 : A B-52 bomber crashes near Thule Air Base, contaminating the area after its nuclear payload ruptures. One of the four bombs remains unaccounted for after the cleanup operation is complete.
+En 1968 : Apollo Program: Apollo 5 lifts off carrying the first Lunar module into space.
 <br/><br/>
-En 1963 : The Chicago North Shore and Milwaukee Railroad ends operation.
+En 1968 : Operation Igloo White, a US electronic surveillance system to stop communist infiltration into South Vietnam begins installation.
 <br/><br/>
-En 1960 : Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia with Miss Sam, a female rhesus monkey on board.
+En 1967 : Between dozens and hundreds of anti-Somocista demonstrators are killed by the Nicaraguan National Guard in Managua.
 <br/><br/>
-En 1960 : Avianca Flight 671 crashes at Montego Bay, Jamaica airport, killing 37 people.
+En 1963 : The Élysée Treaty of cooperation between France and West Germany is signed by Charles de Gaulle and Konrad Adenauer.
 <br/><br/>
-En 1960 : A coal mine collapses at Holly Country, South Africa, killing 435 miners.
+En 1957 : Israel withdraws from the Sinai Peninsula.
 <br/><br/>
-En 1954 : The first nuclear-powered submarine, the USS Nautilus, is launched in Groton, Connecticut by Mamie Eisenhower, the First Lady of the United States.
+En 1957 : The New York City "Mad Bomber", George P. Metesky, is arrested in Waterbury, Connecticut and charged with planting more than 30 bombs.
 <br/><br/>
-En 1951 : The catastrophic eruption of Mount Lamington in Papua New Guinea claims 2,942 lives.
+En 1947 : KTLA, the first commercial television station west of the Mississippi River, begins operation in Hollywood.
 <br/><br/>
-En 1950 : American lawyer and government official Alger Hiss is convicted of perjury.
+En 1946 : In Iran, Qazi Muhammad declares the independent people's Republic of Mahabad at Chahar Cheragh Square in the Kurdish city of Mahabad; he becomes the new president and Haji Baba Sheikh becomes the prime minister.
 <br/><br/>
-En 1948 : The Flag of Quebec is adopted and flown for the first time over the National Assembly of Quebec. The day is marked annually as Québec Flag Day.
+En 1946 : Creation of the Central Intelligence Group, forerunner of the Central Intelligence Agency.
 <br/><br/>
-En 1943 : As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
+En 1944 : World War II: The Allies commence Operation Shingle, an assault on Anzio and Nettuno, Italy.
 <br/><br/>
-En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto was established.
+En 1943 : World War II: Australian and American forces defeat Japanese army and navy units in the bitterly fought Battle of Buna–Gona.
 <br/><br/>
-En 1941 : Sparked by the murder of a German officer in Bucharest, Romania the day before, members of the Iron Guard engaged in a rebellion and pogrom killing 125 Jews.
+En 1941 : World War II: British and Commonwealth troops capture Tobruk from Italian forces during Operation Compass.
 <br/><br/>
-En 1932 : Finland and the Soviet Union sign a non-aggression treaty.
+En 1927 : Teddy Wakelam gives the first live radio commentary of a football match, between Arsenal F.C. and Sheffield United at Highbury.
 <br/><br/>
-En 1931 : Sir Isaac Isaacs is sworn in as the first Australian-born Governor-General of Australia.
+En 1924 : Ramsay MacDonald becomes the first Labour Prime Minister of the United Kingdom.
 <br/><br/>
-En 1925 : Albania declares itself a republic.
+En 1919 : Act Zluky is signed, unifying the Ukrainian People's Republic and the West Ukrainian National Republic.
 <br/><br/>
-En 1919 : A revolutionary Irish parliament is founded and declares the independence of the Irish Republic. One of the first engagements of the Irish War of Independence takes place.
+En 1917 : American entry into World War I: President Woodrow Wilson of the still-neutral United States calls for "peace without victory" in Europe.
 <br/><br/>
-En 1915 : Kiwanis International is founded in Detroit.
+En 1915 : Over 600 people are killed in Guadalajara, Mexico, when a train plunges off the tracks into a deep canyon.
 <br/><br/>
-En 1911 : The first Monte Carlo Rally takes place.
+En 1906 : SS Valencia runs aground on rocks on Vancouver Island, British Columbia, killing more than 130.
 <br/><br/>
-En 1908 : New York City passes the Sullivan Ordinance, making it illegal for women to smoke in public, only to have the measure vetoed by the mayor.
+En 1905 : Bloody Sunday in Saint Petersburg, beginning of the 1905 revolution.
 <br/><br/>
-En 1893 : The Tati Concessions Land, formerly part of Matabeleland, is formally annexed to the Bechuanaland Protectorate, now Botswana.
+En 1901 : Edward VII is proclaimed King of the United Kingdom after the death of his mother, Queen Victoria.
 <br/><br/>
-En 1854 : The RMS Tayleur sinks off Lambay Island on her maiden voyage from Liverpool to Australia with great loss of life.
+En 1890 : The United Mine Workers of America is founded in Columbus, Ohio.
 <br/><br/>
-En 1793 : After being found guilty of treason by the French National Convention, Louis XVI of France is executed by guillotine.
+En 1879 : The Battle of Isandlwana during the Anglo-Zulu War results in a British defeat.
 <br/><br/>
-En 1789 : The first American novel, The Power of Sympathy or the Triumph of Nature Founded in Truth by William Hill Brown, is printed in Boston.
+En 1879 : The Battle of Rorke's Drift, also during the Anglo-Zulu War and just some 15 km (9.3 mi) away from Isandlwana, results in a British victory.
 <br/><br/>
-En 1774 : Abdul Hamid I becomes Sultan of the Ottoman Empire and Caliph of Islam.
+En 1863 : The January Uprising breaks out in Poland, Lithuania and Belarus. The aim of the national movement is to regain Polish–Lithuanian–Ruthenian Commonwealth from occupation by Russia.
 <br/><br/>
-En 1749 : The Teatro Filarmonico in Verona is destroyed by fire, as a result of a torch being left behind in the box of a nobleman after a performance. It is rebuilt in 1754.
+En 1849 : Second Anglo-Sikh War: The Siege of Multan ends after nine months when the last Sikh defenders of Multan, Punjab, surrender.
 <br/><br/>
-En 1720 : Sweden and Prussia sign the Treaty of Stockholm.
+En 1824 : The Ashantis defeat British forces in the Gold Coast.
 <br/><br/>
-En 1535 : Following the Affair of the Placards, the French king leads an anti-Protestant procession through Paris.
+En 1808 : The Portuguese royal family arrives in Brazil after fleeing the French army's invasion of Portugal two months earlier.
 <br/><br/>
-En 1525 : The Swiss Anabaptist Movement is founded when Conrad Grebel, Felix Manz, George Blaurock, and about a dozen others baptize each other in the home of Manz's mother in Zürich, breaking a thousand-year tradition of church-state union.
+En 1689 : The Convention Parliament convenes to determine whether James II and VII, the last Roman Catholic monarch of England, Ireland and Scotland, had vacated the thrones of England and Ireland when he fled to France in 1688.
 <br/><br/>
-En 763 : Following the Battle of Bakhamra between Alids and Abbasids near Kufa, the Alid rebellion ends with the death of Ibrahim, brother of Isa ibn Musa.
+En 1555 : The Ava Kingdom falls to the Taungoo Dynasty in what is now Myanmar.
+<br/><br/>
+En 1517 : The Ottoman Empire under Selim I defeats the Mamluk Sultanate and captures present-day Egypt at the Battle of Ridaniya.
+<br/><br/>
+En 1506 : The first contingent of 150 Swiss Guards arrives at the Vatican.
+<br/><br/>
+En 871 : Battle of Basing: The West Saxons led by King Æthelred I are defeated by the Danelaw Vikings at Basing.
+<br/><br/>
+En 613 : Eight-month-old Constantine is crowned as co-emperor (Caesar) by his father Heraclius at Constantinople.
 <br/><br/>
