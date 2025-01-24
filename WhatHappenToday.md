@@ -4,113 +4,87 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 23/1 ?(Hover on the year)</h1>
+<h1> What happen this day 24/1 ?(Hover on the year)</h1>
 
-En 2024 : Northwestern Air Flight 738 crashes after takeoff from Fort Smith Airport, Northwest Territories, Canada, killing six people.
+En 2018 : Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
 <br/><br/>
-En 2022 : Mutinying Burkinabè soldiers led by Paul-Henri Sandaogo Damiba depose and detain President Roch Marc Christian Kaboré amid widespread anti-government protests.
+En 2011 : At least 35 are killed and 180 injured in a bombing at Moscow's Domodedovo Airport.
 <br/><br/>
-En 2018 : A 7.9 Mw  earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities.
+En 2009 : Cyclone Klaus makes landfall near Bordeaux, France, causing 26 deaths as well as extensive disruptions to public transport and power supplies.
 <br/><br/>
-En 2018 : A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials.
+En 2003 : The United States Department of Homeland Security officially begins operation.
 <br/><br/>
-En 2018 : The China–United States trade war begins when President Donald Trump places tariffs on Chinese solar panels and washing machines.
+En 1990 : Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.
 <br/><br/>
-En 2003 : A very weak signal from Pioneer 10 is detected for the last time, but no usable data can be extracted.
+En 1989 : Notorious serial killer Ted Bundy, with over 30 known victims, is executed by the electric chair at the Florida State Prison.
 <br/><br/>
-En 2002 : U.S. journalist Daniel Pearl is kidnapped in Karachi, Pakistan and subsequently murdered.
+En 1987 : About 20,000 protestors march in a civil rights demonstration in Forsyth County, Georgia, United States.
 <br/><br/>
-En 2001 : Five people attempt to set themselves on fire in Beijing's Tiananmen Square, an act that many people later claim is staged by the Chinese Communist Party to frame Falun Gong and thus escalate their persecution.
+En 1986 : The Voyager 2 space probe makes its closest approach to Uranus.
 <br/><br/>
-En 1998 : Netscape announces Mozilla, with the intention to release Communicator code as open source.
+En 1984 : Apple Computer places the Macintosh personal computer on sale in the United States.
 <br/><br/>
-En 1997 : Madeleine Albright becomes the first woman to serve as United States Secretary of State.
+En 1978 : Soviet satellite Kosmos 954, with a nuclear reactor on board, burns up in Earth's atmosphere, scattering radioactive debris over Canada's Northwest Territories. Only 1% is recovered.
 <br/><br/>
-En 1987 : Mohammed Said Hersi Morgan sends a "letter of death" to Somali President Siad Barre, proposing the genocide of the Isaaq people.
+En 1977 : The Atocha massacre occurs in Madrid during the Spanish transition to democracy.
 <br/><br/>
-En 1986 : The Rock and Roll Hall of Fame inducts its first members: Little Richard, Chuck Berry, James Brown, Ray Charles, Sam Cooke, Fats Domino, The Everly Brothers, Buddy Holly, Jerry Lee Lewis and Elvis Presley.
+En 1972 : Japanese Sgt. Shoichi Yokoi is found hiding in a Guam jungle, where he had been since the end of World War II.
 <br/><br/>
-En 1982 : World Airways Flight 30 overshoots the runway at Logan International Airport in Boston, Massachusetts, and crashes into Boston Harbor. Two people are missing and presumed dead.
+En 1968 : Vietnam War: The 1st Australian Task Force launches Operation Coburg against the North Vietnamese Army and Viet Cong during wider fighting around Long Bình and Biên Hòa.
 <br/><br/>
-En 1968 : USS Pueblo (AGER-2) is attacked and seized by the Korean People's Navy.
+En 1966 : Air India Flight 101 crashes into Mont Blanc.
 <br/><br/>
-En 1967 : Diplomatic relations between the Soviet Union and Ivory Coast are established.
+En 1961 : Goldsboro B-52 crash: A bomber carrying two H-bombs breaks up in mid-air over North Carolina. The uranium core of one weapon remains lost.
 <br/><br/>
-En 1967 : Milton Keynes (England) is founded as a new town by Order in Council, with a planning brief to become a city of 250,000 people. Its initial designated area enclosed three existing towns and twenty-one villages. The area to be developed was largely farmland, with evidence of continuous settlement dating back to the Bronze Age.
+En 1960 : Algerian War: Some units of European volunteers in Algiers stage an insurrection known as the "barricades week", during which they seize government buildings and clash with local police.
 <br/><br/>
-En 1964 : The 24th Amendment to the United States Constitution, prohibiting the use of poll taxes in national elections, is ratified.
+En 1946 : The United Nations General Assembly passes its first resolution to establish the United Nations Atomic Energy Commission.
 <br/><br/>
-En 1963 : The Guinea-Bissau War of Independence officially begins when PAIGC guerrilla fighters attack the Portuguese Army stationed in Tite.
+En 1943 : World War II: Franklin D. Roosevelt and Winston Churchill conclude a conference in Casablanca.
 <br/><br/>
-En 1960 : The bathyscaphe USS Trieste breaks a depth record by descending to 10,911 metres (35,797 ft) in the Pacific Ocean.
+En 1942 : World War II: The Allies bombard Bangkok, leading Thailand, then under Japanese control, to declare war against the United States and United Kingdom.
 <br/><br/>
-En 1958 : After a general uprising and rioting in the streets, President Marcos Pérez Jiménez leaves Venezuela.
+En 1939 : The deadliest earthquake in Chilean history strikes Chillán, killing approximately 28,000 people.
 <br/><br/>
-En 1957 : American inventor Walter Frederick Morrison sells the rights to his flying disc to the Wham-O toy company, which later renames it the "Frisbee".
+En 1935 : Gottfried Krueger Brewing Company starts selling the first canned beer.
 <br/><br/>
-En 1950 : The Knesset resolves that Jerusalem is the capital of Israel.
+En 1933 : The 20th Amendment to the United States Constitution is ratified, changing the beginning and end of terms for all elected federal offices.
 <br/><br/>
-En 1945 : World War II: German admiral Karl Dönitz launches Operation Hannibal.
+En 1918 : The Gregorian calendar is introduced in Russia by decree of the Council of People's Commissars effective February 14 (New Style).
 <br/><br/>
-En 1943 : World War II: Troops of the British Eighth Army capture Tripoli in Libya from the German–Italian Panzer Army.
+En 1916 : In Brushaber v. Union Pacific Railroad Co., the Supreme Court of the United States declares the federal income tax constitutional.
 <br/><br/>
-En 1942 : World War II: The Battle of Rabaul commences Japan's invasion of Australia's Territory of New Guinea.
+En 1915 : World War I: British Grand Fleet battle cruisers under Vice-Admiral Sir David Beatty engage Rear-Admiral Franz von Hipper's battle cruisers in the Battle of Dogger Bank.
 <br/><br/>
-En 1941 : Charles Lindbergh testifies before the U.S. Congress and recommends that the United States negotiate a neutrality pact with Adolf Hitler.
+En 1908 : The first Boy Scout troop is organized in England by Robert Baden-Powell.
 <br/><br/>
-En 1937 : The trial of the anti-Soviet Trotskyist center sees seventeen mid-level Communists accused of sympathizing with Leon Trotsky and plotting to overthrow Joseph Stalin's regime.
+En 1900 : Second Boer War: Boers stop a British attempt to break the Siege of Ladysmith in the Battle of Spion Kop.
 <br/><br/>
-En 1920 : The Netherlands refuses to surrender the exiled Kaiser Wilhelm II of Germany to the Allies.
+En 1859 : The United Principalities of Moldavia and Wallachia (later named Romania) is formed as a personal union under the rule of Domnitor Alexandru Ioan Cuza.
 <br/><br/>
-En 1919 : The First Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Velykomykhailivka.
+En 1857 : The University of Calcutta is formally founded as the first fully fledged university in South Asia.
 <br/><br/>
-En 1912 : The International Opium Convention is signed at The Hague.
+En 1848 : California Gold Rush: James W. Marshall finds gold at Sutter's Mill near Sacramento.
 <br/><br/>
-En 1909 : RMS Republic, a passenger ship of the White Star Line, becomes the first ship to use the CQD distress signal after colliding with another ship, the SS Florida, off the Massachusetts coastline, an event that kills six people. The Republic sinks the next day.
+En 1835 : Slaves in Salvador da Bahia, Brazil, stage a revolt, which is instrumental in ending slavery there 50 years later.
 <br/><br/>
-En 1904 : Ålesund Fire: The Norwegian coastal town Ålesund is devastated by fire, leaving 10,000 people homeless and one person dead. Kaiser Wilhelm II funds the rebuilding of the town in Jugendstil style.
+En 1817 : Crossing of the Andes: Many soldiers of Juan Gregorio de las Heras are captured during the action of Picheuta.
 <br/><br/>
-En 1900 : Second Boer War: The Battle of Spion Kop between the forces of the South African Republic and the Orange Free State and British forces ends in a British defeat.
+En 1758 : During the Seven Years' War the leading burghers of Königsberg submit to Elizabeth of Russia, thus forming Russian Prussia (until 1763).
 <br/><br/>
-En 1899 : The Malolos Constitution is inaugurated, establishing the First Philippine Republic. Emilio Aguinaldo is sworn in as its first president.
+En 1742 : Charles VII Albert becomes Holy Roman Emperor.
 <br/><br/>
-En 1879 : Anglo-Zulu War: The Battle of Rorke's Drift ends.
+En 1679 : King Charles II of England dissolves the Cavalier Parliament.
 <br/><br/>
-En 1870 : In Montana, U.S. cavalrymen kill 173 Native Americans, mostly women and children, in what becomes known as the Marias Massacre.
+En 1651 : Arauco War: Spanish and Mapuche authorities meet in the Parliament of Boroa renewing the fragile peace established at the parliaments of Quillín in 1641 and 1647.
 <br/><br/>
-En 1849 : Elizabeth Blackwell is awarded her M.D. by the Geneva Medical College of Geneva, New York, becoming the United States' first female doctor.
+En 1536 : King Henry VIII of England suffers an accident while jousting, leading to a brain injury that historians say may have influenced his later erratic behaviour and possible impotence.
 <br/><br/>
-En 1846 : Slavery in Tunisia is abolished.
+En 1458 : Matthias Corvinus is elected King of Hungary.
 <br/><br/>
-En 1795 : After an extraordinary charge across the frozen Zuiderzee, the French cavalry captured 14 Dutch ships and 850 guns, in a rare occurrence of a battle between ships and cavalry.
+En 1438 : The Council of Basel suspends Pope Eugene IV.
 <br/><br/>
-En 1793 : Second Partition of Poland.
+En 914 : Start of the First Fatimid invasion of Egypt.
 <br/><br/>
-En 1789 : Georgetown College, the first Catholic university in the United States, is founded in Georgetown, Maryland (now a part of Washington, D.C.) when Bishop John Carroll, Rev. Robert Molyneux, and Rev. John Ashton purchase land for the proposed academy for the education of youth.
-<br/><br/>
-En 1719 : The Principality of Liechtenstein is created within the Holy Roman Empire.
-<br/><br/>
-En 1656 : Blaise Pascal publishes the first of his Lettres provinciales.
-<br/><br/>
-En 1579 : The Union of Utrecht forms a Protestant republic in the Netherlands.
-<br/><br/>
-En 1571 : The Royal Exchange opens in London.
-<br/><br/>
-En 1570 : James Stewart, 1st Earl of Moray, regent for the infant King James VI of Scotland, is assassinated by firearm, the first recorded instance of such.
-<br/><br/>
-En 1565 : The Deccan Sultanates defeat Rama Raya of the Vijayanagara Empire at the Battle of Talikota, resulting in over 100,000 casualties and the destruction of the capital Vijayanagara.
-<br/><br/>
-En 1556 : The deadliest earthquake in history, the Shaanxi earthquake, hits Shaanxi province, China. The death toll may have been as high as 830,000.
-<br/><br/>
-En 1546 : Having published nothing for eleven years, François Rabelais publishes the Tiers Livre, his sequel to Gargantua and Pantagruel.
-<br/><br/>
-En 1368 : Zhu Yuanzhang proclaims himself the Hongwu Emperor, beginning the Ming dynasty.
-<br/><br/>
-En 1264 : In the conflict between King Henry III of England and his rebellious barons led by Simon de Montfort, King Louis IX of France issues the Mise of Amiens, a one-sided decision in favour of Henry that later leads to the Second Barons' War.
-<br/><br/>
-En 1229 : The episcopal seat is moved from Nousiainen to Koroinen (located near the current centre of Turku) by the permission of Pope Gregory IX. The date is starting to be considered as the founding of Turku.
-<br/><br/>
-En 971 : Using crossbows, Song dynasty troops soundly defeat a war elephant corps of the Southern Han at Shao.
-<br/><br/>
-En 393 : Roman emperor Theodosius I proclaims his eight-year-old son Honorius co-emperor.
+En 41 : Claudius is proclaimed Roman emperor by the Praetorian Guard after they assassinate the previous emperor, his nephew Caligula.
 <br/><br/>
