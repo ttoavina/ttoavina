@@ -4,97 +4,111 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/1 ?(Hover on the year)</h1>
+<h1> What happen this day 28/1 ?(Hover on the year)</h1>
 
-En 2023 : Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident.
+En 2023 : Protests begin after police beat and kill Tyre Nichols.
 <br/><br/>
-En 2023 : A shooting at a synagogue in Neve Yaakov, East Jerusalem, kills seven people and injures three others.
+En 2021 : A nitrogen leak at a poultry food processing facility in Gainesville, Georgia kills six and injures at least ten.
 <br/><br/>
-En 2017 : A naming ceremony for the chemical element tennessine takes place in the United States.
+En 2006 : The roof of one of the buildings at the Katowice International Fair in Poland collapses due to the weight of snow, killing 65 and injuring more than 170 others.
 <br/><br/>
-En 2014 : Rojava conflict: The Kobanî Canton declares its autonomy from the Syrian Arab Republic.
+En 2002 : TAME Flight 120, a Boeing 727-100, crashes in the Andes mountains in southern Colombia, killing 94.
 <br/><br/>
-En 2013 : Two hundred and forty-two people die in a nightclub fire in the Brazilian city of Santa Maria, Rio Grande do Sul.
+En 1988 : In R v Morgentaler the Supreme Court of Canada strikes down all anti-abortion laws.
 <br/><br/>
-En 2011 : Arab Spring: The Yemeni Revolution begins as over 16,000 protestors demonstrate in Sana'a.
+En 1986 : Space Shuttle program: STS-51-L mission: Space Shuttle Challenger disintegrates after liftoff, killing all seven astronauts on board.
 <br/><br/>
-En 2011 : Within Ursa Minor, H1504+65, a white dwarf with the hottest known surface temperature in the universe at 200,000 K, was documented.
+En 1985 : Supergroup USA for Africa (United Support of Artists for Africa) records the hit single We Are the World, to help raise funds for Ethiopian famine relief.
 <br/><br/>
-En 2010 : The 2009 Honduran constitutional crisis ends when Porfirio Lobo Sosa becomes the new President of Honduras.
+En 1984 : Tropical Storm Domoina makes landfall in southern Mozambique, eventually causing 214 deaths and some of the most severe flooding so far recorded in the region.
 <br/><br/>
-En 2010 : Apple announces the iPad.
+En 1982 : US Army General James L. Dozier is rescued by Italian anti-terrorism forces from captivity by the Red Brigades.
 <br/><br/>
-En 2003 : The first selections for the National Recording Registry are announced by the Library of Congress.
+En 1981 : Ronald Reagan lifts remaining domestic petroleum price and allocation controls in the United States, helping to end the 1979 energy crisis and begin the 1980s oil glut.
 <br/><br/>
-En 2002 : An explosion at a military storage facility in Lagos, Nigeria, kills at least 1,100 people and displaces over 20,000 others.
+En 1980 : USCGC Blackthorn collides with the tanker Capricorn while leaving Tampa, Florida and capsizes, killing 23 Coast Guard crewmembers.
 <br/><br/>
-En 1996 : In a military coup, Colonel Ibrahim Baré Maïnassara deposes the first democratically elected president of Niger, Mahamane Ousmane.
+En 1977 : The first day of the Great Lakes Blizzard of 1977, which dumps 3 metres (10 ft) of snow in one day in Upstate New York. Buffalo, Syracuse, Watertown, and surrounding areas are most affected.
 <br/><br/>
-En 1996 : Germany first observes the International Holocaust Remembrance Day.
+En 1965 : The current design of the Flag of Canada is chosen by an act of Parliament.
 <br/><br/>
-En 1983 : The pilot shaft of the Seikan Tunnel, the world's longest sub-aqueous tunnel (53.85 km) between the Japanese islands of Honshū and Hokkaidō, breaks through.
+En 1964 : An unarmed United States Air Force T-39 Sabreliner on a training mission is shot down over Erfurt, East Germany, by a Soviet MiG-19.
 <br/><br/>
-En 1980 : Through cooperation between the U.S. and Canadian governments, six American diplomats secretly escape hostilities in Iran in the culmination of the Canadian Caper.
+En 1960 : The National Football League announces expansion teams for Dallas to start in the 1960 NFL season and Minneapolis-St. Paul for the 1961 NFL season.
 <br/><br/>
-En 1973 : The Paris Peace Accords officially ends the Vietnam War. Colonel William Nolde is killed in action becoming the conflict's last recorded American combat casualty.
+En 1958 : The Lego company patents the design of its Lego bricks, still compatible with bricks produced today.
 <br/><br/>
-En 1967 : Apollo program: Astronauts Gus Grissom, Ed White and Roger Chaffee are killed in a fire during a test of their Apollo 1 spacecraft at the Kennedy Space Center, Florida.
+En 1956 : Elvis Presley makes his first national television appearance.
 <br/><br/>
-En 1967 : Cold War: The Soviet Union, the United States, and the United Kingdom sign the Outer Space Treaty in Washington, D.C., banning deployment of nuclear weapons in space, and limiting the usage of the Moon and other celestial bodies to peaceful purposes.
+En 1945 : World War II: Supplies begin to reach the Republic of China over the newly reopened Burma Road.
 <br/><br/>
-En 1965 : South Vietnamese Prime Minister Trần Văn Hương is removed by the military junta of Nguyễn Khánh.
+En 1941 : Franco-Thai War: Final air battle of the conflict. A Japanese-mediated armistice goes into effect later in the day.
 <br/><br/>
-En 1961 : The Soviet submarine S-80 sinks when its snorkel malfunctions, flooding the boat.
+En 1938 : The World Land Speed Record on a public road is broken by Rudolf Caracciola in the Mercedes-Benz W125 Rekordwagen at a speed of 432.7 kilometres per hour (268.9 mph).
 <br/><br/>
-En 1951 : Nuclear testing at the Nevada Test Site begins with Operation Ranger.
+En 1935 : Iceland becomes the first Western country to legalize therapeutic abortion.
 <br/><br/>
-En 1945 : World War II: The Soviet 322nd Rifle Division liberates the remaining inmates of Auschwitz-Birkenau.
+En 1933 : The name Pakistan is coined by Choudhry Rahmat Ali Khan and is accepted by Indian Muslims who then thereby adopted it further for the Pakistan Movement seeking independence.
 <br/><br/>
-En 1944 : World War II: The 900-day Siege of Leningrad is lifted.
+En 1932 : Japanese forces attack Shanghai.
 <br/><br/>
-En 1943 : World War II: The Eighth Air Force sorties ninety-one B-17s and B-24s to attack the U-boat construction yards at Wilhelmshaven, Germany. This was the first American bombing attack on Germany.
+En 1922 : Knickerbocker Storm: Washington, D.C.'s biggest snowfall, causes a disaster when the roof of the Knickerbocker Theatre collapses, killing over 100 people.
 <br/><br/>
-En 1939 : First flight of the Lockheed P-38 Lightning.
+En 1920 : Foundation of the Spanish Legion.
 <br/><br/>
-En 1928 : Bundaberg tragedy: a diphtheria vaccine is contaminated with Staph. aureus bacterium, resulting in the deaths of twelve children in the Australian town of Bundaberg.
+En 1919 : The Order of the White Rose of Finland is established by Baron Gustaf Mannerheim, the regent of the Kingdom of Finland.
 <br/><br/>
-En 1927 : Ibn Saud takes the title of King of Nejd.
+En 1918 : Finnish Civil War: The Red Guard rebels seize control of the capital, Helsinki; members of the Senate of Finland go underground.
 <br/><br/>
-En 1924 : Six days after his death Lenin's body is carried into a specially erected mausoleum.
+En 1916 : The Canadian province of Manitoba grants women the right to vote and run for office in provincial elections (although still excluding women of Indigenous or Asian heritage), marking the first time women in Canada are granted voting rights.
 <br/><br/>
-En 1918 : Beginning of the Finnish Civil War.
+En 1915 : An act of the U.S. Congress creates the United States Coast Guard as a branch of the United States Armed Forces.
 <br/><br/>
-En 1916 : World War I: The British government passes the Military Service Act that introduces conscription in the United Kingdom.
+En 1909 : United States troops leave Cuba, with the exception of Guantanamo Bay Naval Base, after being there since the Spanish–American War.
 <br/><br/>
-En 1880 : Thomas Edison receives a patent for his incandescent lamp.
+En 1908 : Members of the Portuguese Republican Party fail in their attempted coup d'état against the administrative dictatorship of Prime Minister João Franco.
 <br/><br/>
-En 1874 : Modest Mussorgsky's opera Boris Godunov premieres in Mariinsky Theatre in St.Petersburg
+En 1902 : The Carnegie Institution of Washington is founded in Washington, D.C., with a $10 million gift from Andrew Carnegie.
 <br/><br/>
-En 1869 : Boshin War: Tokugawa rebels establish the Ezo Republic in Hokkaidō.
+En 1896 : Walter Arnold of East Peckham, Kent, becomes the first person to be convicted of speeding. He was fined one shilling, plus costs, for speeding at 8 mph (13 km/h), thereby exceeding the contemporary speed limit of 2 mph (3.2 km/h).
 <br/><br/>
-En 1868 : Boshin War: The Battle of Toba–Fushimi begins, between forces of the Tokugawa shogunate and pro-Imperial factions; it will end in defeat for the shogunate, and is a pivotal point in the Meiji Restoration.
+En 1878 : Yale Daily News becomes the first independent daily college newspaper in the United States.
 <br/><br/>
-En 1825 : The U.S. Congress approves Indian Territory (in what is present-day Oklahoma), clearing the way for forced relocation of the Eastern Indians on the "Trail of Tears".
+En 1871 : Franco-Prussian War: The Siege of Paris ends in French defeat and an armistice.
 <br/><br/>
-En 1820 : A Russian expedition led by Fabian Gottlieb von Bellingshausen and Mikhail Petrovich Lazarev discovers the Antarctic continent, approaching the Antarctic coast.
+En 1855 : A locomotive on the Panama Canal Railway runs from the Atlantic Ocean to the Pacific Ocean for the first time.
 <br/><br/>
-En 1785 : The University of Georgia is founded, the first state-chartered public university in the United States.
+En 1851 : Northwestern University becomes the first chartered university in Illinois.
 <br/><br/>
-En 1776 : American Revolutionary War: Henry Knox's "noble train of artillery" arrives in Cambridge, Massachusetts.
+En 1846 : The Battle of Aliwal, India, is won by British troops commanded by Sir Harry Smith.
 <br/><br/>
-En 1759 : Spanish forces clash with indigenous Huilliches of southern Chile in the battle of Río Bueno.
+En 1813 : Jane Austen's Pride and Prejudice is first published in the United Kingdom.
 <br/><br/>
-En 1695 : Mustafa II becomes the Ottoman sultan and Caliph of Islam in Istanbul on the death of Ahmed II. Mustafa rules until his abdication in 1703.
+En 1754 : Sir Horace Walpole coins the word serendipity in a letter to a friend.
 <br/><br/>
-En 1606 : Gunpowder Plot: The trial of Guy Fawkes and other conspirators begins, ending with their execution on January 31.
+En 1724 : The Russian Academy of Sciences is founded in St. Petersburg, Russia, by Peter the Great, and implemented by Senate decree. It is called the St. Petersburg Academy of Sciences until 1917.
 <br/><br/>
-En 1343 : Pope Clement VI issues the papal bull Unigenitus to justify the power of the pope and the use of indulgences. Nearly 200 years later, Martin Luther would protest this.
+En 1671 : Original city of Panama (founded in 1519) is destroyed by a fire when privateer Henry Morgan sacks and sets fire to it. The site of the previously devastated city is still in ruins (see Panama Viejo).
 <br/><br/>
-En 1302 : Dante Alighieri is condemned in absentia and exiled from Florence.
+En 1624 : Sir Thomas Warner founds the first British colony in the Caribbean, on the island of Saint Kitts.
 <br/><br/>
-En 1186 : Henry VI, the son and heir of the Holy Roman Emperor Frederick I, marries Constance of Sicily.
+En 1591 : Execution of Agnes Sampson, accused of witchcraft in Edinburgh.
 <br/><br/>
-En 945 : The co-emperors Stephen and Constantine are overthrown and forced to become monks by Constantine VII, who becomes sole emperor of the Byzantine Empire.
+En 1573 : Articles of the Warsaw Confederation are signed, sanctioning freedom of religion in Poland.
 <br/><br/>
-En 98 : Trajan succeeds his adoptive father Nerva as Roman emperor; under his rule the Roman Empire will reach its maximum extent.
+En 1568 : The Edict of Torda prohibits the persecution of individuals on religious grounds in John Sigismund Zápolya's Eastern Hungarian Kingdom.
+<br/><br/>
+En 1547 : Edward VI, the nine-year-old son of Henry VIII, becomes King of England on his father's death.
+<br/><br/>
+En 1521 : The Diet of Worms begins, lasting until May 25.
+<br/><br/>
+En 1393 : King Charles VI of France was nearly killed when several other dancers' costumes caught fire during a masquerade ball in Paris.
+<br/><br/>
+En 1077 : Walk to Canossa: The excommunication of Henry IV, Holy Roman Emperor, is lifted after he humbles himself before Pope Gregory VII at Canossa in Italy.
+<br/><br/>
+En 1069 : Robert de Comines, appointed Earl of Northumbria by William the Conqueror, rides into Durham, England, where he is defeated and killed by rebels. This incident leads to the Harrying of the North.
+<br/><br/>
+En 814 : The death of Charlemagne, the first Holy Roman Emperor, brings about the accession of his son Louis the Pious as ruler of the Frankish Empire.
+<br/><br/>
+En 98 : On the death of Nerva, Trajan is declared Roman emperor in Cologne, the seat of his government in lower Germany.
 <br/><br/>
