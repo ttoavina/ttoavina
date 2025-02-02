@@ -4,109 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 1/2 ?(Hover on the year)</h1>
+<h1> What happen this day 2/2 ?(Hover on the year)</h1>
 
-En 2022 : Five-year-old Moroccan boy Rayan Aourram falls into a 32-meter (105 feet) deep well in Ighran village in Tamorot commune, Chefchaouen Province, Morocco, but dies four days later, before rescue workers reached him.
+En 2021 : The Burmese military establishes the State Administration Council, the military junta, after deposing the democratically elected government in the 2021 Myanmar coup d'état.
 <br/><br/>
-En 2021 : A coup d'état in Myanmar removes Aung San Suu Kyi from power and restores military rule.
+En 2012 : The ferry MV Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 146–165 dead.
 <br/><br/>
-En 2013 : The Shard, the sixth-tallest building in Europe, opens its viewing gallery to the public.
+En 2007 : Police officer Filippo Raciti is killed when a clash breaks out in the Sicily derby between Catania and Palermo, in the Serie A, the top flight of Italian football. This event led to major changes in stadium regulations in Italy.
 <br/><br/>
-En 2012 : Seventy-four people are killed and over 500 injured as a result of clashes between fans of Egyptian football teams Al Masry and Al Ahly in the city of Port Said.
+En 2005 : The Government of Canada introduces the Civil Marriage Act. This legislation would become law on July 20, 2005, legalizing same-sex marriage.
 <br/><br/>
-En 2009 : The first cabinet of Jóhanna Sigurðardóttir was formed in Iceland, making her the country's first female prime minister and the world's first openly gay head of government.
+En 2004 : Swiss tennis player Roger Federer becomes the No. 1 ranked men's singles player, a position he will hold for a record 237 weeks.
 <br/><br/>
-En 2007 : The National Weather Service in the United States switches from the Fujita scale to the new Enhanced Fujita scale to measure the intensity and strength of tornadoes.
+En 2000 : First digital cinema projection in Europe (Paris) realized by Philippe Binant with the DLP CINEMA technology developed by Texas Instruments.
 <br/><br/>
-En 2005 : King Gyanendra of Nepal carries out a coup d'état to capture the democracy, becoming Chairman of the Councils of ministers.
+En 1998 : Cebu Pacific Flight 387 crashes into Mount Sumagaya in the Philippines, killing all 104 people on board.
 <br/><br/>
-En 2004 : Hajj pilgrimage stampede: In a stampede at the Hajj pilgrimage in Saudi Arabia, 251 people are trampled to death and 244 injured.
+En 1990 : Apartheid: F. W. de Klerk announces the unbanning of the African National Congress and promises to release Nelson Mandela.
 <br/><br/>
-En 2004 : Double suicide attack in Erbil on the offices of Iraqi Kurdish political parties by members of Jama'at al-Tawhid wal-Jihad
+En 1989 : Soviet–Afghan War: The last Soviet armoured column leaves Kabul.
 <br/><br/>
-En 2003 : Space Shuttle Columbia disintegrated during the reentry of mission STS-107 into the Earth's atmosphere, killing all seven astronauts aboard.
+En 1987 : After the 1986 People Power Revolution, the Philippines enacts a new constitution.
 <br/><br/>
-En 2002 : Daniel Pearl, American journalist and South Asia Bureau Chief of The Wall Street Journal, kidnapped on January 23, is beheaded and mutilated by his captors.
+En 1982 : Hama massacre: The government of Syria attacks the town of Hama.
 <br/><br/>
-En 1998 : Rear Admiral Lillian E. Fishburne becomes the first female African American to be promoted to rear admiral.
+En 1980 : Reports surface that the FBI is targeting allegedly corrupt Congressmen in the Abscam operation.
 <br/><br/>
-En 1996 : The Communications Decency Act is passed by the U.S. Congress.
+En 1971 : Idi Amin replaces President Milton Obote as leader of Uganda.
 <br/><br/>
-En 1992 : The Chief Judicial Magistrate of Bhopal court declares Warren Anderson, ex-CEO of Union Carbide, a fugitive under Indian law for failing to appear in the Bhopal disaster case.
+En 1971 : The international Ramsar Convention for the conservation and sustainable utilization of wetlands is signed in Ramsar, Mazandaran, Iran.
 <br/><br/>
-En 1991 : A runway collision between USAir Flight 1493 and SkyWest Flight 5569 at Los Angeles International Airport results in the deaths of 34 people, and injuries to 30 others.
+En 1966 : Pakistan suggests a six-point agenda with Kashmir after the Indo-Pakistani War of 1965.
 <br/><br/>
-En 1991 : A magnitude 6.8 earthquake strikes the Hindu Kush region, killing at least 848 people in Afghanistan, Pakistan and present-day Tajikistan.
+En 1959 : Nine experienced ski hikers in the northern Ural Mountains in the Soviet Union die under mysterious circumstances.
 <br/><br/>
-En 1981 : The Underarm bowling incident of 1981 occurred when Trevor Chappell bowls underarm on the final delivery of a game between Australia and New Zealand at the Melbourne Cricket Ground (MCG).
+En 1954 : The Detroit Red Wings played in the first outdoor hockey game by any NHL team in an exhibition against the Marquette Branch Prison Pirates in Marquette, Michigan.
 <br/><br/>
-En 1979 : Iranian Ayatollah Ruhollah Khomeini returns to Tehran after nearly 15 years of exile.
+En 1943 : World War II: The Battle of Stalingrad comes to an end when Soviet troops accept the surrender of the last organized German troops in the city.
 <br/><br/>
-En 1974 : A fire in the 25-story Joelma Building in São Paulo, Brazil kills 189 and injures 293.
+En 1942 : The Osvald Group is responsible for the first, active event of anti-Nazi resistance in Norway, to protest the inauguration of Vidkun Quisling.
 <br/><br/>
-En 1972 : Kuala Lumpur becomes a city by a royal charter granted by the Yang di-Pertuan Agong of Malaysia.
+En 1935 : Leonarde Keeler administers polygraph tests to two murder suspects, the first time polygraph evidence was admitted in U.S. courts.
 <br/><br/>
-En 1968 : Vietnam War: The execution of Viet Cong officer Nguyễn Văn Lém by South Vietnamese National Police Chief Nguyễn Ngọc Loan is recorded on motion picture film, as well as in an iconic still photograph taken by Eddie Adams.
+En 1934 : The Export-Import Bank of the United States is incorporated.
 <br/><br/>
-En 1968 : Canada's three military services, the Royal Canadian Navy, the Canadian Army and the Royal Canadian Air Force, are unified into the Canadian Forces.
+En 1925 : Serum run to Nome: Dog sleds reach Nome, Alaska with diphtheria serum, inspiring the Iditarod race.
 <br/><br/>
-En 1968 : The New York Central Railroad and the Pennsylvania Railroad are merged to form Penn Central Transportation.
+En 1922 : Ulysses by James Joyce is published.
 <br/><br/>
-En 1964 : The Beatles have their first number one hit in the United States with "I Want to Hold Your Hand".
+En 1922 : The uprising called the "pork mutiny" starts in the region between Kuolajärvi and Savukoski in Finland.
 <br/><br/>
-En 1960 : Four black students stage the first of the Greensboro sit-ins at a lunch counter in Greensboro, North Carolina.
+En 1920 : The Tartu Peace Treaty is signed between Estonia and Russia.
 <br/><br/>
-En 1957 : Northeast Airlines Flight 823 crashes on Rikers Island in New York City, killing 20 people and injuring 78 others.
+En 1913 : Grand Central Terminal opens in New York City.
 <br/><br/>
-En 1950 : The first prototype of the MiG-17 makes its maiden flight.
+En 1909 : The Paris Film Congress opens, an attempt by European producers to form an equivalent to the MPCC cartel in the United States.
 <br/><br/>
-En 1946 : Trygve Lie of Norway is picked to be the first United Nations Secretary-General.
+En 1901 : Funeral of Queen Victoria.
 <br/><br/>
-En 1946 : The Parliament of Hungary abolishes the monarchy after nine centuries, and proclaims the Hungarian Republic.
+En 1900 : Boston, Detroit, Milwaukee, Baltimore, Chicago and St. Louis, agree to form baseball's American League.
 <br/><br/>
-En 1942 : World War II: Josef Terboven, Reichskommissar of German-occupied Norway, appoints Vidkun Quisling the Minister President of the National Government.
+En 1899 : The Australian Premiers' Conference held in Melbourne decides to locate Australia's capital city, Canberra, between Sydney and Melbourne.
 <br/><br/>
-En 1942 : World War II: U.S. Navy conducts Marshalls–Gilberts raids, the first offensive action by the United States against Japanese forces in the Pacific Theater.
+En 1887 : In Punxsutawney, Pennsylvania, the first Groundhog Day is observed.
 <br/><br/>
-En 1942 : Voice of America, the official external radio and television service of the United States government, begins broadcasting with programs aimed at areas controlled by the Axis powers.
+En 1881 : The sentences of the trial of the warlocks of Chiloé are imparted.
 <br/><br/>
-En 1942 : Mao Zedong makes a speech on "Reform in Learning, the Party and Literature", which puts into motion the Yan'an Rectification Movement.
+En 1876 : The National League of Professional Baseball Clubs of Major League Baseball is formed.
 <br/><br/>
-En 1924 : Russia–United Kingdom relations are restored, over six years after the Communist revolution.
+En 1870 : The Seven Brothers (Seitsemän veljestä), a novel by Finnish author Aleksis Kivi, is published first time in several thin booklets.
 <br/><br/>
-En 1908 : Lisbon Regicide: King Carlos I of Portugal and Infante Luis Filipe are shot dead in Lisbon.
+En 1868 : Pro-Imperial forces capture Osaka Castle from the Tokugawa shogunate and burn it to the ground.
 <br/><br/>
-En 1900 : Great Britain, defeated by Boers in key battles, names Lord Roberts commander of British forces in South Africa.
+En 1850 : Brigham Young declares war on Timpanogos in the Battle at Fort Utah.
 <br/><br/>
-En 1897 : Shinhan Bank, the oldest bank in South Korea, opens in Seoul.
+En 1848 : Mexican–American War: The Treaty of Guadalupe Hidalgo is signed.
 <br/><br/>
-En 1896 : La bohème premieres in Turin at the Teatro Regio (Turin), conducted by the young Arturo Toscanini.
+En 1814 : The last of the River Thames frost fairs comes to an end.
 <br/><br/>
-En 1895 : Fountains Valley, Pretoria, the oldest nature reserve in Africa, is proclaimed by President Paul Kruger.
+En 1725 : J. S. Bach leads the first performance of his chorale cantata Mit Fried und Freud ich fahr dahin, BWV 125, based on Luther's paraphrase of the Nunc dimittis.
 <br/><br/>
-En 1893 : Thomas A. Edison finishes construction of the first motion picture studio, the Black Maria in West Orange, New Jersey.
+En 1709 : Alexander Selkirk is rescued after being shipwrecked on a desert island, inspiring Daniel Defoe's adventure book Robinson Crusoe.
 <br/><br/>
-En 1884 : The first volume (A to Ant) of the Oxford English Dictionary is published.
+En 1653 : New Amsterdam (later renamed The City of New York) is incorporated.
 <br/><br/>
-En 1865 : President Abraham Lincoln signs the Thirteenth Amendment to the United States Constitution.
+En 1645 : Scotland in the Wars of the Three Kingdoms: Battle of Inverlochy.
 <br/><br/>
-En 1864 : Second Schleswig War: Prussian forces crossed the border into Schleswig, starting the war.
+En 1536 : Spaniard Pedro de Mendoza founds Buenos Aires, Argentina.
 <br/><br/>
-En 1861 : American Civil War: Texas secedes from the United States and joins the Confederacy a week later.
+En 1461 : Wars of the Roses: The Battle of Mortimer's Cross results in the death of Owen Tudor.
 <br/><br/>
-En 1835 : Slavery is abolished in Mauritius.
+En 1438 : Nine leaders of the Transylvanian peasant revolt are executed at Torda.
 <br/><br/>
-En 1814 : Mayon in the Philippines erupts, killing around 1,200 people, which was the most devastating eruption of the volcano.
+En 1428 : An intense earthquake struck the Principality of Catalonia, with the epicenter near Camprodon. Widespread destruction and heavy casualties were reported.
 <br/><br/>
-En 1796 : The capital of Upper Canada is moved from Newark to York.
+En 1207 : Terra Mariana, eventually comprising present-day Latvia and Estonia, is established.
 <br/><br/>
-En 1793 : French Revolutionary Wars: France declares war on the United Kingdom and the Netherlands.
+En 1141 : The Battle of Lincoln, at which Stephen, King of England is defeated and captured by the allies of Empress Matilda.
 <br/><br/>
-En 1713 : The Kalabalik or Skirmish at Bender results from the Ottoman sultan's order that his unwelcome guest, King Charles XII of Sweden, be seized.
+En 1032 : Conrad II, Holy Roman Emperor becomes king of Burgundy.
 <br/><br/>
-En 1662 : The Chinese general Koxinga seizes the island of Taiwan after a nine-month siege.
+En 962 : Translatio imperii: Pope John XII crowns Otto I, Holy Roman Emperor, the first Holy Roman Emperor in nearly 40 years.
 <br/><br/>
-En 1411 : The First Peace of Thorn is signed in Thorn (Toruń), Monastic State of the Teutonic Knights (Prussia).
+En 880 : Battle of Lüneburg Heath: King Louis III of France is defeated by the Norse Great Heathen Army at Lüneburg Heath in Saxony.
 <br/><br/>
-En 1327 : The teenaged Edward III is crowned King of England, but the country is ruled by his mother Queen Isabella and her lover Roger Mortimer.
+En 506 : Alaric II, eighth king of the Visigoths, promulgates the Breviary of Alaric (Breviarium Alaricianum or Lex Romana Visigothorum), a collection of "Roman law".
 <br/><br/>
