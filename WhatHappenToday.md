@@ -4,99 +4,95 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 5/2 ?(Hover on the year)</h1>
+<h1> What happen this day 6/2 ?(Hover on the year)</h1>
 
-En 2021 : Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested.
+En 2023 : Two earthquakes measuring Mww 7.8 and 7.5 struck near the border between Turkey and Syria with a maximum Mercalli intensity of XII (Extreme). The earthquakes resulted in numerous aftershocks and a death toll of 57,658 people.
 <br/><br/>
-En 2020 : United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial.
+En 2021 : U.S. Secretary of State Antony Blinken suspends agreements with Guatemala, El Salvador and Honduras to send asylum seekers back to their home countries.
 <br/><br/>
-En 2019 : Pope Francis becomes the first Pope in history to visit and perform papal mass in the Arabian Peninsula during his visit to Abu Dhabi.
+En 2018 : SpaceX's Falcon Heavy, a super heavy launch vehicle, makes its maiden flight.
 <br/><br/>
-En 2016 : New Zealand politician Steven Joyce is hit by a flung rubber dildo in a Waitangi Day protest.
+En 2016 : An earthquake of magnitude 6.6 strikes southern Taiwan, killing 117 people.
 <br/><br/>
-En 2008 : A major tornado outbreak across the Southern United States kills 57.
+En 2012 : A magnitude 6.7 earthquake hits the central Philippine island of Negros, leaving 112 people dead.
 <br/><br/>
-En 2004 : Rebels from the Revolutionary Artibonite Resistance Front capture the city of Gonaïves, starting the 2004 Haiti rebellion.
+En 2006 : Stephen Harper becomes Prime Minister of Canada.
 <br/><br/>
-En 2000 : Russian forces massacre at least 60 civilians in the Novye Aldi suburb of Grozny, Chechnya.
+En 2000 : Second Chechen War: Russia captures Grozny, Chechnya, forcing the separatist Chechen Republic of Ichkeria government into exile.
 <br/><br/>
-En 1997 : The so-called Big Three banks in Switzerland announce the creation of a $71 million fund to aid Holocaust survivors and their families.
+En 1998 : Washington National Airport is renamed Ronald Reagan National Airport.
 <br/><br/>
-En 1994 : Byron De La Beckwith is convicted of the 1963 murder of civil rights leader Medgar Evers.
+En 1996 : Willamette Valley Flood: Floods in the Willamette Valley of Oregon, United States, causes over US$500 million in property damage throughout the Pacific Northwest.
 <br/><br/>
-En 1994 : Markale massacres, more than 60 people are killed and some 200 wounded as a mortar shell explodes in a downtown marketplace in Sarajevo.
+En 1996 : Birgenair Flight 301 crashed off the coast of the Dominican Republic, killing all 189 people on board. This is the deadliest aviation accident involving a Boeing 757.
 <br/><br/>
-En 1988 : Manuel Noriega is indicted on drug smuggling and money laundering charges.
+En 1989 : The Round Table Talks start in Poland, thus marking the beginning of the overthrow of communism in Eastern Europe.
 <br/><br/>
-En 1985 : Ugo Vetere, then the mayor of Rome, and Chedli Klibi, then the mayor of Carthage, meet in Tunis to sign a treaty of friendship officially ending the Third Punic War which lasted 2,131 years.
+En 1987 : Justice Mary Gaudron becomes the first woman to be appointed to the High Court of Australia.
 <br/><br/>
-En 1981 : Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies.
+En 1981 : The National Resistance Army of Uganda launches an attack on a Ugandan Army installation in the central Mubende District to begin the Ugandan Bush War.
 <br/><br/>
-En 1975 : Riots break out in Lima, Peru after the police forces go on strike the day before. The uprising (locally known as the Limazo) is bloodily suppressed by the military dictatorship.
+En 1978 : The Blizzard of 1978, one of the worst Nor'easters in New England history, hit the region, with sustained winds of 65 mph and snowfall of four inches an hour.
 <br/><br/>
-En 1971 : Astronauts land on the Moon in the Apollo 14 mission.
+En 1976 : In testimony before a United States Senate subcommittee, Lockheed Corporation president Carl Kotchian admits that the company had paid out approximately $3 million in bribes to the office of Japanese Prime Minister Kakuei Tanaka.
 <br/><br/>
-En 1967 : Cultural Revolution: The Shanghai People's Commune is formally proclaimed, with Yao Wenyuan and Zhang Chunqiao being appointed as its leaders.
+En 1973 : The Ms  7.6 Luhuo earthquake strikes Sichuan Province, causing widespread destruction and killing at least 2,199 people.
 <br/><br/>
-En 1963 : The European Court of Justice's ruling in Van Gend en Loos v Nederlandse Administratie der Belastingen establishes the principle of direct effect, one of the most important, if not the most important, decisions in the development of European Union law.
+En 1959 : Jack Kilby of Texas Instruments files the first patent for an integrated circuit.
 <br/><br/>
-En 1962 : French President Charles de Gaulle calls for Algeria to be granted independence.
+En 1959 : At Cape Canaveral, Florida, the first successful test firing of a Titan intercontinental ballistic missile is accomplished.
 <br/><br/>
-En 1958 : Gamal Abdel Nasser is nominated to be the first president of the United Arab Republic.
+En 1958 : Eight Manchester United F.C. players and 15 other passengers are killed in the Munich air disaster.
 <br/><br/>
-En 1958 : A hydrogen bomb known as the Tybee Bomb is lost by the US Air Force off the coast of Savannah, Georgia, never to be recovered.
+En 1952 : Elizabeth II becomes Queen of the United Kingdom and her other Realms and Territories and Head of the Commonwealth upon the death of her father, George VI. At the exact moment of succession, she was in a tree house at the Treetops Hotel in Kenya.
 <br/><br/>
-En 1945 : World War II: General Douglas MacArthur returns to Manila.
+En 1951 : The Canadian Army enters combat in the Korean War.
 <br/><br/>
-En 1941 : World War II: Allied forces begin the Battle of Keren to capture Keren, Eritrea.
+En 1951 : The Broker, a Pennsylvania Railroad passenger train derails near Woodbridge Township, New Jersey. The accident kills 85 people and injures over 500 more. The wreck is one of the worst rail disasters in American history.
 <br/><br/>
-En 1939 : Generalísimo Francisco Franco becomes the 68th "Caudillo de España", or Leader of Spain.
+En 1944 : World War II: The Great Raids Against Helsinki begins.
 <br/><br/>
-En 1933 : Mutiny on Royal Netherlands Navy warship HNLMS De Zeven Provinciën off the coast of Sumatra, Dutch East Indies.
+En 1934 : Far-right leagues rally in front of the Palais Bourbon in an attempted coup against the French Third Republic, creating a political crisis in France.
 <br/><br/>
-En 1924 : The Royal Greenwich Observatory begins broadcasting the hourly time signals known as the Greenwich Time Signal.
+En 1922 : The Washington Naval Treaty is signed in Washington, D.C., limiting the naval armaments of United States, Britain, Japan, France, and Italy.
 <br/><br/>
-En 1919 : Charlie Chaplin, Mary Pickford, Douglas Fairbanks, and D. W. Griffith launch United Artists.
+En 1919 : The five-day Seattle General Strike begins, as more than 65,000 workers in the city of Seattle, Washington, walk off the job.
 <br/><br/>
-En 1918 : Stephen W. Thompson shoots down a German airplane; this is the first aerial victory by the U.S. military.
+En 1918 : British women over the age of 30 who meet minimum property qualifications, get the right to vote when  Representation of the People Act 1918 is passed by Parliament.
 <br/><br/>
-En 1918 : SS Tuscania is torpedoed off the coast of Ireland; it is the first ship carrying American troops to Europe to be torpedoed and sunk.
+En 1900 : The Permanent Court of Arbitration, an international arbitration court at The Hague, is created when the Senate of the Netherlands ratifies an 1899 peace conference decree.
 <br/><br/>
-En 1917 : The current constitution of Mexico is adopted, establishing a federal republic with powers separated into independent executive, legislative, and judicial branches.
+En 1899 : Spanish–American War: The Treaty of Paris, a peace treaty between the United States and Spain, is ratified by the United States Senate.
 <br/><br/>
-En 1917 : The Congress of the United States passes the Immigration Act of 1917 over President Woodrow Wilson's veto.
+En 1865 : The municipal administration of Finland is established.
 <br/><br/>
-En 1913 : Greek military aviators, Michael Moutoussis and Aristeidis Moraitinis perform the first naval air mission in history, with a Farman MF.7 hydroplane.
+En 1862 : American Civil War: Forces under the command of Ulysses S. Grant and Andrew H. Foote give the Union its first victory of the war, capturing Fort Henry, Tennessee in the Battle of Fort Henry.
 <br/><br/>
-En 1913 : Claudio Monteverdi's last opera L'incoronazione di Poppea was performed theatrically for the first time in more than 250 years.
+En 1851 : The largest Australian bushfires in a populous region in recorded history take place in the state of Victoria.
 <br/><br/>
-En 1907 : Belgian chemist Leo Baekeland announces the creation of Bakelite, the world's first synthetic plastic.
+En 1843 : The first minstrel show in the United States, The Virginia Minstrels, opens (Bowery Amphitheatre in New York City).
 <br/><br/>
-En 1905 : In Mexico, the General Hospital of Mexico is inaugurated, started with four basic specialties.
+En 1840 : Signing of the Treaty of Waitangi, establishing New Zealand as a British colony.
 <br/><br/>
-En 1901 : J. P. Morgan incorporates U.S. Steel in the state of New Jersey, although the company would not start doing business until February 25 and the assets of Andrew Carnegie's Carnegie Steel Company, Elbert H. Gary's Federal Steel Company, and William Henry Moore's National Steel Company were not acquired until April 1.
+En 1833 : Otto becomes the first modern King of Greece.
 <br/><br/>
-En 1885 : King Leopold II of Belgium establishes the Congo as a personal possession.
+En 1820 : The first 86 African American immigrants sponsored by the American Colonization Society depart New York to start a settlement in present-day Liberia.
 <br/><br/>
-En 1869 : The largest alluvial gold nugget in history, called the "Welcome Stranger", is found in Moliagul, Victoria, Australia.
+En 1819 : The Treaty of Singapore was signed by Sir Thomas Stamford Raffles, Hussein Shah of Johor, and Temenggong Abdul Rahman, and it is now recognised as the founding of modern Singapore.
 <br/><br/>
-En 1859 : Alexandru Ioan Cuza, Prince of Moldavia, is also elected as prince of Wallachia, joining the two principalities as a personal union called the United Principalities, an autonomous region within the Ottoman Empire, which ushered in the birth of the modern Romanian state.
+En 1806 : Battle of San Domingo: British naval victory against the French in the Caribbean.
 <br/><br/>
-En 1852 : The New Hermitage Museum in Saint Petersburg, Russia, one of the largest and oldest museums in the world, opens to the public.
+En 1788 : Massachusetts becomes the sixth state to ratify the United States Constitution.
 <br/><br/>
-En 1818 : Jean-Baptiste Bernadotte ascends to the thrones of Sweden and Norway.
+En 1778 : American Revolutionary War: In Paris the Treaty of Alliance and the Treaty of Amity and Commerce are signed by the United States and France signaling official recognition of the new republic.
 <br/><br/>
-En 1810 : Peninsular War: Siege of Cádiz begins.
+En 1778 : New York became the third state to ratify the Articles of Confederation.
 <br/><br/>
-En 1783 : In Calabria, a sequence of strong earthquakes begins.
+En 1694 : The warrior queen Dandara, leader of the runaway slaves in Quilombo dos Palmares, Brazil, is captured and commits suicide rather than be returned to a life of slavery.
 <br/><br/>
-En 1597 : A group of early Japanese Christians are killed by the new government of Japan for being seen as a threat to Japanese society.
+En 1685 : James II of England and VII of Scotland is proclaimed King upon the death of his brother Charles II.
 <br/><br/>
-En 1576 : Henry of Navarre abjures Catholicism at Tours and rejoins the Protestant forces in the French Wars of Religion.
+En 1579 : The Diocese of Manila is erected by papal bull, with Domingo de Salazar appointed its first bishop.
 <br/><br/>
-En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan.
-<br/><br/>
-En 62 : Earthquake in Pompeii, Italy.
-<br/><br/>
-En -2 : Caesar Augustus is granted the title pater patriae by the Roman Senate.
+En 590 : Hormizd IV, king of the Sasanian Empire, is overthrown and blinded by his brothers-in-law Vistahm and Vinduyih.
 <br/><br/>
