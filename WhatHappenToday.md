@@ -4,95 +4,83 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 8/2 ?(Hover on the year)</h1>
+<h1> What happen this day 10/2 ?(Hover on the year)</h1>
 
-En 2023 : Two children are killed and six others are injured when a bus crashes into a daycare centre in Laval, Quebec, Canada. The driver is arrested and charged with homicide and dangerous driving.
+En 2021 : The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
 <br/><br/>
-En 2020 : A soldier opens fire in a military camp and a shopping center in Nakhon Ratchasima, Thailand, killing 29 people and injuring 58 others before being shot dead by police the next day. It is considered the deadliest mass shooting in the country's history.
+En 2021 : Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts.
 <br/><br/>
-En 2014 : A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
+En 2018 : Nineteen people are killed and 66 injured when a Kowloon Motor Bus double decker on route 872 in Hong Kong overturns.
 <br/><br/>
-En 2013 : A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
+En 2016 : South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4.
 <br/><br/>
-En 2010 : Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
+En 2013 : Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.
 <br/><br/>
-En 1993 : An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
+En 2009 : The communications satellites Iridium 33 and Kosmos 2251 collide in orbit, destroying both.
 <br/><br/>
-En 1989 : Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport in the Azores, killing all 144 passengers on board.
+En 2004 : Forty-three people are killed and three are injured when a Fokker 50 crashes near Sharjah International Airport.
 <br/><br/>
-En 1986 : Twenty-three people are killed when a VIA Rail passenger train collides with a Canadian National freight train near the town of Hinton, Alberta, making it one of the worst rail accidents in Canada.
+En 2003 : France and Belgium break the NATO procedure of silent approval concerning the timing of protective measures for Turkey in case of a possible war with Iraq.
 <br/><br/>
-En 1983 : A dust storm hits Melbourne, resulting in the worst drought on record and severe weather conditions in the city.
+En 1996 : IBM supercomputer Deep Blue defeats Garry Kasparov in chess for the first time.
 <br/><br/>
-En 1983 : Irish race horse Shergar is stolen and allegedly killed by gunmen in a ransom attempt by the PIRA.
+En 1989 : Ron Brown is elected chairman of the Democratic National Committee, becoming the first African American to lead a major American political party.
 <br/><br/>
-En 1974 : The crew of Skylab 4, the last mission to visit the American space station Skylab, returns to Earth after 84 days in space.
+En 1984 : Kenyan soldiers kill an estimated 5,000 ethnic Somali Kenyans in the Wagalla massacre.
 <br/><br/>
-En 1971 : The NASDAQ stock market index opens for the first time.
+En 1972 : Ras Al Khaimah joins the United Arab Emirates, now making up seven emirates.
 <br/><br/>
-En 1971 : South Vietnamese ground troops launch an incursion into Laos to try to cut off the Ho Chi Minh trail and stop communist infiltration into the country.
+En 1967 : The 25th Amendment to the United States Constitution is ratified.
 <br/><br/>
-En 1968 : American civil rights movement: An attack on Black students from South Carolina State University who are protesting racial segregation leaves three dead and 28 injured in Orangeburg, South Carolina.
+En 1964 : Melbourne–Voyager collision: The aircraft carrier HMAS Melbourne collides with and sinks the destroyer HMAS Voyager off the south coast of New South Wales, Australia, killing 82.
 <br/><br/>
-En 1965 : Eastern Air Lines Flight 663 crashes into the Atlantic Ocean and explodes, killing all 84 people onboard.
+En 1962 : Cold War: Captured American U2 spy-plane pilot Gary Powers is exchanged for captured Soviet spy Rudolf Abel.
 <br/><br/>
-En 1963 : The regime of Prime Minister of Iraq Abd al-Karim Qasim is overthrown by the Ba'ath Party.
+En 1954 : U.S. President Dwight D. Eisenhower warns against United States intervention in Vietnam.
 <br/><br/>
-En 1962 : Nine protestors are killed at Charonne station, Paris, by French police under the command of ex-Vichy official and Parisian Prefect of Police Maurice Papon.
+En 1947 : The Paris Peace Treaties are signed by Italy, Romania, Hungary, Bulgaria, Finland and the Allies of World War II.
 <br/><br/>
-En 1960 : Queen Elizabeth II issues an Order-in-Council, proclaiming the House of Windsor and declaring that her descendants will take the name Mountbatten-Windsor.
+En 1943 : World War II: Attempting to completely lift the Siege of Leningrad, the Soviet Red Army engages German troops and Spanish volunteers in the Battle of Krasny Bor.
 <br/><br/>
-En 1960 : The Hollywood Walk of Fame is founded.
+En 1940 : The Soviet Union begins mass deportations of Polish citizens from occupied eastern Poland to Siberia.
 <br/><br/>
-En 1950 : The Stasi, the secret police of East Germany, is established.
+En 1939 : Spanish Civil War: The Nationalists conclude their conquest of Catalonia and seal the border with France.
 <br/><br/>
-En 1946 : The People's Republic of Korea is dissolved in the North and replaced by the communist-controlled Provisional People's Committee of North Korea.
+En 1936 : Second Italo-Abyssinian War: Italian troops launch the Battle of Amba Aradam against Ethiopian defenders.
 <br/><br/>
-En 1945 : World War II: British and Canadian forces commence Operation Veritable to occupy land between the Maas and Rhine rivers.
+En 1933 : In round 13 of a boxing match at New York City's Madison Square Garden, Primo Carnera knocks out Ernie Schaaf. Schaaf dies four days later.
 <br/><br/>
-En 1945 : World War II: Mikhail Devyataev escapes with nine other Soviet POWs from a Nazi concentration camp in Peenemünde, Usedom.
+En 1930 : The Việt Nam Quốc Dân Đảng launches the failed Yên Bái mutiny in hope of overthrowing French protectorate over Vietnam.
 <br/><br/>
-En 1942 : World War II: Japan invades Singapore.
+En 1923 : Texas Tech University is founded as Texas Technological College in Lubbock, Texas.
 <br/><br/>
-En 1937 : Spanish Civil War: Republican forces establish the Interprovincial Council of Santander, Palencia and Burgos in Cantabria.
+En 1920 : Józef Haller de Hallenburg performs the symbolic wedding of Poland to the sea, celebrating restitution of Polish access to open sea.
 <br/><br/>
-En 1924 : The first state execution in the United States by gas chamber takes place in Nevada.
+En 1920 : About 75% of the population in Zone I votes to join Denmark in the 1920 Schleswig plebiscites.
 <br/><br/>
-En 1915 : D. W. Griffith's controversial landmark film The Birth of a Nation premieres in Los Angeles.
+En 1906 : HMS Dreadnought, the first of a revolutionary new breed of battleships, is christened.
 <br/><br/>
-En 1910 : The Boy Scouts of America is incorporated by William D. Boyce.
+En 1862 : American Civil War: A Union naval flotilla destroys the bulk of the Confederate Mosquito Fleet in the Battle of Elizabeth City on the Pasquotank River in North Carolina.
 <br/><br/>
-En 1904 : Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.
+En 1861 : Jefferson Davis is notified by telegraph that he has been chosen as provisional President of the Confederate States of America.
 <br/><br/>
-En 1904 : The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.
+En 1846 : First Anglo-Sikh War: Battle of Sobraon: British defeat Sikhs in the final battle of the war.
 <br/><br/>
-En 1887 : The Dawes Act is enacted, authorizing the U.S. President to divide Native American tribal land into individual allotments.
+En 1840 : Queen Victoria of the United Kingdom marries Prince Albert of Saxe-Coburg-Gotha.
 <br/><br/>
-En 1885 : The first Japanese immigrants arrive in Hawaii.
+En 1814 : Napoleonic Wars: The Battle of Champaubert ends in French victory over the Russians and the Prussians.
 <br/><br/>
-En 1879 : Sandford Fleming first proposes the adoption of Universal Standard Time at a meeting of the Royal Canadian Institute.
+En 1763 : French and Indian War: The Treaty of Paris ends the war and France cedes Quebec to Great Britain.
 <br/><br/>
-En 1879 : England's cricket team, led by Lord Harris, is attacked in a riot during a match in Sydney.
+En 1712 : Huilliches in Chiloé rebel against Spanish encomenderos.
 <br/><br/>
-En 1865 : Delaware refuses to ratify the Thirteenth Amendment to the U.S. Constitution, delaying the criminalization of slavery until the amendment's national adoption on December 6, 1865. The amendment is ultimately ratified by Delaware on February 12, 1901, the 92nd anniversary of Abraham Lincoln's birth.
+En 1567 : Lord Darnley, second husband of Mary, Queen of Scots, is found strangled following an explosion at the Kirk o' Field house in Edinburgh, Scotland, a suspected assassination.
 <br/><br/>
-En 1837 : Richard Johnson becomes the first and only Vice President of the United States chosen by the Senate.
+En 1502 : Vasco da Gama sets sail from Lisbon, Portugal, on his second voyage to India.
 <br/><br/>
-En 1817 : An army led by Grand Marshal Las Heras crosses the Andes to join San Martín in the liberation of Chile from Spain.
+En 1355 : The St Scholastica Day riot breaks out in Oxford, England, leaving 63 scholars and perhaps 30 locals dead in two days.
 <br/><br/>
-En 1807 : Napoleon defeats the coalition forces of Russian General Bennigsen and Prussian General L'Estocq at the Battle of Eylau.
+En 1306 : In front of the high altar of Greyfriars Church in Dumfries, Robert the Bruce murders John Comyn, sparking the revolution in the Wars of Scottish Independence.
 <br/><br/>
-En 1693 : The College of William & Mary in Williamsburg, Virginia, the second-oldest institution of higher education in the Thirteen Colonies, is granted a charter by King William III and Queen Mary II.
-<br/><br/>
-En 1601 : Robert Devereux, 2nd Earl of Essex, unsuccessfully rebels against Queen Elizabeth I.
-<br/><br/>
-En 1587 : Mary, Queen of Scots is executed on suspicion of having been involved in the Babington Plot to murder her cousin, Queen Elizabeth I.
-<br/><br/>
-En 1347 : The Byzantine civil war of 1341–47 ends with a power-sharing agreement between John VI Kantakouzenos and John V Palaiologos.
-<br/><br/>
-En 1250 : Seventh Crusade: Crusaders engage Ayyubid forces in the Battle of Al Mansurah.
-<br/><br/>
-En 1238 : The Mongols burn the Russian city of Vladimir.
-<br/><br/>
-En 421 : Constantius III becomes co-emperor of the Western Roman Empire.
+En 1258 : The Siege of Baghdad ends with the surrender of the last Abbasid caliph to Hulegu Khan, a prince of the Mongol Empire.
 <br/><br/>
