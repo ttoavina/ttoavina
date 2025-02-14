@@ -4,107 +4,139 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 13/2 ?(Hover on the year)</h1>
+<h1> What happen this day 14/2 ?(Hover on the year)</h1>
 
-En 2021 : Former U.S. President Donald Trump is acquitted in his second impeachment trial.
+En 2019 : Pulwama attack takes place in Lethpora in Pulwama district, Jammu and Kashmir, India in which 40 Central Reserve Police Force personnel and a suicide bomber were killed and 35 were injured.
 <br/><br/>
-En 2021 : A major winter storm causes blackouts and kills at least 82 people in Texas and northern Mexico.
+En 2018 : Jacob Zuma resigns as President of South Africa.
 <br/><br/>
-En 2017 : Kim Jong-nam, brother of North Korean dictator Kim Jong-un, is assassinated at Kuala Lumpur International Airport.
+En 2018 : A shooting at Marjory Stoneman Douglas High School in Parkland, Florida is one of the deadliest school massacres with 17 fatalities and 17 injuries.
 <br/><br/>
-En 2012 : The European Space Agency (ESA) conducted the first launch of the European Vega rocket from Europe's spaceport in Kourou, French Guiana.
+En 2011 : As a part of Arab Spring, the Bahraini uprising begins with a 'Day of Rage'.
 <br/><br/>
-En 2011 : For the first time in more than 100 years the Umatilla, an American Indian tribe, are able to hunt and harvest a bison just outside Yellowstone National Park, restoring a centuries-old tradition guaranteed by a treaty signed in 1855.
+En 2008 : Northern Illinois University shooting: A gunman opens fire in a lecture hall of Northern Illinois University in DeKalb County, Illinois, resulting in six fatalities (including the gunman) and 21 injuries.
 <br/><br/>
-En 2010 : A bomb explodes in the city of Pune, Maharashtra, India, killing 17 and injuring 60 more.
+En 2005 : In Beirut, 23 people, including former Prime Minister Rafic Hariri, are killed when the equivalent of around 1,000 kg of TNT is detonated while Hariri's motorcade drives through the city.
 <br/><br/>
-En 2008 : Australian Prime Minister Kevin Rudd makes a historic apology to the Indigenous Australians and the Stolen Generations.
+En 2005 : Seven people are killed and 151 wounded in a series of bombings by suspected al-Qaeda-linked militants that hit Makati, Davao City, and General Santos, all in the Philippines.
 <br/><br/>
-En 2007 : Taiwan opposition leader Ma Ying-jeou resigns as the chairman of the Kuomintang party after being indicted on charges of embezzlement during his tenure as the mayor of Taipei; Ma also announces his candidacy for the 2008 presidential election.
+En 2005 : YouTube is launched by a group of college students, eventually becoming the largest video sharing website in the world and a main source for viral videos.
 <br/><br/>
-En 2004 : The Harvard–Smithsonian Center for Astrophysics announces the discovery of the universe's largest known diamond, white dwarf star BPM 37093. Astronomers named this star "Lucy" after The Beatles' song "Lucy in the Sky with Diamonds".
+En 2004 : In a suburb of Moscow, Russia, the roof of the Transvaal water park collapses, killing more than 28 people, and wounding 193 others.
 <br/><br/>
-En 2001 : An earthquake measuring 7.6 on the Richter magnitude scale hits El Salvador, killing at least 944.
+En 2003 : Iraq disarmament crisis: UNMOVIC Executive Chairman Hans Blix reports to the United Nations Security Council that disarmament inspectors have found no weapons of mass destruction in Ba'athist Iraq.
 <br/><br/>
-En 1996 : The Nepalese Civil War is initiated in the Kingdom of Nepal by the Communist Party of Nepal (Maoist-Centre).
+En 2000 : The spacecraft NEAR Shoemaker enters orbit around asteroid 433 Eros, the first spacecraft to orbit an asteroid.
 <br/><br/>
-En 1991 : Gulf War: Two laser-guided "smart bombs" destroy the Amiriyah shelter in Baghdad. Allied forces said the bunker was being used as a military communications outpost, but over 400 Iraqi civilians inside were killed.
+En 1998 : An oil tanker train collides with a freight train in Yaoundé, Cameroon, spilling fuel oil. One person scavenging the oil created a massive explosion which killed 120.
 <br/><br/>
-En 1990 : German reunification: An agreement is reached on a two-stage plan to reunite Germany.
+En 1990 : Ninety-two people are killed when Indian Airlines Flight 605 crashes in Bangalore, India.
 <br/><br/>
-En 1984 : Konstantin Chernenko succeeds the late Yuri Andropov as general secretary of the Communist Party of the Soviet Union.
+En 1990 : The Voyager 1 spacecraft takes the photograph of planet Earth that later becomes famous as Pale Blue Dot.
 <br/><br/>
-En 1983 : A cinema fire in Turin, Italy, kills 64 people.
+En 1989 : Union Carbide agrees to pay $470 million to the Indian government for damages it caused in the 1984 Bhopal disaster.
 <br/><br/>
-En 1981 : A series of sewer explosions destroys more than two miles of streets in Louisville, Kentucky.
+En 1989 : Iranian leader Ruhollah Khomeini issues a fatwa encouraging Muslims to kill Salman Rushdie, author of The Satanic Verses.
 <br/><br/>
-En 1979 : An intense windstorm strikes western Washington and sinks a 0.5-mile (0.80 km) long section of the Hood Canal Bridge.
+En 1983 : United American Bank of Knoxville, Tennessee collapses. Its president, Jake Butcher, is later convicted of fraud.
 <br/><br/>
-En 1978 : Hilton bombing: A bomb explodes in a refuse truck outside the Hilton Hotel in Sydney, Australia, killing two refuse collectors and a policeman.
+En 1979 : In Kabul, Setami Milli militants kidnap the American ambassador to Afghanistan, Adolph Dubs who is later killed during a gunfight between his kidnappers and police.
 <br/><br/>
-En 1975 : Fire at One World Trade Center (North Tower) of the World Trade Center in New York.
+En 1966 : Australian currency is decimalized.
 <br/><br/>
-En 1967 : American researchers discover the Madrid Codices by Leonardo da Vinci in the National Library of Spain.
+En 1961 : Discovery of the chemical elements: Element 103, Lawrencium, is first synthesized at the University of California.
 <br/><br/>
-En 1961 : An allegedly 500,000-year-old rock is discovered near Olancha, California, US, that appears to anachronistically encase a spark plug.
+En 1954 : First Indochina war - small French garrison at Đắk Đoa is overrun by the Viet Minh after a week's siege.
 <br/><br/>
-En 1960 : With the success of a nuclear test codenamed "Gerboise Bleue", France becomes the fourth country to possess nuclear weapons.
+En 1949 : The Knesset (parliament of Israel) convenes for the first time.
 <br/><br/>
-En 1960 : Black college students stage the first of the Nashville sit-ins at three lunch counters in Nashville, Tennessee.
+En 1949 : The Asbestos Strike begins in Canada. The strike marks the beginning of the Quiet Revolution in Quebec.
 <br/><br/>
-En 1955 : Israel obtains four of the seven Dead Sea Scrolls.
+En 1947 : The act abolishing all noble ranks and related styles comes into force in Hungary.
 <br/><br/>
-En 1955 : Twenty-nine people are killed when Sabena Flight 503 crashes into Monte Terminillo near Rieti, Italy.
+En 1946 : The Bank of England is nationalized.
 <br/><br/>
-En 1954 : Frank Selvy becomes the only NCAA Division I basketball player ever to score 100 points in a single game.
+En 1945 : World War II: On the first day of the bombing of Dresden, the British Royal Air Force and the United States Army Air Forces begin fire-bombing Dresden.
 <br/><br/>
-En 1951 : Korean War: Battle of Chipyong-ni, which represented the "high-water mark" of the Chinese incursion into South Korea, commences.
+En 1945 : World War II: Navigational error leads to the mistaken bombing of Prague, Czechoslovakia by a United States Army Air Forces squadron of B-17s assisting in the Soviet Red Army's Vistula–Oder Offensive.
 <br/><br/>
-En 1945 : World War II: The siege of Budapest concludes with the unconditional surrender of German and Hungarian forces to the Red Army.
+En 1945 : World War II: Mostar is liberated by Yugoslav partisans
 <br/><br/>
-En 1945 : World War II: Royal Air Force bombers are dispatched to Dresden, Germany to attack the city with a massive aerial bombardment.
+En 1945 : President Franklin D. Roosevelt meets King Ibn Saud of Saudi Arabia aboard the USS Quincy, officially beginning U.S.-Saudi diplomatic relations.
 <br/><br/>
-En 1935 : A jury in Flemington, New Jersey finds Bruno Hauptmann guilty of the 1932 kidnapping and murder of the Lindbergh baby, the son of Charles Lindbergh.
+En 1944 : World War II: In the action of 14 February 1944, a Royal Navy submarine sinks a German-controlled Italian Regia Marina submarine in the Strait of Malacca.
 <br/><br/>
-En 1931 : The British Raj completes its transfer from Calcutta to New Delhi.
+En 1943 : World War II: Rostov-on-Don, Russia is liberated.
 <br/><br/>
-En 1920 : The Negro National League is formed.
+En 1943 : World War II: Tunisia Campaign: General Hans-Jürgen von Arnim's Fifth Panzer Army launches a counter-attack against Allied positions in Tunisia.
 <br/><br/>
-En 1914 : Copyright: In New York City the American Society of Composers, Authors and Publishers is established to protect the copyrighted musical compositions of its members.
+En 1942 : World War II: Battle of Pasir Panjang contributes to the fall of Singapore.
 <br/><br/>
-En 1913 : The 13th Dalai Lama proclaims Tibetan independence following a period of domination by Manchu Qing dynasty and initiated a period of almost four decades of independence.
+En 1939 : World War II: German battleship Bismarck is launched.
 <br/><br/>
-En 1880 : Thomas Edison observes Thermionic emission.
+En 1929 : Saint Valentine's Day Massacre: Seven people, six of them gangster rivals of Al Capone's gang, are murdered in Chicago.
 <br/><br/>
-En 1867 : Work begins on the covering of the Senne, burying Brussels's primary river and creating the modern central boulevards.
+En 1924 : The Computing-Tabulating-Recording Company changes its name to International Business Machines Corporation (IBM).
 <br/><br/>
-En 1861 : Italian unification: The Siege of Gaeta ends with the capitulation of the defending fortress, effectively bringing an end of the Kingdom of the Two Sicilies.
+En 1920 : The League of Women Voters is founded in Chicago.
 <br/><br/>
-En 1849 : The delegation headed by Metropolitan bishop Andrei Șaguna hands out to the Emperor Franz Joseph I of Austria the General Petition of Romanian leaders in Transylvania, Banat and Bukovina, which demands that the Romanian nation be recognized.
+En 1919 : The Polish–Soviet War begins.
 <br/><br/>
-En 1755 : Treaty of Giyanti signed by VOC, Pakubuwono III and Prince Mangkubumi. The treaty divides the Javanese kingdom of Mataram into two: Sunanate of Surakarta and Sultanate of Yogyakarta.
+En 1918 : Russia adopts the Gregorian calendar.
 <br/><br/>
-En 1726 : Parliament of Negrete between Mapuche and Spanish authorities in Chile bring an end to the Mapuche uprising of 1723–26.
+En 1912 : Arizona is admitted as the 48th and the last contiguous U.S. state.
 <br/><br/>
-En 1692 : Massacre of Glencoe: Almost 80 Macdonalds at Glen Coe, Scotland are killed early in the morning for not promptly pledging allegiance to the new king, William of Orange.
+En 1912 : The U.S. Navy commissions its first class of diesel-powered submarines.
 <br/><br/>
-En 1689 : William and Mary are proclaimed co-rulers of England.
+En 1903 : The United States Department of Commerce and Labor is established (later split into the Department of Commerce and the Department of Labor).
 <br/><br/>
-En 1660 : With the accession of young Charles XI of Sweden, his regents begin negotiations to end the Second Northern War.
+En 1900 : The British Army begins the Battle of the Tugela Heights in an effort to lift the Siege of Ladysmith.
 <br/><br/>
-En 1642 : The Clergy Act becomes law, excluding bishops of the Church of England from serving in the House of Lords.
+En 1899 : Voting machines are approved by the U.S. Congress for use in federal elections.
 <br/><br/>
-En 1633 : Galileo Galilei arrives in Rome for his trial before the Inquisition.
+En 1879 : The War of the Pacific breaks out when the Chilean Army occupies the Bolivian port city of Antofagasta.
 <br/><br/>
-En 1542 : Catherine Howard, the fifth wife of Henry VIII of England, is executed for adultery.
+En 1876 : Alexander Graham Bell applies for a patent for the telephone, as does Elisha Gray.
 <br/><br/>
-En 1503 : Challenge of Barletta: Tournament between 13 Italian and 13 French knights near Barletta.
+En 1859 : Oregon is admitted as the 33rd U.S. state.
 <br/><br/>
-En 1462 : The Treaty of Westminster is finalised between Edward IV of England and the Scottish Lord of the Isles.
+En 1855 : Texas is linked by telegraph to the rest of the United States, with the completion of a connection between New Orleans and Marshall, Texas.
 <br/><br/>
-En 1322 : The central tower of Ely Cathedral falls on the night of 12th–13th.
+En 1852 : Great Ormond St Hospital for Sick Children, the first hospital in England to provide in-patient beds specifically for children, is founded in London.
 <br/><br/>
-En 1258 : Siege of Baghdad: Hulegu Khan, a prince of the Mongol Empire, orders his army to sack and plunder the city of Baghdad, which they had just captured.
+En 1849 : In New York City, James Knox Polk becomes the first serving President of the United States to have his photograph taken.
 <br/><br/>
-En 962 : Emperor Otto I and Pope John XII co-sign the Diploma Ottonianum, recognizing John as ruler of Rome.
+En 1835 : The original Quorum of the Twelve Apostles, in the Latter Day Saint movement, is formed in Kirtland, Ohio.
+<br/><br/>
+En 1831 : Ras Marye of Yejju marches into Tigray and defeats and kills Dejazmach Sabagadis in the Battle of Debre Abbay.
+<br/><br/>
+En 1804 : Karađorđe leads the First Serbian Uprising against the Ottoman Empire.
+<br/><br/>
+En 1797 : French Revolutionary Wars: Battle of Cape St. Vincent: John Jervis, (later 1st Earl of St Vincent) and Horatio Nelson (later 1st Viscount Nelson) lead the British Royal Navy to victory over a Spanish fleet in action near Gibraltar.
+<br/><br/>
+En 1779 : American Revolutionary War: The Battle of Kettle Creek is fought in Georgia.
+<br/><br/>
+En 1779 : James Cook is killed by Native Hawaiians near Kealakekua on the Island of Hawaii.
+<br/><br/>
+En 1778 : The United States flag is formally recognized by a foreign naval vessel for the first time, when French Admiral Toussaint-Guillaume Picquet de la Motte renders a nine gun salute to USS Ranger, commanded by John Paul Jones.
+<br/><br/>
+En 1655 : The Mapuches launch coordinated attacks against the Spanish in Chile beginning the Mapuche uprising of 1655.
+<br/><br/>
+En 1613 : Wedding of Princess Elizabeth and Frederick V of the Palatinate at Whitehall Palace, London.
+<br/><br/>
+En 1556 : Having been declared a heretic and laicized by Pope Paul IV on 4 December 1555, Archbishop of Canterbury Thomas Cranmer is publicly defrocked at Christ Church Cathedral.
+<br/><br/>
+En 1556 : Coronation of Akbar as ruler of the Mughal Empire.
+<br/><br/>
+En 1530 : Spanish conquistadores, led by Nuño de Guzmán, overthrow and execute Tangaxuan II, the last independent monarch of the Tarascan state in present-day central Mexico.
+<br/><br/>
+En 1349 : Several hundred Jews are burned to death by mobs while the remaining Jews are forcibly removed from Strasbourg.
+<br/><br/>
+En 1130 : The troubled 1130 papal election exposes a rift within the College of Cardinals.
+<br/><br/>
+En 1014 : Pope Benedict VIII crowns Henry of Bavaria, King of Germany and of Italy, as Holy Roman Emperor.
+<br/><br/>
+En 842 : Charles the Bald and Louis the German swear the Oaths of Strasbourg in the French and German languages.
+<br/><br/>
+En 748 : Abbasid Revolution: The Hashimi rebels under Abu Muslim Khorasani take Merv, capital of the Umayyad province Khorasan, marking the consolidation of the Abbasid revolt.
 <br/><br/>
