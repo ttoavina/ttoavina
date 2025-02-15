@@ -4,139 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 14/2 ?(Hover on the year)</h1>
+<h1> What happen this day 15/2 ?(Hover on the year)</h1>
 
-En 2019 : Pulwama attack takes place in Lethpora in Pulwama district, Jammu and Kashmir, India in which 40 Central Reserve Police Force personnel and a suicide bomber were killed and 35 were injured.
+En 2021 : Sixty people drown and hundreds are missing after a boat sinks on the Congo River near the village of Longola Ekoti, Mai-Ndombe Province, Democratic Republic of the Congo.
 <br/><br/>
-En 2018 : Jacob Zuma resigns as President of South Africa.
+En 2013 : A meteor explodes over Russia, injuring 1,500 people as a shock wave blows out windows and rocks buildings. This happens unexpectedly only hours before the expected closest ever approach of the larger and unrelated asteroid 2012 DA14.
 <br/><br/>
-En 2018 : A shooting at Marjory Stoneman Douglas High School in Parkland, Florida is one of the deadliest school massacres with 17 fatalities and 17 injuries.
+En 2012 : Three hundred and sixty people die in a fire at a Honduran prison in the city of Comayagua.
 <br/><br/>
-En 2011 : As a part of Arab Spring, the Bahraini uprising begins with a 'Day of Rage'.
+En 2010 : Two trains collide in the Halle train collision in Halle, Belgium, killing 19 and injuring 171 people.
 <br/><br/>
-En 2008 : Northern Illinois University shooting: A gunman opens fire in a lecture hall of Northern Illinois University in DeKalb County, Illinois, resulting in six fatalities (including the gunman) and 21 injuries.
+En 2003 : Protests against the Iraq war take place in over 600 cities worldwide. It is estimated that between eight million and 30 million people participate, making this the largest peace demonstration in history.
 <br/><br/>
-En 2005 : In Beirut, 23 people, including former Prime Minister Rafic Hariri, are killed when the equivalent of around 1,000 kg of TNT is detonated while Hariri's motorcade drives through the city.
+En 2001 : The first draft of the complete human genome is published in Nature.
 <br/><br/>
-En 2005 : Seven people are killed and 151 wounded in a series of bombings by suspected al-Qaeda-linked militants that hit Makati, Davao City, and General Santos, all in the Philippines.
+En 1996 : At the Xichang Satellite Launch Center in China, a Long March 3B rocket, carrying an Intelsat 708, veers off course and crashes into a rural village after liftoff, killing somewhere between six and 100 people.
 <br/><br/>
-En 2005 : YouTube is launched by a group of college students, eventually becoming the largest video sharing website in the world and a main source for viral videos.
+En 1996 : The Embassy of the United States, Athens, is attacked by an antitank rocket, launched by the Revolutionary Organization 17 November.
 <br/><br/>
-En 2004 : In a suburb of Moscow, Russia, the roof of the Transvaal water park collapses, killing more than 28 people, and wounding 193 others.
+En 1992 : Serial killer Jeffrey Dahmer is sentenced in Milwaukee to 15 terms of life in prison.
 <br/><br/>
-En 2003 : Iraq disarmament crisis: UNMOVIC Executive Chairman Hans Blix reports to the United Nations Security Council that disarmament inspectors have found no weapons of mass destruction in Ba'athist Iraq.
+En 1992 : Air Transport International Flight 805 crashes in Swanton, Ohio, near Toledo Express Airport, killing all four people on board.
 <br/><br/>
-En 2000 : The spacecraft NEAR Shoemaker enters orbit around asteroid 433 Eros, the first spacecraft to orbit an asteroid.
+En 1991 : The Visegrád Group, establishing cooperation to move toward free-market systems, is signed by the leaders of Czechoslovakia, Hungary and Poland.
 <br/><br/>
-En 1998 : An oil tanker train collides with a freight train in Yaoundé, Cameroon, spilling fuel oil. One person scavenging the oil created a massive explosion which killed 120.
+En 1989 : Soviet–Afghan War: The Soviet Union officially announces that all of its troops have left Afghanistan.
 <br/><br/>
-En 1990 : Ninety-two people are killed when Indian Airlines Flight 605 crashes in Bangalore, India.
+En 1982 : The drilling rig Ocean Ranger sinks during a storm off the coast of Newfoundland, killing 84 workers.
 <br/><br/>
-En 1990 : The Voyager 1 spacecraft takes the photograph of planet Earth that later becomes famous as Pale Blue Dot.
+En 1972 : Sound recordings are granted U.S. federal copyright protection for the first time.
 <br/><br/>
-En 1989 : Union Carbide agrees to pay $470 million to the Indian government for damages it caused in the 1984 Bhopal disaster.
+En 1972 : José María Velasco Ibarra, serving as President of Ecuador for the fifth time, is overthrown by the military for the fourth time.
 <br/><br/>
-En 1989 : Iranian leader Ruhollah Khomeini issues a fatwa encouraging Muslims to kill Salman Rushdie, author of The Satanic Verses.
+En 1971 : The decimalisation of the currencies of the United Kingdom and Ireland is completed on Decimal Day.
 <br/><br/>
-En 1983 : United American Bank of Knoxville, Tennessee collapses. Its president, Jake Butcher, is later convicted of fraud.
+En 1970 : A Dominicana de Aviación McDonnell Douglas DC-9 crashes into the Caribbean Sea after takeoff from Las Américas International Airport, killing 102, including members of the Puerto Rico women's national volleyball team and lightweight boxer Carlos Cruz.
 <br/><br/>
-En 1979 : In Kabul, Setami Milli militants kidnap the American ambassador to Afghanistan, Adolph Dubs who is later killed during a gunfight between his kidnappers and police.
+En 1965 : The maple leaf is adopted as the flag of Canada, replacing the Canadian Red Ensign flag.
 <br/><br/>
-En 1966 : Australian currency is decimalized.
+En 1961 : Sabena Flight 548 crashes in Belgium, killing 73, including the entire United States figure skating team along with several of their coaches and family members.
 <br/><br/>
-En 1961 : Discovery of the chemical elements: Element 103, Lawrencium, is first synthesized at the University of California.
+En 1954 : Canada and the United States agree to construct the Distant Early Warning Line, a system of radar stations in the far northern Arctic regions of Canada and Alaska.
 <br/><br/>
-En 1954 : First Indochina war - small French garrison at Đắk Đoa is overrun by the Viet Minh after a week's siege.
+En 1952 : King George VI of the United Kingdom is buried in St George's Chapel, Windsor Castle.
 <br/><br/>
-En 1949 : The Knesset (parliament of Israel) convenes for the first time.
+En 1949 : Gerald Lankester Harding and Roland de Vaux begin excavations at Cave 1 of the Qumran Caves, where they will eventually discover the first seven Dead Sea Scrolls.
 <br/><br/>
-En 1949 : The Asbestos Strike begins in Canada. The strike marks the beginning of the Quiet Revolution in Quebec.
+En 1946 : ENIAC, the first electronic general-purpose computer, is formally dedicated at the University of Pennsylvania in Philadelphia.
 <br/><br/>
-En 1947 : The act abolishing all noble ranks and related styles comes into force in Hungary.
+En 1945 : World War II: Third day of bombing in Dresden.
 <br/><br/>
-En 1946 : The Bank of England is nationalized.
+En 1944 : World War II: The assault on Monte Cassino, Italy begins.
 <br/><br/>
-En 1945 : World War II: On the first day of the bombing of Dresden, the British Royal Air Force and the United States Army Air Forces begin fire-bombing Dresden.
+En 1944 : World War II: The Narva Offensive begins.
 <br/><br/>
-En 1945 : World War II: Navigational error leads to the mistaken bombing of Prague, Czechoslovakia by a United States Army Air Forces squadron of B-17s assisting in the Soviet Red Army's Vistula–Oder Offensive.
+En 1942 : World War II: Fall of Singapore. Following an assault by Japanese forces, the British General Arthur Percival surrenders. About 80,000 Indian, United Kingdom and Australian soldiers become prisoners of war, the largest surrender of British-led military personnel in history.
 <br/><br/>
-En 1945 : World War II: Mostar is liberated by Yugoslav partisans
+En 1940 : Paul Creston's Saxophone Sonata was officially premiered at the Carnegie Chamber Hall by saxophonist Cecil Leeson, who had commissioned it, and the composer.
 <br/><br/>
-En 1945 : President Franklin D. Roosevelt meets King Ibn Saud of Saudi Arabia aboard the USS Quincy, officially beginning U.S.-Saudi diplomatic relations.
+En 1933 : In Miami, Giuseppe Zangara attempts to assassinate US President-elect Franklin D. Roosevelt, but instead shoots Chicago mayor Anton J. Cermak, who dies of his wounds on March 6.
 <br/><br/>
-En 1944 : World War II: In the action of 14 February 1944, a Royal Navy submarine sinks a German-controlled Italian Regia Marina submarine in the Strait of Malacca.
+En 1925 : The 1925 serum run to Nome: The second delivery of serum arrives in Nome, Alaska.
 <br/><br/>
-En 1943 : World War II: Rostov-on-Don, Russia is liberated.
+En 1923 : Greece becomes the last European country to adopt the Gregorian calendar.
 <br/><br/>
-En 1943 : World War II: Tunisia Campaign: General Hans-Jürgen von Arnim's Fifth Panzer Army launches a counter-attack against Allied positions in Tunisia.
+En 1909 : The Flores Theater fire in Acapulco, Mexico kills 250.
 <br/><br/>
-En 1942 : World War II: Battle of Pasir Panjang contributes to the fall of Singapore.
+En 1899 : Tsar Nicholas II of Russia issues a declaration known as the February Manifesto, which reduces the autonomy of the Grand Duchy of Finland, thus beginning the first period of oppression.
 <br/><br/>
-En 1939 : World War II: German battleship Bismarck is launched.
+En 1898 : The battleship USS Maine explodes and sinks in Havana harbor in Cuba, killing about 274 of the ship's roughly 354 crew. The disaster pushes the United States to declare war on Spain.
 <br/><br/>
-En 1929 : Saint Valentine's Day Massacre: Seven people, six of them gangster rivals of Al Capone's gang, are murdered in Chicago.
+En 1879 : Women's rights: US President Rutherford B. Hayes signs a bill allowing female attorneys to argue cases before the Supreme Court of the United States.
 <br/><br/>
-En 1924 : The Computing-Tabulating-Recording Company changes its name to International Business Machines Corporation (IBM).
+En 1870 : Stevens Institute of Technology is founded in New Jersey, US, and offers the first Bachelor of Engineering degree in mechanical engineering.
 <br/><br/>
-En 1920 : The League of Women Voters is founded in Chicago.
+En 1862 : American Civil War: Confederates commanded by Brig. Gen. John B. Floyd attack General Ulysses S. Grant's Union forces besieging Fort Donelson in Tennessee. Unable to break the fort's encirclement, the Confederates surrender the following day.
 <br/><br/>
-En 1919 : The Polish–Soviet War begins.
+En 1852 : The Helsinki Cathedral (known as St. Nicholas' Church at time) is officially inaugurated in Helsinki, Finland.
 <br/><br/>
-En 1918 : Russia adopts the Gregorian calendar.
+En 1835 : Serbia's Sretenje Constitution briefly comes into effect.
 <br/><br/>
-En 1912 : Arizona is admitted as the 48th and the last contiguous U.S. state.
+En 1798 : The Roman Republic is proclaimed after Louis-Alexandre Berthier, a general of Napoleon, had invaded the city of Rome five days earlier.
 <br/><br/>
-En 1912 : The U.S. Navy commissions its first class of diesel-powered submarines.
+En 1764 : The city of St. Louis is established in Spanish Louisiana (now in Missouri, USA).
 <br/><br/>
-En 1903 : The United States Department of Commerce and Labor is established (later split into the Department of Commerce and the Department of Labor).
+En 1690 : Constantin Cantemir, Prince of Moldavia, and the Holy Roman Empire sign a secret treaty in Sibiu, stipulating that Moldavia would support the actions led by the House of Habsburg against the Ottoman Empire.
 <br/><br/>
-En 1900 : The British Army begins the Battle of the Tugela Heights in an effort to lift the Siege of Ladysmith.
+En 1637 : Ferdinand III becomes Holy Roman Emperor.
 <br/><br/>
-En 1899 : Voting machines are approved by the U.S. Congress for use in federal elections.
+En 1493 : While on board the Niña, Christopher Columbus writes an open letter (widely distributed upon his return to Portugal) describing his discoveries and the unexpected items he came across in the New World.
 <br/><br/>
-En 1879 : The War of the Pacific breaks out when the Chilean Army occupies the Bolivian port city of Antofagasta.
+En 1214 : During the Anglo-French War (1213–1214), an English invasion force led by John, King of England, lands at La Rochelle in France.
 <br/><br/>
-En 1876 : Alexander Graham Bell applies for a patent for the telephone, as does Elisha Gray.
+En 1113 : Pope Paschal II issues Pie Postulatio Voluntatis, recognizing the Order of Hospitallers.
 <br/><br/>
-En 1859 : Oregon is admitted as the 33rd U.S. state.
+En 1002 : At an assembly at Pavia of Lombard nobles, Arduin of Ivrea is restored to his domains and crowned King of Italy.
 <br/><br/>
-En 1855 : Texas is linked by telegraph to the rest of the United States, with the completion of a connection between New Orleans and Marshall, Texas.
+En 706 : Byzantine emperor Justinian II has his predecessors Leontios and Tiberios III publicly executed in the Hippodrome of Constantinople.
 <br/><br/>
-En 1852 : Great Ormond St Hospital for Sick Children, the first hospital in England to provide in-patient beds specifically for children, is founded in London.
+En 590 : Khosrau II is crowned king of Persia.
 <br/><br/>
-En 1849 : In New York City, James Knox Polk becomes the first serving President of the United States to have his photograph taken.
-<br/><br/>
-En 1835 : The original Quorum of the Twelve Apostles, in the Latter Day Saint movement, is formed in Kirtland, Ohio.
-<br/><br/>
-En 1831 : Ras Marye of Yejju marches into Tigray and defeats and kills Dejazmach Sabagadis in the Battle of Debre Abbay.
-<br/><br/>
-En 1804 : Karađorđe leads the First Serbian Uprising against the Ottoman Empire.
-<br/><br/>
-En 1797 : French Revolutionary Wars: Battle of Cape St. Vincent: John Jervis, (later 1st Earl of St Vincent) and Horatio Nelson (later 1st Viscount Nelson) lead the British Royal Navy to victory over a Spanish fleet in action near Gibraltar.
-<br/><br/>
-En 1779 : American Revolutionary War: The Battle of Kettle Creek is fought in Georgia.
-<br/><br/>
-En 1779 : James Cook is killed by Native Hawaiians near Kealakekua on the Island of Hawaii.
-<br/><br/>
-En 1778 : The United States flag is formally recognized by a foreign naval vessel for the first time, when French Admiral Toussaint-Guillaume Picquet de la Motte renders a nine gun salute to USS Ranger, commanded by John Paul Jones.
-<br/><br/>
-En 1655 : The Mapuches launch coordinated attacks against the Spanish in Chile beginning the Mapuche uprising of 1655.
-<br/><br/>
-En 1613 : Wedding of Princess Elizabeth and Frederick V of the Palatinate at Whitehall Palace, London.
-<br/><br/>
-En 1556 : Having been declared a heretic and laicized by Pope Paul IV on 4 December 1555, Archbishop of Canterbury Thomas Cranmer is publicly defrocked at Christ Church Cathedral.
-<br/><br/>
-En 1556 : Coronation of Akbar as ruler of the Mughal Empire.
-<br/><br/>
-En 1530 : Spanish conquistadores, led by Nuño de Guzmán, overthrow and execute Tangaxuan II, the last independent monarch of the Tarascan state in present-day central Mexico.
-<br/><br/>
-En 1349 : Several hundred Jews are burned to death by mobs while the remaining Jews are forcibly removed from Strasbourg.
-<br/><br/>
-En 1130 : The troubled 1130 papal election exposes a rift within the College of Cardinals.
-<br/><br/>
-En 1014 : Pope Benedict VIII crowns Henry of Bavaria, King of Germany and of Italy, as Holy Roman Emperor.
-<br/><br/>
-En 842 : Charles the Bald and Louis the German swear the Oaths of Strasbourg in the French and German languages.
-<br/><br/>
-En 748 : Abbasid Revolution: The Hashimi rebels under Abu Muslim Khorasani take Merv, capital of the Umayyad province Khorasan, marking the consolidation of the Abbasid revolt.
+En 438 : Roman emperor Theodosius II publishes the law codex Codex Theodosianus
 <br/><br/>
