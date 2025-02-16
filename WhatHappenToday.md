@@ -4,105 +4,97 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/2 ?(Hover on the year)</h1>
+<h1> What happen this day 16/2 ?(Hover on the year)</h1>
 
-En 2021 : Sixty people drown and hundreds are missing after a boat sinks on the Congo River near the village of Longola Ekoti, Mai-Ndombe Province, Democratic Republic of the Congo.
+En 2021 : Five thousand people gathered in the town of Kherrata, Bejaia Province to mark the second anniversary of the Hirak protest movement. Demonstrations had been suspended because of the COVID-19 pandemic in Algeria.
 <br/><br/>
-En 2013 : A meteor explodes over Russia, injuring 1,500 people as a shock wave blows out windows and rocks buildings. This happens unexpectedly only hours before the expected closest ever approach of the larger and unrelated asteroid 2012 DA14.
+En 2013 : A bomb blast at a market in Hazara Town, Quetta, Pakistan kills more than 80 people and injures 190 others.
 <br/><br/>
-En 2012 : Three hundred and sixty people die in a fire at a Honduran prison in the city of Comayagua.
+En 2006 : The last Mobile army surgical hospital (MASH) is decommissioned by the United States Army.
 <br/><br/>
-En 2010 : Two trains collide in the Halle train collision in Halle, Belgium, killing 19 and injuring 171 people.
+En 2005 : The Kyoto Protocol comes into force, following its ratification by Russia.
 <br/><br/>
-En 2003 : Protests against the Iraq war take place in over 600 cities worldwide. It is estimated that between eight million and 30 million people participate, making this the largest peace demonstration in history.
+En 2005 : The National Hockey League cancels the entire 2004–05 regular season and playoffs.
 <br/><br/>
-En 2001 : The first draft of the complete human genome is published in Nature.
+En 2000 : Emery Worldwide Airlines Flight 17 crashes near Sacramento Mather Airport in Rancho Cordova, California, killing all three aboard.
 <br/><br/>
-En 1996 : At the Xichang Satellite Launch Center in China, a Long March 3B rocket, carrying an Intelsat 708, veers off course and crashes into a rural village after liftoff, killing somewhere between six and 100 people.
+En 1998 : China Airlines Flight 676 crashes into a road and residential area near Chiang Kai-shek International Airport in Taiwan, killing all 196 aboard and six more on the ground.
 <br/><br/>
-En 1996 : The Embassy of the United States, Athens, is attacked by an antitank rocket, launched by the Revolutionary Organization 17 November.
+En 1996 : A Chicago-bound Amtrak train, the Capitol Limited, collides with a MARC commuter train bound for Washington, D.C., killing 11 people.
 <br/><br/>
-En 1992 : Serial killer Jeffrey Dahmer is sentenced in Milwaukee to 15 terms of life in prison.
+En 1991 : Nicaraguan Contras leader Enrique Bermúdez is assassinated in Managua.
 <br/><br/>
-En 1992 : Air Transport International Flight 805 crashes in Swanton, Ohio, near Toledo Express Airport, killing all four people on board.
+En 1986 : The Soviet liner MS Mikhail Lermontov runs aground in the Marlborough Sounds, New Zealand.
 <br/><br/>
-En 1991 : The Visegrád Group, establishing cooperation to move toward free-market systems, is signed by the leaders of Czechoslovakia, Hungary and Poland.
+En 1986 : China Airlines Flight 2265 crashes into the Pacific Ocean near Penghu Airport in Taiwan, killing all 13 aboard.
 <br/><br/>
-En 1989 : Soviet–Afghan War: The Soviet Union officially announces that all of its troops have left Afghanistan.
+En 1985 : Hezbollah is founded.
 <br/><br/>
-En 1982 : The drilling rig Ocean Ranger sinks during a storm off the coast of Newfoundland, killing 84 workers.
+En 1983 : The Ash Wednesday bushfires in Victoria and South Australia kill 75.
 <br/><br/>
-En 1972 : Sound recordings are granted U.S. federal copyright protection for the first time.
+En 1978 : The first computer bulletin board system is created (CBBS in Chicago).
 <br/><br/>
-En 1972 : José María Velasco Ibarra, serving as President of Ecuador for the fifth time, is overthrown by the military for the fourth time.
+En 1968 : In Haleyville, Alabama, the first 9-1-1 emergency telephone system goes into service.
 <br/><br/>
-En 1971 : The decimalisation of the currencies of the United Kingdom and Ireland is completed on Decimal Day.
+En 1968 : Civil Air Transport Flight 010 crashes near Shongshan Airport in Taiwan, killing 21 of the 63 people on board and one more on the ground.
 <br/><br/>
-En 1970 : A Dominicana de Aviación McDonnell Douglas DC-9 crashes into the Caribbean Sea after takeoff from Las Américas International Airport, killing 102, including members of the Puerto Rico women's national volleyball team and lightweight boxer Carlos Cruz.
+En 1962 : The Great Sheffield Gale impacts the United Kingdom, killing nine people; the city of Sheffield is devastated, with 150,000 homes damaged.
 <br/><br/>
-En 1965 : The maple leaf is adopted as the flag of Canada, replacing the Canadian Red Ensign flag.
+En 1962 : Flooding in the coastal areas of West Germany kills 315 and destroys the homes of about 60,000 people.
 <br/><br/>
-En 1961 : Sabena Flight 548 crashes in Belgium, killing 73, including the entire United States figure skating team along with several of their coaches and family members.
+En 1961 : Explorer program: Explorer 9 (S-56a) is launched.
 <br/><br/>
-En 1954 : Canada and the United States agree to construct the Distant Early Warning Line, a system of radar stations in the far northern Arctic regions of Canada and Alaska.
+En 1960 : The U.S. Navy submarine USS Triton begins Operation Sandblast, setting sail from New London, Connecticut, to begin the first submerged circumnavigation of the globe.
 <br/><br/>
-En 1952 : King George VI of the United Kingdom is buried in St George's Chapel, Windsor Castle.
+En 1959 : Fidel Castro becomes Premier of Cuba after dictator Fulgencio Batista was overthrown on January 1.
 <br/><br/>
-En 1949 : Gerald Lankester Harding and Roland de Vaux begin excavations at Cave 1 of the Qumran Caves, where they will eventually discover the first seven Dead Sea Scrolls.
+En 1945 : World War II: American forces land on Corregidor Island in the Philippines.
 <br/><br/>
-En 1946 : ENIAC, the first electronic general-purpose computer, is formally dedicated at the University of Pennsylvania in Philadelphia.
+En 1945 : The Alaska Equal Rights Act of 1945, the first anti-discrimination law in the United States, was signed into law.
 <br/><br/>
-En 1945 : World War II: Third day of bombing in Dresden.
+En 1943 : World War II: In the early phases of the Third Battle of Kharkov, Red Army troops re-enter the city.
 <br/><br/>
-En 1944 : World War II: The assault on Monte Cassino, Italy begins.
+En 1942 : World War II: In Athens, the Greek People's Liberation Army is established
 <br/><br/>
-En 1944 : World War II: The Narva Offensive begins.
+En 1942 : World War II: Attack on Aruba, first World War II German shots fired on a land based object in the Americas.
 <br/><br/>
-En 1942 : World War II: Fall of Singapore. Following an assault by Japanese forces, the British General Arthur Percival surrenders. About 80,000 Indian, United Kingdom and Australian soldiers become prisoners of war, the largest surrender of British-led military personnel in history.
+En 1940 : World War II: Altmark incident: The German tanker Altmark is boarded by sailors from the British destroyer HMS Cossack. A total of 299 British prisoners are freed.
 <br/><br/>
-En 1940 : Paul Creston's Saxophone Sonata was officially premiered at the Carnegie Chamber Hall by saxophonist Cecil Leeson, who had commissioned it, and the composer.
+En 1937 : Wallace H. Carothers receives a United States patent for nylon.
 <br/><br/>
-En 1933 : In Miami, Giuseppe Zangara attempts to assassinate US President-elect Franklin D. Roosevelt, but instead shoots Chicago mayor Anton J. Cermak, who dies of his wounds on March 6.
+En 1936 : The Popular Front wins the 1936 Spanish general election.
 <br/><br/>
-En 1925 : The 1925 serum run to Nome: The second delivery of serum arrives in Nome, Alaska.
+En 1934 : The Austrian Civil War ends with the defeat of the Social Democrats and the Republikanischer Schutzbund.
 <br/><br/>
-En 1923 : Greece becomes the last European country to adopt the Gregorian calendar.
+En 1930 : The Romanian Football Federation joins FIFA.
 <br/><br/>
-En 1909 : The Flores Theater fire in Acapulco, Mexico kills 250.
+En 1923 : Howard Carter unseals the burial chamber of Pharaoh Tutankhamun.
 <br/><br/>
-En 1899 : Tsar Nicholas II of Russia issues a declaration known as the February Manifesto, which reduces the autonomy of the Grand Duchy of Finland, thus beginning the first period of oppression.
+En 1918 : The Council of Lithuania unanimously adopts the Act of Independence, declaring Lithuania an independent state.
 <br/><br/>
-En 1898 : The battleship USS Maine explodes and sinks in Havana harbor in Cuba, killing about 274 of the ship's roughly 354 crew. The disaster pushes the United States to declare war on Spain.
+En 1900 : The Southern Cross expedition led by Carsten Borchgrevink achieved a new Farthest South of 78° 50'S, making the first landing at the Great Ice Barrier.
 <br/><br/>
-En 1879 : Women's rights: US President Rutherford B. Hayes signs a bill allowing female attorneys to argue cases before the Supreme Court of the United States.
+En 1899 : Iceland's first football club, Knattspyrnufélag Reykjavíkur, is founded.
 <br/><br/>
-En 1870 : Stevens Institute of Technology is founded in New Jersey, US, and offers the first Bachelor of Engineering degree in mechanical engineering.
+En 1881 : The Canadian Pacific Railway is incorporated by Act of Parliament at Ottawa (44th Vic., c.1).
 <br/><br/>
-En 1862 : American Civil War: Confederates commanded by Brig. Gen. John B. Floyd attack General Ulysses S. Grant's Union forces besieging Fort Donelson in Tennessee. Unable to break the fort's encirclement, the Confederates surrender the following day.
+En 1866 : Spencer Compton Cavendish, Marquess of Hartington becomes British Secretary of State for War.
 <br/><br/>
-En 1852 : The Helsinki Cathedral (known as St. Nicholas' Church at time) is officially inaugurated in Helsinki, Finland.
+En 1862 : American Civil War: General Ulysses S. Grant captures Fort Donelson, Tennessee.
 <br/><br/>
-En 1835 : Serbia's Sretenje Constitution briefly comes into effect.
+En 1804 : First Barbary War: Stephen Decatur leads a raid to burn the pirate-held frigate USS Philadelphia.
 <br/><br/>
-En 1798 : The Roman Republic is proclaimed after Louis-Alexandre Berthier, a general of Napoleon, had invaded the city of Rome five days earlier.
+En 1796 : Colombo in Ceylon (now Sri Lanka) falls to the British, completing their invasion of Ceylon.
 <br/><br/>
-En 1764 : The city of St. Louis is established in Spanish Louisiana (now in Missouri, USA).
+En 1742 : Spencer Compton, Earl of Wilmington, becomes British Prime Minister.
 <br/><br/>
-En 1690 : Constantin Cantemir, Prince of Moldavia, and the Holy Roman Empire sign a secret treaty in Sibiu, stipulating that Moldavia would support the actions led by the House of Habsburg against the Ottoman Empire.
+En 1699 : First Leopoldine Diploma is issued by the Holy Roman Emperor, recognizing the Greek Catholic clergy enjoyed the same privileges as Roman Catholic priests in the Principality of Transylvania.
 <br/><br/>
-En 1637 : Ferdinand III becomes Holy Roman Emperor.
+En 1646 : Battle of Torrington, Devon: The last major battle of the First English Civil War.
 <br/><br/>
-En 1493 : While on board the Niña, Christopher Columbus writes an open letter (widely distributed upon his return to Portugal) describing his discoveries and the unexpected items he came across in the New World.
+En 1630 : Dutch forces led by Hendrick Lonck capture Olinda in what was to become part of Dutch Brazil.
 <br/><br/>
-En 1214 : During the Anglo-French War (1213–1214), an English invasion force led by John, King of England, lands at La Rochelle in France.
+En 1270 : The Grand Duchy of Lithuania defeats the Livonian Order in the Battle of Karuse.
 <br/><br/>
-En 1113 : Pope Paschal II issues Pie Postulatio Voluntatis, recognizing the Order of Hospitallers.
-<br/><br/>
-En 1002 : At an assembly at Pavia of Lombard nobles, Arduin of Ivrea is restored to his domains and crowned King of Italy.
-<br/><br/>
-En 706 : Byzantine emperor Justinian II has his predecessors Leontios and Tiberios III publicly executed in the Hippodrome of Constantinople.
-<br/><br/>
-En 590 : Khosrau II is crowned king of Persia.
-<br/><br/>
-En 438 : Roman emperor Theodosius II publishes the law codex Codex Theodosianus
+En 1249 : Andrew of Longjumeau is dispatched by Louis IX of France as his ambassador to meet with the Khagan of the Mongol Empire.
 <br/><br/>
