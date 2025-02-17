@@ -4,97 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/2 ?(Hover on the year)</h1>
+<h1> What happen this day 17/2 ?(Hover on the year)</h1>
 
-En 2021 : Five thousand people gathered in the town of Kherrata, Bejaia Province to mark the second anniversary of the Hirak protest movement. Demonstrations had been suspended because of the COVID-19 pandemic in Algeria.
+En 2016 : Military vehicles explode outside a Turkish Armed Forces barracks in Ankara, Turkey, killing at least 29 people and injuring 61 others.
 <br/><br/>
-En 2013 : A bomb blast at a market in Hazara Town, Quetta, Pakistan kills more than 80 people and injures 190 others.
+En 2015 : Eighteen people are killed and 78 injured in a stampede at a Mardi Gras parade in Haiti.
 <br/><br/>
-En 2006 : The last Mobile army surgical hospital (MASH) is decommissioned by the United States Army.
+En 2011 : Arab Spring: Libyan protests against Muammar Gaddafi's regime begin.
 <br/><br/>
-En 2005 : The Kyoto Protocol comes into force, following its ratification by Russia.
+En 2011 : Arab Spring: In Bahrain, security forces launch a deadly pre-dawn raid on protesters in Pearl Roundabout in Manama; the day is locally known as Bloody Thursday.
 <br/><br/>
-En 2005 : The National Hockey League cancels the entire 2004–05 regular season and playoffs.
+En 2008 : Kosovo declares independence from Serbia.
 <br/><br/>
-En 2000 : Emery Worldwide Airlines Flight 17 crashes near Sacramento Mather Airport in Rancho Cordova, California, killing all three aboard.
+En 2006 : A massive mudslide occurs in Southern Leyte, Philippines; the official death toll is set at 1,126.
 <br/><br/>
-En 1998 : China Airlines Flight 676 crashes into a road and residential area near Chiang Kai-shek International Airport in Taiwan, killing all 196 aboard and six more on the ground.
+En 1996 : In Philadelphia, world champion Garry Kasparov beats the Deep Blue supercomputer in a chess match.
 <br/><br/>
-En 1996 : A Chicago-bound Amtrak train, the Capitol Limited, collides with a MARC commuter train bound for Washington, D.C., killing 11 people.
+En 1996 : NASA's Discovery Program begins as the NEAR Shoemaker spacecraft lifts off on the first mission ever to orbit and land on an asteroid, 433 Eros.
 <br/><br/>
-En 1991 : Nicaraguan Contras leader Enrique Bermúdez is assassinated in Managua.
+En 1996 : The 8.2 Mw  Biak earthquake shakes the Papua province of eastern Indonesia with a maximum Mercalli intensity of VIII (Severe). A large tsunami followed, leaving 166 people dead or missing and 423 injured.
 <br/><br/>
-En 1986 : The Soviet liner MS Mikhail Lermontov runs aground in the Marlborough Sounds, New Zealand.
+En 1995 : The Cenepa War between Peru and Ecuador ends on a ceasefire brokered by the UN.
 <br/><br/>
-En 1986 : China Airlines Flight 2265 crashes into the Pacific Ocean near Penghu Airport in Taiwan, killing all 13 aboard.
+En 1992 : First Nagorno-Karabakh War: Armenian troops massacre more than 20 Azerbaijani civilians during the Capture of Garadaghly.
 <br/><br/>
-En 1985 : Hezbollah is founded.
+En 1991 : Ryan International Airlines Flight 590 crashes during takeoff from Cleveland Hopkins International Airport, killing both pilots, the aircraft's only occupants.
 <br/><br/>
-En 1983 : The Ash Wednesday bushfires in Victoria and South Australia kill 75.
+En 1980 : First winter ascent of Mount Everest by Krzysztof Wielicki and Leszek Cichy.
 <br/><br/>
-En 1978 : The first computer bulletin board system is created (CBBS in Chicago).
+En 1979 : The Sino-Vietnamese War begins.
 <br/><br/>
-En 1968 : In Haleyville, Alabama, the first 9-1-1 emergency telephone system goes into service.
+En 1978 : The Troubles: The Provisional IRA detonates an incendiary bomb at the La Mon restaurant, near Belfast, killing 12 and seriously injuring 30 others, all Protestants.
 <br/><br/>
-En 1968 : Civil Air Transport Flight 010 crashes near Shongshan Airport in Taiwan, killing 21 of the 63 people on board and one more on the ground.
+En 1974 : Robert K. Preston, a disgruntled U.S. Army private, buzzes the White House in a stolen helicopter.
 <br/><br/>
-En 1962 : The Great Sheffield Gale impacts the United Kingdom, killing nine people; the city of Sheffield is devastated, with 150,000 homes damaged.
+En 1972 : Cumulative sales of the Volkswagen Beetle exceed those of the Ford Model T.
 <br/><br/>
-En 1962 : Flooding in the coastal areas of West Germany kills 315 and destroys the homes of about 60,000 people.
+En 1970 : Jeffrey R. MacDonald, United States Army captain, is charged with murder of his pregnant wife and two daughters.
 <br/><br/>
-En 1961 : Explorer program: Explorer 9 (S-56a) is launched.
+En 1969 : American aquanaut Berry L. Cannon dies of carbon dioxide poisoning while attempting to repair a leak in the SEALAB III underwater habitat. The SEALAB project was subsequently abandoned.
 <br/><br/>
-En 1960 : The U.S. Navy submarine USS Triton begins Operation Sandblast, setting sail from New London, Connecticut, to begin the first submerged circumnavigation of the globe.
+En 1965 : Project Ranger: The Ranger 8 probe launches on its mission to photograph the Mare Tranquillitatis region of the Moon in preparation for the crewed Apollo missions. Mare Tranquillitatis or the "Sea of Tranquility" would become the site chosen for the Apollo 11 lunar landing.
 <br/><br/>
-En 1959 : Fidel Castro becomes Premier of Cuba after dictator Fulgencio Batista was overthrown on January 1.
+En 1964 : In Wesberry v. Sanders the Supreme Court of the United States rules that congressional districts have to be approximately equal in population.
 <br/><br/>
-En 1945 : World War II: American forces land on Corregidor Island in the Philippines.
+En 1964 : Gabonese president Léon M'ba is toppled by a coup and his rival, Jean-Hilaire Aubame, is installed in his place.
 <br/><br/>
-En 1945 : The Alaska Equal Rights Act of 1945, the first anti-discrimination law in the United States, was signed into law.
+En 1959 : Project Vanguard: Vanguard 2: The first weather satellite is launched to measure cloud-cover distribution.
 <br/><br/>
-En 1943 : World War II: In the early phases of the Third Battle of Kharkov, Red Army troops re-enter the city.
+En 1959 : A Turkish Airlines Vickers Viscount crashes near Gatwick Airport, killing 14; Turkish prime minister Adnan Menderes survives the crash.
 <br/><br/>
-En 1942 : World War II: In Athens, the Greek People's Liberation Army is established
+En 1949 : Chaim Weizmann begins his term as the first President of Israel.
 <br/><br/>
-En 1942 : World War II: Attack on Aruba, first World War II German shots fired on a land based object in the Americas.
+En 1948 : The Alwaziri coup briefly ousts the ruling Hamidaddin dynasty of Yemen; Imam Yahya Muhammad Hamid ed-Din is killed.
 <br/><br/>
-En 1940 : World War II: Altmark incident: The German tanker Altmark is boarded by sailors from the British destroyer HMS Cossack. A total of 299 British prisoners are freed.
+En 1944 : World War II: The Battle of Eniwetok begins. The battle ends in an American victory on February 22.
 <br/><br/>
-En 1937 : Wallace H. Carothers receives a United States patent for nylon.
+En 1944 : World War II: Operation Hailstone begins: U.S. naval air, surface, and submarine attack against Truk Lagoon, Japan's main base in the central Pacific, in support of the Eniwetok invasion.
 <br/><br/>
-En 1936 : The Popular Front wins the 1936 Spanish general election.
+En 1919 : The Ukrainian People's Republic asks the Entente and the United States for help fighting the Bolsheviks.
 <br/><br/>
-En 1934 : The Austrian Civil War ends with the defeat of the Social Democrats and the Republikanischer Schutzbund.
+En 1913 : The Armory Show opens in New York City, displaying works of artists who are to become some of the most influential painters of the early 20th century.
 <br/><br/>
-En 1930 : The Romanian Football Federation joins FIFA.
+En 1905 : Russian Revolution of 1905: Grand Duke Sergei Alexandrovich of Russia is assassinated in the Moscow Kremlin by Socialist Revolutionary Ivan Kalyayev.
 <br/><br/>
-En 1923 : Howard Carter unseals the burial chamber of Pharaoh Tutankhamun.
+En 1865 : American Civil War: Columbia, South Carolina, is burned as Confederate forces flee from advancing Union forces.
 <br/><br/>
-En 1918 : The Council of Lithuania unanimously adopts the Act of Independence, declaring Lithuania an independent state.
+En 1864 : American Civil War: The H. L. Hunley becomes the first submarine to engage and sink a warship, the USS Housatonic.
 <br/><br/>
-En 1900 : The Southern Cross expedition led by Carsten Borchgrevink achieved a new Farthest South of 78° 50'S, making the first landing at the Great Ice Barrier.
+En 1863 : A group of citizens of Geneva found an International Committee for Relief to the Wounded, which later became known as the International Committee of the Red Cross.
 <br/><br/>
-En 1899 : Iceland's first football club, Knattspyrnufélag Reykjavíkur, is founded.
+En 1859 : Cochinchina Campaign: The French Navy captures the Citadel of Saigon, a fortress manned by 1,000 Nguyễn dynasty soldiers, en route to conquering Saigon and other regions of southern Viet Nam.
 <br/><br/>
-En 1881 : The Canadian Pacific Railway is incorporated by Act of Parliament at Ottawa (44th Vic., c.1).
+En 1854 : The United Kingdom recognizes the independence of the Orange Free State.
 <br/><br/>
-En 1866 : Spencer Compton Cavendish, Marquess of Hartington becomes British Secretary of State for War.
+En 1838 : Weenen massacre: Hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus.
 <br/><br/>
-En 1862 : American Civil War: General Ulysses S. Grant captures Fort Donelson, Tennessee.
+En 1819 : The United States House of Representatives passes the Missouri Compromise for the first time.
 <br/><br/>
-En 1804 : First Barbary War: Stephen Decatur leads a raid to burn the pirate-held frigate USS Philadelphia.
+En 1814 : War of the Sixth Coalition: The Battle of Mormant.
 <br/><br/>
-En 1796 : Colombo in Ceylon (now Sri Lanka) falls to the British, completing their invasion of Ceylon.
+En 1801 : United States presidential election: A tie in the Electoral College between Thomas Jefferson and Aaron Burr is resolved when Jefferson is elected President of the United States and Burr Vice President by the United States House of Representatives.
 <br/><br/>
-En 1742 : Spencer Compton, Earl of Wilmington, becomes British Prime Minister.
+En 1753 : In Sweden February 17 is followed by March 1 as the country moves from the Julian calendar to the Gregorian calendar.
 <br/><br/>
-En 1699 : First Leopoldine Diploma is issued by the Holy Roman Emperor, recognizing the Greek Catholic clergy enjoyed the same privileges as Roman Catholic priests in the Principality of Transylvania.
+En 1739 : The Battle of Vasai commences as the Marathas move to invade Portuguese-occupied territory.
 <br/><br/>
-En 1646 : Battle of Torrington, Devon: The last major battle of the First English Civil War.
+En 1676 : Sixteen men of Pascual de Iriate's expedition are lost at Evangelistas Islets at the western end of the Strait of Magellan.
 <br/><br/>
-En 1630 : Dutch forces led by Hendrick Lonck capture Olinda in what was to become part of Dutch Brazil.
+En 1674 : An earthquake strikes the Indonesian island of Ambon. It triggers a 100 m (330 ft) megatsunami which drowns over 2,300 people.
 <br/><br/>
-En 1270 : The Grand Duchy of Lithuania defeats the Livonian Order in the Battle of Karuse.
+En 1621 : Myles Standish is appointed as first military commander of the English Plymouth Colony in North America.
 <br/><br/>
-En 1249 : Andrew of Longjumeau is dispatched by Louis IX of France as his ambassador to meet with the Khagan of the Mongol Empire.
+En 1616 : Nurhaci proclaims himself Khan of the Later Jin, precursor to the Qing Dynasty.
+<br/><br/>
+En 1600 : On his way to be burned at the stake for heresy, at Campo de' Fiori in Rome, the philosopher Giordano Bruno has a wooden vise put on his tongue to prevent him continuing to speak.
+<br/><br/>
+En 1500 : Duke Friedrich and Duke Johann attempt to subdue the peasantry of Dithmarschen, Denmark, in the Battle of Hemmingstedt.
+<br/><br/>
+En 1411 : Following the successful campaigns during the Ottoman Interregnum, Musa Çelebi, one of the sons of Bayezid I, becomes Sultan of the Ottoman Empire with the support of Mircea I of Wallachia.
+<br/><br/>
+En 1370 : Northern Crusades: Grand Duchy of Lithuania and the Teutonic Knights meet in the Battle of Rudau.
 <br/><br/>
