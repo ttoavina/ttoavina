@@ -4,105 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/2 ?(Hover on the year)</h1>
+<h1> What happen this day 18/2 ?(Hover on the year)</h1>
 
-En 2016 : Military vehicles explode outside a Turkish Armed Forces barracks in Ankara, Turkey, killing at least 29 people and injuring 61 others.
+En 2021 : Perseverance, a Mars rover designed to explore Jezero crater on Mars, as part of NASA's Mars 2020 mission, lands successfully.
 <br/><br/>
-En 2015 : Eighteen people are killed and 78 injured in a stampede at a Mardi Gras parade in Haiti.
+En 2018 : Iran Aseman Airlines Flight 3704 crashes in the Dena sub-range in the Zagros Mountains of Iran, Resulting in 66 Deaths
 <br/><br/>
-En 2011 : Arab Spring: Libyan protests against Muammar Gaddafi's regime begin.
+En 2014 : At least 76 people are killed and hundreds are injured in clashes between riot police and demonstrators in Kyiv, Ukraine.
 <br/><br/>
-En 2011 : Arab Spring: In Bahrain, security forces launch a deadly pre-dawn raid on protesters in Pearl Roundabout in Manama; the day is locally known as Bloody Thursday.
+En 2013 : Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium.
 <br/><br/>
-En 2008 : Kosovo declares independence from Serbia.
+En 2010 : WikiLeaks publishes the first of hundreds of thousands of classified documents disclosed by the soldier now known as Chelsea Manning.
 <br/><br/>
-En 2006 : A massive mudslide occurs in Southern Leyte, Philippines; the official death toll is set at 1,126.
+En 2004 : Up to 295 people, 182 of which being rescue workers, die near Nishapur, Iran, when a runaway freight train carrying sulfur, petrol and fertilizer catches fire and explodes.
 <br/><br/>
-En 1996 : In Philadelphia, world champion Garry Kasparov beats the Deep Blue supercomputer in a chess match.
+En 2003 : 192 people die when an arsonist sets fire to a subway train in Daegu, South Korea.
 <br/><br/>
-En 1996 : NASA's Discovery Program begins as the NEAR Shoemaker spacecraft lifts off on the first mission ever to orbit and land on an asteroid, 433 Eros.
+En 2001 : FBI agent Robert Hanssen is arrested for spying for the Soviet Union. He is ultimately convicted and sentenced to life imprisonment.
 <br/><br/>
-En 1996 : The 8.2 Mw  Biak earthquake shakes the Papua province of eastern Indonesia with a maximum Mercalli intensity of VIII (Severe). A large tsunami followed, leaving 166 people dead or missing and 423 injured.
+En 2001 : Sampit conflict: Inter-ethnic violence between Dayaks and Madurese breaks out in Sampit, Central Kalimantan, Indonesia, ultimately resulting in more than 500 deaths and 100,000 Madurese displaced from their homes.
 <br/><br/>
-En 1995 : The Cenepa War between Peru and Ecuador ends on a ceasefire brokered by the UN.
+En 1991 : The IRA explodes bombs in the early morning at Paddington station and Victoria station in London.
 <br/><br/>
-En 1992 : First Nagorno-Karabakh War: Armenian troops massacre more than 20 Azerbaijani civilians during the Capture of Garadaghly.
+En 1983 : Thirteen people die and one is seriously injured in the Wah Mee massacre in Seattle. It is said to be the largest robbery-motivated mass-murder in U.S. history.
 <br/><br/>
-En 1991 : Ryan International Airlines Flight 590 crashes during takeoff from Cleveland Hopkins International Airport, killing both pilots, the aircraft's only occupants.
+En 1979 : Richard Petty wins a then-record sixth Daytona 500 after leaders Donnie Allison and Cale Yarborough crash on the final lap of the first NASCAR race televised live flag-to-flag.
 <br/><br/>
-En 1980 : First winter ascent of Mount Everest by Krzysztof Wielicki and Leszek Cichy.
+En 1977 : The Xinjiang 61st Regiment Farm fire started during Chinese New Year when a firecracker ignited memorial wreaths of the late Mao Zedong, killing 694 personnel. It remains the deadliest fireworks accident in the world.
 <br/><br/>
-En 1979 : The Sino-Vietnamese War begins.
+En 1977 : A thousand armed soldiers raid Kalakuta Republic, the commune of Nigerian singer Fela Kuti, leading to the death of Funmilayo Anikulapo Kuti.
 <br/><br/>
-En 1978 : The Troubles: The Provisional IRA detonates an incendiary bomb at the La Mon restaurant, near Belfast, killing 12 and seriously injuring 30 others, all Protestants.
+En 1977 : The Space Shuttle Enterprise test vehicle is carried on its maiden "flight" on top of a Boeing 747.
 <br/><br/>
-En 1974 : Robert K. Preston, a disgruntled U.S. Army private, buzzes the White House in a stolen helicopter.
+En 1972 : The California Supreme Court in the case of People v. Anderson, (6 Cal.3d 628) invalidates the state's death penalty and commutes the sentences of all death row inmates to life imprisonment.
 <br/><br/>
-En 1972 : Cumulative sales of the Volkswagen Beetle exceed those of the Ford Model T.
+En 1970 : The Chicago Seven are found not guilty of conspiring to incite riots at the 1968 Democratic National Convention.
 <br/><br/>
-En 1970 : Jeffrey R. MacDonald, United States Army captain, is charged with murder of his pregnant wife and two daughters.
+En 1965 : The Gambia becomes independent from the United Kingdom.
 <br/><br/>
-En 1969 : American aquanaut Berry L. Cannon dies of carbon dioxide poisoning while attempting to repair a leak in the SEALAB III underwater habitat. The SEALAB project was subsequently abandoned.
+En 1957 : Kenyan rebel leader Dedan Kimathi is executed by the British colonial government.
 <br/><br/>
-En 1965 : Project Ranger: The Ranger 8 probe launches on its mission to photograph the Mare Tranquillitatis region of the Moon in preparation for the crewed Apollo missions. Mare Tranquillitatis or the "Sea of Tranquility" would become the site chosen for the Apollo 11 lunar landing.
+En 1957 : Walter James Bolton becomes the last person legally executed in New Zealand.
 <br/><br/>
-En 1964 : In Wesberry v. Sanders the Supreme Court of the United States rules that congressional districts have to be approximately equal in population.
+En 1955 : Operation Teapot: Teapot test shot "Wasp" is successfully detonated at the Nevada Test Site with a yield of 1.2 kilotons.  Wasp is the first of fourteen shots in the Teapot series.
 <br/><br/>
-En 1964 : Gabonese president Léon M'ba is toppled by a coup and his rival, Jean-Hilaire Aubame, is installed in his place.
+En 1954 : The first Church of Scientology is established in Los Angeles.
 <br/><br/>
-En 1959 : Project Vanguard: Vanguard 2: The first weather satellite is launched to measure cloud-cover distribution.
+En 1947 : First Indochina War: The French gain complete control of Hanoi after forcing the Viet Minh to withdraw to the mountains.
 <br/><br/>
-En 1959 : A Turkish Airlines Vickers Viscount crashes near Gatwick Airport, killing 14; Turkish prime minister Adnan Menderes survives the crash.
+En 1946 : Sailors of the Royal Indian Navy mutiny in Bombay harbour, from where the action spreads throughout the Provinces of British India, involving 78 ships, twenty shore establishments and 20,000 sailors
 <br/><br/>
-En 1949 : Chaim Weizmann begins his term as the first President of Israel.
+En 1943 : World War II: The Nazis arrest the members of the White Rose movement.
 <br/><br/>
-En 1948 : The Alwaziri coup briefly ousts the ruling Hamidaddin dynasty of Yemen; Imam Yahya Muhammad Hamid ed-Din is killed.
+En 1943 : World War II: Joseph Goebbels delivers his Sportpalast speech.
 <br/><br/>
-En 1944 : World War II: The Battle of Eniwetok begins. The battle ends in an American victory on February 22.
+En 1942 : World War II: The Imperial Japanese Army begins the systematic extermination of perceived hostile elements among the Chinese in Singapore.
 <br/><br/>
-En 1944 : World War II: Operation Hailstone begins: U.S. naval air, surface, and submarine attack against Truk Lagoon, Japan's main base in the central Pacific, in support of the Eniwetok invasion.
+En 1938 : Second Sino-Japanese War: During the Nanking Massacre, the Nanking Safety Zone International Committee is renamed "Nanking International Rescue Committee", and the safety zone in place for refugees falls apart.
 <br/><br/>
-En 1919 : The Ukrainian People's Republic asks the Entente and the United States for help fighting the Bolsheviks.
+En 1932 : The Empire of Japan creates the independent state of Manzhouguo (the obsolete Chinese name for Manchuria) free from the Republic of China and installed former Chinese Emperor Aisin Gioro Puyi as Chief Executive of the State.
 <br/><br/>
-En 1913 : The Armory Show opens in New York City, displaying works of artists who are to become some of the most influential painters of the early 20th century.
+En 1930 : While studying photographs taken in January, Clyde Tombaugh discovers Pluto.
 <br/><br/>
-En 1905 : Russian Revolution of 1905: Grand Duke Sergei Alexandrovich of Russia is assassinated in the Moscow Kremlin by Socialist Revolutionary Ivan Kalyayev.
+En 1930 : Elm Farm Ollie becomes the first cow to fly in a fixed-wing aircraft and also the first cow to be milked in an aircraft.
 <br/><br/>
-En 1865 : American Civil War: Columbia, South Carolina, is burned as Confederate forces flee from advancing Union forces.
+En 1915 : U-boat Campaign: The Imperial German Navy institutes unrestricted submarine warfare in the waters around Great Britain and Ireland.
 <br/><br/>
-En 1864 : American Civil War: The H. L. Hunley becomes the first submarine to engage and sink a warship, the USS Housatonic.
+En 1911 : The first official flight with airmail takes place from Allahabad, United Provinces, British India (now India), when Henri Pequet, a 23-year-old pilot, delivers 6,500 letters to Naini, about 10 kilometres (6.2 mi) away.
 <br/><br/>
-En 1863 : A group of citizens of Geneva found an International Committee for Relief to the Wounded, which later became known as the International Committee of the Red Cross.
+En 1906 : Édouard de Laveleye forms the Belgian Olympic Committee in Brussels.
 <br/><br/>
-En 1859 : Cochinchina Campaign: The French Navy captures the Citadel of Saigon, a fortress manned by 1,000 Nguyễn dynasty soldiers, en route to conquering Saigon and other regions of southern Viet Nam.
+En 1900 : Second Boer War: Imperial forces suffer their worst single-day loss of life on Bloody Sunday, the first day of the Battle of Paardeberg.
 <br/><br/>
-En 1854 : The United Kingdom recognizes the independence of the Orange Free State.
+En 1885 : Adventures of Huckleberry Finn by Mark Twain is published in the United States.
 <br/><br/>
-En 1838 : Weenen massacre: Hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus.
+En 1878 : John Tunstall is murdered by outlaw Jesse Evans, sparking the Lincoln County War in Lincoln County, New Mexico.
 <br/><br/>
-En 1819 : The United States House of Representatives passes the Missouri Compromise for the first time.
+En 1873 : Bulgarian revolutionary leader Vasil Levski is executed by hanging in Sofia by the Ottoman authorities.
 <br/><br/>
-En 1814 : War of the Sixth Coalition: The Battle of Mormant.
+En 1861 : In Montgomery, Alabama, Jefferson Davis is inaugurated as the provisional President of the Confederate States of America.
 <br/><br/>
-En 1801 : United States presidential election: A tie in the Electoral College between Thomas Jefferson and Aaron Burr is resolved when Jefferson is elected President of the United States and Burr Vice President by the United States House of Representatives.
+En 1861 : With Italian unification almost complete, Victor Emmanuel II of Piedmont, Savoy and Sardinia assumes the title of King of Italy.
 <br/><br/>
-En 1753 : In Sweden February 17 is followed by March 1 as the country moves from the Julian calendar to the Gregorian calendar.
+En 1814 : Napoleonic Wars: The Battle of Montereau.
 <br/><br/>
-En 1739 : The Battle of Vasai commences as the Marathas move to invade Portuguese-occupied territory.
+En 1797 : French Revolutionary Wars: Sir Ralph Abercromby and a fleet of 18 British warships invade Trinidad.
 <br/><br/>
-En 1676 : Sixteen men of Pascual de Iriate's expedition are lost at Evangelistas Islets at the western end of the Strait of Magellan.
+En 1791 : Congress passes a law admitting the state of Vermont to the Union, effective 4 March, after that state had existed for 14 years as a de facto independent largely unrecognized state.
 <br/><br/>
-En 1674 : An earthquake strikes the Indonesian island of Ambon. It triggers a 100 m (330 ft) megatsunami which drowns over 2,300 people.
+En 1781 : Fourth Anglo-Dutch War: Captain Thomas Shirley opens his expedition against Dutch colonial outposts on the Gold Coast of Africa (present-day Ghana).
 <br/><br/>
-En 1621 : Myles Standish is appointed as first military commander of the English Plymouth Colony in North America.
+En 1735 : The ballad opera called Flora, or Hob in the Well went down in history as the first opera of any kind to be produced in North America (Charleston, S.C.)
 <br/><br/>
-En 1616 : Nurhaci proclaims himself Khan of the Later Jin, precursor to the Qing Dynasty.
+En 1637 : Eighty Years' War: Off the coast of Cornwall, England, a Spanish fleet intercepts an important Anglo-Dutch merchant convoy of 44 vessels escorted by six warships, destroying or capturing 20 of them.
 <br/><br/>
-En 1600 : On his way to be burned at the stake for heresy, at Campo de' Fiori in Rome, the philosopher Giordano Bruno has a wooden vise put on his tongue to prevent him continuing to speak.
+En 1478 : George, Duke of Clarence, convicted of treason against his older brother Edward IV of England, is executed in private at the Tower of London.
 <br/><br/>
-En 1500 : Duke Friedrich and Duke Johann attempt to subdue the peasantry of Dithmarschen, Denmark, in the Battle of Hemmingstedt.
+En 1332 : Amda Seyon I, Emperor of Ethiopia begins his campaigns in the southern Muslim provinces.
 <br/><br/>
-En 1411 : Following the successful campaigns during the Ottoman Interregnum, Musa Çelebi, one of the sons of Bayezid I, becomes Sultan of the Ottoman Empire with the support of Mircea I of Wallachia.
+En 1268 : The Battle of Wesenberg is fought between the Livonian Order and Dovmont of Pskov.
 <br/><br/>
-En 1370 : Northern Crusades: Grand Duchy of Lithuania and the Teutonic Knights meet in the Battle of Rudau.
+En 1229 : The Sixth Crusade: Frederick II, Holy Roman Emperor, signs a ten-year truce with al-Kamil, regaining Jerusalem, Nazareth, and Bethlehem with neither military engagements nor support from the papacy.
+<br/><br/>
+En -3102 : Kali Yuga, the fourth and final yuga of Hinduism, starts with the death of Krishna.
 <br/><br/>
