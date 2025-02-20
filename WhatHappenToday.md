@@ -4,91 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/2 ?(Hover on the year)</h1>
+<h1> What happen this day 20/2 ?(Hover on the year)</h1>
 
-En 2021 : Mya Thwe Thwe Khine, a 19-year-old protester, becomes the first known casualty of anti-coup protests that formed in response to the 2021 Myanmar coup d'état.
+En 2016 : Six people are killed and two injured in multiple shooting incidents in Kalamazoo County, Michigan.
 <br/><br/>
-En 2012 : Forty-four people are killed in a prison brawl in Apodaca, Nuevo León, Mexico.
+En 2015 : Two trains collide in the Swiss town of Rafz resulting in as many as 49 people injured and Swiss Federal Railways cancelling some services.
 <br/><br/>
-En 2011 : The debut exhibition of the Belitung shipwreck, containing the largest collection of Tang dynasty artifacts found in one location, begins in Singapore.
+En 2014 : Dozens of Euromaidan anti-government protesters died in Ukraine's capital Kyiv, many reportedly killed by snipers.
 <br/><br/>
-En 2006 : A methane explosion in a coal mine near Nueva Rosita, Mexico, kills 65 miners.
+En 2010 : In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago.
 <br/><br/>
-En 2003 : An Ilyushin Il-76 military aircraft crashes near Kerman, Iran, killing 275.
+En 2009 : Two Tamil Tigers aircraft packed with C4 explosives en route to the national airforce headquarters are shot down by the Sri Lankan military before reaching their target, in a kamikaze style attack.
 <br/><br/>
-En 2002 : NASA's Mars Odyssey space probe begins to map the surface of Mars using its thermal emission imaging system.
+En 2005 : Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout.
 <br/><br/>
-En 1989 : Flying Tiger Line flight 66 crashes into a hill near Sultan Abdul Aziz Shah Airport in Malaysia, killing four.
+En 2003 : During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
 <br/><br/>
-En 1988 : A Fairchild Swearingen Metroliner operating as AVAir Flight 3378 crashes in Cary, North Carolina, killing 12.
+En 1998 : American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan.
 <br/><br/>
-En 1986 : Akkaraipattu massacre: the Sri Lankan Army massacres 80 Tamil farm workers in eastern Sri Lanka.
+En 1991 : In the Albanian capital Tirana, a gigantic statue of Albania's long-time leader, Enver Hoxha, is brought down by mobs of angry protesters.
 <br/><br/>
-En 1985 : William J. Schroeder becomes the first recipient of an artificial heart to leave the hospital.
+En 1988 : The Nagorno-Karabakh Autonomous Oblast votes to secede from Azerbaijan and join Armenia, triggering the First Nagorno-Karabakh War.
 <br/><br/>
-En 1985 : A Boeing 727 operating as Iberia Flight 610 crashes Mount Oiz in Spain, killing 148; it is the deadliest accident to occur in Iberia's history and the deadliest in Basque County to occur.
+En 1986 : The Soviet Union launches its Mir spacecraft. Remaining in orbit for 15 years, it is occupied for ten of those years.
 <br/><br/>
-En 1978 : Egyptian forces raid Larnaca International Airport in an attempt to intervene in a hijacking, without authorisation from the Republic of Cyprus authorities. The Cypriot National Guard and Police forces kill 15 Egyptian commandos and destroy the Egyptian C-130 transport plane in open combat.
+En 1979 : An earthquake cracks open the Sinila volcanic crater on the Dieng Plateau, releasing poisonous H2S gas and killing 149 villagers in the Indonesian province of Central Java.
 <br/><br/>
-En 1976 : Executive Order 9066, which led to the relocation of Japanese Americans to internment camps, is rescinded by President Gerald Ford's Proclamation 4417.
+En 1971 : The United States Emergency Broadcast System is accidentally activated in an erroneous national alert.
 <br/><br/>
-En 1965 : Colonel Phạm Ngọc Thảo of the Army of the Republic of Vietnam, and a communist spy of the North Vietnamese Viet Minh, along with Generals Lâm Văn Phát and Trần Thiện Khiêm, all Catholics, attempt a coup against the military junta of the Buddhist Nguyễn Khánh.
+En 1968 : The China Academy of Space Technology, China's main arm for the research, development, and creation of space satellites, is established in Beijing.
 <br/><br/>
-En 1963 : The publication of Betty Friedan's The Feminine Mystique reawakens the feminist movement in the United States as women's organizations and consciousness raising groups spread.
+En 1965 : Ranger 8 crashes into the Moon after a successful mission of photographing possible landing sites for  the Apollo program astronauts.
 <br/><br/>
-En 1960 : China successfully launches the T-7, its first sounding rocket.
+En 1962 : Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes.
 <br/><br/>
-En 1959 : The United Kingdom grants Cyprus independence, which is formally proclaimed on August 16, 1960.
+En 1959 : The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate.
 <br/><br/>
-En 1954 : Transfer of Crimea: The Soviet Politburo of the Soviet Union orders the transfer of the Crimean Oblast from the Russian SFSR to the Ukrainian SSR.
+En 1956 : The United States Merchant Marine Academy becomes a permanent Service Academy.
 <br/><br/>
-En 1953 : Book censorship in the United States: The Georgia Literature Commission is established.
+En 1952 : Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League.
 <br/><br/>
-En 1949 : Ezra Pound is awarded the first Bollingen Prize in poetry by the Bollingen Foundation and Yale University.
+En 1944 : World War II: The "Big Week" began with American bomber raids on German aircraft manufacturing centers.
 <br/><br/>
-En 1948 : The Conference of Youth and Students of Southeast Asia Fighting for Freedom and Independence convenes in Calcutta.
+En 1944 : World War II: The United States takes Eniwetok Atoll.
 <br/><br/>
-En 1945 : World War II: Battle of Iwo Jima: About 30,000 United States Marines land on the island of Iwo Jima.
+En 1943 : World War II: American movie studio executives agree to allow the Office of War Information to censor movies.
 <br/><br/>
-En 1943 : World War II: Battle of Kasserine Pass in Tunisia begins.
+En 1943 : The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms.
 <br/><br/>
-En 1942 : World War II: Nearly 250 Japanese warplanes attack the northern Australian city of Darwin, killing 243 people.
+En 1942 : World War II: Lieutenant Edward O'Hare becomes America's first World War II flying ace.
 <br/><br/>
-En 1942 : World War II: United States President Franklin D. Roosevelt signs executive order 9066, allowing the United States military to relocate Japanese Americans to internment camps.
+En 1939 : Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present.
 <br/><br/>
-En 1937 : Yekatit 12: During a public ceremony at the Viceregal Palace (the former Imperial residence) in Addis Ababa, Ethiopia, two Ethiopian nationalists of Eritrean origin attempt to kill viceroy Rodolfo Graziani with a number of grenades.
+En 1935 : Caroline Mikkelsen becomes the first woman to set foot in Antarctica.
 <br/><br/>
-En 1915 : World War I: The first naval attack on the Dardanelles begins when a strong Anglo-French task force bombards Ottoman artillery along the coast of Gallipoli.
+En 1933 : The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval.
 <br/><br/>
-En 1913 : Pedro Lascuráin becomes President of Mexico for 45 minutes; this is the shortest term to date of any person as president of any country.
+En 1933 : Adolf Hitler secretly meets with German industrialists to arrange for financing of the Nazi Party's upcoming election campaign.
 <br/><br/>
-En 1884 : More than sixty tornadoes strike the Southern United States, one of the largest tornado outbreaks in U.S. history.
+En 1931 : The U.S. Congress approves the construction of the San Francisco–Oakland Bay Bridge by the state of California.
 <br/><br/>
-En 1878 : Thomas Edison patents the phonograph.
+En 1931 : An anarchist uprising in Encarnación, Paraguay briefly transforms the city into a revolutionary commune.
 <br/><br/>
-En 1847 : The first group of rescuers reaches the Donner Party.
+En 1920 : An earthquake kills between 114 and 130 in Georgia and heavily damages the town of Gori.
 <br/><br/>
-En 1846 : In Austin, Texas, the newly formed Texas state government is officially installed. The Republic of Texas government officially transfers power to the State of Texas government following the annexation of Texas by the United States.
+En 1913 : King O'Malley drives in the first survey peg to mark commencement of work on the construction of Canberra.
 <br/><br/>
-En 1836 : King William IV signs Letters Patent establishing the province of South Australia.
+En 1909 : Publication of the Futurist Manifesto in the French journal Le Figaro.
 <br/><br/>
-En 1819 : British explorer William Smith discovers the South Shetland Islands.
+En 1905 : The U.S. Supreme Court upholds the constitutionality of Massachusetts's mandatory smallpox vaccination program in Jacobson v. Massachusetts.
 <br/><br/>
-En 1807 : Former Vice President of the United States Aaron Burr is arrested for treason in Wakefield, Alabama, and confined to Fort Stoddert.
+En 1901 : The legislature of Hawaii Territory convenes for the first time.
 <br/><br/>
-En 1726 : The Supreme Privy Council is established in Russia.
+En 1877 : Tchaikovsky's ballet Swan Lake receives its premiere at the Bolshoi Theatre in Moscow.
 <br/><br/>
-En 1714 : Great Northern War: The battle of Napue between Sweden and Russia is fought in Isokyrö, Ostrobothnia.
+En 1872 : The Metropolitan Museum of Art opens in New York City.
 <br/><br/>
-En 1674 : England and the Netherlands sign the Treaty of Westminster, ending the Third Anglo-Dutch War. A provision of the agreement transfers the Dutch colony of New Amsterdam to England.
+En 1865 : End of the Uruguayan War, with a peace agreement between President Tomás Villalba and rebel leader Venancio Flores, setting the scene for the destructive War of the Triple Alliance.
 <br/><br/>
-En 1649 : The Second Battle of Guararapes takes place, effectively ending Dutch colonization efforts in Brazil.
+En 1864 : American Civil War: Battle of Olustee: The largest battle fought in Florida during the war.
 <br/><br/>
-En 1600 : The Peruvian stratovolcano Huaynaputina explodes in the most violent eruption in the recorded history of South America.
+En 1846 : Polish insurgents lead an uprising in Kraków to incite a fight for national independence.
 <br/><br/>
-En 1594 : Having already been elected to the throne of the Polish–Lithuanian Commonwealth  in 1587, Sigismund III of the House of Vasa is crowned King of Sweden, having succeeded his father John III of Sweden in 1592.
+En 1835 : The 1835 Concepción earthquake destroys Concepción, Chile.
 <br/><br/>
-En 356 : The anti-paganism policy of Constantius II forbids the worship of pagan idols in the Roman Empire.
+En 1824 : William Buckland formally announces the name Megalosaurus, the first scientifically validly named non-avian dinosaur species.
 <br/><br/>
-En 197 : Emperor Septimius Severus defeats usurper Clodius Albinus in the Battle of Lugdunum, the bloodiest battle between Roman armies.
+En 1816 : Rossini's opera The Barber of Seville premieres at the Teatro Argentina in Rome.
+<br/><br/>
+En 1813 : Manuel Belgrano defeats the royalist army of Pío de Tristán during the Battle of Salta.
+<br/><br/>
+En 1798 : Louis-Alexandre Berthier removes Pope Pius VI from power.
+<br/><br/>
+En 1792 : The Postal Service Act, establishing the United States Post Office Department, is signed by United States President George Washington.
+<br/><br/>
+En 1685 : René-Robert Cavelier establishes Fort St. Louis at Matagorda Bay thus forming the basis for France's claim to Texas.
+<br/><br/>
+En 1553 : Yohannan Sulaqa professes his Catholic belief and is ordained as bishop shortly after; this marks the beginning of the Chaldean Catholic Church.
+<br/><br/>
+En 1547 : Edward VI of England is crowned King of England at Westminster Abbey.
+<br/><br/>
+En 1521 : Spanish conquistador Juan Ponce de León sets out from San Juan, Puerto Rico, for Florida with about 200 prospective colonists.
+<br/><br/>
+En 1472 : Orkney and Shetland are pawned by Norway to Scotland in lieu of a dowry for Margaret of Denmark.
+<br/><br/>
+En 1339 : The Milanese army and the St. George's (San Giorgio) Mercenaries of Lodrisio Visconti clash in the Battle of Parabiago; Visconti is defeated.
 <br/><br/>
