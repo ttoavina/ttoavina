@@ -4,87 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 21/2 ?(Hover on the year)</h1>
+<h1> What happen this day 22/2 ?(Hover on the year)</h1>
 
-En 2022 : In the prelude to the 2022 Russian invasion of Ukraine Russian President Vladimir Putin declares the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, and moves troops into the region. The action is condemned by the United Nations.
+En 2022 : Twosday, the name given to Tuesday, February 22, 2022, at 2:22:22, occurs.
 <br/><br/>
-En 2013 : At least 17 people are killed and 119 injured following several bombings in the Indian city of Hyderabad.
+En 2018 : A man throws a grenade at the U.S. embassy in Podgorica, Montenegro. He dies at the scene from a second explosion, with no one else hurt.
 <br/><br/>
-En 1995 : Steve Fossett lands in Leader, Saskatchewan, Canada becoming the first person to make a solo flight across the Pacific Ocean in a balloon.
+En 2015 : A ferry carrying 100 passengers capsizes in the Padma River, killing 70 people.
 <br/><br/>
-En 1994 : Aldrich Ames is arrested by the Federal Bureau of Investigation for selling national secrets to the Soviet Union in Arlington County, Virginia.
+En 2014 : President Viktor Yanukovych of Ukraine is impeached by the Verkhovna Rada of Ukraine by a vote of 328–0, fulfilling a major goal of the Euromaidan rebellion.
 <br/><br/>
-En 1975 : Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison.
+En 2012 : A train crash in Buenos Aires, Argentina, kills 51 people and injures 700 others.
 <br/><br/>
-En 1974 : The last Israeli soldiers leave the west bank of the Suez Canal pursuant to a truce with Egypt.
+En 2011 : New Zealand's second deadliest earthquake strikes Christchurch, killing 185 people.
 <br/><br/>
-En 1973 : Over the Sinai Desert, Israeli fighter aircraft shoot down Libyan Arab Airlines Flight 114 jet killing 108 people.
+En 2011 : Bahraini uprising: Tens of thousands of people march in protest against the deaths of seven victims killed by police and army forces during previous protests.
 <br/><br/>
-En 1972 : United States President Richard Nixon visits China to normalize Sino-American relations.
+En 2006 : At approximately 6:44 a.m.  local Iraqi time, explosions occurred at the al-Askari Shrine in Samarra, Iraq. The attack on the shrine, one of the holiest sites in Shia Islam, caused the escalation of sectarian tensions in Iraq into a full-scale civil war.
 <br/><br/>
-En 1972 : The Soviet uncrewed spaceship Luna 20 lands on the Moon.
+En 2006 : The Securitas depot robbery was the UK's largest heist. Almost £53m (about $92.5 million or €78 million) was stolen from a Securitas depot in Tonbridge, Kent.
 <br/><br/>
-En 1971 : The Convention on Psychotropic Substances is signed at Vienna.
+En 2005 : The 6.4 Mw  Zarand earthquake shakes the Kerman province of Iran with a maximum Mercalli intensity of VIII (Severe), leaving 612 people dead and 1,411 injured.
 <br/><br/>
-En 1958 : The CND symbol, aka peace symbol, commissioned by the Direct Action Committee in protest against the Atomic Weapons Research Establishment, is designed and completed by Gerald Holtom.
+En 2002 : Angolan political and rebel leader Jonas Savimbi is killed in a military ambush.
 <br/><br/>
-En 1952 : The British government, under Winston Churchill, abolishes identity cards in the UK to "set the people free".
+En 1997 : In Roslin, Midlothian, British scientists announce that an adult sheep named Dolly has been successfully cloned.
 <br/><br/>
-En 1952 : The Bengali Language Movement protests occur at the University of Dhaka in East Pakistan (now Bangladesh).
+En 1995 : The Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
 <br/><br/>
-En 1948 : NASCAR is incorporated.
+En 1994 : Aldrich Ames and his wife are charged by the United States Department of Justice with spying for the Soviet Union.
 <br/><br/>
-En 1947 : In New York City, Edwin Land demonstrates the first "instant camera", the Polaroid Land Camera, to a meeting of the Optical Society of America.
+En 1986 : Start of the People Power Revolution in the Philippines.
 <br/><br/>
-En 1945 : World War II: During the Battle of Iwo Jima, Japanese kamikaze planes sink the escort carrier USS Bismarck Sea and damage the USS Saratoga.
+En 1983 : The notorious Broadway flop Moose Murders opens and closes on the same night at the Eugene O'Neill Theatre.
 <br/><br/>
-En 1945 : World War II:  the Brazilian Expeditionary Force defeat the German forces in the Battle of Monte Castello on the Italian front.
+En 1980 : Miracle on Ice: In Lake Placid, New York, the United States hockey team defeats the Soviet Union hockey team 4–3.
 <br/><br/>
-En 1937 : The League of Nations bans foreign national "volunteers" in the Spanish Civil War.
+En 1979 : Saint Lucia gains independence from the United Kingdom.
 <br/><br/>
-En 1929 : In the first battle of the Warlord Rebellion in northeastern Shandong against the Nationalist government of China, a 24,000-strong rebel force led by Zhang Zongchang was defeated at Zhifu by 7,000 NRA troops.
+En 1974 : The Organisation of the Islamic Conference summit begins in Lahore, Pakistan. Thirty-seven countries attend and twenty-two heads of state and government participate. It also recognizes Bangladesh.
 <br/><br/>
-En 1925 : The New Yorker publishes its first issue.
+En 1974 : Samuel Byck attempts to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate Richard Nixon, but commits suicide after being wounded by police.
 <br/><br/>
-En 1921 : Constituent Assembly of the Democratic Republic of Georgia adopts the country's first constitution.
+En 1973 : Cold War: Following President Richard Nixon's visit to the People's Republic of China, the two countries agree to establish liaison offices.
 <br/><br/>
-En 1921 : Rezā Shāh takes control of Tehran during a successful coup.
+En 1972 : The Official Irish Republican Army detonates a car bomb at Aldershot barracks, killing seven and injuring nineteen others.
 <br/><br/>
-En 1919 : German socialist Kurt Eisner is assassinated. His death results in the establishment of the Bavarian Soviet Republic and parliament and government fleeing Munich, Germany.
+En 1959 : Lee Petty wins the first Daytona 500.
 <br/><br/>
-En 1918 : The last Carolina parakeet dies in captivity at the Cincinnati Zoo.
+En 1958 : Following a plebiscite in both countries the previous day, Egypt and Syria join to form the United Arab Republic.
 <br/><br/>
-En 1916 : World War I: In France, the Battle of Verdun begins.
+En 1957 : Ngô Đình Diệm of South Vietnam survives a communist shooting assassination attempt in Buôn Ma Thuột.
 <br/><br/>
-En 1913 : Ioannina is incorporated into the Greek state after the Balkan Wars.
+En 1946 : The "Long Telegram", proposing how the United States should deal with the Soviet Union, arrives from the US embassy in Moscow.
 <br/><br/>
-En 1896 : An Englishman raised in Australia, Bob Fitzsimmons, fought an Irishman, Peter Maher, in an American promoted event which technically took place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
+En 1944 : World War II: American aircraft mistakenly bomb the Dutch towns of Nijmegen, Arnhem, Enschede and Deventer, resulting in 800 dead in Nijmegen alone.
 <br/><br/>
-En 1885 : The newly completed Washington Monument is dedicated.
+En 1944 : World War II: The Soviet Red Army recaptures Krivoi Rog.
 <br/><br/>
-En 1878 : The first telephone directory is issued in New Haven, Connecticut.
+En 1943 : World War II: Members of the White Rose resistance, Sophie Scholl, Hans Scholl, and Christoph Probst are executed in Nazi Germany.
 <br/><br/>
-En 1874 : The Oakland Daily Tribune publishes its first edition.
+En 1942 : World War II: President Franklin D. Roosevelt orders General Douglas MacArthur out of the Philippines as the Japanese victory becomes inevitable.
 <br/><br/>
-En 1862 : American Civil War: Battle of Valverde is fought near Fort Craig in New Mexico Territory.
+En 1921 : After Russian forces under Baron Roman von Ungern-Sternberg drive the Chinese out, the Bogd Khan is reinstalled as the emperor of Mongolia.[citation needed]
 <br/><br/>
-En 1861 : Mariehamn, the capital city of Åland, is founded.
+En 1909 : The sixteen battleships of the Great White Fleet, led by USS Connecticut, return to the United States after a voyage around the world.
 <br/><br/>
-En 1848 : Karl Marx and Friedrich Engels publish The Communist Manifesto.
+En 1904 : The United Kingdom sells a meteorological station on the South Orkney Islands to Argentina; the islands are subsequently claimed by the United Kingdom in 1908.
 <br/><br/>
-En 1842 : John Greenough is granted the first U.S. patent for the sewing machine.
+En 1899 : Filipino forces led by General Antonio Luna launch counterattacks for the first time against the American forces during the Philippine–American War. The Filipinos fail to regain Manila from the Americans.
 <br/><br/>
-En 1828 : Initial issue of the Cherokee Phoenix is the first periodical to use the Cherokee syllabary invented by Sequoyah.
+En 1889 : President Grover Cleveland signs a bill admitting North Dakota, South Dakota, Montana and Washington as U.S. states.
 <br/><br/>
-En 1808 : Without a previous declaration of war, Russian troops cross the border to Sweden at Abborfors in eastern Finland, thus beginning the Finnish War, in which Sweden will lose the eastern half of the country (i.e. Finland) to Russia.
+En 1881 : Cleopatra's Needle, a 3,500-year-old Ancient Egyptian obelisk is erected in Central Park, New York.
 <br/><br/>
-En 1804 : The first self-propelling steam locomotive makes its outing at the Pen-y-Darren Ironworks in Wales.
+En 1879 : In Utica, New York, Frank Woolworth opens the first of many of five-and-dime Woolworth stores.
 <br/><br/>
-En 1797 : A force of 1,400 French soldiers invaded Britain at Fishguard in support of the Society of United Irishmen. They were defeated by 500 British reservists.
+En 1872 : The Prohibition Party holds its first national convention in Columbus, Ohio, nominating James Black as its presidential nominee.
 <br/><br/>
-En 1613 : Mikhail I is unanimously elected Tsar by a national assembly, beginning the Romanov dynasty of Imperial Russia.
+En 1862 : American Civil War: Jefferson Davis is officially inaugurated for a six-year term as the President of the Confederate States of America in Richmond, Virginia. He was previously inaugurated as a provisional president on February 18, 1861.
 <br/><br/>
-En 1440 : The Prussian Confederation is formed.
+En 1856 : The United States Republican Party opens its first national convention in Pittsburgh.
 <br/><br/>
-En 1245 : Thomas, the first known Bishop of Finland, is granted resignation after confessing to torture and forgery.
+En 1848 : The French Revolution of 1848, which would lead to the establishment of the French Second Republic, begins.
+<br/><br/>
+En 1847 : Mexican–American War: The Battle of Buena Vista: Five thousand American troops defeat 15,000 Mexican troops.
+<br/><br/>
+En 1819 : By the Adams–Onís Treaty, Spain sells Florida to the United States for five million U.S. dollars.
+<br/><br/>
+En 1797 : The last Invasion of Britain begins near Fishguard, Wales.
+<br/><br/>
+En 1770 : British customs officer Ebenezer Richardson fires blindly into a crowd during a protest in North End, Boston, fatally wounding 11-year-old Christopher Seider; the first American fatality of the American Revolution.
+<br/><br/>
+En 1744 : War of the Austrian Succession: The Battle of Toulon causes several Royal Navy captains to be court-martialed, and the Articles of War to be amended.
+<br/><br/>
+En 1651 : St. Peter's Flood: A storm surge floods the Frisian coast, drowning 15,000 people.
+<br/><br/>
+En 1632 : Ferdinando II de' Medici, Grand Duke of Tuscany, the dedicatee, receives the first printed copy of Galileo's Dialogue Concerning the Two Chief World Systems.
+<br/><br/>
+En 1495 : King Charles VIII of France enters Naples to claim the city's throne.
+<br/><br/>
+En 1371 : Robert II becomes King of Scotland, beginning the Stuart dynasty.
+<br/><br/>
+En 1316 : The Battle of Picotin, between Ferdinand of Majorca and the forces of Matilda of Hainaut, ends in victory for Ferdinand.
+<br/><br/>
+En 1076 : Having received a letter during the Lenten synod of 14–20 February demanding that he abdicate, Pope Gregory VII excommunicates Henry IV, Holy Roman Emperor.
 <br/><br/>
