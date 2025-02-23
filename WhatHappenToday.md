@@ -4,109 +4,127 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 22/2 ?(Hover on the year)</h1>
+<h1> What happen this day 23/2 ?(Hover on the year)</h1>
 
-En 2022 : Twosday, the name given to Tuesday, February 22, 2022, at 2:22:22, occurs.
+En 2021 : Four simultaneous prison riots leave at least 62 people dead in Ecuador.
 <br/><br/>
-En 2018 : A man throws a grenade at the U.S. embassy in Podgorica, Montenegro. He dies at the scene from a second explosion, with no one else hurt.
+En 2020 : Ahmaud Arbery, a 25-year-old African-American citizen, is shot and murdered by three white men after visiting a house under construction while jogging at a neighborhood in Satilla Shores near Brunswick in Glynn County, Georgia.
 <br/><br/>
-En 2015 : A ferry carrying 100 passengers capsizes in the Padma River, killing 70 people.
+En 2019 : Atlas Air Flight 3591, a Boeing 767 freighter, crashes into Trinity Bay near Anahuac, Texas, killing all three people on board.
 <br/><br/>
-En 2014 : President Viktor Yanukovych of Ukraine is impeached by the Verkhovna Rada of Ukraine by a vote of 328–0, fulfilling a major goal of the Euromaidan rebellion.
+En 2017 : The Turkish-backed Free Syrian Army captures Al-Bab from ISIL.
 <br/><br/>
-En 2012 : A train crash in Buenos Aires, Argentina, kills 51 people and injures 700 others.
+En 2012 : A series of attacks across Iraq leave at least 83 killed and more than 250 injured.
 <br/><br/>
-En 2011 : New Zealand's second deadliest earthquake strikes Christchurch, killing 185 people.
+En 2010 : Unknown criminals pour more than 2+1⁄2 million liters of diesel oil and other hydrocarbons into the river Lambro, in northern Italy, sparking an environmental disaster.
 <br/><br/>
-En 2011 : Bahraini uprising: Tens of thousands of people march in protest against the deaths of seven victims killed by police and army forces during previous protests.
+En 2008 : A United States Air Force B-2 Spirit bomber crashes on Guam, marking  the first operational loss of a B-2.
 <br/><br/>
-En 2006 : At approximately 6:44 a.m.  local Iraqi time, explosions occurred at the al-Askari Shrine in Samarra, Iraq. The attack on the shrine, one of the holiest sites in Shia Islam, caused the escalation of sectarian tensions in Iraq into a full-scale civil war.
+En 2007 : A train derails on an evening express service near Grayrigg, Cumbria, England, killing one person and injuring 88. This results in hundreds of points being checked over the UK after a few similar accidents.
 <br/><br/>
-En 2006 : The Securitas depot robbery was the UK's largest heist. Almost £53m (about $92.5 million or €78 million) was stolen from a Securitas depot in Tonbridge, Kent.
+En 1999 : Kurdish rebel leader Abdullah Öcalan is charged with treason in Ankara, Turkey.
 <br/><br/>
-En 2005 : The 6.4 Mw  Zarand earthquake shakes the Kerman province of Iran with a maximum Mercalli intensity of VIII (Severe), leaving 612 people dead and 1,411 injured.
+En 1999 : An avalanche buries the town of Galtür, Austria, killing 31.
 <br/><br/>
-En 2002 : Angolan political and rebel leader Jonas Savimbi is killed in a military ambush.
+En 1998 : In the United States, tornadoes in central Florida destroy or damage 2,600 structures and kill 42 people.
 <br/><br/>
-En 1997 : In Roslin, Midlothian, British scientists announce that an adult sheep named Dolly has been successfully cloned.
+En 1991 : In Thailand, General Sunthorn Kongsompong leads a bloodless coup d'état, deposing Prime Minister Chatichai Choonhavan.
 <br/><br/>
-En 1995 : The Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
+En 1988 : Saddam Hussein begins the Anfal genocide against Kurds and Assyrians in northern Iraq.
 <br/><br/>
-En 1994 : Aldrich Ames and his wife are charged by the United States Department of Justice with spying for the Soviet Union.
+En 1987 : Supernova 1987a is seen in the Large Magellanic Cloud.
 <br/><br/>
-En 1986 : Start of the People Power Revolution in the Philippines.
+En 1983 : The United States Environmental Protection Agency announces its intent to buy out and evacuate the dioxin-contaminated community of Times Beach, Missouri.
 <br/><br/>
-En 1983 : The notorious Broadway flop Moose Murders opens and closes on the same night at the Eugene O'Neill Theatre.
+En 1981 : In Spain, Antonio Tejero attempts a coup d'état by capturing the Spanish Congress of Deputies.
 <br/><br/>
-En 1980 : Miracle on Ice: In Lake Placid, New York, the United States hockey team defeats the Soviet Union hockey team 4–3.
+En 1980 : Iran hostage crisis: Supreme Leader Ayatollah Ruhollah Khomeini states that Iran's parliament will decide the fate of the American embassy hostages.
 <br/><br/>
-En 1979 : Saint Lucia gains independence from the United Kingdom.
+En 1974 : The Symbionese Liberation Army demands $4 million more to release kidnap victim Patty Hearst.
 <br/><br/>
-En 1974 : The Organisation of the Islamic Conference summit begins in Lahore, Pakistan. Thirty-seven countries attend and twenty-two heads of state and government participate. It also recognizes Bangladesh.
+En 1971 : Operation Lam Son 719: South Vietnamese General Do Cao Tri was killed in a helicopter crash en route to taking control of the faltering campaign.
 <br/><br/>
-En 1974 : Samuel Byck attempts to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate Richard Nixon, but commits suicide after being wounded by police.
+En 1966 : In Syria, Ba'ath Party member Salah Jadid leads an intra-party military coup that replaces the previous government of General Amin al-Hafiz, also a Baathist.
 <br/><br/>
-En 1973 : Cold War: Following President Richard Nixon's visit to the People's Republic of China, the two countries agree to establish liaison offices.
+En 1958 : Five-time Argentine Formula One champion Juan Manuel Fangio is kidnapped by rebels involved in the Cuban Revolution, on the eve of the Cuban Grand Prix. He was released the following day after the race.
 <br/><br/>
-En 1972 : The Official Irish Republican Army detonates a car bomb at Aldershot barracks, killing seven and injuring nineteen others.
+En 1954 : The first mass inoculation of children against polio with the Salk vaccine begins in Pittsburgh.
 <br/><br/>
-En 1959 : Lee Petty wins the first Daytona 500.
+En 1947 : International Organization for Standardization is founded.
 <br/><br/>
-En 1958 : Following a plebiscite in both countries the previous day, Egypt and Syria join to form the United Arab Republic.
+En 1945 : World War II: During the Battle of Iwo Jima, a group of United States Marines reach the top of Mount Suribachi on the island and are photographed raising the American flag.
 <br/><br/>
-En 1957 : Ngô Đình Diệm of South Vietnam survives a communist shooting assassination attempt in Buôn Ma Thuột.
+En 1945 : World War II: The 11th Airborne Division, with Filipino guerrillas, free all 2,147 captives of the Los Baños internment camp, in what General Colin Powell later would refer to as "the textbook airborne operation for all ages and all armies."
 <br/><br/>
-En 1946 : The "Long Telegram", proposing how the United States should deal with the Soviet Union, arrives from the US embassy in Moscow.
+En 1945 : World War II: The capital of the Philippines, Manila, is liberated by combined Filipino and American forces.
 <br/><br/>
-En 1944 : World War II: American aircraft mistakenly bomb the Dutch towns of Nijmegen, Arnhem, Enschede and Deventer, resulting in 800 dead in Nijmegen alone.
+En 1945 : World War II: Capitulation of German garrison in Poznań. The city is liberated by Soviet and Polish forces.
 <br/><br/>
-En 1944 : World War II: The Soviet Red Army recaptures Krivoi Rog.
+En 1945 : World War II: The German town of Pforzheim is annihilated in a raid by 379 British bombers.
 <br/><br/>
-En 1943 : World War II: Members of the White Rose resistance, Sophie Scholl, Hans Scholl, and Christoph Probst are executed in Nazi Germany.
+En 1945 : American Airlines Flight 009 crashes near Rural Retreat, Virginia, killing 17.
 <br/><br/>
-En 1942 : World War II: President Franklin D. Roosevelt orders General Douglas MacArthur out of the Philippines as the Japanese victory becomes inevitable.
+En 1944 : The Soviet Union begins the forced deportation of the Chechen and Ingush people from the North Caucasus to Central Asia.
 <br/><br/>
-En 1921 : After Russian forces under Baron Roman von Ungern-Sternberg drive the Chinese out, the Bogd Khan is reinstalled as the emperor of Mongolia.[citation needed]
+En 1943 : The Cavan Orphanage fire kills thirty-five girls and an elderly cook.
 <br/><br/>
-En 1909 : The sixteen battleships of the Great White Fleet, led by USS Connecticut, return to the United States after a voyage around the world.
+En 1943 : Greek Resistance: The United Panhellenic Organization of Youth is founded in Greece.
 <br/><br/>
-En 1904 : The United Kingdom sells a meteorological station on the South Orkney Islands to Argentina; the islands are subsequently claimed by the United Kingdom in 1908.
+En 1942 : World War II: Japanese submarines fire artillery shells at the coastline near Santa Barbara, California.
 <br/><br/>
-En 1899 : Filipino forces led by General Antonio Luna launch counterattacks for the first time against the American forces during the Philippine–American War. The Filipinos fail to regain Manila from the Americans.
+En 1941 : Plutonium is first produced and isolated by Dr. Glenn T. Seaborg.
 <br/><br/>
-En 1889 : President Grover Cleveland signs a bill admitting North Dakota, South Dakota, Montana and Washington as U.S. states.
+En 1934 : Leopold III becomes King of Belgium.
 <br/><br/>
-En 1881 : Cleopatra's Needle, a 3,500-year-old Ancient Egyptian obelisk is erected in Central Park, New York.
+En 1927 : U.S. President Calvin Coolidge signs a bill by Congress establishing the Federal Radio Commission (later replaced by the Federal Communications Commission) which was to regulate the use of radio frequencies in the United States.
 <br/><br/>
-En 1879 : In Utica, New York, Frank Woolworth opens the first of many of five-and-dime Woolworth stores.
+En 1927 : German theoretical physicist Werner Heisenberg writes a letter to fellow physicist Wolfgang Pauli, in which he describes his uncertainty principle for the first time.
 <br/><br/>
-En 1872 : The Prohibition Party holds its first national convention in Columbus, Ohio, nominating James Black as its presidential nominee.
+En 1917 : First demonstrations in Saint Petersburg, Russia. The beginning of the February Revolution (March 8 in the Gregorian calendar).
 <br/><br/>
-En 1862 : American Civil War: Jefferson Davis is officially inaugurated for a six-year term as the President of the Confederate States of America in Richmond, Virginia. He was previously inaugurated as a provisional president on February 18, 1861.
+En 1909 : The AEA Silver Dart makes the first powered flight in Canada and the British Empire.
 <br/><br/>
-En 1856 : The United States Republican Party opens its first national convention in Pittsburgh.
+En 1905 : Chicago attorney Paul Harris and three other businessmen meet for lunch to form the Rotary Club, the world's first service club.
 <br/><br/>
-En 1848 : The French Revolution of 1848, which would lead to the establishment of the French Second Republic, begins.
+En 1903 : Cuba leases Guantánamo Bay to the United States "in perpetuity".
 <br/><br/>
-En 1847 : Mexican–American War: The Battle of Buena Vista: Five thousand American troops defeat 15,000 Mexican troops.
+En 1900 : Second Boer War: During the Battle of the Tugela Heights, the first British attempt to take Hart's Hill fails.
 <br/><br/>
-En 1819 : By the Adams–Onís Treaty, Spain sells Florida to the United States for five million U.S. dollars.
+En 1898 : Émile Zola is imprisoned in France after writing J'Accuse…!, a letter accusing the French government of antisemitism and wrongfully imprisoning Captain Alfred Dreyfus.
 <br/><br/>
-En 1797 : The last Invasion of Britain begins near Fishguard, Wales.
+En 1887 : The French Riviera is hit by a large earthquake, killing around 2,000.
 <br/><br/>
-En 1770 : British customs officer Ebenezer Richardson fires blindly into a crowd during a protest in North End, Boston, fatally wounding 11-year-old Christopher Seider; the first American fatality of the American Revolution.
+En 1886 : Charles Martin Hall produced the first samples of aluminium from the electrolysis of aluminium oxide, after several years of intensive work. He was assisted in this project by his older sister, Julia Brainerd Hall.
 <br/><br/>
-En 1744 : War of the Austrian Succession: The Battle of Toulon causes several Royal Navy captains to be court-martialed, and the Articles of War to be amended.
+En 1885 : Sino-French War: French Army gains an important victory in the Battle of Đồng Đăng in the Tonkin region of Vietnam.
 <br/><br/>
-En 1651 : St. Peter's Flood: A storm surge floods the Frisian coast, drowning 15,000 people.
+En 1883 : Alabama becomes the first U.S. state to enact an anti-trust law.
 <br/><br/>
-En 1632 : Ferdinando II de' Medici, Grand Duke of Tuscany, the dedicatee, receives the first printed copy of Galileo's Dialogue Concerning the Two Chief World Systems.
+En 1870 : Reconstruction Era: Post-U.S. Civil War military control of Mississippi ends and it is readmitted to the Union.
 <br/><br/>
-En 1495 : King Charles VIII of France enters Naples to claim the city's throne.
+En 1861 : President-elect Abraham Lincoln arrives secretly in Washington, D.C., after the thwarting of an alleged assassination plot in Baltimore, Maryland.
 <br/><br/>
-En 1371 : Robert II becomes King of Scotland, beginning the Stuart dynasty.
+En 1854 : The official independence of the Orange Free State, South Africa is declared.
 <br/><br/>
-En 1316 : The Battle of Picotin, between Ferdinand of Majorca and the forces of Matilda of Hainaut, ends in victory for Ferdinand.
+En 1847 : Mexican–American War: Battle of Buena Vista: In Mexico, American troops under future president General Zachary Taylor defeat Mexican General Antonio López de Santa Anna.
 <br/><br/>
-En 1076 : Having received a letter during the Lenten synod of 14–20 February demanding that he abdicate, Pope Gregory VII excommunicates Henry IV, Holy Roman Emperor.
+En 1836 : Texas Revolution: The Siege of the Alamo (prelude to the Battle of the Alamo) begins in San Antonio, Texas.
+<br/><br/>
+En 1820 : Cato Street Conspiracy: A plot to murder all the British cabinet ministers is exposed and the conspirators arrested.
+<br/><br/>
+En 1778 : American Revolutionary War: Baron von Steuben arrives at Valley Forge, Pennsylvania, to help train the Continental Army.
+<br/><br/>
+En 1763 : Berbice slave uprising in Guyana: The first major slave revolt in South America.
+<br/><br/>
+En 1725 : J. S. Bach leads his Tafel-Music Shepherd Cantata for the birthday of Christian, Duke of Saxe-Weissenfels.
+<br/><br/>
+En 1455 : Traditionally the date of publication of the Gutenberg Bible, the first Western book printed with movable type.
+<br/><br/>
+En 705 : Empress Wu Zetian abdicates the throne, restoring the Tang dynasty.
+<br/><br/>
+En 628 : Khosrow II, last Sasanian shah of Iran, is overthrown.
+<br/><br/>
+En 532 : Byzantine emperor Justinian I lays the foundation stone of a new Orthodox Christian basilica in Constantinople – the Hagia Sophia.
+<br/><br/>
+En 303 : Roman emperor Diocletian orders the destruction of the Christian church in Nicomedia, beginning eight years of Diocletianic Persecution.
 <br/><br/>
