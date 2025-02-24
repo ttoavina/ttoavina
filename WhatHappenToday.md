@@ -4,127 +4,125 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 23/2 ?(Hover on the year)</h1>
+<h1> What happen this day 24/2 ?(Hover on the year)</h1>
 
-En 2021 : Four simultaneous prison riots leave at least 62 people dead in Ecuador.
+En 2022 : Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as independent states, Russian president Vladimir Putin orders a full-scale invasion of Ukraine.
 <br/><br/>
-En 2020 : Ahmaud Arbery, a 25-year-old African-American citizen, is shot and murdered by three white men after visiting a house under construction while jogging at a neighborhood in Satilla Shores near Brunswick in Glynn County, Georgia.
+En 2020 : Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.
 <br/><br/>
-En 2019 : Atlas Air Flight 3591, a Boeing 767 freighter, crashes into Trinity Bay near Anahuac, Texas, killing all three people on board.
+En 2016 : Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashed, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
 <br/><br/>
-En 2017 : The Turkish-backed Free Syrian Army captures Al-Bab from ISIL.
+En 2015 : A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.
 <br/><br/>
-En 2012 : A series of attacks across Iraq leave at least 83 killed and more than 250 injured.
+En 2008 : Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He remains as head of the Communist Party for another three years.
 <br/><br/>
-En 2010 : Unknown criminals pour more than 2+1⁄2 million liters of diesel oil and other hydrocarbons into the river Lambro, in northern Italy, sparking an environmental disaster.
+En 2007 : Japan launches its fourth spy satellite, stepping up its ability to monitor potential threats such as North Korea.
 <br/><br/>
-En 2008 : A United States Air Force B-2 Spirit bomber crashes on Guam, marking  the first operational loss of a B-2.
+En 2006 : Philippine President Gloria Macapagal Arroyo declares Proclamation 1017 placing the country in a state of emergency in attempt to subdue a possible military coup.
 <br/><br/>
-En 2007 : A train derails on an evening express service near Grayrigg, Cumbria, England, killing one person and injuring 88. This results in hundreds of points being checked over the UK after a few similar accidents.
+En 2004 : The 6.3 Mw Al Hoceima earthquake strikes northern Morocco with a maximum Mercalli intensity of IX (Violent). At least 628 people are killed, 926 are injured, and up to 15,000 are displaced.
 <br/><br/>
-En 1999 : Kurdish rebel leader Abdullah Öcalan is charged with treason in Ankara, Turkey.
+En 1999 : China Southwest Airlines Flight 4509, a Tupolev Tu-154 aircraft, crashes in Rui'an, Zhejiang, China. All 61 people on board are killed.
 <br/><br/>
-En 1999 : An avalanche buries the town of Galtür, Austria, killing 31.
+En 1996 : Two civilian airplanes operated by the Miami-based group Brothers to the Rescue are shot down in international waters by the Cuban Air Force.
 <br/><br/>
-En 1998 : In the United States, tornadoes in central Florida destroy or damage 2,600 structures and kill 42 people.
+En 1991 : Gulf War: Ground troops cross the Saudi Arabian border and enter Iraq, thus beginning the ground phase of the war.
 <br/><br/>
-En 1991 : In Thailand, General Sunthorn Kongsompong leads a bloodless coup d'état, deposing Prime Minister Chatichai Choonhavan.
+En 1989 : United Airlines Flight 811, bound for New Zealand from Honolulu, rips open during flight, blowing nine passengers out of the business-class section.
 <br/><br/>
-En 1988 : Saddam Hussein begins the Anfal genocide against Kurds and Assyrians in northern Iraq.
+En 1984 : Tyrone Mitchell perpetrates the 49th Street Elementary School shooting in Los Angeles, killing two children and injuring 12 more.
 <br/><br/>
-En 1987 : Supernova 1987a is seen in the Large Magellanic Cloud.
+En 1983 : A special commission of the United States Congress condemns the Japanese American internment during World War II.
 <br/><br/>
-En 1983 : The United States Environmental Protection Agency announces its intent to buy out and evacuate the dioxin-contaminated community of Times Beach, Missouri.
+En 1981 : The 6.7 Ms Gulf of Corinth earthquake affected Central Greece with a maximum Mercalli intensity of VIII (Severe). Twenty-two people were killed, 400 were injured, and damage totaled $812 million.
 <br/><br/>
-En 1981 : In Spain, Antonio Tejero attempts a coup d'état by capturing the Spanish Congress of Deputies.
+En 1978 : The Yuba County Five disappear in California. Four of their bodies are found four months later.
 <br/><br/>
-En 1980 : Iran hostage crisis: Supreme Leader Ayatollah Ruhollah Khomeini states that Iran's parliament will decide the fate of the American embassy hostages.
+En 1976 : The 1976 constitution of Cuba is formally proclaimed.
 <br/><br/>
-En 1974 : The Symbionese Liberation Army demands $4 million more to release kidnap victim Patty Hearst.
+En 1971 : The All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed three days earlier. P.K. Mookiah Thevar is appointed as the new chairman.
 <br/><br/>
-En 1971 : Operation Lam Son 719: South Vietnamese General Do Cao Tri was killed in a helicopter crash en route to taking control of the faltering campaign.
+En 1968 : Vietnam War: The Tet Offensive is halted; South Vietnamese forces led by Ngo Quang Truong recapture the citadel of Hué.
 <br/><br/>
-En 1966 : In Syria, Ba'ath Party member Salah Jadid leads an intra-party military coup that replaces the previous government of General Amin al-Hafiz, also a Baathist.
+En 1967 : Cultural Revolution: Zhang Chunqiao announces the dissolution of the Shanghai People's Commune, replacing its local government with a revolutionary committee.
 <br/><br/>
-En 1958 : Five-time Argentine Formula One champion Juan Manuel Fangio is kidnapped by rebels involved in the Cuban Revolution, on the eve of the Cuban Grand Prix. He was released the following day after the race.
+En 1966 : Ghanaian coup d'état by National Liberation Council overthrows Kwame Nkrumah's Government
 <br/><br/>
-En 1954 : The first mass inoculation of children against polio with the Salk vaccine begins in Pittsburgh.
+En 1949 : The Armistice Agreements are signed, to formally end the hostilities of the 1948 Arab-Israeli War.
 <br/><br/>
-En 1947 : International Organization for Standardization is founded.
+En 1946 : Colonel Juan Perón, founder of the political movement that became known as Peronism, is elected to his first term as President of Argentina.
 <br/><br/>
-En 1945 : World War II: During the Battle of Iwo Jima, a group of United States Marines reach the top of Mount Suribachi on the island and are photographed raising the American flag.
+En 1945 : Egyptian Premier Ahmad Mahir Pasha is killed in Parliament after reading a decree.
 <br/><br/>
-En 1945 : World War II: The 11th Airborne Division, with Filipino guerrillas, free all 2,147 captives of the Los Baños internment camp, in what General Colin Powell later would refer to as "the textbook airborne operation for all ages and all armies."
+En 1943 : World War II: First large-scale protest march resulting in clashes with the Axis occupation forces and collaborationist police in Athens against rumours of forced mobilization of Greek workers for work in Germany.
 <br/><br/>
-En 1945 : World War II: The capital of the Philippines, Manila, is liberated by combined Filipino and American forces.
+En 1942 : Seven hundred ninety-one Romanian Jewish refugees and crew members are killed after the MV Struma is torpedoed by the Soviet Navy.
 <br/><br/>
-En 1945 : World War II: Capitulation of German garrison in Poznań. The city is liberated by Soviet and Polish forces.
+En 1942 : The Battle of Los Angeles: A false alarm led to an anti-aircraft barrage that lasted into the early hours of February 25.
 <br/><br/>
-En 1945 : World War II: The German town of Pforzheim is annihilated in a raid by 379 British bombers.
+En 1920 : Nancy Astor becomes the first woman to speak in the House of Commons of the United Kingdom following her election as a Member of Parliament (MP) three months earlier.
 <br/><br/>
-En 1945 : American Airlines Flight 009 crashes near Rural Retreat, Virginia, killing 17.
+En 1920 : The Nazi Party (NSDAP) was founded by Adolf Hitler in the Hofbräuhaus beer hall in Munich, Germany
 <br/><br/>
-En 1944 : The Soviet Union begins the forced deportation of the Chechen and Ingush people from the North Caucasus to Central Asia.
+En 1918 : Estonian Declaration of Independence.
 <br/><br/>
-En 1943 : The Cavan Orphanage fire kills thirty-five girls and an elderly cook.
+En 1917 : World War I: The U.S. ambassador Walter Hines Page to the United Kingdom is given the Zimmermann Telegram, in which Germany pledges to ensure the return of New Mexico, Texas, and Arizona to Mexico if Mexico declares war on the United States.
 <br/><br/>
-En 1943 : Greek Resistance: The United Panhellenic Organization of Youth is founded in Greece.
+En 1916 : The Governor-General of Korea establishes a clinic called Jahyewon in Sorokdo to segregate Hansen's disease patients.
 <br/><br/>
-En 1942 : World War II: Japanese submarines fire artillery shells at the coastline near Santa Barbara, California.
+En 1895 : Revolution breaks out in Baire, a town near Santiago de Cuba, beginning the Cuban War of Independence; the war ends along with the Spanish–American War in 1898.
 <br/><br/>
-En 1941 : Plutonium is first produced and isolated by Dr. Glenn T. Seaborg.
+En 1881 : China and Russia sign the Sino-Russian Ili Treaty.
 <br/><br/>
-En 1934 : Leopold III becomes King of Belgium.
+En 1876 : The stage première of Peer Gynt, a play by Henrik Ibsen with incidental music by Edvard Grieg, takes place in Christiania (Oslo), Norway.
 <br/><br/>
-En 1927 : U.S. President Calvin Coolidge signs a bill by Congress establishing the Federal Radio Commission (later replaced by the Federal Communications Commission) which was to regulate the use of radio frequencies in the United States.
+En 1875 : The SS Gothenburg hits the Great Barrier Reef and sinks off the Australian east coast, killing approximately 100, including a number of high-profile civil servants and dignitaries.
 <br/><br/>
-En 1927 : German theoretical physicist Werner Heisenberg writes a letter to fellow physicist Wolfgang Pauli, in which he describes his uncertainty principle for the first time.
+En 1868 : Andrew Johnson becomes the first President of the United States to be impeached by the United States House of Representatives. He is later acquitted in the Senate.
 <br/><br/>
-En 1917 : First demonstrations in Saint Petersburg, Russia. The beginning of the February Revolution (March 8 in the Gregorian calendar).
+En 1863 : Arizona is organized as a United States territory.
 <br/><br/>
-En 1909 : The AEA Silver Dart makes the first powered flight in Canada and the British Empire.
+En 1854 : A Penny Red with perforations becomes the first perforated postage stamp to be officially issued for distribution.
 <br/><br/>
-En 1905 : Chicago attorney Paul Harris and three other businessmen meet for lunch to form the Rotary Club, the world's first service club.
+En 1848 : King Louis-Philippe of France abdicates the throne.
 <br/><br/>
-En 1903 : Cuba leases Guantánamo Bay to the United States "in perpetuity".
+En 1831 : The Treaty of Dancing Rabbit Creek, the first removal treaty in accordance with the Indian Removal Act, is proclaimed. The Choctaws in Mississippi cede land east of the river in exchange for payment and land in the West.
 <br/><br/>
-En 1900 : Second Boer War: During the Battle of the Tugela Heights, the first British attempt to take Hart's Hill fails.
+En 1826 : The signing of the Treaty of Yandabo marks the end of the First Anglo-Burmese War.
 <br/><br/>
-En 1898 : Émile Zola is imprisoned in France after writing J'Accuse…!, a letter accusing the French government of antisemitism and wrongfully imprisoning Captain Alfred Dreyfus.
+En 1822 : The first Swaminarayan temple in the world, Shri Swaminarayan Mandir, Ahmedabad, is inaugurated.
 <br/><br/>
-En 1887 : The French Riviera is hit by a large earthquake, killing around 2,000.
+En 1821 : Final stage of the Mexican War of Independence from Spain with Plan of Iguala.
 <br/><br/>
-En 1886 : Charles Martin Hall produced the first samples of aluminium from the electrolysis of aluminium oxide, after several years of intensive work. He was assisted in this project by his older sister, Julia Brainerd Hall.
+En 1813 : Sinking of HMS Peacock by USS Hornet on the Demerara River, Guyana
 <br/><br/>
-En 1885 : Sino-French War: French Army gains an important victory in the Battle of Đồng Đăng in the Tonkin region of Vietnam.
+En 1812 : Treaty of Paris between Napoleon and Frederick William III of Prussia against Russia is signed
 <br/><br/>
-En 1883 : Alabama becomes the first U.S. state to enact an anti-trust law.
+En 1809 : London's Drury Lane Theatre burns to the ground, leaving its owner, Irish writer and politician Richard Brinsley Sheridan, destitute.
 <br/><br/>
-En 1870 : Reconstruction Era: Post-U.S. Civil War military control of Mississippi ends and it is readmitted to the Union.
+En 1809 : Britain invades and captures the French colony of Martinique
 <br/><br/>
-En 1861 : President-elect Abraham Lincoln arrives secretly in Washington, D.C., after the thwarting of an alleged assassination plot in Baltimore, Maryland.
+En 1803 : In Marbury v. Madison, the Supreme Court of the United States establishes the principle of judicial review.
 <br/><br/>
-En 1854 : The official independence of the Orange Free State, South Africa is declared.
+En 1739 : Battle of Karnal: The army of Iranian ruler Nader Shah defeats the forces of the Mughal emperor of India, Muhammad Shah.
 <br/><br/>
-En 1847 : Mexican–American War: Battle of Buena Vista: In Mexico, American troops under future president General Zachary Taylor defeat Mexican General Antonio López de Santa Anna.
+En 1711 : Rinaldo by George Frideric Handel, the first Italian opera written for the London stage, is premièred.
 <br/><br/>
-En 1836 : Texas Revolution: The Siege of the Alamo (prelude to the Battle of the Alamo) begins in San Antonio, Texas.
+En 1607 : L'Orfeo by Claudio Monteverdi, one of the first works recognized as an opera, receives its première performance.
 <br/><br/>
-En 1820 : Cato Street Conspiracy: A plot to murder all the British cabinet ministers is exposed and the conspirators arrested.
+En 1597 : The last battle of the Cudgel War takes place on the Santavuori Hill in Ilmajoki, Ostrobothnia.
 <br/><br/>
-En 1778 : American Revolutionary War: Baron von Steuben arrives at Valley Forge, Pennsylvania, to help train the Continental Army.
+En 1582 : With the papal bull Inter gravissimas, Pope Gregory XIII announces the Gregorian calendar.
 <br/><br/>
-En 1763 : Berbice slave uprising in Guyana: The first major slave revolt in South America.
+En 1538 : Treaty of Nagyvárad between Holy Roman Emperor Ferdinand I and King John Zápolya of Hungary and Croatia.
 <br/><br/>
-En 1725 : J. S. Bach leads his Tafel-Music Shepherd Cantata for the birthday of Christian, Duke of Saxe-Weissenfels.
+En 1527 : Coronation of Ferdinand I as the king of Bohemia in Prague.
 <br/><br/>
-En 1455 : Traditionally the date of publication of the Gutenberg Bible, the first Western book printed with movable type.
+En 1525 : A Spanish-Austrian army defeats a French army at the Battle of Pavia.
 <br/><br/>
-En 705 : Empress Wu Zetian abdicates the throne, restoring the Tang dynasty.
+En 1386 : King Charles III of Naples and Hungary is assassinated at Buda.
 <br/><br/>
-En 628 : Khosrow II, last Sasanian shah of Iran, is overthrown.
+En 1303 : The English are defeated at the Battle of Roslin, in the First War of Scottish Independence.
 <br/><br/>
-En 532 : Byzantine emperor Justinian I lays the foundation stone of a new Orthodox Christian basilica in Constantinople – the Hagia Sophia.
-<br/><br/>
-En 303 : Roman emperor Diocletian orders the destruction of the Christian church in Nicomedia, beginning eight years of Diocletianic Persecution.
+En 484 : King Huneric of the Vandals replaces Nicene bishops with Arian ones, and banishes some to Corsica.
 <br/><br/>
