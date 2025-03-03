@@ -4,123 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 2/3 ?(Hover on the year)</h1>
+<h1> What happen this day 3/3 ?(Hover on the year)</h1>
 
-En 2022 : Russian forces capture the city of Kherson during the Russian invasion of Ukraine, which subsequently began the start of the Russian occupation and military-civilian administration in Kherson. Kherson is the only regional capital in Ukraine that Russia captured.
+En 2013 : A bomb blast in Karachi, Pakistan, kills at least 48 people and injured 200 others in a predominantly Shia Muslim area.
 <br/><br/>
-En 2017 : The elements Moscovium, Tennessine, and Oganesson are officially added to the periodic table at a conference in Moscow, Russia.
+En 2005 : James Roszko murders four Royal Canadian Mounted Police constables during a drug bust at his property in Rochfort Bridge, Alberta, then commits suicide. This is the deadliest peace-time incident for the RCMP since 1885 and the North-West Rebellion.
 <br/><br/>
-En 2012 : A tornado outbreak occurs over a large section of the Southern United States and into the Ohio Valley region, resulting in 40 tornado-related fatalities.
+En 2005 : Steve Fossett becomes the first person to fly an airplane non-stop around the world solo without refueling.
 <br/><br/>
-En 2004 : War in Iraq: Al-Qaeda carries out the Ashoura Massacre in Iraq, killing 170 and wounding over 500.
+En 2005 : Margaret Wilson is elected as Speaker of the New Zealand House of Representatives, beginning a period lasting until August 23, 2006, where all the highest political offices (including Elizabeth II as Head of State), were occupied by women, making New Zealand the first country for this to occur.
 <br/><br/>
-En 2002 : U.S. invasion of Afghanistan: Operation Anaconda begins, (ending on March 19 after killing 500 Taliban and al-Qaeda fighters, with 11 Western troop fatalities).
+En 1991 : An amateur video captures the beating of Rodney King by Los Angeles police officers.
 <br/><br/>
-En 1998 : Data sent from the Galileo spacecraft indicates that Jupiter's moon Europa has a liquid ocean under a thick crust of ice.
+En 1991 : United Airlines Flight 585 crashes on its final approach to Colorado Springs killing everyone on board.
 <br/><br/>
-En 1995 : Researchers at Fermilab announce the discovery of the top quark.
+En 1986 : The Australia Act 1986 commences, causing Australia to become fully independent from the United Kingdom.
 <br/><br/>
-En 1995 : Space Shuttle Endeavour launches from the Kennedy Space Center on STS-67, carrying the ASTRO-2 spacelab observatory.
+En 1985 : A magnitude 8.3 earthquake strikes the Valparaíso Region of Chile, killing 177 and leaving nearly a million people homeless.
 <br/><br/>
-En 1992 : Start of the war in Transnistria.
+En 1980 : The USS Nautilus is decommissioned and stricken from the Naval Vessel Register.
 <br/><br/>
-En 1992 : Armenia, Azerbaijan, Kazakhstan, Kyrgyzstan, Moldova, San Marino, Tajikistan, Turkmenistan and Uzbekistan, all of which (except San Marino) were former Soviet republics, join the United Nations.
+En 1974 : Turkish Airlines Flight 981 crashes at Ermenonville near Paris, France killing all 346 aboard.
 <br/><br/>
-En 1991 : Establishment of Kuwait Democratic Forum, center-left political organization in Kuwait.
+En 1972 : Mohawk Airlines Flight 405 crashes as a result of a control malfunction and insufficient training in emergency procedures.
 <br/><br/>
-En 1991 : Battle at Rumaila oil field brings an end to the 1991 Gulf War.
+En 1969 : Apollo program: NASA launches Apollo 9 to test the lunar module.
 <br/><br/>
-En 1990 : Nelson Mandela is elected deputy president of the African National Congress.
+En 1958 : Nuri al-Said becomes Prime Minister of Iraq for the eighth time.
 <br/><br/>
-En 1989 : Twelve European Community nations agree to ban the production of all chlorofluorocarbons (CFCs) by the end of the century.
+En 1953 : A De Havilland Comet (Canadian Pacific Air Lines) crashes in Karachi, Pakistan, killing 11 people.
 <br/><br/>
-En 1983 : Compact discs and players are released for the first time in the United States and other markets. They had previously been available only in Japan.
+En 1945 : World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.
 <br/><br/>
-En 1978 : Czech Vladimír Remek becomes the first non-Russian or non-American to go into space, when he is launched aboard Soyuz 28.
+En 1944 : The Order of Nakhimov and Order of Ushakov are instituted in USSR as the highest naval awards.
 <br/><br/>
-En 1978 : The late iconic actor Charlie Chaplin's coffin is stolen from his grave in Switzerland.
+En 1944 : A freight train carrying stowaway passengers stalls in a tunnel shortly after departing from Balvano, Basilicata, Italy just after midnight, with 517 dying from carbon monoxide poisoning.
 <br/><br/>
-En 1977 : Libya becomes the Socialist People's Libyan Arab Jamahiriya as the General People's Congress adopted the "Declaration on the Establishment of the Authority of the People".
+En 1943 : World War II: In London, 173 people are killed in a crush while trying to enter an air-raid shelter at Bethnal Green tube station.
 <br/><br/>
-En 1972 : The Pioneer 10 space probe is launched from Cape Canaveral, Florida with a mission to explore the outer planets.
+En 1942 : World War II: Ten Japanese warplanes raid Broome, Western Australia, killing more than 100 people.
 <br/><br/>
-En 1970 : Rhodesia declares itself a republic, breaking its last links with the British crown.
+En 1940 : Five people are killed in an arson attack on the offices of the communist newspaper Flamman in Luleå, Sweden.
 <br/><br/>
-En 1969 : In Toulouse, France, the first test flight of the Anglo-French Concorde is conducted.
+En 1939 : In Bombay, Mohandas Gandhi begins a hunger strike in protest at the autocratic rule in British India.
 <br/><br/>
-En 1968 : Baggeridge Colliery closes marking the end of over 300 years of coal mining in the Black Country.
+En 1938 : Oil is discovered in Saudi Arabia.
 <br/><br/>
-En 1965 : The US and Republic of Vietnam Air Force begin Operation Rolling Thunder, a sustained bombing campaign against North Vietnam.
+En 1924 : The Ottoman Caliphate is abolished, when the Caliph Abdülmecid II of the Ottoman dynasty is deposed. The last remnant of the old monarchy gives way to the reformed Turkey of Kemal Atatürk.
 <br/><br/>
-En 1962 : In Burma, the army led by General Ne Win seizes power in a coup d'état.
+En 1924 : The Free State of Fiume is annexed by the Kingdom of Italy.
 <br/><br/>
-En 1962 : Wilt Chamberlain sets the single-game scoring record in the National Basketball Association by scoring 100 points.
+En 1923 : US magazine Time publishes its first issue.
 <br/><br/>
-En 1955 : Norodom Sihanouk, king of Cambodia, abdicates the throne in favor of his father, Norodom Suramarit.
+En 1918 : Russia signs the Treaty of Brest-Litovsk, agreeing to withdraw from World War I, and conceding German control of the Baltic States, Belarus and Ukraine. It also conceded Turkish control of Ardahan, Kars and Batumi.
 <br/><br/>
-En 1949 : Captain James Gallagher lands his B-50 Superfortress Lucky Lady II in Fort Worth, Texas, after completing the first non-stop around-the-world airplane flight in 94 hours and one minute.
+En 1913 : Thousands of women march in the Woman Suffrage Procession in Washington, D.C.
 <br/><br/>
-En 1943 : World War II: During the Battle of the Bismarck Sea Allied aircraft defeated a Japanese attempt to ship troops to New Guinea.
+En 1891 : Shoshone National Forest is established as the first national forest in the US and world.
 <br/><br/>
-En 1941 : World War II: First German military units enter Bulgaria after it joins the Axis Pact.
+En 1878 : The Russo-Turkish War ends with Bulgaria regaining its independence from the Ottoman Empire according to the Treaty of San Stefano.
 <br/><br/>
-En 1939 : Cardinal Eugenio Pacelli is elected Pope and takes the name Pius XII.
+En 1875 : The first ever organized indoor game of ice hockey is played in Montreal, Quebec, Canada as recorded in the Montreal Gazette.
 <br/><br/>
-En 1937 : The Steel Workers Organizing Committee signs a collective bargaining agreement with U.S. Steel, leading to unionization of the United States steel industry.
+En 1875 : Bizet's opera Carmen is first performed at the Opéra-Comique in Paris.
 <br/><br/>
-En 1932 : Finnish president P. E. Svinhufvud gives a radio speech, which four days later finally ends the Mäntsälä Rebellion and the far-right Lapua Movement that started it.
+En 1873 : Censorship in the United States: The U.S. Congress enacts the Comstock Law, making it illegal to send any "obscene literature and articles of immoral use" through the mail.
 <br/><br/>
-En 1919 : The first Communist International meets in Moscow.
+En 1861 : Alexander II of Russia signs the Emancipation Manifesto, freeing serfs.
 <br/><br/>
-En 1917 : The enactment of the Jones–Shafroth Act grants Puerto Ricans United States citizenship.
+En 1859 : The two-day Great Slave Auction, the largest such auction in United States history, concludes.
 <br/><br/>
-En 1903 : In New York City the Martha Washington Hotel opens, becoming the first hotel exclusively for women.
+En 1857 : Second Opium War: France and the United Kingdom declare war on China.
 <br/><br/>
-En 1901 : United States Steel Corporation is founded as a result of a merger between Carnegie Steel Company and Federal Steel Company which became the first corporation in the world with a market capital over $1 billion.
+En 1849 : The Territory of Minnesota is created.
 <br/><br/>
-En 1901 : The U.S. Congress passes the Platt Amendment limiting the autonomy of Cuba, as a condition of the withdrawal of American troops.
+En 1845 : Florida is admitted as the 27th U.S. state.
 <br/><br/>
-En 1882 : Queen Victoria narrowly escapes an assassination attempt by Roderick Maclean in Windsor.
+En 1799 : The Russo-Ottoman siege of Corfu ends with the surrender of the French garrison.
 <br/><br/>
-En 1877 : Just two days before inauguration, the U.S. Congress declares Rutherford B. Hayes the winner of the 1876 U.S. presidential election even though Samuel J. Tilden had won the popular vote.
+En 1779 : American Revolutionary War: The Continental Army is routed at the Battle of Brier Creek near Savannah, Georgia.
 <br/><br/>
-En 1867 : The U.S. Congress passes the first Reconstruction Act.
+En 1776 : American Revolutionary War: The first amphibious landing of the United States Marine Corps begins the Battle of Nassau.
 <br/><br/>
-En 1865 : East Cape War: The Völkner Incident in New Zealand.
+En 1585 : The Olympic Theatre, designed by Andrea Palladio, is inaugurated in Vicenza.
 <br/><br/>
-En 1859 : The two-day Great Slave Auction, the largest such auction in United States history, begins.
+En 1575 : Mughal Emperor Akbar defeats Sultan of Bengal Daud Khan Karrani's army at the Battle of Tukaroi.
 <br/><br/>
-En 1855 : Alexander II becomes Tsar of Russia.
+En 724 : Empress Genshō abdicates the throne in favor of her nephew Shōmu who becomes emperor of Japan.
 <br/><br/>
-En 1836 : Texas Revolution: The Declaration of independence of the Republic of Texas from Mexico is adopted.
-<br/><br/>
-En 1815 : Signing of the Kandyan Convention treaty by British invaders and the leaders of the Kingdom of Kandy.
-<br/><br/>
-En 1811 : Argentine War of Independence: A royalist fleet defeats a small flotilla of revolutionary ships in the Battle of San Nicolás on the River Plate.
-<br/><br/>
-En 1807 : The U.S. Congress passes the Act Prohibiting Importation of Slaves, disallowing the importation of new slaves into the country.
-<br/><br/>
-En 1797 : The Bank of England issues the first one-pound and two-pound banknotes.
-<br/><br/>
-En 1791 : Claude Chappe demonstrates the first semaphore line near Paris.
-<br/><br/>
-En 1776 : American Revolutionary War: Patriot militia units attempt to prevent capture of supply ships in and around the Savannah River by a small fleet of the Royal Navy in the Battle of the Rice Boats.
-<br/><br/>
-En 1657 : The Great Fire of Meireki begins in Edo (now Tokyo), Japan, causing more than 100,000 deaths before it exhausts itself three days later.
-<br/><br/>
-En 1498 : Vasco da Gama's fleet visits the Island of Mozambique.
-<br/><br/>
-En 1484 : The College of Arms is formally incorporated by Royal Charter signed by King Richard III of England.
-<br/><br/>
-En 1476 : Burgundian Wars: The Old Swiss Confederacy hands Charles the Bold, Duke of Burgundy, a major defeat in the Battle of Grandson in Canton of Neuchâtel.
-<br/><br/>
-En 1458 : George of Poděbrady is chosen as the king of Bohemia.
-<br/><br/>
-En 1444 : Skanderbeg organizes a group of Albanian nobles to form the League of Lezhë.
-<br/><br/>
-En 1331 : Fall of Nicaea to the Ottoman Turks after a siege.
-<br/><br/>
-En 986 : Louis V becomes the last Carolingian king of West Francia after the death of his father, Lothaire.
-<br/><br/>
-En 537 : Siege of Rome: The Ostrogoth army under king Vitiges begins the siege of the capital. Belisarius conducts a delaying action outside the Flaminian Gate; he and a detachment of his bucellarii are almost cut off.
+En 473 : Gundobad (nephew of Ricimer) nominates Glycerius as emperor of the Western Roman Empire.
 <br/><br/>
