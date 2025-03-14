@@ -4,89 +4,85 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 13/3 ?(Hover on the year)</h1>
+<h1> What happen this day 14/3 ?(Hover on the year)</h1>
 
-En 2020 : President Donald Trump declares the COVID-19 pandemic to be a national emergency in the United States.
+En 2021 : Burmese security forces kill at least 65 civilians in the Hlaingthaya massacre.
 <br/><br/>
-En 2020 : Breonna Taylor is killed by police officers who were forcibly entering her home in Louisville, Kentucky; her death sparked extensive protests against racism and police brutality.
+En 2019 : Cyclone Idai makes landfall near Beira, Mozambique, causing devastating floods and over 1,000 deaths.
 <br/><br/>
-En 2020 : Katerina Sakellaropoulou is sworn in as the first female President of Greece amid strict COVID-19 measures.
+En 2017 : A naming ceremony for the chemical element nihonium takes place in Tokyo, with then Crown Prince Naruhito in attendance.
 <br/><br/>
-En 2016 : The Ankara bombing kills at least 37 people.
+En 2008 : A series of riots, protests, and demonstrations erupt in Lhasa and subsequently spread elsewhere in Tibet.
 <br/><br/>
-En 2016 : Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.
+En 2007 : The Nandigram violence in Nandigram, West Bengal, results in the deaths of at least 14 people.
 <br/><br/>
-En 2013 : The 2013 papal conclave elects Cardinal Jorge Mario Bergoglio taking the name Pope Francis as the 266th Pope of the Catholic Church.
+En 2006 : The 2006 Chadian coup d'état attempt ends in failure.
 <br/><br/>
-En 2012 : The Sierre coach crash kills 28 people, including 22 children.
+En 2006 : Operation Bringing Home the Goods: Israeli troops raid an American-supervised Palestinian prison in Jericho to capture six Palestinian prisoners, including PFLP chief Ahmad Sa'adat.
 <br/><br/>
-En 2003 : An article in Nature identifies the Ciampate del Diavolo as 350,000-year-old hominid footprints.
+En 1995 : Norman Thagard becomes the first American astronaut to ride to space on board a Russian launch vehicle.
 <br/><br/>
-En 1997 : The Missionaries of Charity choose Sister Nirmala to succeed Mother Teresa as their leader.
+En 1988 : In the Johnson South Reef Skirmish Chinese forces defeat Vietnamese forces in an altercation over control of one of the Spratly Islands.
 <br/><br/>
-En 1996 : The Dunblane massacre leads to the death of sixteen primary school children and one teacher in Dunblane, Scotland.
+En 1982 : The South African government bombs the headquarters of the African National Congress in London.
 <br/><br/>
-En 1993 : The 1993 Storm of the Century affects the eastern United States, dropping feet of snow in many areas.
+En 1980 : LOT Polish Airlines Flight 007 crashes during final approach near Warsaw, Poland, killing 87 people, including a 14-man American boxing team.
 <br/><br/>
-En 1992 : The Mw  6.6 Erzincan earthquake strikes eastern Turkey with a maximum Mercalli intensity of VIII (Severe).
+En 1979 : Alia Royal Jordanian Flight 600 crashes at Doha International Airport, killing 45 people.
 <br/><br/>
-En 1989 : Space Shuttle Discovery launches on STS-29 carrying the TDRS-4 satellite.
+En 1978 : The Israel Defense Forces launch Operation Litani, a seven-day campaign to invade and occupy southern Lebanon.
 <br/><br/>
-En 1988 : The Seikan Tunnel, the longest tunnel in the world with an undersea segment, opens between Aomori and Hakodate, Japan.
+En 1972 : Sterling Airways Flight 296 crashes near Kalba, United Arab Emirates while on approach to Dubai International Airport, killing 112 people.
 <br/><br/>
-En 1979 : The New Jewel Movement, headed by Maurice Bishop, ousts the Prime Minister of Grenada, Eric Gairy, in a coup d'état.
+En 1967 : The body of U.S. President John F. Kennedy is moved to a permanent burial place at Arlington National Cemetery.
 <br/><br/>
-En 1974 : Sierra Pacific Airlines Flight 802 crashes into the White Mountains near Bishop, California, killing 36.
+En 1964 : Jack Ruby is convicted of killing Lee Harvey Oswald, the assumed assassin of John F. Kennedy.
 <br/><br/>
-En 1969 : Apollo 9 returns safely to Earth after testing the Lunar Module.
+En 1961 : A USAF B-52 bomber carrying nuclear weapons crashes near Yuba City, California.
 <br/><br/>
-En 1957 : Cuban student revolutionaries storm the presidential palace in Havana in a failed attempt on the life of President Fulgencio Batista.
+En 1951 : Korean War: United Nations troops recapture Seoul for the second time.
 <br/><br/>
-En 1954 : The Battle of Điện Biên Phủ begins with an artillery barrage by Viet Minh forces under Võ Nguyên Giáp; Viet Minh victory led to the end of the First Indochina War and French withdrawal from Vietnam.
+En 1945 : The R.A.F. drop the Grand Slam bomb in action for the first time, on a railway viaduct near Bielefeld, Germany.
 <br/><br/>
-En 1943 : The Holocaust: German forces liquidate the Jewish ghetto in Kraków.
+En 1943 : The Holocaust: The liquidation of the Kraków Ghetto is completed.
 <br/><br/>
-En 1940 : The Winter War between Finland and the Soviet Union officially ends after the signing of the Moscow Peace Treaty.
+En 1942 : Anne Miller becomes the first American patient to be treated with penicillin, under the care of Orvan Hess and John Bumstead.
 <br/><br/>
-En 1930 : The news of the discovery of Pluto is announced by Lowell Observatory.
+En 1939 : Slovakia declares independence under German pressure.
 <br/><br/>
-En 1920 : The Kapp Putsch briefly ousts the Weimar Republic government from Berlin.
+En 1931 : Alam Ara, India's first talking film, is released.
 <br/><br/>
-En 1900 : British forces occupy Bloemfontein, Orange Free State, during the Second Boer War.
+En 1926 : The El Virilla train accident, Costa Rica, kills 248 people and wounds another 93 when a train falls off a bridge over the Río Virilla between Heredia and Tibás.
 <br/><br/>
-En 1888 : The eruption of Ritter Island triggers tsunamis that kill up to 3,000 people on nearby islands.
+En 1923 : Charlie Daly and three other members of the Irish Republican Army are executed by Irish Free State forces.
 <br/><br/>
-En 1884 : The Siege of Khartoum begins. It lasts until January 26, 1885.
+En 1921 : Six members of a group of Irish Republican Army activists known as the Forgotten Ten, are hanged in Dublin's Mountjoy Prison.
 <br/><br/>
-En 1862 : The Act Prohibiting the Return of Slaves is passed by the United States Congress, effectively annulling the Fugitive Slave Act of 1850 and setting the stage for the Emancipation Proclamation.
+En 1920 : In the second of the 1920 Schleswig plebiscites, about 80% of the population in Zone II votes to remain part of Weimar Germany.
 <br/><br/>
-En 1848 : The German revolutions of 1848–1849 begin in Vienna.
+En 1903 : Pelican Island National Wildlife Refuge, the first national wildlife refuge in the US, is established by President Theodore Roosevelt.
 <br/><br/>
-En 1845 : Felix Mendelssohn's Violin Concerto receives its première performance in Leipzig with Ferdinand David as soloist.
+En 1901 : Utah governor Heber Manning Wells vetoes a bill that would have eased restriction on polygamy.
 <br/><br/>
-En 1826 : Pope Leo XII publishes the apostolic constitution Quo Graviora in which he renewed the prohibition on Catholics joining freemasonry.
+En 1900 : The Gold Standard Act is ratified, placing the United States currency on the gold standard.
 <br/><br/>
-En 1815 : Participants at the Congress of Vienna declare Napoleon an outlaw following his escape from Elba
+En 1885 : The Mikado, a light opera by W. S. Gilbert and Arthur Sullivan, receives its first public performance at the Savoy Theatre in London.
 <br/><br/>
-En 1811 : A French and Italian fleet is defeated by a British squadron off the island of Vis in the Adriatic during the Napoleonic Wars.
+En 1864 : Rossini's Petite messe solennelle is first performed, by twelve singers, two pianists and a harmonium player in a mansion in Paris.
 <br/><br/>
-En 1809 : Gustav IV Adolf of Sweden is deposed in the Coup of 1809.
+En 1794 : Eli Whitney is granted a patent for the cotton gin.
 <br/><br/>
-En 1781 : William Herschel discovers Uranus.
+En 1780 : American Revolutionary War: Spanish forces capture Fort Charlotte in Mobile, Alabama, the last British frontier post capable of threatening New Orleans.
 <br/><br/>
-En 1741 : The Battle of Cartagena de Indias (part of the War of Jenkins' Ear) begins.
+En 1757 : Admiral Sir John Byng is executed by firing squad aboard HMS Monarch for breach of the Articles of War.
 <br/><br/>
-En 1697 : Nojpetén, capital of the last independent Maya kingdom, falls to Spanish conquistadors, the final step in the Spanish conquest of Guatemala.
+En 1674 : The Third Anglo-Dutch War: The Battle of Ronas Voe results in the Dutch East India Company ship Wapen van Rotterdam being captured with a death toll of up to 300 Dutch crew and soldiers.
 <br/><br/>
-En 1639 : Harvard College is named after clergyman John Harvard.
+En 1663 : According to his own account, Otto von Guericke completes his book Experimenta Nova (ut vocantur) Magdeburgica de Vacuo Spatio, detailing his experiments on vacuum and his discovery of electrostatic repulsion.
 <br/><br/>
-En 1591 : At the Battle of Tondibi in Mali, Moroccan forces of the Saadi dynasty, led by Judar Pasha, defeat the Songhai Empire, despite being outnumbered by at least five to one.
+En 1647 : Thirty Years' War: Bavaria, Cologne, France and Sweden sign the Truce of Ulm.
 <br/><br/>
-En 1567 : The Battle of Oosterweel, traditionally regarded as the start of the Eighty Years' War.
+En 1590 : Battle of Ivry: Henry of Navarre and the Huguenots defeat the forces of the Catholic League under Charles, Duke of Mayenne, during the French Wars of Religion.
 <br/><br/>
-En 1323 : Siege of Warangal: Sultan Ghiyath al-Din Tughluq sends an expeditionary army led by his son, Muhammad bin Tughluq, to the Kakatiya capital Warangal – after ruler Prataparudra has refused to make tribute payments. He besieges the city and finally, after a campaign of 8 months, Prataparudra surrenders on November 9.
-<br/><br/>
-En 624 : The Battle of Badr, the first major battle between the Muslims and Quraysh.
-<br/><br/>
-En 222 : Roman emperor Elagabalus is murdered alongside his mother, Julia Soaemias. He is replaced by his 14-year old cousin, Severus Alexander.
+En 1074 : Battle of Mogyoród: Dukes Géza and Ladislaus defeat their cousin Solomon, King of Hungary, forcing him to flee to Hungary's western borderland.
 <br/><br/>
