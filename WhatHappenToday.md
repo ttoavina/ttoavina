@@ -4,91 +4,105 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/3 ?(Hover on the year)</h1>
+<h1> What happen this day 16/3 ?(Hover on the year)</h1>
 
-En 2022 : The 2022 Sri Lankan protests begins amidst Sri Lanka's economic collapse.
+En 2022 : A 7.4-magnitude earthquake occurs off the coast of Fukushima, Japan, killing 4 people and injuring 225.
 <br/><br/>
-En 2019 : Fifty-one people are killed in the Christchurch mosque shootings.
+En 2022 : Mariupol theatre airstrike during the siege of Mariupol.
 <br/><br/>
-En 2019 : Beginning of the 2019–20 Hong Kong protests.
+En 2021 : Atlanta spa shootings: Eight people are killed and one is injured in a trio of shootings at spas in and near Atlanta, Georgia, U.S. A suspect is arrested the same day.
 <br/><br/>
-En 2019 : Approximately 1.4 million young people in 123 countries go on strike to protest climate change.
+En 2020 : The Dow Jones Industrial Average falls by 2,997.10, the single largest point drop in history and the second-largest percentage drop ever at 12.93%, an even greater crash than Black Monday (1929). This follows the U.S. Federal Reserve announcing that it will cut its target interest rate to 0–0.25%.
 <br/><br/>
-En 2011 : Beginning of the Syrian Civil War.
+En 2016 : A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 30.
 <br/><br/>
-En 2008 : Stockpiles of obsolete ammunition explode at an ex-military ammunition depot in the village of Gërdec, Albania, killing 26 people.
+En 2016 : Two suicide bombers detonate their explosives at a mosque during morning prayer on the outskirts of Maiduguri, Nigeria, killing 24 and injuring 18.
 <br/><br/>
-En 1991 : Cold War: The Treaty on the Final Settlement with Respect to Germany comes into effect, granting full sovereignty to the Federal Republic of Germany.
+En 2014 : Crimea votes in a controversial referendum to secede from Ukraine to join Russia.
 <br/><br/>
-En 1990 : Mikhail Gorbachev is elected as the first President of the Soviet Union.
+En 2012 : Former Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
 <br/><br/>
-En 1986 : Collapse of Hotel New World: Thirty-three people die when the Hotel New World in Singapore collapses.
+En 2010 : The Kasubi Tombs, Uganda's only cultural World Heritage Site, are destroyed in a fire.
 <br/><br/>
-En 1978 : Somalia and Ethiopia signed a truce to end the Ethio-Somali War.
+En 2005 : Israel officially hands over Jericho to Palestinian control.
 <br/><br/>
-En 1974 : Fifteen people are killed when Sterling Airways Flight 901, a Sud Aviation Caravelle, catches fire following a landing gear collapse at Mehrabad International Airport in Tehran, Iran.
+En 2003 : American activist Rachel Corrie is killed in Rafah by being run over by an Israel Defense Forces bulldozer while trying to obstruct the demolition of a home.
 <br/><br/>
-En 1965 : President Lyndon B. Johnson, responding to the Selma crisis, tells U.S. Congress "We shall overcome" while advocating the Voting Rights Act.
+En 2001 : A series of bomb blasts in the city of Shijiazhuang, China kill 108 people and injure 38 others, the biggest mass murder in China in decades.
 <br/><br/>
-En 1961 : At the 1961 Commonwealth Prime Ministers' Conference, South Africa announces that it will withdraw from the Commonwealth when the South African Constitution of 1961 comes into effect.
+En 1995 : Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865.
 <br/><br/>
-En 1951 : Iranian oil industry is nationalized.
+En 1988 : Iran–Contra affair: Lieutenant Colonel Oliver North and Vice Admiral John Poindexter are indicted on charges of conspiracy to defraud the United States.
 <br/><br/>
-En 1943 : World War II: Third Battle of Kharkiv: The Germans retake the city of Kharkiv from the Soviet armies.
+En 1988 : Halabja chemical attack: The Kurdish town of Halabja in Iraq is attacked with a mix of poison gas and nerve agents on the orders of Saddam Hussein, killing 5,000 people and injuring about 10,000 people.
 <br/><br/>
-En 1939 : Germany occupies Czechoslovakia.
+En 1988 : The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA are killed, and more than 60 others are wounded.
 <br/><br/>
-En 1939 : Carpatho-Ukraine declares itself an independent republic, but is annexed by Hungary the next day.
+En 1985 : Associated Press newsman Terry Anderson is taken hostage in Beirut; he is not released until December 1991.
 <br/><br/>
-En 1927 : The first Women's Boat Race between the University of Oxford and the University of Cambridge takes place on The Isis in Oxford.
+En 1984 : William Buckley, the CIA station chief in Lebanon, is kidnapped by Hezbollah; he later dies in captivity.
 <br/><br/>
-En 1922 : After Egypt gains nominal independence from the United Kingdom, Fuad I becomes King of Egypt.
+En 1979 : Sino-Vietnamese War: The People's Liberation Army crosses the border back into China, ending the war.
 <br/><br/>
-En 1921 : Talaat Pasha, former Grand Vizir of the Ottoman Empire and chief architect of the Armenian genocide is assassinated in Berlin by a 23-year-old Armenian, Soghomon Tehlirian.
+En 1978 : Former Italian Prime Minister Aldo Moro is kidnapped; he is later murdered by his captors.
 <br/><br/>
-En 1919 : Ukrainian War of Independence: The Kontrrazvedka is established as the counterintelligence division of the Revolutionary Insurgent Army of Ukraine.
+En 1978 : A Balkan Bulgarian Airlines Tupolev Tu-134 crashes near Gabare, Bulgaria, killing 73.
 <br/><br/>
-En 1919 : The American Legion is founded.
+En 1978 : Supertanker Amoco Cadiz splits in two after running aground on the Portsall Rocks, three miles off the coast of Brittany, resulting in the largest oil spill in history at that time.
 <br/><br/>
-En 1918 : Finnish Civil War: The battle of Tampere begins.
+En 1977 : Assassination of Kamal Jumblatt, the main leader of the anti-government forces in the Lebanese Civil War.
 <br/><br/>
-En 1917 : Tsar Nicholas II of Russia abdicates the Russian throne, ending the 304-year Romanov dynasty.
+En 1969 : A Viasa McDonnell Douglas DC-9 crashes in Maracaibo, Venezuela, killing 155.
 <br/><br/>
-En 1907 : The first parliamentary elections of Finland (at the time the Grand Duchy of Finland) are held.
+En 1968 : Vietnam War: My Lai massacre occurs; between 347 and 500 Vietnamese villagers are killed by American troops.
 <br/><br/>
-En 1888 : Start of the Anglo-Tibetan War of 1888.
+En 1966 : Launch of Gemini 8 with astronauts Neil Armstrong and David Scott. It would perform the first docking of two spacecraft in orbit.
 <br/><br/>
-En 1877 : First ever official cricket test match is played: Australia vs England at the MCG Stadium, in Melbourne, Australia.
+En 1962 : Flying Tiger Line Flight 739 disappears in the western Pacific Ocean with all 107 aboard missing and presumed dead.
 <br/><br/>
-En 1875 : Archbishop of New York John McCloskey is named the first cardinal in the United States.
+En 1945 : World War II: The Battle of Iwo Jima ends, but small pockets of Japanese resistance persist.
 <br/><br/>
-En 1874 : France and Vietnam sign the Second Treaty of Saigon, further recognizing the full sovereignty of France over Cochinchina.
+En 1945 : Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
 <br/><br/>
-En 1848 : A revolution breaks out in Hungary, and the Habsburg rulers are compelled to meet the demands of the reform party.
+En 1941 : Operation Appearance takes place to re-establish British Somaliland
 <br/><br/>
-En 1823 : Sailor Benjamin Morrell erroneously reported the existence of the island of New South Greenland near Antarctica.
+En 1939 : From Prague Castle, Hitler proclaims Bohemia and Moravia a German protectorate.
 <br/><br/>
-En 1820 : Maine is admitted as the twenty-third U.S. state.
+En 1936 : Warmer-than-normal temperatures rapidly melt snow and ice on the upper Allegheny and Monongahela rivers, leading to a major flood in Pittsburgh.
 <br/><br/>
-En 1783 : In an emotional speech in Newburgh, New York, George Washington asks his officers not to support the Newburgh Conspiracy. The plea is successful, and the threatened coup d'état never takes place.
+En 1935 : Adolf Hitler orders Germany to rearm itself in violation of the Treaty of Versailles. Conscription is reintroduced to form the Wehrmacht.
 <br/><br/>
-En 1672 : King Charles II of England issues the Royal Declaration of Indulgence, granting limited religious freedom to all Christians.
+En 1926 : History of Rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts.
 <br/><br/>
-En 1626 : a dam failure causes the sudden flooding of the mining city of Potosí in present-day Bolivia leading to the death of thousands and the massive release of toxic mercury into the environment.
+En 1925 : An earthquake (measuring around 7.0 magnitude) occurs in Dali, China, killing an estimated 5,000 people.
 <br/><br/>
-En 1564 : Mughal Emperor Akbar abolishes the jizya tax on non-Muslim subjects.
+En 1924 : In accordance with the Treaty of Rome, Fiume becomes annexed as part of Italy.
 <br/><br/>
-En 1311 : Battle of Halmyros: The Catalan Company defeats Walter V, Count of Brienne to take control of the Duchy of Athens, a Crusader state in Greece.
+En 1918 : Finnish Civil War: Battle of Länkipohja is infamous for its bloody aftermath as the Whites execute 70–100 capitulated Reds.
 <br/><br/>
-En 933 : After a ten-year truce, German King Henry the Fowler defeats a Hungarian army at the Battle of Riade near the Unstrut river.
+En 1916 : The 7th and 10th US cavalry regiments under John J. Pershing cross the US–Mexico border to join the hunt for Pancho Villa.
 <br/><br/>
-En 897 : Al-Hadi ila'l-Haqq Yahya enters Sa'dah and founds the Zaydi Imamate of Yemen.
+En 1898 : In Melbourne, the representatives of five colonies adopt a constitution, which would become the basis of the Commonwealth of Australia.[page needed]
 <br/><br/>
-En 856 : Michael III, emperor of the Byzantine Empire, overthrows the regency of his mother, empress Theodora (wife of Theophilos) with support of the Byzantine nobility.
+En 1872 : The Wanderers F.C. win the first FA Cup, the oldest football competition in the world, beating Royal Engineers A.F.C. 1–0 at The Oval in Kennington, London.
 <br/><br/>
-En 493 : Odoacer, the first barbarian King of Italy after the fall of the Western Roman Empire, is slain by Theoderic the Great, king of the Ostrogoths, while the two kings were feasting together.
+En 1815 : Prince Willem proclaims himself King of the United Kingdom of the Netherlands, the first constitutional monarch in the Netherlands.
 <br/><br/>
-En -44 : The assassination of Julius Caesar takes place on the Ides of March.
+En 1802 : The Army Corps of Engineers is established to found and operate the United States Military Academy at West Point.
 <br/><br/>
-En -474 : Roman consul Aulus Manlius Vulso celebrates an ovation for concluding the war against Veii and securing a forty years truce.
+En 1792 : King Gustav III of Sweden is shot; he dies on March 29.
+<br/><br/>
+En 1696 : The Dutch bombard Givet during the Nine Years' War.
+<br/><br/>
+En 1660 : The Long Parliament of England is dissolved so as to prepare for the new Convention Parliament.
+<br/><br/>
+En 1621 : Samoset, a Abenaki, visits the settlers of Plymouth Colony and greets them, "Welcome, Englishmen! My name is Samoset."
+<br/><br/>
+En 1355 : Amidst the Red Turban Rebellions, Han Lin'er, a claimed descendant of Emperor Huizong of Song, is proclaimed emperor of the restored Song dynasty in Bozhou.
+<br/><br/>
+En 1244 : Over 200 Cathars who refuse to recant are burnt to death after the Fall of Montségur.
+<br/><br/>
+En 1190 : Massacre of Jews at Clifford's Tower, York.
+<br/><br/>
+En 934 : Meng Zhixiang declares himself emperor and establishes the Later Shu as a new state independent of the Later Tang.
 <br/><br/>
