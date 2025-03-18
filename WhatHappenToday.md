@@ -4,81 +4,119 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/3 ?(Hover on the year)</h1>
+<h1> What happen this day 18/3 ?(Hover on the year)</h1>
 
-En 2025 : Prime Minister-designate of Trinidad and Tobago Stuart Young is expected to be sworn in as Prime Minister following the resignation of Prime Minister Keith Rowley, ahead of the 2025 Trinidad and Tobago general election.
+En 2015 : The Bardo National Museum in Tunisia is attacked by gunmen. Twenty-four people, almost all tourists, are killed, and at least 50 other people are wounded.
 <br/><br/>
-En 2016 : Rojava conflict: At a conference in Rmelan, the Movement for a Democratic Society declares the establishment of the Democratic Federation of Northern Syria.
+En 2014 : The parliaments of Russia and Crimea sign an accession treaty.
 <br/><br/>
-En 2004 : Unrest in Kosovo: More than 22 are killed and 200 wounded. Thirty-five Serbian Orthodox shrines in Kosovo and two mosques in Serbia are destroyed.
+En 1997 : The tail of a Russian Antonov An-24 charter plane breaks off while en route to Turkey, causing the plane to crash and killing all 50 people on board.
 <br/><br/>
-En 2003 : Leader of the House of Commons and Lord President of the Council, Robin Cook, resigns from the British Cabinet in disagreement with government plans for the 2003 invasion of Iraq.
+En 1996 : A nightclub fire in Quezon City, Philippines kills 162 people.
 <br/><br/>
-En 2000 : Five hundred and thirty members of the Ugandan cult Movement for the Restoration of the Ten Commandments of God die in a fire, considered to be a mass murder or suicide orchestrated by leaders of the cult. Elsewhere another 248 members are later found dead.
+En 1994 : Bosnia's Bosniaks and Croats sign the Washington Agreement, ending war between the Croatian Republic of Herzeg-Bosnia and the Republic of Bosnia and Herzegovina, and establishing the Federation of Bosnia and Herzegovina.
 <br/><br/>
-En 1992 : Israeli Embassy attack in Buenos Aires: Car bomb attack kills 29 and injures 242.
+En 1990 : Germans in the German Democratic Republic vote in the first democratic elections in the former communist dictatorship.
 <br/><br/>
-En 1992 : A referendum to end apartheid in South Africa is passed 68.7% to 31.2%.
+En 1990 : In the largest art theft in US history, 12 paintings, collectively worth around $500 million, are stolen from the Isabella Stewart Gardner Museum in Boston.
 <br/><br/>
-En 1988 : A Colombian Boeing 727 jetliner, Avianca Flight 410, crashes into a mountainside near the Venezuelan border killing 143.
+En 1980 : A Vostok-2M rocket at Plesetsk Cosmodrome Site 43 explodes during a fueling operation, killing 48 people.
 <br/><br/>
-En 1988 : Eritrean War of Independence: The Nadew Command, an Ethiopian army corps in Eritrea, is attacked on three sides by military units of the Eritrean People's Liberation Front in the opening action of the Battle of Afabet.
+En 1974 : Güzel İstanbul, a nude sculpture by Gürdal Duyar in Istanbul is torn down in the middle of the night.
 <br/><br/>
-En 1985 : Serial killer Richard Ramirez, aka the "Night Stalker", commits the first two murders in his Los Angeles murder spree.
+En 1971 : Peru: A landslide crashes into Yanawayin Lake, killing 200 people at the mining camp of Chungar.
 <br/><br/>
-En 1979 : The Penmanshiel Tunnel collapses during engineering works, killing two workers.
+En 1970 : Lon Nol ousts Prince Norodom Sihanouk of Cambodia.
 <br/><br/>
-En 1973 : The Pulitzer Prize-winning photograph Burst of Joy is taken, depicting a former prisoner of war being reunited with his family, which came to symbolize the end of United States involvement in the Vietnam War.
+En 1969 : The United States begins secretly bombing the Sihanouk Trail in Cambodia, used by communist forces to infiltrate South Vietnam.
 <br/><br/>
-En 1969 : Golda Meir becomes the first female Prime Minister of Israel.
+En 1968 : Gold standard: The U.S. Congress repeals the requirement for a gold reserve to back US currency.
 <br/><br/>
-En 1968 : As a result of nerve gas testing by the U.S. Army Chemical Corps in Skull Valley, Utah, over 6,000 sheep are found dead.
+En 1967 : The supertanker Torrey Canyon runs aground off the Cornish coast.
 <br/><br/>
-En 1966 : Off the coast of Spain in the Mediterranean, the DSV Alvin submarine finds a missing American hydrogen bomb.
+En 1966 : United Arab Airlines Flight 749 crashes on approach to Cairo International Airport in Cairo, Egypt, killing 30 people.
 <br/><br/>
-En 1963 : Mount Agung erupts on Bali killing more than 1,100 people.
+En 1965 : Cosmonaut Alexei Leonov, leaving his spacecraft Voskhod 2 for 12 minutes, becomes the first person to walk in space.
 <br/><br/>
-En 1960 : U.S. President Dwight D. Eisenhower signs the National Security Council directive on the anti-Cuban covert action program that will ultimately lead to the Bay of Pigs Invasion.
+En 1962 : The Évian Accords end the Algerian War of Independence, which had begun in 1954.
 <br/><br/>
-En 1960 : Northwest Orient Airlines Flight 710 crashes in Tobin Township, Perry County, Indiana, killing 63.
+En 1959 : The Hawaii Admission Act is signed into law.
 <br/><br/>
-En 1958 : The United States launches the first solar-powered satellite, which is also the first satellite to achieve a long-term orbit.
+En 1953 : An earthquake hits western Turkey, killing at least 1,070 people.
 <br/><br/>
-En 1957 : A plane crash in Cebu, Philippines kills Philippine President Ramon Magsaysay and 24 others.
+En 1948 : Soviet consultants leave Yugoslavia in the first sign of the Tito–Stalin split.
 <br/><br/>
-En 1950 : Researchers at the University of California, Berkeley announce the creation of element 98, which they name "californium".
+En 1945 : 40th Infantry Division, spearheaded by the 185th US Infantry Regiment, landed unopposed in Tigbauan forcing the Japanese forces to surrender and General Macario Peralta and Gen. Gen. Eichelberger to declare the Liberation of Panay, Romblon and Guimaras.
 <br/><br/>
-En 1948 : Belgium, France, Luxembourg, the Netherlands and the United Kingdom sign the Treaty of Brussels, a precursor to the North Atlantic Treaty establishing NATO.
+En 1944 : Mount Vesuvius in Italy erupts, killing 26 people, causing thousands to flee their homes, and destroying dozens of Allied bombers.
 <br/><br/>
-En 1945 : The Ludendorff Bridge in Remagen, Germany, collapses, ten days after its capture.
+En 1942 : The War Relocation Authority is established in the United States to take Japanese Americans into custody.
 <br/><br/>
-En 1942 : Holocaust: The first Jews from the Lvov Ghetto are gassed at the Belzec death camp in what is today eastern Poland.
+En 1940 : World War II: Adolf Hitler and Benito Mussolini meet at the Brenner Pass in the Alps and agree to form an alliance against France and the United Kingdom.
 <br/><br/>
-En 1921 : The Second Polish Republic adopts the March Constitution.
+En 1938 : Mexico creates Pemex by expropriating all foreign-owned oil reserves and facilities.
 <br/><br/>
-En 1891 : SS Utopia collides with HMS Anson in the Bay of Gibraltar and sinks, killing 562 of the 880 passengers on board.
+En 1937 : The New London School explosion in New London, Texas, kills 300 people, mostly children.
 <br/><br/>
-En 1862 : The first railway line of Finland between cities of Helsinki and Hämeenlinna, called Päärata, is officially opened.
+En 1937 : Spanish Civil War: Spanish Republican forces defeat the Italians at the Battle of Guadalajara.
 <br/><br/>
-En 1861 : The Kingdom of Italy is proclaimed.
+En 1925 : The 1925 Tri-State tornado hits the Midwestern states of Missouri, Illinois, and Indiana, killing 695 people.
 <br/><br/>
-En 1860 : The First Taranaki War begins in Taranaki, New Zealand, a major phase of the New Zealand Wars.
+En 1922 : In India, Mohandas Gandhi is sentenced to six years in prison for civil disobedience, of which he serves only two.
 <br/><br/>
-En 1842 : The Female Relief Society of Nauvoo is formally organized with Emma Smith as president.
+En 1921 : The second Peace of Riga is signed between Poland and the Soviet Union.
 <br/><br/>
-En 1824 : The Anglo-Dutch Treaty is signed in London, dividing the Malay archipelago. As a result, the Malay Peninsula is dominated by the British, while Sumatra and Java and surrounding areas are dominated by the Dutch.
+En 1921 : The Kronstadt rebellion is suppressed by the Red Army.
 <br/><br/>
-En 1805 : The Italian Republic, with Napoleon as president, becomes the Kingdom of Italy, with Napoleon as King of Italy.
+En 1921 : Mongolian Revolution of 1921: The Mongolian People's Army defeated local Chinese forces at Altanbulag, Selenge (then known as Maimachen). This battle was seen as the birthday of the People's Army and completed the expulsion of Chinese militants in Mongolia.
 <br/><br/>
-En 1776 : American Revolution: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city.
+En 1915 : World War I: During the Battle of Gallipoli, three battleships are sunk during a failed British and French naval attack on the Dardanelles.
 <br/><br/>
-En 1400 : Turko-Mongol emperor Timur sacks Damascus.
+En 1913 : King George I of Greece is assassinated in the recently liberated city of Thessaloniki.
 <br/><br/>
-En 1337 : Edward, the Black Prince is made Duke of Cornwall, the first Duchy in England.
+En 1902 : Macario Sakay issues Presidential Order No. 1 of his Tagalog Republic.
 <br/><br/>
-En 455 : Petronius Maximus becomes, with support of the Roman Senate, emperor of the Western Roman Empire; he forces Licinia Eudoxia, the widow of his predecessor, Valentinian III, to marry him.
+En 1901 : The Kumasi Mutiny of 1901 begins.
 <br/><br/>
-En 180 : Commodus becomes sole emperor of the Roman Empire at the age of eighteen, following the death of his father, Marcus Aurelius.
+En 1899 : Phoebe, a satellite of Saturn, becomes the first to be discovered with photographs, taken in August 1898, by William Henry Pickering.
 <br/><br/>
-En -45 : In his last victory, Julius Caesar defeats the Pompeian forces of Titus Labienus and Pompey the Younger in the Battle of Munda.
+En 1874 : The Hawaiian Kingdom signs a treaty with the United States granting exclusive trade rights.
+<br/><br/>
+En 1871 : Declaration of the Paris Commune; President of the French Republic, Adolphe Thiers, orders the evacuation of Paris.
+<br/><br/>
+En 1865 : American Civil War: The Congress of the Confederate States adjourns for the last time.
+<br/><br/>
+En 1848 : The premiere of Fry's Leonora in Philadelphia is the first known performance of a grand opera by an American composer.
+<br/><br/>
+En 1848 : Revolutions of 1848: A rebellion arose in Milan which in five days of street fighting drove Marshal Radetzky and his Austrian soldiers from the city.
+<br/><br/>
+En 1834 : Six farm labourers from Tolpuddle, Dorset, England are sentenced to be transported to Australia for forming a trade union.
+<br/><br/>
+En 1793 : The first modern republic in Germany, the Republic of Mainz, is declared by Andreas Joseph Hofmann.
+<br/><br/>
+En 1793 : Flanders Campaign of the French Revolution, Battle of Neerwinden.
+<br/><br/>
+En 1766 : American Revolution: The British Parliament repeals the Stamp Act.
+<br/><br/>
+En 1741 : New York governor George Clarke's complex at Fort George is burned in an arson attack, starting the New York Conspiracy of 1741.
+<br/><br/>
+En 1673 : English lord John Berkeley sold his half of New Jersey to the Quakers
+<br/><br/>
+En 1644 : The Third Anglo-Powhatan War begins in the Colony of Virginia.
+<br/><br/>
+En 1608 : Susenyos is formally crowned Emperor of Ethiopia.
+<br/><br/>
+En 1571 : Valletta is made the capital city of Malta.
+<br/><br/>
+En 1438 : Albert II of Habsburg becomes King of the Romans.
+<br/><br/>
+En 1314 : Jacques de Molay, the 23rd and final Grand Master of the Knights Templar, is burned at the stake.
+<br/><br/>
+En 1241 : First Mongol invasion of Poland: Mongols overwhelm Polish armies in Kraków in the Battle of Chmielnik and plunder the city.
+<br/><br/>
+En 1229 : Frederick II, Holy Roman Emperor, declares himself King of Jerusalem in the Sixth Crusade.
+<br/><br/>
+En 1068 : An earthquake in the Levant and the Arabian Peninsula leaves up to 20,000 dead.
+<br/><br/>
+En 37 : Roman Senate annuls Tiberius' will and proclaims Gaius Julius Caesar Augustus Germanicus (aka Caligula = Little Boots) emperor.
 <br/><br/>
