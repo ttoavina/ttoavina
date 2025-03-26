@@ -4,107 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 25/3 ?(Hover on the year)</h1>
+<h1> What happen this day 26/3 ?(Hover on the year)</h1>
 
-En 2018 : Syrian civil war: Following the completion of the Afrin offensive, the Syrian Democratic Forces (SDF) initiate an insurgency against the Turkish occupation of the Afrin District.
+En 2024 : The Francis Scott Key Bridge collapses following a collision between the MV Dali container ship and one of the bridge's support pillars, killing 6 people.
 <br/><br/>
-En 2006 : Capitol Hill massacre: A gunman kills six people before taking his own life at a party in Seattle's Capitol Hill neighborhood.
+En 2017 : Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption.
 <br/><br/>
-En 2006 : Protesters demanding a new election in Belarus, following the rigged 2006 Belarusian presidential election, clash with riot police. Opposition leader Aleksander Kozulin is among several protesters arrested.
+En 2010 : The South Korean Navy corvette Cheonan is torpedoed, killing 46 sailors. After an international investigation, the President of the United Nations Security Council blames North Korea.
 <br/><br/>
-En 1996 : The European Union's Veterinarian Committee bans the export of British beef and its by-products as a result of mad cow disease (Bovine spongiform encephalopathy).
+En 2005 : Around 200,000 to 300,000 Taiwanese demonstrate in Taipei in opposition to the Anti-Secession Law of  China.
 <br/><br/>
-En 1995 : WikiWikiWeb, the world's first wiki, and part of the Portland Pattern Repository, is made public by Ward Cunningham.
+En 1998 : During the Algerian Civil War, the Oued Bouaicha massacre sees fifty-two people, mostly infants, killed with axes and knives.
 <br/><br/>
-En 1988 : The Candle demonstration in Bratislava is the first mass demonstration of the 1980s against the communist regime in Czechoslovakia.
+En 1997 : Thirty-nine bodies are found in the Heaven's Gate mass suicides.
 <br/><br/>
-En 1979 : The first fully functional Space Shuttle orbiter, Columbia, is delivered to the John F. Kennedy Space Center to be prepared for its first launch.
+En 1991 : Argentina, Brazil, Uruguay and Paraguay sign the Treaty of Asunción, establishing Mercosur, the South Common Market.
 <br/><br/>
-En 1975 : Faisal of Saudi Arabia is shot and killed by his nephew.
+En 1991 : Singapore Airlines Flight 117 is hijacked by four Pakistani terrorists and diverted to Changi Airport.
 <br/><br/>
-En 1971 : The Army of the Republic of Vietnam abandon an attempt to cut off the Ho Chi Minh trail in Laos.
+En 1982 : A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C.
 <br/><br/>
-En 1965 : Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
+En 1981 : Social Democratic Party (UK) is founded as a party.
 <br/><br/>
-En 1959 : Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a "hunting and fishing retreat", for $5,258.20 ($56,716 in 2024).
+En 1979 : Anwar al-Sadat, Menachem Begin and Jimmy Carter sign the Egypt–Israel peace treaty in Washington, D.C.
 <br/><br/>
-En 1957 : United States Customs seizes copies of Allen Ginsberg's poem "Howl" on obscenity grounds.
+En 1979 : An Interflug Ilyushin Il-18 crashes at Quatro de Fevereiro Airport during a rejected takeoff, killing 10.
 <br/><br/>
-En 1957 : The European Economic Community is established with West Germany, France, Italy, Belgium, Netherlands and Luxembourg as the first members.
+En 1975 : The Biological Weapons Convention comes into force.
 <br/><br/>
-En 1949 : More than 92,000 kulaks are suddenly deported from the Baltic states to Siberia.
+En 1971 : East Pakistan, then province of Pakistan, declares its independence from Pakistan to form Bangladesh; the Bangladesh's War of Independence begins.
 <br/><br/>
-En 1948 : The first successful tornado forecast predicts that a tornado will strike Tinker Air Force Base, Oklahoma.
+En 1970 : South Vietnamese President Nguyễn Văn Thiệu implements a land reform program to solve the problem of land tenancy.
 <br/><br/>
-En 1947 : An explosion in a coal mine in Centralia, Illinois kills 111.
+En 1967 : Ten thousand people gather for one of many Central Park be-ins in New York City.
 <br/><br/>
-En 1941 : The Kingdom of Yugoslavia joins the Axis powers with the signing of the Tripartite Pact.
+En 1958 : The United States Army launches Explorer 3.
 <br/><br/>
-En 1932 : The famous Tomb of the Unknown Soldier is unveiled in Athens.
+En 1958 : The African Regroupment Party is launched at a meeting in Paris.
 <br/><br/>
-En 1931 : The Scottsboro Boys are arrested in Alabama and charged with rape.
+En 1955 : Pan Am Flight 845/26 ditches in the Pacific Ocean off the coast of Oregon, killing four.
 <br/><br/>
-En 1924 : On the anniversary of Greek Independence, Alexandros Papanastasiou proclaims the Second Hellenic Republic.
+En 1954 : Nuclear weapons testing: The Romeo shot of Operation Castle is detonated at Bikini Atoll. Yield: 11 megatons.
 <br/><br/>
-En 1919 : The Tetiev pogrom occurs in Ukraine, becoming the prototype of mass murder during the Holocaust.
+En 1945 : World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces.
 <br/><br/>
-En 1918 : The Belarusian People's Republic is established.
+En 1942 : World War II: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland.
 <br/><br/>
-En 1917 : The Georgian Orthodox Church restores its autocephaly abolished by Imperial Russia in 1811.
+En 1939 : Spanish Civil War: Nationalists begin their final offensive of the war.
 <br/><br/>
-En 1914 : The Greek multi-sport club Aris Thessaloniki is founded in Thessaloniki.
+En 1934 : The United Kingdom driving test is introduced.
 <br/><br/>
-En 1911 : In New York City, the Triangle Shirtwaist Factory fire kills 146 garment workers.
+En 1931 : Swissair is founded as the national airline of Switzerland.
 <br/><br/>
-En 1911 : Andrey Yushchinsky is murdered in Kiev, leading to the Beilis affair.
+En 1931 : Ho Chi Minh Communist Youth Union is founded in Vietnam.
 <br/><br/>
-En 1905 : The Greek football club P.A.E. G.S. Diagoras is founded in the city of Rhodes.
+En 1922 : The German Social Democratic Party is founded in Poland.
 <br/><br/>
-En 1894 : Coxey's Army, the first significant American protest march, departs Massillon, Ohio for Washington, D.C.
+En 1917 : World War I: First Battle of Gaza: British troops are halted after 17,000 Turks block their advance.
 <br/><br/>
-En 1865 : American Civil War: In Virginia during the Siege of Petersburg, Confederate forces temporarily capture Fort Stedman from the Union before being repulsed.
+En 1915 : The Vancouver Millionaires win the 1915 Stanley Cup Finals, the first championship played between the Pacific Coast Hockey Association and the National Hockey Association.
 <br/><br/>
-En 1845 : New Zealand Legislative Council pass the first Militia Act constituting the New Zealand Army.
+En 1913 : First Balkan War: Bulgarian forces capture Adrianople.
 <br/><br/>
-En 1821 : Greek War of Independence: Traditional date of the start of the Greek War of Independence. The war had actually begun on 23 February 1821 (Julian calendar).
+En 1896 : An explosion at the Brunner Mine near Greymouth, New Zealand, kills 65 coal miners in the country's worst industrial accident.
 <br/><br/>
-En 1811 : Percy Bysshe Shelley is expelled from the University of Oxford for publishing the pamphlet The Necessity of Atheism.
+En 1885 : The Métis people of the District of Saskatchewan under Louis Riel begin the North-West Rebellion against Canada.
 <br/><br/>
-En 1807 : The Swansea and Mumbles Railway, then known as the Oystermouth Railway, becomes the first passenger-carrying railway in the world.
+En 1871 : The elections of Commune council of the Paris Commune are held.
 <br/><br/>
-En 1802 : The Treaty of Amiens is signed as a "Definitive Treaty of Peace" between France and the United Kingdom.
+En 1839 : The first Henley Royal Regatta is held.
 <br/><br/>
-En 1770 : Daskalogiannis leads the people of Sfakia in the first Greek uprising against the Ottoman rule
+En 1830 : The Book of Mormon is published in Palmyra, New York.
 <br/><br/>
-En 1725 : Bach's chorale cantata "Wie schön leuchtet der Morgenstern, BWV 1", is first performed on the Feast of the Annunciation, coinciding with Palm Sunday.
+En 1812 : An earthquake devastates Caracas, Venezuela.
 <br/><br/>
-En 1708 : A French fleet anchors nears Fife Ness as part of the planned French invasion of Britain.
+En 1812 : A political cartoon in the Boston-Gazette coins the term "gerrymander" to describe oddly shaped electoral districts designed to help incumbents win reelection.
 <br/><br/>
-En 1655 : Saturn's largest moon, Titan, is discovered by Christiaan Huygens.
+En 1700 : William Dampier is the first European to circumnavigate New Britain, discovering it is an island (which he names Nova Britannia) rather than part of New Guinea.
 <br/><br/>
-En 1584 : Sir Walter Raleigh is granted a patent to colonize Virginia.
+En 1697 : Safavid government troops take control of Basra.
 <br/><br/>
-En 1576 : Jerome Savage takes out a sub-lease to start the Newington Butts Theatre outside London.
+En 1651 : Silver-loaded Spanish ship San José is pushed south by strong winds, subsequently it wrecks in the coast of southern Chile and its surviving crew is killed by indigenous Cuncos.
 <br/><br/>
-En 1519 : Hernán Cortés, entering province of Tabasco, defeats Tabascan Indians.
+En 1640 : The Royal Academy of Turku, the first university of Finland, is founded in the city of Turku by Queen Christina of Sweden at the proposal of Count Per Brahe.
 <br/><br/>
-En 1410 : The Yongle Emperor of Ming China launches the first of his military campaigns against the Mongols, resulting in the fall of the Mongol khan Bunyashiri.
+En 1636 : Utrecht University is founded in the Netherlands.
 <br/><br/>
-En 1409 : The Council of Pisa convenes, in an attempt to heal the Western Schism.
+En 1552 : Guru Amar Das becomes the Third Sikh guru.
 <br/><br/>
-En 1306 : Robert the Bruce becomes King of Scots (Scotland).
+En 1484 : William Caxton prints his translation of Aesop's Fables.
 <br/><br/>
-En 1065 : The Great German Pilgrimage is attacked on Good Friday by Beduin bandits, suffering heavy losses.
+En 1351 : Combat of the Thirty: Thirty Breton knights call out and defeat thirty English knights.
 <br/><br/>
-En 1000 : Fatimid caliph al-Hakim bi-Amr Allah assassinates the eunuch chief minister Barjawan and assumes control of the government.
+En 1344 : The Siege of Algeciras, one of the first European military engagements where gunpowder was used, comes to an end.
 <br/><br/>
-En 919 : Romanos Lekapenos seizes the Boukoleon Palace in Constantinople and becomes regent of the Byzantine emperor Constantine VII.
+En 1244 : The crown of Aragon and the crown of Castile agree in the Treaty of Almizra on the limits of their respective expansion into al-Andalus.
 <br/><br/>
-En 717 : Theodosius III resigns the throne to the Byzantine Empire to enter the clergy allowing Leo III to take the throne and begin the Isaurian dynasty.
+En 1169 : Saladin becomes the emir of Egypt.
 <br/><br/>
-En 708 : Pope Constantine becomes the 88th pope. He would be the last pope to visit Constantinople until 1967.
+En 1027 : Pope John XIX crowns Conrad II as Holy Roman Emperor.
 <br/><br/>
-En 421 : Italian city Venice is founded with the dedication of the first church, that of San Giacomo di Rialto on the islet of Rialto.
+En 1021 : The death of the Fatimid caliph al-Hakim bi-Amr Allah, kept secret for six weeks, is announced, along with the succession of his son, al-Zahir li-i'zaz Din Allah.
 <br/><br/>
-En 410 : The Southern Yan capital of Guanggu falls to the Jin dynasty general Liu Yu, ending the Southern Yan dynasty.
+En 624 : First Eid al-Fitr celebration.
+<br/><br/>
+En 590 : Emperor Maurice proclaims his son Theodosius as co-emperor of the Byzantine Empire.
 <br/><br/>
