@@ -4,101 +4,99 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 27/3 ?(Hover on the year)</h1>
+<h1> What happen this day 3/4 ?(Hover on the year)</h1>
 
-En 2023 : Seven people, including the perpetrator, are killed in a mass shooting at the Covenant School in Nashville, Tennessee.
+En 2018 : YouTube headquarters shooting: A 38-year-old gunwoman opens fire at YouTube Headquarters in San Bruno, California, injuring three people before committing suicide.
 <br/><br/>
-En 2020 : North Macedonia becomes the 30th member of NATO.
+En 2017 : A bomb explodes in the St Petersburg metro system, killing 14 and injuring several more people.
 <br/><br/>
-En 2016 : A suicide blast in Gulshan-e-Iqbal Park, Lahore claims over 70 lives and leaves almost 300 others injured. The target of the bombing are Christians celebrating Easter.
+En 2016 : The Panama Papers, a leak of legal documents, reveals information on 214,488 offshore companies.
 <br/><br/>
-En 2015 : Al-Shabab militants attack and temporarily occupy a Mogadishu hotel leaving at least 20 people dead.
+En 2013 : More than 50 people die in floods resulting from record-breaking rainfall in La Plata and Buenos Aires, Argentina.
 <br/><br/>
-En 2014 : Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict.
+En 2010 : Apple Inc. released the first generation iPad, a tablet computer.
 <br/><br/>
-En 2009 : The dam forming Situ Gintung, an artificial lake in Indonesia, fails, killing at least 99 people.
+En 2009 : Jiverly Antares Wong opens fire at the American Civic Association immigration center in Binghamton, New York, killing thirteen and wounding four before committing suicide.
 <br/><br/>
-En 2004 : HMS Scylla, a decommissioned Leander-class frigate, is sunk as an artificial reef off Cornwall, the first of its kind in Europe.
+En 2008 : ATA Airlines, once one of the ten largest U.S. passenger airlines and largest charter airline, files for bankruptcy for the second time in five years and ceases all operations.
 <br/><br/>
-En 2002 : Passover massacre: A Palestinian suicide bomber kills 29 people at a Passover seder in Netanya, Israel.
+En 2008 : Texas law enforcement cordons off the FLDS's YFZ Ranch. Eventually 533 women and children will be taken into state custody.
 <br/><br/>
-En 2002 : Nanterre massacre: In Nanterre, France, a gunman opens fire at the end of a town council meeting, resulting in the deaths of eight councilors; 19 other people are injured.
+En 2007 : Conventional-Train World Speed Record: A French TGV train on the LGV Est high speed line sets an official new world speed record of 574.8 km/h (159.6 m/s, 357.2 mph).
 <br/><br/>
-En 2000 : A Phillips Petroleum plant explosion in Pasadena, Texas kills one person and injures 71 others.
+En 2004 : Islamic terrorists involved in the 2004 Madrid train bombings are trapped by the police in their apartment and kill themselves.
 <br/><br/>
-En 1999 : Kosovo War: An American Lockheed F-117A Nighthawk is shot down by a Yugoslav Army SAM, the first and only Nighthawk to be lost in combat.
+En 2000 : United States v. Microsoft Corp.: Microsoft is ruled to have violated United States antitrust law by keeping "an oppressive thumb" on its competitors.
 <br/><br/>
-En 1998 : The Food and Drug Administration approves Viagra for use as a treatment for erectile dysfunction, the first pill to be approved for this condition in the United States.
+En 1997 : The Thalit massacre begins in Algeria; all but one of the 53 inhabitants of Thalit are killed by guerrillas.
 <br/><br/>
-En 1993 : Jiang Zemin is appointed President of the People's Republic of China.
+En 1996 : Suspected "Unabomber" Theodore Kaczynski is captured at his Montana cabin in the United States.
 <br/><br/>
-En 1993 : Italian former minister and Christian Democracy leader Giulio Andreotti is accused of mafia allegiance by the tribunal of Palermo.
+En 1996 : A United States Air Force Boeing T-43 crashes near Dubrovnik Airport in Croatia, killing 35, including Secretary of Commerce Ron Brown.
 <br/><br/>
-En 1990 : The United States begins broadcasting anti-Castro propaganda to Cuba on TV Martí.
+En 1993 : The outcome of the Grand National horse race is declared void for the first (and only) time
 <br/><br/>
-En 1986 : A car bomb explodes outside Russell Street Police HQ in Melbourne, Australia, killing one police officer and injuring 21 people.
+En 1989 : The US Supreme Court upholds the jurisdictional rights of tribal courts under the Indian Child Welfare Act of 1978 in Mississippi Choctaw Band v. Holyfield.
 <br/><br/>
-En 1981 : The Solidarity movement in Poland stages a warning strike, in which at least 12 million Poles walk off their jobs for four hours.
+En 1981 : The Osborne 1, the first successful portable computer, is unveiled at the West Coast Computer Faire in San Francisco.
 <br/><br/>
-En 1980 : The Norwegian oil platform Alexander L. Kielland collapses in the North Sea, killing 123 of its crew of 212.
+En 1980 : US Congress restores a federal trust relationship with the 501 members of the Shivwits, Kanosh, Koosharem, and the Indian Peaks and Cedar City bands of the Paiute people of Utah.
 <br/><br/>
-En 1977 : Tenerife airport disaster: Two Boeing 747 airliners collide on a foggy runway on Tenerife in the Canary Islands, killing 583 (all 248 on KLM and 335 on Pan Am). Sixty-one survived on the Pan Am flight. This is the deadliest aviation accident in history.
+En 1975 : Vietnam War: Operation Babylift, a mass evacuation of children in the closing stages of the war begins.
 <br/><br/>
-En 1976 : The first section of the Washington Metro opens to the public.
+En 1975 : Bobby Fischer refuses to play in a chess match against Anatoly Karpov, giving Karpov the title of World Champion by default.
 <br/><br/>
-En 1975 : Construction of the Trans-Alaska Pipeline System begins.
+En 1974 : The 1974 Super Outbreak occurs, the second largest tornado outbreak in recorded history (after the 2011 Super Outbreak). The death toll is 315, with nearly 5,500 injured.
 <br/><br/>
-En 1964 : The Good Friday earthquake, the most powerful earthquake recorded in North American history at a magnitude of 9.2 strikes Southcentral Alaska, killing 125 people and inflicting massive damage to the city of Anchorage.
+En 1973 : Martin Cooper of Motorola makes the first handheld mobile phone call to Joel S. Engel of Bell Labs.
 <br/><br/>
-En 1958 : Nikita Khrushchev becomes Chairman of the Council of Ministers of the Soviet Union.
+En 1969 : Vietnam War: United States Secretary of Defense Melvin Laird announces that the United States will start to "Vietnamize" the war effort.
 <br/><br/>
-En 1945 : World War II: Operation Starvation, the aerial mining of Japan's ports and waterways begins. Argentina declares war on the Axis Powers.
+En 1968 : Martin Luther King Jr. delivers his "I've Been to the Mountaintop" speech; he was assassinated the next day.
 <br/><br/>
-En 1943 : World War II: Battle of the Komandorski Islands: In the Aleutian Islands the battle begins when United States Navy forces intercept Japanese attempting to reinforce a garrison at Kiska.
+En 1956 : Hudsonville–Standale tornado: The western half of the Lower Peninsula of Michigan is struck by a deadly F5 tornado.
 <br/><br/>
-En 1942 : The Holocaust: Nazi Germany and Vichy France begin the deportation of 65,000 Jews from Drancy internment camp to German extermination camps.
+En 1955 : The American Civil Liberties Union announces it will defend Allen Ginsberg's book Howl against obscenity charges.
 <br/><br/>
-En 1941 : World War II: Yugoslav Air Force officers topple the pro-Axis government in a bloodless coup.
+En 1948 : Cold War: U.S. President Harry S. Truman signs the Marshall Plan, authorizing $5 billion in aid for 16 countries.
 <br/><br/>
-En 1938 : Second Sino-Japanese War: The Battle of Taierzhuang begins, resulting several weeks later in the war's first major Chinese victory over Japan.
+En 1948 : In Jeju Province, South Korea, a civil-war-like period of violence and human rights abuses known as the Jeju uprising begins.
 <br/><br/>
-En 1933 : Japanese invasion of Manchuria: Japan leaves the League of Nations after it approves the Lytton Report that ruled in favour of China.
+En 1946 : Japanese Lt. General Masaharu Homma is executed in the Philippines for leading the Bataan Death March.
 <br/><br/>
-En 1918 : The National Council of Bessarabia proclaims union with the Kingdom of Romania.
+En 1942 : World War II: Japanese forces begin an assault on the United States and Filipino troops on the Bataan Peninsula.
 <br/><br/>
-En 1915 : Typhoid Mary, the first healthy carrier of disease ever identified in the United States, is put in quarantine for the second time, where she would remain for the rest of her life.
+En 1936 : Bruno Richard Hauptmann is executed for the kidnapping and death of Charles Augustus Lindbergh Jr., the infant son of pilot Charles Lindbergh.
 <br/><br/>
-En 1912 : First Lady Helen Taft and the Viscountess Chinda, wife of the Japanese ambassador, plant two Yoshino cherry trees on the northern bank of the Potomac River in Washington, D.C., the origin of the National Cherry Blossom Festival.
+En 1933 : First flight over Mount Everest, the British Houston-Mount Everest Flight Expedition, led by the Marquis of Clydesdale and funded by Lucy, Lady Houston.
 <br/><br/>
-En 1901 : Philippine–American War: Emilio Aguinaldo, leader of the First Philippine Republic, is captured by the Americans.
+En 1922 : Joseph Stalin becomes the first General Secretary of the Communist Party of the Soviet Union.
 <br/><br/>
-En 1899 : Emilio Aguinaldo leads Filipino forces for the only time during the Philippine–American War at the Battle of Marilao River.
+En 1920 : Attempts are made to carry out the failed assassination attempt on General Mannerheim, led by Aleksander Weckman by order of Eino Rahja, during the White Guard parade in Tampere, Finland.
 <br/><br/>
-En 1886 : Geronimo, Apache warrior, surrenders to the U.S. Army, ending the main phase of the Apache Wars.
+En 1895 : The trial in the libel case brought by Oscar Wilde begins, eventually resulting in his imprisonment on charges of homosexuality.
 <br/><br/>
-En 1884 : A mob in Cincinnati, Ohio, United States attacks members of a jury which had returned a verdict of manslaughter in what was seen as a clear case of murder; over the next few days the mob would riot and burn down the courthouse.
+En 1888 : Jack the Ripper: The first of 11 unsolved brutal murders of women committed in or near the impoverished Whitechapel district in the East End of London, occurs.
 <br/><br/>
-En 1871 : The first international rugby football match, when Scotland defeats England in Edinburgh at Raeburn Place.
+En 1885 : Gottlieb Daimler is granted a German patent for a light, high-speed, four-stroke engine, which he uses seven months later to create the world's first motorcycle, the Daimler Reitwagen.
 <br/><br/>
-En 1866 : President of the United States of America Andrew Johnson vetoes the Civil Rights Act of 1866. His veto is overridden by Congress and the bill passes into law on April 9.
+En 1882 : American Old West: Robert Ford kills Jesse James.
 <br/><br/>
-En 1836 : Texas Revolution: On the orders of General Antonio López de Santa Anna, the Mexican Army massacres 342 Texian Army POWs at Goliad, Texas.
+En 1865 : American Civil War: Union forces capture Richmond, Virginia, the capital of the Confederate States of America.
 <br/><br/>
-En 1814 : War of 1812: In central Alabama, U.S. forces under General Andrew Jackson defeat the Creek at the Battle of Horseshoe Bend.
+En 1860 : The first successful United States Pony Express run from St. Joseph, Missouri, to Sacramento, California, begins.
 <br/><br/>
-En 1809 : Peninsular War: A combined Franco-Polish force defeats the Spanish in the Battle of Ciudad Real.
+En 1851 : Rama IV is crowned King of Thailand after the death of his half-brother, Rama III.
 <br/><br/>
-En 1794 : The United States Government establishes a permanent navy and authorizes the building of six frigates.
+En 1721 : Robert Walpole becomes, in effect, the first Prime Minister of Great Britain, though he himself denied that title.
 <br/><br/>
-En 1782 : The Second Rockingham ministry assumes office in Great Britain and begins negotiations to end the American War of Independence.
+En 1589 : The janissaries revolt in response to the debasement of coins.
 <br/><br/>
-En 1638 : The first of four destructive Calabrian earthquakes strikes southern Italy. Measuring magnitude 6.8 and assigned a Mercalli intensity of XI, it kills 10,000–30,000 people.
+En 1559 : The second of two treaties making up the Peace of Cateau-Cambrésis is signed, ending the Italian Wars.
 <br/><br/>
-En 1625 : Charles I becomes King of England, Scotland and Ireland as well as claiming the title King of France.
+En 1077 : The Patriarchate of Friûl, the first Friulian state, is created.
 <br/><br/>
-En 1513 : Spanish explorer Juan Ponce de León reaches the northern end of The Bahamas on his first voyage to Florida.
+En 1043 : Edward the Confessor is crowned King of England.
 <br/><br/>
-En 1329 : Pope John XXII issues his In Agro Dominico condemning some writings of Meister Eckhart as heretical.
-<br/><br/>
-En 1309 : Pope Clement V imposes excommunication and interdiction on Venice, and a general prohibition of all commercial intercourse with Venice, which had seized Ferrara, a papal fiefdom.
+En 686 : Maya king Yuknoom Yich'aak K'ahk' assumes the crown of Calakmul.
 <br/><br/>
