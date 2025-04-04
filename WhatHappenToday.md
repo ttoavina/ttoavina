@@ -4,99 +4,131 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 3/4 ?(Hover on the year)</h1>
+<h1> What happen this day 4/4 ?(Hover on the year)</h1>
 
-En 2018 : YouTube headquarters shooting: A 38-year-old gunwoman opens fire at YouTube Headquarters in San Bruno, California, injuring three people before committing suicide.
+En 2023 : Finland becomes a member of NATO after Turkey accepts its membership request.
 <br/><br/>
-En 2017 : A bomb explodes in the St Petersburg metro system, killing 14 and injuring several more people.
+En 2020 : China holds a national day of mourning for martyrs who died in the fight against the novel coronavirus disease outbreak.
 <br/><br/>
-En 2016 : The Panama Papers, a leak of legal documents, reveals information on 214,488 offshore companies.
+En 2017 : Syria conducts an air strike on Khan Shaykhun using chemical weapons, killing 89 civilians.
 <br/><br/>
-En 2013 : More than 50 people die in floods resulting from record-breaking rainfall in La Plata and Buenos Aires, Argentina.
+En 2013 : 74 people are killed in a building collapse in Thane, India.
 <br/><br/>
-En 2010 : Apple Inc. released the first generation iPad, a tablet computer.
+En 2011 : Georgian Airways Flight 834 crashes at N'djili Airport in Kinshasa, killing 32.
 <br/><br/>
-En 2009 : Jiverly Antares Wong opens fire at the American Civic Association immigration center in Binghamton, New York, killing thirteen and wounding four before committing suicide.
+En 2010 : A magnitude 7.2 earthquake hits south of the Mexico-USA border, killing at least two and damaging buildings across the two countries.
 <br/><br/>
-En 2008 : ATA Airlines, once one of the ten largest U.S. passenger airlines and largest charter airline, files for bankruptcy for the second time in five years and ceases all operations.
+En 2009 : France announces its return to full participation of its military forces within NATO.
 <br/><br/>
-En 2008 : Texas law enforcement cordons off the FLDS's YFZ Ranch. Eventually 533 women and children will be taken into state custody.
+En 2002 : The MPLA government of Angola and UNITA rebels sign a peace treaty ending the Angolan Civil War.
 <br/><br/>
-En 2007 : Conventional-Train World Speed Record: A French TGV train on the LGV Est high speed line sets an official new world speed record of 574.8 km/h (159.6 m/s, 357.2 mph).
+En 1997 : Space Shuttle program: Space Shuttle Columbia is launched on STS-83. However, the mission is later cut short due to a fuel cell problem.
 <br/><br/>
-En 2004 : Islamic terrorists involved in the 2004 Madrid train bombings are trapped by the police in their apartment and kill themselves.
+En 1996 : Comet Hyakutake is imaged by the USA Asteroid Orbiter Near Earth Asteroid Rendezvous.
 <br/><br/>
-En 2000 : United States v. Microsoft Corp.: Microsoft is ruled to have violated United States antitrust law by keeping "an oppressive thumb" on its competitors.
+En 1994 : Three people are killed when KLM Cityhopper Flight 433 crashes at Amsterdam Airport Schiphol.
 <br/><br/>
-En 1997 : The Thalit massacre begins in Algeria; all but one of the 53 inhabitants of Thalit are killed by guerrillas.
+En 1991 : Senator John Heinz of Pennsylvania and six others are killed when a helicopter collides with their airplane over an elementary school in Merion, Pennsylvania.
 <br/><br/>
-En 1996 : Suspected "Unabomber" Theodore Kaczynski is captured at his Montana cabin in the United States.
+En 1991 : Forty-one people are taken hostage inside a Good Guys! Electronics store in Sacramento, California. Three of the hostage takers and three hostages are killed.
 <br/><br/>
-En 1996 : A United States Air Force Boeing T-43 crashes near Dubrovnik Airport in Croatia, killing 35, including Secretary of Commerce Ron Brown.
+En 1990 : The current flag of Hong Kong is adopted for post-colonial Hong Kong during the Third Session of the Seventh National People's Congress.
 <br/><br/>
-En 1993 : The outcome of the Grand National horse race is declared void for the first (and only) time
+En 1988 : Governor Evan Mecham of Arizona is convicted in his impeachment trial and removed from office.
 <br/><br/>
-En 1989 : The US Supreme Court upholds the jurisdictional rights of tribal courts under the Indian Child Welfare Act of 1978 in Mississippi Choctaw Band v. Holyfield.
+En 1987 : Garuda Indonesia Flight 032 crashes at Medan Airport, killing 23.
 <br/><br/>
-En 1981 : The Osborne 1, the first successful portable computer, is unveiled at the West Coast Computer Faire in San Francisco.
+En 1984 : President Ronald Reagan calls for an international ban on chemical weapons.
 <br/><br/>
-En 1980 : US Congress restores a federal trust relationship with the 501 members of the Shivwits, Kanosh, Koosharem, and the Indian Peaks and Cedar City bands of the Paiute people of Utah.
+En 1983 : Space Shuttle program: Space Shuttle Challenger makes its maiden voyage into space on STS-6.
 <br/><br/>
-En 1975 : Vietnam War: Operation Babylift, a mass evacuation of children in the closing stages of the war begins.
+En 1981 : Iran–Iraq War: The Islamic Republic of Iran Air Force mounts an attack on H-3 Airbase and destroys about 50 Iraqi aircraft.
 <br/><br/>
-En 1975 : Bobby Fischer refuses to play in a chess match against Anatoly Karpov, giving Karpov the title of World Champion by default.
+En 1979 : Prime Minister Zulfikar Ali Bhutto of Pakistan is executed.
 <br/><br/>
-En 1974 : The 1974 Super Outbreak occurs, the second largest tornado outbreak in recorded history (after the 2011 Super Outbreak). The death toll is 315, with nearly 5,500 injured.
+En 1977 : Southern Airways Flight 242 crashes in New Hope, Paulding County, Georgia, killing 72.
 <br/><br/>
-En 1973 : Martin Cooper of Motorola makes the first handheld mobile phone call to Joel S. Engel of Bell Labs.
+En 1975 : Microsoft is founded as a partnership between Bill Gates and Paul Allen in Albuquerque, New Mexico.
 <br/><br/>
-En 1969 : Vietnam War: United States Secretary of Defense Melvin Laird announces that the United States will start to "Vietnamize" the war effort.
+En 1975 : Vietnam War: A United States Air Force Lockheed C-5A Galaxy transporting orphans, crashes near Saigon, South Vietnam shortly after takeoff, killing 172 people.
 <br/><br/>
-En 1968 : Martin Luther King Jr. delivers his "I've Been to the Mountaintop" speech; he was assassinated the next day.
+En 1973 : The Twin Towers of the World Trade Center in New York City are officially dedicated.
 <br/><br/>
-En 1956 : Hudsonville–Standale tornado: The western half of the Lower Peninsula of Michigan is struck by a deadly F5 tornado.
+En 1973 : A Lockheed C-141 Starlifter, dubbed the Hanoi Taxi, makes the last flight of Operation Homecoming.
 <br/><br/>
-En 1955 : The American Civil Liberties Union announces it will defend Allen Ginsberg's book Howl against obscenity charges.
+En 1969 : Dr. Denton Cooley implants the first temporary artificial heart.
 <br/><br/>
-En 1948 : Cold War: U.S. President Harry S. Truman signs the Marshall Plan, authorizing $5 billion in aid for 16 countries.
+En 1968 : Martin Luther King Jr. is assassinated by James Earl Ray at a motel in Memphis, Tennessee.
 <br/><br/>
-En 1948 : In Jeju Province, South Korea, a civil-war-like period of violence and human rights abuses known as the Jeju uprising begins.
+En 1968 : Apollo program: NASA launches Apollo 6.
 <br/><br/>
-En 1946 : Japanese Lt. General Masaharu Homma is executed in the Philippines for leading the Bataan Death March.
+En 1967 : Martin Luther King Jr. delivers his "Beyond Vietnam: A Time to Break Silence" speech in New York City's Riverside Church.
 <br/><br/>
-En 1942 : World War II: Japanese forces begin an assault on the United States and Filipino troops on the Bataan Peninsula.
+En 1964 : The Beatles occupy the top five positions on the Billboard Hot 100 pop chart.
 <br/><br/>
-En 1936 : Bruno Richard Hauptmann is executed for the kidnapping and death of Charles Augustus Lindbergh Jr., the infant son of pilot Charles Lindbergh.
+En 1963 : Bye Bye Birdie, a musical romantic comedy film directed by George Sidney, was released.
 <br/><br/>
-En 1933 : First flight over Mount Everest, the British Houston-Mount Everest Flight Expedition, led by the Marquis of Clydesdale and funded by Lucy, Lady Houston.
+En 1960 : France agrees to grant independence to the Mali Federation, a union of Senegal and French Sudan.
 <br/><br/>
-En 1922 : Joseph Stalin becomes the first General Secretary of the Communist Party of the Soviet Union.
+En 1958 : The CND peace symbol is displayed in public for the first time in London.
 <br/><br/>
-En 1920 : Attempts are made to carry out the failed assassination attempt on General Mannerheim, led by Aleksander Weckman by order of Eino Rahja, during the White Guard parade in Tampere, Finland.
+En 1949 : Cold War: Twelve nations sign the North Atlantic Treaty creating the North Atlantic Treaty Organization.
 <br/><br/>
-En 1895 : The trial in the libel case brought by Oscar Wilde begins, eventually resulting in his imprisonment on charges of homosexuality.
+En 1946 : Greek judge and archeologist Panagiotis Poulitsas is appointed Prime Minister of Greece in the midst of the Greek Civil War.
 <br/><br/>
-En 1888 : Jack the Ripper: The first of 11 unsolved brutal murders of women committed in or near the impoverished Whitechapel district in the East End of London, occurs.
+En 1945 : World War II: United States Army troops liberate Ohrdruf forced labor camp in Germany.
 <br/><br/>
-En 1885 : Gottlieb Daimler is granted a German patent for a light, high-speed, four-stroke engine, which he uses seven months later to create the world's first motorcycle, the Daimler Reitwagen.
+En 1945 : World War II: United States Army troops capture Kassel.
 <br/><br/>
-En 1882 : American Old West: Robert Ford kills Jesse James.
+En 1945 : World War II: Soviet Red Army troops liberate Hungary from German occupation and occupy the country themselves.
 <br/><br/>
-En 1865 : American Civil War: Union forces capture Richmond, Virginia, the capital of the Confederate States of America.
+En 1944 : World War II: First bombardment of oil refineries in Bucharest by Anglo-American forces kills 3,000 civilians.
 <br/><br/>
-En 1860 : The first successful United States Pony Express run from St. Joseph, Missouri, to Sacramento, California, begins.
+En 1933 : U.S. Navy airship USS Akron is wrecked off the New Jersey coast due to severe weather.
 <br/><br/>
-En 1851 : Rama IV is crowned King of Thailand after the death of his half-brother, Rama III.
+En 1925 : The Schutzstaffel (SS) is founded under Adolf Hitler's Nazi Party in Germany.
 <br/><br/>
-En 1721 : Robert Walpole becomes, in effect, the first Prime Minister of Great Britain, though he himself denied that title.
+En 1920 : The four-day Nebi Musa riots commence.
 <br/><br/>
-En 1589 : The janissaries revolt in response to the debasement of coins.
+En 1913 : First Balkan War: Greek aviator Emmanouil Argyropoulos becomes the first pilot to die in the Hellenic Air Force when his plane crashes.
 <br/><br/>
-En 1559 : The second of two treaties making up the Peace of Cateau-Cambrésis is signed, ending the Italian Wars.
+En 1905 : In India, an earthquake hits the Kangra Valley, killing 20,000, and destroying most buildings in Kangra, McLeod Ganj and Dharamshala.
 <br/><br/>
-En 1077 : The Patriarchate of Friûl, the first Friulian state, is created.
+En 1904 : Two Ms  ~7.1 earthquakes, among the largest in Europe, strikes Bulgaria, killing over 200 people and causing destruction.
 <br/><br/>
-En 1043 : Edward the Confessor is crowned King of England.
+En 1887 : Argonia, Kansas elects Susanna M. Salter as the first female mayor in the United States.
 <br/><br/>
-En 686 : Maya king Yuknoom Yich'aak K'ahk' assumes the crown of Calakmul.
+En 1866 : Alexander II of Russia narrowly escapes an assassination attempt by Dmitry Karakozov in the city of Saint Petersburg.
+<br/><br/>
+En 1865 : American Civil War: A day after Union forces capture Richmond, Virginia, U.S. President Abraham Lincoln visits the Confederate capital.
+<br/><br/>
+En 1860 : The declaration on the introduction of the Finnish markka as an official currency is read in different parts of the Grand Duchy of Finland.
+<br/><br/>
+En 1841 : William Henry Harrison dies of pneumonia, becoming the first President of the United States to die in office, and setting the record for the briefest administration. Vice President John Tyler succeeds Harrison as President.
+<br/><br/>
+En 1818 : The United States Congress, affirming the Second Continental Congress, adopts the flag of the United States with 13 red and white stripes and one star for each state (20 at that time).
+<br/><br/>
+En 1814 : Napoleon abdicates (conditionally) for the first time and names his son Napoleon II as Emperor of the French, followed by unconditional abdication two days later.
+<br/><br/>
+En 1796 : Georges Cuvier delivers the first paleontological lecture.
+<br/><br/>
+En 1660 : Declaration of Breda by King Charles II of Great Britain promises, among other things, a general pardon to all royalists and opponents of the monarchy for crimes committed during the English Civil War and the Interregnum.
+<br/><br/>
+En 1609 : Moriscos are expelled from the Kingdom of Valencia.
+<br/><br/>
+En 1581 : Francis Drake is knighted by Queen Elizabeth I for completing a circumnavigation of the world.
+<br/><br/>
+En 1423 : Death of the Venetian Doge Tommaso Mocenigo, under whose rule victories were achieved against the Kingdom of Hungary and against the Ottoman Empire at the Battle of Gallipoli (1416).
+<br/><br/>
+En 1268 : A five-year Byzantine–Venetian peace treaty is concluded between Venetian envoys and Emperor Michael VIII Palaiologos.
+<br/><br/>
+En 801 : King Louis the Pious captures Barcelona from the Moors after a siege of several months.
+<br/><br/>
+En 619 : The Bijapur-Mumbai inscription is issued by Pulakeshin II, describing the Battle of Narmada.: 207
+<br/><br/>
+En 611 : Maya king Uneh Chan of Calakmul sacks rival city-state Palenque in southern Mexico.
+<br/><br/>
+En 190 : Dong Zhuo has his troops evacuate the capital Luoyang and burn it to the ground.
+<br/><br/>
+En -503 : Roman consul Agrippa Menenius Lanatus celebrates a triumph for a military victory over the Sabines.
 <br/><br/>
