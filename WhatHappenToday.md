@@ -4,105 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 11/4 ?(Hover on the year)</h1>
+<h1> What happen this day 12/4 ?(Hover on the year)</h1>
 
-En 2023 : During the Pazigyi massacre, an airstrike conducted by the Myanmar Air Force kills at least 100 villagers in Pazigyi, Sagaing Region.
+En 2014 : The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying over 2,000 homes.
 <br/><br/>
-En 2021 : Twenty year old Daunte Wright is shot and killed in Brooklyn Center, Minnesota by officer Kimberly Potter, sparking protests in the city, when the officer allegedly mistakes her own gun for her taser.
+En 2013 : Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
 <br/><br/>
-En 2018 : An Ilyushin Il-76 which was owned and operated by the Algerian Air Force crashes near Boufarik, Algeria, killing 257.
+En 2010 : Merano derailment: A rail accident in South Tyrol kills nine people and injures a further 28.
 <br/><br/>
-En 2012 : A pair of great earthquakes occur in the Wharton Basin west of Sumatra in Indonesia. The maximum Mercalli intensity of this strike-slip doublet earthquake is VII (Very strong). Ten are killed, twelve are injured, and a non-destructive tsunami is observed on the island of Nias.
+En 2009 : Zimbabwe officially abandons the Zimbabwean dollar as its official currency.
 <br/><br/>
-En 2011 : An explosion in the Minsk Metro, Belarus kills 15 people and injures 204 others.
+En 2007 : A suicide bomber penetrates the Green Zone and detonates in a cafeteria within a parliament building, killing Iraqi MP Mohammed Awad and wounding more than twenty other people.
 <br/><br/>
-En 2008 : Kata Air Transport Flight 007 crashes while attempting an emergency landing at Chișinău International Airport, killing eight.
+En 2002 : A suicide bomber blows herself up at the entrance to Jerusalem's Mahane Yehuda Market, killing seven people and wounding 104.
 <br/><br/>
-En 2007 : Algiers bombings: Two bombings in Algiers kill 33 people and wound a further 222 others.
+En 1999 : United States President Bill Clinton is cited for contempt of court for giving "intentionally false statements" in a civil lawsuit; he is later fined and disbarred.
 <br/><br/>
-En 2006 : Iranian president Mahmoud Ahmadinejad announces Iran's claim to have successfully enriched uranium.
+En 1999 : During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people.
 <br/><br/>
-En 2002 : The Ghriba synagogue bombing by al-Qaeda kills 21 in Tunisia.
+En 1992 : The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Resort Paris.
 <br/><br/>
-En 2002 : Over two hundred thousand people march in Caracas towards the presidential palace to demand the resignation of President Hugo Chávez. Nineteen protesters are killed.
+En 1990 : Jim Gary's "Twentieth Century Dinosaurs" exhibition opens at the Smithsonian Institution National Museum of Natural History in Washington, D.C. He is the only sculptor ever invited to present a solo exhibition there.
 <br/><br/>
-En 2001 : The detained crew of a United States EP-3E aircraft that landed in Hainan, China after a collision with a J-8 fighter, is released.
+En 1990 : Widerøe Flight 839 crashes after takeoff from Værøy Airport in Norway, killing five people.
 <br/><br/>
-En 1993 : Four hundred fifty prisoners rioted at the Southern Ohio Correctional Facility in Lucasville, Ohio, and continued to do so for ten days, citing grievances related to prison conditions, as well as the forced vaccination of Nation of Islam prisoners (for tuberculosis) against their religious beliefs.
+En 1985 : Space Shuttle Discovery launches on STS-51D to deploy two communications satellites.
 <br/><br/>
-En 1990 : Customs officers in Middlesbrough, England, seize what they believe to be the barrel of a massive gun on a ship bound for Iraq.
+En 1983 : Harold Washington is elected as the first black mayor of Chicago.
 <br/><br/>
-En 1987 : The London Agreement is secretly signed between Israeli Foreign Affairs Minister Shimon Peres and King Hussein of Jordan.
+En 1981 : The first launch of a Space Shuttle (Columbia) takes place: The STS-1 mission.
 <br/><br/>
-En 1986 : FBI Miami Shootout: A gun battle in broad daylight in Dade County, Florida between two bank/armored car robbers and pursuing FBI agents. During the firefight, FBI agents Jerry L. Dove and Benjamin P. Grogan were killed, while five other agents were wounded. As a result, the popular .40 S&W cartridge was developed.
+En 1980 : The Americo-Liberian government of Liberia is violently deposed.
 <br/><br/>
-En 1981 : A massive riot in Brixton, south London results in almost 300 police injuries and 65 serious civilian injuries.
+En 1980 : Transbrasil Flight 303, a Boeing 727, crashes on approach to Hercílio Luz International Airport in Florianópolis, Brazil. Fifty-five out of the 58 people on board are killed.
 <br/><br/>
-En 1979 : Ugandan dictator Idi Amin is deposed.
+En 1980 : Canadian runner and athlete, Terry Fox begins his Marathon of Hope Run in St. John's, NF
 <br/><br/>
-En 1977 : London Transport's Silver Jubilee AEC Routemaster buses are launched.
+En 1970 : Soviet submarine K-8, carrying four nuclear torpedoes, sinks in the Bay of Biscay four days after a fire on board.
 <br/><br/>
-En 1976 : The Apple I is created.
+En 1963 : The Soviet nuclear-powered submarine K-33 collides with the Finnish merchant vessel M/S Finnclipper in the Danish straits.[citation needed]
 <br/><br/>
-En 1970 : Apollo Program: Apollo 13 is launched.
+En 1961 : Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human to travel into outer space and perform the first crewed orbital flight, Vostok 1.
 <br/><br/>
-En 1968 : US President Lyndon B. Johnson signs the Civil Rights Act of 1968, prohibiting discrimination in the sale, rental, and financing of housing.
+En 1955 : The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.
 <br/><br/>
-En 1968 : A failed assassination attempt on Rudi Dutschke, leader of the German student movement, leaves Dutschke suffering from brain damage.
+En 1945 : U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death.
 <br/><br/>
-En 1965 : The Palm Sunday tornado outbreak of 1965: Fifty-five tornadoes hit in six Midwestern states of the United States, killing 266 people.
+En 1945 : World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 50 miles from Berlin.
 <br/><br/>
-En 1964 : Brazilian Marshal Humberto de Alencar Castelo Branco is elected president by the National Congress.
+En 1937 : Sir Frank Whittle ground-tests the first jet engine designed to power an aircraft, at Rugby, England.
 <br/><br/>
-En 1963 : Pope John XXIII issues Pacem in terris, the first encyclical addressed to all Christians instead of only Catholics, and which described the conditions for world peace in human terms.
+En 1934 : The strongest surface wind gust in the world at the time of 231 mph, is measured on the summit of Mount Washington, New Hampshire. It has since been surpassed.
 <br/><br/>
-En 1961 : The trial of Adolf Eichmann begins in Jerusalem.
+En 1934 : The U.S. Auto-Lite strike begins, culminating in a five-day melee between Ohio National Guard troops and 6,000 strikers and picketers.[citation needed]
 <br/><br/>
-En 1957 : United Kingdom agrees to Singaporean self-rule.
+En 1928 : The Bremen, a German Junkers W 33 type aircraft, takes off for the first successful transatlantic aeroplane flight from east to west.
 <br/><br/>
-En 1955 : The Air India Kashmir Princess is bombed and crashes in a failed assassination attempt on Zhou Enlai by the Kuomintang.
+En 1927 : Shanghai massacre of 1927: Chiang Kai-shek orders the Chinese Communist Party members executed in Shanghai, ending the First United Front.[citation needed]
 <br/><br/>
-En 1952 : Bolivian National Revolution: Rebels take over Palacio Quemado.
+En 1927 : Rocksprings, Texas is hit by an F5 tornado that destroys 235 of the 247 buildings in the town, kills 72 townspeople, and injures 205; third deadliest tornado in Texas history.
 <br/><br/>
-En 1952 : Pan Am Flight 526A ditches near San Juan-Isla Grande Airport in San Juan, Puerto Rico, after experiencing an engine failure, killing 52 people.
+En 1917 : World War I: Canadian forces successfully complete the taking of Vimy Ridge from the Germans.
 <br/><br/>
-En 1951 : Korean War: President Truman relieves Douglas MacArthur of the command of American forces in Korea and Japan.
+En 1910 : SMS Zrínyi, one of the last pre-dreadnought battleships built by the Austro-Hungarian Navy, is launched.[citation needed]
 <br/><br/>
-En 1951 : The Stone of Scone, the stone upon which Scottish monarchs were traditionally crowned, is found on the site of the altar of Arbroath Abbey. It had been taken by Scottish nationalist students from its place in Westminster Abbey.
+En 1900 : One day after its enactment by the Congress, President William McKinley signs the Foraker Act into law, giving Puerto Rico limited self-rule.
 <br/><br/>
-En 1945 : World War II: American forces liberate the Buchenwald concentration camp.
+En 1877 : The United Kingdom annexes the Transvaal.
 <br/><br/>
-En 1935 : Stresa Front: opening of the conference between the British Prime Minister Ramsay MacDonald, the Italian Prime Minister Benito Mussolini and the French Minister for Foreign Affairs Pierre Laval to condemn the German violations of the Treaty of Versailles.
+En 1865 : American Civil War: Mobile, Alabama, falls to the Union Army.
 <br/><br/>
-En 1921 : Emir Abdullah establishes the first centralised government in the newly created British protectorate of Transjordan.
+En 1864 : American Civil War: The Battle of Fort Pillow: Confederate forces kill most of the African American soldiers that surrendered at Fort Pillow, Tennessee.
 <br/><br/>
-En 1909 : The city of Tel Aviv is founded.
+En 1862 : American Civil War: The Andrews Raid (the Great Locomotive Chase) occurs, starting from Big Shanty, Georgia (now Kennesaw).
 <br/><br/>
-En 1908 : SMS Blücher, the last armored cruiser to be built by the Imperial German Navy, is launched.
+En 1861 : American Civil War: Battle of Fort Sumter. The war begins with Confederate forces firing on Fort Sumter, in the harbor of Charleston, South Carolina.
 <br/><br/>
-En 1881 : Spelman College is founded in Atlanta, Georgia as the Atlanta Baptist Female Seminary, an institute of higher education for African-American women.
+En 1831 : Soldiers marching on the Broughton Suspension Bridge in Manchester, England, cause it to collapse.
 <br/><br/>
-En 1876 : The Benevolent and Protective Order of Elks is organized.
+En 1820 : Alexander Ypsilantis is declared leader of Filiki Eteria, a secret organization to overthrow Ottoman rule over Greece.[citation needed]
 <br/><br/>
-En 1868 : Former shōgun Tokugawa Yoshinobu surrenders Edo Castle to Imperial forces, marking the end of the Tokugawa shogunate.
+En 1807 : The Froberg mutiny on Malta ends when the remaining mutineers blow up the magazine of Fort Ricasoli.
 <br/><br/>
-En 1856 : Second Battle of Rivas: Juan Santamaría burns down the hostel where William Walker's filibusters are holed up.
+En 1796 : War of the First Coalition: Napoleon Bonaparte wins his first victory as an army commander at the Battle of Montenotte, splitting the Austrian and Piedmontese armies away from each other, and marking the beginning of the Piedmontese surrender in the war.
 <br/><br/>
-En 1814 : The Treaty of Fontainebleau ends the War of the Sixth Coalition against Napoleon Bonaparte, and forces him to abdicate unconditionally for the first time.
+En 1782 : American Revolution: A Royal Navy fleet led by Admiral George Rodney defeats a French fleet led by the Comte de Grasse at the Battle of the Saintes off Dominica in the Caribbean Sea.
 <br/><br/>
-En 1809 : Battle of the Basque Roads: Admiral Lord Gambier fails to support Captain Lord Cochrane, leading to an incomplete British victory over the French fleet.
+En 1776 : American Revolution: With the Halifax Resolves, the North Carolina Provincial Congress authorizes its Congressional delegation to vote for independence from Britain.
 <br/><br/>
-En 1727 : Premiere of Johann Sebastian Bach's St Matthew Passion BWV 244b at St. Thomas Church in Leipzig, Electorate of Saxony (now Germany).
+En 1606 : The Union Flag is adopted as the flag of English and Scottish ships.
 <br/><br/>
-En 1713 : France and Great Britain sign the Treaty of Utrecht, bringing an end to the War of the Spanish Succession (Queen Anne's War). Britain accepts Philip V as King of Spain, while Philip renounces any claim to the French throne.
+En 1204 : The Crusaders of the Fourth Crusade breach the walls of Constantinople and enter the city, which they completely occupy the following day.
 <br/><br/>
-En 1689 : William III and Mary II are crowned as joint sovereigns of Great Britain on the same day that the Scottish Parliament concurs with the English decision of 12 February.
+En 1012 : Duke Oldřich of Bohemia deposes and blinds his brother Jaromír, who flees to Poland.[citation needed]
 <br/><br/>
-En 1544 : Italian War of 1542–46: A French army defeats Habsburg forces at the Battle of Ceresole, but fails to exploit its victory.
+En 627 : King Edwin of Northumbria is converted to Christianity by Paulinus, bishop of York.
 <br/><br/>
-En 1512 : War of the League of Cambrai: Franco-Ferrarese forces led by Gaston de Foix and Alfonso I d'Este win the Battle of Ravenna against the Papal-Spanish forces.
+En 467 : Anthemius is elevated to Emperor of the Western Roman Empire.
 <br/><br/>
-En 1241 : Batu Khan defeats Béla IV of Hungary at the Battle of Mohi.
-<br/><br/>
-En 491 : Flavius Anastasius becomes Byzantine emperor, with the name of Anastasius I.
+En 240 : Shapur I becomes co-emperor of the Sasanian Empire with his father Ardashir I.
 <br/><br/>
