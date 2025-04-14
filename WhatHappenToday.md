@@ -4,79 +4,115 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 13/4 ?(Hover on the year)</h1>
+<h1> What happen this day 14/4 ?(Hover on the year)</h1>
 
-En 2024 : Six people and the perpetrator are killed and twelve others injured in a mass stabbing at Westfield Bondi Junction shopping centre in Sydney, Australia.
+En 2024 : Flooding in the Persian Gulf starts, killing 19 in Oman.
 <br/><br/>
-En 2023 : The house of Jack Teixeira is raided in an investigation into leaked Pentagon documents; he is arrested on the same day.
+En 2023 : The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
 <br/><br/>
-En 2022 : The Russian cruiser Moskva is attacked by two Ukrainian two R-360 Neptune anti-ship missiles and sinks into the Black Sea near Snake Island.
+En 2022 : Russian invasion of Ukraine: The Russian warship Moskva sinks.
 <br/><br/>
-En 2014 : Three people are killed in a shooting in Overland Park, Kansas.
+En 2016 : The foreshock of a major earthquake occurs in Kumamoto, Japan.
 <br/><br/>
-En 1997 : Tiger Woods becomes the youngest golfer to win the Masters Tournament.
+En 2014 : Two bombs detonate at a bus station in Nyanya, Nigeria, killing at least 88 people and injuring hundreds. Boko Haram claims responsibility.
 <br/><br/>
-En 1996 : Two women and four children are killed after Israeli helicopter fired rockets at an ambulance in Mansouri, Lebanon.
+En 2014 : Boko Haram abducts 276 girls from a school in Chibok, Nigeria.
 <br/><br/>
-En 1976 : The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration.
+En 2006 : Twin blasts triggered by crude bombs during Asr prayer in the Jama Masjid mosque in Delhi injure 13 people.
 <br/><br/>
-En 1976 : Forty workers die in the Lapua Cartridge Factory explosion, the deadliest industrial accident in modern Finnish history.
+En 2005 : The Oregon Supreme Court nullifies marriage licenses issued to same-sex couples a year earlier by Multnomah County.
 <br/><br/>
-En 1975 : An attack by the Phalangist resistance kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War.
+En 2003 : The Human Genome Project is completed with 99% of the human genome sequenced to an accuracy of 99.99%.
 <br/><br/>
-En 1972 : The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
+En 2003 : U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian group that killed an American on the hijacked cruise liner MS Achille Lauro in 1985.
 <br/><br/>
-En 1972 : Vietnam War: The Battle of An Lộc begins.
+En 2002 : Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military.
 <br/><br/>
-En 1970 : An oxygen tank aboard the Apollo 13 Service Module explodes, putting the crew in great danger and causing major damage to the Apollo command and service module (codenamed "Odyssey") while en route to the Moon.
+En 1999 : NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed.
 <br/><br/>
-En 1964 : At the Academy Awards, Sidney Poitier becomes the first African-American man to win the Best Actor award for the 1963 film Lilies of the Field.
+En 1999 : A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history.
 <br/><br/>
-En 1960 : The United States launches Transit 1-B, the world's first satellite navigation system.
+En 1997 : Pai Hsiao-yen, daughter of Taiwanese artiste Pai Bing-bing is kidnapped on her way to school, preceding her murder.
 <br/><br/>
-En 1953 : CIA director Allen Dulles launches the mind-control program Project MKUltra.
+En 1994 : In a friendly fire incident during Operation Provide Comfort in northern Iraq, two U.S. Air Force aircraft mistakenly shoot-down two U.S. Army helicopters, killing 26 people.
 <br/><br/>
-En 1948 : In an ambush, 78 Jewish doctors, nurses and medical students from Hadassah Hospital, and a British soldier, are massacred by Arabs in Sheikh Jarrah. This event came to be known as the Hadassah medical convoy massacre.
+En 1991 : The Republic of Georgia introduces the post of President following its declaration of independence from the Soviet Union.
 <br/><br/>
-En 1945 : World War II: German troops kill more than 1,000 political and military prisoners in Gardelegen, Germany.
+En 1988 : The USS Samuel B. Roberts strikes a mine in the Persian Gulf during Operation Earnest Will.
 <br/><br/>
-En 1945 : World War II: Soviet and Bulgarian forces capture Vienna.
+En 1988 : In a United Nations ceremony in Geneva, Switzerland, the Soviet Union signs an agreement pledging to withdraw its troops from Afghanistan.
 <br/><br/>
-En 1943 : World War II: The discovery of mass graves of Polish prisoners of war killed by Soviet forces in the Katyń Forest Massacre is announced, causing a diplomatic rift between the Polish government-in-exile in London and the Soviet Union, which denies responsibility.
+En 1986 : The heaviest hailstones ever recorded, each weighing 1 kilogram (2.2 lb), fall on the Gopalganj district of Bangladesh, killing 92.
 <br/><br/>
-En 1943 : The Jefferson Memorial is dedicated in Washington, D.C., on the 200th anniversary of President Thomas Jefferson's birth.
+En 1981 : STS-1: The first operational Space Shuttle, Columbia completes its first test flight.
 <br/><br/>
-En 1941 : A pact of neutrality between the USSR and Japan is signed.
+En 1979 : The Progressive Alliance of Liberia stages a protest, without a permit, against an increase in rice prices proposed by the government, with clashes between protestors and the police resulting in over 70 deaths and over 500 injuries.
 <br/><br/>
-En 1919 : Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379–1,000 unarmed demonstrators including men and women in Amritsar, India; and approximately 1,500 injured.
+En 1978 : Tbilisi demonstrations: Thousands of Georgians demonstrate against Soviet attempts to change the constitutional status of the Georgian language.
 <br/><br/>
-En 1909 : The 31 March Incident leads to the overthrow of Sultan Abdul Hamid II.
+En 1967 : Gnassingbé Eyadéma overthrows Nicolas Grunitzky and installs himself as the new President of Togo, a title he will hold for the next 38 years.
 <br/><br/>
-En 1873 : The Colfax massacre: More than 60 to 150 black men are murdered in Colfax, Louisiana, while surrendering to a mob of former Confederate soldiers and members of the Ku Klux Klan.
+En 1958 : The Soviet satellite Sputnik 2 falls from orbit after a mission duration of 162 days. This was the first spacecraft to carry a living animal, a female dog named Laika, who likely lived only a few hours.
 <br/><br/>
-En 1870 : The New York City Metropolitan Museum of Art is founded.
+En 1945 : Razing of Friesoythe: The 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
 <br/><br/>
-En 1865 : American Civil War: Raleigh, North Carolina is occupied by Union forces.
+En 1944 : Bombay explosion: A massive explosion in Bombay harbor kills 300 and causes economic damage valued at 20 million pounds.
 <br/><br/>
-En 1861 : American Civil War: Union forces surrender Fort Sumter to Confederate forces.
+En 1941 : World War II: German and Italian forces attack Tobruk, Libya.
 <br/><br/>
-En 1849 : Lajos Kossuth presents the Hungarian Declaration of Independence in a closed session of the National Assembly.
+En 1940 : World War II: Royal Marines land in Namsos, Norway, preceding a larger force which will arrive two days later.
 <br/><br/>
-En 1829 : The Roman Catholic Relief Act 1829 gives Roman Catholics in the United Kingdom the right to vote and to sit in Parliament.
+En 1935 : The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas.
 <br/><br/>
-En 1777 : American Revolutionary War: American forces are ambushed and defeated in the Battle of Bound Brook, New Jersey.
+En 1931 : The Second Spanish Republic is proclaimed and king Alfonso XIII goes to exile. Meanwhile, in Barcelona, Francesc Macià proclaims the Catalan Republic.
 <br/><br/>
-En 1742 : George Frideric Handel's oratorio Messiah makes its world premiere in Dublin, Ireland.
+En 1929 : The inaugural Monaco Grand Prix takes place in the Principality of Monaco. William Grover-Williams wins driving a Bugatti Type 35.
 <br/><br/>
-En 1699 : The Sikh religion is formalised as the Khalsa – the brotherhood of Warrior-Saints – by Guru Gobind Singh in northern India, in accordance with the Nanakshahi calendar.
+En 1912 : The British passenger liner RMS Titanic hits an iceberg in the North Atlantic and begins to sink.
 <br/><br/>
-En 1613 : Samuel Argall, having captured Pocahontas in Passapatanzy, Virginia, sets off with her to Jamestown with the intention of exchanging her for English prisoners held by her father.
+En 1909 : Muslims in the Ottoman Empire begin a massacre of Armenians in Adana.
 <br/><br/>
-En 1612 : Samurai Miyamoto Musashi defeats Sasaki Kojirō in a duel at Funajima island.
+En 1908 : Hauser Dam, a steel dam on the Missouri River in Montana, fails, sending a surge of water 25 to 30 feet (7.6 to 9.1 m) high downstream.
 <br/><br/>
-En 1455 : Thirteen Years' War: the beginning of the Battle for Kneiphof.
+En 1906 : The first meeting of the Azusa Street Revival, which will launch Pentecostalism as a worldwide movement, is held in Los Angeles.
 <br/><br/>
-En 1204 : Constantinople falls to the Crusaders of the Fourth Crusade, temporarily ending the Byzantine Empire.
+En 1900 : The world's fair Exposition Universelle opens in Paris.
 <br/><br/>
-En 1111 : Henry V is crowned Holy Roman Emperor.
+En 1895 : The 1895 Ljubljana earthquake, both the most and last destructive earthquake in the area, occurs.
+<br/><br/>
+En 1894 : The first ever commercial motion picture house opens in New York City, United States. It uses ten Kinetoscopes, devices for peep-show viewing of films.
+<br/><br/>
+En 1890 : The Pan-American Union is founded by the First International Conference of American States in Washington, D.C.
+<br/><br/>
+En 1881 : The Four Dead in Five Seconds Gunfight occurs in El Paso, Texas.
+<br/><br/>
+En 1865 : U.S. President Abraham Lincoln is shot in Ford's Theatre by John Wilkes Booth; Lincoln dies the following day.
+<br/><br/>
+En 1865 : William H. Seward, the U.S. Secretary of State, and his family are attacked at home by Lewis Powell.
+<br/><br/>
+En 1858 : The 1858 Christiania fire severely destroys several city blocks near Stortorvet in Christiania, Norway, and about 1,000 people lose their homes.
+<br/><br/>
+En 1849 : Hungary declares itself independent of Austria with Lajos Kossuth as its leader.
+<br/><br/>
+En 1816 : Bussa, a slave in British-ruled Barbados, leads a slave rebellion, for which he is remembered as the country's first national hero.
+<br/><br/>
+En 1793 : The French troops led by Léger-Félicité Sonthonax defeat the slaves settlers in the Siege of Port-au-Prince.
+<br/><br/>
+En 1775 : The Society for the Relief of Free Negroes Unlawfully Held in Bondage, the first abolition society in North America, is organized in Philadelphia by Benjamin Franklin and Benjamin Rush.
+<br/><br/>
+En 1639 : Thirty Years' War: Forces of the Holy Roman Empire and Electorate of Saxony are defeated by the Swedes at the Battle of Chemnitz, ending the military effectiveness of the Saxon army for the rest of the war and allowing the Swedes to advance into Bohemia.
+<br/><br/>
+En 1561 : A celestial phenomenon is reported over Nuremberg, described as an aerial battle.
+<br/><br/>
+En 1471 : In England, the Yorkists under Edward IV defeat the Lancastrians under the Earl of Warwick at the Battle of Barnet; the Earl is killed and Edward resumes the throne.
+<br/><br/>
+En 1395 : Tokhtamysh–Timur war: At the Battle of the Terek River, Timur defeats the army of the Golden Horde, beginning the khanate's permanent military decline.
+<br/><br/>
+En 972 : Otto II, Co-Emperor of the Holy Roman Empire, marries Byzantine princess Theophanu. She is crowned empress by Pope John XIII in Rome the same day.
+<br/><br/>
+En 966 : Following his marriage to the Christian Doubravka of Bohemia, the pagan ruler of the Polans, Mieszko I, converts to Christianity, an event considered to be the founding of the Polish state.
+<br/><br/>
+En 69 : Vitellius, commanding Rhine-based armies, defeats Roman emperor Otho in the First Battle of Bedriacum to take power over Rome.
+<br/><br/>
+En -43 : Legions loyal to the Roman Senate, commanded by Gaius Pansa, defeat the forces of Mark Antony in the Battle of Forum Gallorum.
 <br/><br/>
