@@ -4,111 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/4 ?(Hover on the year)</h1>
+<h1> What happen this day 17/4 ?(Hover on the year)</h1>
 
-En 2024 : The historic Børsen in Copenhagen, Denmark, is severely damaged by a fire.
+En 2021 : The funeral of Prince Philip, Duke of Edinburgh, takes place at St George's Chapel, Windsor Castle.
 <br/><br/>
-En 2018 : The New York Times and the New Yorker win the Pulitzer Prize for Public Service for breaking news of the Harvey Weinstein sexual abuse scandal.
+En 2014 : NASA's Kepler space telescope confirms the discovery of the first Earth-size planet in the habitable zone of another star.
 <br/><br/>
-En 2016 : Ecuador's worst earthquake in nearly 40 years kills 676 and injures more than 230,000.
+En 2013 : An explosion at a fertilizer plant in the city of West, Texas, kills 15 people and injures 160 others.
 <br/><br/>
-En 2014 : The South Korean ferry MV Sewol capsizes and sinks near Jindo Island, killing 304 passengers and crew and leading to widespread criticism of the South Korean government, media, and shipping authorities.
+En 2006 : A Palestinian suicide bomber detonates an explosive device in a Tel Aviv restaurant, killing 11 people and injuring 70.
 <br/><br/>
-En 2013 : A 7.8-magnitude earthquake strikes Sistan and Baluchestan province, Iran, killing at least 35 people and injuring 117 others.
+En 2003 : Anneli Jäätteenmäki takes office as the first female prime minister of Finland.
 <br/><br/>
-En 2013 : The 2013 Baga massacre is started when Boko Haram militants engage government soldiers in Baga.
+En 1998 : Space Shuttle Columbia is launched on STS-90, the final Spacelab mission.
 <br/><br/>
-En 2012 : The trial for Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, begins in Oslo, Norway.
+En 1992 : The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
 <br/><br/>
-En 2012 : The Pulitzer Prize winners were announced, it was the first time since 1977 that no book won the Fiction Prize.
+En 1986 : An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly declared peace bringing an end to any hypothetical war that may have been legally considered to exist.
 <br/><br/>
-En 2008 : The U.S. Supreme Court rules in the Baze v. Rees decision that execution by lethal injection does not violate the Eighth Amendment ban against cruel and unusual punishment.
+En 1982 : Constitution Act, 1982 Patriation of the Canadian constitution in Ottawa by Proclamation of Elizabeth II, Queen of Canada.
 <br/><br/>
-En 2007 : Virginia Tech shooting: Seung-Hui Cho guns down 32 people and injures 17 before committing suicide.
+En 1978 : Mir Akbar Khyber is assassinated, provoking the Saur Revolution in Afghanistan.
 <br/><br/>
-En 2003 : The Treaty of Accession is signed in Athens admitting ten new member states to the European Union.
+En 1975 : The Cambodian Civil War ends. The Khmer Rouge captures the capital Phnom Penh and Cambodian government forces surrender.
 <br/><br/>
-En 2001 : India and Bangladesh begin a five-day border conflict, but are unable to resolve the disputes about their border.
+En 1971 : The Provisional Government of Bangladesh is formed.
 <br/><br/>
-En 1972 : Apollo program: The launch of Apollo 16 from Cape Canaveral, Florida.
+En 1970 : Apollo program: The damaged Apollo 13 spacecraft returns to Earth safely.
 <br/><br/>
-En 1963 : U.S. civil rights campaigner Dr. Martin Luther King Jr. writes his open letter from Birmingham Jail, sometimes known as "The Negro Is Your Brother", while incarcerated in Birmingham, Alabama, for protesting against segregation.
+En 1969 : Sirhan Sirhan is convicted of assassinating Robert F. Kennedy.
 <br/><br/>
-En 1961 : In a nationally broadcast speech, Cuban leader Fidel Castro declares that he is a Marxist–Leninist and that Cuba is going to adopt Communism.
+En 1969 : Communist Party of Czechoslovakia chairman Alexander Dubček is deposed.
 <br/><br/>
-En 1948 : The Organization of European Economic Co-operation is formed.
+En 1964 : Jerrie Mock completes the first around-the-world airplane flight by a woman. Her solo flight in the Spirit of Columbus, which took 29 1/2 days, took off and landed at the Port Columbus International Airport in Ohio.
 <br/><br/>
-En 1947 : An explosion on board a freighter in port causes the city of Texas City, Texas, United States, to catch fire, killing almost 600 people.
+En 1961 : Bay of Pigs Invasion: A group of Cuban exiles financed and trained by the CIA lands at the Bay of Pigs in Cuba with the aim of ousting Fidel Castro.
 <br/><br/>
-En 1947 : Bernard Baruch first applies the term "Cold War" to describe the relationship between the United States and the Soviet Union.
+En 1951 : The Peak District becomes the United Kingdom's first National Park.
 <br/><br/>
-En 1945 : World War II: The Red Army begins the final assault on German forces around Berlin, with nearly one million troops fighting in the Battle of the Seelow Heights.
+En 1946 : The last French troops are withdrawn from Syria.
 <br/><br/>
-En 1945 : The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz).
+En 1945 : World War II: Montese, Italy, is liberated from Nazi forces.
 <br/><br/>
-En 1945 : More than 7,000 die when the German transport ship Goya is sunk by a Soviet submarine.
+En 1945 : Historian Tran Trong Kim is appointed the Prime Minister of the Empire of Vietnam.
 <br/><br/>
-En 1944 : World War II: Allied forces start bombing Belgrade, killing about 1,100 people. This bombing fell on the Orthodox Christian Easter.
+En 1944 : Forces of the Communist-controlled Greek People's Liberation Army attack the smaller National and Social Liberation resistance group, which surrenders. Its leader Dimitrios Psarros is murdered.
 <br/><br/>
-En 1943 : Albert Hofmann accidentally discovers the hallucinogenic effects of the research drug LSD. He intentionally takes the drug three days later on April 19.
+En 1942 : French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
 <br/><br/>
-En 1942 : King George VI awarded the George Cross to the people of Malta in appreciation of their heroism.
+En 1941 : World War II: The Axis powers invasion of Yugoslavia is completed when it signs an armistice with Germany and Italy.
 <br/><br/>
-En 1941 : World War II: The Italian-German Tarigo convoy is attacked and destroyed by British ships.
+En 1931 : After negotiations between Catalan and Spanish provisional governments, the Catalan Republic proclaimed in April 14 becomes the Generalitat de Catalunya, the autonomous government of Catalonia within the Spanish Republic.
 <br/><br/>
-En 1941 : World War II: The Nazi-affiliated Ustaše is put in charge of the Independent State of Croatia by the Axis powers after Operation 25 is effected.
+En 1912 : Russian troops open fire on striking goldfield workers in northeast Siberia, killing at least 150.
 <br/><br/>
-En 1925 : During the Communist St Nedelya Church assault in Sofia, Bulgaria, 150 are killed and 500 are wounded.
+En 1907 : The Ellis Island immigration center processes 11,747 people, more than on any other day.
 <br/><br/>
-En 1922 : The Treaty of Rapallo, pursuant to which Germany and the Soviet Union re-establish diplomatic relations, is signed.
+En 1905 : The Supreme Court of the United States decides Lochner v. New York, which holds that the "right to free contract" is implicit in the due process clause of the Fourteenth Amendment to the United States Constitution.
 <br/><br/>
-En 1919 : Mohandas Gandhi organizes a day of "prayer and fasting" in response to the killing of Indian protesters in the Jallianwala Bagh massacre by the British colonial troops three days earlier.
+En 1895 : The Treaty of Shimonoseki between China and Japan is signed. This marks the end of the First Sino-Japanese War, and the defeated Qing Empire is forced to renounce its claims on Korea and to concede the southern portion of the Fengtian province, Taiwan and the Penghu to Japan.
 <br/><br/>
-En 1919 : Polish–Lithuanian War: The Polish Army launches the Vilna offensive to capture Vilnius in modern Lithuania.
+En 1876 : Catalpa rescue: The rescue of six Fenian prisoners from Fremantle Prison in Western Australia.
 <br/><br/>
-En 1917 : Russian Revolution: Vladimir Lenin returns to Petrograd, Russia, from exile in Switzerland.
+En 1869 : Morelos is admitted as the 27th state of Mexico.
 <br/><br/>
-En 1912 : Harriet Quimby becomes the first woman to fly an airplane across the English Channel.
+En 1864 : American Civil War: The Battle of Plymouth begins: Confederate forces attack Plymouth, North Carolina.
 <br/><br/>
-En 1910 : The oldest existing indoor ice hockey arena still used for the sport in the 21st century, Boston Arena, opens for the first time.
+En 1863 : American Civil War: Grierson's Raid begins: Troops under Union Army Colonel Benjamin Grierson attack central Mississippi.
 <br/><br/>
-En 1908 : Natural Bridges National Monument is established in Utah.
+En 1861 : The state of Virginia's secession convention votes to secede from the United States; Virginia later becomes the eighth state to join the Confederate States of America.
 <br/><br/>
-En 1881 : In Dodge City, Kansas, Bat Masterson fights his last gun battle.
+En 1797 : Sir Ralph Abercromby attacks San Juan, Puerto Rico, in what would be one of the largest invasions of the Spanish territories in the Americas.
 <br/><br/>
-En 1878 : The Senate of the Grand Duchy of Finland issues a declaration establishing a city of Kotka on the southern part islands from the old Kymi parish.
+En 1797 : Citizens of Verona begin an unsuccessful eight-day rebellion against the French occupying forces.
 <br/><br/>
-En 1863 : American Civil War: During the Vicksburg Campaign, gunboats commanded by acting Rear Admiral David Dixon Porter run downriver past Confederate artillery batteries at Vicksburg.
+En 1524 : Giovanni da Verrazzano reaches New York harbor.
 <br/><br/>
-En 1862 : American Civil War: Battle at Lee's Mills in Virginia.
+En 1521 : Trial of Martin Luther over his teachings begins during the assembly of the Diet of Worms. Initially intimidated, he asks for time to reflect before answering and is given a stay of one day.
 <br/><br/>
-En 1862 : American Civil War: The District of Columbia Compensated Emancipation Act, a bill ending slavery in the District of Columbia, becomes law.
+En 1492 : Spain and Christopher Columbus sign the Capitulations of Santa Fe for his voyage to Asia to acquire spices.
 <br/><br/>
-En 1858 : The Wernerian Natural History Society, a former Scottish learned society, is dissolved.
+En 1362 : Kaunas Castle falls to the Teutonic Order after a month-long siege.
 <br/><br/>
-En 1853 : The Great Indian Peninsula Railway opens the first passenger rail in India, from Bori Bunder to Thane.
+En 1349 : The rule of the Bavand dynasty in Mazandaran is brought to an end by the murder of Hasan II.
 <br/><br/>
-En 1847 : Shooting of a Māori by an English sailor results in the opening of the Wanganui Campaign of the New Zealand Wars.
-<br/><br/>
-En 1838 : The French Army captures Veracruz in the Pastry War.
-<br/><br/>
-En 1818 : The United States Senate ratifies the Rush–Bagot Treaty, limiting naval armaments on the Great Lakes and Lake Champlain.
-<br/><br/>
-En 1799 : French Revolutionary Wars: The Battle of Mount Tabor: Napoleon drives Ottoman Turks across the River Jordan near Acre.
-<br/><br/>
-En 1780 : Franz Friedrich Wilhelm von Fürstenberg founds the University of Münster.
-<br/><br/>
-En 1746 : The Battle of Culloden is fought between the French-supported Jacobites and the British Hanoverian forces commanded by William Augustus, Duke of Cumberland, in Scotland.
-<br/><br/>
-En 1582 : Spanish conquistador Hernando de Lerma founds the settlement of Salta, Argentina.
-<br/><br/>
-En 1520 : The Revolt of the Comuneros begins in Spain against the rule of Charles V.
-<br/><br/>
-En 1346 : Stefan Dušan, "the Mighty", is crowned Emperor of the Serbs at Skopje, his empire occupying much of the Balkans.
-<br/><br/>
-En 73 : Masada, a Jewish fortress, falls to the Romans after several months of siege, ending the First Jewish–Roman War.
-<br/><br/>
-En 69 : Defeated by Vitellius' troops at Bedriacum, Roman emperor Otho commits suicide.
-<br/><br/>
-En -1457 : Battle of Megido – the first battle to have been recorded in what is accepted as relatively reliable detail.
+En 1080 : Harald III of Denmark dies and is succeeded by Canute IV, who would later be the first Dane to be canonized.
 <br/><br/>
