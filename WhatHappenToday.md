@@ -4,69 +4,101 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 22/4 ?(Hover on the year)</h1>
+<h1> What happen this day 23/4 ?(Hover on the year)</h1>
 
-En 2020 : Four police officers are killed after being struck by a truck on the Eastern Freeway in Melbourne while speaking to a speeding driver, marking the largest loss of police lives in Victoria Police history.
+En 2024 : The 2024 Lumut mid-air collision in Malaysia kills 10 people while rehearsing for the 90th anniversary of the Royal Malaysian Navy.
 <br/><br/>
-En 2016 : The Paris Agreement is signed, an agreement to help fight global warming.
+En 2019 : The April 2019 Hpakant jade mine collapse in Myanmar kills four miners and two rescuers, with at least 50 others missing and presumed dead.
 <br/><br/>
-En 2005 : Japan's Prime Minister Junichiro Koizumi apologizes for Japan's war record.
+En 2018 : A vehicle-ramming attack kills 11 people and injures 15 in Toronto. A 25-year-old suspect, Alek Minassian, is arrested.
 <br/><br/>
-En 1993 : Eighteen-year-old Stephen Lawrence is murdered in a racially motivated attack while waiting for a bus in Well Hall, Eltham.
+En 2013 : At least 111 people are killed and 233 injured as violence breaks out in Hawija, Iraq.
 <br/><br/>
-En 1992 : A series of gas explosions rip through the streets in Guadalajara, Mexico, killing 206.
+En 2005 : The first YouTube video, titled "Me at the zoo", was published by co-founder Jawed Karim.
 <br/><br/>
-En 1977 : Optical fiber is first used to carry live telephone traffic.
+En 1999 : NATO bombs the headquarters of Radio Television of Serbia, as part of their aerial campaign against the Federal Republic of Yugoslavia.
 <br/><br/>
-En 1974 : Pan Am Flight 812 crashes on approach to Ngurah Rai International Airport in Denpasar, Bali, Indonesia, killing all 107 people on board.
+En 1993 : Eritreans vote overwhelmingly for independence from Ethiopia in a United Nations-monitored referendum.
 <br/><br/>
-En 1970 : The first Earth Day is celebrated.
+En 1993 : Sri Lankan politician Lalith Athulathmudali is assassinated while addressing a gathering, approximately four weeks ahead of the Provincial Council elections for the Western Province.
 <br/><br/>
-En 1970 : Chicano residents in San Diego, California occupy a site under the Coronado Bridge, leading to the creation of Chicano Park.
+En 1990 : Namibia becomes the 160th member of the United Nations and the 50th member of the Commonwealth of Nations.
 <br/><br/>
-En 1969 : British yachtsman Sir Robin Knox-Johnston wins the Sunday Times Golden Globe Race and completes the first solo non-stop circumnavigation of the world.
+En 1985 : Coca-Cola changes its formula and releases New Coke. The response is overwhelmingly negative, and the original formula is back on the market in less than three months.
 <br/><br/>
-En 1969 : The formation of the Communist Party of India (Marxist–Leninist) is announced at a mass rally in Calcutta.
+En 1979 : SAETA Flight 011 crashes in Pastaza Province, Ecuador, killing all 57 people on board. The wreckage was not discovered until 1984.
 <br/><br/>
-En 1966 : American Flyers Airline Flight 280/D crashes on approach to Ardmore Municipal Airport in Ardmore, Oklahoma, killing 83.
+En 1979 : Blair Peach, a British activist, was fatally injured after being knocked unconscious during an Anti-Nazi League demonstration against a National Front election meeting in Southall, London.
 <br/><br/>
-En 1954 : Red Scare: Witnesses begin testifying and live television coverage of the Army–McCarthy hearings begins.
+En 1971 : Bangladesh Liberation War: The Pakistan Army and Razakars massacre approximately 3,000 Hindu emigrants in the Jathibhanga area of East Pakistan (now Bangladesh).
 <br/><br/>
-En 1951 : Korean War: The Chinese People's Volunteer Army begin assaulting positions defended by the Royal Australian Regiment and the Princess Patricia's Canadian Light Infantry at the Battle of Kapyong.
+En 1968 : Vietnam War: Student protesters at Columbia University in New York City take over administration buildings and shut down the university.
 <br/><br/>
-En 1948 : Arab–Israeli War: The port city of Haifa is captured by Jewish forces.
+En 1967 : Soviet space program: Soyuz 1 (Russian: Союз 1, Union 1) a crewed spaceflight carrying cosmonaut Colonel Vladimir Komarov is launched into orbit.
 <br/><br/>
-En 1945 : World War II: Prisoners at the Jasenovac concentration camp revolt. Five hundred twenty are killed and around eighty escape.
+En 1966 : Aeroflot Flight 2723 crashes into the Caspian Sea off the Absheron Peninsula, killing 33 people.
 <br/><br/>
-En 1945 : World War II: Sachsenhausen concentration camp is liberated by soldiers of the Red Army and Polish First Army.
+En 1961 : Algiers putsch by French generals.
 <br/><br/>
-En 1944 : The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater.
+En 1951 : Cold War: American journalist William N. Oatis is arrested for espionage by the Communist government of Czechoslovakia.
 <br/><br/>
-En 1944 : World War II: Operation Persecution is initiated: Allied forces land in the Hollandia (currently known as Jayapura) area of New Guinea.
+En 1949 : Chinese Civil War: Establishment of the People's Liberation Army Navy.
 <br/><br/>
-En 1944 : World War II: In Greenland, the Allied Sledge Patrol attack the German Bassgeiger weather station.
+En 1946 : Manuel Roxas is elected the last President of the Commonwealth of the Philippines.
 <br/><br/>
-En 1930 : The United Kingdom, Japan and the United States sign the London Naval Treaty regulating submarine warfare and limiting shipbuilding.
+En 1945 : World War II: Adolf Hitler's designated successor, Hermann Göring, sends him a telegram asking permission to take leadership of Nazi Germany. Martin Bormann and Joseph Goebbels advise Göring that the telegram is treasonous.
 <br/><br/>
-En 1915 : World War I: The use of poison gas in World War I escalates when chlorine gas is released as a chemical weapon in the Second Battle of Ypres.
+En 1942 : World War II: Baedeker Blitz: German bombers hit Exeter, Bath and York in retaliation for the British raid on Lübeck.
 <br/><br/>
-En 1906 : The 1906 Intercalated Games open in Athens.
+En 1941 : World War II: The Greek government and King George II evacuate Athens before the invading Wehrmacht.
 <br/><br/>
-En 1898 : Spanish–American War: President William McKinley calls for 125,000 volunteers to join the National Guard and fight in Cuba, while Congress more than doubles regular Army forces to 65,000.
+En 1940 : The Rhythm Club fire at a dance hall in Natchez, Mississippi, kills 198 people.
 <br/><br/>
-En 1889 : At noon, thousands rush to claim land in the Land Rush of 1889. Within hours the cities of Oklahoma City and Guthrie are formed with populations of at least 10,000.
+En 1935 : The Polish Constitution of 1935 is adopted.
 <br/><br/>
-En 1876 : The first National League baseball game is played at the Jefferson Street Grounds in Philadelphia.
+En 1927 : Cardiff City defeat Arsenal in the FA Cup Final, the only time it has been won by a team not based in England.
 <br/><br/>
-En 1864 : The U.S. Congress passes the Coinage Act of 1864 that permitted the inscription In God We Trust be placed on all coins minted as United States currency.
+En 1920 : The Grand National Assembly of Turkey (TBMM) is founded in Ankara. The assembly denounces the government of Sultan Mehmed VI and announces the preparation of a temporary constitution.
 <br/><br/>
-En 1836 : Texas Revolution: A day after the Battle of San Jacinto, forces under Texas General Sam Houston identify Mexican General Antonio López de Santa Anna among the captives of the battle when some of his fellow soldiers mistakenly give away his identity.
+En 1919 : The Estonian Constituent Assembly is held in Estonia, which marks the birth of the Estonian Parliament, the Riigikogu.
 <br/><br/>
-En 1809 : The second day of the Battle of Eckmühl: The Austrian army is defeated by the First French Empire army led by Napoleon and driven over the Danube in Regensburg.
+En 1918 : World War I: The British Royal Navy makes a raid in an attempt to neutralise the Belgian port of Bruges-Zeebrugge.
 <br/><br/>
-En 1529 : Treaty of Zaragoza divides the eastern hemisphere between Spain and Portugal along a line 297.5 leagues (1,250 kilometres (780 mi)) east of the Moluccas.
+En 1909 : In Portugal, a magnitude 6.0 earthquake strikes near Lisbon, killing at least 60 people and injuring 75.
 <br/><br/>
-En 1519 : Spanish conquistador Hernán Cortés establishes a settlement at Veracruz, Mexico.
+En 1891 : Chilean Civil War: The ironclad Blanco Encalada is sunk at Caldera Bay by torpedo boats.
 <br/><br/>
-En 1500 : Portuguese navigator Pedro Álvares Cabral lands in Brazil (discovery of Brazil).
+En 1879 : Fire burns down the second main building and dome of the University of Notre Dame, which prompts the construction of the third, and current, Main Building with its golden dome.
+<br/><br/>
+En 1815 : The Second Serbian Uprising: A second phase of the national revolution of the Serbs against the Ottoman Empire, erupts shortly after the annexation of the country to the Ottoman Empire.
+<br/><br/>
+En 1724 : Johann Sebastian Bach leads the first performance of his cantata Du Hirte Israel, höre, BWV 104, illustrating the topic of the Good Shepherd in pastoral music.
+<br/><br/>
+En 1661 : King Charles II of England, Scotland and Ireland is crowned in Westminster Abbey.
+<br/><br/>
+En 1660 : Treaty of Oliva is established between Sweden and Poland.
+<br/><br/>
+En 1655 : The Siege of Santo Domingo begins during the Anglo-Spanish War, and fails seven days later.
+<br/><br/>
+En 1635 : The first public school in the United States, the Boston Latin School, is founded.
+<br/><br/>
+En 1521 : Battle of Villalar: King Charles I of Spain defeats the Comuneros.
+<br/><br/>
+En 1516 : The Munich Reinheitsgebot (regarding the ingredients of beer) takes effect in all of Bavaria.
+<br/><br/>
+En 1500 : Portuguese explorer Pedro Alvarez Cabral reaches new coastline (Brazil).
+<br/><br/>
+En 1348 : The founding of the Order of the Garter by King Edward III is announced on St. George's Day.
+<br/><br/>
+En 1343 : St. George's Night Uprising commences in the Duchy of Estonia.
+<br/><br/>
+En 1016 : Edmund Ironside succeeds his father Æthelred the Unready as King of England.
+<br/><br/>
+En 1014 : Battle of Clontarf: High King of Ireland Brian Boru defeats Viking invaders, but is killed in battle.
+<br/><br/>
+En 711 : Dagobert III succeeds his father King Childebert III as King of the Franks.
+<br/><br/>
+En 599 : Maya king Uneh Chan of Calakmul attacks rival city-state Palenque in southern Mexico, defeating queen Yohl Ik'nal and sacking the city.
+<br/><br/>
+En -215 : A temple is built on the Capitoline Hill dedicated to Venus Erycina to commemorate the Roman defeat at Lake Trasimene.
 <br/><br/>
