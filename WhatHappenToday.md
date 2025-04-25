@@ -4,95 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 24/4 ?(Hover on the year)</h1>
+<h1> What happen this day 25/4 ?(Hover on the year)</h1>
 
-En 2013 : A building collapses near Dhaka, Bangladesh, killing 1,134 people and injuring about 2,500 others.
+En 2015 : At least 8,962 are killed in Nepal after a massive 7.8 magnitude earthquake strikes Nepal.
 <br/><br/>
-En 2013 : Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in death of 21 people.
+En 2014 : The Flint water crisis begins when officials at Flint, Michigan switch the city's water supply to the Flint River, leading to lead and bacteria contamination.
 <br/><br/>
-En 2011 : WikiLeaks starts  publishing the Guantanamo Bay files leak.
+En 2007 : Boris Yeltsin's funeral: The first to be sanctioned by the Russian Orthodox Church for a head of state since the funeral of Emperor Alexander III in 1894.
 <br/><br/>
-En 2006 : Bombings in the Egyptian resort city of Dahab kill 23 people and injure about 80.
+En 2005 : The final piece of the Obelisk of Axum is returned to Ethiopia after being stolen by the invading Italian army in 1937.
 <br/><br/>
-En 2005 : Cardinal Joseph Ratzinger is inaugurated as the 265th Pope of the Catholic Church taking the name Pope Benedict XVI.
+En 2005 : A seven-car commuter train derails and crashes into an apartment building near Amagasaki Station in Japan, killing 107, including the driver.
 <br/><br/>
-En 2004 : The United States lifts economic sanctions imposed on Libya 18 years previously, as a reward for its cooperation in eliminating weapons of mass destruction.
+En 2005 : Bulgaria and Romania sign the Treaty of Accession 2005 to join the European Union.
 <br/><br/>
-En 1996 : In the United States, the Antiterrorism and Effective Death Penalty Act of 1996 is passed into law.
+En 2004 : The March for Women's Lives brings over 1 million protesters, mostly pro-choice, to Washington D.C. to protest the Partial-Birth Abortion Ban Act of 2003, and other restrictions on abortion.
 <br/><br/>
-En 1994 : A Douglas DC-3 ditches in Botany Bay after takeoff from Sydney Airport. All 25 people on board survive.
+En 2001 : President George W. Bush pledges U.S. military support in the event of a Chinese attack on Taiwan.
 <br/><br/>
-En 1993 : An IRA bomb devastates the Bishopsgate area of London.
+En 1990 : Violeta Chamorro takes office as the President of Nicaragua, the first woman to hold the position.
 <br/><br/>
-En 1990 : STS-31: The Hubble Space Telescope is launched from the Space Shuttle Discovery.
+En 1983 : Cold War: American schoolgirl Samantha Smith is invited to visit the Soviet Union by its leader Yuri Andropov after he read her letter in which she expressed fears about nuclear war.
 <br/><br/>
-En 1990 : Gruinard Island, Scotland, is officially declared free of the anthrax disease after 48 years of quarantine.
+En 1983 : Pioneer 10 travels beyond Pluto's orbit.
 <br/><br/>
-En 1980 : Eight U.S. servicemen die in Operation Eagle Claw as they attempt to end the Iran hostage crisis.
+En 1982 : Israel completes its withdrawal from the Sinai Peninsula per the Camp David Accords.
 <br/><br/>
-En 1979 : Blair Peach, a British activist, died after being knocked unconscious during an Anti-Nazi League demonstration against a National Front election meeting in Southall, London.
+En 1981 : More than 100 workers are exposed to radiation during repairs of at the Tsuruga Nuclear Power Plant in Japan.
 <br/><br/>
-En 1970 : China launches Dong Fang Hong I, becoming the fifth nation to put an object into orbit using its own booster.
+En 1980 : One hundred forty-six people are killed when Dan-Air Flight 1008 crashes near Los Rodeos Airport in Tenerife, Canary Islands.
 <br/><br/>
-En 1970 : The Gambia becomes a republic within the Commonwealth of Nations, with Dawda Jawara as its first President.
+En 1974 : Carnation Revolution: A leftist military coup in Portugal overthrows the authoritarian-conservative Estado Novo regime.
 <br/><br/>
-En 1967 : Cosmonaut Vladimir Komarov dies in Soyuz 1 when its parachute fails to open. He is the first human to die during a space mission.
+En 1972 : Vietnam War: Nguyen Hue Offensive: The North Vietnamese 320th Division forces 5,000 South Vietnamese troops to retreat and traps about 2,500 others northwest of Kontum.
 <br/><br/>
-En 1967 : Vietnam War: American General William Westmoreland says in a news conference that the enemy had "gained support in the United States that gives him hope that he can win politically that which he cannot win militarily".
+En 1961 : Robert Noyce is granted a patent for an integrated circuit.
 <br/><br/>
-En 1965 : Civil war breaks out in the Dominican Republic when Colonel Francisco Caamaño overthrows the triumvirate that had been in power since the coup d'état against Juan Bosch.
+En 1960 : The United States Navy submarine USS Triton completes the first submerged circumnavigation of the globe.
 <br/><br/>
-En 1963 : Marriage of Princess Alexandra of Kent to Angus Ogilvy at Westminster Abbey in London.
+En 1959 : The Saint Lawrence Seaway, linking the North American Great Lakes and the Atlantic Ocean, officially opens to shipping.
 <br/><br/>
-En 1957 : Suez Crisis: The Suez Canal is reopened following the introduction of UNEF peacekeepers to the region.
+En 1954 : The first practical solar cell is publicly demonstrated by Bell Telephone Laboratories.
 <br/><br/>
-En 1955 : The Bandung Conference ends: Twenty-nine non-aligned nations of Asia and Africa finish a meeting that condemns colonialism, racism, and the Cold War.
+En 1953 : Francis Crick and James Watson publish "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid" describing the double helix structure of DNA.
 <br/><br/>
-En 1953 : Winston Churchill is knighted by Queen Elizabeth II.
+En 1951 : Korean War: Assaulting Chinese forces are forced to withdraw after heavy fighting with UN forces, primarily made up of Australian and Canadian troops, at the Battle of Kapyong.
 <br/><br/>
-En 1944 : World War II: The SBS launches a raid against the garrison of Santorini in Greece.
+En 1945 : World War II: United States and Soviet reconnaissance troops meet in Torgau and Strehla along the River Elbe, cutting the Wehrmacht of Nazi Germany in two. This would be later known as Elbe Day.
 <br/><br/>
-En 1933 : Nazi Germany begins its persecution of Jehovah's Witnesses by shutting down the Watch Tower Society office in Magdeburg.
+En 1945 : World War II: Liberation Day (Italy): The National Liberation Committee for Northern Italy calls for a general uprising against the German occupation and the Italian Social Republic.
 <br/><br/>
-En 1932 : Benny Rothman leads the mass trespass of Kinder Scout, leading to substantial legal reforms in the United Kingdom.
+En 1945 : United Nations Conference on International Organization: Founding negotiations for the United Nations begin in San Francisco.
 <br/><br/>
-En 1926 : The Treaty of Berlin is signed. Germany and the Soviet Union each pledge neutrality in the event of an attack on the other by a third party for the next five years.
+En 1945 : World War II: The last German troops retreat from Finnish soil in Lapland, ending the Lapland War. Military actions of the Second World War end in Finland.
 <br/><br/>
-En 1924 : Thorvald Stauning becomes premier of Denmark (first term).
+En 1944 : The United Negro College Fund is incorporated.
 <br/><br/>
-En 1922 : The first segment of the Imperial Wireless Chain providing wireless telegraphy between Leafield in Oxfordshire, England, and Cairo, Egypt, comes into operation.
+En 1938 : U.S. Supreme Court delivers its opinion in Erie Railroad Co. v. Tompkins and overturns a century of federal common law.
 <br/><br/>
-En 1918 : World War I: First tank-to-tank combat, during the second Battle of Villers-Bretonneux. Three British Mark IVs meet three German A7Vs.
+En 1933 : Nazi Germany issues the Law Against Overcrowding in Schools and Universities limiting the number of Jewish students able to attend public schools and universities.
 <br/><br/>
-En 1916 : Easter Rising: Irish rebels, led by Patrick Pearse and James Connolly, launch an uprising in Dublin against British rule and proclaim an Irish Republic.
+En 1920 : At the San Remo conference, the principal Allied Powers of World War I adopt a resolution to determine the allocation of Class "A" League of Nations mandates for administration of the former Ottoman-ruled lands of the Middle East.
 <br/><br/>
-En 1916 : Ernest Shackleton and five men of the Imperial Trans-Antarctic Expedition launch a lifeboat from uninhabited Elephant Island in the Southern Ocean to organise a rescue for the crew of the sunken Endurance.
+En 1916 : Anzac Day is commemorated for the first time on the first anniversary of the landing at ANZAC Cove.
 <br/><br/>
-En 1915 : The arrest of 250 Armenian intellectuals and community leaders in Istanbul marks the beginning of the Armenian genocide.
+En 1915 : World War I: The Battle of Gallipoli begins: The invasion of the Turkish Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian and New Zealand troops, begins with landings at Anzac Cove and Cape Helles.
 <br/><br/>
-En 1914 : The Franck–Hertz experiment, a pillar of quantum mechanics, is presented to the German Physical Society.
+En 1901 : New York becomes the first U.S. state to require automobile license plates.
 <br/><br/>
-En 1913 : The Woolworth Building, a skyscraper in New York City, is opened.
+En 1898 : Spanish–American War: The United States Congress declares that a state of war between the U.S. and Spain has existed since April 21, when an American naval blockade of the Spanish colony of Cuba began.
 <br/><br/>
-En 1895 : Joshua Slocum, the first person to sail single-handedly around the world, sets sail from Boston, Massachusetts aboard the sloop Spray.
+En 1892 : Véry bombing during the Ère des attentats (1892-1894).
 <br/><br/>
-En 1885 : American sharpshooter Annie Oakley is hired by Nate Salsbury to be a part of Buffalo Bill's Wild West.
+En 1882 : French and Vietnamese troops clashed in Tonkin, when Commandant Henri Rivière seized the citadel of Hanoi with a small force of marine infantry.
 <br/><br/>
-En 1877 : Russo-Turkish War: Russian Empire declares war on Ottoman Empire.
+En 1864 : American Civil War: In the Battle of Marks' Mills, a force of 8,000 Confederate soldiers attacks 1,800 Union soldiers and a large number of wagon teamsters, killing or wounding 1,500 Union combatants.
 <br/><br/>
-En 1837 : The great fire in Surat city of India caused more than 500 deaths and destruction of more than 9,000 houses.
+En 1862 : American Civil War: Forces under U.S. Admiral David Farragut demand the surrender of the Confederate city of New Orleans, Louisiana.
 <br/><br/>
-En 1800 : The United States Library of Congress is established when President John Adams signs legislation to appropriate $5,000 to purchase "such books as may be necessary for the use of Congress".
+En 1859 : British and French engineers break ground for the Suez Canal.
 <br/><br/>
-En 1793 : French revolutionary Jean-Paul Marat is acquitted by the Revolutionary Tribunal of charges brought by the Girondin in Paris.
+En 1849 : The Governor General of Canada, Lord Elgin, signs the Rebellion Losses Bill, outraging Montreal's English population and triggering the Montreal Riots.
 <br/><br/>
-En 1704 : The first regular newspaper in British Colonial America, The Boston News-Letter, is published.
+En 1846 : Thornton Affair: Open conflict begins over the disputed border of Texas, triggering the Mexican–American War.
 <br/><br/>
-En 1558 : Mary, Queen of Scots, marries the Dauphin of France, François, at Notre-Dame de Paris.
+En 1829 : Charles Fremantle arrives in HMS Challenger off the coast of modern-day Western Australia prior to declaring the Swan River Colony for the British Empire.
 <br/><br/>
-En 1547 : Battle of Mühlberg. Duke of Alba, commanding Spanish-Imperial forces of Charles I of Spain, defeats the troops of Schmalkaldic League.
+En 1808 : Dano-Swedish War of 1808–1809: The Battle of Trangen took place at Trangen in Flisa, Hedemarkens Amt, between Swedish and Norwegian troops.
 <br/><br/>
-En -1183 : Traditional reckoning of the Fall of Troy marking the end of the legendary Trojan War, given by chief librarian of the Library of Alexandria Eratosthenes, among others.
+En 1792 : Highwayman Nicolas J. Pelletier becomes the first person executed by guillotine.
 <br/><br/>
-En -1479 : Thutmose III ascends to the throne of Egypt, although power effectively shifts to Hatshepsut (according to the Low Chronology of the 18th dynasty).
+En 1792 : "La Marseillaise" (the French national anthem) is composed by Claude Joseph Rouget de Lisle.
+<br/><br/>
+En 1707 : A coalition of Britain, the Netherlands and Portugal is defeated by a Franco-Spanish army at Almansa (Spain) in the War of the Spanish Succession.
+<br/><br/>
+En 1644 : Transition from Ming to Qing: The Chongzhen Emperor, the last Emperor of Ming China, commits suicide during a peasant rebellion led by Li Zicheng.
+<br/><br/>
+En 1607 : Eighty Years' War: The Dutch fleet destroys the anchored Spanish fleet at Gibraltar.
+<br/><br/>
+En 1134 : The name Zagreb was mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094.
+<br/><br/>
+En 799 : After mistreatment and disfigurement by the citizens of Rome, Pope Leo III flees to the Frankish court of king Charlemagne at Paderborn for protection.
+<br/><br/>
+En 775 : The Battle of Bagrevand puts an end to an Armenian rebellion against the Abbasid Caliphate. Muslim control over the South Caucasus is solidified and its Islamization begins, while several major Armenian nakharar families lose power and their remnants flee to the Byzantine Empire.
+<br/><br/>
+En -404 : Admiral Lysander and King Pausanias of Sparta blockade Athens and bring the Peloponnesian War to a successful conclusion.
 <br/><br/>
