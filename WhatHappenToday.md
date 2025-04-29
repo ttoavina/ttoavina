@@ -4,103 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 28/4 ?(Hover on the year)</h1>
+<h1> What happen this day 29/4 ?(Hover on the year)</h1>
 
-En 2004 : CBS News releases evidence of the Abu Ghraib torture and prisoner abuse. The photographs show rape and abuse from the American troops over Iraqi detainees.
+En 2015 : A baseball game between the Baltimore Orioles and the Chicago White Sox sets the all-time low attendance mark for Major League Baseball. Zero fans were in attendance for the game, as the stadium was officially closed to the public due to the 2015 Baltimore protests.
 <br/><br/>
-En 1996 : Whitewater controversy: President Bill Clinton gives a 41⁄2 hour videotaped testimony for the defense.
+En 2013 : A powerful explosion occurs in an office building in Prague, believed to have been caused by natural gas, and injures 43 people.
 <br/><br/>
-En 1996 : Port Arthur massacre, Tasmania: A gunman, Martin Bryant, opens fire at the Broad Arrow Cafe in Port Arthur, Tasmania, killing 35 people and wounding 23 others.
+En 2013 : National Airlines Flight 102, a Boeing 747-400 freighter aircraft, crashes during takeoff from Bagram Airfield in Parwan Province, Afghanistan, killing all seven people on board.
 <br/><br/>
-En 1994 : Former Central Intelligence Agency counterintelligence officer and analyst Aldrich Ames pleads guilty to giving US secrets to the Soviet Union and later Russia.
+En 2011 : The Wedding of Prince William and Catherine Middleton takes place at Westminster Abbey in London.
 <br/><br/>
-En 1991 : Space Shuttle Discovery launches on STS-39, the first unclassified shuttle mission for the United States Department of Defense.
+En 2004 : The final Oldsmobile is built in Lansing, Michigan, ending 107 years of vehicle production.
 <br/><br/>
-En 1988 : Near Maui, Hawaii, flight attendant Clarabelle "C.B." Lansing is blown out of Aloha Airlines Flight 243, a Boeing 737, and falls to her death when part of the plane's fuselage rips open in mid-flight.
+En 1997 : The Chemical Weapons Convention of 1993 enters into force, outlawing the production, stockpiling and use of chemical weapons by its signatories.
 <br/><br/>
-En 1986 : High levels of radiation resulting from the Chernobyl disaster are detected at Forsmark Nuclear Power Plant in Sweden, leading Soviet authorities to publicly announce the accident.
+En 1992 : Riots in Los Angeles begin, following the acquittal of police officers charged with excessive force in the beating of Rodney King. Over the next three days 63 people are killed and hundreds of buildings are destroyed.
 <br/><br/>
-En 1983 : The West German news magazine Stern begins publishing excerpts from the purported diaries of Adolf Hitler, later revealed to be forgeries.
+En 1991 : A cyclone strikes the Chittagong district of southeastern Bangladesh with winds of around 155 miles per hour (249 km/h), killing at least 138,000 people and leaving as many as ten million homeless.
 <br/><br/>
-En 1978 : The President of Afghanistan, Mohammad Daoud Khan, is overthrown and assassinated in a coup led by pro-communist rebels.
+En 1991 : The 7.0 Mw  Racha earthquake affects Georgia with a maximum MSK intensity of IX (Destructive), killing 270 people.
 <br/><br/>
-En 1977 : The Red Army Faction trial ends, with Andreas Baader, Gudrun Ensslin and Jan-Carl Raspe found guilty of four counts of murder and more than 30 counts of attempted murder.
+En 1986 : A fire at the Central library of the Los Angeles Public Library damages or destroys 400,000 books and other items.
 <br/><br/>
-En 1975 : General Cao Văn Viên, chief of the South Vietnamese military, departs for the US as the North Vietnamese Army closes in on victory.
+En 1986 : The United States Navy aircraft carrier USS Enterprise becomes the first nuclear-powered aircraft carrier to transit the Suez Canal, navigating from the Red Sea to the Mediterranean Sea to relieve the USS Coral Sea.
 <br/><br/>
-En 1973 : The Dark Side of the Moon by Pink Floyd, recorded in Abbey Road Studios goes to number one on the US Billboard chart, beginning a record-breaking 741-week chart run.
+En 1986 : An assembly of Sikhs, known as a Sarbat Khalsa, officially declared independence for a state of Khalistan.
 <br/><br/>
-En 1970 : Vietnam War: US President Richard Nixon formally authorizes American combat troops to take part in the Cambodian campaign.
+En 1985 : Space Shuttle Challenger is launched on STS-51-B.
 <br/><br/>
-En 1969 : Charles de Gaulle resigns as President of France.
+En 1975 : Vietnam War: Operation Frequent Wind: The U.S. begins to evacuate U.S. citizens from Saigon before an expected North Vietnamese takeover. U.S. involvement in the war comes to an end.
 <br/><br/>
-En 1967 : Vietnam War: Boxer Muhammad Ali refuses his induction into the United States Army and is subsequently stripped of his championship and license.
+En 1975 : Vietnam War: The North Vietnamese army completes its capture of all parts of South Vietnam-held Trường Sa Islands.
 <br/><br/>
-En 1965 : United States occupation of the Dominican Republic: American troops land in the Dominican Republic to "forestall establishment of a Communist dictatorship" and to evacuate US Army troops.
+En 1974 : Watergate scandal: United States President Richard Nixon announces the release of edited transcripts of White House tape recordings relating to the scandal.
 <br/><br/>
-En 1952 : Dwight D. Eisenhower resigns as Supreme Allied Commander of NATO in order to campaign in the 1952 United States presidential election.
+En 1970 : Vietnam War: United States and South Vietnamese forces invade Cambodia to hunt Viet Cong.
 <br/><br/>
-En 1952 : The Treaty of San Francisco comes into effect, restoring Japanese sovereignty and ending its state of war with most of the Allies of World War II.
+En 1967 : After refusing induction into the United States Army the previous day, Muhammad Ali is stripped of his boxing title.
 <br/><br/>
-En 1952 : The Sino-Japanese Peace Treaty (Treaty of Taipei) is signed in Taipei, Taiwan between Japan and the Republic of China to officially end the Second Sino-Japanese War.
+En 1953 : The first U.S. experimental 3D television broadcast shows an episode of Space Patrol on Los Angeles ABC affiliate KECA-TV.
 <br/><br/>
-En 1949 : The Hukbalahap are accused of assassinating former First Lady of the Philippines Aurora Quezon, while she is en route to dedicate a hospital in memory of her late husband; her daughter and ten others are also killed.
+En 1952 : Pan Am Flight 202 crashes into the Amazon basin near Carolina, Maranhão, Brazil, killing 50 people.
 <br/><br/>
-En 1948 : Igor Stravinsky conducts the premiere of his American ballet, Orpheus at the New York City Center.
+En 1946 : The International Military Tribunal for the Far East convenes and indicts former Prime Minister of Japan Hideki Tojo and 28 former Japanese leaders for war crimes.
 <br/><br/>
-En 1947 : Thor Heyerdahl and five crew mates set out from Peru on the Kon-Tiki to demonstrate that Peruvian natives could have settled Polynesia.
+En 1945 : World War II: The Surrender of Caserta is signed by the commander of German forces in Italy.
 <br/><br/>
-En 1945 : Benito Mussolini and his mistress Clara Petacci are shot dead by Walter Audisio, a member of the Italian resistance movement.
+En 1945 : World War II: Airdrops of food begin over German-occupied regions of the Netherlands.
 <br/><br/>
-En 1945 : The Holocaust: Nazi Germany carries out its final use of gas chambers to execute 33 Upper Austrian socialist and communist leaders in Mauthausen concentration camp.
+En 1945 : World War II: Adolf Hitler marries his longtime partner Eva Braun in a Berlin bunker and designates Admiral Karl Dönitz as his successor.
 <br/><br/>
-En 1944 : World War II: Nine German E-boats attack US and UK units during Exercise Tiger, the rehearsal for the Normandy landings, killing 946.
+En 1945 : Dachau concentration camp is liberated by United States troops.
 <br/><br/>
-En 1941 : The Ustaše massacre nearly 200 Serbs in the village of Gudovac, the first massacre of their genocidal campaign against Serbs of the Independent State of Croatia.
+En 1916 : World War I: The UK's 6th Indian Division surrenders to Ottoman Forces at the Siege of Kut in one of the largest surrenders of British forces up to that point.
 <br/><br/>
-En 1937 : South African medical researcher Max Theiler develops the yellow fever vaccine at the Rockefeller Foundation in New York City.
+En 1916 : Easter Rising: After six days of fighting, Irish rebel leaders surrender to British forces in Dublin, bringing the Easter Rising to an end.
 <br/><br/>
-En 1930 : The Independence Producers host the first night game in the history of Organized Baseball in Independence, Kansas.
+En 1911 : Tsinghua University, one of mainland China's leading universities, is founded.
 <br/><br/>
-En 1923 : Wembley Stadium is opened, named initially as the Empire Stadium.
+En 1910 : The Parliament of the United Kingdom passes the People's Budget, the first budget in British history with the expressed intent of redistributing wealth among the British public.
 <br/><br/>
-En 1920 : The Azerbaijan Soviet Socialist Republic is founded.
+En 1903 : A landslide kills 70 people in Frank, in the District of Alberta, Canada.
 <br/><br/>
-En 1910 : Frenchman Louis Paulhan wins the 1910 London to Manchester air race, the first long-distance aeroplane race in the United Kingdom.
+En 1864 : Theta Xi fraternity is founded at Rensselaer Polytechnic Institute, the only fraternity to be founded during the American Civil War.
 <br/><br/>
-En 1887 : A week after being arrested by the Prussian Secret Police, French police inspector Guillaume Schnaebelé is released on order of William I, German Emperor, defusing a possible war.
+En 1862 : American Civil War: The Capture of New Orleans by Union forces under David Farragut.
 <br/><br/>
-En 1881 : Billy the Kid escapes from the Lincoln County jail in Mesilla, New Mexico.
+En 1861 : Maryland in the American Civil War: Maryland's House of Delegates votes not to secede from the Union.
 <br/><br/>
-En 1869 : Chinese and Irish laborers for the Central Pacific Railroad working on the First transcontinental railroad lay ten miles of track in one day, a feat which has never been matched.
+En 1826 : The galaxy Centaurus A or NGC 5128 is discovered by James Dunlop.
 <br/><br/>
-En 1859 : The sailing clipper ship Pomona wrecked on the coast of Ireland with the loss of 424 of the 448 passengers and crew aboard.
+En 1781 : American Revolutionary War: British and French ships clash in the Battle of Fort Royal off the coast of Martinique.
 <br/><br/>
-En 1796 : The Armistice of Cherasco is signed by Napoleon Bonaparte and Vittorio Amedeo III, King of Sardinia, expanding French territory along the Mediterranean coast.
+En 1770 : James Cook arrives in Australia at Botany Bay, which he names.
 <br/><br/>
-En 1794 : Sardinians, headed by Giovanni Maria Angioy, start a revolution against the Savoy domination, expelling Viceroy Balbiano and his officials from Cagliari, the capital and largest city of the island.
+En 1760 : French forces commence the siege of Quebec which is held by the British.
 <br/><br/>
-En 1792 : France invades the Austrian Netherlands (present day Belgium and Luxembourg), beginning the French Revolutionary Wars.
+En 1521 : Swedish War of Liberation: Swedish troops defeat a Danish force in the Battle of Västerås.
 <br/><br/>
-En 1789 : Mutiny on the Bounty: Lieutenant William Bligh and 18 sailors are set adrift, and the rebel crew returns to Tahiti briefly before setting sail for Pitcairn Island.
+En 1483 : Gran Canaria, the main island of the Canary Islands, is conquered by the Kingdom of Castile.
 <br/><br/>
-En 1788 : Maryland becomes the seventh state to ratify the United States Constitution.
+En 1429 : Joan of Arc arrives to relieve the Siege of Orléans.
 <br/><br/>
-En 1758 : The Marathas defeat the Afghans in the Battle of Attock and capture the city.
+En 1091 : Battle of Levounion: The Pechenegs are defeated by Byzantine Emperor Alexios I Komnenos.
 <br/><br/>
-En 1625 : A combined Spanish and Portuguese fleet of 52 ships commences the recapture of Bahia from the Dutch during the Dutch–Portuguese War.
-<br/><br/>
-En 1611 : Establishment of the Pontifical and Royal University of Santo Tomas, the Catholic University of the Philippines and the largest Catholic university in the world.
-<br/><br/>
-En 1503 : The Battle of Cerignola is fought. It is noted as one of the first European battles in history won by small arms fire using gunpowder.
-<br/><br/>
-En 1294 : Temür, grandson of Kublai, is elected Khagan of the Mongols with the reigning title Oljeitu.
-<br/><br/>
-En 1253 : Nichiren, a Japanese Buddhist monk, propounds Namu Myōhō Renge Kyō for the first time and declares it to be the essence of Buddhism, in effect founding Nichiren Buddhism.
-<br/><br/>
-En 1192 : Assassination of Conrad of Montferrat (Conrad I), King of Jerusalem, in Tyre, two days after his title to the throne is confirmed by election. The killing is carried out by Hashshashin.
-<br/><br/>
-En 357 : Emperor Constantius II enters Rome for the first time to celebrate his victory over Magnus Magnentius.
-<br/><br/>
-En 224 : The Battle of Hormozdgan is fought. Ardashir I defeats and kills Artabanus V, effectively ending the Parthian Empire.
+En 801 : An earthquake in the Central Apennines hits Rome and Spoleto, damaging the basilica of San Paolo Fuori le Mura.
 <br/><br/>
