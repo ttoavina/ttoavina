@@ -4,121 +4,95 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 1/5 ?(Hover on the year)</h1>
+<h1> What happen this day 2/5 ?(Hover on the year)</h1>
 
-En 2024 : The 2024 Loblaw boycott, a Canadian boycott against retail corporation and grocer Loblaw Companies, begins.
+En 2014 : Two mudslides in Badakhshan, Afghanistan, leave up to 2,500 people missing.
 <br/><br/>
-En 2019 : Naxalite attack in Gadchiroli district of India: Sixteen army soldiers, including a driver, killed in an IED blast. Naxals targeted an anti-Naxal operations team.
+En 2012 : A pastel version of The Scream, by Norwegian painter Edvard Munch, sells for $120 million in a New York City auction, setting a new world record for a work of art at auction.
 <br/><br/>
-En 2019 : Naruhito ascends to the throne of Japan succeeding his father Akihito, beginning the Reiwa period.
+En 2011 : Osama bin Laden, the suspected mastermind behind the September 11 attacks and the FBI's most wanted man, is killed by the United States Navy SEALs in Abbottabad, Pakistan.
 <br/><br/>
-En 2018 : Syrian civil war: The Syrian Democratic Forces (SDF) resumes the Deir ez-Zor campaign in order to clear the remnants of the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border.
+En 2011 : An E. coli outbreak strikes Europe, mostly in Germany, leaving more than 30 people dead and many others are taken ill.
 <br/><br/>
-En 2011 : Pope John Paul II is beatified by his successor, Pope Benedict XVI.
+En 2008 : Cyclone Nargis makes landfall in Burma killing over 138,000 people and leaving millions of people homeless.
 <br/><br/>
-En 2010 : Faisal Shahzad attempts to detonate a car bomb in Times Square, but the bomb fails to go off.
+En 2008 : Chaitén Volcano begins erupting in Chile, forcing the evacuation of more than 4,500 people.
 <br/><br/>
-En 2009 : Same-sex marriage is legalized in Sweden.
+En 2004 : The Yelwa massacre concludes. It began on 4 February 2004 when armed Muslims killed 78 Christians at Yelwa, Nigeria. In response, about 630 Muslims were killed by Christians on May 2.
 <br/><br/>
-En 2004 : Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia join the European Union, celebrated at the residence of the Irish President in Dublin.
+En 2000 : President Bill Clinton announces that accurate GPS access would no longer be restricted to the United States military.
 <br/><br/>
-En 2003 : Invasion of Iraq: In what becomes known as the "Mission Accomplished" speech, on board the USS Abraham Lincoln (off the coast of California), U.S. President George W. Bush declares that "major combat operations in Iraq have ended".
+En 1999 : Panamanian general election: Mireya Moscoso becomes the first woman to be elected President of Panama.
 <br/><br/>
-En 1999 : The body of British climber George Mallory is found on Mount Everest, 75 years after his disappearance in 1924.
+En 1998 : The European Central Bank is founded in Brussels in order to define and execute the European Union's monetary policy.
 <br/><br/>
-En 1997 : Labour Party wins the 1997 General Election and Tony Blair is elected as Prime Minister
+En 1995 : During the Croatian War of Independence, the Army of the Republic of Serb Krajina fires cluster bombs at Zagreb, killing seven and wounding over 175 civilians.
 <br/><br/>
-En 1994 : Three-time Formula One champion Ayrton Senna is killed in an accident during the San Marino Grand Prix.
+En 1989 : Cold War: Hungary begins dismantling its border fence with Austria, which allows a number of East Germans to defect.
 <br/><br/>
-En 1993 : Sri Lankan President Ranasinghe Premadasa is assassinated in Colombo in a suicide bombing carried out by the Liberation Tigers of Tamil Eelam.
+En 1986 : Chernobyl disaster: The City of Chernobyl is evacuated six days after the disaster.
 <br/><br/>
-En 1991 : Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon.
+En 1982 : Falklands War: The British nuclear submarine HMS Conqueror sinks the Argentine cruiser ARA General Belgrano.
 <br/><br/>
-En 1982 : Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during Falklands War.
+En 1972 : In the early morning hours a fire breaks out at the Sunshine Mine located between Kellogg and Wallace, Idaho, killing 91 workers.
 <br/><br/>
-En 1978 : Japan's Naomi Uemura, travelling by dog sled, becomes the first person to reach the North Pole alone.
+En 1970 : ALM Flight 980 ditches in the Caribbean Sea near Saint Croix, killing 23.
 <br/><br/>
-En 1975 : The Särkänniemi Amusement Park opens in Tampere, Finland.
+En 1969 : The British ocean liner Queen Elizabeth 2 departs on her maiden voyage to New York City.
 <br/><br/>
-En 1971 : Amtrak (the National Railroad Passenger Corporation) takes over operation of U.S. passenger rail service.
+En 1964 : Vietnam War: An explosion sinks the American aircraft carrier USNS Card while it is docked at Saigon. Two Viet Cong combat swimmers had placed explosives on the ship's hull. She is raised and returned to service less than seven months later.
 <br/><br/>
-En 1970 : Vietnam War: Protests erupt in response to U.S. and South Vietnamese forces attacking Vietnamese communists in a Cambodian Campaign.
+En 1964 : First ascent of Shishapangma, the fourteenth highest mountain in the world and the lowest of the Eight-thousanders.
 <br/><br/>
-En 1961 : The Prime Minister of Cuba, Fidel Castro, proclaims Cuba a socialist nation and abolishes elections.
+En 1963 : Berthold Seliger launches a rocket with three stages and a maximum flight altitude of more than 100 kilometres (62 mi) near Cuxhaven. It is the only sounding rocket developed in Germany.
 <br/><br/>
-En 1960 : Cold War: U-2 incident: Francis Gary Powers, in a Lockheed U-2 spyplane, is shot down over the Sverdlovsk Oblast, Soviet Union, sparking a diplomatic crisis.
+En 1952 : A De Havilland Comet makes the first jetliner flight with fare-paying passengers, from London to Johannesburg.
 <br/><br/>
-En 1957 : A Vickers VC.1 Viking crashes while attempting to return to Blackbushe Airport in Yateley, killing 34.
+En 1945 : World War II: The Soviet Union announces the fall of Berlin.
 <br/><br/>
-En 1956 : The polio vaccine developed by Jonas Salk is made available to the public.
+En 1945 : World War II: The surrender of Caserta comes into effect, by which German troops in Italy cease fighting.
 <br/><br/>
-En 1947 : Portella della Ginestra massacre against May Day celebrations in Sicily by the bandit and separatist leader Salvatore Giuliano where 11 persons are killed and 33 wounded.
+En 1945 : World War II: The US 82nd Airborne Division liberates Wöbbelin concentration camp finding 1,000 dead prisoners, most of whom starved to death.
 <br/><br/>
-En 1946 : Start of three-year Pilbara strike of Indigenous Australians.
+En 1945 : World War II: A death march from Dachau to the Austrian border is halted by the segregated, all-Nisei 522nd Field Artillery Battalion of the U.S. Army in southern Bavaria, saving several hundred prisoners.
 <br/><br/>
-En 1945 : World War II: German radio broadcasts news of Adolf Hitler's death, falsely stating that he has "fallen at his command post in the Reich Chancellery fighting to the last breath against Bolshevism and for Germany". The Soviet flag is raised over the Reich Chancellery, by order of Stalin.
+En 1941 : World War II: Following the coup d'état against Iraq Crown Prince 'Abd al-Ilah earlier that year, the United Kingdom launches the Anglo-Iraqi War to restore him to power.
 <br/><br/>
-En 1945 : World War II: Up to 2,500 people die in a mass suicide in Demmin following the advance of the Red Army.
+En 1933 : Germany's independent labor unions are replaced by the German Labour Front.
 <br/><br/>
-En 1931 : The Empire State Building is dedicated in New York City.
+En 1920 : The first game of the Negro National League baseball is played in Indianapolis.
 <br/><br/>
-En 1930 : "Pluto" is officially proposed for the name of the newly discovered dwarf planet by Vesto Slipher in the Lowell Observatory Observation Circular. The name quickly catches on.
+En 1906 : Closing ceremony of the Intercalated Games in Athens, Greece.
 <br/><br/>
-En 1929 : The 7.2 Mw  Kopet Dag earthquake shakes the Iran–Turkmenistan border region with a maximum Mercalli intensity of IX (Violent), killing up to 3,800 and injuring 1,121.
+En 1889 : Menelik II, Emperor of Ethiopia, signs the Treaty of Wuchale, giving Italy control over Eritrea.
 <br/><br/>
-En 1925 : The All-China Federation of Trade Unions is officially founded. Today it is the largest trade union in the world, with 134 million members.
+En 1885 : Cree and Assiniboine warriors win the Battle of Cut Knife, their largest victory over Canadian forces during the North-West Rebellion.
 <br/><br/>
-En 1921 : The Jaffa riots commence.
+En 1876 : The April Uprising breaks out in Ottoman Bulgaria.
 <br/><br/>
-En 1919 : German troops enter Munich to suppress the Bavarian Soviet Republic.
+En 1866 : Peruvian defenders fight off the Spanish fleet at the Battle of Callao.
 <br/><br/>
-En 1915 : RMS Lusitania departs from New York City on her 202nd, and final, crossing of the North Atlantic. Six days later, the ship is torpedoed off the coast of Ireland with the loss of 1,198 lives.
+En 1863 : American Civil War: Stonewall Jackson is wounded by friendly fire while returning to camp after reconnoitering during the Battle of Chancellorsville. He succumbs to pneumonia eight days later.
 <br/><br/>
-En 1900 : The Scofield Mine disaster kills over 200 men in Scofield, Utah in what is to date the fifth-worst mining accident in United States history.
+En 1829 : After anchoring nearby, Captain Charles Fremantle of HMS Challenger, declares the Swan River Colony in Australia.
 <br/><br/>
-En 1898 : Spanish–American War: Battle of Manila Bay: The Asiatic Squadron of the United States Navy destroys the Pacific Squadron of the Spanish Navy after a seven-hour battle. Spain loses all seven of its ships, and 381 Spanish sailors die. There are no American vessel losses or combat deaths.
+En 1812 : The Siege of Cuautla during the Mexican War of Independence ends with both sides claiming victory.
 <br/><br/>
-En 1896 : Naser al-Din, Shah of Iran, is assassinated in Shah Abdol-Azim Shrine by Mirza Reza Kermani, a follower of Jamal al-Din al-Afghani.
+En 1808 : Outbreak of the Peninsular War: The people of Madrid rise up in rebellion against French occupation. Francisco de Goya later memorializes this event in his painting The Second of May 1808.
 <br/><br/>
-En 1894 : Coxey's Army, the first significant American protest march, arrives in Washington, D.C.
+En 1670 : King Charles II of England grants a permanent charter to the Hudson's Bay Company to open up the fur trade in North America.
 <br/><br/>
-En 1886 : Rallies are held throughout the United States demanding the eight-hour work day, culminating in the Haymarket affair in Chicago, in commemoration of which May 1 is celebrated as International Workers' Day in many countries.
+En 1625 : Afonso Mendes, appointed by Pope Gregory XV as Latin Patriarch of Ethiopia, arrives at Beilul from Goa.
 <br/><br/>
-En 1885 : The original Chicago Board of Trade Building opens for business.
+En 1611 : The King James Version of the Bible is published for the first time in London, England, by printer Robert Barker.
 <br/><br/>
-En 1866 : The Memphis Race Riots begin. Over three days, 46 blacks and two whites were killed. Reports of the atrocities influenced passage of the Fourteenth Amendment to the United States Constitution.
+En 1568 : Mary, Queen of Scots, escapes from Lochleven Castle.
 <br/><br/>
-En 1865 : The Empire of Brazil, Argentina, and Uruguay sign the Treaty of the Triple Alliance.
+En 1559 : John Knox returns from exile to Scotland to become the leader of the nascent Scottish Reformation.
 <br/><br/>
-En 1863 : American Civil War: The Battle of Chancellorsville between Robert E. Lee's Confederate Army of Northern Virginia and the Union Army of the Potomac under Joseph Hooker begins.
+En 1536 : Anne Boleyn, Queen of England, is arrested and imprisoned on charges of adultery, incest, treason and witchcraft.
 <br/><br/>
-En 1863 : American Civil War: During the Vicksburg campaign, Union forces under Ulysses S. Grant win at the Battle of Port Gibson and establish a firm presence on the east side of the Mississippi River.
+En 1230 : William de Braose is hanged by Prince Llywelyn the Great.
 <br/><br/>
-En 1851 : Queen Victoria opens The Great Exhibition at The Crystal Palace in London.
-<br/><br/>
-En 1846 : The few remaining Mormons left in Nauvoo, Illinois, formally dedicate the Nauvoo Temple.
-<br/><br/>
-En 1844 : Hong Kong Police Force, the world's second modern police force and Asia's first, is established.
-<br/><br/>
-En 1840 : The Penny Black, the first official adhesive postage stamp, is issued in the United Kingdom.
-<br/><br/>
-En 1820 : Execution of the Cato Street Conspirators, who plotted to kill the British Cabinet and Prime Minister Lord Liverpool.
-<br/><br/>
-En 1807 : The Slave Trade Act 1807 takes effect, abolishing the slave trade within the British Empire.
-<br/><br/>
-En 1753 : Publication of Species Plantarum by Linnaeus, and the formal start date of plant taxonomy adopted by the International Code of Botanical Nomenclature.
-<br/><br/>
-En 1707 : The Act of Union joining England and Scotland to form the Kingdom of Great Britain takes effect.
-<br/><br/>
-En 1669 : Henry Morgan's raid on Lake Maracaibo, the Spanish Armada de Barlovento is defeated by an English Privateer fleet led by Captain Henry Morgan.
-<br/><br/>
-En 1486 : Christopher Columbus presents his plans discovering a western route to the Indies to the Spanish Queen Isabella I of Castile.
-<br/><br/>
-En 1328 : Wars of Scottish Independence end: By the Treaty of Edinburgh–Northampton, England recognises Scotland as an independent state.
-<br/><br/>
-En 1169 : Norman mercenaries land at Bannow Bay in Leinster, marking the beginning of the Norman invasion of Ireland.
-<br/><br/>
-En 880 : The Nea Ekklesia is inaugurated in Constantinople, setting the model for all later cross-in-square Orthodox churches.
-<br/><br/>
-En 305 : Diocletian and Maximian retire from the office of Roman emperor.
+En 1194 : King Richard I of England gives Portsmouth its first royal charter.
 <br/><br/>
