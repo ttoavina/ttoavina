@@ -4,73 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 11/5 ?(Hover on the year)</h1>
+<h1> What happen this day 12/5 ?(Hover on the year)</h1>
 
-En 2024 : Start/Middle of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+En 2024 : Middle/End of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
 <br/><br/>
-En 2024 : The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland wins with their song "The Code", making them the contest's first non-binary winner.
+En 2018 : Paris knife attack: A man is fatally shot by police in Paris after killing one and injuring several others.
 <br/><br/>
-En 2022 : The Burmese military executes at least 37 villagers during the Mon Taing Pin massacre in Sagaing, Myanmar.
+En 2017 : The WannaCry ransomware attack impacts over 400,000 computers worldwide, targeting computers of the United Kingdom's National Health Services and Telefónica computers.
 <br/><br/>
-En 2022 : Palestinian-American journalist Shireen Abu Akleh is killed while covering a raid in Jenin. Israel eventually admitted and apologized for the murder, after initial denials.
+En 2015 : A train derailment in Philadelphia, United States, kills eight people and injures more than 200.
 <br/><br/>
-En 2016 : One hundred and ten people are killed in an ISIL bombing in Baghdad.
+En 2015 : Massive Nepal earthquake kills 218 people and injures more than 3,500.
 <br/><br/>
-En 2014 : Fifteen people are killed and 46 injured in Kinshasa, DRC, in a stampede caused by tear gas being thrown into soccer stands by police officers.
+En 2010 : Afriqiyah Airways Flight 771 crashes on final approach to Tripoli International Airport in Tripoli, Libya, killing 103 out of the 104 people on board.
 <br/><br/>
-En 2013 : Fifty-two people are killed in a bombing in Reyhanlı, Turkey.
+En 2008 : An earthquake (measuring around 8.0 magnitude) occurs in Sichuan, China, killing over 69,000 people.
 <br/><br/>
-En 2011 : An earthquake of magnitude 5.1 hits Lorca, Spain.
+En 2008 : U.S. Immigration and Customs Enforcement conducts the largest-ever raid of a workplace in Postville, Iowa, arresting nearly 400 immigrants for identity theft and document fraud.
 <br/><br/>
-En 2011 : The Istanbul Convention is signed in Istanbul, Turkey.
+En 2006 : Mass unrest by the Primeiro Comando da Capital begins in São Paulo (Brazil), leaving at least 150 dead.
 <br/><br/>
-En 2010 : David Cameron takes office as Prime Minister of the United Kingdom as the Conservatives and Liberal Democrats form the country's first coalition government since the Second World War.
+En 2006 : Iranian Azeris interpret a cartoon published in an Iranian magazine as insulting, resulting in massive riots throughout the country.
 <br/><br/>
-En 2009 : An American soldier in Iraq opens fire on a counseling center at Camp Liberty in Baghdad, killing five other US soldiers and wounding three.
+En 2003 : The Riyadh compound bombings in Saudi Arabia, carried out by al-Qaeda, kill 39 people.
 <br/><br/>
-En 2009 : Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.
+En 2002 : Former US President Jimmy Carter arrives in Cuba for a five-day visit with Fidel Castro, becoming the first President of the United States, in or out of office, to visit the island since the Cuban Revolution.
 <br/><br/>
-En 2000 : Second Chechen War: Chechen separatists ambush Russian paramilitary forces in the Republic of Ingushetia.
+En 1989 : The San Bernardino train disaster kills four people, only to be followed a week later by an underground gasoline pipeline explosion, which kills two more people.
 <br/><br/>
-En 1998 : India conducts three underground atomic tests in Pokhran.
+En 1982 : During a procession outside the shrine of the Virgin Mary in Fátima, Portugal, security guards overpower Juan María Fernández y Krohn before he can attack Pope John Paul II with a bayonet.
 <br/><br/>
-En 1997 : Deep Blue, a chess-playing supercomputer, defeats Garry Kasparov in the last game of the rematch, becoming the first computer to beat a world-champion chess player in a classic match format.
+En 1978 : In Zaire, rebels occupy the city of Kolwezi, the mining center of the province of Shaba (now known as Katanga); the local government asks the US, France and Belgium to restore order.
 <br/><br/>
-En 1996 : After the aircraft's departure from Miami, a fire started by improperly handled chemical oxygen generators in the cargo hold of Atlanta-bound ValuJet Airlines Flight 592 causes the Douglas DC-9 to crash in the Florida Everglades, killing all 110 on board.
+En 1975 : Indochina Wars: Democratic Kampuchea naval forces capture the SS Mayaguez.
 <br/><br/>
-En 1987 : Klaus Barbie goes on trial in Lyon for war crimes committed during World War II.
+En 1968 : Vietnam War: North Vietnamese and Viet Cong forces attack Australian troops defending Fire Support Base Coral.
 <br/><br/>
-En 1985 : Fifty-six spectators die and more than 200 are injured in the Bradford City stadium fire.
+En 1965 : The Soviet spacecraft Luna 5 crashes on the Moon.
 <br/><br/>
-En 1973 : Citing government misconduct, Daniel Ellsberg's charges for his involvement in releasing the Pentagon Papers to The New York Times are dismissed.
+En 1949 : Cold War: The Soviet Union lifts its blockade of Berlin.
 <br/><br/>
-En 1973 : Aeroflot Flight 6551 crashes in Semey, Kazakh Soviet Socialist Republic (now Kazakhstan), killing all 63 aboard.
+En 1942 : World War II: Second Battle of Kharkov: In eastern Ukraine, Red Army forces under Marshal Semyon Timoshenko launch a major offensive from the Izium bridgehead, only to be encircled and destroyed by the troops of Army Group South two weeks later.
 <br/><br/>
-En 1970 : The 1970 Lubbock tornado kills 26 and causes $250 million in damage.
+En 1942 : World War II: The U.S. tanker SS Virginia is torpedoed in the mouth of the Mississippi River by the German submarine U-507.
 <br/><br/>
-En 1919 : Uruguay becomes a signatory to the Buenos Aires copyright treaty.
+En 1941 : Konrad Zuse presents the Z3, the world's first working programmable, fully automatic computer, in Berlin.
 <br/><br/>
-En 1894 : Four thousand Pullman Palace Car Company workers go on a wildcat strike.
+En 1937 : The Duke and Duchess of York are crowned as King George VI and Queen Elizabeth of the United Kingdom in Westminster Abbey.
 <br/><br/>
-En 1889 : An attack upon a U.S. Army paymaster and escort results in the theft of over $28,000 and the award of two Medals of Honor.
+En 1933 : The Agricultural Adjustment Act, which restricts agricultural production through government purchase of livestock for slaughter and paying subsidies to farmers when they remove land from planting, is signed into law by President Franklin D. Roosevelt.
 <br/><br/>
-En 1880 : Seven people are killed in the Mussel Slough Tragedy, a gun battle in California.
+En 1933 : President Roosevelt signs legislation creating the Federal Emergency Relief Administration, the predecessor of the Federal Emergency Management Agency.
 <br/><br/>
-En 1857 : Indian Rebellion of 1857: Indian rebels seize Delhi from the British.
+En 1932 : Ten weeks after his abduction, Charles Jr., the infant son of Charles Lindbergh, is found dead near Hopewell, New Jersey, just a few miles from the Lindberghs' home.
 <br/><br/>
-En 1813 : William Lawson, Gregory Blaxland and William Wentworth discover a route across the Blue Mountains, opening up inland Australia to settlement.
+En 1926 : The Italian-built airship Norge becomes the first vessel to fly over the North Pole.
 <br/><br/>
-En 1812 : Prime Minister Spencer Perceval is assassinated by John Bellingham in the lobby of the British House of Commons.
+En 1926 : The 1926 United Kingdom general strike ends.
 <br/><br/>
-En 1713 : Great Northern War: After losing the Battle of Helsinki to the Russians, the Swedish and Finnish troops burn the entire city, so that it would not remain intact in the hands of the Russians.
+En 1885 : North-West Rebellion: The four-day Battle of Batoche, pitting rebel Métis against the Canadian government, comes to an end with a decisive rebel defeat.
 <br/><br/>
-En 1258 : Louis IX of France and James I of Aragon sign the Treaty of Corbeil, renouncing claims of feudal overlordship in one another's territories and separating the House of Barcelona from the politics of France.
+En 1881 : In North Africa, Tunisia becomes a French protectorate.
 <br/><br/>
-En 1068 : Matilda of Flanders, wife of William the Conqueror, is crowned Queen of England.
+En 1870 : The Manitoba Act is given the Royal Assent, paving the way for Manitoba to become a province of Canada on July 15.
 <br/><br/>
-En 973 : In the first coronation ceremony ever held for an English monarch, Edgar the Peaceful is crowned King of England, having ruled since 959 AD. His wife, Ælfthryth, is crowned queen, the first recorded coronation for a Queen of England.
+En 1865 : American Civil War: The Battle of Palmito Ranch: The first day of the last major land action to take place during the Civil War, resulting in a Confederate victory.
 <br/><br/>
-En 868 : A copy of the Diamond Sūtra is published,  making it the earliest dated and printed book known.
+En 1864 : American Civil War: The Battle of Spotsylvania Court House: Union troops assault a Confederate salient known as the "Mule Shoe", with some of the fiercest fighting of the war, much of it hand-to-hand combat, occurring at "the Bloody Angle" on the northwest.
 <br/><br/>
-En 330 : Constantine the Great dedicates the much-expanded and rebuilt city of Byzantium, changing its name to New Rome and declaring it the new capital of the Eastern Roman Empire.
+En 1863 : American Civil War: Battle of Raymond: Two divisions of James B. McPherson's XVII Corps turn the left wing of Confederate General John C. Pemberton's defensive line on Fourteen Mile Creek, opening up the interior of Mississippi to the Union Army during the Vicksburg Campaign.
+<br/><br/>
+En 1862 : American Civil War: Union Army troops occupy Baton Rouge, Louisiana.
+<br/><br/>
+En 1846 : The Donner Party of pioneers departs Independence, Missouri for California, on what will become a year-long journey of hardship and cannibalism.
+<br/><br/>
+En 1821 : The first major battle of the Greek War of Independence against the Turks is fought in Valtetsi.
+<br/><br/>
+En 1808 : Finnish War: Swedish-Finnish troops, led by Captain Karl Wilhelm Malmi, conquer the city of Kuopio from Russians after the Battle of Kuopio.
+<br/><br/>
+En 1797 : War of the First Coalition: Napoleon Bonaparte conquers Venice.
+<br/><br/>
+En 1780 : American Revolutionary War: In the largest defeat of the Continental Army, Charleston, South Carolina is taken by British forces.
+<br/><br/>
+En 1778 : Heinrich XI, count of the Principality of Reuss-Greiz, is elevated to Prince by Joseph II, Holy Roman Emperor.
+<br/><br/>
+En 1743 : Maria Theresa of Austria is crowned Queen of Bohemia after defeating her rival, Charles VII, Holy Roman Emperor.
+<br/><br/>
+En 1593 : London playwright Thomas Kyd is arrested and tortured by the Privy Council for libel.
+<br/><br/>
+En 1588 : French Wars of Religion: Henry III of France flees Paris after Henry I, Duke of Guise, enters the city and a spontaneous uprising occurs.
+<br/><br/>
+En 1551 : National University of San Marcos, the oldest university in the Americas, is founded in Lima, Peru.
+<br/><br/>
+En 1510 : The Prince of Anhua rebellion begins when Zhu Zhifan kills all the officials invited to a banquet and declares his intent on ousting the powerful Ming dynasty eunuch Liu Jin during the reign of the Zhengde Emperor.
+<br/><br/>
+En 1497 : Pope Alexander VI excommunicates Girolamo Savonarola.
+<br/><br/>
+En 1364 : Jagiellonian University, the oldest university in Poland, is founded in Kraków.
+<br/><br/>
+En 1328 : Antipope Nicholas V, a claimant to the papacy, is consecrated in Rome by the Bishop of Venice.
+<br/><br/>
+En 1191 : Richard I of England marries Berengaria of Navarre in Cyprus; she is crowned Queen consort of England the same day.
+<br/><br/>
+En 907 : Zhu Wen forces Emperor Ai into abdicating, ending the Tang dynasty after nearly three hundred years of rule.
+<br/><br/>
+En 254 : Pope Stephen I succeeds Pope Lucius I, becoming the 23rd pope of the Catholic Church, and immediately takes a stand against Novatianism.
 <br/><br/>
