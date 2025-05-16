@@ -4,115 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/5 ?(Hover on the year)</h1>
+<h1> What happen this day 16/5 ?(Hover on the year)</h1>
 
-En 2023 : The UN commemorates the Palestinian Nakba Day for the first time.
+En 2014 : Twelve people are killed in two explosions in the Gikomba market area of Nairobi, Kenya.
 <br/><br/>
-En 2013 : An upsurge in violence in Iraq leaves more than 389 people dead over three days.
+En 2011 : STS-134 (ISS assembly flight ULF6), launched from the Kennedy Space Center on the 25th and final flight for Space Shuttle Endeavour.
 <br/><br/>
-En 2010 : Jessica Watson becomes the youngest person to sail, non-stop and unassisted around the world solo.
+En 2005 : Kuwait permits women's suffrage in a 35–23 National Assembly vote.
 <br/><br/>
-En 2008 : California becomes the second U.S. state after Massachusetts in 2004 to legalize same-sex marriage after the state's own Supreme Court rules a previous ban unconstitutional.
+En 2003 : In Morocco, 33 civilians are killed and more than 100 people are injured in the Casablanca terrorist attacks.
 <br/><br/>
-En 2004 : Arsenal F.C. go an entire league campaign unbeaten in the English Premier League, joining Preston North End F.C. with the right to claim the title "The Invincibles".
+En 1997 : Mobutu Sese Seko, the President of Zaire, flees the country.
 <br/><br/>
-En 2001 : A CSX EMD SD40-2 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it was brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
+En 1991 : Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress.
 <br/><br/>
-En 1997 : The United States government acknowledges the existence of the "Secret War" in Laos and dedicates the Laos Memorial in honor of Hmong and other "Secret War" veterans.
+En 1988 : A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine.
 <br/><br/>
-En 1997 : The Space Shuttle Atlantis launches on STS-84 to dock with the Russian space station Mir.
+En 1975 : Junko Tabei from Japan becomes the first woman to reach the summit of Mount Everest.
 <br/><br/>
-En 1991 : Édith Cresson becomes France's first female Prime Minister.
+En 1974 : Josip Broz Tito is elected president for life of Yugoslavia.
 <br/><br/>
-En 1988 : Soviet–Afghan War: After more than eight years of fighting, the Soviet Army begins to withdraw 115,000 troops from Afghanistan.
+En 1972 : An Antonov An-24 crashes into a kindergarten building in Svetlogorsk, killing 35.
 <br/><br/>
-En 1976 : Aeroflot Flight 1802 crashes near Viktorivka, Chernihiv Raion, Chernihiv Oblast, killing 52.
+En 1969 : Venera program: Venera 5, a Soviet space probe, lands on Venus.
 <br/><br/>
-En 1974 : Ma'alot massacre: Members of the Democratic Front for the Liberation of Palestine attack and take hostages at an Israeli school; a total of 31 people are killed, including 22 schoolchildren.
+En 1966 : The Chinese Communist Party issues the "May 16 Notice", marking the beginning of the Cultural Revolution.
 <br/><br/>
-En 1972 : The Ryukyu Islands, under U.S. military governance since its conquest in 1945, reverts to Japanese control.
+En 1961 : Park Chung Hee leads a coup d'état to overthrow the Second Republic of South Korea.
 <br/><br/>
-En 1970 : President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
+En 1960 : Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.
 <br/><br/>
-En 1963 : Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone.
+En 1959 : The Tritons' Fountain in Valletta, Malta is turned on for the first time.
 <br/><br/>
-En 1957 : At Malden Island in the Pacific Ocean, Britain tests its first hydrogen bomb in Operation Grapple.
+En 1954 : Beginning of the Kengir uprising in the Gulag.
 <br/><br/>
-En 1948 : Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel thus starting the 1948 Arab–Israeli War.
+En 1951 : The first regularly scheduled transatlantic flights begin between Idlewild Airport (now John F Kennedy International Airport) in New York City and Heathrow Airport in London, operated by El Al Israel Airlines.
 <br/><br/>
-En 1945 : World War II: The Battle of Poljana, the final skirmish in Europe is fought near Prevalje, Slovenia.
+En 1945 : Beginning of the Levant Crisis between Britain and France in Syria. The latter try to quell nationalist protests but backs down after threat of military action by the British.
 <br/><br/>
-En 1943 : Joseph Stalin dissolves the Comintern (or Third International).
+En 1943 : The Holocaust: The Warsaw Ghetto Uprising ends.
 <br/><br/>
-En 1942 : World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law.
+En 1943 : Operation Chastise is undertaken by RAF Bomber Command with specially equipped Avro Lancasters to destroy the Mohne, Sorpe, and Eder dams in the Ruhr valley.
 <br/><br/>
-En 1941 : First flight of the Gloster E.28/39 the first British and Allied jet aircraft.
+En 1929 : In Hollywood, the first Academy Awards ceremony takes place.
 <br/><br/>
-En 1940 : USS Sailfish is recommissioned. It was originally the USS Squalus.
+En 1925 : The first modern performance of Claudio Monteverdi's opera Il ritorno d'Ulisse in patria occurred in Paris.
 <br/><br/>
-En 1940 : World War II: The Battle of the Netherlands: After fierce fighting, the poorly trained and equipped Dutch troops surrender to Germany, marking the beginning of five years of occupation.
+En 1920 : In Rome, Pope Benedict XV canonizes Joan of Arc.
 <br/><br/>
-En 1940 : Richard and Maurice McDonald open the first McDonald's restaurant.
+En 1919 : A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight.
 <br/><br/>
-En 1934 : A self coup by prime minister Kārlis Ulmanis succeeded in Latvia, suspending its constitution and dissolving its Saeima.
+En 1918 : The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later.
 <br/><br/>
-En 1933 : All military aviation organizations within or under the control of the RLM of Germany were officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
+En 1916 : The United Kingdom of Great Britain and Ireland and the French Third Republic sign the secret wartime Sykes-Picot Agreement partitioning former Ottoman territories such as Iraq and Syria.
 <br/><br/>
-En 1932 : In an attempted coup d'état, the Prime Minister of Japan Inukai Tsuyoshi is assassinated.
+En 1891 : The International Electrotechnical Exhibition opened in Frankfurt, Germany, featuring the world's first long-distance transmission of high-power, three-phase electric current (the most common form today).
 <br/><br/>
-En 1929 : A fire at the Cleveland Clinic in Cleveland, Ohio kills 123.
+En 1888 : Nikola Tesla delivers a lecture describing the equipment which will allow efficient generation and use of alternating currents to transmit electric power over long distances.
 <br/><br/>
-En 1919 : The Winnipeg general strike begins. By 11:00, almost the whole working population of Winnipeg had walked off the job.
+En 1877 : The 16 May 1877 crisis occurs in France, ending with the dissolution of the National Assembly 22 June and affirming the interpretation of the Constitution of 1875 as a parliamentary rather than presidential system. The elections held in October 1877 led to the defeat of the royalists as a formal political movement in France.
 <br/><br/>
-En 1919 : Greek occupation of Smyrna. During the occupation, the Greek army kills or wounds 350 Turks; those responsible are punished by Greek commander Aristides Stergiades.
+En 1874 : A flood on the Mill River in Massachusetts destroys much of four villages and kills 139 people.
 <br/><br/>
-En 1918 : The Finnish Civil War ends when the Whites took over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops.
+En 1868 : The United States Senate fails to convict President Andrew Johnson by one vote.
 <br/><br/>
-En 1916 : A seventeen-year-old farmworker, Jesse Washington, is infamously lynched in Waco, Texas, USA, after being convicted of rape and murder.
+En 1866 : The United States Congress establishes the nickel.
 <br/><br/>
-En 1911 : In Standard Oil Co. of New Jersey v. United States, the United States Supreme Court declares Standard Oil to be an "unreasonable" monopoly under the Sherman Antitrust Act and orders the company to be broken up.
+En 1863 : American Civil War: During the Vicksburg campaign, the decisive Union victory by Ulysses S. Grant at the Battle of Champion Hill drives the Confederate army under John C. Pemberton back towards Vicksburg, Mississippi.
 <br/><br/>
-En 1911 : More than 300 Chinese immigrants are killed in the Torreón massacre when the forces of the Mexican Revolution led by Emilio Madero take the city of Torreón from the Federales.
+En 1842 : The first major wagon train heading for the Pacific Northwest sets out on the Oregon Trail from Elm Grove, Missouri, with 100 pioneers.
 <br/><br/>
-En 1905 : The city of Las Vegas is founded in Nevada, United States.
+En 1834 : The Battle of Asseiceira is fought; it was the final and decisive engagement of the Liberal Wars in Portugal.
 <br/><br/>
-En 1891 : Pope Leo XIII defends workers' rights and property rights in the encyclical Rerum novarum, the beginning of modern Catholic social teaching.
+En 1832 : Juan Godoy discovers the rich silver outcrops of Chañarcillo sparking the Chilean silver rush.
 <br/><br/>
-En 1864 : American Civil War: Battle of New Market, Virginia: Students from the Virginia Military Institute fight alongside the Confederate army to force Union General Franz Sigel out of the Shenandoah Valley.
+En 1822 : Greek War of Independence: The Turks capture the Greek town of Souli.
 <br/><br/>
-En 1851 : The first Australian gold rush is proclaimed, although the discovery had been made three months earlier.
+En 1812 : Imperial Russia signs the Treaty of Bucharest, ending the Russo-Turkish War. The Ottoman Empire cedes Bessarabia to Russia.
 <br/><br/>
-En 1850 : The Arana–Southern Treaty is ratified, ending "the existing differences" between Great Britain and Argentina.
+En 1811 : Peninsular War: The allies Spain, Portugal and United Kingdom fight an inconclusive battle against the French at the Albuera. It is, in proportion to the numbers involved, the bloodiest battle of the war.
 <br/><br/>
-En 1849 : The Sicilian revolution of 1848 is finally extinguished.
+En 1777 : Continental Army officer Lachlan McIntosh fatally wounds Button Gwinnett, a signer of the United States Declaration of Independence, in a duel in Savannah, Georgia.
 <br/><br/>
-En 1836 : Francis Baily observes "Baily's beads" during an annular eclipse.
+En 1771 : The Battle of Alamance, a pre-American Revolutionary War battle between local militia and a group of rebels called The "Regulators", occurs in present-day Alamance County, North Carolina.
 <br/><br/>
-En 1817 : Opening of the first private mental health hospital in the United States, the Asylum for the Relief of Persons Deprived of the Use of Their Reason (now Friends Hospital, Philadelphia, Pennsylvania).
+En 1770 : The 14-year-old Marie Antoinette marries 15-year-old Louis-Auguste, who later becomes king of France.
 <br/><br/>
-En 1791 : French Revolution: Maximilien Robespierre proposes the Self-denying Ordinance.
+En 1739 : The Battle of Vasai concludes as the Marathas defeat the Portuguese army.
 <br/><br/>
-En 1725 : Bach leads the first performance of his cantata Ich bin ein guter Hirt, BWV 85, about Jesus as the Good Shepherd.
+En 1584 : Santiago de Vera becomes sixth governor-general of the Spanish colony of the Philippines.
 <br/><br/>
-En 1648 : The Peace of Münster is ratified, by which Spain acknowledges Dutch sovereignty.
+En 1568 : Mary, Queen of Scots, flees to England.
 <br/><br/>
-En 1618 : Johannes Kepler confirms his previously rejected discovery of the third law of planetary motion (he first discovered it on March 8 but soon rejected the idea after some initial calculations were made).
+En 1532 : Sir Thomas More resigns as Lord Chancellor of England.
 <br/><br/>
-En 1602 : Cape Cod is sighted by English navigator Bartholomew Gosnold.
+En 1527 : The Florentines drive out the Medici for a second time and Florence re-establishes itself as a republic.
 <br/><br/>
-En 1536 : Anne Boleyn, Queen of England, stands trial in London on charges of treason, adultery and incest; she is condemned to death by a specially-selected jury.
+En 1426 : Gov. Thado of Mohnyin becomes King of Ava.
 <br/><br/>
-En 1525 : Insurgent peasants led by Anabaptist pastor Thomas Müntzer were defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire.
+En 1364 : Hundred Years' War: Bertrand du Guesclin and a French army defeat the Anglo-Navarrese army of Charles the Bad at Cocherel.
 <br/><br/>
-En 1252 : Pope Innocent IV issues the papal bull ad extirpanda, which authorizes, but also limits, the torture of heretics in the Medieval Inquisition.
+En 1204 : Baldwin IX, Count of Flanders is crowned as the first Emperor of the Latin Empire.
 <br/><br/>
-En 1194 : Michael the Syrian reconsecrates the Mor Bar Sauma Monastery, which he reconstructed after its destruction by a fire. The monastery stays a center of the Syriac Orthodox Church until the end of the thirteenth century.
-<br/><br/>
-En 756 : Abd al-Rahman I, the founder of the Arab dynasty that ruled the greater part of Iberia for nearly three centuries, becomes emir of Cordova, Spain.
-<br/><br/>
-En 589 : King Authari marries Theodelinda, daughter of the Bavarian duke Garibald I. A Catholic, she has great influence among the Lombard nobility.
-<br/><br/>
-En 392 : Emperor Valentinian II is assassinated while advancing into Gaul against the Frankish usurper Arbogast. He is found hanging in his residence at Vienne.
-<br/><br/>
-En 221 : Liu Bei, Chinese warlord, proclaims himself emperor of Shu Han, the successor of the Han dynasty.
+En 946 : Emperor Suzaku abdicates the throne in favor of his brother Murakami who becomes the 62nd emperor of Japan.
 <br/><br/>
