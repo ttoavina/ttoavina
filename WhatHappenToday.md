@@ -4,117 +4,127 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/5 ?(Hover on the year)</h1>
+<h1> What happen this day 20/5 ?(Hover on the year)</h1>
 
-En 2024 : A helicopter crash in Iran leaves 8 people dead, including the country's president Ebrahim Raisi & foreign minister Hossein Amir-Abdollahian.
+En 2022 : Russo-Ukrainian War: Russia claims full control of the Ukrainian city of Mariupol after a nearly three-month siege.
 <br/><br/>
-En 2018 : The wedding of Prince Harry and Meghan Markle is held at St George's Chapel, Windsor, with an estimated global audience of 1.9 billion.
+En 2019 : The International System of Units (SI): The base units are redefined, making the international prototype of the kilogram obsolete.
 <br/><br/>
-En 2016 : EgyptAir Flight 804 crashes into the Mediterranean Sea while traveling from Paris to Cairo, killing all on board.
+En 2016 : The government of Singapore authorised the controversial execution of convicted murderer Kho Jabing for the murder of a Chinese construction worker despite the international pleas for clemency, notably from Amnesty International and the United Nations.
 <br/><br/>
-En 2015 : The Refugio oil spill deposited 142,800 U.S. gallons (3,400 barrels) of crude oil onto an area in California considered one of the most biologically diverse coastlines of the west coast.
+En 2013 : An EF5 tornado strikes the Oklahoma City suburb of Moore, killing 24 people and injuring 377 others.
 <br/><br/>
-En 2012 : Three gas cylinder bombs explode in front of a vocational school in the Italian city of Brindisi, killing one person and injuring five others.
+En 2012 : At least 27 people are killed and 50 others injured when a 6.0-magnitude earthquake strikes northern Italy.
 <br/><br/>
-En 2012 : A car bomb explodes near a military complex in the Syrian city of Deir ez-Zor, killing nine people.
+En 2011 : Mamata Banerjee is sworn in as the Chief Minister of West Bengal, the first woman to hold this post.
 <br/><br/>
-En 2010 : The Royal Thai Armed Forces concludes its crackdown on protests by forcing the surrender of United Front for Democracy Against Dictatorship leaders.
+En 2009 : An Indonesian Air Force Lockheed L-100 Hercules crashes in Magetan Regency, killing 99.
 <br/><br/>
-En 2007 : President of Romania Traian Băsescu survives an impeachment referendum and returns to office from suspension.
+En 2002 : The independence of East Timor is recognized by Portugal, formally ending 23 years of Indonesian rule and three years of provisional UN administration (Portugal itself is the former colonizer of East Timor until 1976).
 <br/><br/>
-En 2006 : The release of the WWE Films movie See No Evil and the corresponding storyline around WWE superstar Kane having a hatred of the day May 19th
+En 1996 : Civil rights: The Supreme Court of the United States rules in Romer v. Evans against a law that would have prevented any city, town or county in the state of Colorado from taking any legislative, executive, or judicial action to protect the rights of gays and lesbians.
 <br/><br/>
-En 2000 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-101 to resupply the International Space Station.
+En 1990 : The first post-Communist presidential and parliamentary elections are held in Romania.
 <br/><br/>
-En 1997 : The Sierra Gorda biosphere, the most ecologically diverse region in Mexico, is established as a result of grassroots efforts.
+En 1989 : The Chinese authorities declare martial law in the face of pro-democracy demonstrations, setting the scene for the Tiananmen Square massacre.
 <br/><br/>
-En 1996 : Space Shuttle program: Space Shuttle Endeavour is launched on mission STS-77.
+En 1985 : Radio Martí, part of the Voice of America service, begins broadcasting to Cuba.
 <br/><br/>
-En 1993 : SAM Colombia Flight 501 crashes on approach to José María Córdova International Airport in Medellín, Colombia, killing 132.
+En 1983 : First publications of the discovery of the HIV virus that causes AIDS in the journal Science by a team of French scientists including Françoise Barré-Sinoussi, Jean-Claude Chermann, and Luc Montagnier.
 <br/><br/>
-En 1991 : Croatians vote for independence in a referendum.
+En 1983 : Church Street bombing: A car bomb planted by UMkhonto we Sizwe explodes on Church Street in South Africa's capital, Pretoria, killing 19 people and injuring 217 others.
 <br/><br/>
-En 1986 : The Firearm Owners Protection Act is signed into law by U.S. President Ronald Reagan.
+En 1980 : In a referendum in Quebec, the population rejects, with 60% of the vote, a government proposal to move towards independence from Canada.
 <br/><br/>
-En 1971 : Mars probe program: Mars 2 is launched by the Soviet Union.
+En 1971 : In the Chuknagar massacre, Pakistani forces massacre thousands, mostly Bengali Hindus.
 <br/><br/>
-En 1963 : The New York Post Sunday Magazine publishes Martin Luther King Jr.'s Letter from Birmingham Jail.
+En 1969 : The Battle of Hamburger Hill in Vietnam ends.
 <br/><br/>
-En 1962 : A birthday salute to U.S. President John F. Kennedy takes place at Madison Square Garden, New York City. The highlight is Marilyn Monroe's rendition of "Happy Birthday".
+En 1967 : The Popular Movement of the Revolution political party is established in the Democratic Republic of the Congo.
 <br/><br/>
-En 1961 : Venera program: Venera 1 becomes the first man-made object to fly by another planet by passing Venus (the probe had lost contact with Earth a month earlier and did not send back any data).
+En 1965 : One hundred twenty-one people are killed when Pakistan International Airlines Flight 705 crashes at Cairo International Airport.
 <br/><br/>
-En 1961 : At Silchar Railway Station, Assam, 11 Bengalis die when police open fire on protesters demanding state recognition of Bengali language in the Bengali Language Movement.
+En 1964 : Discovery of the cosmic microwave background radiation by Robert Woodrow Wilson and Arno Penzias.
 <br/><br/>
-En 1959 : The North Vietnamese Army establishes Group 559, whose responsibility is to determine how to maintain supply lines to South Vietnam; the resulting route is the Ho Chi Minh trail.
+En 1958 : Capital Airlines Flight 300 collides in mid-air with a United States Air Force Lockheed T-33 over Brunswick, Maryland, killing 12.
 <br/><br/>
-En 1950 : A barge containing munitions destined for Pakistan explodes in the harbor at South Amboy, New Jersey, devastating the city.
+En 1956 : In Operation Redwing, the first United States airborne hydrogen bomb is dropped over Bikini Atoll in the Pacific Ocean.
 <br/><br/>
-En 1950 : Egypt announces that the Suez Canal is closed to Israeli ships and commerce.
+En 1949 : In the United States, the Armed Forces Security Agency, the predecessor to the National Security Agency, is established.
 <br/><br/>
-En 1945 : Syrian demonstrators in Damascus are fired upon by French troops injuring twelve, leading to the Levant Crisis.
+En 1948 : Generalissimo Chiang Kai-shek wins the 1948 Republic of China presidential election and is sworn in as the first President of the Republic of China at Nanjing.
 <br/><br/>
-En 1943 : Winston Churchill's second wartime address to the U.S. Congress
+En 1943 : The Luttra Woman, a bog body from the Early Neolithic period (radiocarbon-dated c. 3928–3651 BC), was discovered near Luttra, Sweden.
 <br/><br/>
-En 1942 : World War II: In the aftermath of the Battle of the Coral Sea, Task Force 16 heads to Pearl Harbor for repairs.
+En 1941 : World War II: Battle of Crete: German paratroops invade Crete.
 <br/><br/>
-En 1934 : Zveno and the Bulgarian Army engineer a coup d'état and install Kimon Georgiev as the new Prime Minister of Bulgaria.
+En 1940 : The Holocaust: The first prisoners arrive at a new concentration camp at Auschwitz.
 <br/><br/>
-En 1933 : Finnish cavalry general C. G. E. Mannerheim is appointed the field marshal.
+En 1932 : Amelia Earhart takes off from Newfoundland to begin the world's first solo nonstop flight across the Atlantic Ocean by a female pilot, landing in Ireland the next day.
 <br/><br/>
-En 1922 : The Young Pioneer Organization of the Soviet Union is established.
+En 1927 : Treaty of Jeddah: The United Kingdom recognizes the sovereignty of King Ibn Saud in the Kingdoms of Hejaz and Nejd, which later merge to become the Kingdom of Saudi Arabia.
 <br/><br/>
-En 1921 : The United States Congress passes the Emergency Quota Act establishing national quotas on immigration.
+En 1927 : Charles Lindbergh takes off for Paris from Roosevelt Field in Long Island, N.Y., aboard the Spirit of St. Louis on the first nonstop solo flight across the Atlantic Ocean, landing 33+1⁄2 hours later.
 <br/><br/>
-En 1919 : Mustafa Kemal Atatürk lands at Samsun on the Anatolian Black Sea coast, initiating what is later termed the Turkish War of Independence.
+En 1902 : Cuba gains independence from the United States. Tomás Estrada Palma becomes the country's first President.
 <br/><br/>
-En 1917 : The Norwegian football club Rosenborg BK is founded.
+En 1891 : History of cinema: The first public display of Thomas Edison's prototype kinetoscope.
 <br/><br/>
-En 1911 : Parks Canada, the world's first national park service, is established as the Dominion Parks Branch under the Department of the Interior.
+En 1883 : Krakatoa begins to erupt; the volcano explodes three months later, killing more than 36,000 people.
 <br/><br/>
-En 1900 : Great Britain annexes Tonga Island.
+En 1882 : The Triple Alliance between the German Empire, Austria-Hungary and the Kingdom of Italy is formed.
 <br/><br/>
-En 1900 : Second Boer War: British troops relieve Mafeking.
+En 1875 : Signing of the Metre Convention by 17 nations leading to the establishment of the International System of Units.
 <br/><br/>
-En 1883 : Buffalo Bill's first Buffalo Bill's Wild West opens in Omaha, Nebraska.
+En 1873 : Levi Strauss and Jacob Davis receive a U.S. patent for blue jeans with copper rivets.
 <br/><br/>
-En 1848 : Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million.
+En 1864 : American Civil War: Battle of Ware Bottom Church: In the Virginia Bermuda Hundred campaign, 10,000 troops fight in this Confederate victory.
 <br/><br/>
-En 1845 : Captain Sir John Franklin and his ill-fated Arctic expedition depart from Greenhithe, England.
+En 1862 : U.S. President Abraham Lincoln signs the Homestead Act into law, opening eighty-four million acres (340,000 km2) of public land to settlers.
 <br/><br/>
-En 1828 : U.S. President John Quincy Adams signs the Tariff of 1828 into law, protecting wool manufacturers in the United States.
+En 1861 : American Civil War: The state of Kentucky proclaims its neutrality, which will last until September 3 when Confederate forces enter the state.
 <br/><br/>
-En 1802 : Napoleon Bonaparte founds the Legion of Honour.
+En 1861 : American Civil War: The State of North Carolina secedes from the Union.
 <br/><br/>
-En 1780 : New England's Dark Day, an unusual darkening of the day sky, was observed over the New England states and parts of Canada.
+En 1813 : Napoleon Bonaparte leads his French troops into the Battle of Bautzen in Saxony, Germany, against the combined armies of Russia and Prussia. The battle ends the next day with a French victory.
 <br/><br/>
-En 1776 : American Revolutionary War: A Continental Army garrison surrenders in the Battle of The Cedars.
+En 1802 : By the Law of 20 May 1802, Napoleon Bonaparte reinstates slavery in the French colonies, revoking its abolition in the French Revolution.
 <br/><br/>
-En 1749 : King George II of Great Britain grants the Ohio Company a charter of land around the forks of the Ohio River.
+En 1775 : The Mecklenburg Declaration of Independence is allegedly signed in Charlotte, North Carolina.
 <br/><br/>
-En 1743 : Jean-Pierre Christin developed the centigrade temperature scale.
+En 1741 : The Battle of Cartagena de Indias ends in a Spanish victory and the British begin withdrawal towards Jamaica with substantial losses.
 <br/><br/>
-En 1655 : The Invasion of Jamaica begins during the Anglo-Spanish War.
+En 1714 : Johann Sebastian Bach leads the first performance of his cantata for Pentecost, Erschallet, ihr Lieder, BWV 172, at the chapel of Schloss Weimar.
 <br/><br/>
-En 1649 : An Act of Parliament declaring England a Commonwealth is passed by the Long Parliament. England would be a republic for the next eleven years.
+En 1645 : Yangzhou massacre: The ten day massacre of the residents of the city of Yangzhou, part of the Transition from Ming to Qing.
 <br/><br/>
-En 1643 : Thirty Years' War: French forces under the duc d'Enghien decisively defeat Spanish forces at the Battle of Rocroi, marking the symbolic end of Spain as a dominant land power.
+En 1631 : The city of Magdeburg in Germany is seized by forces of the Holy Roman Empire and most of its inhabitants massacred, in one of the bloodiest incidents of the Thirty Years' War.
 <br/><br/>
-En 1542 : The Prome Kingdom falls to the Taungoo Dynasty in present-day Myanmar.
+En 1609 : Shakespeare's sonnets are first published in London, perhaps illicitly, by the publisher Thomas Thorpe.
 <br/><br/>
-En 1536 : Anne Boleyn, the second wife of Henry VIII of England, is beheaded for adultery, treason, and incest.
+En 1570 : Cartographer Abraham Ortelius issues Theatrum Orbis Terrarum, the first modern atlas.
 <br/><br/>
-En 1535 : French explorer Jacques Cartier sets sail on his second voyage to North America with three ships, 110 men, and Chief Donnacona's two sons (whom Cartier had kidnapped during his first voyage).
+En 1521 : Ignatius of Loyola is seriously wounded in the Battle of Pampeluna.
 <br/><br/>
-En 1499 : Catherine of Aragon is married by proxy to Arthur, Prince of Wales. Catherine is 13 and Arthur is 12.
+En 1520 : Hernan Cortés defeats Pánfilo de Narváez, sent by Spain to punish him for insubordination.
 <br/><br/>
-En 1445 : John II of Castile defeats the Infantes of Aragon at the First Battle of Olmedo.
+En 1498 : Portuguese explorer Vasco da Gama discovers the sea route to India when he arrives at Kozhikode (previously known as Calicut), India.
 <br/><br/>
-En 1051 : Henry I of France marries the Rus' princess, Anne of Kiev.
+En 1497 : John Cabot sets sail from Bristol, England, on his ship Matthew looking for a route to the west (other documents give a May 2 date).
 <br/><br/>
-En 934 : The Byzantine Empire reconquers Melitene under the leadership of John Kourkouas.
+En 1449 : The Battle of Alfarrobeira is fought, establishing the House of Braganza as a principal royal family of Portugal.
 <br/><br/>
-En 715 : Pope Gregory II is elected.
+En 1426 : King Mohnyin Thado formally ascends to the throne of Ava.[note 1]
 <br/><br/>
-En 639 : Ashina Jiesheshuai and his tribesmen assaulted Emperor Taizong at Jiucheng Palace.
+En 1293 : King Sancho IV of Castile creates the Estudio de Escuelas de Generales in Alcalá de Henares.
+<br/><br/>
+En 1217 : The Second Battle of Lincoln is fought near Lincoln, England, resulting in the defeat of Prince Louis of France by William Marshal, 1st Earl of Pembroke.
+<br/><br/>
+En 794 : While visiting the royal Mercian court at Sutton Walls with a view to marrying princess Ælfthryth, King Æthelberht II of East Anglia is taken captive and beheaded.
+<br/><br/>
+En 685 : The Battle of Dun Nechtain is fought between a Pictish army under King Bridei III and the invading Northumbrians under King Ecgfrith, who are decisively defeated.
+<br/><br/>
+En 491 : Empress Ariadne marries Anastasius I. The widowed Augusta is able to choose her successor for the Byzantine throne, after Zeno (late emperor) dies of dysentery.
+<br/><br/>
+En 325 : The First Council of Nicaea is formally opened, starting the first ecumenical council of the Christian Church.
 <br/><br/>
