@@ -4,147 +4,159 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 21/5 ?(Hover on the year)</h1>
+<h1> What happen this day 22/5 ?(Hover on the year)</h1>
 
-En 2024 : The Greenfield tornado kills 5 and injures 35 across rural Iowa, United States. Wind speeds in excess of 300 mph (480 km/h) are estimated from measurements for the third time in history.
+En 2021 : Hypothermia kills 21 runners in the 100 km (60-mile) Gansu ultramarathon disaster in China.
 <br/><br/>
-En 2017 : Ringling Bros. and Barnum & Bailey Circus performed their final show at Nassau Veterans Memorial Coliseum.
+En 2020 : Pakistan International Airlines Flight 8303 crashes in Model Colony near Jinnah International Airport in Karachi, Pakistan, killing 98 people.
 <br/><br/>
-En 2014 : Random killings occurred on the Bannan Line of the Taipei MRT, killing four and injuring 24.
+En 2017 : Twenty-two people are killed at an Ariana Grande concert in the 2017 Manchester Arena bombing.
 <br/><br/>
-En 2012 : A bus accident near Himara, Albania kills 13 people and injures 21 others.
+En 2017 : United States President Donald Trump visits the Church of the Holy Sepulchre in Jerusalem and becomes the first sitting U.S. president to visit the Western Wall.
 <br/><br/>
-En 2012 : A suicide bombing kills more than 120 people in Sana'a, Yemen.
+En 2015 : The Republic of Ireland becomes the first nation in the world to utilise a public referendum to legalise gay marriage.
 <br/><br/>
-En 2011 : Radio broadcaster Harold Camping predicted that the world would end on this date.
+En 2014 : General Prayut Chan-o-cha becomes interim leader of Thailand in a military coup d'état, following six months of political turmoil.
 <br/><br/>
-En 2010 : JAXA, the Japan Aerospace Exploration Agency, launches the solar-sail spacecraft IKAROS aboard an H-IIA rocket. The vessel would make a Venus flyby late in the year.
+En 2014 : An explosion occurs in Ürümqi, capital of China's far-western Xinjiang region, resulting in at least 43 deaths and 91 injuries.
 <br/><br/>
-En 2006 : The Republic of Montenegro holds a referendum proposing independence from the State Union of Serbia and Montenegro; 55% of Montenegrins vote for independence.
+En 2013 : Fusilier Lee Rigby is murdered by 2 Islamic extremists in Woolwich, Southeast London
 <br/><br/>
-En 2005 : The tallest roller coaster in the world, Kingda Ka opens at Six Flags Great Adventure in Jackson Township, New Jersey.
+En 2012 : Tokyo Skytree opens to the public. It is the tallest tower in the world (634 m), and the second tallest man-made structure on Earth after Burj Khalifa (829.8 m).
 <br/><br/>
-En 2003 : The 6.8 Mw  Boumerdès earthquake shakes northern Algeria with a maximum Mercalli intensity of X (Extreme). More than 2,200 people were killed and a moderate tsunami sank boats at the Balearic Islands.
+En 2012 : SpaceX COTS Demo Flight 2 launches a Dragon capsule on a Falcon 9 rocket in the first commercial flight to the International Space Station.
 <br/><br/>
-En 2001 : French Taubira law is enacted, officially recognizing the Atlantic slave trade and slavery as crimes against humanity.
+En 2011 : An EF5 tornado strikes Joplin, Missouri, killing 158 people and wreaking $2.8 billion in damages, the costliest and seventh-deadliest single tornado in U.S. history.
 <br/><br/>
-En 2000 : Nineteen people are killed in a plane crash in Wilkes-Barre, Pennsylvania.
+En 2010 : Air India Express Flight 812, a Boeing 737 crashes over a cliff upon landing at Mangalore, India, killing 158 of 166 people on board, becoming the deadliest crash involving a Boeing 737 until the crash of Lion Air Flight 610.
 <br/><br/>
-En 1998 : In Miami, five abortion clinics are attacked by a butyric acid attacker.
+En 2010 : Inter Milan beat Bayern Munich 2–0 in the UEFA Champions League final in Madrid, Spain to become the first, and so far only, Italian team to win the historic treble (Serie A, Coppa Italia, Champions League).
 <br/><br/>
-En 1998 : President Suharto of Indonesia resigns following the killing of students from Trisakti University earlier that week by security forces and growing mass protests in Jakarta against his ongoing corrupt rule.
+En 2002 : Civil rights movement: A jury in Birmingham, Alabama, convicts former Ku Klux Klan member Bobby Frank Cherry of the 1963 murder of four girls in the 16th Street Baptist Church bombing.
 <br/><br/>
-En 1996 : The ferry MV Bukoba sinks in Tanzanian waters on Lake Victoria, killing nearly 1,000.
+En 2000 : In Sri Lanka, over 150 Tamil rebels are killed over two days of fighting for control in Jaffna.
 <br/><br/>
-En 1996 : The seven Trappist monks of Tibhirine that were abducted on March 27 are killed under uncertain circumstances.
+En 1998 : A U.S. federal judge rules that U.S. Secret Service agents can be compelled to testify before a grand jury concerning the Lewinsky scandal involving President Bill Clinton.
 <br/><br/>
-En 1994 : The Democratic Republic of Yemen unsuccessfully attempts to secede from the Republic of Yemen; a war breaks out.
+En 1996 : The Burmese military regime jails 71 supporters of Aung San Suu Kyi in a bid to block a pro-democracy meeting.
 <br/><br/>
-En 1992 : After 30 seasons Johnny Carson hosted his penultimate episode and last featuring guests (Robin Williams and Bette Midler) of The Tonight Show.
+En 1994 : A worldwide trade embargo against Haiti goes into effect to punish its military rulers for not reinstating the country's ousted elected leader, Jean-Bertrand Aristide.
 <br/><br/>
-En 1991 : Former Indian Prime Minister Rajiv Gandhi is assassinated by a female suicide bomber near Madras.
+En 1992 : Bosnia and Herzegovina, Croatia and Slovenia join the United Nations.
 <br/><br/>
-En 1991 : Mengistu Haile Mariam, president of the People's Democratic Republic of Ethiopia, flees Ethiopia, effectively bringing the Ethiopian Civil War to an end.
+En 1990 : North and South Yemen are unified to create the Republic of Yemen.
 <br/><br/>
-En 1988 : Margaret Thatcher holds her controversial Sermon on the Mound before the General Assembly of the Church of Scotland.
+En 1987 : Hashimpura massacre occurs in Meerut, India.
 <br/><br/>
-En 1982 : Falklands War: A British amphibious assault during Operation Sutton leads to the Battle of San Carlos.
+En 1987 : First ever Rugby World Cup kicks off with New Zealand playing Italy at Eden Park in Auckland, New Zealand.
 <br/><br/>
-En 1981 : The Italian government releases the membership list of Propaganda Due, an illegal pseudo-Masonic lodge that was implicated in numerous Italian crimes and mysteries.
+En 1972 : Ceylon adopts a new constitution, becoming a republic and changing its name to Sri Lanka.
 <br/><br/>
-En 1981 : Transamerica Corporation agrees to sell United Artists to Metro-Goldwyn-Mayer for $380 million after the box office failure of the 1980 film Heaven's Gate.
+En 1972 : Over 400 women in Derry, Northern Ireland attack the offices of Sinn Féin following the shooting by the Irish Republican Army of a young British soldier on leave.
 <br/><br/>
-En 1979 : White Night riots in San Francisco following the manslaughter conviction of Dan White for the assassinations of George Moscone and Harvey Milk.
+En 1969 : Apollo 10's Lunar Module flies within 8.4 nautical miles (16 km) of the Moon's surface.
 <br/><br/>
-En 1976 : Twenty-nine people are killed in the Yuba City bus disaster in Martinez, California.
+En 1968 : The nuclear-powered submarine USS Scorpion sinks with 99 men aboard, 400 miles southwest of the Azores.
 <br/><br/>
-En 1972 : Michelangelo's Pietà in St. Peter's Basilica in Rome is damaged by a vandal, the mentally disturbed Hungarian geologist Laszlo Toth.
+En 1967 : Egypt closes the Straits of Tiran to Israeli shipping.
 <br/><br/>
-En 1969 : Civil unrest in Rosario, Argentina, known as Rosariazo, following the death of a 15-year-old student.
+En 1967 : L'Innovation department store in Brussels, Belgium, burns down, resulting in 323 dead or missing and 150 injured, the most devastating fire in Belgian history.
 <br/><br/>
-En 1966 : The Ulster Volunteer Force declares war on the Irish Republican Army in Northern Ireland.
+En 1964 : U.S. President Lyndon B. Johnson launches his Great Society program.
 <br/><br/>
-En 1961 : American civil rights movement: Alabama Governor John Malcolm Patterson declares martial law in an attempt to restore order after race riots break out.
+En 1963 : Greek left-wing politician Grigoris Lambrakis is clubbed over the head, causing his death five days later.
 <br/><br/>
-En 1951 : The opening of the Ninth Street Show, otherwise known as the 9th Street Art Exhibition: A gathering of a number of notable artists, and the stepping-out of the post war New York avant-garde, collectively known as the New York School.
+En 1962 : Continental Airlines Flight 11 crashes in Unionville, Missouri after bombs explode on board, killing 45.
 <br/><br/>
-En 1946 : Physicist Louis Slotin is fatally irradiated in a criticality incident during an experiment with the demon core at Los Alamos National Laboratory.
+En 1960 : The Great Chilean earthquake, measuring 9.5 on the moment magnitude scale, hits southern Chile, becoming the most powerful earthquake ever recorded.
 <br/><br/>
-En 1939 : The Canadian National War Memorial is unveiled by King George VI and Queen Elizabeth in Ottawa, Ontario, Canada.
+En 1958 : The 1958 riots in Ceylon become a watershed in the race relations of various ethnic communities of Sri Lanka. The total deaths are estimated at 300, mostly Tamils.
 <br/><br/>
-En 1937 : A Soviet station, North Pole-1, becomes the first scientific research settlement to operate on the drift ice of the Arctic Ocean.
+En 1957 : South Africa's government approves of racial separation in universities.
 <br/><br/>
-En 1936 : Sada Abe is arrested after wandering the streets of Tokyo for days with her dead lover's severed genitals in her handbag. Her story soon becomes one of Japan's most notorious scandals.
+En 1948 : Finnish President J. K. Paasikivi releases Yrjö Leino from his duties as interior minister in 1948 after the Finnish parliament adopted a motion of censure of Leino with connection to his illegal handing over of nineteen people to the Soviet Union in 1945.
 <br/><br/>
-En 1934 : Oskaloosa, Iowa, becomes the first municipality in the United States to fingerprint all of its citizens.
+En 1947 : Cold War: The Truman Doctrine goes into effect, aiding Turkey and Greece.
 <br/><br/>
-En 1932 : Bad weather forces Amelia Earhart to land in a pasture in Derry, Northern Ireland, and she thereby becomes the first woman to fly solo across the Atlantic Ocean.
+En 1943 : Joseph Stalin disbands the Comintern.
 <br/><br/>
-En 1927 : Charles Lindbergh touches down at Le Bourget Field in Paris, completing the world's first solo nonstop flight across the Atlantic Ocean.
+En 1942 : Mexico enters the Second World War on the side of the Allies.
 <br/><br/>
-En 1925 : The opera Doktor Faust, unfinished when composer Ferruccio Busoni died, is premiered in Dresden.
+En 1941 : During the Anglo-Iraqi War, British troops take Fallujah.
 <br/><br/>
-En 1924 : University of Chicago students Richard Loeb and Nathan Leopold, Jr. murder 14-year-old Bobby Franks in a "thrill killing".
+En 1939 : World War II: Germany and Italy sign the Pact of Steel.
 <br/><br/>
-En 1917 : The Imperial War Graves Commission is established through royal charter to mark, record, and maintain the graves and places of commemoration of the British Empire's military forces.
+En 1927 : Near Xining, China, an 8.3 magnitude earthquake causes 200,000 deaths in one of the world's most destructive earthquakes.
 <br/><br/>
-En 1917 : The Great Atlanta fire of 1917 causes $5.5 million in damages, destroying some 300 acres including 2,000 homes, businesses and churches, displacing about 10,000 people but leading to only one fatality (due to heart attack).
+En 1926 : Chiang Kai-shek replaces the communists in Kuomintang China.[vague]
 <br/><br/>
-En 1911 : President of Mexico Porfirio Díaz and the revolutionary Francisco Madero sign the Treaty of Ciudad Juárez to put an end to the fighting between the forces of both men, concluding the initial phase of the Mexican Revolution.
+En 1915 : Lassen Peak erupts with a powerful force, the only volcano besides Mount St. Helens to erupt in the contiguous U.S. during the 20th century.
 <br/><br/>
-En 1904 : The Fédération Internationale de Football Association (FIFA) is founded in Paris.
+En 1915 : Three trains collide in the Quintinshill rail disaster near Gretna Green, Scotland, killing 227 people and injuring 246.
 <br/><br/>
-En 1894 : The Manchester Ship Canal in the United Kingdom is officially opened by Queen Victoria, who later knights its designer Sir Edward Leader Williams.
+En 1906 : The Wright brothers are granted U.S. patent number 821,393 for their "Flying-Machine".
 <br/><br/>
-En 1881 : The American Red Cross is established by Clara Barton in Dansville, New York.
+En 1905 : The Sultan of the Ottoman Empire Abdul Hamid II establishes the Ullah millet for the Aromanians of the empire. For this reason, the Aromanian National Day is sometimes celebrated on this day, although most do so on May 23 instead, which is when this event was publicly announced.
 <br/><br/>
-En 1879 : War of the Pacific: Two Chilean ships blocking the harbor of Iquique (then belonging to Peru) battle two Peruvian vessels in the Battle of Iquique.
+En 1874 : Verdi's Requiem was first performed at San Marco in Milan on the first anniversary of Manzoni's death.
 <br/><br/>
-En 1871 : French troops invade the Paris Commune and engage its residents in street fighting. By the close of "Bloody Week", some 20,000 communards have been killed and 38,000 arrested.
+En 1872 : Reconstruction Era: President Ulysses S. Grant signs the Amnesty Act into law, restoring full civil and political rights to all but about 500 Confederate sympathizers.
 <br/><br/>
-En 1871 : Opening of the first rack railway in Europe, the Rigi Bahnen on Mount Rigi.
+En 1866 : Oliver Winchester founded the Winchester Repeating Arms
 <br/><br/>
-En 1864 : Russia declares an end to the Russo-Circassian War and many Circassians are forced into exile. The day is designated the Circassian Day of Mourning.
+En 1864 : American Civil War: After ten weeks, the Union Army's Red River Campaign ends in failure.
 <br/><br/>
-En 1864 : American Civil War: The Battle of Spotsylvania Court House ends.
+En 1863 : American Civil War: Union forces begin the Siege of Port Hudson which lasts 48 days, the longest siege in U.S. military history.
 <br/><br/>
-En 1864 : The Ionian Islands reunite with Greece.
+En 1856 : Congressman Preston Brooks of South Carolina severely beats Senator Charles Sumner of Massachusetts with a cane in the hall of the United States Senate for a speech Sumner had made regarding  Southerners and slavery.
 <br/><br/>
-En 1863 : American Civil War: The Union Army succeeds in closing off the last escape route from Port Hudson, Louisiana, in preparation for the coming siege.
+En 1849 : Future U.S. President Abraham Lincoln is issued a patent for an invention to lift boats, making him the only U.S. president to ever hold a patent.
 <br/><br/>
-En 1856 : Lawrence, Kansas is captured and burned by pro-slavery forces.
+En 1848 : Slavery is abolished in Martinique.
 <br/><br/>
-En 1851 : Slavery in Colombia is abolished.
+En 1846 : The Associated Press is formed in New York City as a non-profit news cooperative.
 <br/><br/>
-En 1809 : The first day of the Battle of Aspern-Essling between the Austrian army led by Archduke Charles and the French army led by Napoleon I of France sees the French attack across the Danube held.
+En 1840 : The penal transportation of British convicts to the New South Wales colony is abolished.
 <br/><br/>
-En 1799 : The end of the Siege of Acre (1799): Napoleon Bonaparte abandons his siege of the Ottoman city of Acre after two months. This was the turning point of Bonaparte's Egyptian campaign and one of the first major defeats he suffered in his military career.
+En 1826 : HMS Beagle departs on its first voyage.
 <br/><br/>
-En 1792 : A lava dome collapses on Mount Unzen, near the city of Shimbara on the Japanese island of Kyūshū, creating a deadly tsunami that killed nearly 15,000 people.
+En 1819 : SS Savannah leaves port at Savannah, Georgia, United States, on a voyage to become the first steamship to cross the Atlantic Ocean.
 <br/><br/>
-En 1758 : Ten-year-old Mary Campbell is abducted in Pennsylvania by Lenape during the French and Indian War. She is returned six and a half years later.
+En 1816 : A mob in Littleport, Cambridgeshire, England, riots over high unemployment and rising grain costs, and the riots spread to Ely the next day.
 <br/><br/>
-En 1725 : The Order of St. Alexander Nevsky is instituted in Russia by Empress Catherine I. It would later be discontinued and then reinstated by the Soviet government in 1942 as the Order of Alexander Nevsky.
+En 1809 : On the second and last day of the Battle of Aspern-Essling (near Vienna, Austria), Napoleon I is defeated in a major battle for the first time in his career, and repelled by an enemy army for the first time in a decade.
 <br/><br/>
-En 1703 : Daniel Defoe is imprisoned on charges of seditious libel.
+En 1807 : A grand jury indicts former Vice President of the United States Aaron Burr on a charge of treason.
 <br/><br/>
-En 1674 : The nobility elect John Sobieski King of Poland and Grand Duke of Lithuania.
+En 1804 : The Lewis and Clark Expedition officially begins as the Corps of Discovery departs from St. Charles, Missouri.
 <br/><br/>
-En 1660 : The Battle of Long Sault concludes after five days in which French colonial militia, with their Huron and Algonquin allies, are defeated by the Iroquois Confederacy.
+En 1766 : A large earthquake causes heavy damage and loss of life in Istanbul and the Marmara region.
 <br/><br/>
-En 1659 : In the Concert of The Hague, the Dutch Republic, the Commonwealth of England and the Kingdom of France set out their views on how the Second Northern War should end.
+En 1762 : Sweden and Prussia sign the Treaty of Hamburg.
 <br/><br/>
-En 1554 : Queen Mary I grants a royal charter to Derby School, as a grammar school for boys in Derby, England.
+En 1762 : Trevi Fountain is officially completed and inaugurated in Rome.
 <br/><br/>
-En 1403 : Henry III of Castile sends Ruy González de Clavijo as ambassador to Timur to discuss the possibility of an alliance between Timur and Castile against the Ottoman Empire.
+En 1629 : Holy Roman Emperor Ferdinand II and Danish King Christian IV sign the Treaty of Lübeck ending Danish intervention in the Thirty Years' War.
 <br/><br/>
-En 1349 : Dušan's Code, the constitution of the Serbian Empire, is enacted by Dušan the Mighty.
+En 1520 : The massacre at the festival of Tóxcatl takes place during the Fall of Tenochtitlan, resulting in turning the Aztecs against the Spanish.
 <br/><br/>
-En 996 : Sixteen-year-old Otto III is crowned Holy Roman Emperor.
+En 1455 : Start of the Wars of the Roses: At the First Battle of St Albans, Richard, Duke of York, defeats and captures King Henry VI of England.
 <br/><br/>
-En 879 : Pope John VIII gives blessings to Branimir of Croatia and to the Croatian people, considered to be international recognition of the Croatian state.
+En 1377 : Pope Gregory XI issues five papal bulls to denounce the doctrines of English theologian John Wycliffe.
 <br/><br/>
-En 878 : Syracuse, Sicily, is captured by the Muslim Aghlabids after a nine-month siege.
+En 1370 : Brussels massacre: An estimated 13 Jews are murdered and the rest of the Jewish community is banished from Brussels, Belgium, for allegedly desecrating consecrated Host.
 <br/><br/>
-En 293 : Roman Emperors Diocletian and Maximian appoint Galerius as Caesar to Diocletian, beginning the period of four rulers known as the Tetrarchy.
+En 1254 : Serbian King Stefan Uroš I and the Republic of Venice sign a peace treaty.
+<br/><br/>
+En 1246 : Henry Raspe is elected anti-king of the Kingdom of Germany in opposition to Conrad IV.
+<br/><br/>
+En 1200 : King John of England and King Philip II of France sign the Treaty of Le Goulet.
+<br/><br/>
+En 1176 : The Hashshashin (Assassins) attempt to assassinate Saladin near Aleppo.
+<br/><br/>
+En 853 : A Byzantine fleet sacks and destroys undefended Damietta in Egypt.
+<br/><br/>
+En 760 : Fourteenth recorded perihelion passage of Halley's Comet.
+<br/><br/>
+En 192 : Dong Zhuo is assassinated by his adopted son Lü Bu.
 <br/><br/>
