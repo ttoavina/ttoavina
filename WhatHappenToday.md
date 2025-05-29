@@ -4,93 +4,125 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 28/5 ?(Hover on the year)</h1>
+<h1> What happen this day 29/5 ?(Hover on the year)</h1>
 
-En 2017 : Former Formula One driver Takuma Sato wins his first Indianapolis 500, the first Japanese and Asian driver to do so. Double world champion Fernando Alonso retires from an engine issue in his first entry of the event.
+En 2022 : Tara Air Flight 197 crashes in Nepal's Mustang District, killing 22.
 <br/><br/>
-En 2016 : Harambe, a gorilla, is shot to death after grabbing a three-year-old boy in his enclosure at the Cincinnati Zoo and Botanical Garden, resulting in widespread criticism and sparking various internet memes.
+En 2021 : A Cessna Citation I/SP crashes into Percy Priest Lake in Tennessee, killing all six people on board, including actor Joe Lara and his wife Gwen Shamblin Lara.
 <br/><br/>
-En 2011 : Malta votes on the introduction of divorce; the proposal was approved by 53% of voters, resulting in a law allowing divorce under certain conditions being enacted later in the year.
+En 2020 : An oil spill in Norilsk releases 17,500 tons of diesel oil into nearby rivers.
 <br/><br/>
-En 2010 : In West Bengal, India, the Jnaneswari Express train derailment and subsequent collision kills 148 passengers.
+En 2015 : One World Observatory at One World Trade Center opens.
 <br/><br/>
-En 2008 : The first meeting of the Constituent Assembly of Nepal formally declares Nepal a republic, ending the 240-year reign of the Shah dynasty.
+En 2012 : A 5.8-magnitude earthquake hits northern Italy near Bologna, killing at least 24 people.
 <br/><br/>
-En 2004 : The Iraqi Governing Council chooses Ayad Allawi, a longtime anti-Saddam Hussein exile, as prime minister of Iraq's interim government.
+En 2008 : A doublet earthquake, of combined magnitude 6.1, strikes Iceland near the town of Selfoss, injuring 30 people.
 <br/><br/>
-En 2003 : Peter Hollingworth resigns as Governor-General of Australia following criticism of his handling of child sexual abuse allegations during his tenure as Anglican Archbishop of Brisbane.
+En 2005 : France rejects the Constitution of the European Union in a national referendum.
 <br/><br/>
-En 2002 : The last steel girder is removed from the original World Trade Center site. Cleanup duties officially end with closing ceremonies at Ground Zero in Manhattan, New York City.
+En 2004 : The National World War II Memorial is dedicated in Washington, D.C.
 <br/><br/>
-En 1999 : In Milan, Italy, after 22 years of restoration work, Leonardo da Vinci's masterpiece The Last Supper is put back on display.
+En 2001 : The U.S. Supreme Court rules that the disabled golfer Casey Martin can use a cart to ride in tournaments.
 <br/><br/>
-En 1998 : Nuclear testing: Pakistan responds to a series of nuclear tests by India with five of its own codenamed Chagai-I, prompting the United States, Japan, and other nations to impose economic sanctions. Pakistan celebrates Youm-e-Takbir annually.
+En 1999 : Olusegun Obasanjo takes office as President of Nigeria, the first elected and civilian head of state in Nigeria after 16 years of military rule.
 <br/><br/>
-En 1996 : U.S. President Bill Clinton's former business partners in the Whitewater land deal, Jim McDougal and Susan McDougal, and the Governor of Arkansas, Jim Guy Tucker, are convicted of fraud.
+En 1999 : Space Shuttle Discovery completes the first docking with the International Space Station.
 <br/><br/>
-En 1995 : The 7.0 Mw  Neftegorsk earthquake shakes the former Russian settlement of Neftegorsk with a maximum Mercalli intensity of IX (Violent). Total damage was $64.1–300 million, with 1,989 deaths and 750 injured. The settlement was not rebuilt.
+En 1993 : The Miss Sarajevo beauty pageant is held in war-torn Sarajevo drawing global attention to the plight of its citizens.
 <br/><br/>
-En 1991 : The capital city of Addis Ababa falls to the Ethiopian People's Revolutionary Democratic Front, ending both the Derg regime in Ethiopia and the Ethiopian Civil War.
+En 1990 : The Congress of People's Deputies of Russia elects Boris Yeltsin as President of the Russian Soviet Federative Socialist Republic.
 <br/><br/>
-En 1987 : An 18-year-old West German pilot, Mathias Rust, evades Soviet Union air defences and lands a private plane in Red Square in Moscow, Russia.
+En 1989 : Signing of an agreement between Egypt and the United States, allowing the manufacture of parts of the F-16 jet fighter plane in Egypt.
 <br/><br/>
-En 1979 : Konstantinos Karamanlis signs the full treaty of the accession of Greece with the European Economic Community.
+En 1988 : U.S. President Ronald Reagan begins his first visit to the Soviet Union when he arrives in Moscow for a superpower summit with the Soviet leader Mikhail Gorbachev.
 <br/><br/>
-En 1977 : In Southgate, Kentucky, the Beverly Hills Supper Club is engulfed in fire, killing 165 people inside.
+En 1985 : Heysel Stadium disaster: Thirty-nine association football fans die and hundreds are injured when a dilapidated retaining wall collapses.
 <br/><br/>
-En 1975 : Fifteen West African countries sign the Treaty of Lagos, creating the Economic Community of West African States.
+En 1985 : Amputee Steve Fonyo completes cross-Canada marathon at Victoria, British Columbia, after 14 months.
 <br/><br/>
-En 1974 : Northern Ireland's power-sharing Sunningdale Agreement collapses following a general strike by loyalists.
+En 1982 : Pope John Paul II becomes the first pontiff to visit Canterbury Cathedral.
 <br/><br/>
-En 1968 : Garuda Indonesian Airways Flight 892 crashes near Nala Sopara in India, killing 30.
+En 1982 : Falklands War: the British Army defeats the Argentine Army at the Battle of Goose Green.
 <br/><br/>
-En 1964 : The Palestine Liberation Organization (PLO) is founded, with Yasser Arafat elected as its first leader.
+En 1974 : SETA, a Finnish LGBT rights organisation, is founded in Helsinki.
 <br/><br/>
-En 1961 : Peter Benenson's article The Forgotten Prisoners is published in several internationally read newspapers. This will later be thought of as the founding of the human rights organization Amnesty International.
+En 1973 : Tom Bradley is elected the first black mayor of Los Angeles, California.
 <br/><br/>
-En 1958 : Cuban Revolution: Fidel Castro's 26th of July Movement, heavily reinforced by Frank Pais Militia, overwhelm an army post in El Uvero.
+En 1964 : The Arab League meets in East Jerusalem to discuss the Palestinian question, leading to the formation of the Palestine Liberation Organization.
 <br/><br/>
-En 1948 : Daniel François Malan is elected as Prime Minister of South Africa. He later goes on to implement Apartheid.
+En 1964 : Having deposed them in a January coup South Vietnamese leader Nguyễn Khánh had rival Generals Trần Văn Đôn and Lê Văn Kim convicted of "lax morality".
 <br/><br/>
-En 1940 : World War II: Belgium surrenders to Nazi Germany to end the Battle of Belgium.
+En 1953 : Edmund Hillary and Sherpa Tenzing Norgay become the first people to reach the summit of Mount Everest, on Tenzing Norgay's (adopted) 39th birthday.
 <br/><br/>
-En 1940 : World War II: Norwegian, French, Polish and British forces recapture Narvik in Norway. This is the first Allied infantry victory of the War.
+En 1950 : The St. Roch, the first ship to circumnavigate North America, arrives in Halifax, Nova Scotia, Canada.
 <br/><br/>
-En 1937 : Volkswagen, the German automobile manufacturer, is founded.
+En 1948 : United Nations Truce Supervision Organization is founded.
 <br/><br/>
-En 1936 : Alan Turing submits On Computable Numbers for publication.
+En 1947 : United Airlines Flight 521 crashes at LaGuardia Airport, killing 43.
 <br/><br/>
-En 1934 : Near Callander, Ontario, Canada, the Dionne quintuplets are born to Oliva and Elzire Dionne; they will be the first quintuplets to survive infancy.
+En 1945 : First combat mission of the Consolidated B-32 Dominator heavy bomber.
 <br/><br/>
-En 1932 : In the Netherlands, construction of the Afsluitdijk is completed and the Zuiderzee bay is converted to the freshwater IJsselmeer.
+En 1935 : First flight of the Messerschmitt Bf 109 fighter aeroplane.
 <br/><br/>
-En 1926 : The 28 May 1926 coup d'état: Ditadura Nacional is established in Portugal to suppress the unrest of the First Republic.
+En 1932 : World War I veterans begin to assemble in Washington, D.C., in the Bonus Army to request cash bonuses promised to them to be paid in 1945.
 <br/><br/>
-En 1918 : The Azerbaijan Democratic Republic and the First Republic of Armenia declare their independence.
+En 1931 : Michele Schirru, a citizen of the United States, is executed by a Royal Italian Army firing squad for intent to kill Benito Mussolini.
 <br/><br/>
-En 1907 : The first Isle of Man TT race is held.
+En 1920 : The Louth flood of 1920 was a severe flash flooding in the Lincolnshire market town of Louth, resulting in 23 fatalities in 20 minutes. It has been described as one of the most significant flood disasters in the United Kingdom during the 20th century.
 <br/><br/>
-En 1905 : Russo-Japanese War: The Battle of Tsushima ends with the destruction of the Russian Baltic Fleet by Admiral Tōgō Heihachirō and the Imperial Japanese Navy.
+En 1919 : Albert Einstein's theory of general relativity is tested (later confirmed) by Arthur Eddington and Andrew Claude de la Cherois Crommelin.
 <br/><br/>
-En 1892 : In San Francisco, John Muir organizes the Sierra Club.
+En 1918 : Armenia defeats the Ottoman Army in the Battle of Sardarabad.
 <br/><br/>
-En 1871 : The Paris Commune falls after two months.
+En 1914 : The Ocean liner RMS Empress of Ireland sinks in the Gulf of Saint Lawrence with the loss of 1,012 lives.
 <br/><br/>
-En 1830 : U.S. President Andrew Jackson signs the Indian Removal Act which denies Native Americans their land rights and forcibly relocates them.
+En 1913 : Igor Stravinsky's ballet score The Rite of Spring receives its premiere performance in Paris, France, provoking a riot.
 <br/><br/>
-En 1802 : In Guadeloupe, 400 rebellious slaves, led by Louis Delgrès, blow themselves up rather than submit to Napoleon's troops.
+En 1903 : In the May Coup, Alexander I, King of Serbia, and Queen Draga, are assassinated in Belgrade by the Black Hand (Crna Ruka) organization.
 <br/><br/>
-En 1754 : French and Indian War: In the first engagement of the war, Virginia militia under the 22-year-old Lieutenant colonel George Washington defeat a French reconnaissance party in the Battle of Jumonville Glen in what is now Fayette County in southwestern Pennsylvania.
+En 1900 : N'Djamena is founded as Fort-Lamy by the French commander Émile Gentil.
 <br/><br/>
-En 1644 : English Civil War: Bolton Massacre by Royalist troops under the command of James Stanley, 7th Earl of Derby.
+En 1886 : The pharmacist John Pemberton places his first advertisement for Coca-Cola, which appeared in The Atlanta Journal.
 <br/><br/>
-En 1588 : The Spanish Armada, with 130 ships and 30,000 men, sets sail from Lisbon, Portugal, heading for the English Channel. (It will take until May 30 for all ships to leave port.)
+En 1867 : The Austro-Hungarian Compromise of 1867 ("the Compromise") is born through Act 12, which establishes the Austro-Hungarian Empire.
 <br/><br/>
-En 1533 : The Archbishop of Canterbury, Thomas Cranmer, declares the marriage of King Henry VIII of England to Anne Boleyn valid.
+En 1864 : Emperor Maximilian I of Mexico arrives in Mexico for the first time.
 <br/><br/>
-En 1242 : Avignonet massacre: A group of Cathars, with the probable connivance of Count Raymond VII of Toulouse, murdered the inquisitor William Arnaud and eleven of his companions.
+En 1861 : The Hong Kong General Chamber of Commerce is founded, in Hong Kong.
 <br/><br/>
-En 621 : Battle of Hulao: Li Shimin, the son of the Chinese emperor Gaozu, defeats the numerically superior forces of Dou Jiande near the Hulao Pass (Henan). This victory decides the outcome of the civil war that followed the Sui dynasty's collapse in favour of the Tang dynasty.
+En 1852 : Jenny Lind leaves New York after her two-year American tour.
 <br/><br/>
-En -585 : A solar eclipse occurs, as predicted by the Greek philosopher and scientist Thales, while Alyattes is battling Cyaxares in the Battle of the Eclipse, leading to a truce. This is one of the cardinal dates from which other dates can be calculated. It is also the earliest event of which the precise date is known.
+En 1851 : Sojourner Truth delivers her famous Ain't I a Woman? speech at the Woman's Rights Convention in Akron, Ohio.
+<br/><br/>
+En 1825 : The Coronation of Charles X of France takes place in Reims Cathedral, the last ever coronation of a French monarch.
+<br/><br/>
+En 1807 : Mustafa IV became Sultan of the Ottoman Empire and Caliph of Islam.
+<br/><br/>
+En 1798 : United Irishmen Rebellion: Between 300 and 500 United Irishmen are executed as rebels by the British Army in County Kildare, Ireland.
+<br/><br/>
+En 1790 : Rhode Island becomes the last of North America's original Thirteen Colonies to ratify the Constitution and become one of the United States.
+<br/><br/>
+En 1780 : American Revolutionary War: At the Waxhaws Massacre, the British continue attacking after the Continentals lay down their arms, killing 113 and critically wounding all but 53 that remained.
+<br/><br/>
+En 1733 : The right of settlers in New France to enslave natives is upheld at Quebec City.
+<br/><br/>
+En 1660 : English Restoration: Charles II is restored to the throne of England, Scotland and Ireland.
+<br/><br/>
+En 1658 : Battle of Samugarh: decisive battle in the struggle for the throne during the Mughal war of succession (1658–1659).
+<br/><br/>
+En 1453 : Fall of Constantinople: Ottoman armies under Sultan Mehmed II capture Constantinople after a 53-day siege, ending the Roman Empire after over 2,000 years.
+<br/><br/>
+En 1416 : Battle of Gallipoli: The Venetians under Pietro Loredan defeat a much larger Ottoman fleet off Gallipoli.
+<br/><br/>
+En 1328 : Philip VI is crowned King of France.
+<br/><br/>
+En 1233 : Mongol–Jin war: The Mongols entered Kaifeng after a successful siege and began looting in the fallen capital of the Jin dynasty.
+<br/><br/>
+En 1176 : Battle of Legnano: The Lombard League defeats Emperor Frederick I.
+<br/><br/>
+En 1167 : Battle of Monte Porzio: A Roman army supporting Pope Alexander III is defeated by Christian of Buch and Rainald of Dassel.
+<br/><br/>
+En 1108 : Battle of Uclés: Almoravid troops under the command of Tamim ibn Yusuf defeat a Castile and León alliance under the command of Prince Sancho Alfónsez.
+<br/><br/>
+En 363 : The Roman emperor Julian defeats the Sasanian army in the Battle of Ctesiphon, under the walls of the Sasanian capital, but is unable to take the city.
 <br/><br/>
