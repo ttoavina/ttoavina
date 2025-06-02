@@ -4,141 +4,79 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 1/6 ?(Hover on the year)</h1>
+<h1> What happen this day 2/6 ?(Hover on the year)</h1>
 
-En 2015 : A ship carrying 458 people capsizes in the Yangtze river in China's Hubei province, killing 442 people.
+En 2023 : A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
 <br/><br/>
-En 2011 : A rare tornado outbreak occurs in New England; a strong EF3 tornado strikes Springfield, Massachusetts, during the event, killing four people.
+En 2022 : Following a request from Ankara, the United Nations officially changed the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
 <br/><br/>
-En 2011 : Space Shuttle Endeavour makes its final landing after 25 flights.
+En 2014 : Telangana officially becomes the 29th state of India, formed from ten districts of northwestern Andhra Pradesh.
 <br/><br/>
-En 2009 : Air France Flight 447 crashes into the Atlantic Ocean off the coast of Brazil on a flight from Rio de Janeiro to Paris. All 228 passengers and crew are killed.
+En 2012 : Former Egyptian President Hosni Mubarak is sentenced to life imprisonment for his role in the killing of demonstrators during the 2011 Egyptian revolution.
 <br/><br/>
-En 2009 : General Motors files for Chapter 11 bankruptcy. It is the fourth largest United States bankruptcy in history.
+En 2003 : Europe launches its first voyage to another planet, Mars. The European Space Agency's Mars Express probe launches from the Baikonur space center in Kazakhstan.
 <br/><br/>
-En 2008 : A fire on the back lot of Universal Studios breaks out, destroying the attraction King Kong Encounter and a large archive of master tapes for music and film, the full extent of which was not revealed until 2019.
+En 1998 : Space Shuttle Discovery is launched on STS-91, the final mission of the Shuttle-Mir program.
 <br/><br/>
-En 2004 : Oklahoma City bombing co-conspirator Terry Nichols is sentenced to 161 consecutive life terms without the possibility of parole.
+En 1997 : In Denver, Timothy McVeigh is convicted on 15 counts of murder and conspiracy for his role in the 1995 bombing of the Alfred P. Murrah Federal Building in Oklahoma City, in which 168 people died. He was executed four years later.
 <br/><br/>
-En 2001 : Nepalese royal massacre: Crown Prince Dipendra of Nepal shoots and kills several members of his family including his father and mother.
+En 1990 : The Lower Ohio Valley tornado outbreak spawns 66 confirmed tornadoes in Illinois, Indiana, Kentucky, and Ohio, killing 12.
 <br/><br/>
-En 2001 : Dolphinarium discotheque massacre: A Hamas suicide bomber kills 21 at a disco in Tel Aviv.
+En 1983 : After an emergency landing because of an in-flight fire, twenty-three passengers aboard Air Canada Flight 797 are killed when a flashover occurs as the plane's doors open. Because of this incident, numerous new safety regulations are put in place.
 <br/><br/>
-En 1999 : American Airlines Flight 1420 slides and crashes while landing at Little Rock National Airport, killing 11 people on a flight from Dallas to Little Rock.
+En 1979 : Pope John Paul II starts his first official visit to his native Poland, becoming the first Pope to visit a Communist country.
 <br/><br/>
-En 1994 : Republic of South Africa becomes a republic in the Commonwealth of Nations.
+En 1967 : Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States.
 <br/><br/>
-En 1993 : Dobrinja mortar attack: Thirteen are killed and 133 wounded when Serb mortar shells are fired at a soccer game in Dobrinja, west of Sarajevo.
+En 1967 : Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group Movement 2 June.
 <br/><br/>
-En 1990 : Cold War: George H. W. Bush and Mikhail Gorbachev sign a treaty to end chemical weapon production.
+En 1966 : Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
 <br/><br/>
-En 1988 : European Central Bank is founded in Brussels.
+En 1964 : The Palestine Liberation Organization (PLO) is formed.
 <br/><br/>
-En 1988 : The Intermediate-Range Nuclear Forces Treaty comes into effect.
+En 1962 : During the FIFA World Cup, police had to intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
 <br/><br/>
-En 1980 : Cable News Network (CNN) begins broadcasting.
+En 1955 : The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948.
 <br/><br/>
-En 1979 : The first black-led government of Rhodesia (now Zimbabwe) in 90 years takes power.
+En 1953 : The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation and one of the first major international events to be televised.
 <br/><br/>
-En 1978 : The first international applications under the Patent Cooperation Treaty are filed.
+En 1946 : Birth of the Italian Republic: In a referendum, Italians vote to turn Italy from a monarchy into a Republic. After the referendum, King Umberto II of Italy is exiled.
 <br/><br/>
-En 1976 : Aeroflot Flight 418 crashes in Bioko, Equatorial Guinea, killing 46.
+En 1941 : World War II: German paratroopers murder Greek civilians in the villages of Kondomari and Alikianos.
 <br/><br/>
-En 1975 : The Patriotic Union of Kurdistan was founded by Jalal Talabani, Nawshirwan Mustafa, Fuad Masum and others.
+En 1924 : U.S. President Calvin Coolidge signs the Indian Citizenship Act into law, granting citizenship to all Native Americans born within the territorial limits of the United States.
 <br/><br/>
-En 1974 : The Heimlich maneuver for rescuing choking victims is published in the journal Emergency Medicine.
+En 1919 : Anarchists simultaneously set off bombs in eight separate U.S. cities.
 <br/><br/>
-En 1964 : Kenya becomes a republic with Jomo Kenyatta  as its first President.
+En 1910 : Charles Rolls, a co-founder of Rolls-Royce Limited, becomes the first man to make a non-stop double crossing of the English Channel by plane.
 <br/><br/>
-En 1962 : Adolf Eichmann, former SS officer in Nazi Germany, is hanged in Israel for having committed crimes against humanity, war crimes, and other offenses.
+En 1909 : Alfred Deakin becomes Prime Minister of Australia for the third time.
 <br/><br/>
-En 1961 : The Canadian Bank of Commerce and Imperial Bank of Canada merge to form the Canadian Imperial Bank of Commerce, the largest bank merger in Canadian history.
+En 1896 : Guglielmo Marconi applies for a patent for his wireless telegraph.
 <br/><br/>
-En 1958 : Charles de Gaulle comes out of retirement to lead France by decree for six months.
+En 1866 : The Fenians defeat Canadian forces at Ridgeway and Fort Erie, but the raids end soon after.
 <br/><br/>
-En 1950 : The Declaration of Conscience speech, by U.S. Senator from Maine, Margaret Chase Smith, is delivered in response to Joseph R. McCarthy's speech at Wheeling, West Virginia.
+En 1848 : The Slavic Congress opens in Prague.
 <br/><br/>
-En 1950 : The Chinchaga fire ignites. By September, it would become the largest single fire on record in North America.
+En 1805 : Napoleonic Wars: A Franco-Spanish fleet recaptures from the British the island of Diamond Rock, which guards the entrance to the bay leading to Fort-de-France, Martinique.
 <br/><br/>
-En 1946 : Ion Antonescu, "Conducator" ("Leader") of Romania during World War II, is executed.
+En 1793 : French Revolution: François Hanriot, leader of the Parisian National Guard, arrests 22 Girondists selected by Jean-Paul Marat, setting the stage for the Reign of Terror.
 <br/><br/>
-En 1943 : BOAC Flight 777 is shot down over the Bay of Biscay by German Junkers Ju 88s, killing British actor Leslie Howard and leading to speculation that it was actually an attempt to kill British Prime Minister Winston Churchill.
+En 1780 : The anti-Catholic Gordon Riots in London leave an estimated 300 to 700 people dead.
 <br/><br/>
-En 1941 : World War II: The Battle of Crete ends as Crete capitulates to Germany.
+En 1774 : Intolerable Acts: The Quartering Act of 1774 is enacted, allowing a governor in colonial America to house British soldiers in uninhabited houses, outhouses, barns, or other buildings if suitable quarters are not provided.
 <br/><br/>
-En 1941 : The Farhud, a massive pogrom in Iraq, starts and as a result, many Iraqi Jews are forced to leave their homes.
+En 1763 : Pontiac's Rebellion: At what is now Mackinaw City, Michigan, Chippewas capture Fort Michilimackinac by diverting the garrison's attention with a game of lacrosse, then chasing a ball into the fort.
 <br/><br/>
-En 1939 : First flight of the German Focke-Wulf Fw 190 fighter aircraft.
+En 1692 : Bridget Bishop is the first person to be tried for witchcraft in Salem, Massachusetts; she was found guilty the same day and hanged on June 10.
 <br/><br/>
-En 1930 : The Deccan Queen is introduced as first intercity train between Bombay VT (Now Mumbai CST) and Poona (Pune) to run on electric locomotives.
+En 1676 : Franco-Dutch War: France ensured the supremacy of its naval fleet for the remainder of the war with its victory in the Battle of Palermo.
 <br/><br/>
-En 1929 : The 1st Conference of the Communist Parties of Latin America is held in Buenos Aires.
+En 1615 : The first Récollet missionaries arrive at Quebec City, from Rouen, France.
 <br/><br/>
-En 1922 : The Royal Ulster Constabulary is founded.
+En 1608 : The Colony of Virginia gets a charter, extending borders from "sea to sea".
 <br/><br/>
-En 1919 : Prohibition comes into force in Finland.
+En 1098 : First Crusade: The first Siege of Antioch ends as Crusader forces take the city; the second siege began five days later.
 <br/><br/>
-En 1918 : World War I: Western Front: Battle of Belleau Wood: Allied Forces under John J. Pershing and James Harbord engage Imperial German Forces under Wilhelm, German Crown Prince.
-<br/><br/>
-En 1916 : The United States Senate confirms the appointment of Louis Brandeis to the United States Supreme Court, making him the first Jew to be an Associate Justice.
-<br/><br/>
-En 1913 : The Greek–Serbian Treaty of Alliance is signed, paving the way for the Second Balkan War.
-<br/><br/>
-En 1890 : The United States Census Bureau begins using Herman Hollerith's tabulating machine to count census returns.
-<br/><br/>
-En 1879 : Napoléon Eugène, the last dynastic Bonaparte, is killed in the Anglo-Zulu War.
-<br/><br/>
-En 1868 : The Treaty of Bosque Redondo is signed, allowing the Navajo to return to their lands in Arizona and New Mexico.
-<br/><br/>
-En 1862 : American Civil War: Peninsula Campaign: The Battle of Seven Pines (or the Battle of Fair Oaks) ends inconclusively, with both sides claiming victory.
-<br/><br/>
-En 1861 : American Civil War: The Battle of Fairfax Court House is fought.
-<br/><br/>
-En 1857 : Charles Baudelaire's Les Fleurs du mal is published.
-<br/><br/>
-En 1857 : The Revolution of the Ganhadores begins in Salvador, Bahia, Brazil.
-<br/><br/>
-En 1855 : The American adventurer William Walker conquers Nicaragua.
-<br/><br/>
-En 1854 : Åland War: The British navy destroys merchant ships and about 16,000 tar barrels of the wholesale stocks area in Oulu, Grand Duchy of Finland.
-<br/><br/>
-En 1849 : Territorial Governor Alexander Ramsey declared the Territory of Minnesota officially established.
-<br/><br/>
-En 1831 : James Clark Ross becomes the first European at the North Magnetic Pole.
-<br/><br/>
-En 1815 : Napoleon promulgates a revised Constitution after it passes a plebiscite.
-<br/><br/>
-En 1813 : Capture of USS Chesapeake.
-<br/><br/>
-En 1812 : War of 1812: U.S. President James Madison asks the Congress to declare war on the United Kingdom.
-<br/><br/>
-En 1796 : Tennessee is admitted as the 16th state of the United States.
-<br/><br/>
-En 1794 : The battle of the Glorious First of June is fought, the first naval engagement between Britain and France during the French Revolutionary Wars.
-<br/><br/>
-En 1792 : Kentucky is admitted as the 15th state of the United States.
-<br/><br/>
-En 1779 : The court-martial for malfeasance of Benedict Arnold, a general in the Continental Army during the American Revolutionary War, begins.
-<br/><br/>
-En 1773 : Wolraad Woltemade rescues 14 sailors at the Cape of Good Hope from the sinking ship De Jonge Thomas by riding his horse into the sea seven times. Both he and his horse, Vonk, are drowned on his eighth attempt.
-<br/><br/>
-En 1679 : The Scottish Covenanters defeat John Graham of Claverhouse at the Battle of Drumclog.
-<br/><br/>
-En 1676 : Battle of Öland: allied Danish-Dutch forces defeat the Swedish navy in the Baltic Sea, during the Scanian War (1675–79).
-<br/><br/>
-En 1670 : In Dover, England, Charles II of England and Louis XIV of France sign the Secret Treaty of Dover, which will force England into the Third Anglo-Dutch War.
-<br/><br/>
-En 1649 : Start of the Sumuroy Revolt: Filipinos in Northern Samar led by Agustin Sumuroy revolt against Spanish colonial authorities.
-<br/><br/>
-En 1648 : The Roundheads defeat the Cavaliers at the Battle of Maidstone in the Second English Civil War.
-<br/><br/>
-En 1535 : Combined forces loyal to Charles V attack and expel the Ottomans from Tunis during the Conquest of Tunis.
-<br/><br/>
-En 1533 : Anne Boleyn is crowned Queen of England.
-<br/><br/>
-En 1495 : A monk, John Cor, records the first known batch of Scotch whisky.
-<br/><br/>
-En 1298 : Residents of Riga and the Grand Duchy of Lithuania defeat the Livonian Order in the Battle of Turaida.
-<br/><br/>
-En 1252 : Alfonso X is proclaimed king of Castile and León.
+En 455 : Sack of Rome: Vandals enter Rome, and plunder the city for two weeks.
 <br/><br/>
