@@ -4,83 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 6/6 ?(Hover on the year)</h1>
+<h1> What happen this day 7/6 ?(Hover on the year)</h1>
 
-En 2024 : The launch of SpaceX Starship integrated flight test 4 (IFT-4)
+En 2017 : A Myanmar Air Force Shaanxi Y-8 crashes into the Andaman Sea near Dawei, Myanmar, killing all 122 aboard.
 <br/><br/>
-En 2023 : Destruction of the Kakhovka Dam during the Russo-Ukrainian war.
+En 2000 : The United Nations defines the Blue Line as the border between Israel and Lebanon.
 <br/><br/>
-En 2017 : Syrian civil war: The Battle of Raqqa begins with an offensive by the Syrian Democratic Forces (SDF) to capture the city from the Islamic State of Iraq and the Levant (ISIL).
+En 1991 : Mount Pinatubo erupts, generating an ash column 7 kilometres (4.3 mi) high.
 <br/><br/>
-En 2002 : Eastern Mediterranean event. A near-Earth asteroid estimated at ten meters in diameter explodes over the Mediterranean Sea between Greece and Libya. The explosion is estimated to have a force of 26 kilotons, slightly more powerful than the Nagasaki atomic bomb.
+En 1989 : Surinam Airways Flight 764 crashes on approach to Paramaribo-Zanderij International Airport in Suriname because of pilot error, killing 176 of 187 aboard.
 <br/><br/>
-En 1994 : China Northwest Airlines Flight 2303 crashes near Xi'an Xianyang International Airport, killing all 160 people on board.
+En 1982 : Priscilla Presley opens Graceland to the public; the bathroom where Elvis Presley died five years earlier is kept off-limits.
 <br/><br/>
-En 1993 : Punsalmaagiin Ochirbat wins the first presidential election in Mongolia.
+En 1981 : The Israeli Air Force destroys Iraq's Osiraq nuclear reactor during Operation Opera.
 <br/><br/>
-En 1992 : Copa Airlines Flight 201 breaks apart in mid-air and crashes into the Darién Gap in Panama, killing all 47 aboard.
+En 1977 : Five hundred million people watch the high day of the Silver Jubilee of Queen Elizabeth II begin on television.
 <br/><br/>
-En 1985 : The grave of "Wolfgang Gerhard" is opened in Embu, Brazil; the exhumed remains are later proven to be those of Josef Mengele, Auschwitz's "Angel of Death"; Mengele is thought to have drowned while swimming in February 1979.
+En 1975 : Sony launches Betamax, the first videocassette recorder format.
 <br/><br/>
-En 1982 : The Lebanon War begins. Forces under Israeli Defense Minister Ariel Sharon invade southern Lebanon during Operation Peace for the Galilee, eventually reaching as far north as the capital Beirut.
+En 1971 : The United States Supreme Court overturns the conviction of Paul Cohen for disturbing the peace, setting the precedent that vulgar writing is protected under the First Amendment to the United States Constitution.
 <br/><br/>
-En 1976 : Chief Minister of Sabah Faud Stephens, Peter Joinud Mojuntin, and several other politicians are killed in a plane crash near Kota Kinabalu International Airport in Malaysia.
+En 1971 : The Alcohol, Tobacco, and Firearms Division of the U.S. Internal Revenue Service raids the home of Ken Ballew for illegal possession of hand grenades.
 <br/><br/>
-En 1975 : British referendum results in continued membership of the European Economic Community, with 67% of votes in favour.
+En 1971 : Allegheny Airlines Flight 485 crashes on approach to Tweed New Haven Airport in New Haven, Connecticut, killing 28 of 31 aboard.
 <br/><br/>
-En 1971 : Soyuz 11 is launched. The mission ends in disaster when all three cosmonauts, Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev are suffocated by uncontrolled decompression of the capsule during re-entry on 29 June.
+En 1967 : Six-Day War: Israeli soldiers enter Jerusalem.
 <br/><br/>
-En 1971 : Hughes Airwest Flight 706 collides with a McDonnell Douglas F-4 Phantom II of the United States Marine Corps over the San Gabriel Mountains, killing 50.
+En 1965 : The Supreme Court of the United States hands down its decision in Griswold v. Connecticut, prohibiting the states from criminalizing the use of contraception by married couples.
 <br/><br/>
-En 1966 : March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category.
+En 1962 : The Organisation Armée Secrète (OAS) sets fire to the University of Algiers library building, destroying about 500,000 books.
 <br/><br/>
-En 1944 : Commencement of Operation Overlord, the Allied invasion of Normandy, with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
+En 1955 : Lux Radio Theatre signs off the air permanently. The show launched in New York in 1934, and featured radio adaptations of Broadway shows and popular films.
 <br/><br/>
-En 1944 : Capture of the Caen canal and Orne river bridges by Allied paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
+En 1948 : Anti-Jewish riots in Oujda and Jerada take place.
 <br/><br/>
-En 1942 : The United States Navy's victory over the Imperial Japanese Navy at the Battle of Midway is a major turning point in the Pacific Theater of World War II. All four Japanese fleet carriers taking part—Akagi, Kaga, Sōryū and Hiryū—are sunk, as is the heavy cruiser Mikuma. The American carrier Yorktown and the destroyer Hammann are also sunk.
+En 1948 : Edvard Beneš resigns as President of Czechoslovakia rather than signing the Ninth-of-May Constitution, making his nation a Communist state.
 <br/><br/>
-En 1934 : New Deal: U.S. President Franklin D. Roosevelt signs the Securities Exchange Act of 1934 into law, establishing the U.S. Securities and Exchange Commission.
+En 1946 : The United Kingdom's BBC returns to broadcasting its television service, which has been off air for seven years because of World War II.
 <br/><br/>
-En 1933 : The first drive-in theater opens in Camden, New Jersey.
+En 1945 : King Haakon VII of Norway returns from exactly five years in exile during World War II.
 <br/><br/>
-En 1925 : The original Chrysler Corporation was founded by Walter Chrysler from the remains of the Maxwell Motor Company.
+En 1944 : World War II: Battle of Normandy: At Ardenne Abbey, members of the SS Division Hitlerjugend massacre 23 Canadian prisoners of war.
 <br/><br/>
-En 1918 : Battle of Belleau Wood in World War I: the U.S. Marine Corps suffers its worst single day's casualties while attempting to recapture the wood at Château-Thierry (the losses are exceeded at the Battle of Tarawa in November 1943).
+En 1942 : World War II: The Battle of Midway ends in American victory.
 <br/><br/>
-En 1912 : The eruption of Novarupta in Alaska begins. It is the largest volcanic eruption of the 20th century.
+En 1942 : World War II: Aleutian Islands Campaign: Imperial Japanese soldiers begin occupying the American islands of Attu and Kiska, in the Aleutian Islands off Alaska.
 <br/><br/>
-En 1894 : Governor Davis H. Waite orders the Colorado state militia to protect and support the miners engaged in the Cripple Creek miners' strike.
+En 1940 : King Haakon VII, Crown Prince Olav and the Norwegian government leave Tromsø and go into exile in London. They return exactly five years later.
 <br/><br/>
-En 1892 : The Chicago "L" elevated rail system begins operation.
+En 1938 : The Douglas DC-4E makes its first test flight.
 <br/><br/>
-En 1889 : The Great Seattle Fire destroys all of downtown Seattle.
+En 1938 : Second Sino-Japanese War: The Chinese Nationalist government creates the 1938 Yellow River flood to halt Japanese forces. Five hundred thousand to nine hundred thousand civilians are killed.
 <br/><br/>
-En 1882 : The Shewan forces of Menelik II of Ethiopia defeat the Gojjame army in the Battle of Embabo. The Shewans capture Negus Tekle Haymanot of Gojjam, and their victory leads to a Shewan hegemony over the territories south of the Abay River.
+En 1929 : The Lateran Treaty is ratified, bringing Vatican City into existence.
 <br/><br/>
-En 1862 : The First Battle of Memphis, a naval engagement fought on the Mississippi results in the capture of Memphis, Tennessee by Union forces from the Confederates.
+En 1919 : Sette Giugno: Nationalist riots break out in Valletta, the capital of Malta. British soldiers fire into the crowd, killing four people.
 <br/><br/>
-En 1859 : Queensland is established as a separate colony from New South Wales. The date is still celebrated as Queensland Day.
+En 1917 : World War I: Battle of Messines: Allied soldiers detonate a series of mines underneath German trenches at Messines Ridge, killing 10,000 German troops.
 <br/><br/>
-En 1844 : The Young Men's Christian Association (YMCA) is founded in London.
+En 1906 : Cunard Line's RMS Lusitania is launched from the John Brown Shipyard, Glasgow (Clydebank), Scotland.
 <br/><br/>
-En 1832 : The June Rebellion in Paris is put down by the National Guard.
+En 1905 : Norway's parliament dissolves its union with Sweden. The vote was confirmed by a national plebiscite on August 13 of that year.
 <br/><br/>
-En 1822 : Alexis St Martin is accidentally shot in the stomach, leading to William Beaumont's studies on digestion.
+En 1899 : American Temperance crusader Carrie Nation begins her campaign of vandalizing alcohol-serving establishments by destroying the inventory in a saloon in Kiowa, Kansas.
 <br/><br/>
-En 1813 : The Battle of Stoney Creek, considered a critical turning point in the War of 1812. A British force of 700 under John Vincent defeats an American force twice its size under William Winder and John Chandler.
+En 1892 : Homer Plessy is arrested for refusing to leave his seat in the "whites-only" car of a train; he lost the resulting court case, Plessy v. Ferguson.
 <br/><br/>
-En 1762 : In the Seven Years' War, British forces begin the Siege of Havana and temporarily capture the city.
+En 1880 : War of the Pacific: The Battle of Arica, the assault and capture of Morro de Arica (Arica Cape), ends the Campaña del Desierto (Desert Campaign).
 <br/><br/>
-En 1674 : Shivaji is crowned as the first Chhatrapati of the Maratha Empire at Raigad Fort.
+En 1866 : One thousand eight hundred Fenian raiders are repelled back to the United States after looting and plundering the Saint-Armand and Frelighsburg areas of Canada East.
 <br/><br/>
-En 1654 : Swedish Queen Christina abdicated her throne in favour of her cousin Charles Gustav and converted to Catholicism.
+En 1862 : The United States and the United Kingdom agree in the Lyons–Seward Treaty to suppress the African slave trade.
 <br/><br/>
-En 1523 : Swedish regent Gustav Vasa is elected King of Sweden and, marking a symbolic end to the Kalmar Union, 6 June is designated the country's national day.
+En 1832 : The Great Reform Act of England and Wales receives royal assent.
 <br/><br/>
-En 1513 : Battle of Novara. In the Italian Wars, Swiss troops defeat the French under Louis II de la Trémoille, forcing them to abandon Milan; Duke Massimiliano Sforza is restored.
+En 1832 : Asian cholera reaches Quebec, brought by Irish immigrants, and kills about 6,000 people in Lower Canada.
 <br/><br/>
-En 1505 : The M8.2–8.8 Lo Mustang earthquake affects Tibet and Nepal, causing severe damage in Kathmandu and parts of the Indo-Gangetic plain.
+En 1810 : The newspaper Gazeta de Buenos Ayres is first published in Argentina.
 <br/><br/>
-En 913 : Constantine VII, the eight-year-old illegitimate son of Leo VI the Wise, becomes nominal ruler of the Byzantine Empire under the regency of a seven-man council headed by Patriarch Nicholas Mystikos, appointed by Constantine's uncle Alexander on his deathbed.
+En 1800 : David Thompson reaches the mouth of the Saskatchewan River in Manitoba.
+<br/><br/>
+En 1788 : French Revolution: Day of the Tiles: Civilians in Grenoble toss roof tiles and various objects down upon royal troops.
+<br/><br/>
+En 1776 : Richard Henry Lee presents the "Lee Resolution" to the Continental Congress. The motion is seconded by John Adams and will lead to the United States Declaration of Independence.
+<br/><br/>
+En 1692 : Port Royal, Jamaica, is hit by a catastrophic earthquake; in just three minutes, 1,600 people are killed and 3,000 are seriously injured.
+<br/><br/>
+En 1654 : Louis XIV is crowned King of France.
+<br/><br/>
+En 1640 : Corpus de Sang in Barcelona: Catalan reapers rioted against Spanish Royal soldiers and officers, killing the Viceroy of Catalonia, Dalmau de Queralt. Escalation of hostilities between the Principality of Catalonia and the Spanish Monarchy, leading to the Reapers' War.
+<br/><br/>
+En 1628 : The Petition of Right, a major English constitutional document, is granted the Royal Assent by Charles I and becomes law.
+<br/><br/>
+En 1494 : Spain and Portugal sign the Treaty of Tordesillas which divides the New World between the two countries.
+<br/><br/>
+En 1420 : Troops of the Republic of Venice capture Udine, ending the independence of the Patria del Friuli.
+<br/><br/>
+En 1099 : First Crusade: The Siege of Jerusalem begins.
+<br/><br/>
+En 1002 : Henry II, a cousin of Emperor Otto III, is elected and crowned King of Germany.
+<br/><br/>
+En 879 : Pope John VIII recognises the Duchy of Croatia under Duke Branimir as an independent state.
+<br/><br/>
+En 421 : Emperor Theodosius II marries Aelia Eudocia at Constantinople (Byzantine Empire).
 <br/><br/>
