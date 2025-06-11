@@ -4,137 +4,133 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 10/6 ?(Hover on the year)</h1>
+<h1> What happen this day 11/6 ?(Hover on the year)</h1>
 
-En 2024 : A plane crash in Malawi leaves 10 people dead, including the country's Vice President Saulos Chilima.
+En 2013 : Greece's public broadcaster ERT is shut down by then-prime minister Antonis Samaras. It would be opened exactly two years later by then-prime minister Alexis Tsipras.
 <br/><br/>
-En 2018 : Opportunity rover, sends it last message back to Earth. The mission was finally declared over on February 13, 2019.
+En 2012 : 75 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried.
 <br/><br/>
-En 2009 : Eighty-eight year-old James Wenneker von Brunn opens fire inside the United States Holocaust Memorial Museum and fatally shoots Museum Special Police Officer Stephen Tyrone Johns. Other security guards returned fire, wounding von Brunn, who was apprehended.
+En 2010 : The first African FIFA World Cup kicks off in South Africa.
 <br/><br/>
-En 2008 : Sudan Airways Flight 109 crashes at Khartoum International Airport, killing 30 people.
+En 2008 : Canadian Prime Minister Stephen Harper makes a historic official apology to Canada's First Nations in regard to abuses at a Canadian Indian residential school.
 <br/><br/>
-En 2003 : The Spirit rover is launched, beginning NASA's Mars Exploration Rover mission.
+En 2008 : The Fermi Gamma-ray Space Telescope is launched into orbit.
 <br/><br/>
-En 2002 : The first direct electronic communication experiment between the nervous systems of two humans is carried out by Kevin Warwick in the United Kingdom.
+En 2007 : Mudslides in Chittagong, Bangladesh, kill 130 people.
 <br/><br/>
-En 2001 : Pope John Paul II canonizes Lebanon's first female saint, Saint Rafqa.
+En 2004 : Cassini–Huygens makes its closest flyby of the Saturn moon Phoebe.
 <br/><br/>
-En 1999 : Kosovo War: NATO suspends its airstrikes after Slobodan Milošević agrees to withdraw Serbian forces from Kosovo.
+En 2002 : Antonio Meucci is acknowledged as the first inventor of the telephone by the United States Congress.
 <br/><br/>
-En 1997 : Before fleeing his northern stronghold, Khmer Rouge leader Pol Pot orders the killing of his defense chief Son Sen and 11 of Sen's family members.
+En 2001 : Timothy McVeigh is executed for his role in the Oklahoma City bombing.
 <br/><br/>
-En 1996 : Peace talks begin in Northern Ireland without the participation of Sinn Féin.
+En 1998 : Compaq Computer pays US$9 billion for Digital Equipment Corporation in the largest high-tech acquisition.
 <br/><br/>
-En 1994 : China conducts a nuclear test for DF-31 warhead at Area C (Beishan), Lop Nur, its prominence being due to the Cox Report.
+En 1987 : Diane Abbott, Paul Boateng and Bernie Grant are elected as the first black MPs in Great Britain.
 <br/><br/>
-En 1991 : Eleven-year-old Jaycee Lee Dugard is kidnapped in South Lake Tahoe, California; she would remain a captive until 2009.
+En 1981 : A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
 <br/><br/>
-En 1990 : British Airways Flight 5390 lands safely at Southampton Airport after a blowout in the cockpit causes the captain to be partially sucked from the cockpit. There are no fatalities.
+En 1978 : Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
 <br/><br/>
-En 1987 : June Democratic Struggle: The June Democratic Struggle starts in South Korea, and people protest against the government.
+En 1971 : The U.S. Government forcibly removes the last holdouts to the Native American Occupation of Alcatraz, ending 19 months of control.
 <br/><br/>
-En 1986 : Network SouthEast: The London & South Eastern sector of British Rail is relaunched as Network SouthEast.
+En 1970 : After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
 <br/><br/>
-En 1982 : Lebanon War: The Syrian Arab Army defeats the Israeli Defense Forces in the Battle of Sultan Yacoub.
+En 1968 : Lloyd J. Old identified the first cell surface antigens that could differentiate among different cell types.
 <br/><br/>
-En 1980 : The African National Congress in South Africa publishes a call to fight from their imprisoned leader Nelson Mandela.
+En 1964 : World War II veteran Walter Seifert attacks an elementary school in Cologne, Germany, killing at least eight children and two teachers and seriously injuring several more with a home-made flamethrower and a lance.
 <br/><br/>
-En 1977 : James Earl Ray escapes from Brushy Mountain State Penitentiary in Petros, Tennessee. He is recaptured three days later.
+En 1963 : American Civil Rights Movement: Governor of Alabama George Wallace defiantly stands at the door of Foster Auditorium at the University of Alabama in an attempt to block two black students, Vivian Malone and James Hood, from attending that school. Later in the day, accompanied by federalized National Guard troops, they are able to register.
 <br/><br/>
-En 1967 : The Six-Day War ends: Israel and Syria agree to a cease-fire.
+En 1963 : Buddhist monk Thích Quảng Đức burns himself with gasoline in a busy Saigon intersection to protest the lack of religious freedom in South Vietnam.
 <br/><br/>
-En 1964 : United States Senate breaks a 75-day filibuster against the Civil Rights Act of 1964, leading to the bill's passage.
+En 1963 : John F. Kennedy addresses Americans from the Oval Office proposing the Civil Rights Act of 1964, which would revolutionize American society by guaranteeing equal access to public facilities, ending segregation in education, and guaranteeing federal protection for voting rights.
 <br/><br/>
-En 1963 : The Equal Pay Act of 1963, aimed at abolishing wage disparity based on sex, was signed into law by John F. Kennedy as part of his New Frontier Program.
+En 1962 : Frank Morris, John Anglin and Clarence Anglin allegedly become the only prisoners to escape from the prison on Alcatraz Island.
 <br/><br/>
-En 1960 : Trans Australia Airlines Flight 538 crashes near Mackay Airport in Mackay, Queensland, Australia, killing 29.
+En 1956 : Start of Gal Oya riots, the first reported ethnic riots that target minority Sri Lankan Tamils in the Eastern Province. The total number of deaths is reportedly 150.
 <br/><br/>
-En 1957 : John Diefenbaker leads the Progressive Conservative Party of Canada to a stunning upset in the 1957 Canadian federal election, ending 22 years of Liberal Party government.
+En 1955 : Eighty-three spectators are killed and at least one hundred are injured after an Austin-Healey and a Mercedes-Benz collide at the 24 Hours of Le Mans, the deadliest ever accident in motorsports.
 <br/><br/>
-En 1947 : Saab produces its first automobile.
+En 1944 : USS Missouri, the last battleship built by the United States Navy and future site of the signing of the Japanese Instrument of Surrender, is commissioned.
 <br/><br/>
-En 1945 : Australian Imperial Forces land in Brunei Bay to liberate Brunei.
+En 1942 : World War II: The United States agrees to send Lend-Lease aid to the Soviet Union.
 <br/><br/>
-En 1944 : World War II: Six hundred forty-three men, women and children massacred at Oradour-sur-Glane, France.
+En 1942 : Free French Forces retreat from Bir Hakeim after having successfully delayed the Axis advance.
 <br/><br/>
-En 1944 : World War II: In Distomo, Boeotia, Greece, 228 men, women and children are massacred by German troops.
+En 1940 : World War II: The Siege of Malta begins with a series of Italian air raids.
 <br/><br/>
-En 1944 : In baseball, 15-year-old Joe Nuxhall of the Cincinnati Reds becomes the youngest player ever in a major-league game.
+En 1938 : Second Sino-Japanese War: The Battle of Wuhan starts.
 <br/><br/>
-En 1942 : World War II: The Lidice massacre is perpetrated as a reprisal for the assassination of Obergruppenführer Reinhard Heydrich.
+En 1937 : Great Purge: The Soviet Union under Joseph Stalin executes eight army leaders.
 <br/><br/>
-En 1940 : World War II: Fascist Italy declares war on France and the United Kingdom, beginning an invasion of southern France.
+En 1936 : Inventor Edwin Armstrong demonstrates FM broadcasting to an audience of engineers at the FCC in Washington, DC.
 <br/><br/>
-En 1940 : World War II: U.S. President Franklin D. Roosevelt denounces Italy's actions in his "Stab in the Back" speech at the graduation ceremonies of the University of Virginia.
+En 1936 : The London International Surrealist Exhibition opens.
 <br/><br/>
-En 1940 : World War II: Military resistance to the German occupation of Norway ends.
+En 1920 : During the U.S. Republican National Convention in Chicago, U.S. Republican Party leaders gathered in a room at the Blackstone Hotel to come to a consensus on their candidate for the U.S. presidential election, leading the Associated Press to coin the political phrase "smoke-filled room".
 <br/><br/>
-En 1935 : Dr. Robert Smith takes his last drink, and Alcoholics Anonymous is founded in Akron, Ohio, United States, by him and Bill Wilson.
+En 1919 : Sir Barton wins the Belmont Stakes, becoming the first horse to win the U.S. Triple Crown.
 <br/><br/>
-En 1935 : Chaco War ends: A truce is called between Bolivia and Paraguay who had been fighting since 1932.
+En 1917 : King Alexander assumes the throne of Greece after his father, Constantine I, is deemed to have abdicated under pressure from allied armies occupying Athens.
 <br/><br/>
-En 1925 : The United Church of Canada is founded in Toronto as a merger of four Protestant denominations.
+En 1903 : A group of Serbian officers storms the royal palace and assassinates King Alexander I of Serbia and his wife, Queen Draga.
 <br/><br/>
-En 1924 : Fascists kidnap and kill Italian Socialist leader Giacomo Matteotti in Rome.
+En 1901 : The boundaries of the Colony of New Zealand are extended by the UK to include the Cook Islands.
 <br/><br/>
-En 1918 : The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel.
+En 1898 : The Hundred Days' Reform, a planned movement to reform social, political, and educational institutions in China, is started by the Guangxu Emperor, but is suspended by Empress Dowager Cixi after 104 days. (The failed reform led to the abolition of the Imperial examination in 1905.)
 <br/><br/>
-En 1916 : The Arab Revolt against the Ottoman Empire was declared by Hussein bin Ali, Sharif of Mecca.
+En 1895 : Paris–Bordeaux–Paris, sometimes called the first automobile race in history or the "first motor race", takes place.
 <br/><br/>
-En 1898 : Spanish–American War: In the Battle of Guantánamo Bay, U.S. Marines begin the American invasion of Spanish-held Cuba.
+En 1892 : The Limelight Department, one of the world's first film studios, is officially established in Melbourne, Australia.
 <br/><br/>
-En 1886 : Mount Tarawera in New Zealand erupts, killing 153 people and burying the famous Pink and White Terraces. Eruptions continue for three months creating a large, 17 km (11 mi) long fissure across the mountain peak.
+En 1865 : The Naval Battle of the Riachuelo is fought on the rivulet Riachuelo (Argentina), between the Paraguayan Navy on one side and the Brazilian Navy on the other. The Brazilian victory was crucial for the later success of the Triple Alliance (Brazil, Uruguay, and Argentina) in the Paraguayan War.
 <br/><br/>
-En 1878 : League of Prizren is established, to oppose the decisions of the Congress of Berlin and the Treaty of San Stefano, as a consequence of which the Albanian lands in the Balkans were being partitioned and given to the neighbor states of Serbia, Montenegro, Bulgaria, and Greece.
+En 1837 : The Broad Street Riot occurs in Boston, fueled by ethnic tensions between Yankees and Irish.
 <br/><br/>
-En 1871 : Sinmiyangyo: Captain McLane Tilton leads 109 US Marines in a naval attack on Han River forts on Kanghwa Island, Korea.
+En 1825 : The first cornerstone is laid for Fort Hamilton in New York City.
 <br/><br/>
-En 1868 : Mihailo Obrenović III, Prince of Serbia is assassinated.
+En 1805 : A fire consumes large portions of Detroit in the Michigan Territory.
 <br/><br/>
-En 1864 : American Civil War: Battle of Brice's Crossroads: Confederate troops under Nathan Bedford Forrest defeat a much larger Union force led by General Samuel D. Sturgis in Mississippi.
+En 1788 : Russian explorer Gerasim Izmailov reaches Alaska.
 <br/><br/>
-En 1863 : During the French intervention in Mexico, Mexico City is captured by French troops.
+En 1776 : The Continental Congress appoints Thomas Jefferson, John Adams, Benjamin Franklin, Roger Sherman, and Robert R. Livingston to the Committee of Five to draft a declaration of independence.
 <br/><br/>
-En 1861 : American Civil War: Battle of Big Bethel: Confederate troops under John B. Magruder defeat a much larger Union force led by General Ebenezer W. Pierce in Virginia.
+En 1775 : The Coronation of Louis XVI in Reims, the last coronation before the French Revolution.
 <br/><br/>
-En 1854 : The United States Naval Academy graduates its first class of students.
+En 1775 : The American Revolutionary War's first naval engagement, the Battle of Machias, results in the capture of a small British naval vessel.
 <br/><br/>
-En 1838 : Myall Creek massacre: Twenty-eight Aboriginal Australians are murdered.
+En 1770 : British explorer Captain James Cook runs aground on the Great Barrier Reef.
 <br/><br/>
-En 1829 : The first Boat Race between the University of Oxford and the University of Cambridge takes place on the Thames in London.
+En 1748 : Denmark adopts the characteristic Nordic Cross flag later taken up by all other Scandinavian countries.
 <br/><br/>
-En 1805 : First Barbary War: Yusuf Karamanli signs a treaty ending the hostilities between Tripolitania and the United States.
+En 1724 : Johann Sebastian Bach leads his cantata O Ewigkeit, du Donnerwort (O eternity, you word of thunder), BWV 20, on the first Sunday after Trinity, beginning his second cycle, the chorale cantata cycle.
 <br/><br/>
-En 1793 : The Jardin des Plantes museum opens in Paris. A year later, it becomes the first public zoo.
+En 1702 : Anglo-Dutch forces skirmish with French forces before the walls of Nijmegen and prevent its fall.
 <br/><br/>
-En 1793 : French Revolution: Following the arrests of Girondin leaders, the Jacobins gain control of the Committee of Public Safety installing the revolutionary dictatorship.
+En 1594 : Philip II recognizes the rights and privileges of the local nobles and chieftains in the Philippines, which paved way to the stabilization of the rule of the Principalía (an elite ruling class of native nobility in Spanish Philippines).
 <br/><br/>
-En 1786 : A landslide dam on the Dadu River created by an earthquake ten days earlier collapses, killing 100,000 in the Sichuan province of China.
+En 1559 : Don Tristan de Luna y Arellano sails for Florida with party of 1,500, intending to settle on gulf coast (Vera Cruz, Mexico).
 <br/><br/>
-En 1782 : King Buddha Yodfa Chulaloke (Rama I) of Siam (modern day Thailand) is crowned.
+En 1509 : Henry VIII of England marries Catherine of Aragon.
 <br/><br/>
-En 1719 : Jacobite risings: Battle of Glen Shiel.
+En 1488 : Battle of Sauchieburn: Fought between rebel Lords and James III of Scotland, resulting in the death of the king.
 <br/><br/>
-En 1692 : Salem witch trials: Bridget Bishop is hanged at Gallows Hill near Salem, Massachusetts, for "certaine Detestable Arts called Witchcraft and Sorceries".
+En 1429 : Hundred Years' War: Start of the Battle of Jargeau.
 <br/><br/>
-En 1624 : Signing of the Treaty of Compiègne between France and the Netherlands.
+En 1345 : The megas doux Alexios Apokaukos, chief minister of the Byzantine Empire, is lynched by political prisoners.
 <br/><br/>
-En 1619 : Thirty Years' War: Battle of Záblatí, a turning point in the Bohemian Revolt.
+En 1157 : Albert I of Brandenburg, also called The Bear (Ger: Albrecht der Bär), becomes the founder of the Margraviate of Brandenburg, Germany and the first margrave.
 <br/><br/>
-En 1596 : Willem Barents and Jacob van Heemskerk discover Bear Island.
+En 1118 : Roger of Salerno, Prince of Antioch, captures Azaz from the Seljuk Turks.
 <br/><br/>
-En 1539 : Council of Trent: Pope Paul III sends out letters to his bishops, delaying the Council due to war and the difficulty bishops had traveling to Venice.
+En 1011 : Lombard Revolt: Greek citizens of Bari rise up against the Lombard rebels led by Melus and deliver the city to Basil Mesardonites, Byzantine governor (catepan) of the Catepanate of Italy.
 <br/><br/>
-En 1523 : Copenhagen is surrounded by the army of Frederick I of Denmark, as the city will not recognise him as the successor of Christian II of Denmark.
+En 980 : Vladimir the Great consolidates the Kievan realm from Ukraine to the Baltic Sea. He is proclaimed ruler (knyaz) of all Kievan Rus'.
 <br/><br/>
-En 1358 : Battle of Mello: The peasant forces of the Jacquerie are crushed by the army of the French nobility.
+En 786 : A Hasanid Alid uprising in Mecca is crushed by the Abbasids at the Battle of Fakhkh.
 <br/><br/>
-En 1329 : The Battle of Pelekanon is the last attempt of the Byzantine Empire to retain its cities in Asia Minor.
+En 631 : Emperor Taizong of Tang sends envoys to the Xueyantuo bearing gold and silk in order to seek the release of Chinese prisoners captured during the transition from Sui to Tang.
 <br/><br/>
-En 1225 : Pope Honorius III issues the bull Vineae Domini custodes in which he approves the mission of Dominican friars to Morocco.
-<br/><br/>
-En 1190 : Third Crusade: Frederick I Barbarossa drowns in the river Saleph while leading an army to Jerusalem.
-<br/><br/>
-En 671 : Emperor Tenji of Japan introduces a water clock (clepsydra) called Rokoku. The instrument, which measures time and indicates hours, is placed in the capital of Ōtsu.
+En 173 : Marcomannic Wars: The Roman army in Moravia is encircled by the Quadi, who have broken the peace treaty (171). In a violent thunderstorm emperor Marcus Aurelius defeats and subdues them in the so-called "miracle of the rain".
 <br/><br/>
