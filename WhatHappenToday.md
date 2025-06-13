@@ -4,117 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 12/6 ?(Hover on the year)</h1>
+<h1> What happen this day 13/6 ?(Hover on the year)</h1>
 
-En 2024 : A fire in a residential building in Mangaf, Kuwait City kills at least 50 people.
+En 2023 : At least 100 people are killed when a wedding boat capsizes on the Niger River in Kwara State, Nigeria.
 <br/><br/>
-En 2019 : Kassym-Jomart Tokayev is inaugurated as the second president of Kazakhstan.
+En 2023 : Three people are killed and another three injured in an early morning stabbing and van ramming attack in Nottingham, England.
 <br/><br/>
-En 2018 : United States President Donald Trump and Kim Jong-un of North Korea held the first meeting between leaders of their two countries in Singapore.
+En 2021 : A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China kills at least 12 people and wounds over 138 others.
 <br/><br/>
-En 2016 : Forty-nine civilians are killed and 58 others injured in an attack on a gay nightclub in Orlando, Florida, United States; the gunman, Omar Mateen, is killed in a gunfight with police.
+En 2018 : Volkswagen is fined one billion euros over the emissions scandal.
 <br/><br/>
-En 2014 : Between 1,095 and 1,700 Shia Iraqi people are killed in an attack by the Islamic State of Iraq and the Levant on Camp Speicher in Tikrit, Iraq. It is the second deadliest act of terrorism in history, only behind 9/11.
+En 2015 : A man opens fire at policemen outside the police headquarters in Dallas, Texas, while a bag containing a pipe bomb is also found. He was later shot dead by police.
 <br/><br/>
-En 2009 : A disputed presidential election in Iran leads to wide-ranging local and international protests.
+En 2012 : A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others.
 <br/><br/>
-En 1999 : Kosovo War: Operation Joint Guardian begins when a NATO-led United Nations peacekeeping force, Kosovo Force (KFor), enters the province of Kosovo in the Federal Republic of Yugoslavia.
+En 2010 : A capsule of the Japanese spacecraft Hayabusa, containing particles of the asteroid 25143 Itokawa, returns to Earth by landing in the Australian Outback.
 <br/><br/>
-En 1993 : An election takes place in Nigeria and is won by Moshood Kashimawo Olawale Abiola. Its results are later annulled by the military government of Ibrahim Babangida.
+En 2007 : The Al Askari Mosque is bombed for a second time.
 <br/><br/>
-En 1991 : In modern Russia's first democratic election, Boris Yeltsin is elected as the President of Russia.
+En 2005 : The jury acquits pop singer Michael Jackson of his charges for allegedly sexually molesting a child in 1993.
 <br/><br/>
-En 1991 : Kokkadichcholai massacre: The Sri Lankan Army massacres 152 minority Tamil civilians in the village of Kokkadichcholai near the Eastern Province town of Batticaloa.
+En 2002 : The United States withdraws from the Anti-Ballistic Missile Treaty.
 <br/><br/>
-En 1990 : Russia Day: The parliament of the Russian Federation formally declares its sovereignty.
+En 2000 : President Kim Dae-jung of South Korea meets Kim Jong-il, leader of North Korea, for the beginning of the first ever inter-Korea summit, in the northern capital of Pyongyang.
 <br/><br/>
-En 1988 : Austral Líneas Aéreas Flight 046, a McDonnell Douglas MD-81, crashes short of the runway at Libertador General José de San Martín Airport, killing all 22 people on board.
+En 2000 : Italy pardons Mehmet Ali Ağca, the Turkish gunman who tried to kill Pope John Paul II in 1981.
 <br/><br/>
-En 1987 : The Central African Republic's former emperor Jean-Bédel Bokassa is sentenced to death for crimes he had committed during his 13-year rule.
+En 1999 : BMW win 1999 24 Hours of Le Mans
 <br/><br/>
-En 1987 : Cold War: At the Brandenburg Gate, U.S. President Ronald Reagan publicly challenges Mikhail Gorbachev to tear down the Berlin Wall.
+En 1997 : A jury sentences Timothy McVeigh to death for his part in the 1995 Oklahoma City bombing.
 <br/><br/>
-En 1982 : A nuclear disarmament rally and concert is held in New York City.
+En 1997 : The Uphaar Cinema Fire took place at Green Park, Delhi, resulting in the deaths of 59 people and seriously injured 103 others.
 <br/><br/>
-En 1981 : The first of the Indiana Jones film franchise, Raiders of the Lost Ark, is released in theaters.
+En 1996 : The Montana Freemen surrender after an 81-day standoff with FBI agents.
 <br/><br/>
-En 1979 : Bryan Allen wins the second Kremer prize for a man-powered flight across the English Channel in the Gossamer Albatross.
+En 1996 : Garuda Indonesia flight 865 crashes during takeoff from Fukuoka Airport, killing three people and injuring 170.
 <br/><br/>
-En 1975 : State of Uttar Pradesh v. Raj Narain: Judge Jagmohanlal Sinha rules against Indira Gandhi in a case on her election to the Indian Parliament, and that she should be banned from holding any public office, triggering a political crisis.
+En 1994 : A jury in Anchorage, Alaska, blames recklessness by Exxon and Captain Joseph Hazelwood for the Exxon Valdez disaster, allowing victims of the oil spill to seek $15 billion in damages.
 <br/><br/>
-En 1967 : The United States Supreme Court in Loving v. Virginia declares all U.S. state laws that prohibit interracial marriage to be unconstitutional.
+En 1990 : First day of the June 1990 Mineriad in Romania. At least 240 strikers and students are arrested or killed in the chaos ensuing from the first post-Ceaușescu elections.
 <br/><br/>
-En 1964 : Anti-apartheid activist and ANC leader Nelson Mandela is sentenced to life in prison for sabotage in South Africa.
+En 1983 : Pioneer 10 becomes the first man-made object to leave the central Solar System when it passes beyond the orbit of Neptune.
 <br/><br/>
-En 1963 : NAACP field secretary Medgar Evers is murdered in front of his home in Jackson, Mississippi, by Ku Klux Klan member Byron De La Beckwith during the civil rights movement.
+En 1982 : Fahd becomes King of Saudi Arabia upon the death of his brother, Khalid.
 <br/><br/>
-En 1963 : The film Cleopatra, starring Elizabeth Taylor and Richard Burton, is released in US theaters. It was the most expensive film made at the time.
+En 1982 : Battles of Tumbledown and Wireless Ridge, during the Falklands War.
 <br/><br/>
-En 1954 : Pope Pius XII canonises Dominic Savio, who was 14 years old at the time of his death, as a saint, making him at the time the youngest unmartyred saint in the Roman Catholic Church. In 2017, Francisco and Jacinta Marto, aged ten and nine at the time of their deaths, are declared as saints.
+En 1981 : At the Trooping the Colour ceremony in London, a teenager, Marcus Sarjeant, fires six blank shots at Queen Elizabeth II.
 <br/><br/>
-En 1950 : An Air France Douglas DC-4 crashes near Bahrain International Airport, killing 46 people.
+En 1977 : Convicted Martin Luther King Jr. assassin James Earl Ray is recaptured after escaping from prison three days before.
 <br/><br/>
-En 1944 : World War II: Battle of Carentan: American paratroopers of the 101st Airborne Division secure the town of Carentan, Normandy, France.
+En 1973 : In a game versus the Philadelphia Phillies at Veterans Stadium, Los Angeles Dodgers teammates Steve Garvey, Davey Lopes, Ron Cey and Bill Russell play together as an infield for the first time, going on to set the Major League Baseball record of staying together for 8+1⁄2 years.
 <br/><br/>
-En 1943 : The Holocaust: Germany liquidates the Jewish Ghetto in Brzeżany, Poland (now Berezhany, Ukraine). Around 1,180 Jews are led to the city's old Jewish graveyard and shot.
+En 1971 : Vietnam War: The New York Times begins publication of the Pentagon Papers.
 <br/><br/>
-En 1942 : Anne Frank receives a diary for her thirteenth birthday.
+En 1967 : U.S. President Lyndon B. Johnson nominates Solicitor-General Thurgood Marshall to become the first black justice on the U.S. Supreme Court.
 <br/><br/>
-En 1940 : World War II: Thirteen thousand British and French troops surrender to General Erwin Rommel at Saint-Valery-en-Caux.
+En 1966 : The United States Supreme Court rules in Miranda v. Arizona that the police must inform suspects of their Fifth Amendment rights before questioning them (colloquially known as "Mirandizing").
 <br/><br/>
-En 1939 : Shooting begins on Paramount Pictures' Dr. Cyclops, the first horror film photographed in three-strip Technicolor.
+En 1952 : Catalina affair: A Swedish Douglas DC-3 is shot down by a Soviet MiG-15 fighter.
 <br/><br/>
-En 1939 : The Baseball Hall of Fame opens in Cooperstown, New York.
+En 1944 : World War II: The Battle of Villers-Bocage:  German tank ace Michael Wittmann ambushes elements of the British 7th Armoured Division, destroying up to fourteen tanks, fifteen personnel carriers and two anti-tank guns in a Tiger I tank.
 <br/><br/>
-En 1935 : A ceasefire is negotiated between Bolivia and Paraguay, ending the Chaco War.
+En 1944 : World War II: German combat elements, reinforced by the 17th SS Panzergrenadier Division, launch a counterattack on American forces near Carentan.
 <br/><br/>
-En 1921 : Mikhail Tukhachevsky orders the use of chemical weapons against the Tambov Rebellion, bringing an end to the peasant uprising.
+En 1944 : World War II: Germany launches the first V1 Flying Bomb attack on England. Only four of the eleven bombs strike their targets.
 <br/><br/>
-En 1914 : Massacre of Phocaea: Turkish irregulars slaughter 50 to 100 Greeks and expel thousands of others in an ethnic cleansing operation in the Ottoman Empire.
+En 1927 : Aviator Charles Lindbergh receives a ticker tape parade up 5th Avenue in New York City.
 <br/><br/>
-En 1900 : The Reichstag approves new legislation continuing Germany's naval expansion program, providing for construction of 38 battleships over a 20-year period. Germany's fleet would be the largest in the world.
+En 1917 : World War I: The deadliest German air raid on London of the war is carried out by Gotha G.IV bombers and results in 162 deaths, including 46 children, and 432 injuries.
 <br/><br/>
-En 1899 : New Richmond tornado: The ninth deadliest tornado in U.S. history kills 117 people and injures around 200.
+En 1898 : Yukon Territory is formed, with Dawson chosen as its capital.
 <br/><br/>
-En 1898 : Philippine Declaration of Independence: General Emilio Aguinaldo declares the Philippines' independence from Spain.
+En 1895 : Émile Levassor wins the world's first real automobile race. Levassor completed the 732-mile course, from Paris to Bordeaux and back, in just under 49 hours, at a then-impressive speed of about fifteen miles per hour (24 km/h).
 <br/><br/>
-En 1864 : American Civil War, Overland Campaign: Battle of Cold Harbor: Ulysses S. Grant gives the Confederate forces under Robert E. Lee a victory when he pulls his Union troops from their position at Cold Harbor, Virginia and moves south.
+En 1893 : Grover Cleveland notices a rough spot in his mouth and on July 1 undergoes secret, successful surgery to remove a large, cancerous portion of his jaw; the operation was not revealed to the public until 1917, nine years after the president's death.
 <br/><br/>
-En 1830 : Beginning of the Invasion of Algiers: Thirty-four thousand French soldiers land 27 kilometers west of Algiers, at Sidi Ferruch.
+En 1886 : A fire devastates much of Vancouver, British Columbia.
 <br/><br/>
-En 1821 : Badi VII, king of Sennar, surrenders his throne and realm to Isma'il Pasha, general of the Ottoman Empire, ending the existence of that Sudanese kingdom.
+En 1881 : The USS Jeannette is crushed in an Arctic Ocean ice pack.
 <br/><br/>
-En 1817 : The earliest form of bicycle, the dandy horse, is driven by Karl von Drais.
+En 1855 : Twentieth opera of Giuseppe Verdi, Les vêpres siciliennes ("The Sicilian Vespers"), is premiered in Paris.
 <br/><br/>
-En 1813 : Capture of USRC Surveyor.
+En 1850 : The American League of Colored Laborers, the first African American labor union in the United States, is established in New York City.
 <br/><br/>
-En 1798 : Irish Rebellion of 1798: Battle of Ballynahinch.
+En 1805 : Lewis and Clark Expedition: Scouting ahead of the expedition, Meriwether Lewis and four companions sight the Great Falls of the Missouri River.
 <br/><br/>
-En 1776 : The Virginia Declaration of Rights is adopted.
+En 1777 : American Revolutionary War: Gilbert du Motier, Marquis de Lafayette lands near Charleston, South Carolina, in order to help the Continental Congress to train its army.
 <br/><br/>
-En 1775 : American War of Independence: British general Thomas Gage declares martial law in Massachusetts. The British offer a pardon to all colonists who lay down their arms. There would be only two exceptions to the amnesty: Samuel Adams and John Hancock, if captured, were to be hanged.
+En 1774 : Rhode Island becomes the first of Britain's North American colonies to ban the importation of slaves.
 <br/><br/>
-En 1772 : French explorer Marc-Joseph Marion du Fresne and 25 of his men are killed by Māori in New Zealand.
+En 1740 : Georgia provincial governor James Oglethorpe begins an unsuccessful attempt to take Spanish Florida during the Siege of St. Augustine.
 <br/><br/>
-En 1758 : French and Indian War: Siege of Louisbourg: James Wolfe's attack at Louisbourg, Nova Scotia, commences.
+En 1625 : King Charles I of England marries Catholic princess Henrietta Maria of France and Navarre, at Canterbury.
 <br/><br/>
-En 1665 : Thomas Willett is appointed the first mayor of New York City.
+En 1525 : Martin Luther marries Katharina von Bora, against the celibacy rule decreed by the Roman Catholic Church for priests and nuns.
 <br/><br/>
-En 1653 : First Anglo-Dutch War: The Battle of the Gabbard begins, lasting until the following day.
+En 1514 : Henry Grace à Dieu, at over 1,000 tons the largest warship in the world at this time, built at the new Woolwich Dockyard in England, is dedicated.
 <br/><br/>
-En 1643 : The Westminster Assembly is convened by the Parliament of England, without the assent of Charles I, in order to restructure the Church of England.
+En 1381 : In England, the Peasants' Revolt, led by Wat Tyler, comes to a head, as rebels set fire to the Savoy Palace.
 <br/><br/>
-En 1550 : The city of Helsinki, Finland (belonging to Sweden at the time) is founded by King Gustav I of Sweden.
+En 1325 : Ibn Battuta begins his travels, leaving his home in Tangiers to travel to Mecca (gone 24 years).
 <br/><br/>
-En 1429 : Hundred Years' War: On the second day of the Battle of Jargeau, Joan of Arc leads the French army in their capture of the city and the English commander, William de la Pole, 1st Duke of Suffolk.
-<br/><br/>
-En 1418 : Armagnac–Burgundian Civil War: Parisians slaughter sympathizers of Bernard VII, Count of Armagnac, along with all prisoners, foreign bankers, and students and faculty of the College of Navarre.
-<br/><br/>
-En 1381 : Peasants' Revolt: In England, rebels assemble at Blackheath, just outside London.
-<br/><br/>
-En 1240 : At the instigation of Louis IX of France, an inter-faith debate, known as the Disputation of Paris, starts between a Christian monk and four rabbis.
-<br/><br/>
-En 1206 : The Ghurid general Qutb ud-Din Aibak founds the Delhi Sultanate.
-<br/><br/>
-En 910 : Battle of Augsburg: The Hungarians defeat the East Frankish army under King Louis the Child, using the famous feigned retreat tactic of the nomadic warriors.
+En 313 : The decisions of the Edict of Milan, signed by Constantine the Great and co-emperor Valerius Licinius, granting religious freedom throughout the Roman Empire, are published in Nicomedia.
 <br/><br/>
