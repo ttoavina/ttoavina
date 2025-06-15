@@ -4,119 +4,125 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 14/6 ?(Hover on the year)</h1>
+<h1> What happen this day 15/6 ?(Hover on the year)</h1>
 
-En 2017 : A fire in a high-rise apartment building in North Kensington, London, UK, leaves 72 people dead and another 74 injured.
+En 2022 : Microsoft retires its ubiquitous Internet Explorer after 26 years in favor of its new browser, Microsoft Edge.
 <br/><br/>
-En 2017 : Republican U.S. House Majority Whip Steve Scalise of Louisiana, and three others, are shot and wounded while practicing for the annual Congressional Baseball Game.
+En 2013 : A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
 <br/><br/>
-En 2014 : A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board.
+En 2012 : Nik Wallenda becomes the first person to successfully tightrope walk directly over Niagara Falls.
 <br/><br/>
-En 2002 : Near-Earth asteroid 2002 MN misses the Earth by 75,000 miles (121,000 km), about one-third of the distance between the Earth and the Moon.
+En 2007 : The Nokkakivi Amusement Park is opened in Lievestuore, Laukaa, Finland.
 <br/><br/>
-En 1994 : The 1994 Vancouver Stanley Cup riot occurs after the New York Rangers defeat the Vancouver Canucks to win the Stanley Cup, causing an estimated C$1.1 million, leading to 200 arrests and injuries.
+En 2001 : Leaders of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan formed the Shanghai Cooperation Organisation.
 <br/><br/>
-En 1986 : The Mindbender derails and kills three riders at the Fantasyland (known today as Galaxyland) indoor amusement park at West Edmonton Mall in Edmonton, Alberta.
+En 1996 : The Troubles: The Provisional Irish Republican Army (IRA) detonates a powerful truck bomb in the middle of Manchester, England, devastating the city centre and injuring 200 people.
 <br/><br/>
-En 1985 : Five member nations of the European Economic Community sign the Schengen Agreement establishing a free travel zone with no border controls.
+En 1992 : The United States Supreme Court rules in United States v. Álvarez-Machaín that it is permissible for the United States to forcibly extradite suspects in foreign countries and bring them to the United States for trial, without approval from those other countries.
 <br/><br/>
-En 1982 : Falklands War: Argentine forces in the capital Stanley conditionally surrender to British forces.
+En 1991 : In the Philippines, Mount Pinatubo erupts in the second largest volcanic eruption of the 20th century, killing over 800 people.
 <br/><br/>
-En 1972 : Japan Air Lines Flight 471 crashes on approach to Palam International Airport (now Indira Gandhi International Airport) in New Delhi, India, killing 82 of the 87 people on board and four more people on the ground.
+En 1985 : Rembrandt's painting Danaë is attacked by a man (later judged insane) who throws sulfuric acid on the canvas and cuts it twice with a knife.
 <br/><br/>
-En 1967 : Mariner program: Mariner 5 is launched towards Venus.
+En 1978 : King Hussein of Jordan marries Jordanian-American Lisa Halaby, who takes the name Queen Noor.
 <br/><br/>
-En 1966 : The Vatican announces the abolition of the Index Librorum Prohibitorum ("index of prohibited books"), which was originally instituted in 1557.
+En 1977 : After the death of dictator Francisco Franco in 1975, the first democratic elections take place in Spain.
 <br/><br/>
-En 1962 : The European Space Research Organisation is established in Paris – later becoming the European Space Agency.
+En 1972 : Red Army Faction co-founder Ulrike Meinhof is captured by police in Langenhagen.
 <br/><br/>
-En 1959 : Disneyland Monorail System, the first daily operating monorail system in the Western Hemisphere, opens to the public in Anaheim, California.
+En 1972 : Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people.
 <br/><br/>
-En 1955 : Chile becomes a signatory to the Buenos Aires copyright treaty.
+En 1970 : Charles Manson goes on trial for the Sharon Tate murders.
 <br/><br/>
-En 1954 : U.S. President Dwight D. Eisenhower signs a bill into law that places the words "under God" into the United States Pledge of Allegiance.
+En 1944 : World War II: The United States invades Saipan, capital of Japan's South Seas Mandate.
 <br/><br/>
-En 1951 : UNIVAC I is dedicated by the U.S. Census Bureau.
+En 1944 : In the Saskatchewan general election, the CCF, led by Tommy Douglas, is elected and forms the first socialist government in North America.
 <br/><br/>
-En 1950 : An Air France Douglas DC-4 crashes near Bahrain International Airport, killing 40 people. This came two days after another Air France DC-4 crashed in the same location.
+En 1940 : World War II: Operation Aerial begins: Allied troops start to evacuate France, following Germany's takeover of Paris and most of the nation.
 <br/><br/>
-En 1949 : Albert II, a rhesus monkey, rides a V-2 rocket to an altitude of 134 km (83 mi), thereby becoming the first mammal and first monkey in space.
+En 1937 : A German expedition led by Karl Wien loses sixteen members in an avalanche on Nanga Parbat. It is the worst single disaster to occur on an 8000m peak.
 <br/><br/>
-En 1945 : World War II: Filipino troops of the Philippine Commonwealth Army liberate the captured in Ilocos Sur and start the Battle of Bessang Pass in Northern Luzon.
+En 1936 : First flight of the Vickers Wellington bomber.
 <br/><br/>
-En 1944 : World War II: After several failed attempts, the British Army abandons Operation Perch, its plan to capture the German-occupied town of Caen.
+En 1934 : The United States Great Smoky Mountains National Park is founded.
 <br/><br/>
-En 1941 : June deportation: The first major wave of Soviet mass deportations of Estonians, Latvians, and Lithuanians from the occupied Baltic states begins.
+En 1921 : Bessie Coleman earns her pilot's license, becoming the first female pilot of African-American descent.
 <br/><br/>
-En 1940 : World War II: The German occupation of Paris begins.
+En 1920 : Following the 1920 Schleswig plebiscites, Northern Schleswig is transferred from Germany to Denmark.
 <br/><br/>
-En 1940 : The Soviet Union presents an ultimatum to Lithuania resulting in Lithuanian loss of independence.
+En 1919 : John Alcock and Arthur Brown complete the first nonstop transatlantic flight when they reach Clifden, County Galway, Ireland.
 <br/><br/>
-En 1940 : Seven hundred and twenty-eight Polish political prisoners from Tarnów become the first inmates of the Auschwitz concentration camp.
+En 1916 : United States President Woodrow Wilson signs a bill incorporating the Boy Scouts of America, making them the only American youth organization with a federal charter.
 <br/><br/>
-En 1937 : Pennsylvania becomes the first (and only) state of the United States to celebrate Flag Day officially as a state holiday.
+En 1904 : A fire aboard the steamboat SS General Slocum in New York City's East River kills 1,000.
 <br/><br/>
-En 1937 : U.S. House of Representatives passes the Marihuana Tax Act.
+En 1896 : One of the deadliest tsunamis in Japan's history kills more than 22,000 people.
 <br/><br/>
-En 1934 : The landmark Australian Eastern Mission returns from its three-month tour of East and South-East Asia.
+En 1888 : Crown Prince Wilhelm becomes Kaiser Wilhelm II; he will be the last Emperor of the German Empire. Due to the death of his predecessors Wilhelm I and Frederick III, 1888 is the Year of the Three Emperors.
 <br/><br/>
-En 1926 : Brazil leaves the League of Nations.
+En 1878 : Eadweard Muybridge takes a series of photographs to prove that all four feet of a horse leave the ground when it runs; the study becomes the basis of motion pictures.
 <br/><br/>
-En 1919 : John Alcock and Arthur Whitten Brown depart from St. John's, Newfoundland on the first nonstop transatlantic flight.
+En 1877 : Henry Ossian Flipper becomes the first African American cadet to graduate from the United States Military Academy.
 <br/><br/>
-En 1907 : The National Association for Women's Suffrage succeeds in getting Norwegian women the right to vote in parliamentary elections.
+En 1864 : American Civil War: The Second Battle of Petersburg begins.
 <br/><br/>
-En 1900 : Hawaii becomes a United States territory.
+En 1864 : Arlington National Cemetery is established when 200 acres (0.81 km2) of the Arlington estate (formerly owned by the family of Confederate General Robert E. Lee) are officially set aside as a military cemetery by U.S. Secretary of War Edwin M. Stanton.
 <br/><br/>
-En 1900 : The second German Naval Law calls for the Imperial German Navy to be doubled in size, resulting in an Anglo-German naval arms race.
+En 1859 : Ambiguity in the Oregon Treaty leads to the "Northwestern Boundary Dispute" between American and British/Canadian settlers.
 <br/><br/>
-En 1888 : The White Rajahs territories become the British protectorate of Sarawak.
+En 1846 : The Oregon Treaty extends the border between the United States and British North America, established by the Treaty of 1818, westward to the Pacific Ocean.
 <br/><br/>
-En 1872 : Trade unions are legalized in Canada.
+En 1844 : Charles Goodyear receives a patent for vulcanization, a process to strengthen rubber.
 <br/><br/>
-En 1863 : American Civil War: Second Battle of Winchester: A Union garrison is defeated by the Army of Northern Virginia in the Shenandoah Valley town of Winchester, Virginia.
+En 1836 : Arkansas is admitted as the 25th U.S. state.
 <br/><br/>
-En 1863 : Second Assault on the Confederate works at the Siege of Port Hudson during the American Civil War.
+En 1834 : The looting of Safed commences.
 <br/><br/>
-En 1846 : Bear Flag Revolt begins: Anglo settlers in Sonoma, California, start a rebellion against Mexico and proclaim the California Republic.
+En 1808 : Joseph Bonaparte becomes King of Spain.
 <br/><br/>
-En 1839 : Henley Royal Regatta: the village of Henley-on-Thames, on the River Thames in Oxfordshire, stages its first regatta.
+En 1804 : New Hampshire approves the Twelfth Amendment to the United States Constitution, ratifying the document.
 <br/><br/>
-En 1830 : Beginning of the French colonization of Algeria: Thirty-four thousand French soldiers begin their invasion of Algiers, landing 27 kilometers west at Sidi Fredj.
+En 1800 : The Provisional Army of the United States is dissolved.
 <br/><br/>
-En 1822 : Charles Babbage proposes a difference engine in a paper to the Royal Astronomical Society.
+En 1776 : Delaware Separation Day: Delaware votes to suspend government under the British Crown and separate officially from Pennsylvania.
 <br/><br/>
-En 1821 : Badi VII, king of Sennar, surrenders his throne and realm to Ismail Pasha, general of the Ottoman Empire, bringing the 300 year old Sudanese kingdom to an end.
+En 1752 : Benjamin Franklin proves that lightning is electricity (traditional date, the exact date is unknown).
 <br/><br/>
-En 1807 : Emperor Napoleon's French Grande Armée defeats the Russian Army at the Battle of Friedland in Poland (modern Russian  Kaliningrad Oblast) ending the War of the Fourth Coalition.
+En 1670 : The first stone of Fort Ricasoli is laid down in Malta.
 <br/><br/>
-En 1800 : The French Army of First Consul Napoleon Bonaparte defeats the Austrians at the Battle of Marengo in Northern Italy and re-conquers Italy.
+En 1667 : The first human blood transfusion is administered by Dr. Jean-Baptiste Denys.
 <br/><br/>
-En 1789 : Mutiny on the Bounty: HMS Bounty mutiny survivors including Captain William Bligh and 18 others reach Timor after a nearly 7,400 km (4,600 mi) journey in an open boat.
+En 1648 : Margaret Jones is hanged in Boston for witchcraft in the first such execution for the Massachusetts Bay Colony.
 <br/><br/>
-En 1777 : The Second Continental Congress passes the Flag Act of 1777 adopting the Stars and Stripes as the Flag of the United States.
+En 1607 : Virginia Colonists finished building James's Fort, to defend against Spanish and Indian attacks.
 <br/><br/>
-En 1775 : American Revolutionary War: the Continental Army is established by the Continental Congress, marking the birth of the United States Armed Forces.
+En 1520 : Pope Leo X threatens to excommunicate Martin Luther in Exsurge Domine.
 <br/><br/>
-En 1690 : King William III of England (William of Orange) lands in Ireland to confront the former King James II.
+En 1502 : Christopher Columbus lands on the island of Martinique on his fourth voyage.
 <br/><br/>
-En 1658 : Franco-Spanish War: Turenne and the French army win a decisive victory over the Spanish at the battle of the Dunes.
+En 1410 : In a decisive battle at Onon River, the Mongol forces of Oljei Temur were decimated by the Chinese armies of the Yongle Emperor.
 <br/><br/>
-En 1645 : English Civil War: Battle of Naseby: Twelve thousand Royalist forces are beaten by fifteen thousand Parliamentarian soldiers.
+En 1410 : Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Byzantine capital, Constantinople.
 <br/><br/>
-En 1618 : Joris Veseler prints the first Dutch newspaper Courante uyt Italien, Duytslandt, &c. in Amsterdam (approximate date).
+En 1389 : Battle of Kosovo: The Ottoman Empire defeats Serbs and Bosnians.
 <br/><br/>
-En 1404 : Welsh rebel leader Owain Glyndŵr, having declared himself Prince of Wales, allies himself with the French against King Henry IV of England.
+En 1312 : At the Battle of Rozgony, King Charles I of Hungary wins a decisive victory over the family of Palatine Amade Aba.
 <br/><br/>
-En 1381 : Richard II of England meets leaders of Peasants' Revolt at Mile End. The Tower of London is stormed by rebels who enter without resistance.
+En 1310 : The Tiepolo conspiracy, seeking to seize power in the Republic of Venice, is thwarted after bloody street clashes in Venice. The suppression of the revolt will lead to the creation of the Council of Ten.
 <br/><br/>
-En 1287 : Kublai Khan defeats the force of Nayan and other traditionalist Borjigin princes in East Mongolia and Manchuria.
+En 1300 : The city of Bilbao is founded.
 <br/><br/>
-En 1285 : Second Mongol invasion of Vietnam: Forces led by Prince Trần Quang Khải of the Trần dynasty destroy most of the invading Mongol naval fleet in a battle at Chuong Duong.
+En 1246 : With the death of Frederick II, Duke of Austria, the Babenberg dynasty ends in Austria.
 <br/><br/>
-En 1276 : While taking exile in Fuzhou, away from the advancing Mongol invaders, the remnants of the Song dynasty court hold the coronation ceremony for Emperor Duanzong.
+En 1219 : Northern Crusades: Danish victory at the Battle of Lindanise (modern-day Tallinn) establishes the Danish Duchy of Estonia.
 <br/><br/>
-En 1216 : First Barons' War: Prince Louis of France takes the city of Winchester, abandoned by John, King of England, and soon conquers over half of the kingdom.
+En 1215 : King John of England puts his seal to Magna Carta.
 <br/><br/>
-En 1158 : The city of Munich is founded by Henry the Lion on the banks of the river Isar.
+En 1184 : The naval Battle of Fimreite is won by the Birkebeiner pretender Sverre Sigurdsson. Sigurdsson takes the Norwegian throne and King Magnus V of Norway is killed.
+<br/><br/>
+En 923 : Battle of Soissons: King Robert I of France is killed and King Charles the Simple is arrested by the supporters of Duke Rudolph of Burgundy.
+<br/><br/>
+En 844 : Louis II is crowned as king of Italy at Rome by pope Sergius II.
+<br/><br/>
+En -763 : Assyrians record a solar eclipse that is later used to fix the chronology of Mesopotamian history.
 <br/><br/>
