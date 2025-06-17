@@ -4,113 +4,121 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 16/6 ?(Hover on the year)</h1>
+<h1> What happen this day 17/6 ?(Hover on the year)</h1>
 
-En 2019 : Upwards of 2,000,000 people participate in the 2019–20 Hong Kong protests, the largest in Hong Kong's history.
+En 2021 : Juneteenth National Independence Day, was signed into law by President Joe Biden, to become the first federal holiday established since Martin Luther King Jr. Day in 1983.
 <br/><br/>
-En 2016 : Shanghai Disneyland Park, the first Disney Park in Mainland China, opens to the public.
+En 2017 : A series of wildfires in central Portugal kill at least 64 people and injure 204 others.
 <br/><br/>
-En 2015 : American businessman Donald Trump announces his campaign to run for President of the United States in the upcoming election.
+En 2015 : Nine people are killed in a mass shooting at Emanuel African Methodist Episcopal Church in Charleston, South Carolina.
 <br/><br/>
-En 2013 : A multi-day cloudburst, centered on the North Indian state of Uttarakhand, causes devastating floods and landslides, becoming the country's worst natural disaster since the 2004 tsunami.
+En 1994 : Following a televised low-speed highway chase, O. J. Simpson is arrested for the murders of his ex-wife, Nicole Brown Simpson, and her friend Ronald Goldman.
 <br/><br/>
-En 2012 : China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
+En 1992 : A "joint understanding" agreement on arms reduction is signed by U.S. President George Bush and Russian President Boris Yeltsin (this would be later codified in START II).
 <br/><br/>
-En 2012 : The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission.
+En 1991 : Apartheid: The South African Parliament repeals the Population Registration Act which required racial classification of all South Africans at birth.
 <br/><br/>
-En 2010 : Bhutan becomes the first country to institute a total ban on tobacco.
+En 1989 : Interflug Flight 102 crashes during a rejected takeoff from Berlin Schönefeld Airport, killing 21 people.
 <br/><br/>
-En 2002 : Padre Pio is canonized by the Roman Catholic Church.
+En 1987 : With the death of the last individual of the species, the dusky seaside sparrow becomes extinct.
 <br/><br/>
-En 2000 : The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
+En 1985 : Space Shuttle program: STS-51-G mission: Space Shuttle Discovery launches carrying Sultan bin Salman bin Abdulaziz Al Saud, the first Arab and first Muslim in space, as a payload specialist.
 <br/><br/>
-En 1997 : Fifty people are killed in the Daïat Labguer (M'sila) massacre in Algeria.
+En 1972 : Watergate scandal: Five White House operatives are arrested for burgling the offices of the Democratic National Committee during an attempt by members of the administration of President Richard M. Nixon to illegally wiretap the political opposition as part of a broader campaign to subvert the democratic process.
 <br/><br/>
-En 1995 : The Astronomy Picture of the Day website is launched.
+En 1971 : U.S. President Richard Nixon in a televised press conference called drug abuse "America's public enemy number one", starting the War on drugs.
 <br/><br/>
-En 1989 : Revolutions of 1989: Imre Nagy, the former Hungarian prime minister, is reburied in Budapest following the collapse of Communism in Hungary.
+En 1967 : Nuclear weapons testing: China announces a successful test of its first thermonuclear weapon.
 <br/><br/>
-En 1981 : US President Ronald Reagan awards the Congressional Gold Medal to Ken Taylor, Canada's former ambassador to Iran, for helping six Americans escape from Iran during the hostage crisis of 1979–81; he is the first foreign citizen bestowed the honor.
+En 1963 : The United States Supreme Court rules 8–1 in Abington School District v. Schempp against requiring the reciting of Bible verses and the Lord's Prayer in public schools.
 <br/><br/>
-En 1977 : Oracle Corporation is incorporated in Redwood Shores, California, as Software Development Laboratories (SDL), by Larry Ellison, Bob Miner and Ed Oates.
+En 1963 : A day after South Vietnamese President Ngô Đình Diệm announced the Joint Communiqué to end the Buddhist crisis, a riot involving around 2,000 people breaks out. One person is killed.
 <br/><br/>
-En 1976 : Soweto uprising: A non-violent march by 15,000 students in Soweto, South Africa, turns into days of rioting when police open fire on the crowd.
+En 1960 : The Nez Perce tribe is awarded $4 million for 7 million acres (28,000 km2) of land undervalued at four cents/acre in the 1863 treaty.
 <br/><br/>
-En 1972 : The largest single-site hydroelectric power project in Canada is inaugurated at Churchill Falls Generating Station.
+En 1958 : The Ironworkers Memorial Second Narrows Crossing, in the process of being built to connect Vancouver and North Vancouver (Canada), collapses into the Burrard Inlet killing 18 ironworkers and injuring others.
 <br/><br/>
-En 1963 : Soviet Space Program: Vostok 6 mission: Cosmonaut Valentina Tereshkova becomes the first woman in space.
+En 1953 : Cold War: East Germany Workers Uprising: In East Germany, the Soviet Union orders a division of troops into East Berlin to quell a rebellion.
 <br/><br/>
-En 1963 : In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique was signed between President Ngo Dinh Diem and Buddhist leaders.
+En 1952 : Guatemala passes Decree 900, ordering the redistribution of uncultivated land.
 <br/><br/>
-En 1961 : While on tour with the Kirov Ballet in Paris, Rudolf Nureyev defects from the Soviet Union.
+En 1948 : United Airlines Flight 624, a Douglas DC-6, crashes near Mount Carmel, Pennsylvania, killing all 43 people on board.
 <br/><br/>
-En 1958 : Imre Nagy, Pál Maléter and other leaders of the 1956 Hungarian Uprising are executed.
+En 1944 : Iceland declares independence from Denmark and becomes a republic.
 <br/><br/>
-En 1955 : In a futile effort to topple Argentine President Juan Perón, rogue aircraft pilots of the Argentine Navy drop several bombs upon an unarmed crowd demonstrating in favor of Perón in Buenos Aires, killing 364 and injuring at least 800. At the same time on the ground, some soldiers attempt to stage a coup but are suppressed by loyal forces.
+En 1940 : World War II: RMS Lancastria is attacked and sunk by the Luftwaffe near Saint-Nazaire, France. At least 3,000 are killed in Britain's worst maritime disaster.
 <br/><br/>
-En 1948 : Members of the Malayan Communist Party kill three British plantation managers in Sungai Siput; in response, British Malaya declares a state of emergency.
+En 1940 : World War II: The British Army's 11th Hussars assault and take Fort Capuzzo in Libya from Italian forces.
 <br/><br/>
-En 1940 : World War II: Marshal Henri Philippe Pétain becomes Chief of State of Vichy France (Chef de l'État Français).
+En 1940 : The three Baltic states of Estonia, Latvia and Lithuania fall under the occupation of the Soviet Union.
 <br/><br/>
-En 1940 : A Communist government is installed in Lithuania.
+En 1939 : Last public guillotining in France: Eugen Weidmann, a convicted murderer, is executed in Versailles outside the Saint-Pierre prison.
 <br/><br/>
-En 1933 : The National Industrial Recovery Act is passed in the United States, allowing businesses to avoid antitrust prosecution if they establish voluntary wage, price, and working condition regulations on an industry-wide basis.
+En 1933 : Union Station massacre: In Kansas City, Missouri, four FBI agents and captured fugitive Frank Nash are gunned down by gangsters attempting to free Nash.
 <br/><br/>
-En 1930 : Sovnarkom establishes decree time in the USSR.
+En 1932 : Bonus Army: Around a thousand World War I veterans amass at the United States Capitol as the U.S. Senate considers a bill that would give them certain benefits.
 <br/><br/>
-En 1925 : Artek, the most famous Young Pioneer camp of the Soviet Union, is established.
+En 1930 : U.S. President Herbert Hoover signs the Smoot–Hawley Tariff Act into law.
 <br/><br/>
-En 1922 : General election in the Irish Free State: The pro-Treaty Sinn Féin party wins a large majority.
+En 1929 : The town of Murchison, New Zealand is rocked by a 7.8 magnitude earthquake killing 17. At the time it was New Zealand's worst natural disaster.
 <br/><br/>
-En 1911 : IBM founded as the Computing-Tabulating-Recording Company in Endicott, New York.
+En 1922 : Portuguese naval aviators Gago Coutinho and Sacadura Cabral complete the first aerial crossing of the South Atlantic.
 <br/><br/>
-En 1904 : Eugen Schauman assassinates Nikolay Bobrikov, Governor-General of Finland.
+En 1910 : Aurel Vlaicu pilots an A. Vlaicu nr. 1 on its first flight.
 <br/><br/>
-En 1904 : Irish author James Joyce begins a relationship with Nora Barnacle and subsequently uses the date to set the actions for his novel Ulysses; this date is now traditionally called "Bloomsday".
+En 1901 : The College Board introduces its first standardized test, the forerunner to the SAT.
 <br/><br/>
-En 1903 : The Ford Motor Company is incorporated.
+En 1900 : Boxer Rebellion: Western Allied and Japanese forces capture the Taku Forts in Tianjin, China.
 <br/><br/>
-En 1903 : Roald Amundsen leaves Oslo, Norway, to commence the first east–west navigation of the Northwest Passage.
+En 1898 : The United States Navy Hospital Corps is established.
 <br/><br/>
-En 1897 : A treaty annexing the Republic of Hawaii to the United States is signed; the Republic would not be dissolved until a year later.
+En 1885 : The Statue of Liberty arrives in New York Harbor.
 <br/><br/>
-En 1884 : The first purpose-built roller coaster, LaMarcus Adna Thompson's "Switchback Railway", opens in New York's Coney Island amusement park.
+En 1877 : American Indian Wars: Battle of White Bird Canyon: The Nez Perce defeat the U.S. Cavalry at White Bird Canyon in the Idaho Territory.
 <br/><br/>
-En 1883 : The Victoria Hall theatre panic in Sunderland, England, kills 183 children.
+En 1876 : American Indian Wars: Battle of the Rosebud: One thousand five hundred Sioux and Cheyenne led by Crazy Horse beat back General George Crook's forces at Rosebud Creek in Montana Territory.
 <br/><br/>
-En 1871 : The Universities Tests Act 1871 allows students to enter the universities of Oxford, Cambridge and Durham without religious tests (except for those intending to study theology).
+En 1863 : American Civil War: Battle of Aldie in the Gettysburg Campaign.
 <br/><br/>
-En 1858 : Abraham Lincoln delivers his House Divided speech in Springfield, Illinois.
+En 1861 : American Civil War: Battle of Vienna, Virginia.
 <br/><br/>
-En 1846 : The Papal conclave of 1846 elects Pope Pius IX, beginning the longest reign in the history of the papacy.
+En 1843 : The Wairau Affray, the first serious clash of arms between Māori and British settlers in the New Zealand Wars, takes place.
 <br/><br/>
-En 1836 : The formation of the London Working Men's Association gives rise to the Chartist Movement.
+En 1839 : In the Kingdom of Hawaii, Kamehameha III issues the edict of toleration which gives Roman Catholics the freedom to worship in the Hawaiian Islands. The Hawaii Catholic Church and the Cathedral of Our Lady of Peace are established as a result.
 <br/><br/>
-En 1824 : A meeting at Old Slaughter's coffee house in London leads to the formation of what is now the Royal Society for the Prevention of Cruelty to Animals (RSPCA).
+En 1795 : The burghers of Swellendam expel the Dutch East India Company magistrate and declare a republic.
 <br/><br/>
-En 1819 : A major earthquake strikes the Kutch district of western India, killing over 1,543 people and raising a 6-metre-high (20 ft), 6-kilometre-wide (3.7 mi), ridge, extending for at least 80 kilometres (50 mi), that was known as the Allah Bund ("Dam of God").
+En 1794 : Foundation of Anglo-Corsican Kingdom.
 <br/><br/>
-En 1815 : Battle of Ligny and Battle of Quatre Bras, two days before the Battle of Waterloo.
+En 1789 : In France, the Third Estate declares itself the National Assembly.
 <br/><br/>
-En 1811 : Survivors of an attack the previous day by Tla-o-qui-aht on board the Pacific Fur Company's ship Tonquin, intentionally detonate a powder magazine on the ship, destroying it and killing about 100 attackers.
+En 1775 : American Revolutionary War: Colonists inflict heavy casualties on British forces while losing the Battle of Bunker Hill.
 <br/><br/>
-En 1795 : French Revolutionary Wars: In what became known as Cornwallis's Retreat, a British Royal Navy squadron led by Vice Admiral William Cornwallis strongly resists a much larger French Navy force and withdraws largely intact, setting up the French Navy defeat at the Battle of Groix six days later.
+En 1773 : Cúcuta, Colombia, is founded by Juana Rangel de Cuéllar.
 <br/><br/>
-En 1779 : American Revolutionary War: Spain declares war on the Kingdom of Great Britain, and the Great Siege of Gibraltar begins.
+En 1767 : Samuel Wallis, a British sea captain, sights Tahiti and is considered the first European to reach the island.
 <br/><br/>
-En 1760 : French and Indian War: Robert Rogers and his Rangers surprise French held Fort Sainte Thérèse on the Richelieu River near Lake Champlain. The fort is raided and burned.
+En 1673 : French explorers Jacques Marquette and Louis Jolliet reach the Mississippi River and become the first Europeans to make a detailed account of its course.
 <br/><br/>
-En 1755 : French and Indian War: The French surrender Fort Beauséjour to the British, leading to the expulsion of the Acadians.
+En 1665 : Battle of Montes Claros: Portugal definitively secured independence from Spain in the last battle of the Portuguese Restoration War.
 <br/><br/>
-En 1746 : War of the Austrian Succession: Austria and Sardinia defeat a Franco-Spanish army at the Battle of Piacenza.
+En 1631 : Mumtaz Mahal dies during childbirth. Her husband, Mughal emperor Shah Jahan I, will spend the next 17 years building her mausoleum, the Taj Mahal.
 <br/><br/>
-En 1745 : War of the Austrian Succession: New England colonial troops under the command of William Pepperrell capture the Fortress of Louisbourg in Louisbourg, New France (Old Style date).
+En 1596 : The Dutch explorer Willem Barentsz discovers the Arctic archipelago of Spitsbergen.
 <br/><br/>
-En 1632 : The Plymouth Company granted a land patent to Thomas Purchase, the first settler of Pejepscot, Maine, settling at the site of Fort Andross.
+En 1579 : Sir Francis Drake claims a land he calls Nova Albion (modern California) for England.
 <br/><br/>
-En 1487 : Battle of Stoke Field: King Henry VII of England defeats the leaders of a Yorkist rebellion in the final engagement of the Wars of the Roses.
+En 1565 : Matsunaga Hisahide assassinates the 13th Ashikaga shōgun, Ashikaga Yoshiteru.
 <br/><br/>
-En 1407 : Ming–Hồ War: Retired King Hồ Quý Ly and his son King Hồ Hán Thương of Hồ dynasty are captured by the Ming armies.
+En 1497 : Battle of Deptford Bridge: Forces under King Henry VII defeat troops led by Michael An Gof.
 <br/><br/>
-En 632 : Yazdegerd III ascends the throne as king (shah) of the Persian Empire. He becomes the last ruler of the Sasanian dynasty (modern Iran).
+En 1462 : Vlad the Impaler attempts to assassinate Mehmed II (The Night Attack at Târgovişte), forcing him to retreat from Wallachia.
+<br/><br/>
+En 1397 : The Kalmar Union is formed under the rule of Margaret I of Denmark.
+<br/><br/>
+En 1300 : Turku Cathedral is consecrated by Bishop Magnus I in the city of Turku (Swedish: Åbo).
+<br/><br/>
+En 1242 : Following the Disputation of Paris, twenty-four carriage loads of Jewish religious manuscripts were burnt in Paris.
+<br/><br/>
+En 653 : Pope Martin I is arrested and taken to Constantinople, due to his opposition to monothelitism.
 <br/><br/>
