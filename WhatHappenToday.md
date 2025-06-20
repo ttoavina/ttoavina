@@ -4,95 +4,111 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/6 ?(Hover on the year)</h1>
+<h1> What happen this day 20/6 ?(Hover on the year)</h1>
 
-En 2020 : Animal rights advocate Regan Russell is run over and killed by a transport truck outside of a pig slaughterhouse in Burlington, Ontario.
+En 2019 : Iran's Air Defense Forces shoot down an American surveillance drone over the Strait of Hormuz amid rising tensions between the two countries.
 <br/><br/>
-En 2018 : The 10,000,000th United States Patent is issued.
+En 2011 : RusAir Flight 9605 crashes in Besovets during approach to Petrozavodsk Airport, killing 47.
 <br/><br/>
-En 2018 : Antwon Rose II is fatally shot in East Pittsburgh by East Pittsburgh Police Officer Michael Rosfeld after being involved in a near-fatal drive-by shooting.
+En 2003 : The Wikimedia Foundation is founded in St. Petersburg, Florida.
 <br/><br/>
-En 2012 : WikiLeaks founder Julian Assange requests asylum in London's Ecuadorian Embassy for fear of extradition to the US after publication of previously classified documents including footage of civilian killings by the US army.
+En 1996 : Space Shuttle Columbia launches on STS-78 to conduct life science and microgravity research aboard the Spacelab module.
 <br/><br/>
-En 2009 : Mass riots involving over 10,000 people and 10,000 police officers break out in Shishou, China, over the dubious circumstances surrounding the death of a local chef.
+En 1994 : The 1994 Imam Reza shrine bomb explosion in Iran leaves at least 25 dead and 70 to 300 injured.
 <br/><br/>
-En 2009 : War in North-West Pakistan: The Pakistani Armed Forces open Operation Rah-e-Nijat against the Taliban and other Islamist rebels in the South Waziristan area of the Federally Administered Tribal Areas.
+En 1991 : The German Bundestag votes to move seat of government from the former West German capital of Bonn to the present capital of Berlin.
 <br/><br/>
-En 2007 : The al-Khilani Mosque bombing in Baghdad leaves 78 people dead and another 218 injured.
+En 1990 : Asteroid Eureka is discovered.
 <br/><br/>
-En 2005 : Following a series of Michelin tire failures during the United States Grand Prix weekend at Indianapolis, and without an agreement being reached, 14 cars from seven teams in Michelin tires withdrew after completing the formation lap, leaving only six cars from three teams on Bridgestone tires to race.
+En 1990 : The 7.4 Mw  Manjil–Rudbar earthquake affects northern Iran with a maximum Mercalli intensity of X (Extreme), killing 35,000–50,000, and injuring 60,000–105,000.
 <br/><br/>
-En 1991 : The last Soviet army units in Hungary are withdrawn.
+En 1988 : Haitian president Leslie Manigat is ousted from power in a coup d'état led by Lieutenant General Henri Namphy.
 <br/><br/>
-En 1990 : The current international law defending indigenous peoples, Indigenous and Tribal Peoples Convention, 1989, is ratified for the first time by Norway.
+En 1982 : The International Conference on the Holocaust and Genocide opens in Tel Aviv, despite attempts by the Turkish government to cancel it, as it included presentations on the Armenian genocide.
 <br/><br/>
-En 1990 : The Communist Party of the Russian Soviet Federative Socialist Republic is founded in Moscow.
+En 1982 : The Argentine Corbeta Uruguay base on Southern Thule surrenders to Royal Marine commandos in the final action of the Falklands War.
 <br/><br/>
-En 1988 : Pope John Paul II canonizes 117 Vietnamese Martyrs.
+En 1979 : ABC News correspondent Bill Stewart is shot dead by a Nicaraguan National Guard soldier under the regime of Anastasio Somoza Debayle during the Nicaraguan Revolution. The murder is caught on tape and sparks an international outcry against the regime.
 <br/><br/>
-En 1987 : Basque separatist group ETA commits one of its most violent attacks, in which a bomb is set off in a supermarket, Hipercor, killing 21 and injuring 45.
+En 1975 : The film Jaws is released in the United States, becoming the highest-grossing film of that time and starting the trend of films known as "summer blockbusters".
 <br/><br/>
-En 1987 : Aeroflot Flight N-528 crashes at Berdiansk Airport in present-day Ukraine, killing eight people.
+En 1973 : Snipers fire upon left-wing Peronists in Buenos Aires, Argentina, in what is known as the Ezeiza massacre. At least 13 are killed and more than 300 are injured.
 <br/><br/>
-En 1985 : Members of the Revolutionary Party of Central American Workers, dressed as Salvadoran soldiers, attack the Zona Rosa area of San Salvador.
+En 1973 : Aeroméxico Flight 229 crashes on approach to Licenciado Gustavo Díaz Ordaz International Airport, killing all 27 people on board.
 <br/><br/>
-En 1982 : The People's Armed Police is de facto founded; It is officially established 10 months later on April 5, 1983
+En 1972 : Watergate scandal: An 18+1⁄2-minute gap appears in the tape recording of the conversations between U.S. President Richard Nixon and his advisers regarding the recent arrests of his operatives while breaking into the Watergate complex.
 <br/><br/>
-En 1978 : Garfield's first comic strip, originally published locally as Jon in 1976, goes into nationwide syndication.
+En 1964 : A Curtiss C-46 Commando crashes in the Shengang District of Taiwan, killing 57 people.
 <br/><br/>
-En 1965 : Nguyễn Cao Kỳ becomes Prime Minister of South Vietnam at the head of a military junta; General Nguyễn Văn Thiệu becomes the figurehead chief of state.
+En 1963 : Following the Cuban Missile Crisis, the Soviet Union and the United States sign an agreement to establish the so-called "red telephone" link between Washington, D.C., and Moscow.
 <br/><br/>
-En 1964 : The Civil Rights Act of 1964 is approved after surviving an 83-day filibuster in the United States Senate.
+En 1960 : The Mali Federation gains independence from France (it later splits into Mali and Senegal).
 <br/><br/>
-En 1961 : Kuwait declares independence from the United Kingdom.
+En 1959 : A rare June hurricane strikes Canada's Gulf of St. Lawrence killing 35.
 <br/><br/>
-En 1960 : Charlotte Motor Speedway holds its first NASCAR race, the inaugural World 600.
+En 1956 : A Venezuelan Super-Constellation crashes in the Atlantic Ocean off Asbury Park, New Jersey, killing 74 people.
 <br/><br/>
-En 1953 : Cold War: Julius and Ethel Rosenberg are executed at Sing Sing, in New York.
+En 1948 : The Deutsche Mark is introduced in Western Allied-occupied Germany. The Soviet Military Administration in Germany responded by imposing the Berlin Blockade four days later.
 <br/><br/>
-En 1947 : Pan Am Flight 121 crashes in the Syrian Desert near Mayadin, Syria, killing 15 and injuring 21.
+En 1945 : The United States Secretary of State approves the transfer of Wernher von Braun and his team of Nazi rocket scientists to the U.S. under Operation Paperclip.
 <br/><br/>
-En 1943 : The Philadelphia Eagles and Pittsburgh Steelers of the NFL merge for one season due to player shortages caused by World War II.
+En 1944 : World War II: The Battle of the Philippine Sea concludes with a decisive U.S. naval victory. The lopsided naval air battle is also known as the "Great Marianas Turkey Shoot".
 <br/><br/>
-En 1934 : The Communications Act of 1934 establishes the United States' Federal Communications Commission (FCC).
+En 1944 : World War II: During the Continuation War, the Soviet Union demands unconditional surrender from Finland during the beginning of partially successful Vyborg–Petrozavodsk Offensive. The Finnish government refuses.
 <br/><br/>
-En 1921 : The village of Knockcroghery, Ireland, is burned by British forces.
+En 1944 : The experimental MW 18014 V-2 rocket reaches an altitude of 176 km, becoming the first man-made object to reach outer space.
 <br/><br/>
-En 1913 : Natives Land Act, 1913 in South Africa implemented.
+En 1943 : The Detroit race riot breaks out and continues for three more days.
 <br/><br/>
-En 1910 : The first Father's Day is celebrated in Spokane, Washington.
+En 1943 : World War II: The Royal Air Force launches Operation Bellicose, the first shuttle bombing raid of the war. Avro Lancaster bombers damage the V-2 rocket production facilities at the Zeppelin Works while en route to an air base in Algeria.
 <br/><br/>
-En 1903 : Benito Mussolini, at the time a radical Socialist, is arrested by Bern police for advocating a violent general strike.
+En 1942 : The Holocaust: Kazimierz Piechowski and three others, dressed as members of the SS-Totenkopfverbände, steal an SS staff car and escape from the Auschwitz concentration camp.
 <br/><br/>
-En 1875 : The Herzegovinian rebellion against the Ottoman Empire begins.
+En 1926 : The 28th International Eucharistic Congress begins in Chicago, with over 250,000 spectators attending the opening procession.
 <br/><br/>
-En 1867 : Maximilian I of the Second Mexican Empire is executed by a firing squad in Querétaro, Querétaro.
+En 1921 : Workers of Buckingham and Carnatic Mills in the city of Chennai, India, begin a four-month strike.
 <br/><br/>
-En 1865 : Over two years after the Emancipation Proclamation, slaves in Galveston, Texas, United States, are officially informed of their freedom. The anniversary was officially celebrated in Texas and other states as Juneteenth. On June 17, 2021, Juneteenth officially became a federal holiday in the United States.
+En 1900 : Boxer Rebellion: The Imperial Chinese Army begins a 55-day siege of the Legation Quarter in Beijing, China.
 <br/><br/>
-En 1862 : President Abraham Lincoln signs the Territorial Slavery Act of 1862, which prohibits slavery in all current and future United States territories.
+En 1900 : Baron Eduard Toll, leader of the Russian Polar Expedition of 1900, departs Saint Petersburg in Russia on the explorer ship Zarya, never to return.
 <br/><br/>
-En 1850 : Princess Louise of the Netherlands marries Crown Prince Karl of Sweden–Norway.
+En 1895 : The Kiel Canal, crossing the base of the Jutland peninsula and the busiest artificial waterway in the world, is officially opened.
 <br/><br/>
-En 1846 : The first officially recorded, organized baseball game is played under Alexander Cartwright's rules on Hoboken, New Jersey's Elysian Fields with the New York Base Ball Club defeating the Knickerbockers 23–1. Cartwright umpired.
+En 1893 : Lizzie Borden is acquitted of the murders of her father and stepmother.
 <br/><br/>
-En 1821 : Decisive defeat of the Filiki Eteria by the Ottomans at Drăgășani (in Wallachia).
+En 1877 : Alexander Graham Bell installs the world's first commercial telephone service in Hamilton, Ontario, Canada.
 <br/><br/>
-En 1816 : Battle of Seven Oaks between North West Company and Hudson's Bay Company, near Winnipeg, Manitoba, Canada.
+En 1863 : American Civil War: West Virginia is admitted as the 35th U.S. state.
 <br/><br/>
-En 1811 : The Carlton House Fête is held in London to celebrate the establishment of the Regency era.
+En 1862 : Barbu Catargiu, the Prime Minister of Romania, is assassinated.
 <br/><br/>
-En 1800 : War of the Second Coalition Battle of Höchstädt results in a French victory over Austria.
+En 1840 : Samuel Morse receives the patent for the telegraph.
 <br/><br/>
-En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
+En 1837 : King William IV dies, and is succeeded by his niece, Victoria.
 <br/><br/>
-En 1718 : At least 73,000 people died in the 1718 Tongwei–Gansu earthquake due to landslides in the Qing dynasty.
+En 1819 : The U.S. vessel SS Savannah arrives at Liverpool, United Kingdom. It is the first steam-propelled vessel to cross the Atlantic, although most of the journey is made under sail.
 <br/><br/>
-En 1586 : English colonists leave Roanoke Island, after failing to establish England's first permanent settlement in North America.
+En 1791 : King Louis XVI, disguised as a valet, and the French royal family attempt to flee Paris during the French Revolution.
 <br/><br/>
-En 1306 : The Earl of Pembroke's army defeats Bruce's Scottish army at the Battle of Methven.
+En 1789 : Deputies of the French Third Estate take the Tennis Court Oath.
 <br/><br/>
-En 1179 : The Battle of Kalvskinnet takes place outside Nidaros (now Trondheim), Norway. Earl Erling Skakke is killed, and the battle changes the tide of the civil wars.
+En 1787 : Oliver Ellsworth moves at the Federal Convention to call the government the 'United States'.
 <br/><br/>
-En 325 : The original Nicene Creed is adopted at the First Council of Nicaea.
+En 1782 : The U.S. Congress adopts the Great Seal of the United States.
+<br/><br/>
+En 1756 : A British garrison is imprisoned in the Black Hole of Calcutta.
+<br/><br/>
+En 1685 : Monmouth Rebellion: James Scott, 1st Duke of Monmouth declares himself King of England at Bridgwater.
+<br/><br/>
+En 1652 : Tarhoncu Ahmed Pasha is appointed Grand Vizier of the Ottoman Empire.
+<br/><br/>
+En 1631 : The Sack of Baltimore: The Irish village of Baltimore is attacked by Barbary slave traders.
+<br/><br/>
+En 1622 : The Battle of Höchst takes place during the  Thirty Years' War.
+<br/><br/>
+En 1295 : The Treaty of Anagni, an attempt mediated by the papacy to end the War of the Sicilian Vespers, is signed by the crown of Aragon, the kingdom of France and kingdom of Naples.
+<br/><br/>
+En 1180 : First Battle of Uji, starting the Genpei War in Japan.
+<br/><br/>
+En 451 : Battle of Chalons: Flavius Aetius battles Attila the Hun. After the battle, which was inconclusive, Attila retreats, causing the Romans to interpret it as a victory.
 <br/><br/>
