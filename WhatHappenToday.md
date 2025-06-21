@@ -4,111 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 20/6 ?(Hover on the year)</h1>
+<h1> What happen this day 21/6 ?(Hover on the year)</h1>
 
-En 2019 : Iran's Air Defense Forces shoot down an American surveillance drone over the Strait of Hormuz amid rising tensions between the two countries.
+En 2012 : A boat carrying more than 200 migrants capsizes in the Indian Ocean between the Indonesian island of Java and Christmas Island, killing 17 people and leaving 70 others missing.
 <br/><br/>
-En 2011 : RusAir Flight 9605 crashes in Besovets during approach to Petrozavodsk Airport, killing 47.
+En 2012 : An Indonesian Air Force Fokker F27 Friendship crashes near Halim Perdanakusuma International Airport, killing 11.
 <br/><br/>
-En 2003 : The Wikimedia Foundation is founded in St. Petersburg, Florida.
+En 2009 : Greenland assumes self-rule.
 <br/><br/>
-En 1996 : Space Shuttle Columbia launches on STS-78 to conduct life science and microgravity research aboard the Spacelab module.
+En 2006 : Pluto's newly discovered moons are officially named Nix and Hydra.
 <br/><br/>
-En 1994 : The 1994 Imam Reza shrine bomb explosion in Iran leaves at least 25 dead and 70 to 300 injured.
+En 2006 : A Yeti Airlines de Havilland Canada DHC-6 Twin Otter crashes at Jumla Airport in Nepal, killing nine people.
 <br/><br/>
-En 1991 : The German Bundestag votes to move seat of government from the former West German capital of Bonn to the present capital of Berlin.
+En 2005 : Edgar Ray Killen, who had previously been unsuccessfully tried for the murders of James Chaney, Andrew Goodman, and Mickey Schwerner, is convicted of manslaughter 41 years afterwards (the case had been reopened in 2004).
 <br/><br/>
-En 1990 : Asteroid Eureka is discovered.
+En 2004 : SpaceShipOne becomes the first privately funded spaceplane to achieve spaceflight.
 <br/><br/>
-En 1990 : The 7.4 Mw  Manjil–Rudbar earthquake affects northern Iran with a maximum Mercalli intensity of X (Extreme), killing 35,000–50,000, and injuring 60,000–105,000.
+En 2001 : A federal grand jury in Alexandria, Virginia, indicts 13 Saudis and a Lebanese in the 1996 bombing of the Khobar Towers in Saudi Arabia that killed 19 American servicemen.
 <br/><br/>
-En 1988 : Haitian president Leslie Manigat is ousted from power in a coup d'état led by Lieutenant General Henri Namphy.
+En 2000 : Section 28 (of the Local Government Act 1988), outlawing the 'promotion' of homosexuality in the United Kingdom, is repealed in Scotland with a 99 to 17 vote.
 <br/><br/>
-En 1982 : The International Conference on the Holocaust and Genocide opens in Tel Aviv, despite attempts by the Turkish government to cancel it, as it included presentations on the Armenian genocide.
+En 1993 : Space Shuttle Endeavour is launched on STS-57 to retrieve the European Retrievable Carrier (EURECA) satellite. It is also the first shuttle mission to carry the Spacehab module.
 <br/><br/>
-En 1982 : The Argentine Corbeta Uruguay base on Southern Thule surrenders to Royal Marine commandos in the final action of the Falklands War.
+En 1989 : The U.S. Supreme Court rules in Texas v. Johnson, 491 U.S. 397, that American flag-burning is a form of political protest protected by the First Amendment.
 <br/><br/>
-En 1979 : ABC News correspondent Bill Stewart is shot dead by a Nicaraguan National Guard soldier under the regime of Anastasio Somoza Debayle during the Nicaraguan Revolution. The murder is caught on tape and sparks an international outcry against the regime.
+En 1985 : Braathens SAFE Flight 139 is hijacked on approach to Oslo Airport, Fornebu. Special forces arrest the hijacker and there are no fatalities.
 <br/><br/>
-En 1975 : The film Jaws is released in the United States, becoming the highest-grossing film of that time and starting the trend of films known as "summer blockbusters".
+En 1982 : John Hinckley is found not guilty by reason of insanity for the attempted assassination of U.S. President Ronald Reagan.
 <br/><br/>
-En 1973 : Snipers fire upon left-wing Peronists in Buenos Aires, Argentina, in what is known as the Ezeiza massacre. At least 13 are killed and more than 300 are injured.
+En 1978 : The original production of Tim Rice and Andrew Lloyd Webber's musical, Evita, based on the life of Eva Perón, opens at the Prince Edward Theatre, London.
 <br/><br/>
-En 1973 : Aeroméxico Flight 229 crashes on approach to Licenciado Gustavo Díaz Ordaz International Airport, killing all 27 people on board.
+En 1973 : The Primer Congreso del Hombre Andino is inaugurated in Arica, Chile.
 <br/><br/>
-En 1972 : Watergate scandal: An 18+1⁄2-minute gap appears in the tape recording of the conversations between U.S. President Richard Nixon and his advisers regarding the recent arrests of his operatives while breaking into the Watergate complex.
+En 1973 : In its decision in Miller v. California, 413 U.S. 15, the Supreme Court of the United States establishes the Miller test for determining whether something is obscene and not protected speech under the U.S. constitution.
 <br/><br/>
-En 1964 : A Curtiss C-46 Commando crashes in the Shengang District of Taiwan, killing 57 people.
+En 1970 : Penn Central declares Section 77 bankruptcy in what was the largest U.S. corporate bankruptcy to date.
 <br/><br/>
-En 1963 : Following the Cuban Missile Crisis, the Soviet Union and the United States sign an agreement to establish the so-called "red telephone" link between Washington, D.C., and Moscow.
+En 1964 : Three civil rights workers, Andrew Goodman, James Chaney and Michael Schwerner, are murdered in Neshoba County, Mississippi, United States, by members of the Ku Klux Klan.
 <br/><br/>
-En 1960 : The Mali Federation gains independence from France (it later splits into Mali and Senegal).
+En 1963 : Cardinal Giovanni Battista Montini is elected as Pope Paul VI.
 <br/><br/>
-En 1959 : A rare June hurricane strikes Canada's Gulf of St. Lawrence killing 35.
+En 1957 : Ellen Fairclough is sworn in as Canada's first female Cabinet Minister.
 <br/><br/>
-En 1956 : A Venezuelan Super-Constellation crashes in the Atlantic Ocean off Asbury Park, New Jersey, killing 74 people.
+En 1952 : The Philippine School of Commerce, through a republic act, is converted to Philippine College of Commerce, later to be the Polytechnic University of the Philippines.
 <br/><br/>
-En 1948 : The Deutsche Mark is introduced in Western Allied-occupied Germany. The Soviet Military Administration in Germany responded by imposing the Berlin Blockade four days later.
+En 1945 : World War II: The Battle of Okinawa ends when the organized resistance of Imperial Japanese Army forces collapses in the Mabuni area on the southern tip of the main island.
 <br/><br/>
-En 1945 : The United States Secretary of State approves the transfer of Wernher von Braun and his team of Nazi rocket scientists to the U.S. under Operation Paperclip.
+En 1942 : World War II: Tobruk falls to Italian and German forces; 33,000 Allied troops are taken prisoner.
 <br/><br/>
-En 1944 : World War II: The Battle of the Philippine Sea concludes with a decisive U.S. naval victory. The lopsided naval air battle is also known as the "Great Marianas Turkey Shoot".
+En 1942 : World War II: A Japanese submarine surfaces near the Columbia River in Oregon, firing 17 shells at Fort Stevens in one of only a handful of attacks by Japan against the United States mainland.
 <br/><br/>
-En 1944 : World War II: During the Continuation War, the Soviet Union demands unconditional surrender from Finland during the beginning of partially successful Vyborg–Petrozavodsk Offensive. The Finnish government refuses.
+En 1940 : World War II: Italy begins an unsuccessful invasion of France.
 <br/><br/>
-En 1944 : The experimental MW 18014 V-2 rocket reaches an altitude of 176 km, becoming the first man-made object to reach outer space.
+En 1930 : One-year conscription comes into force in France.
 <br/><br/>
-En 1943 : The Detroit race riot breaks out and continues for three more days.
+En 1929 : An agreement brokered by U.S. Ambassador Dwight Whitney Morrow ends the Cristero War in Mexico.
 <br/><br/>
-En 1943 : World War II: The Royal Air Force launches Operation Bellicose, the first shuttle bombing raid of the war. Avro Lancaster bombers damage the V-2 rocket production facilities at the Zeppelin Works while en route to an air base in Algeria.
+En 1921 : The Irish village of Knockcroghery was burned by British forces.
 <br/><br/>
-En 1942 : The Holocaust: Kazimierz Piechowski and three others, dressed as members of the SS-Totenkopfverbände, steal an SS staff car and escape from the Auschwitz concentration camp.
+En 1919 : The Royal Canadian Mounted Police fire a volley into a crowd of unemployed war veterans, killing two, during the Winnipeg general strike.
 <br/><br/>
-En 1926 : The 28th International Eucharistic Congress begins in Chicago, with over 250,000 spectators attending the opening procession.
+En 1919 : Admiral Ludwig von Reuter scuttles the German fleet at Scapa Flow, Orkney. The nine sailors killed are the last casualties of World War I.
 <br/><br/>
-En 1921 : Workers of Buckingham and Carnatic Mills in the city of Chennai, India, begin a four-month strike.
+En 1915 : The U.S. Supreme Court hands down its decision in Guinn v. United States 238 US 347 1915, striking down Oklahoma grandfather clause legislation which had the effect of denying the right to vote to blacks.
 <br/><br/>
-En 1900 : Boxer Rebellion: The Imperial Chinese Army begins a 55-day siege of the Legation Quarter in Beijing, China.
+En 1900 : Boxer Rebellion: China formally declares war on the United States, Britain, Germany, France and Japan, as an edict issued from the Empress Dowager Cixi.
 <br/><br/>
-En 1900 : Baron Eduard Toll, leader of the Russian Polar Expedition of 1900, departs Saint Petersburg in Russia on the explorer ship Zarya, never to return.
+En 1898 : The United States captures Guam from Spain. The few warning shots fired by the U.S. naval vessels are misinterpreted as salutes by the Spanish garrison, which was unaware that the two nations were at war.
 <br/><br/>
-En 1895 : The Kiel Canal, crossing the base of the Jutland peninsula and the busiest artificial waterway in the world, is officially opened.
+En 1864 : American Civil War: The Battle of Jerusalem Plank Road begins.
 <br/><br/>
-En 1893 : Lizzie Borden is acquitted of the murders of her father and stepmother.
+En 1848 : In the Wallachian Revolution, Ion Heliade Rădulescu and Christian Tell issue the Proclamation of Islaz and create a new republican government.
 <br/><br/>
-En 1877 : Alexander Graham Bell installs the world's first commercial telephone service in Hamilton, Ontario, Canada.
+En 1826 : Maniots defeat Egyptians under Ibrahim Pasha in the Battle of Vergas.
 <br/><br/>
-En 1863 : American Civil War: West Virginia is admitted as the 35th U.S. state.
+En 1824 : Greek War of Independence: Egyptian forces capture Psara in the Aegean Sea.
 <br/><br/>
-En 1862 : Barbu Catargiu, the Prime Minister of Romania, is assassinated.
+En 1813 : Peninsular War: Wellington defeats Joseph Bonaparte at the Battle of Vitoria.
 <br/><br/>
-En 1840 : Samuel Morse receives the patent for the telegraph.
+En 1798 : Irish Rebellion of 1798: The British Army defeats Irish rebels at the Battle of Vinegar Hill.
 <br/><br/>
-En 1837 : King William IV dies, and is succeeded by his niece, Victoria.
+En 1791 : King Louis XVI of France and his immediate family begin the Flight to Varennes during the French Revolution.
 <br/><br/>
-En 1819 : The U.S. vessel SS Savannah arrives at Liverpool, United Kingdom. It is the first steam-propelled vessel to cross the Atlantic, although most of the journey is made under sail.
+En 1788 : New Hampshire becomes the ninth state to ratify the Constitution of the United States.
 <br/><br/>
-En 1791 : King Louis XVI, disguised as a valet, and the French royal family attempt to flee Paris during the French Revolution.
+En 1768 : James Otis Jr. offends the King and Parliament in a speech to the Massachusetts General Court.
 <br/><br/>
-En 1789 : Deputies of the French Third Estate take the Tennis Court Oath.
+En 1749 : Halifax, Nova Scotia, is founded.
 <br/><br/>
-En 1787 : Oliver Ellsworth moves at the Federal Convention to call the government the 'United States'.
+En 1734 : In Montreal, New France, a  slave known by the French name of Marie-Joseph Angélique is put to death, having been convicted of setting the fire that destroyed much of the city.
 <br/><br/>
-En 1782 : The U.S. Congress adopts the Great Seal of the United States.
+En 1621 : Execution of 27 Czech noblemen on the Old Town Square in Prague as a consequence of the Battle of White Mountain.
 <br/><br/>
-En 1756 : A British garrison is imprisoned in the Black Hole of Calcutta.
+En 1582 : Sengoku period: Oda Nobunaga, the most powerful of the Japanese daimyōs, is forced to commit suicide by his own general Akechi Mitsuhide.
 <br/><br/>
-En 1685 : Monmouth Rebellion: James Scott, 1st Duke of Monmouth declares himself King of England at Bridgwater.
+En 1529 : French forces are driven out of northern Italy by Spain at the Battle of Landriano during the War of the League of Cognac.
 <br/><br/>
-En 1652 : Tarhoncu Ahmed Pasha is appointed Grand Vizier of the Ottoman Empire.
+En 1307 : Külüg Khan is enthroned as Khagan of the Mongols and Wuzong of the Yuan.
 <br/><br/>
-En 1631 : The Sack of Baltimore: The Irish village of Baltimore is attacked by Barbary slave traders.
-<br/><br/>
-En 1622 : The Battle of Höchst takes place during the  Thirty Years' War.
-<br/><br/>
-En 1295 : The Treaty of Anagni, an attempt mediated by the papacy to end the War of the Sicilian Vespers, is signed by the crown of Aragon, the kingdom of France and kingdom of Naples.
-<br/><br/>
-En 1180 : First Battle of Uji, starting the Genpei War in Japan.
-<br/><br/>
-En 451 : Battle of Chalons: Flavius Aetius battles Attila the Hun. After the battle, which was inconclusive, Attila retreats, causing the Romans to interpret it as a victory.
+En 533 : A Byzantine expeditionary fleet under Belisarios sails from Constantinople to attack the Vandals in Africa, via Greece and Sicily.
 <br/><br/>
