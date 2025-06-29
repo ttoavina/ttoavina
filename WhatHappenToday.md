@@ -4,125 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 28/6 ?(Hover on the year)</h1>
+<h1> What happen this day 29/6 ?(Hover on the year)</h1>
 
-En 2016 : A terrorist attack in Turkey's Istanbul Atatürk Airport kills 42 people and injures more than 230 others.
+En 2014 : The Islamic State of Iraq and the Levant self-declares its caliphate in Syria and northern Iraq.
 <br/><br/>
-En 2012 : The United States Supreme Court upholds the constitutionality of the Affordable Care Act's individual mandate in National Federation of Independent Business v. Sebelius.
+En 2012 : A derecho sweeps across the eastern United States, leaving at least 22 people dead and millions without power.
 <br/><br/>
-En 2009 : Honduran president Manuel Zelaya is ousted by a local military coup following a failed request to hold a referendum to rewrite the Honduran Constitution. This was the start of the 2009 Honduran constitutional crisis.
+En 2007 : Apple Inc. releases its first mobile phone, the iPhone.
 <br/><br/>
-En 2004 : Iraq War: Sovereign power is handed to the interim government of Iraq by the Coalition Provisional Authority, ending the U.S.-led rule of that nation.
+En 2006 : Hamdan v. Rumsfeld: The U.S. Supreme Court rules that President George W. Bush's plan to try Guantanamo Bay detainees in military tribunals violates U.S. and international law.
 <br/><br/>
-En 2001 : Slobodan Milošević is extradited to the ICTY in The Hague to stand trial.
+En 2002 : Naval clashes between South Korea and North Korea lead to the death of six South Korean sailors and sinking of a North Korean vessel.
 <br/><br/>
-En 1997 : Holyfield–Tyson II: Mike Tyson is disqualified in the third round for biting a piece off Evander Holyfield's ear.
+En 1995 : Space Shuttle program: STS-71 Mission (Atlantis) docks with the Russian space station Mir for the first time.
 <br/><br/>
-En 1989 : On the 600th anniversary of the Battle of Kosovo, Slobodan Milošević delivers the Gazimestan speech at the site of the historic battle.
+En 1995 : The Sampoong Department Store collapses in the Seocho District of Seoul, South Korea, killing 502 and injuring 937.
 <br/><br/>
-En 1987 : For the first time in military history, a civilian population is targeted for chemical attack when Iraqi warplanes bombed the Iranian town of Sardasht.
+En 1987 : Vincent van Gogh's painting, the Le Pont de Trinquetaille, is bought for $20.4 million at an auction in London, England.
 <br/><br/>
-En 1982 : Aeroflot Flight 8641 crashes in Mazyr, Belarus, killing 132 people.
+En 1976 : The Seychelles become independent from the United Kingdom.
 <br/><br/>
-En 1981 : A powerful bomb explodes in Tehran, killing 73 officials of the Islamic Republican Party.
+En 1976 : The Conference of Communist and Workers Parties of Europe convenes in East Berlin.
 <br/><br/>
-En 1978 : The United States Supreme Court, in Regents of the University of California v. Bakke bars quota systems in college admissions.
+En 1974 : Vice President Isabel Perón assumes powers and duties as Acting President of Argentina, while her husband President Juan Perón is terminally ill.
 <br/><br/>
-En 1976 : The Angolan court sentences US and UK mercenaries to death sentences and prison terms in the Luanda Trial.
+En 1974 : Mikhail Baryshnikov defects from the Soviet Union to Canada while on tour with the Kirov Ballet.
 <br/><br/>
-En 1973 : Elections are held for the Northern Ireland Assembly, which will lead to power-sharing between unionists and nationalists in Northern Ireland for the first time.
+En 1972 : The United States Supreme Court rules in the case Furman v. Georgia that arbitrary and inconsistent imposition of the death penalty violates the Eighth and Fourteenth Amendments and constitutes cruel and unusual punishment.
 <br/><br/>
-En 1969 : Stonewall riots begin in New York City, marking the start of the Gay Rights Movement.
+En 1972 : A Convair CV-580 and De Havilland Canada DHC-6 Twin Otter collide above Lake Winnebago near Appleton, Wisconsin, killing 13.
 <br/><br/>
-En 1964 : Malcolm X forms the Organization of Afro-American Unity.
+En 1971 : Prior to re-entry (following a record-setting stay aboard the Soviet Union's Salyut 1 space station), the crew capsule of the Soyuz 11 spacecraft depressurizes, killing the three cosmonauts on board. Georgy Dobrovolsky, Vladislav Volkov and Viktor Patsayev are the first humans to die in space.
 <br/><br/>
-En 1956 : In Poznań, workers from HCP factory go to the streets, sparking one of the first major protests against communist government both in Poland and Europe.
+En 1956 : The Federal Aid Highway Act of 1956 is signed by U.S. President Dwight D. Eisenhower, officially creating the United States Interstate Highway System.
 <br/><br/>
-En 1950 : Korean War: Suspected communist sympathizers (between 60,000 and 200,000) are executed in the Bodo League massacre.
+En 1952 : The first Miss Universe pageant is held. Armi Kuusela from Finland wins the title of Miss Universe 1952.
 <br/><br/>
-En 1950 : Korean War: Packed with its own refugees fleeing Seoul and leaving their 5th Division stranded, South Korean forces blow up the Hangang Bridge in an attempt to slow North Korea's offensive. The city falls later that day.
+En 1950 : Korean War: U.S. President Harry S. Truman authorizes a sea blockade of Korea.
 <br/><br/>
-En 1950 : Korean War: The Korean People's Army kills almost a thousand doctors, nurses, inpatient civilians and wounded soldiers in the Seoul National University Hospital massacre.
+En 1945 : The Soviet Union annexes the Czechoslovak province of Carpathian Ruthenia.
 <br/><br/>
-En 1948 : Cold War: The Tito–Stalin Split results in the expulsion of the League of Communists of Yugoslavia from the Cominform.
+En 1927 : The Bird of Paradise, a U.S. Army Air Corps Fokker tri-motor, completes the first transpacific flight, from the mainland United States to Hawaii.
 <br/><br/>
-En 1948 : Boxer Dick Turpin beats Vince Hawkins at Villa Park in Birmingham to become the first black British boxing champion in the modern era.
+En 1922 : France grants "one square kilometer" at Vimy Ridge "freely, and for all time, to the Government of Canada, the free use of the land exempt from all taxes".
 <br/><br/>
-En 1945 : Poland's Soviet-allied Provisional Government of National Unity is formed over a month after V-E Day.
+En 1916 : British diplomat turned Irish nationalist Roger Casement is sentenced to death for his part in the Easter Rising.
 <br/><br/>
-En 1942 : World War II: Nazi Germany starts its strategic summer offensive against the Soviet Union, codenamed Case Blue.
+En 1915 : The North Saskatchewan River flood of 1915 is the worst flood in Edmonton history.
 <br/><br/>
-En 1940 : Romania cedes Bessarabia and Northern Bukovina to the Soviet Union after facing an ultimatum.
+En 1889 : Hyde Park and several other Illinois townships vote to be annexed by Chicago, forming the largest United States city in area and second largest in population at the time.
 <br/><br/>
-En 1936 : The Japanese puppet state of Mengjiang is formed in northern China.
+En 1888 : George Edward Gouraud records Handel's Israel in Egypt onto a phonograph cylinder, thought for many years to be the oldest known recording of music.
 <br/><br/>
-En 1926 : Mercedes-Benz is formed by Gottlieb Daimler and Karl Benz merging their two companies.
+En 1881 : In Sudan, Muhammad Ahmad declares himself to be the Mahdi, the messianic redeemer of Islam.
 <br/><br/>
-En 1922 : The Irish Civil War begins with the shelling of the Four Courts in Dublin by Free State forces.
+En 1880 : France annexes Tahiti, renaming the independent Kingdom of Tahiti as "Etablissements de français de l'Océanie".
 <br/><br/>
-En 1921 : Serbian King Alexander I proclaims the new constitution of the Kingdom of Serbs, Croats and Slovenes, known thereafter as the Vidovdan Constitution.
+En 1874 : Greek politician Charilaos Trikoupis publishes a manifesto in the Athens daily Kairoi entitled "Who's to Blame?" leveling complaints against King George. Trikoupis is elected Prime Minister of Greece the next year.
 <br/><br/>
-En 1919 : The Treaty of Versailles is signed, ending the state of war between Germany and the Allies of World War I.
+En 1864 : At least 99 people, mostly German and Polish immigrants, are killed in Canada's worst railway disaster after a train fails to stop for an open drawbridge and plunges into the Rivière Richelieu near St-Hilaire, Quebec.
 <br/><br/>
-En 1917 : World War I: Greece joins the Allied powers.
+En 1850 : Autocephaly officially granted by the Ecumenical Patriarchate of Constantinople to the Church of Greece.
 <br/><br/>
-En 1914 : Archduke Franz Ferdinand of Austria and his wife Sophie are assassinated in Sarajevo; this is the casus belli of World War I.
+En 1807 : Russo-Turkish War: Admiral Dmitry Senyavin destroys the Ottoman fleet in the Battle of Athos.
 <br/><br/>
-En 1911 : The Nakhla meteorite,  the first one to suggest signs of aqueous processes on Mars, falls to Earth, landing in Egypt.
+En 1786 : Alexander Macdonell and over five hundred Roman Catholic highlanders leave Scotland to settle in Glengarry County, Ontario.
 <br/><br/>
-En 1904 : The SS Norge runs aground on Hasselwood Rock in the North Atlantic 430 kilometres (270 mi) northwest of Ireland. More than 635 people die during the sinking.
+En 1764 : One of the strongest tornadoes in history strikes Woldegk, Germany, killing one person while leveling numerous mansions with winds estimated greater than 300 miles per hour (480 km/h).
 <br/><br/>
-En 1902 : The U.S. Congress passes the Spooner Act, authorizing President Theodore Roosevelt to acquire rights from Colombia for the Panama Canal.
+En 1659 : At the Battle of Konotop the Ukrainian armies of Ivan Vyhovsky defeat the Russians led by Prince Trubetskoy.
 <br/><br/>
-En 1896 : An explosion in the Newton Coal Company's Twin Shaft Mine in Pittston, Pennsylvania results in a massive cave-in that kills 58 miners.
+En 1644 : Charles I of England defeats a Parliamentarian detachment at the Battle of Cropredy Bridge.
 <br/><br/>
-En 1895 : The United States Court of Private Land Claims rules James Reavis's claim to Barony of Arizona is "wholly fictitious and fraudulent."
+En 1620 : English crown bans tobacco growing in England, giving the Virginia Company a monopoly in exchange for tax of one shilling per pound.
 <br/><br/>
-En 1894 : Labor Day becomes an official US holiday.
+En 1613 : The Globe Theatre in London, built by William Shakespeare's playing company, the Lord Chamberlain's Men, burns to the ground.
 <br/><br/>
-En 1882 : The Anglo-French Convention of 1882 marks the territorial boundaries between Guinea and Sierra Leone.
+En 1534 : Jacques Cartier is the first European to reach Prince Edward Island.
 <br/><br/>
-En 1881 : The Austro–Serbian Alliance of 1881 is secretly signed.
+En 1457 : The Dutch city of Dordrecht is devastated by fire
 <br/><br/>
-En 1880 : Australian bushranger Ned Kelly is captured at Glenrowan.
+En 1444 : Skanderbeg defeats an Ottoman invasion force at Torvioll.
 <br/><br/>
-En 1870 : The US Congress establishes the first federal holidays (New Year Day, July 4th, Thanksgiving, and Christmas).
+En 1194 : Sverre is crowned King of Norway, leading to his excommunication by the Catholic Church and civil war.
 <br/><br/>
-En 1865 : The Army of the Potomac is disbanded.
+En 1170 : A major earthquake hits Syria, badly damaging towns such as Hama and Shaizar and structures such as the Krak des Chevaliers and the cathedral of St. Peter in Antioch.
 <br/><br/>
-En 1859 : The first conformation dog show is held in Newcastle upon Tyne, England.
+En 1149 : Raymond of Poitiers is defeated and killed at the Battle of Inab by Nur ad-Din Zangi.
 <br/><br/>
-En 1855 : Sigma Chi fraternity is founded in North America.
-<br/><br/>
-En 1841 : The Paris Opera Ballet premieres Giselle in the Salle Le Peletier.
-<br/><br/>
-En 1838 : Coronation of Queen Victoria of the United Kingdom.
-<br/><br/>
-En 1807 : Second British invasion of the Río de la Plata; John Whitelocke lands at Ensenada on an attempt to recapture Buenos Aires and is defeated by the locals.
-<br/><br/>
-En 1797 : French troops disembark in Corfu, beginning the French rule in the Ionian Islands.
-<br/><br/>
-En 1778 : American Revolutionary War: The American Continentals engage the British in the Battle of Monmouth Courthouse resulting in standstill and British withdrawal under cover of darkness.
-<br/><br/>
-En 1776 : American Revolutionary War: The Battle of Sullivan's Island ends with the American victory, leading to the commemoration of Carolina Day.
-<br/><br/>
-En 1776 : American Revolutionary War: Thomas Hickey, Continental Army private and bodyguard to General George Washington, is hanged for mutiny and sedition.
-<br/><br/>
-En 1745 : A New England colonial army captures the French fortifications at Louisbourg (New Style).
-<br/><br/>
-En 1651 : The Battle of Berestechko between Poland and Ukraine starts.
-<br/><br/>
-En 1635 : Guadeloupe becomes a French colony.
-<br/><br/>
-En 1575 : Sengoku period of Japan: The combined forces of Oda Nobunaga and Tokugawa Ieyasu are victorious in the Battle of Nagashino.
-<br/><br/>
-En 1519 : Charles V is elected Emperor of the Holy Roman Empire.
-<br/><br/>
-En 1495 : A French force heavily defeats a much larger Neapolitan and Spanish army at the battle of Seminara, leading to the creation of the Tercios by Gonzalo de Córdoba.
-<br/><br/>
-En 1461 : Edward, Earl of March, is crowned King Edward IV of England.
-<br/><br/>
-En 1360 : Muhammed VI becomes the tenth Nasrid king of Granada after killing his brother-in-law Ismail II.
-<br/><br/>
-En 1098 : Fighters of the First Crusade defeat Kerbogha of Mosul at the battle of Antioch.
+En 226 : Cao Rui succeeds his father as emperor of Wei.
 <br/><br/>
