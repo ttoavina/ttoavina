@@ -4,93 +4,119 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 29/6 ?(Hover on the year)</h1>
+<h1> What happen this day 30/6 ?(Hover on the year)</h1>
 
-En 2014 : The Islamic State of Iraq and the Levant self-declares its caliphate in Syria and northern Iraq.
+En 2023 : A Tajik citizen with ISIS connections, wanted in Tajikistan for murder and kidnapping, kills two people at Chișinău International Airport in Moldova, after being denied entry to the country.
 <br/><br/>
-En 2012 : A derecho sweeps across the eastern United States, leaving at least 22 people dead and millions without power.
+En 2021 : The Tiger Fire ignites near Black Canyon City, Arizona, and goes on to burn 16,278 acres (6,587 ha) of land before being fully contained on July 30.
 <br/><br/>
-En 2007 : Apple Inc. releases its first mobile phone, the iPhone.
+En 2019 : Donald Trump becomes the first sitting US President to visit the Democratic People's Republic of Korea (North Korea).
 <br/><br/>
-En 2006 : Hamdan v. Rumsfeld: The U.S. Supreme Court rules that President George W. Bush's plan to try Guantanamo Bay detainees in military tribunals violates U.S. and international law.
+En 2015 : A Hercules C-130 military aircraft with 113 people on board crashes in a residential area in Medan, Indonesia, resulting in at least 116 deaths.
 <br/><br/>
-En 2002 : Naval clashes between South Korea and North Korea lead to the death of six South Korean sailors and sinking of a North Korean vessel.
+En 2013 : Nineteen firefighters die controlling a wildfire near Yarnell, Arizona.
 <br/><br/>
-En 1995 : Space Shuttle program: STS-71 Mission (Atlantis) docks with the Russian space station Mir for the first time.
+En 2013 : Protests begin around Egypt against President Mohamed Morsi and the ruling Freedom and Justice Party, leading to their overthrow during the 2013 Egyptian coup d'état.
 <br/><br/>
-En 1995 : The Sampoong Department Store collapses in the Seocho District of Seoul, South Korea, killing 502 and injuring 937.
+En 2009 : Yemenia Flight 626, an Airbus A310-300, crashes into the Indian Ocean near Comoros, killing 152 of the 153 people on board. A 14-year-old girl named Bahia Bakari survives the crash.
 <br/><br/>
-En 1987 : Vincent van Gogh's painting, the Le Pont de Trinquetaille, is bought for $20.4 million at an auction in London, England.
+En 2007 : A Jeep Cherokee filled with propane canisters drives into the entrance of Glasgow Airport, Scotland in a failed terrorist attack. This was linked to the 2007 London car bombs that had taken place the day before.
 <br/><br/>
-En 1976 : The Seychelles become independent from the United Kingdom.
+En 1994 : During a test flight of an Airbus A330-300 at Toulouse–Blagnac Airport, the aircraft crashes killing all seven people on board.
 <br/><br/>
-En 1976 : The Conference of Communist and Workers Parties of Europe convenes in East Berlin.
+En 1993 : Malta is officially subdivided into 68 local councils by the Local Councils Act.
 <br/><br/>
-En 1974 : Vice President Isabel Perón assumes powers and duties as Acting President of Argentina, while her husband President Juan Perón is terminally ill.
+En 1990 : East and West Germany merge their economies.
 <br/><br/>
-En 1974 : Mikhail Baryshnikov defects from the Soviet Union to Canada while on tour with the Kirov Ballet.
+En 1989 : A coup d'état in Sudan deposes the democratically elected government of Prime Minister Sadiq al-Mahdi and President Ahmed al-Mirghani.
 <br/><br/>
-En 1972 : The United States Supreme Court rules in the case Furman v. Georgia that arbitrary and inconsistent imposition of the death penalty violates the Eighth and Fourteenth Amendments and constitutes cruel and unusual punishment.
+En 1986 : The U.S. Supreme Court rules in Bowers v. Hardwick that states can outlaw homosexual acts between consenting adults.
 <br/><br/>
-En 1972 : A Convair CV-580 and De Havilland Canada DHC-6 Twin Otter collide above Lake Winnebago near Appleton, Wisconsin, killing 13.
+En 1985 : Thirty-nine American hostages from the hijacked TWA Flight 847 are freed in Beirut after being held for 17 days.
 <br/><br/>
-En 1971 : Prior to re-entry (following a record-setting stay aboard the Soviet Union's Salyut 1 space station), the crew capsule of the Soyuz 11 spacecraft depressurizes, killing the three cosmonauts on board. Georgy Dobrovolsky, Vladislav Volkov and Viktor Patsayev are the first humans to die in space.
+En 1977 : The Southeast Asia Treaty Organization disbands.
 <br/><br/>
-En 1956 : The Federal Aid Highway Act of 1956 is signed by U.S. President Dwight D. Eisenhower, officially creating the United States Interstate Highway System.
+En 1974 : The Baltimore municipal strike of 1974 begins.
 <br/><br/>
-En 1952 : The first Miss Universe pageant is held. Armi Kuusela from Finland wins the title of Miss Universe 1952.
+En 1973 : Concorde 001 intercepts the path of a total solar eclipse and follows the moon's shadow, experiencing the longest total eclipse observation.
 <br/><br/>
-En 1950 : Korean War: U.S. President Harry S. Truman authorizes a sea blockade of Korea.
+En 1972 : The first leap second is added to the UTC time system.
 <br/><br/>
-En 1945 : The Soviet Union annexes the Czechoslovak province of Carpathian Ruthenia.
+En 1971 : The crew of the Soviet Soyuz 11 spacecraft are killed when their air supply escapes through a faulty valve.
 <br/><br/>
-En 1927 : The Bird of Paradise, a U.S. Army Air Corps Fokker tri-motor, completes the first transpacific flight, from the mainland United States to Hawaii.
+En 1968 : Pope Paul VI issues the Credo of the People of God.
 <br/><br/>
-En 1922 : France grants "one square kilometer" at Vimy Ridge "freely, and for all time, to the Government of Canada, the free use of the land exempt from all taxes".
+En 1966 : The National Organization for Women, the United States' largest feminist organization, is founded.
 <br/><br/>
-En 1916 : British diplomat turned Irish nationalist Roger Casement is sentenced to death for his part in the Easter Rising.
+En 1963 : Ciaculli bombing: a car bomb, intended for Mafia boss Salvatore Greco, kills seven police officers and military personnel near Palermo.
 <br/><br/>
-En 1915 : The North Saskatchewan River flood of 1915 is the worst flood in Edmonton history.
+En 1960 : Belgian Congo gains independence as Republic of the Congo (Léopoldville).
 <br/><br/>
-En 1889 : Hyde Park and several other Illinois townships vote to be annexed by Chicago, forming the largest United States city in area and second largest in population at the time.
+En 1959 : A United States Air Force F-100 Super Sabre from Kadena Air Base, Okinawa, crashes into a nearby elementary school, killing 11 students plus six residents from the local neighborhood.
 <br/><br/>
-En 1888 : George Edward Gouraud records Handel's Israel in Egypt onto a phonograph cylinder, thought for many years to be the oldest known recording of music.
+En 1956 : A TWA Super Constellation and a United Airlines DC-7 collide above the Grand Canyon in Arizona and crash, killing all 128 on board both airliners.
 <br/><br/>
-En 1881 : In Sudan, Muhammad Ahmad declares himself to be the Mahdi, the messianic redeemer of Islam.
+En 1953 : The first Chevrolet Corvette rolls off the assembly line in Flint, Michigan.
 <br/><br/>
-En 1880 : France annexes Tahiti, renaming the independent Kingdom of Tahiti as "Etablissements de français de l'Océanie".
+En 1944 : World War II: The Battle of Cherbourg ends with the fall of the strategically valuable port to American forces.
 <br/><br/>
-En 1874 : Greek politician Charilaos Trikoupis publishes a manifesto in the Athens daily Kairoi entitled "Who's to Blame?" leveling complaints against King George. Trikoupis is elected Prime Minister of Greece the next year.
+En 1937 : The world's first emergency telephone number, 999, is introduced in London.
 <br/><br/>
-En 1864 : At least 99 people, mostly German and Polish immigrants, are killed in Canada's worst railway disaster after a train fails to stop for an open drawbridge and plunges into the Rivière Richelieu near St-Hilaire, Quebec.
+En 1936 : Emperor Haile Selassie of Abyssinia appeals for aid to the League of Nations against Italy's invasion of his country.
 <br/><br/>
-En 1850 : Autocephaly officially granted by the Ecumenical Patriarchate of Constantinople to the Church of Greece.
+En 1934 : The Night of the Long Knives, Adolf Hitler's violent purge of his political rivals in Germany, takes place.
 <br/><br/>
-En 1807 : Russo-Turkish War: Admiral Dmitry Senyavin destroys the Ottoman fleet in the Battle of Athos.
+En 1922 : In Washington D.C., U.S. Secretary of State Charles Evans Hughes and Dominican Ambassador Francisco J. Peynado sign the Hughes–Peynado agreement, which ends the United States occupation of the Dominican Republic.
 <br/><br/>
-En 1786 : Alexander Macdonell and over five hundred Roman Catholic highlanders leave Scotland to settle in Glengarry County, Ontario.
+En 1921 : U.S. President Warren G. Harding appoints former President William Howard Taft as Chief Justice of the United States.
 <br/><br/>
-En 1764 : One of the strongest tornadoes in history strikes Woldegk, Germany, killing one person while leveling numerous mansions with winds estimated greater than 300 miles per hour (480 km/h).
+En 1916 : World War I: In "the day Sussex died", elements of the Royal Sussex Regiment take heavy casualties in the Battle of the Boar's Head at Richebourg-l'Avoué in France.
 <br/><br/>
-En 1659 : At the Battle of Konotop the Ukrainian armies of Ivan Vyhovsky defeat the Russians led by Prince Trubetskoy.
+En 1912 : The Regina Cyclone, Canada's deadliest tornado event, kills 28 people in Regina, Saskatchewan.
 <br/><br/>
-En 1644 : Charles I of England defeats a Parliamentarian detachment at the Battle of Cropredy Bridge.
+En 1908 : The Tunguska Event, the largest impact event on Earth in human recorded history, resulting in a massive explosion over Eastern Siberia.
 <br/><br/>
-En 1620 : English crown bans tobacco growing in England, giving the Virginia Company a monopoly in exchange for tax of one shilling per pound.
+En 1906 : The United States Congress passes the Meat Inspection Act and Pure Food and Drug Act.
 <br/><br/>
-En 1613 : The Globe Theatre in London, built by William Shakespeare's playing company, the Lord Chamberlain's Men, burns to the ground.
+En 1905 : Albert Einstein sends the article On the Electrodynamics of Moving Bodies, in which he introduces special relativity, for publication in Annalen der Physik.
 <br/><br/>
-En 1534 : Jacques Cartier is the first European to reach Prince Edward Island.
+En 1900 : A savage fire wrecked three steamships docked at a pier in Hoboken, New Jersey. Over 200 crew members and passengers are killed, and hundreds injured.
 <br/><br/>
-En 1457 : The Dutch city of Dordrecht is devastated by fire
+En 1892 : The Homestead Strike begins near Pittsburgh, Pennsylvania.
 <br/><br/>
-En 1444 : Skanderbeg defeats an Ottoman invasion force at Torvioll.
+En 1886 : The first transcontinental train trip across Canada departs from Montreal, Quebec. It arrives in Port Moody, British Columbia on July 4.
 <br/><br/>
-En 1194 : Sverre is crowned King of Norway, leading to his excommunication by the Catholic Church and civil war.
+En 1882 : Charles J. Guiteau is hanged in Washington, D.C. for the assassination of U.S. President James Garfield.
 <br/><br/>
-En 1170 : A major earthquake hits Syria, badly damaging towns such as Hama and Shaizar and structures such as the Krak des Chevaliers and the cathedral of St. Peter in Antioch.
+En 1864 : U.S. President Abraham Lincoln grants Yosemite Valley to California for "public use, resort and recreation".
 <br/><br/>
-En 1149 : Raymond of Poitiers is defeated and killed at the Battle of Inab by Nur ad-Din Zangi.
+En 1860 : The 1860 Oxford evolution debate at the Oxford University Museum of Natural History takes place.
 <br/><br/>
-En 226 : Cao Rui succeeds his father as emperor of Wei.
+En 1859 : French acrobat Charles Blondin crosses Niagara Falls on a tightrope.
+<br/><br/>
+En 1805 : Under An act to divide the Indiana Territory into two separate governments, adopted by the U.S. Congress on January 11, 1805, the Michigan Territory is organized.
+<br/><br/>
+En 1794 : Northwest Indian War: Native American forces under Blue Jacket attack Fort Recovery.
+<br/><br/>
+En 1758 : Seven Years' War: Habsburg Austrian forces destroy a Prussian reinforcement and supply convoy in the Battle of Domstadtl, helping to expel Prussian King Frederick the Great from Moravia.
+<br/><br/>
+En 1703 : The Battle of Ekeren between a Dutch force and a French force.
+<br/><br/>
+En 1688 : The Immortal Seven issue the Invitation to William, which would culminate in the Glorious Revolution.
+<br/><br/>
+En 1651 : The Deluge: Khmelnytsky Uprising: The Battle of Berestechko ends with a Polish victory.
+<br/><br/>
+En 1632 : The University of Tartu is founded.
+<br/><br/>
+En 1598 : The Spanish-held Castillo San Felipe del Morro in San Juan, Puerto Rico having been besieged for fifteen days, surrenders to an English force under Sir George Clifford, Earl of Cumberland.
+<br/><br/>
+En 1559 : King Henry II of France is mortally wounded in a jousting match against Gabriel, comte de Montgomery.
+<br/><br/>
+En 1521 : Spanish forces defeat a combined French and Navarrese army at the Battle of Noáin during the Spanish conquest of Iberian Navarre.
+<br/><br/>
+En 1422 : Battle of Arbedo between the duke of Milan and the Swiss cantons.
+<br/><br/>
+En 763 : The Byzantine army of emperor Constantine V defeats the Bulgarian forces in the Battle of Anchialus.
+<br/><br/>
+En 296 : Pope Marcellinus begins his papacy.
 <br/><br/>
