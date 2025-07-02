@@ -4,203 +4,117 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 1/7 ?(Hover on the year)</h1>
+<h1> What happen this day 2/7 ?(Hover on the year)</h1>
 
-En 2024 : At the centennial ceremony of the Dominion of Newfoundland National War Memorial, the Commonwealth War Graves Commission allowed an unprecedented second Canadian Tomb of the Unknown Soldier. The Royal Newfoundland Regiment soldier was entombed in the memorial at this ceremony.
+En 2024 : A stampede during a religious event in Uttar Pradesh, India, leaves at least 121 people dead and 150 others injured.
 <br/><br/>
-En 2020 : The United States–Mexico–Canada Agreement replaces NAFTA.
+En 2013 : The International Astronomical Union names Pluto's fourth and fifth moons, Kerberos and Styx.
 <br/><br/>
-En 2013 : Croatia becomes the 28th member of the European Union.
+En 2013 : A magnitude 6.1 earthquake strikes Aceh, Indonesia, killing at least 42 people and injuring 420 others.
 <br/><br/>
-En 2008 : Riots erupt in Mongolia in response to allegations of fraud surrounding the 2008 legislative elections.
+En 2010 : The South Kivu tank truck explosion in the Democratic Republic of the Congo kills at least 230 people.
 <br/><br/>
-En 2007 : Smoking in England is banned in all public indoor spaces.
+En 2008 : Colombian conflict: Íngrid Betancourt, a member of the Chamber of Representatives of Colombia, is released from captivity after being held for six and a half years by FARC.
 <br/><br/>
-En 2006 : The first operation of Qinghai–Tibet Railway is conducted in China.
+En 2005 : The Live 8 benefit concerts takes place in the G8 states and in South Africa. More than 1,000 musicians perform and are broadcast on 182 television networks and 2,000 radio networks.
 <br/><br/>
-En 2004 : Saturn orbit insertion of Cassini–Huygens begins at 01:12 UTC and ends at 02:48 UTC.
+En 2002 : Steve Fossett becomes the first person to fly solo around the world nonstop in a balloon.
 <br/><br/>
-En 2003 : Over 500,000 people protest against efforts to pass anti-sedition legislation in Hong Kong.
+En 2001 : The AbioCor self-contained artificial heart is first implanted.
 <br/><br/>
-En 2002 : The International Criminal Court is established to prosecute individuals for genocide, crimes against humanity, war crimes and the crime of aggression.
+En 2000 : Vicente Fox Quesada is elected the first President of México from an opposition party, the Partido Acción Nacional, after more than 70 years of continuous rule by the Partido Revolucionario Institucional.
 <br/><br/>
-En 2002 : Bashkirian Airlines Flight 2937, a Tupolev Tu-154, and DHL Flight 611, a Boeing 757, collide in mid-air over Überlingen, southern Germany, killing all 71 on board both planes.
+En 1997 : The Bank of Thailand floats the baht, triggering the Asian financial crisis.
 <br/><br/>
-En 1999 : The Scottish Parliament is officially opened by Elizabeth II on the day that legislative powers are officially transferred from the old Scottish Office in London to the new devolved Scottish Executive in Edinburgh. In Wales, the powers of the Welsh Secretary are transferred to the National Assembly.
+En 1994 : USAir Flight 1016 crashes near Charlotte Douglas International Airport, killing 37 of the 57 people on board.
 <br/><br/>
-En 1997 : China resumes sovereignty over the city-state of Hong Kong, ending 156 years of British colonial rule. The handover ceremony is attended by British Prime Minister Tony Blair, Charles, Prince of Wales, Chinese President Jiang Zemin and U.S. Secretary of State Madeleine Albright.
+En 1990 : In the 1990 Mecca tunnel tragedy, 1,400 Muslim pilgrims are suffocated to death and trampled upon in a pedestrian tunnel leading to the holy city of Mecca.
 <br/><br/>
-En 1997 : Space Shuttle program: Space Shuttle Columbia is launched on STS-94, a re-flight of the prematurely-ended STS-83 mission with the same crew.
+En 1988 : Marcel Lefebvre and the four bishops he consecrated were excommunicated by the Holy See.
 <br/><br/>
-En 1991 : Cold War: The Warsaw Pact is officially dissolved at a meeting in Prague.
+En 1986 : Rodrigo Rojas and Carmen Gloria Quintana are burnt alive during a street demonstration against the dictatorship of General Augusto Pinochet in Chile.
 <br/><br/>
-En 1991 : The Finnish operator Radiolinja is launched as the world's first GSM network.
+En 1986 : Aeroflot Flight 2306 crashes while attempting an emergency landing at Syktyvkar Airport in Syktyvkar, in present-day Komi Republic, Russia, killing 54 people.
 <br/><br/>
-En 1990 : German reunification: East Germany accepts the Deutsche Mark as its currency, thus uniting the economies of East and West Germany.
+En 1976 : End of South Vietnam; Communist North Vietnam annexes the former South Vietnam to form the unified Socialist Republic of Vietnam.
 <br/><br/>
-En 1987 : The American radio station WFAN in New York City is launched as the world's first all-sports radio station.
+En 1966 : France conducts its first nuclear weapon test in the Pacific, on Moruroa Atoll.
 <br/><br/>
-En 1984 : The PG-13 rating is introduced by the MPAA.
+En 1964 : Civil rights movement: U.S. President Lyndon B. Johnson signs the Civil Rights Act of 1964 meant to prohibit segregation in public places.
 <br/><br/>
-En 1983 : A North Korean Ilyushin Il-62M jet en route to Conakry Airport in Guinea crashes into the Fouta Djallon mountains in Guinea-Bissau, killing all 23 people on board.
+En 1962 : The first Walmart store, then known as Wal-Mart, opens for business in Rogers, Arkansas.
 <br/><br/>
-En 1983 : The Ministry of State Security is established as China's principal intelligence agency
+En 1940 : Indian independence leader Subhas Chandra Bose is arrested and detained in Calcutta.
 <br/><br/>
-En 1980 : "O Canada" officially becomes the national anthem of Canada.
+En 1940 : World War II: The SS Arandora Star is sunk by U-47 in the North Atlantic with the loss of over 800 lives, mostly civilians.
 <br/><br/>
-En 1979 : Sony introduces the Walkman.
+En 1937 : Amelia Earhart and navigator Fred Noonan are last heard from over the Pacific Ocean while attempting to make the first equatorial round-the-world flight.
 <br/><br/>
-En 1978 : The Northern Territory in Australia is granted self-government.
+En 1934 : The Night of the Long Knives ends after three days of killings.
 <br/><br/>
-En 1976 : Portugal grants autonomy to Madeira.
+En 1921 : World War I: U.S. President Warren G. Harding signs the Knox–Porter Resolution formally ending the war between the United States and Germany.
 <br/><br/>
-En 1972 : The first Gay pride march in England takes place.
+En 1900 : An airship designed and constructed by Count Ferdinand von Zeppelin of Germany made its first flight on Lake Constance near Friedrichshafen.
 <br/><br/>
-En 1968 : The United States Central Intelligence Agency's Phoenix Program is officially established.
+En 1900 : Jean Sibelius' Finlandia receives its première performance in Helsinki with the Helsinki Philharmonic Society conducted by Robert Kajanus.
 <br/><br/>
-En 1968 : The Treaty on the Non-Proliferation of Nuclear Weapons is signed in Washington, D.C., London and Moscow by sixty-two countries.
+En 1897 : British-Italian engineer Guglielmo Marconi obtains a patent for radio in London.
 <br/><br/>
-En 1968 : Formal separation of the United Auto Workers from the AFL–CIO in the United States.
+En 1890 : The U.S. Congress passes the Sherman Antitrust Act.
 <br/><br/>
-En 1967 : Merger Treaty: The European Community is formally created out of a merger between the Common Market, the European Coal and Steel Community, and the European Atomic Energy Commission.
+En 1881 : Charles J. Guiteau shoots and fatally wounds U.S. President James A. Garfield (who will die of complications from his wounds on September 19).
 <br/><br/>
-En 1966 : The first color television transmission in Canada takes place from Toronto.
+En 1871 : Victor Emmanuel II of Italy enters Rome after having conquered it from the Papal States.
 <br/><br/>
-En 1966 : The People's Liberation Army Rocket Force (The known as the 2nd Artillery Corps) is founded.
+En 1864 : Dimitri Atanasescu founds the first Romanian school in the Balkans for the Aromanians in Trnovo, in the Ottoman Empire (now in North Macedonia).
 <br/><br/>
-En 1963 : ZIP codes are introduced for United States mail.
+En 1853 : The Russian Army crosses the Prut river into the Danubian Principalities (Moldavia and Wallachia), providing the spark that will set off the Crimean War.
 <br/><br/>
-En 1963 : The British Government admits that former diplomat Kim Philby had worked as a Soviet agent.
+En 1840 : A Ms  7.4 earthquake strikes present-day Turkey and Armenia; combined with the effects of an eruption on Mount Ararat, kills 10,000 people.
 <br/><br/>
-En 1962 : Independence of Rwanda and Burundi.
+En 1839 : Twenty miles off the coast of Cuba, 53 kidnapped Africans led by Joseph Cinqué mutiny and take over the slave ship Amistad.
 <br/><br/>
-En 1960 : The Trust Territory of Somaliland (the former Italian Somaliland) gains its independence from Italy. Concurrently, it unites as scheduled with the five-day-old State of Somaliland (the former British Somaliland) to form the Somali Republic.
+En 1823 : Bahia Independence Day: The end of Portuguese rule in Brazil, with the final defeat of the Portuguese crown loyalists in the province of Bahia.
 <br/><br/>
-En 1960 : Ghana becomes a republic and Kwame Nkrumah becomes its first President as Queen Elizabeth II ceases to be its head of state.
+En 1822 : Thirty-five slaves, including Denmark Vesey, are hanged in South Carolina after being accused of organizing a slave rebellion.
 <br/><br/>
-En 1959 : Specific values for the international yard, avoirdupois pound and derived units (e.g. inch, mile and ounce) are adopted after agreement between the US, the United Kingdom and other Commonwealth countries.
+En 1816 : The French frigate Méduse strikes the Bank of Arguin and 151 people on board have to be evacuated on an improvised raft, a case immortalised by Géricault's painting The Raft of the Medusa.
 <br/><br/>
-En 1958 : The Canadian Broadcasting Corporation links television broadcasting across Canada via microwave.
+En 1776 : American Revolution: The Continental Congress adopts the Lee Resolution severing ties with the Kingdom of Great Britain, although the wording of the formal Declaration of Independence is not adopted until July 4.
 <br/><br/>
-En 1958 : Flooding of Canada's Saint Lawrence Seaway begins.
+En 1724 : On the Feast of the Visitation, Bach leads the first performance of his Meine Seel erhebt den Herren, BWV 10, the fifth cantata of his chorale cantata cycle.
 <br/><br/>
-En 1957 : The International Geophysical Year begins.
+En 1723 : Bach's Magnificat is first performed.
 <br/><br/>
-En 1949 : The merger of two princely states of India, Cochin and Travancore, into the state of Thiru-Kochi (later re-organized as Kerala) in the Indian Union ends more than 1,000 years of princely rule by the Cochin royal family.
+En 1698 : Thomas Savery patents the first steam engine.
 <br/><br/>
-En 1948 : Muhammad Ali Jinnah (Quaid-i-Azam) inaugurates Pakistan's central bank, the State Bank of Pakistan.
+En 1645 : Battle of Alford: Wars of the Three Kingdoms.
 <br/><br/>
-En 1947 : The Philippine Air Force is established.
+En 1644 : English Civil War: Battle of Marston Moor.
 <br/><br/>
-En 1946 : Crossroads Able is the first postwar nuclear weapon test.
+En 1613 : The first English expedition (from Virginia) against Acadia led by Samuel Argall takes place.
 <br/><br/>
-En 1943 : The City of Tokyo and the Prefecture of Tokyo are both replaced by the Tokyo Metropolis.
+En 1582 : Battle of Yamazaki: Toyotomi Hideyoshi defeats Akechi Mitsuhide.
 <br/><br/>
-En 1942 : World War II: First Battle of El Alamein.
+En 1561 : Menas, emperor of Ethiopia, defeats a revolt in Emfraz.
 <br/><br/>
-En 1942 : The Australian Federal Government becomes the sole collector of income tax in Australia as State Income Tax is abolished.
+En 1555 : Ottoman Admiral Turgut Reis sacks the Italian city of Paola.
 <br/><br/>
-En 1935 : Regina, Saskatchewan, police and Royal Canadian Mounted Police ambush strikers participating in the On-to-Ottawa Trek.
+En 1504 : Bogdan III the One-Eyed becomes Voivode of Moldavia.
 <br/><br/>
-En 1932 : Australia's national broadcaster, the Australian Broadcasting Corporation, was formed.
+En 1494 : The Treaty of Tordesillas is ratified by Spain.
 <br/><br/>
-En 1931 : United Airlines begins service (as Boeing Air Transport).
+En 1298 : The Battle of Göllheim is fought between Albert I of Habsburg and Adolf of Nassau-Weilburg.
 <br/><br/>
-En 1931 : Wiley Post and Harold Gatty become the first people to circumnavigate the globe in a single-engined monoplane aircraft.
+En 963 : The Byzantine army proclaims Nikephoros II Phokas Emperor of the Romans on the plains outside Cappadocian Caesarea.
 <br/><br/>
-En 1924 : The National War Memorial for the Dominion of Newfoundland was inaugurated by Field Marshall Douglas Haig, 1st Earl Haig in St. John's, Newfoundland. The date commemorates the first day of the Battle of the Somme, where at Beaumont-Hamel, 86 percent of the Royal Newfoundland Regiment was wiped out.
+En 936 : King Henry the Fowler dies in his royal palace in Memleben. He is succeeded by his son Otto I, who becomes the ruler of East Francia.
 <br/><br/>
-En 1923 : The Parliament of Canada suspends all Chinese immigration.
+En 866 : Battle of Brissarthe: The Franks led by Robert the Strong are defeated by a joint Breton-Viking army.
 <br/><br/>
-En 1922 : The Great Railroad Strike of 1922 begins in the United States.
+En 706 : In China, Emperor Zhongzong of Tang inters the bodies of relatives in the Qianling Mausoleum, located on Mount Liang outside Chang'an.
 <br/><br/>
-En 1921 : The Chinese Communist Party is founded by Chen Duxiu and Li Dazhao, with the help of the Far Eastern Bureau of the Russian Social Democratic Labour Party (Bolsheviks), who seized power in Russia after the 1917 October Revolution, and the Far Eastern Secretariat of the Communist International.
+En 626 : Li Shimin, the future Emperor Taizong of Tang, ambushes and kills his rival brothers Li Yuanji and Li Jiancheng in the Xuanwu Gate Incident.
 <br/><br/>
-En 1917 : World War I: Russia launches an offensive against Austria-Hungary to capture Galicia, its final offensive of the war.
-<br/><br/>
-En 1917 : Chinese General Zhang Xun seizes control of Beijing and restores the monarchy, installing Puyi, last emperor of the Qing dynasty, to the throne. The restoration is reversed just shy of two weeks later, when Republican troops regain control of the capital.
-<br/><br/>
-En 1916 : World War I: First day on the Somme: On the first day of the Battle of the Somme 19,000 soldiers of the British Army are killed and 40,000 wounded.
-<br/><br/>
-En 1915 : Leutnant Kurt Wintgens of the then-named German Deutsches Heer's Fliegertruppe army air service achieves the first known aerial victory with a synchronized machine-gun armed fighter plane, the Fokker M.5K/MG Eindecker.
-<br/><br/>
-En 1911 : Germany dispatches the gunboat SMS Panther to Morocco, sparking the Agadir Crisis.
-<br/><br/>
-En 1908 : SOS is adopted as the international distress signal.
-<br/><br/>
-En 1903 : Start of first Tour de France bicycle race.
-<br/><br/>
-En 1901 : French government enacts its anti-clerical legislation Law of Association prohibiting the formation of new monastic orders without governmental approval.
-<br/><br/>
-En 1898 : Spanish–American War: The Battle of San Juan Hill is fought in Santiago de Cuba, Cuba.
-<br/><br/>
-En 1890 : Canada and Bermuda are linked by telegraph cable.
-<br/><br/>
-En 1885 : The United States terminates reciprocity and fishery agreement with Canada.
-<br/><br/>
-En 1885 : The Congo Free State is established by King Leopold II of Belgium.
-<br/><br/>
-En 1881 : The world's first international telephone call is made between St. Stephen, New Brunswick, Canada, and Calais, Maine, United States.
-<br/><br/>
-En 1881 : General Order 70, the culmination of the Cardwell and Childers reforms of the British Army, comes into effect.
-<br/><br/>
-En 1879 : Charles Taze Russell publishes the first edition of the religious magazine The Watchtower.
-<br/><br/>
-En 1878 : Canada joins the Universal Postal Union.
-<br/><br/>
-En 1874 : The Sholes and Glidden typewriter, the first commercially successful typewriter, goes on sale.
-<br/><br/>
-En 1873 : Prince Edward Island joins into Canadian Confederation.
-<br/><br/>
-En 1870 : The United States Department of Justice formally comes into existence.
-<br/><br/>
-En 1867 : The British North America Act takes effect as the Province of Canada, New Brunswick, and Nova Scotia join into confederation to create the modern nation of Canada. John A. Macdonald is sworn in as the first Prime Minister of Canada. This date is commemorated annually in Canada as Canada Day, a national holiday.
-<br/><br/>
-En 1863 : Slavery was abolished in the Dutch colony of Surinam, a date now celebrated as Ketikoti in independent Suriname.
-<br/><br/>
-En 1863 : American Civil War: The Battle of Gettysburg begins.
-<br/><br/>
-En 1862 : The Russian State Library is founded as the Library of the Moscow Public Museum.
-<br/><br/>
-En 1862 : Princess Alice of the United Kingdom, second daughter of Queen Victoria, marries Prince Louis of Hesse, the future Louis IV, Grand Duke of Hesse.
-<br/><br/>
-En 1862 : American Civil War: The Battle of Malvern Hill takes place. It is the last of the Seven Days Battles, part of George B. McClellan's Peninsula Campaign.
-<br/><br/>
-En 1858 : Joint reading of Charles Darwin and Alfred Russel Wallace's papers on evolution to the Linnean Society of London.
-<br/><br/>
-En 1855 : Signing of the Quinault Treaty: The Quinault and the Quileute cede their land to the United States.
-<br/><br/>
-En 1841 : Thomas Lempriere and James Clark Ross carve a marker on the Isle of the Dead in Van Diemen's Land to measure tidal variations, one of the earliest surviving benchmarks for sea level rise.
-<br/><br/>
-En 1837 : A system of civil registration of births, marriages and deaths is established in England and Wales.
-<br/><br/>
-En 1823 : The five Central American nations of Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica declare independence from the First Mexican Empire after being annexed the year prior.
-<br/><br/>
-En 1819 : Johann Georg Tralles discovers the Great Comet of 1819, (C/1819 N1). It is the first comet analyzed using polarimetry, by François Arago.
-<br/><br/>
-En 1782 : Raid on Lunenburg: American privateers attack the British settlement of Lunenburg, Nova Scotia.
-<br/><br/>
-En 1770 : Lexell's Comet is seen closer to the Earth than any other comet in recorded history, approaching to a distance of 0.0146 astronomical units (2,180,000 km; 1,360,000 mi).
-<br/><br/>
-En 1766 : François-Jean de la Barre, a young French nobleman, is tortured and beheaded before his body is burnt on a pyre along with a copy of Voltaire's Dictionnaire philosophique nailed to his torso for the crime of not saluting a Roman Catholic religious procession in Abbeville, France.
-<br/><br/>
-En 1690 : War of the Grand Alliance: Marshal de Luxembourg triumphs over an Anglo-Dutch army at the battle of Fleurus.
-<br/><br/>
-En 1690 : Glorious Revolution: Battle of the Boyne in Ireland (as reckoned under the Julian calendar).
-<br/><br/>
-En 1643 : First meeting of the Westminster Assembly, a council of theologians ("divines") and members of the Parliament of England appointed to restructure the Church of England, at Westminster Abbey in London.
-<br/><br/>
-En 1569 : Union of Lublin: The Kingdom of Poland and the Grand Duchy of Lithuania confirm a real union; the united country is called the Polish–Lithuanian Commonwealth or the Republic of Both Nations.
-<br/><br/>
-En 1523 : Jan van Essen and Hendrik Vos become the first Lutheran martyrs, burned at the stake by Roman Catholic authorities in Brussels.
-<br/><br/>
-En 1520 : Spanish conquistadors led by Hernán Cortés fight their way out of Tenochtitlan after nightfall.
-<br/><br/>
-En 1431 : The Battle of La Higueruela takes place in Granada, leading to a modest advance of the Kingdom of Castile during the Reconquista.
-<br/><br/>
-En 1097 : Battle of Dorylaeum: Crusaders led by prince Bohemond of Taranto defeat a Seljuk army led by sultan Kilij Arslan I.
-<br/><br/>
-En 552 : Battle of Taginae: Byzantine forces under Narses defeat the Ostrogoths in Italy, and the Ostrogoth king, Totila, is mortally wounded.
-<br/><br/>
-En 69 : Tiberius Julius Alexander orders his Roman legions in Alexandria to swear allegiance to Vespasian as Emperor.
+En 437 : Emperor Valentinian III begins his reign over the Western Roman Empire. His mother Galla Placidia ends her regency, but continues to exercise political influence at the court in Rome.
 <br/><br/>
