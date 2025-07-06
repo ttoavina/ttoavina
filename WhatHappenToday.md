@@ -4,129 +4,133 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 5/7 ?(Hover on the year)</h1>
+<h1> What happen this day 6/7 ?(Hover on the year)</h1>
 
-En 2024 : Keir Starmer is appointed Prime Minister by Charles III, becoming the first Labour prime minister since Gordon Brown in 2010 and the first one to win a general election since Tony Blair at the 2005 general election
+En 2022 : The Georgia Guidestones, a monument in the United States, are heavily damaged in a bombing, and are dismantled later the same day.
 <br/><br/>
-En 2022 : British government ministers Sajid Javid and Rishi Sunak resign from the second Johnson ministry, beginning the July 2022 United Kingdom government crisis.
+En 2021 : An Antonov An-26 operating as Petropavlovsk-Kamchatsky Air Flight 251 crashes on approach to Palana Airport, killing all 28 aboard.
 <br/><br/>
-En 2016 : The Juno space probe arrives at Jupiter and begins a 20-month survey of the planet.
+En 2013 : At least 42 people are killed in a shooting at a school in Yobe State, Nigeria.
 <br/><br/>
-En 2012 : The Shard in London is inaugurated as the tallest building in Europe, with a height of 310 metres (1,020 ft).
+En 2013 : A Boeing 777 operating as Asiana Airlines Flight 214 crashes at San Francisco International Airport, killing three and injuring 181 of the 307 people on board.
 <br/><br/>
-En 2009 : A series of violent riots break out in Ürümqi, the capital city of the Xinjiang Uyghur Autonomous Region in China.
+En 2013 : A 73-car oil train derails in the town of Lac-Mégantic, Quebec and explodes into flames, killing at least 47 people and destroying more than 30 buildings in the town's central area.
 <br/><br/>
-En 2009 : The largest hoard of Anglo-Saxon gold ever discovered in Britain, consisting of more than 1,500 items, is found near the village of Hammerwich, near Lichfield, Staffordshire.
+En 2006 : The Nathu La pass between India and China, sealed during the Sino-Indian War, re-opens for trade after 44 years.
 <br/><br/>
-En 2006 : North Korea tests four short-range missiles, one medium-range missile and a long-range Taepodong-2. The long-range Taepodong-2 reportedly fails in mid-air over the Sea of Japan.
+En 2003 : The 70-metre Yevpatoria Planetary Radar sends a METI message (Cosmic Call 2) to five stars: Hip 4872, HD 245409, 55 Cancri (HD 75732), HD 10307 and 47 Ursae Majoris (HD 95128). The messages will arrive to these stars in 2036, 2040, 2044, and 2049, respectively.
 <br/><br/>
-En 2004 : The first direct Indonesian presidential election is held.
+En 1998 : Hong Kong International Airport opens in Chek Lap Kok, Hong Kong, replacing Kai Tak Airport as the city's international airport.
 <br/><br/>
-En 2003 : The World Health Organization announces that the 2002–2004 SARS outbreak has been contained.
+En 1997 : The Troubles: In response to the Drumcree dispute, five days of mass protests, riots and gun battles begin in Irish nationalist districts of Northern Ireland.
 <br/><br/>
-En 1999 : U.S. President Bill Clinton imposes trade and economic sanctions against the Taliban regime in Afghanistan.
+En 1996 : A McDonnell Douglas MD-88 operating as Delta Air Lines Flight 1288 experiences a turbine engine failure during takeoff from Pensacola International Airport, killing two and injuring five of the 147 people on board.
 <br/><br/>
-En 1997 : Sri Lankan Civil War: Sri Lankan Tamil MP A. Thangathurai is shot dead at Sri Shanmuga Hindu Ladies College in Trincomalee.
+En 1995 : In the Bosnian War, under the command of General Ratko Mladić, Serbia begins its attack on the Bosnian town of Srebrenica.
 <br/><br/>
-En 1996 : Dolly the sheep becomes the first mammal cloned from an adult cell.
+En 1989 : The Tel Aviv–Jerusalem bus 405 suicide attack: Sixteen bus passengers are killed when a member of the Palestinian Islamic Jihad took control of the bus and drove it over a cliff.
 <br/><br/>
-En 1995 : Armenia adopts its constitution, four years after its independence from the Soviet Union.
+En 1988 : The Piper Alpha drilling platform in the North Sea is destroyed by explosions and fires. One hundred sixty-seven oil workers are killed, making it the world's worst offshore oil disaster in terms of direct loss of life.
 <br/><br/>
-En 1994 : Jeff Bezos founds Amazon.
+En 1982 : While attempting to return to Sheremetyevo International Airport, Aeroflot Flight 411, an Ilyushin Il-62, crashes near Mendeleyevo, Moscow Oblast, killing all 90 people on board.
 <br/><br/>
-En 1989 : Iran–Contra affair: Oliver North is sentenced by U.S. District Judge Gerhard A. Gesell to a three-year suspended prison term, two years probation, $150,000 in fines and 1,200 hours community service. His convictions are later overturned.
+En 1975 : The Comoros declares independence from France.
 <br/><br/>
-En 1987 : Sri Lankan Civil War: The LTTE uses suicide attacks on the Sri Lankan Army for the first time. The Black Tigers are born and, in the following years, will continue to kill with the tactic.
+En 1967 : Nigerian Civil War: Nigerian forces invade Biafra, beginning the war.
 <br/><br/>
-En 1984 : The United States Supreme Court gives its United States v. Leon decision providing a good-faith exception from the Fourth Amendment exclusionary rule against use of evidence obtained through defective warrants in criminal trials.
+En 1966 : Malawi becomes a republic, with Hastings Banda as its first President.
 <br/><br/>
-En 1980 : Swedish tennis player Björn Borg wins his fifth Wimbledon final and becomes the first male tennis player to win the championships five times in a row (1976–1980).
+En 1964 : Malawi declares its independence from the United Kingdom.
 <br/><br/>
-En 1977 : The Pakistan Armed Forces under Muhammad Zia-ul-Haq seize power in Operation Fair Play and begin 11 years of martial law. Zulfikar Ali Bhutto, the first elected Prime Minister of Pakistan, is overthrown.
+En 1962 : As a part of Operation Plowshare, the Sedan nuclear test takes place.
 <br/><br/>
-En 1975 : Arthur Ashe becomes the first black man to win the Wimbledon singles title.
+En 1962 : The Late Late Show, the world's longest-running chat show by the same broadcaster, airs on RTÉ One for the first time.
 <br/><br/>
-En 1975 : Cape Verde gains its independence from Portugal.
+En 1957 : Althea Gibson wins at the Wimbledon Championships, becoming the first black athlete to do so.
 <br/><br/>
-En 1973 : A boiling liquid expanding vapor explosion (BLEVE) in Kingman, Arizona, following a fire that broke out as propane was being transferred from a railroad car to a storage tank, kills eleven firefighters.
+En 1957 : John Lennon and Paul McCartney meet for the first time, as teenagers at Woolton Fete, three years before forming the Beatles.
 <br/><br/>
-En 1973 : Juvénal Habyarimana seizes power over Rwanda in a coup d'état.
+En 1947 : Referendum held in Sylhet to decide its fate in the Partition of India.
 <br/><br/>
-En 1971 : The Twenty-sixth Amendment to the United States Constitution, lowering the voting age from 21 to 18 years, is formally certified by President Richard Nixon.
+En 1947 : The AK-47 goes into production in the Soviet Union.
 <br/><br/>
-En 1970 : Air Canada Flight 621 crashes in Brampton, Ontario, Canada, killing all 109 people on board.
+En 1944 : Jackie Robinson refuses to move to the back of a bus, leading to a court-martial.
 <br/><br/>
-En 1962 : The official independence of Algeria is proclaimed after an eight-year-long war with France.
+En 1944 : The Hartford circus fire, one of America's worst fire disasters, kills approximately 168 people and injures over 700 in Hartford, Connecticut.
 <br/><br/>
-En 1954 : The BBC broadcasts its first daily television news bulletin.
+En 1942 : Anne Frank and her family go into hiding in the "Secret Annexe" above her father's office in an Amsterdam warehouse.
 <br/><br/>
-En 1954 : Elvis Presley records his first single, "That's All Right", at Sun Records in Memphis, Tennessee.
+En 1941 : World War II: The German army launches its offensive to encircle several Soviet armies near Smolensk.
 <br/><br/>
-En 1950 : Korean War: Task Force Smith: American and North Korean forces first clash, in the Battle of Osan.
+En 1940 : Story Bridge, a major landmark in Brisbane, as well as Australia's longest cantilever bridge is formally opened.
 <br/><br/>
-En 1950 : The Knesset of Israel passes the Law of Return which grants all Jews the right to immigrate to the Land of Israel.
+En 1939 : Anti-Jewish legislation in prewar Nazi Germany closes the last remaining Jewish enterprises.
 <br/><br/>
-En 1948 : National Health Service Acts create the national public health system in the United Kingdom.
+En 1937 : Spanish Civil War: Battle of Brunete: The battle begins with Spanish Republican troops going on the offensive against the Nationalists to relieve pressure on Madrid.
 <br/><br/>
-En 1946 : Micheline Bernardini models the first modern bikini at a swimming pool in Paris.
+En 1936 : A major breach of the Manchester Bolton & Bury Canal in England sends millions of gallons of water cascading 200 feet (61 m) into the River Irwell.
 <br/><br/>
-En 1945 : The United Kingdom holds its first general election in 10 years, which would be won by Clement Attlee's Labour Party.
+En 1933 : The first Major League Baseball All-Star Game is played in Chicago's Comiskey Park. The American League defeated the National League 4–2.
 <br/><br/>
-En 1943 : World War II: An Allied invasion fleet sails for Sicily (Operation Husky, July 10, 1943).
+En 1919 : The British dirigible R34 lands in New York, completing the first crossing of the Atlantic Ocean by an airship.
 <br/><br/>
-En 1943 : World War II: German forces begin a massive offensive against the Soviet Union at the Battle of Kursk, also known as Operation Citadel.
+En 1918 : The Left SR uprising in Russia starts with the assassination of German ambassador Wilhelm von Mirbach by Cheka members.
 <br/><br/>
-En 1941 : World War II: Operation Barbarossa: German troops reach the Dnieper river.
+En 1917 : World War I: Arabian troops led by T. E. Lawrence ("Lawrence of Arabia") and Auda ibu Tayi capture Aqaba from the Ottoman Empire during the Arab Revolt.
 <br/><br/>
-En 1940 : World War II: Foreign relations of Vichy France are severed with the United Kingdom.
+En 1892 : Three thousand eight hundred striking steelworkers engage in a day-long battle with Pinkerton agents during the Homestead Strike, leaving ten dead and dozens wounded.
 <br/><br/>
-En 1937 : Spam, the luncheon meat, is introduced into the market by the Hormel Foods Corporation.
+En 1887 : David Kalākaua, monarch of the Kingdom of Hawaii, is forced to sign the Bayonet Constitution, which transfers much of the king's authority to the Legislature of the Kingdom of Hawaii.
 <br/><br/>
-En 1935 : The National Labor Relations Act, which governs labor relations in the United States, is signed into law by President Franklin D. Roosevelt.
+En 1885 : Louis Pasteur successfully tests his vaccine against rabies on Joseph Meister, a boy who was bitten by a rabid dog.
 <br/><br/>
-En 1934 : "Bloody Thursday": The police open fire on striking longshoremen in San Francisco.
+En 1854 : The Republican Party of the United States held its first convention in Jackson, Michigan.
 <br/><br/>
-En 1915 : The Liberty Bell leaves Philadelphia by special train on its way to the Panama–Pacific International Exposition.  This is the last trip outside Philadelphia that the custodians of the bell intend to permit.
+En 1809 : The second day of the Battle of Wagram; France defeats the Austrian army in the largest battle to date of the Napoleonic Wars.
 <br/><br/>
-En 1884 : Germany takes possession of Cameroon.
+En 1801 : First Battle of Algeciras: Outnumbered French Navy ships defeat the Royal Navy in the fortified Spanish port of Algeciras.
 <br/><br/>
-En 1865 : The United States Secret Service begins operation.
+En 1791 : At Padua, the Emperor Leopold II calls on the monarchs of Europe to join him in demanding the king of France Louis XVI's freedom.
 <br/><br/>
-En 1859 : The United States discovers and claims Midway Atoll.
+En 1779 : Battle of Grenada: The French defeat British naval forces in the Caribbean during the American Revolutionary War.
 <br/><br/>
-En 1852 : Frederick Douglass delivers his "What to the Slave Is the Fourth of July?" speech in Rochester, New York.
+En 1777 : American Revolutionary War: Siege of Fort Ticonderoga: After a bombardment by British artillery under General John Burgoyne, American forces retreat from Fort Ticonderoga, New York.
 <br/><br/>
-En 1841 : Thomas Cook organises the first package excursion, from Leicester to Loughborough.
+En 1751 : Pope Benedict XIV suppresses the Patriarchate of Aquileia and establishes from its territory the Archdiocese of Udine and Gorizia.
 <br/><br/>
-En 1833 : Lê Văn Khôi along with 27 soldiers stage a mutiny taking over the Phiên An citadel, developing into the Lê Văn Khôi revolt against Emperor Minh Mạng.
+En 1685 : Battle of Sedgemoor: Last battle of the Monmouth Rebellion. Troops of King James II defeat troops of James Scott, 1st Duke of Monmouth.
 <br/><br/>
-En 1833 : Admiral Charles Napier vanquishes the navy of the Portuguese usurper Dom Miguel at the third Battle of Cape St. Vincent.
+En 1630 : Thirty Years' War: Four thousand Swedish troops under Gustavus Adolphus land in Pomerania, Germany.
 <br/><br/>
-En 1814 : War of 1812: Battle of Chippawa: American Major General Jacob Brown defeats British General Phineas Riall at Chippawa, Ontario.
+En 1614 : Raid on Żejtun: The south east of Malta, and the town of Żejtun, suffer a raid from Ottoman forces. This was the last unsuccessful attempt by the Ottomans to conquer the island of Malta.
 <br/><br/>
-En 1813 : War of 1812: Three weeks of British raids on Fort Schlosser, Black Rock and Plattsburgh, New York commence.
+En 1573 : Córdoba, Argentina, is founded by Jerónimo Luis de Cabrera.
 <br/><br/>
-En 1811 : The Venezuelan Declaration of Independence is adopted by a congress of the provinces.
+En 1573 : French Wars of Religion: Siege of La Rochelle ends.
 <br/><br/>
-En 1809 : The Battle of Wagram between the French and Austrian Empires begins.
+En 1560 : The Treaty of Edinburgh is signed by Scotland and England.
 <br/><br/>
-En 1807 : In Buenos Aires the local militias repel the British soldiers within the Second English Invasion.
+En 1557 : King Philip II of Spain, consort of Queen Mary I of England, sets out from Dover to war with France, which eventually resulted in the loss of the city of Calais, the last English possession on the continent, and Mary I never seeing her husband again.
 <br/><br/>
-En 1803 : The Convention of Artlenburg is signed, leading to the French occupation of the Electorate of Hanover (which had been ruled by the British king).
+En 1536 : The explorer Jacques Cartier lands at St. Malo at the end of his second expedition to North America. He returns with none of the gold he expected to find.
 <br/><br/>
-En 1775 : The Second Continental Congress adopts the Olive Branch Petition.
+En 1495 : First Italian War: Battle of Fornovo: Charles VIII defeats the Holy League.
 <br/><br/>
-En 1770 : The Battle of Chesma between the Russian Empire and the Ottoman Empire begins.
+En 1484 : Portuguese sea captain Diogo Cão finds the mouth of the Congo River.
 <br/><br/>
-En 1687 : Isaac Newton publishes Philosophiæ Naturalis Principia Mathematica.
+En 1483 : Richard III and Anne Neville are crowned King and Queen of England.
 <br/><br/>
-En 1610 : John Guy sets sail from Bristol with 39 other colonists for Newfoundland.
+En 1438 : A temporary compromise between the rebellious Transylvanian peasants and the noblemen is signed in Kolozsmonostor Abbey.
 <br/><br/>
-En 1594 : Portuguese forces under the command of Pedro Lopes de Sousa begin an unsuccessful invasion of the Kingdom of Kandy during the Campaign of Danture in Sri Lanka.
+En 1415 : Jan Hus is condemned by the assembly of the council in the Konstanz Cathedral as a heretic and sentenced to be burned at the stake.
 <br/><br/>
-En 1584 : The Maronite College is established in Rome.
+En 1411 : Ming China's Admiral Zheng He returns to Nanjing after the third treasure voyage and presents the Sinhalese king, captured during the Ming–Kotte War, to the Yongle Emperor.
 <br/><br/>
-En 1316 : The Burgundian and Majorcan claimants of the Principality of Achaea meet in the Battle of Manolada.
+En 1348 : Pope Clement VI issues a papal bull protecting the Jews accused of having caused the Black Death.
 <br/><br/>
-En 328 : The official opening of Constantine's Bridge built over the Danube between Sucidava (Corabia, Romania) and Oescus (Gigen, Bulgaria) by the Roman architect Theophilus Patricius.
+En 1253 : Mindaugas is crowned King of Lithuania.
+<br/><br/>
+En 640 : Battle of Heliopolis: The Muslim Arab army under 'Amr ibn al-'As defeat the Byzantine forces near Heliopolis (Egypt).
+<br/><br/>
+En -371 : The Battle of Leuctra shatters Sparta's reputation of military invincibility.
 <br/><br/>
