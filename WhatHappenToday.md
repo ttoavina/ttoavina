@@ -4,95 +4,89 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 12/7 ?(Hover on the year)</h1>
+<h1> What happen this day 13/7 ?(Hover on the year)</h1>
 
-En 2013 : Six people are killed and 200 injured in a French passenger train derailment in Brétigny-sur-Orge.
+En 2024 : President of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
 <br/><br/>
-En 2012 : Syrian Civil War: Government forces target the homes of rebels and activists in Tremseh and kill anywhere between 68 and 150 people.
+En 2020 : After a five-day search, the body of American actress and singer Naya Rivera is recovered from Lake Piru, where she drowned in California.
 <br/><br/>
-En 2012 : A tank truck explosion kills more than 100 people in Okobie, Nigeria.
+En 2016 : Prime Minister of the United Kingdom David Cameron resigns, and is succeeded by Theresa May.
 <br/><br/>
-En 2007 : U.S. Army Apache helicopters engage in airstrikes against armed insurgents in Baghdad, Iraq, where civilians are killed; footage from the cockpit is later leaked to the Internet.
+En 2014 : Germany wins the FIFA World Cup, defeating Argentina in the final 1–0 after extra time.
 <br/><br/>
-En 2006 : The 2006 Lebanon War begins.
+En 2013 : Typhoon Soulik kills at least nine people and affects more than 160 million in East China and Taiwan.
 <br/><br/>
-En 2001 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-104, carrying the Quest Joint Airlock to the International Space Station.
+En 2011 : Mumbai is rocked by three bomb blasts during the evening rush hour, killing 26 and injuring 130.
 <br/><br/>
-En 1998 : The Ulster Volunteer Force attacked a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
+En 2011 : United Nations Security Council Resolution 1999 is adopted, which admits South Sudan to member status of United Nations.
 <br/><br/>
-En 1995 : Chinese seismologists successfully predict the 1995 Myanmar–China earthquake, reducing the number of casualties to 11.
+En 2008 : Battle of Wanat begins when Taliban and al-Qaeda guerrillas attack US Army and Afghan National Army troops in Afghanistan. The U.S. deaths were, at that time, the most in a single battle since the beginning of operations in 2001.
 <br/><br/>
-En 1979 : The island nation of Kiribati becomes independent from the United Kingdom.
+En 2003 : French DGSE personnel abort an operation to rescue Íngrid Betancourt from FARC rebels in Colombia, causing a political scandal when details are leaked to the press.
 <br/><br/>
-En 1975 : São Tomé and Príncipe declare independence from Portugal.
+En 1995 : Space Shuttle Discovery is launched on STS-70 to deploy the TDRS-7 satellite.
 <br/><br/>
-En 1973 : A fire destroys the entire sixth floor of the National Personnel Records Center of the United States.
+En 1990 : Lenin Peak disaster: a 6.4-magnitude earthquake in Afghanistan triggers an avalanche on Lenin Peak, killing 43 climbers in the deadliest mountaineering disaster in history.
 <br/><br/>
-En 1971 : The Australian Aboriginal flag is flown for the first time.
+En 1985 : The Live Aid benefit concert takes place in London and Philadelphia, as well as other venues such as Moscow and Sydney.
 <br/><br/>
-En 1967 : Riots begin in Newark, New Jersey.
+En 1985 : Vice President George H. W. Bush becomes the Acting President for the day when President Ronald Reagan undergoes surgery to remove polyps from his colon.
 <br/><br/>
-En 1963 : Pauline Reade, 16, disappears in Gorton, England, the first victim in the Moors murders.
+En 1977 : Somalia declares war on Ethiopia, starting the Ogaden War.
 <br/><br/>
-En 1961 : Indian city Pune floods due to failure of the Khadakwasla and Panshet dams, killing at least two thousand people.
+En 1977 : New York City: Amidst a period of financial and social turmoil experiences an electrical blackout lasting nearly 24 hours that leads to widespread fires and looting.
 <br/><br/>
-En 1961 : ČSA Flight 511 crashes at Casablanca–Anfa Airport in Morocco, killing 72.
+En 1973 : Watergate scandal: Alexander Butterfield reveals the existence of a secret Oval Office taping system to investigators for the Senate Watergate Committee.
 <br/><br/>
-En 1960 : Orlyonok, the main Young Pioneer camp of the Russian SFSR, is founded.
+En 1962 : In an unprecedented action, British Prime Minister Harold Macmillan dismisses seven members of his Cabinet, marking the effective end of the National Liberals as a distinct force within British politics.
 <br/><br/>
-En 1948 : Israeli Prime Minister David Ben-Gurion orders the expulsion of Palestinians from the towns of Lod and Ramla.
+En 1956 : The Dartmouth workshop is the first conference on artificial intelligence.
 <br/><br/>
-En 1943 : World War II: Battle of Kursk: German and Soviet forces engage in the Battle of Prokhorovka, one of the largest armored engagements of all time.
+En 1951 : Vuoristorata, one of the oldest still-operating wooden roller coasters in Europe, is opened at the Linnanmäki amusement park in Helsinki, Finland.
 <br/><br/>
-En 1920 : The Soviet–Lithuanian Peace Treaty is signed, by which Soviet Russia recognizes the independence of Lithuania.
+En 1941 : World War II: Montenegrins begin the Trinaestojulski ustanak (Thirteenth of July Uprising), a popular revolt against the Axis powers.
 <br/><br/>
-En 1918 : The Imperial Japanese Navy battleship Kawachi blows up at Shunan, western Honshu, Japan, killing at least 621.
+En 1930 : The inaugural FIFA World Cup begins in Uruguay.
 <br/><br/>
-En 1917 : The Bisbee Deportation occurs as vigilantes kidnap and deport nearly 1,300 striking miners and others from Bisbee, Arizona.
+En 1919 : The British airship R34 lands in Norfolk, England, completing the first airship return journey across the Atlantic in 182 hours of flight.
 <br/><br/>
-En 1913 : Serbian forces begin their siege of the Bulgarian city of Vidin; the siege is later called off when the war ends.
+En 1913 : The 1913 Romanian Army cholera outbreak during the Second Balkan War starts.
 <br/><br/>
-En 1913 : The Second Revolution breaks out against the Beiyang government, as Li Liejun proclaims Jiangxi independent from the Republic of China.
+En 1878 : Treaty of Berlin: The European powers redraw the map of the Balkans. Serbia, Montenegro and Romania become completely independent of the Ottoman Empire.
 <br/><br/>
-En 1862 : The Medal of Honor is authorized by the United States Congress.
+En 1863 : American Civil War: The New York City draft riots begin three days of rioting which will later be regarded as the worst in United States history.
 <br/><br/>
-En 1812 : The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario.
+En 1854 : In the Battle of Guaymas, Mexico, General José María Yáñez stops the French invasion led by Count Gaston de Raousset-Boulbon.
 <br/><br/>
-En 1806 : At the insistence of Napoleon, Bavaria, Baden, Württemberg and thirteen minor principalities leave the Holy Roman Empire and form the Confederation of the Rhine.
+En 1849 : The Charleston Workhouse Slave Rebellion began in Charleston, South Carolina, United States.
 <br/><br/>
-En 1801 : British ships inflict heavy damage on Spanish and French ships in the Second Battle of Algeciras.
+En 1831 : Regulamentul Organic, a quasi-constitutional organic law is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
 <br/><br/>
-En 1799 : Ranjit Singh conquers Lahore and becomes Maharaja of the Punjab (Sikh Empire).
+En 1830 : The General Assembly's Institution, now the Scottish Church College, one of the pioneering institutions that ushered the Bengali Renaissance, is founded by Alexander Duff and Raja Ram Mohan Roy, in Calcutta, India.
 <br/><br/>
-En 1790 : The Civil Constitution of the Clergy is passed in France by the National Constituent Assembly.
+En 1814 : The Carabinieri, the national gendarmerie of Italy, is established.
 <br/><br/>
-En 1789 : In response to the dismissal of the French finance minister Jacques Necker, the radical journalist Camille Desmoulins gives a speech which results in the storming of the Bastille two days later.
+En 1794 : The Battle of Trippstadt between French forces and those of Prussia and Austria begins.
 <br/><br/>
-En 1776 : Captain James Cook begins his third voyage.
+En 1793 : Journalist and French revolutionary Jean-Paul Marat is assassinated in his bathtub by Charlotte Corday, a member of the opposing political faction.
 <br/><br/>
-En 1691 : Battle of Aughrim (Julian calendar): The decisive victory of William III of England's forces in Ireland.
+En 1787 : The Congress of the Confederation enacts the Northwest Ordinance establishing governing rules for the Northwest Territory. It also establishes procedures for the admission of new states and limits the expansion of slavery.
 <br/><br/>
-En 1580 : The Ostrog Bible, one of the early printed Bibles in a Slavic language, is published.
+En 1690 : Nine Years' War: French naval forces led by Anne Hilarion de Tourville fresh from their victory at Beachy Head sail West and launch a raid on the small English town of Teignmouth leaving it devastated.
 <br/><br/>
-En 1576 : Mughal Empire annexes Bengal after defeating the Bengal Sultanate at the Battle of Rajmahal.
+En 1643 : English Civil War: Battle of Roundway Down: In England, Henry Wilmot, 1st Earl of Rochester, commanding the Royalist forces, heavily defeats the Parliamentarian forces led by Sir William Waller.
 <br/><br/>
-En 1562 : Fray Diego de Landa, acting Bishop of Yucatán, burns the sacred idols and books of the Maya.
+En 1586 : Anglo–Spanish War: A convoy of English ships from the Levant Company manage to repel a fleet of eleven Spanish and Maltese galleys off the Mediterranean island of Pantelleria.
 <br/><br/>
-En 1543 : King Henry VIII of England marries his sixth and last wife, Catherine Parr, at Hampton Court Palace.
+En 1573 : Eighty Years' War: The Siege of Haarlem ends after seven months.
 <br/><br/>
-En 1527 : Lê Cung Hoàng ceded the throne to Mạc Đăng Dung, ending the Lê dynasty and starting the Mạc dynasty.
+En 1558 : Battle of Gravelines: In France, Spanish forces led by Count Lamoral of Egmont defeat the French forces of Marshal Paul de Thermes at Gravelines.
 <br/><br/>
-En 1493 : Hartmann Schedel's Nuremberg Chronicle, one of the best-documented early printed books, is published.
+En 1402 : Nanjing surrenders to Zhu Di without a fight, ending the Jingnan campaign. The Jianwen Emperor disappears and his family is incarcerated.
 <br/><br/>
-En 1488 : Joseon Dynasty official Choe Bu returned to Korea after months of shipwrecked travel in China.
+En 1260 : The Livonian Order suffers its greatest defeat in the 13th century in the Battle of Durbe against the Grand Duchy of Lithuania
 <br/><br/>
-En 1470 : The Ottomans capture Euboea.
+En 1249 : Coronation of Alexander III as King of Scots.
 <br/><br/>
-En 1335 : Pope Benedict XII issues the papal bull Fulgens sicut stella matutina to reform the Cistercian Order.
-<br/><br/>
-En 1191 : Third Crusade: Saladin's garrison surrenders to Philip Augustus, ending the two-year siege of Acre.
-<br/><br/>
-En 927 : King Constantine II of Scotland, King Hywel Dda of Deheubarth, Ealdred of Bamburgh and King Owain of the Cumbrians accepted the overlordship of King Æthelstan of England, leading to seven years of peace in the north.
-<br/><br/>
-En 70 : The armies of Titus attack the walls of Jerusalem after a six-month siege. Three days later they breach the walls, which enables the army to destroy the Second Temple.
+En 1174 : William I of Scotland, a key rebel in the Revolt of 1173–74, is captured at Alnwick by forces loyal to Henry II of England.
 <br/><br/>
