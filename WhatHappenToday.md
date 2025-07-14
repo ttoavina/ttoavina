@@ -4,89 +4,87 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 13/7 ?(Hover on the year)</h1>
+<h1> What happen this day 14/7 ?(Hover on the year)</h1>
 
-En 2024 : President of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
+En 2019 : A GippsAero GA8 Airvan crashes in Umeå, Sweden, killing all nine aboard.
 <br/><br/>
-En 2020 : After a five-day search, the body of American actress and singer Naya Rivera is recovered from Lake Piru, where she drowned in California.
+En 2016 : A man ploughs a truck into a Bastille Day celebration in Nice, France, killing 86 people and injuring another 434 before being shot by police.
 <br/><br/>
-En 2016 : Prime Minister of the United Kingdom David Cameron resigns, and is succeeded by Theresa May.
+En 2015 : NASA's New Horizons probe performs the first flyby of Pluto, and thus completes the initial survey of the Solar System.
 <br/><br/>
-En 2014 : Germany wins the FIFA World Cup, defeating Argentina in the final 1–0 after extra time.
+En 2013 : Dedication of statue of Rachel Carson, a sculpture named for the environmentalist, in Woods Hole, Massachusetts.
 <br/><br/>
-En 2013 : Typhoon Soulik kills at least nine people and affects more than 160 million in East China and Taiwan.
+En 2002 : French president Jacques Chirac escapes an assassination attempt from Maxime Brunerie during a Bastille Day parade at Champs-Élysées.
 <br/><br/>
-En 2011 : Mumbai is rocked by three bomb blasts during the evening rush hour, killing 26 and injuring 130.
+En 2001 : Rus Flight 9633 crashes during takeoff from Chkalovsky Airport, killing all 10 people on board.
 <br/><br/>
-En 2011 : United Nations Security Council Resolution 1999 is adopted, which admits South Sudan to member status of United Nations.
+En 1983 : Mario Bros. is released in Japan, beginning the popular Super Mario Bros franchise.
 <br/><br/>
-En 2008 : Battle of Wanat begins when Taliban and al-Qaeda guerrillas attack US Army and Afghan National Army troops in Afghanistan. The U.S. deaths were, at that time, the most in a single battle since the beginning of operations in 2001.
+En 1965 : Mariner 4 flyby of Mars takes the first close-up photos of another planet. The photographs take approximately six hours to be transmitted back to Earth.
 <br/><br/>
-En 2003 : French DGSE personnel abort an operation to rescue Íngrid Betancourt from FARC rebels in Colombia, causing a political scandal when details are leaked to the press.
+En 1960 : Jane Goodall arrives at the Gombe Stream Reserve in present-day Tanzania to begin her study of chimpanzees in the wild.
 <br/><br/>
-En 1995 : Space Shuttle Discovery is launched on STS-70 to deploy the TDRS-7 satellite.
+En 1960 : Northwest Orient Airlines Flight 1-11 ditches off Polillo Island in the Philippines, killing one person and injuring 44.
 <br/><br/>
-En 1990 : Lenin Peak disaster: a 6.4-magnitude earthquake in Afghanistan triggers an avalanche on Lenin Peak, killing 43 climbers in the deadliest mountaineering disaster in history.
+En 1958 : In the 14 July Revolution in Iraq, the monarchy is overthrown by popular forces led by Abd al-Karim Qasim, who becomes the nation's new leader.
 <br/><br/>
-En 1985 : The Live Aid benefit concert takes place in London and Philadelphia, as well as other venues such as Moscow and Sydney.
+En 1957 : Rawya Ateya takes her seat in the National Assembly of Egypt, thereby becoming the first female parliamentarian in the Arab world.
 <br/><br/>
-En 1985 : Vice President George H. W. Bush becomes the Acting President for the day when President Ronald Reagan undergoes surgery to remove polyps from his colon.
+En 1951 : Ferrari take their first Formula One grand prix victory at the British Grand Prix at Silverstone.
 <br/><br/>
-En 1977 : Somalia declares war on Ethiopia, starting the Ogaden War.
+En 1950 : Korean War: beginning of the Battle of Taejon.
 <br/><br/>
-En 1977 : New York City: Amidst a period of financial and social turmoil experiences an electrical blackout lasting nearly 24 hours that leads to widespread fires and looting.
+En 1948 : Palmiro Togliatti, leader of the Italian Communist Party, is shot and wounded near the Italian Parliament.
 <br/><br/>
-En 1973 : Watergate scandal: Alexander Butterfield reveals the existence of a secret Oval Office taping system to investigators for the Senate Watergate Committee.
+En 1943 : In Diamond, Missouri, the George Washington Carver National Monument becomes the first United States National Monument in honor of an African American.
 <br/><br/>
-En 1962 : In an unprecedented action, British Prime Minister Harold Macmillan dismisses seven members of his Cabinet, marking the effective end of the National Liberals as a distinct force within British politics.
+En 1942 : In the Wardha session of Congress, the "Quit India" resolution is approved, authorising Mahatma Gandhi to campaign for India's independence from Britain.
 <br/><br/>
-En 1956 : The Dartmouth workshop is the first conference on artificial intelligence.
+En 1933 : In a decree called the Gleichschaltung, Adolf Hitler abolishes all German political parties except the Nazis.
 <br/><br/>
-En 1951 : Vuoristorata, one of the oldest still-operating wooden roller coasters in Europe, is opened at the Linnanmäki amusement park in Helsinki, Finland.
+En 1933 : Nazi eugenics programme begins with the proclamation of the Law for the Prevention of Hereditarily Diseased Offspring requiring the compulsory sterilization of any citizen who suffers from alleged genetic disorders.
 <br/><br/>
-En 1941 : World War II: Montenegrins begin the Trinaestojulski ustanak (Thirteenth of July Uprising), a popular revolt against the Axis powers.
+En 1916 : Battle of Delville Wood begins as an action within the Battle of the Somme, lasting until 3 September 1916.
 <br/><br/>
-En 1930 : The inaugural FIFA World Cup begins in Uruguay.
+En 1915 : Beginning of the McMahon–Hussein Correspondence between Hussein bin Ali, Sharif of Mecca and the British official Henry McMahon concerning the Arab Revolt against the Ottoman Empire.
 <br/><br/>
-En 1919 : The British airship R34 lands in Norfolk, England, completing the first airship return journey across the Atlantic in 182 hours of flight.
+En 1911 : Harry Atwood, an exhibition pilot for the Wright brothers, is greeted by President Taft after he lands his aeroplane on the South Lawn of the White House, having flown from Boston.
 <br/><br/>
-En 1913 : The 1913 Romanian Army cholera outbreak during the Second Balkan War starts.
+En 1902 : Peruvian explorer and farmer Agustín Lizárraga discovers Machu Picchu, the "Lost City of the Incas".
 <br/><br/>
-En 1878 : Treaty of Berlin: The European powers redraw the map of the Balkans. Serbia, Montenegro and Romania become completely independent of the Ottoman Empire.
+En 1902 : The Campanile in St Mark's Square, Venice collapses, also demolishing the loggetta.
 <br/><br/>
-En 1863 : American Civil War: The New York City draft riots begin three days of rioting which will later be regarded as the worst in United States history.
+En 1900 : Armies of the Eight-Nation Alliance capture Tientsin during the Boxer Rebellion.
 <br/><br/>
-En 1854 : In the Battle of Guaymas, Mexico, General José María Yáñez stops the French invasion led by Count Gaston de Raousset-Boulbon.
+En 1881 : American outlaw Billy the Kid is shot and killed by Sheriff Pat Garrett in the Maxwell House at Fort Sumner, New Mexico.
 <br/><br/>
-En 1849 : The Charleston Workhouse Slave Rebellion began in Charleston, South Carolina, United States.
+En 1874 : The Chicago Fire of 1874 burns down 47 acres of the city, destroying 812 buildings, killing 20, and resulting in the fire insurance industry demanding municipal reforms from Chicago's city council.
 <br/><br/>
-En 1831 : Regulamentul Organic, a quasi-constitutional organic law is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
+En 1865 : The first ascent of the Matterhorn is completed by Edward Whymper and his party, four of whom die on the descent.
 <br/><br/>
-En 1830 : The General Assembly's Institution, now the Scottish Church College, one of the pioneering institutions that ushered the Bengali Renaissance, is founded by Alexander Duff and Raja Ram Mohan Roy, in Calcutta, India.
+En 1853 : Opening of the first major US world's fair, the Exhibition of the Industry of All Nations in New York City.
 <br/><br/>
-En 1814 : The Carabinieri, the national gendarmerie of Italy, is established.
+En 1808 : The Finnish War: the Battle of Lapua is fought.
 <br/><br/>
-En 1794 : The Battle of Trippstadt between French forces and those of Prussia and Austria begins.
+En 1798 : The Sedition Act of 1798 becomes law in the United States making it a federal crime to write, publish, or utter false or malicious statements about the United States government.
 <br/><br/>
-En 1793 : Journalist and French revolutionary Jean-Paul Marat is assassinated in his bathtub by Charlotte Corday, a member of the opposing political faction.
+En 1791 : Beginning of Priestley Riots (to 17 July) in Birmingham targeting Joseph Priestley as a supporter of the French Revolution.
 <br/><br/>
-En 1787 : The Congress of the Confederation enacts the Northwest Ordinance establishing governing rules for the Northwest Territory. It also establishes procedures for the admission of new states and limits the expansion of slavery.
+En 1790 : Inaugural Fête de la Fédération is held to celebrate the unity of the French people and the national reconciliation.
 <br/><br/>
-En 1690 : Nine Years' War: French naval forces led by Anne Hilarion de Tourville fresh from their victory at Beachy Head sail West and launch a raid on the small English town of Teignmouth leaving it devastated.
+En 1789 : Storming of the Bastille in Paris. This event escalates the widespread discontent into the French Revolution. Bastille Day is still celebrated annually in France.
 <br/><br/>
-En 1643 : English Civil War: Battle of Roundway Down: In England, Henry Wilmot, 1st Earl of Rochester, commanding the Royalist forces, heavily defeats the Parliamentarian forces led by Sir William Waller.
+En 1771 : Foundation of the Mission San Antonio de Padua in modern California by the Franciscan friar Junípero Serra.
 <br/><br/>
-En 1586 : Anglo–Spanish War: A convoy of English ships from the Levant Company manage to repel a fleet of eleven Spanish and Maltese galleys off the Mediterranean island of Pantelleria.
+En 1769 : An expedition led by Gaspar de Portolá leaves its base in San Diego and sets out to find the Port of Monterey (now Monterey, California).
 <br/><br/>
-En 1573 : Eighty Years' War: The Siege of Haarlem ends after seven months.
+En 1596 : Anglo-Spanish War: English and Dutch troops sack the Spanish city of Cádiz before leaving the next day.
 <br/><br/>
-En 1558 : Battle of Gravelines: In France, Spanish forces led by Count Lamoral of Egmont defeat the French forces of Marshal Paul de Thermes at Gravelines.
+En 1430 : Joan of Arc, taken by the Burgundians in May, is handed over to Pierre Cauchon, the bishop of Beauvais.
 <br/><br/>
-En 1402 : Nanjing surrenders to Zhu Di without a fight, ending the Jingnan campaign. The Jianwen Emperor disappears and his family is incarcerated.
+En 1420 : Battle of Vítkov Hill, decisive victory of Czech Hussite forces commanded by Jan Žižka against Crusade army led by Sigismund, Holy Roman Emperor.
 <br/><br/>
-En 1260 : The Livonian Order suffers its greatest defeat in the 13th century in the Battle of Durbe against the Grand Duchy of Lithuania
+En 1223 : Louis VIII becomes King of France upon the death of his father, Philip II.
 <br/><br/>
-En 1249 : Coronation of Alexander III as King of Scots.
-<br/><br/>
-En 1174 : William I of Scotland, a key rebel in the Revolt of 1173–74, is captured at Alnwick by forces loyal to Henry II of England.
+En 982 : King Otto II and his Frankish army are defeated by the Muslim army of al-Qasim at Cape Colonna, Southern Italy.
 <br/><br/>
