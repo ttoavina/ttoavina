@@ -4,119 +4,93 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/7 ?(Hover on the year)</h1>
+<h1> What happen this day 18/7 ?(Hover on the year)</h1>
 
-En 2018 : Scott S. Sheppard announces that his team has discovered a dozen irregular moons of Jupiter.
+En 2019 : A man sets fire to an anime studio in Fushimi-ku, Kyoto, Japan, killing 36 people and injuring dozens of others.
 <br/><br/>
-En 2015 : At least 120 people are killed and 130 injured by a suicide bombing in Diyala Governorate, Iraq.
+En 2014 : The Islamic State of Iraq and the Levant requires Christians to either accept dhimmi status, emigrate from ISIL lands, or be killed.
 <br/><br/>
-En 2014 : Malaysia Airlines Flight 17, a Boeing 777, crashes near the border of Ukraine and Russia after being shot down. All 298 people on board are killed.
+En 2013 : The Government of Detroit, with up to $20 billion in debt, files for the largest municipal bankruptcy in U.S. history.
 <br/><br/>
-En 2014 : A French regional train on the Pau-Bayonne line crashes into a high-speed train near the town of Denguin, resulting in at least 25 injuries.
+En 2012 : At least seven people are killed and 32 others are injured after a bomb explodes on an Israeli tour bus at Burgas Airport, Bulgaria.
 <br/><br/>
-En 2014 : Eric Garner is killed by police officer Daniel Pantaleo in New York City, after the latter put him in a prohibited chokehold while arresting him.
+En 2002 : A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members.
 <br/><br/>
-En 2007 : TAM Airlines Flight 3054, an Airbus A320, crashes into a warehouse after landing too fast and missing the end of the São Paulo–Congonhas Airport runway, killing 199 people.
+En 1996 : Storms provoke severe flooding on the Saguenay River, beginning one of Quebec's costliest natural disasters ever.
 <br/><br/>
-En 2006 : The 7.7 Mw  Pangandaran tsunami earthquake severely affects the Indonesian island of Java, killing 668 people, and leaving more than 9,000 injured.
+En 1996 : Battle of Mullaitivu: The Liberation Tigers of Tamil Eelam capture the Sri Lanka Army's base, killing over 1,200 soldiers.
 <br/><br/>
-En 2001 : Concorde is brought back into service nearly a year after the July 2000 crash.
+En 1995 : On the Caribbean island of Montserrat, the Soufrière Hills volcano erupts. Over the course of several years, it devastates the island, destroying the capital, forcing most of the population to flee.
 <br/><br/>
-En 2000 : During approach to Lok Nayak Jayaprakash Airport, Alliance Air Flight 7412 suddenly crashes into a residential neighborhood in Patna, India, killing 60 people.
+En 1994 : The bombing of the Asociación Mutual Israelita Argentina (Argentine Jewish Community Center) in Buenos Aires kills 85 people (mostly Jewish) and injures 300.
 <br/><br/>
-En 1998 : The 7.0 Mw  Papua New Guinea earthquake triggers a tsunami that destroys ten villages in Papua New Guinea, killing up to 2,700 people, and leaving several thousand injured.
+En 1994 : Rwandan genocide: The Rwandan Patriotic Front takes control of Gisenyi and north western Rwanda, forcing the interim government into Zaire and ending the genocide.
 <br/><br/>
-En 1998 : A diplomatic conference adopts the Rome Statute of the International Criminal Court, establishing the permanent international court in The Hague, to prosecute individuals for genocide, crimes against humanity, war crimes, and the crime of aggression.
+En 1992 : A picture of Les Horribles Cernettes was taken, which became the first ever photo posted to the World Wide Web.
 <br/><br/>
-En 1997 : After takeoff from Husein Sastranegara International Airport, Sempati Air Flight 304 crashes into a residential neighborhood in Bandung, killing 28 people.
+En 1984 : McDonald's massacre in San Ysidro, California: James Oliver Huberty kills 21 people and injures 19 others before being shot dead by police.
 <br/><br/>
-En 1996 : TWA Flight 800: Off the coast of Long Island, New York, a Paris-bound TWA Boeing 747 explodes, killing all 230 on board.
+En 1982 : Two hundred sixty-eight Guatemalan campesinos ("peasants" or "country people") are slain in the Plan de Sánchez massacre.
 <br/><br/>
-En 1994 : Brazil win their fourth World Cup title, defeating Italy 3–2 on penalties.
+En 1981 : A Canadair CL-44 and Sukhoi Su-15 collide in mid-air near Yerevan, Armenia, killing four.
 <br/><br/>
-En 1989 : First flight of the B-2 Spirit Stealth Bomber.
+En 1979 : A landslide occurs on the Iliwerung volcano in Indonesia, triggering a tsunami that kills over 530 and leaves 700 missing.
 <br/><br/>
-En 1989 : Holy See–Poland relations are restored.
+En 1976 : Nadia Comăneci becomes the first person in Olympic Games history to score a perfect 10 in gymnastics at the 1976 Summer Olympics.
 <br/><br/>
-En 1985 : Founding of the EUREKA Network by former head of states François Mitterrand (France) and Helmut Kohl (Germany).
+En 1970 : An Antonov An-22 of the Soviet Air Forces crashes into the Atlantic Ocean, killing all 23 aboard.
 <br/><br/>
-En 1984 : The national drinking age in the United States was changed from 18 to 21.
+En 1968 : Intel is founded in Mountain View, California.
 <br/><br/>
-En 1981 : A structural failure leads to the collapse of a walkway at the Hyatt Regency in Kansas City, Missouri, killing 114 people and injuring more than 200.
+En 1966 : Human spaceflight: Gemini 10 is launched from Cape Kennedy on a 70-hour mission that includes docking with an orbiting Agena target vehicle.
 <br/><br/>
-En 1979 : Nicaraguan dictator General Anastasio Somoza Debayle resigns and flees to Miami, Florida, United States.
+En 1966 : A racially charged incident in a bar sparks the six-day Hough riots in Cleveland, Ohio; 1,700 Ohio National Guard troops intervene to restore order.
 <br/><br/>
-En 1976 : East Timor is annexed and becomes the 27th province of Indonesia.
+En 1944 : World War II: Hideki Tōjō resigns as Prime Minister of Japan because of numerous setbacks in the war effort.
 <br/><br/>
-En 1976 : The opening of the Summer Olympics in Montreal is marred by 25 African teams boycotting the games because of New Zealand's participation. Contrary to rulings by other international sports organizations, the IOC had declined to exclude New Zealand because of their participation in South African sporting events during apartheid.
+En 1942 : World War II: During the Beisfjord massacre in Norway, 15 Norwegian paramilitary guards help members of the SS to kill 288 political prisoners from Yugoslavia.
 <br/><br/>
-En 1975 : Apollo–Soyuz Test Project: An American Apollo and a Soviet Soyuz spacecraft dock with each other in orbit marking the first such link-up between spacecraft from the two nations.
+En 1942 : The Germans test fly the Messerschmitt Me 262 using its jet engines for the first time.
 <br/><br/>
-En 1973 : King Mohammed Zahir Shah of Afghanistan, while having surgery in Italy, is deposed by his cousin Mohammed Daoud Khan.
+En 1925 : Adolf Hitler publishes Mein Kampf.
 <br/><br/>
-En 1968 : Abdul Rahman Arif is overthrown and the Ba'ath Party is installed as the governing power in Iraq with Ahmed Hassan al-Bakr as the new Iraqi President.
+En 1914 : The U.S. Congress forms the Aviation Section, U.S. Signal Corps, giving official status to aircraft within the U.S. Army for the first time.
 <br/><br/>
-En 1962 : Nuclear weapons testing: The "Small Boy" test shot Little Feller I becomes the last atmospheric test detonation at the Nevada National Security Site.
+En 1872 : The Ballot Act 1872 in the United Kingdom introduced the requirement that parliamentary and local government elections be held by secret ballot.
 <br/><br/>
-En 1955 : Disneyland is dedicated and opened by Walt Disney in Anaheim, California.
+En 1870 : The First Vatican Council decrees the dogma of papal infallibility.
 <br/><br/>
-En 1954 : First Indochina War: Viet Minh troops successfully ambush the armoured French column 'G.M. 42' in the Battle of Chu Dreh Pass in the Central Highlands. It is the last battle of the war.
+En 1863 : American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner.
 <br/><br/>
-En 1953 : The largest number of United States midshipman casualties in a single event results from an aircraft crash in Florida, killing 44.
+En 1862 : First ascent of Dent Blanche, one of the highest summits in the Alps.
 <br/><br/>
-En 1945 : World War II: The main three leaders of the Allied nations, Winston Churchill, Harry S. Truman and Joseph Stalin, meet in the German city of Potsdam to decide the future of a defeated Germany.
+En 1857 : Louis Faidherbe, French governor of Senegal, arrives to relieve French forces at Kayes, effectively ending El Hajj Umar Tall's war against the French.
 <br/><br/>
-En 1944 : Port Chicago disaster: Near the San Francisco Bay, two ships laden with ammunition for the war explode in Port Chicago, California, killing 320.
+En 1841 : Coronation of Emperor Pedro II of Brazil.
 <br/><br/>
-En 1944 : World War II: At Sainte-Foy-de-Montgommery in Normandy, Field Marshal Erwin Rommel is seriously injured by Allied aircraft while returning to his headquarters.
+En 1812 : The Treaties of Orebro end both the Anglo-Russian and Anglo-Swedish Wars.
 <br/><br/>
-En 1938 : Douglas Corrigan takes off from Brooklyn to fly the "wrong way" to Ireland and becomes known as "Wrong Way" Corrigan.
+En 1806 : A gunpowder magazine explosion in Birgu, Malta, kills around 200 people.
 <br/><br/>
-En 1936 : Spanish Civil War: An Armed Forces rebellion against the recently elected leftist Popular Front government of Spain starts the civil war.
+En 1723 : Johann Sebastian Bach leads the first performance of his cantata Erforsche mich, Gott, und erfahre mein Herz, BWV 136, in Leipzig on the eighth Sunday after Trinity.
 <br/><br/>
-En 1932 : Altona Bloody Sunday: A riot between the Nazi Party paramilitary forces, the SS and SA, and the German Communist Party ensues.
+En 1555 : The College of Arms is reincorporated by Royal charter signed by Queen Mary I of England and King Philip II of Spain.
 <br/><br/>
-En 1919 : The form of government in the Republic of Finland is officially confirmed. For this reason, July 17 is known as the Day of Democracy (Kansanvallan päivä) in Finland.
+En 1507 : In Brussels, Prince Charles I is crowned Duke of Burgundy and Count of Flanders, a year after inheriting the title.
 <br/><br/>
-En 1918 : Tsar Nicholas II of Russia and his immediate family and retainers are executed by Bolshevik Chekists at the Ipatiev House in Yekaterinburg, Russia.
+En 1389 : France and England agree to the Truce of Leulinghem, inaugurating a 13-year peace, the longest period of sustained peace during the Hundred Years' War.
 <br/><br/>
-En 1918 : The RMS Carpathia, the ship that rescued the 705 survivors from the RMS Titanic, is sunk off Ireland by the German SM U-55; five lives are lost.
+En 1334 : The bishop of Florence blesses the first foundation stone for the new campanile (bell tower) of the Florence Cathedral, designed by the artist Giotto di Bondone.
 <br/><br/>
-En 1917 : King George V issues a proclamation stating that the male line descendants of the British royal family will bear the surname Windsor.
+En 1290 : King Edward I of England issues the Edict of Expulsion, banishing all Jews (numbering about 16,000) from England.
 <br/><br/>
-En 1902 : Willis Carrier creates the first air conditioner in Buffalo, New York.
+En 1195 : Battle of Alarcos: Almohad forces defeat the Castilian army of Alfonso VIII and force its retreat to Toledo.
 <br/><br/>
-En 1901 : Liner Deutschland sets east to west transatlantic record of five days, eleven hours and five minutes.
+En 645 : Chinese forces under general Li Shiji besiege the strategic fortress city of Anshi (Liaoning) during the Goguryeo–Tang War.
 <br/><br/>
-En 1899 : NEC Corporation is organized as the first Japanese joint venture with foreign capital.
+En 452 : Sack of Aquileia: After an earlier defeat on the Catalaunian Plains, Attila lays siege to the metropolis of Aquileia and eventually destroys it.
 <br/><br/>
-En 1867 : Harvard School of Dental Medicine is established in Boston, Massachusetts. It is the first dental school in the U.S. that is affiliated with a university.
+En 362 : Roman–Persian Wars: Emperor Julian arrives at Antioch with a Roman expeditionary force (60,000 men) and stays there for nine months to launch a campaign against the Persian Empire.
 <br/><br/>
-En 1850 : Vega became the first star (other than the Sun) to be photographed.
-<br/><br/>
-En 1821 : The Kingdom of Spain cedes the territory of Florida to the United States.
-<br/><br/>
-En 1794 : The 16 Carmelite Martyrs of Compiègne are executed ten days prior to the end of the French Revolution's Reign of Terror.
-<br/><br/>
-En 1791 : Members of the French National Guard under the command of General Lafayette open fire on a crowd of radical Jacobins at the Champ de Mars, Paris, during the French Revolution, killing scores of people.
-<br/><br/>
-En 1771 : Bloody Falls massacre: Chipewyan chief Matonabbee, traveling as the guide to Samuel Hearne on his Arctic overland journey, massacres a group of unsuspecting Inuit.
-<br/><br/>
-En 1762 : Former emperor Peter III of Russia is murdered.
-<br/><br/>
-En 1717 : King George I of Great Britain sails down the River Thames with a barge of 50 musicians, where George Frideric Handel's Water Music is premiered.
-<br/><br/>
-En 1489 : Sikandar Lodi succeeds Bahlul Khan Lodi as Sultan of Delhi.
-<br/><br/>
-En 1453 : Battle of Castillon: The last battle of the Hundred Years' War, the French under Jean Bureau defeat the English under the Earl of Shrewsbury, who is killed in the battle in Gascony.
-<br/><br/>
-En 1429 : Hundred Years' War: Charles VII of France is crowned the King of France in the Reims Cathedral after a successful campaign by Joan of Arc.
-<br/><br/>
-En 1402 : Zhu Di, better known by his era name as the Yongle Emperor, assumes the throne over the Ming dynasty of China.
-<br/><br/>
-En 1203 : The Fourth Crusade assaults Constantinople. The Byzantine emperor Alexios III Angelos flees from his capital into exile.
-<br/><br/>
-En 1048 : Damasus II is elected pope, and dies 23 days later.
-<br/><br/>
-En 180 : Twelve inhabitants of Scillium (near Kasserine, modern-day Tunisia) in North Africa are executed for being Christians. This is the earliest record of Christianity in that part of the world.
+En -477 : Battle of the Cremera as part of the Roman–Etruscan Wars.  Veii ambushes and defeats the Roman army.
 <br/><br/>
