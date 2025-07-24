@@ -4,121 +4,101 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 23/7 ?(Hover on the year)</h1>
+<h1> What happen this day 24/7 ?(Hover on the year)</h1>
 
-En 2018 : A wildfire in East Attica kills at least 102 people. It is the deadliest wildfire in the history of Greece.
+En 2024 : A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Airport in Kathmandu, Nepal killing 18.
 <br/><br/>
-En 2015 : NASA announces discovery of Kepler-452b by the Kepler space telescope.
+En 2019 : Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in a leadership contest, succeeding Theresa May.
 <br/><br/>
-En 2014 : TransAsia Airways Flight 222 crashes in Xixi village near Huxi, Penghu, during approach to Penghu Airport. Forty-eight of the 58 people on board are killed and five more people on the ground are injured.
+En 2014 : Air Algérie Flight 5017 loses contact with air traffic controllers 50 minutes after takeoff. It was travelling between Ouagadougou, Burkina Faso and Algiers. The wreckage is later found in Mali. All 116 people on board are killed.
 <br/><br/>
-En 2012 : The Solar storm of 2012 was an unusually large coronal mass ejection that was emitted by the Sun which barely missed the Earth by nine days. If it hit, it would have caused up to US$2.6 trillion in damages to electrical equipment worldwide.
+En 2013 : Santiago de Compostela derailment: A high-speed train derails in Spain rounding a curve with an 80 km/h (50 mph) speed limit at 190 km/h (120 mph), killing 78 passengers.
 <br/><br/>
-En 2011 : A high-speed train rear-ends another on a viaduct on the Yongtaiwen railway line in Wenzhou, Zhejiang province, China, resulting in 40 deaths.
+En 2012 : Syrian civil war: The People's Protection Units (YPG) capture the city of Girkê Legê.
 <br/><br/>
-En 2010 : The English-Irish boy band One Direction were formed while auditioning for the 2010 series of the British singing competition The X Factor.
+En 2009 : Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16.
 <br/><br/>
-En 2005 : Three bombs explode in the Naama Bay area of Sharm El Sheikh, Egypt, killing 88 people.
+En 2001 : The Bandaranaike Airport attack is carried out by 14 Tamil Tiger commandos. Eleven civilian and military aircraft are destroyed and 15 are damaged. All 14 commandos are shot dead, while seven soldiers from the Sri Lanka Air Force are killed. In addition, three civilians and an engineer die. This incident slowed the Sri Lankan economy.
 <br/><br/>
-En 2001 : Megawati Sukarnoputri was sworn in as the first female president of Indonesia following her predecessor's impeachment.
+En 1999 : Air Fiji flight 121 crashes while en route to Nadi, Fiji, killing all 17 people on board.
 <br/><br/>
-En 1999 : ANA Flight 61 is hijacked in Tokyo, Japan by Yuji Nishizawa.
+En 1998 : Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire killing two police officers. He is later ruled to be incompetent to stand trial.
 <br/><br/>
-En 1999 : Space Shuttle Columbia launches on STS-93, with Eileen Collins becoming the first female space shuttle commander. The shuttle also carried and deployed the Chandra X-ray Observatory.
+En 1987 : US supertanker SS Bridgeton collides with mines laid by IRGC causing a 43-square-meter dent in the body of the oil tanker.
 <br/><br/>
-En 1997 : Digital Equipment Corporation files antitrust charges against chipmaker Intel.
+En 1987 : Hulda Crooks, at 91 years of age, climbed Mt. Fuji. Crooks became the oldest person to climb Japan's highest peak.
 <br/><br/>
-En 1995 : Comet Hale–Bopp is discovered; it becomes visible to the naked eye on Earth nearly a year later.
+En 1983 : The Black July anti-Tamil riots begin in Sri Lanka, killing between 400 and 3,000. Black July is generally regarded as the beginning of the Sri Lankan Civil War.
 <br/><br/>
-En 1993 : China Northwest Airlines Flight 2119 crashes during takeoff from Yinchuan Xihuayuan Airport in Yinchuan, Ningxia, China, killing 55 people.
+En 1983 : George Brett playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the "Pine Tar Incident".
 <br/><br/>
-En 1992 : A Vatican commission, led by Cardinal Joseph Ratzinger, establishes that limiting certain rights of homosexual people and non-married couples is not equivalent to discrimination on grounds of race or gender.
+En 1982 : Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299.
 <br/><br/>
-En 1992 : Abkhazia declares independence from Georgia.
+En 1980 : The Quietly Confident Quartet of Australia wins the men's 4 x 100 metre medley relay at the Moscow Olympics, the only time the United States has not won the swimming event at Olympic level.
 <br/><br/>
-En 1988 : General Ne Win, effective ruler of Burma since 1962, resigns after pro-democracy protests.
+En 1977 : End of a four-day-long Libyan–Egyptian War.
 <br/><br/>
-En 1983 : Thirteen Sri Lanka Army soldiers are killed after a deadly ambush by the militant Liberation Tigers of Tamil Eelam.
+En 1974 : Watergate scandal: The United States Supreme Court unanimously ruled that President Richard Nixon did not have the authority to withhold subpoenaed White House tapes and they order him to surrender the tapes to the Watergate special prosecutor.
 <br/><br/>
-En 1983 : Gimli Glider: Air Canada Flight 143 runs out of fuel and makes a deadstick landing at Gimli, Manitoba.
+En 1969 : Apollo program: Apollo 11 splashes down safely in the Pacific Ocean.
 <br/><br/>
-En 1982 : Outside Santa Clarita, California, actor Vic Morrow and two children are killed when a helicopter crashes onto them while shooting a scene from Twilight Zone: The Movie.
+En 1967 : During an official state visit to Canada, French President Charles de Gaulle declares to a crowd of over 100,000 in Montreal: Vive le Québec libre! ("Long live free Quebec!"); the statement angered the Canadian government and many Anglophone Canadians.
 <br/><br/>
-En 1980 : Phạm Tuân becomes the first Vietnamese citizen and the first Asian in space when he flies aboard the Soyuz 37 mission as an Intercosmos Research Cosmonaut.
+En 1966 : Michael Pelkey makes the first BASE jump from El Capitan along with Brian Schubert. Both came out with broken bones. BASE jumping has now been banned from El Cap.
 <br/><br/>
-En 1974 : The Greek military junta collapses, and former Prime Minister Konstantinos Karamanlis is invited to lead the new government, beginning Greece's metapolitefsi era.
+En 1963 : The ship Bluenose II was launched in Lunenburg, Nova Scotia. The schooner is a major Canadian symbol.
 <br/><br/>
-En 1972 : The United States launches Landsat 1, the first Earth-resources satellite.
+En 1959 : At the opening of the American National Exhibition in Moscow, U.S. vice president Richard Nixon and Soviet premier Nikita Khrushchev have a "Kitchen Debate".
 <br/><br/>
-En 1970 : Qaboos bin Said al Said becomes Sultan of Oman after overthrowing his father, Said bin Taimur initiating massive reforms, modernization programs and end to a decade long civil war.
+En 1950 : Cape Canaveral Air Force Station begins operations with the launch of a Bumper rocket.
 <br/><br/>
-En 1968 : Glenville shootout: In Cleveland, Ohio, a violent shootout between a Black Militant organization and the Cleveland Police Department occurs. During the shootout, a riot begins and lasts for five days.
+En 1943 : World War II: Operation Gomorrah begins: British and Canadian aeroplanes bomb Hamburg by night, and American planes bomb the city by day. By the end of the operation in November, 9,000 tons of explosives will have killed more than 30,000 people and destroyed 280,000 buildings.
 <br/><br/>
-En 1968 : The only successful hijacking of an El Al aircraft takes place when a Boeing 707 carrying ten crew and 38 passengers is taken over by three members of the Popular Front for the Liberation of Palestine. The aircraft was en route from Rome, to Lod, Israel.
+En 1935 : The Dust Bowl heat wave reaches its peak, sending temperatures to 109 °F (43 °C) in Chicago and 104 °F (40 °C) in Milwaukee.
 <br/><br/>
-En 1967 : Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings.
+En 1929 : The Kellogg–Briand Pact, renouncing war as an instrument of foreign policy, goes into effect (it is first signed in Paris on August 27, 1928, by most leading world powers).
 <br/><br/>
-En 1962 : Telstar relays the first publicly transmitted, live trans-Atlantic television program, featuring Walter Cronkite.
+En 1927 : The Menin Gate war memorial is unveiled at Ypres.
 <br/><br/>
-En 1962 : The International Agreement on the Neutrality of Laos is signed.
+En 1924 : Themistoklis Sofoulis becomes Prime Minister of Greece.
 <br/><br/>
-En 1962 : Jackie Robinson becomes the first African American to be inducted into the National Baseball Hall of Fame.
+En 1923 : The Treaty of Lausanne, settling the boundaries of modern Turkey, is signed in Switzerland by Greece, Bulgaria and other countries that fought in World War I.
 <br/><br/>
-En 1961 : The Sandinista National Liberation Front is founded in Nicaragua.
+En 1922 : The draft of the British Mandate of Palestine was formally confirmed by the Council of the League of Nations; it came into effect on 26 September 1923.
 <br/><br/>
-En 1952 : General Muhammad Naguib leads the Free Officers Movement (formed by Gamal Abdel Nasser, the real power behind the coup) in overthrowing King Farouk of Egypt.
+En 1915 : The passenger ship SS Eastland capsizes while tied to a dock in the Chicago River. A total of 844 passengers and crew are killed in the largest loss of life disaster from a single shipwreck on the Great Lakes.
 <br/><br/>
-En 1945 : The post-war legal processes against Philippe Pétain begin.
+En 1911 : Hiram Bingham III re-discovers Machu Picchu, "the Lost City of the Incas".
 <br/><br/>
-En 1943 : The Rayleigh bath chair murder occurred in Rayleigh, Essex, England.
+En 1910 : The Ottoman Empire captures the city of Shkodër, putting down the Albanian Revolt of 1910.
 <br/><br/>
-En 1943 : World War II: The British destroyers HMS Eclipse and HMS Laforey sink the Italian submarine Ascianghi in the Mediterranean after she torpedoes the cruiser HMS Newfoundland.
+En 1901 : O. Henry is released from prison in Columbus, Ohio, after serving three years for embezzlement from a bank.
 <br/><br/>
-En 1942 : World War II: The German offensives Operation Edelweiss and Operation Braunschweig begin.
+En 1866 : Reconstruction: Tennessee becomes the first U.S. state to be readmitted to Congress following the American Civil War.
 <br/><br/>
-En 1942 : Bulgarian poet and Communist leader Nikola Vaptsarov is executed by firing squad.
+En 1864 : American Civil War: Battle of Kernstown: Confederate General Jubal Early defeats Union troops led by General George Crook in an effort to keep them out of the Shenandoah Valley.
 <br/><br/>
-En 1940 : The United States' Under Secretary of State Sumner Welles issues a declaration on the U.S. non-recognition policy of the Soviet annexation and incorporation of three Baltic states: Estonia, Latvia and Lithuania.
+En 1847 : After 17 months of travel, Brigham Young leads 148 Mormon pioneers into Salt Lake Valley, resulting in the establishment of Salt Lake City.
 <br/><br/>
-En 1936 : In Catalonia, Spain, the Unified Socialist Party of Catalonia is founded through the merger of Socialist and Communist parties.
+En 1847 : Richard March Hoe,  American inventor, patented the rotary-type printing press.
 <br/><br/>
-En 1927 : The first station of the Indian Broadcasting Company goes on the air in Bombay.
+En 1712 : War of the Spanish Succession: The French under Marshal Villars win a decisive victory over Eugene of Savoy at Denain.
 <br/><br/>
-En 1926 : Fox Film buys the patents of the Movietone sound system for recording sound onto film.
+En 1701 : Antoine de la Mothe Cadillac founds the trading post at Fort Pontchartrain, which later becomes the city of Detroit.
 <br/><br/>
-En 1921 : The Chinese Communist Party (CCP) is established at the founding National Congress.
+En 1567 : Mary, Queen of Scots, is forced to abdicate and be replaced by her one-year-old son James VI.
 <br/><br/>
-En 1919 : Prince Regent Aleksander Karađorđević signs the decree establishing the University of Ljubljana
+En 1534 : French explorer Jacques Cartier plants a cross on the Gaspé Peninsula and takes possession of the territory in the name of Francis I of France.
 <br/><br/>
-En 1914 : Austria-Hungary issues a series of demands in an ultimatum to the Kingdom of Serbia demanding Serbia to allow the Austrians to determine who assassinated Archduke Franz Ferdinand. Serbia accepts all but one of those demands and Austria declares war on July 28.
+En 1487 : Citizens of Leeuwarden, Netherlands, strike against a ban on foreign beer.
 <br/><br/>
-En 1908 : The Second Constitution accepted by the Ottomans.
+En 1412 : Behnam Hadloyo becomes Syriac Orthodox Patriarch of Mardin.
 <br/><br/>
-En 1903 : The Ford Motor Company sells its first car.
+En 1411 : Battle of Harlaw, one of the bloodiest battles in Scotland, takes place.
 <br/><br/>
-En 1900 : Pressed by expanding immigration, Canada closes its doors to paupers and criminals.
+En 1304 : Wars of Scottish Independence: Fall of Stirling Castle: King Edward I of England takes the stronghold using the War Wolf.
 <br/><br/>
-En 1881 : The Boundary Treaty of 1881 between Chile and Argentina is signed in Buenos Aires.
+En 1148 : Louis VII of France lays siege to Damascus during the Second Crusade.
 <br/><br/>
-En 1874 : Aires de Ornelas e Vasconcelos is appointed the Archbishop of the Portuguese colonial enclave of Goa, India.
-<br/><br/>
-En 1862 : American Civil War: Henry Halleck becomes general-in-chief of the Union Army.
-<br/><br/>
-En 1840 : The Province of Canada is created by the Act of Union.
-<br/><br/>
-En 1829 : In the United States, William Austin Burt patents the typographer, a precursor to the typewriter.
-<br/><br/>
-En 1821 : While the Mora Rebellion continues, Greeks capture Monemvasia Castle. Turkish troops and citizens are transferred to Asia Minor's coasts.
-<br/><br/>
-En 1813 : Sir Thomas Maitland is appointed as the first Governor of Malta, transforming the island from a British protectorate to a de facto colony.
-<br/><br/>
-En 1793 : Kingdom of Prussia re-conquers Mainz from France.
-<br/><br/>
-En 1677 : Scanian War: Denmark–Norway captures the harbor town of Marstrand from Sweden.
-<br/><br/>
-En 1632 : Three hundred colonists bound for New France depart from Dieppe, France.
-<br/><br/>
-En 1319 : A Knights Hospitaller fleet scores a crushing victory over an Aydinid fleet off Chios.
-<br/><br/>
-En 811 : Byzantine emperor Nikephoros I plunders the Bulgarian capital of Pliska and captures Khan Krum's treasury.
+En 1132 : Battle of Nocera between Ranulf II of Alife and Roger II of Sicily.
 <br/><br/>
