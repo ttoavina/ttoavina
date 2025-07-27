@@ -4,151 +4,103 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 26/7 ?(Hover on the year)</h1>
+<h1> What happen this day 27/7 ?(Hover on the year)</h1>
 
-En 2024 : Olympic swimmer Ana Carolina Vieira is kicked out of the 2024 Summer Olympics in Paris after sneaking out of the Olympic Village.
+En 2015 : At least seven people are killed and many injured after gunmen attack an Indian police station in Punjab.
 <br/><br/>
-En 2016 : The Sagamihara stabbings occur in Kanagawa Prefecture in Japan. Nineteen people are killed.
+En 2005 : After an incident during STS-114, NASA grounds the Space Shuttle, pending an investigation of the continuing problem with the shedding of foam insulation from the external fuel tank.
 <br/><br/>
-En 2016 : Hillary Clinton becomes the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia.
+En 2002 : Ukraine airshow disaster: A Sukhoi Su-27 fighter crashes during an air show at Lviv, Ukraine killing 77 and injuring more than 500 others, making it the deadliest air show disaster in history.
 <br/><br/>
-En 2016 : Solar Impulse 2 becomes the first solar-powered aircraft to circumnavigate the Earth.
+En 1997 : About 50 people are killed in the Si Zerrouk massacre in Algeria.
 <br/><br/>
-En 2011 : A Royal Moroccan Air Force Lockheed C-130 Hercules crashes near Guelmim Airport in Guelmim, Morocco. All 80 people on board are killed.
+En 1996 : In Atlanta, United States, a pipe bomb explodes at Centennial Olympic Park during the 1996 Summer Olympics.
 <br/><br/>
-En 2009 : The militant Nigerian Islamist group Boko Haram attacks a police station in Bauchi, leading to reprisals by the Nigeria Police Force and four days of violence across multiple cities.
+En 1995 : The Korean War Veterans Memorial is dedicated in Washington, D.C.
 <br/><br/>
-En 2008 : Fifty-six people are killed and over 200 people are injured, in the Ahmedabad bombings in India.
+En 1990 : The Supreme Soviet of the Belarusian Soviet Republic declares independence of Belarus from the Soviet Union. Until 1996 the day is celebrated as the Independence Day of Belarus; after a referendum held that year the celebration of independence is moved to June 3.
 <br/><br/>
-En 2005 : Space Shuttle program: STS-114 Mission: Launch of Discovery, NASA's first scheduled flight mission after the Columbia Disaster in 2003.
+En 1990 : The Jamaat al Muslimeen attempt a coup d'état in Trinidad and Tobago.
 <br/><br/>
-En 2005 : Mumbai, India receives 99.5cm of rain (39.17 inches) within 24 hours, resulting in floods killing over 5,000 people.
+En 1989 : While attempting to land at Tripoli International Airport in Libya, Korean Air Flight 803 crashes just short of the runway. Seventy-five of the 199 passengers and crew and four people on the ground are killed, in the second accident involving a DC-10 in less than two weeks, the first being United Airlines Flight 232.
 <br/><br/>
-En 1999 : Kargil conflict officially comes to an end. The Indian Army announces the complete eviction of Pakistani intruders.
+En 1983 : Black July: Eighteen Tamil political prisoners at the Welikada high security prison in Colombo are massacred by Sinhalese prisoners, the second such massacre in two days.
 <br/><br/>
-En 1993 : Asiana Airlines Flight 733 crashes into a ridge on Mt. Ungeo on its third attempt to land at Mokpo Airport, South Korea. Sixty-eight of the 116 people on board are killed.
+En 1981 : While landing at Chihuahua International Airport, Aeromexico Flight 230 overshoots the runway. Thirty-two of the 66 passengers and crew on board the DC-9 are killed.
 <br/><br/>
-En 1990 : The Americans with Disabilities Act of 1990 is signed into law by President George H. W. Bush.
+En 1975 : Mayor of Jaffna and former MP Alfred Duraiappah is shot dead.
 <br/><br/>
-En 1989 : A federal grand jury indicts Cornell University student Robert T. Morris, Jr. for releasing the Morris worm, thus becoming the first person to be prosecuted under the 1986 Computer Fraud and Abuse Act.
+En 1974 : Watergate scandal: The House of Representatives Judiciary Committee votes 27 to 11 to recommend the first article of impeachment (for obstruction of justice) against President Richard Nixon.
 <br/><br/>
-En 1977 : The National Assembly of Quebec imposes the use of French as the official language of the provincial government.
+En 1964 : Vietnam War: Five thousand more American military advisers are sent to South Vietnam bringing the total number of United States forces in Vietnam to 21,000.
 <br/><br/>
-En 1974 : Greek Prime Minister Konstantinos Karamanlis forms the country's first civil government after seven years of military rule.
+En 1963 : The Puijo observation tower is opened to the general public at Puijo Hill in Kuopio, Finland.
 <br/><br/>
-En 1971 : Apollo program: Launch of Apollo 15 on the first Apollo "J-Mission", and first use of a Lunar Roving Vehicle.
+En 1959 : The Continental League is announced as baseball's "third major league" in the United States.
 <br/><br/>
-En 1968 : Vietnam War: South Vietnamese opposition leader Trương Đình Dzu is sentenced to five years hard labor for advocating the formation of a coalition government as a way to move toward an end to the war.
+En 1955 : The Austrian State Treaty restores Austrian sovereignty.
 <br/><br/>
-En 1963 : Syncom 2, the world's first geosynchronous satellite, is launched from Cape Canaveral on a Delta B booster.
+En 1955 : El Al Flight 402 is shot down by two fighter jets after straying into Bulgarian air space. All 58 people on board are killed.
 <br/><br/>
-En 1963 : An earthquake in Skopje, Yugoslavia (present-day North Macedonia) leaves 1,100 dead.
+En 1953 : Cessation of hostilities is achieved in the Korean War when the United States, China, and North Korea sign an armistice agreement. Syngman Rhee, President of South Korea, refuses to sign but pledges to observe the armistice.
 <br/><br/>
-En 1963 : The Organisation for Economic Co-operation and Development votes to admit Japan.
+En 1949 : Initial flight of the de Havilland Comet, the first jet-powered airliner.
 <br/><br/>
-En 1958 : Explorer program: Explorer 4 is launched.
+En 1947 : In Vatican City, Rome, canonization of Catherine Labouré, the saint whose apparitions of the Virgin Mary originated the worldwide diffusion of the Miraculous Medal.
 <br/><br/>
-En 1957 : Carlos Castillo Armas, dictator of Guatemala, is assassinated.
+En 1942 : World War II: Allied forces successfully halt the final Axis advance into Egypt.
 <br/><br/>
-En 1956 : Following the World Bank's refusal to fund building the Aswan Dam, Egyptian leader Gamal Abdel Nasser nationalizes the Suez Canal, sparking international condemnation.
+En 1940 : The animated short A Wild Hare is released, introducing the character of Bugs Bunny.
 <br/><br/>
-En 1953 : Cold War: Fidel Castro leads an unsuccessful attack on the Moncada Barracks, thus beginning the Cuban Revolution. The movement took the name of the date: 26th of July Movement
+En 1929 : The Geneva Convention of 1929, dealing with treatment of prisoners-of-war, is signed by 53 nations.
 <br/><br/>
-En 1953 : Arizona Governor John Howard Pyle orders an anti-polygamy law enforcement crackdown on residents of Short Creek, Arizona, which becomes known as the Short Creek raid.
+En 1921 : Researchers at the University of Toronto, led by biochemist Frederick Banting, prove that the hormone insulin regulates blood sugar.
 <br/><br/>
-En 1953 : Soldiers from the 2nd Battalion, Royal Australian Regiment repel a number of Chinese assaults against a key position known as The Hook during the Battle of the Samichon River, just hours before the Armistice Agreement is signed, ending the Korean War.
+En 1919 : The Chicago Race Riot erupts after a racial incident occurred on a South Side beach, leading to 38 fatalities and 537 injuries over a five-day period.
 <br/><br/>
-En 1952 : King Farouk of Egypt abdicates in favor of his son Fuad.
+En 1917 : World War I: The Allies reach the Yser Canal at the Battle of Passchendaele.
 <br/><br/>
-En 1951 : Walt Disney's 13th animated film, Alice in Wonderland, premieres in London, England, United Kingdom.
+En 1900 : Kaiser Wilhelm II makes a speech comparing Germans to Huns; for years afterwards, "Hun" would be a disparaging name for Germans.
 <br/><br/>
-En 1948 : U.S. president Harry S. Truman signs Executive Order 9981, desegregating the military of the United States.
+En 1890 : Vincent van Gogh shoots himself and dies two days later.
 <br/><br/>
-En 1947 : Cold War: U.S. president Harry S. Truman signs the National Security Act of 1947 into United States law creating the Central Intelligence Agency, United States Department of Defense, United States Air Force, Joint Chiefs of Staff, and the United States National Security Council.
+En 1880 : Second Anglo-Afghan War: Battle of Maiwand: Afghan forces led by Mohammad Ayub Khan defeat the British Army in battle near Maiwand, Afghanistan.
 <br/><br/>
-En 1946 : Aloha Airlines begins service from Honolulu International Airport.
+En 1866 : The first permanent transatlantic telegraph cable is successfully completed, stretching from Valentia Island, Ireland, to Heart's Content, Newfoundland.
 <br/><br/>
-En 1945 : The Labour Party wins the United Kingdom general election of July 5 by a landslide, removing Winston Churchill from power.
+En 1865 : Welsh settlers arrive at Chubut in Argentina.
 <br/><br/>
-En 1945 : World War II: The Potsdam Declaration is signed in Potsdam, Germany.
+En 1857 : Indian Rebellion: Sixty-eight men hold out for eight days against a force of 2,500 to 3,000 mutinying sepoys and 8,000 irregular forces.
 <br/><br/>
-En 1945 : World War II: HMS Vestal is the last British Royal Navy ship to be sunk in the war.
+En 1816 : Seminole Wars: The Battle of Negro Fort ends when a hot shot cannonball fired by US Navy Gunboat No. 154 explodes the fort's Powder Magazine, killing approximately 275. It is considered the deadliest single cannon shot in US history.
 <br/><br/>
-En 1945 : World War II: The USS Indianapolis arrives at Tinian with components and enriched uranium for the Little Boy nuclear bomb.
+En 1794 : French Revolution: Maximilien Robespierre is arrested after encouraging the execution of more than 17,000 "enemies of the Revolution".
 <br/><br/>
-En 1944 : World War II: The Red Army enters Lviv, a major city in western Ukraine, capturing it from the Nazis. Only 300 Jews survive out of 160,000 living in Lviv prior to occupation.
+En 1789 : The first U.S. federal government agency, the Department of Foreign Affairs, is established (it will be later renamed Department of State).
 <br/><br/>
-En 1941 : World War II: Battle of Grand Harbour, British forces on Malta destroy an attack by the Italian Decima Flottiglia MAS. Fort St Elmo Bridge covering the harbour is demolished in the process.
+En 1778 : American Revolution: First Battle of Ushant: British and French fleets fight to a standoff.
 <br/><br/>
-En 1941 : World War II: In response to the Japanese occupation of French Indochina, the United States, Britain and the Netherlands freeze all Japanese assets and cut off oil shipments.
+En 1775 : Founding of the U.S. Army Medical Department:  The Second Continental Congress passes legislation establishing "an hospital for an army consisting of 20,000 men."
 <br/><br/>
-En 1937 : Spanish Civil War: End of the Battle of Brunete with the Nationalist victory.
+En 1714 : The Great Northern War: The first significant victory of the Russian Navy in the naval battle of Gangut against the Swedish Navy near the Hanko Peninsula.
 <br/><br/>
-En 1936 : Spanish Civil War: Germany and Italy decide to intervene in the war in support for Francisco Franco and the Nationalist faction.
+En 1694 : A Royal charter is granted to the Bank of England.
 <br/><br/>
-En 1936 : King Edward VIII, in one of his few official duties before he abdicates the throne, officially unveils the Canadian National Vimy Memorial.
+En 1689 : Glorious Revolution: The Battle of Killiecrankie is a victory for the Jacobites.
 <br/><br/>
-En 1918 : Emmy Noether's paper, which became known as Noether's theorem was presented at Göttingen, Germany, from which  conservation laws are deduced for symmetries of angular momentum, linear momentum, and energy.
+En 1663 : The English Parliament passes the second Navigation Act requiring that all goods bound for the American colonies have to be sent in English ships from English ports. After the Acts of Union 1707, Scotland would be included in the Act.
 <br/><br/>
-En 1908 : United States Attorney General Charles Joseph Bonaparte issues an order to immediately staff the Office of the Chief Examiner (later renamed the Federal Bureau of Investigation).
+En 1549 : The Jesuit priest Francis Xavier's ship reaches Japan.
 <br/><br/>
-En 1899 : Ulises Heureaux, the 27th President of the Dominican Republic, is assassinated.
+En 1302 : Battle of Bapheus: Decisive Ottoman victory over the Byzantines opening up Bithynia for Turkish conquest.
 <br/><br/>
-En 1897 : Anglo-Afghan War: The Pashtun fakir Saidullah leads an army of more than 10,000 to begin a siege of the British garrison in the Malakand Agency of the North West Frontier Province of India.
+En 1299 : According to Edward Gibbon, Osman I invades the territory of Nicomedia for the first time, usually considered to be the founding day of the Ottoman state.
 <br/><br/>
-En 1892 : Dadabhai Naoroji is elected as the first Indian Member of Parliament in Britain.
+En 1214 : Battle of Bouvines: Philip II of France decisively defeats Imperial, English and Flemish armies, effectively ending John of England's Angevin Empire.
 <br/><br/>
-En 1891 : France annexes Tahiti.
+En 1202 : Georgian–Seljuk wars: At the Battle of Basian the Kingdom of Georgia defeats the Sultanate of Rum.
 <br/><br/>
-En 1890 : In Buenos Aires, Argentina the Revolución del Parque takes place, forcing President Miguel Ángel Juárez Celman's resignation.
+En 1189 : Friedrich Barbarossa arrives at Niš, the capital of Serbian King Stefan Nemanja, during the Third Crusade.
 <br/><br/>
-En 1887 : Publication of the Unua Libro, founding the Esperanto movement.
-<br/><br/>
-En 1882 : Premiere of Richard Wagner's opera Parsifal at Bayreuth.
-<br/><br/>
-En 1882 : The Republic of Stellaland is founded in Southern Africa.
-<br/><br/>
-En 1863 : American Civil War: Morgan's Raid ends; At Salineville, Ohio, Confederate cavalry leader John Hunt Morgan and 360 of his volunteers are captured by Union forces.
-<br/><br/>
-En 1861 : American Civil War: George B. McClellan assumes command of the Army of the Potomac following a disastrous Union defeat at the First Battle of Bull Run.
-<br/><br/>
-En 1848 : The University of Wisconsin–Madison is established by Nelson Dewey, first Governor of Wisconsin.
-<br/><br/>
-En 1847 : Liberia declares its independence from the United States. France and the United Kingdom are the first to recognize the new nation.
-<br/><br/>
-En 1822 : José de San Martín arrives in Guayaquil, Ecuador, to meet with Simón Bolívar.
-<br/><br/>
-En 1822 : First day of the three-day Battle of Dervenakia, between the Ottoman Empire force led by Mahmud Dramali Pasha and the Greek Revolutionary force led by Theodoros Kolokotronis.
-<br/><br/>
-En 1814 : The Swedish–Norwegian War begins.
-<br/><br/>
-En 1803 : The Surrey Iron Railway, arguably the world's first public railway, opens in south London, United Kingdom.
-<br/><br/>
-En 1788 : New York ratifies the United States Constitution and becomes the 11th state of the United States.
-<br/><br/>
-En 1778 : The Emigration of Christians from the Crimea in 1778 begins.
-<br/><br/>
-En 1775 : The office that would later become the United States Post Office Department is established by the Second Continental Congress. Benjamin Franklin of Pennsylvania takes office as Postmaster General.
-<br/><br/>
-En 1758 : French and Indian War: The Siege of Louisbourg ends with British forces defeating the French and taking control of the Gulf of Saint Lawrence.
-<br/><br/>
-En 1745 : The first recorded women's cricket match takes place near Guildford, England.
-<br/><br/>
-En 1703 : During the Bavarian Rummel the rural population of Tyrol drove the Bavarian Prince-Elector Maximilian II Emanuel out of North Tyrol with a victory at the Pontlatzer Bridge and thus prevented the Bavarian Army, which was allied with France, from marching as planned on Vienna during the War of the Spanish Succession.
-<br/><br/>
-En 1581 : Plakkaat van Verlatinghe (Act of Abjuration): The northern Low Countries declare their independence from the Spanish king, Philip II.
-<br/><br/>
-En 1579 : Francis Drake, the English explorer, discovers a "fair and good" bay on the coast of the Pacific Northwest (probably Oregon or Washington).
-<br/><br/>
-En 1529 : Francisco Pizarro González, Spanish conquistador, is appointed governor of Peru.
-<br/><br/>
-En 1509 : The Emperor Krishnadevaraya ascends to the throne, marking the beginning of the regeneration of the Vijayanagara Empire.
-<br/><br/>
-En 1309 : The Holy Roman Emperor Henry VII is recognized King of the Romans by Pope Clement V.
-<br/><br/>
-En 920 : Rout of an alliance of Christian troops from Navarre and Léon against the Muslims at the Battle of Valdejunquera.
-<br/><br/>
-En 811 : Battle of Pliska: Byzantine Emperor Nikephoros I is killed and his heir Staurakios is seriously wounded.
-<br/><br/>
-En 657 : First Fitna: In the Battle of Siffin, troops led by Ali ibn Abu Talib clash with those led by Muawiyah I.
+En 1054 : Siward, Earl of Northumbria, invades Scotland and defeats Macbeth, King of Scotland, somewhere north of the Firth of Forth. This is known as the Battle of Dunsinane.
 <br/><br/>
