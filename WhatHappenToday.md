@@ -4,105 +4,107 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 30/7 ?(Hover on the year)</h1>
+<h1> What happen this day 31/7 ?(Hover on the year)</h1>
 
-En 2024 : A series of landslides occurs in Kerala, India, causing over 420 fatalities.
+En 2014 : Gas explosions in the southern Taiwanese city of Kaohsiung kill at least 20 people and injure more than 270.
 <br/><br/>
-En 2020 : NASA's Mars 2020 mission was launched on an Atlas V rocket from Cape Canaveral Air Force Station.
+En 2012 : Michael Phelps breaks the record set in 1964 by Larisa Latynina for the most medals won at the Olympics.
 <br/><br/>
-En 2014 : Twenty killed and 150 are trapped after a landslide in Maharashtra, India.
+En 2008 : East Coast Jets Flight 81 crashes near Owatonna Degner Regional Airport in Owatonna, Minnesota, killing all eight people on board.
 <br/><br/>
-En 2012 : A train fire kills 32 passengers and injures 27 on the Tamil Nadu Express in Andhra Pradesh, India.
+En 2007 : Operation Banner, the presence of the British Army in Northern Ireland, and the longest-running British Army operation ever, comes to an end.
 <br/><br/>
-En 2012 : A power grid failure in Delhi leaves more than 300 million people without power in northern India.
+En 2006 : Fidel Castro hands over power to his brother, Raúl.
 <br/><br/>
-En 2011 : Marriage of Queen Elizabeth II's eldest granddaughter Zara Phillips to former rugby union footballer Mike Tindall.
+En 1999 : Discovery Program: Lunar Prospector: NASA intentionally crashes the spacecraft into the Moon, thus ending its mission to detect frozen water on the Moon's surface.
 <br/><br/>
-En 2006 : The world's longest running music show Top of the Pops is broadcast for the last time on BBC Two. The show had aired for 42 years.
+En 1997 : FedEx Express Flight 14 crashes at Newark International Airport, injuring five.
 <br/><br/>
-En 2006 : An Israeli airstrike kills 28 Lebanese civilians, including 16 children.
+En 1992 : The nation of Georgia joins the United Nations.
 <br/><br/>
-En 2003 : In Mexico, the last 'old style' Volkswagen Beetle rolls off the assembly line.
+En 1992 : Thai Airways International Flight 311 crashes into a mountain north of Kathmandu, Nepal killing all 113 people on board.
 <br/><br/>
-En 2003 : Three years after the death the last Pyrenean ibex, Celia, a clone of her is born only to subsequently die from lung defects. Within minutes, the Pyrenean ibex becomes the first and so-far only species to have ever gone de-extinct as well as go extinct twice.
+En 1992 : China General Aviation Flight 7552 crashes during takeoff from Nanjing Dajiaochang Airport, killing 108.
 <br/><br/>
-En 1990 : Ian Gow, Conservative Member of Parliament, is assassinated at his home by the IRA in a car bombing after he assured the group that the British government would never surrender to them.
+En 1992 : Space Shuttle program: Atlantis is launched on STS-46 to deploy the European Retrievable Carrier and the Tethered Satellite System.
 <br/><br/>
-En 1981 : As many as 50,000 demonstrators, mostly women and children, took to the streets in Łódź to protest food ration shortages in Communist Poland.
+En 1991 : The United States and Soviet Union both sign the START I Strategic Arms Reduction Treaty, the first to reduce (with verification) both countries' stockpiles.
 <br/><br/>
-En 1980 : Vanuatu gains independence.
+En 1988 : Thirty-two people are killed and 1,674 injured when a bridge at the Sultan Abdul Halim ferry terminal collapses in Butterworth, Penang, Malaysia.
 <br/><br/>
-En 1980 : Israel's Knesset passes the Jerusalem Law.
+En 1987 : A tornado occurs in Edmonton, Alberta, killing 27 people.
 <br/><br/>
-En 1978 : The 730: Okinawa Prefecture changes its traffic on the right-hand side of the road to the left-hand side.
+En 1975 : The Troubles: Three members of a popular cabaret band and two gunmen are killed during a botched paramilitary attack in Northern Ireland.
 <br/><br/>
-En 1975 : Jimmy Hoffa disappears from the parking lot of the Machus Red Fox restaurant in Bloomfield Hills, Michigan, a suburb of Detroit, at about 2:30 p.m. He is never seen or heard from again.
+En 1973 : A Delta Air Lines jetliner, flight DL 723 crashes while landing in fog at Logan International Airport, Boston, Massachusetts killing 89.
 <br/><br/>
-En 1974 : Watergate scandal: U.S. President Richard Nixon releases subpoenaed White House recordings after being ordered to do so by the Supreme Court of the United States.
+En 1972 : The Troubles: In Operation Motorman, the British Army re-takes the urban no-go areas of Northern Ireland. It is the biggest British military operation since the Suez Crisis of 1956, and the biggest in Ireland since the Irish War of Independence. Later that day, nine civilians are killed by car bombs in the village of Claudy.
 <br/><br/>
-En 1971 : Apollo program: On Apollo 15, David Scott and James Irwin in the Apollo Lunar Module Falcon land on the Moon with the first Lunar Rover.
+En 1971 : Apollo program: the Apollo 15 astronauts become the first to ride in a lunar rover.
 <br/><br/>
-En 1971 : An All Nippon Airways Boeing 727 and a Japanese Air Force F-86 collide over Morioka, Iwate, Japan killing 162.
+En 1970 : Black Tot Day: The last day of the officially sanctioned rum ration in the Royal Navy.
 <br/><br/>
-En 1969 : Vietnam War: U.S. president Richard Nixon makes an unscheduled visit to South Vietnam and meets with President Nguyễn Văn Thiệu and U.S. military commanders.
+En 1966 : The pleasure cruiser MV Darlwyne disappeared off the Cornwall coast with the loss of all 31 aboard.
 <br/><br/>
-En 1966 : England defeats West Germany to win the FIFA World Cup at Wembley Stadium 4–2 after extra time.
+En 1964 : Ranger program: Ranger 7 sends back the first close-up photographs of the moon, with images 1,000 times clearer than anything ever seen from earth-bound telescopes.
 <br/><br/>
-En 1965 : U.S. president Lyndon B. Johnson signs the Social Security Act of 1965 into law, establishing Medicare and Medicaid.
+En 1948 : At Idlewild Field in New York, New York International Airport (later renamed John F. Kennedy International Airport) is dedicated.
 <br/><br/>
-En 1962 : The Trans-Canada Highway, the then longest national highway in the world, is officially opened.
+En 1948 : USS Nevada is sunk by an aerial torpedo after surviving hits from two atomic bombs (as part of post-war tests) and being used for target practice by three other ships.
 <br/><br/>
-En 1956 : A joint resolution of the U.S. Congress is signed by President Dwight D. Eisenhower, authorizing In God We Trust as the U.S. national motto.
+En 1945 : Pierre Laval, the fugitive former leader of Vichy France, surrenders to Allied soldiers in Austria.
 <br/><br/>
-En 1945 : World War II: Japanese submarine I-58 sinks the USS Indianapolis, killing 883 seamen. Most die during the following four days, until an aircraft notices the survivors.
+En 1941 : The Holocaust: Under instructions from Adolf Hitler, Nazi official Hermann Göring orders SS General Reinhard Heydrich to "submit to me as soon as possible a general plan of the administrative material and financial measures necessary for carrying out the desired Final Solution of the Jewish question."
 <br/><br/>
-En 1932 : Premiere of Walt Disney's Flowers and Trees, the first cartoon short to use Technicolor and the first Academy Award winning cartoon short.
+En 1941 : World War II: The Battle of Smolensk concludes with Germany capturing about 300,000 Soviet Red Army prisoners.
 <br/><br/>
-En 1930 : In Montevideo, Uruguay wins the first FIFA World Cup by beating Argentina.
+En 1938 : Bulgaria signs a non-aggression pact with Greece and other states of Balkan Antanti (Turkey, Romania, Yugoslavia).
 <br/><br/>
-En 1916 : The Black Tom explosion in New York Harbor kills four and destroys some $20,000,000 worth of military goods.
+En 1938 : Archaeologists discover engraved gold and silver plates from King Darius the Great in Persepolis.
 <br/><br/>
-En 1912 : Japan's Emperor Meiji dies and is succeeded by his son Yoshihito, who is now known as the Emperor Taishō.
+En 1932 : The NSDAP (Nazi Party) wins more than 38% of the vote in German elections.
 <br/><br/>
-En 1871 : The Staten Island Ferry Westfield's boiler explodes, killing over 85 people.
+En 1917 : World War I: The Battle of Passchendaele begins near Ypres in West Flanders, Belgium.
 <br/><br/>
-En 1866 : Armed Confederate veterans in New Orleans riot against a meeting of Radical Republicans, killing 48 people and injuring another 100.
+En 1904 : Russo-Japanese War: Battle of Hsimucheng: Units of the Imperial Japanese Army defeat units of the Imperial Russian Army in a strategic confrontation.
 <br/><br/>
-En 1865 : The steamboat Brother Jonathan sinks off the coast of Crescent City, California, killing 225 passengers, the deadliest shipwreck on the Pacific Coast of the U.S. at the time.
+En 1874 : Patrick Francis Healy became the first African-American inaugurated as president of a predominantly white university, Georgetown University.
 <br/><br/>
-En 1864 : American Civil War: Battle of the Crater: Union forces attempt to break Confederate lines at Petersburg, Virginia by exploding a large bomb under their trenches.
+En 1865 : The first narrow-gauge mainline railway in the world opens at Grandchester, Queensland, Australia.
 <br/><br/>
-En 1863 : American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone)  sign the Treaty of Box Elder.
+En 1856 : Christchurch, New Zealand, is chartered as a city.
 <br/><br/>
-En 1863 : Valuev Circular banned the publication of religious, educational and training books in Ukrainian in the Russian Empire.
+En 1790 : The first U.S. patent is issued, to inventor Samuel Hopkins for a potash process.
 <br/><br/>
-En 1859 : First ascent of Grand Combin, one of the highest summits in the Alps.
+En 1777 : The U.S. Second Continental Congress passes a resolution that the services of Gilbert du Motier, Marquis de Lafayette "be accepted, and that, in consideration of his zeal, illustrious family and connexions, he have the rank and commission of major-general of the United States."
 <br/><br/>
-En 1811 : Father Miguel Hidalgo y Costilla, leader of the Mexican insurgency, is executed by the Spanish in Chihuahua City, Mexico.
+En 1763 : Odawa Chief Pontiac's forces defeat British troops at the Battle of Bloody Run during Pontiac's War.
 <br/><br/>
-En 1756 : In Saint Petersburg, Bartolomeo Rastrelli presents the newly built Catherine Palace to Empress Elizabeth and her courtiers.
+En 1741 : Charles Albert of Bavaria invades Upper Austria and Bohemia.
 <br/><br/>
-En 1733 : The first Masonic Grand Lodge in the future United States is constituted in Massachusetts.
+En 1715 : Seven days after a Spanish treasure fleet of 12 ships left Havana, Cuba for Spain, 11 of them sink in a storm off the coast of Florida. A few centuries later, treasure is salvaged from these wrecks.
 <br/><br/>
-En 1729 : Founding of Baltimore, Maryland.
+En 1703 : Daniel Defoe is placed in a pillory for the crime of seditious libel after publishing a politically satirical pamphlet, but is pelted with flowers.
 <br/><br/>
-En 1676 : Nathaniel Bacon issues the "Declaration of the People of Virginia", beginning Bacon's Rebellion against the rule of Governor William Berkeley.
+En 1658 : Aurangzeb is proclaimed Mughal emperor of India.
 <br/><br/>
-En 1656 : The Battle of Warsaw ends with a Swedish-Brandenburger victory over a larger Polish-Lithuanian force.
+En 1655 : Russo-Polish War (1654–67): The Russian army enters the capital of the Grand Duchy of Lithuania, Vilnius, which it holds for six years.
 <br/><br/>
-En 1645 : English Civil War: Scottish Covenanter forces under the Earl of Leven launch the Siege of Hereford, a remaining Royalist stronghold.
+En 1618 : Maurice, Prince of Orange disbands the waardgelders militia in Utrecht, a pivotal event in the Remonstrant/Counter-Remonstrant tensions.
 <br/><br/>
-En 1635 : Eighty Years' War: The Siege of Schenkenschans begins; Frederick Henry, Prince of Orange, begins the recapture of the strategically important fortress from the Spanish Army.
+En 1498 : On his third voyage to the Western Hemisphere, Christopher Columbus becomes the first European to discover the island of Trinidad.
 <br/><br/>
-En 1627 : An earthquake kills about 5,000 people in Gargano, Italy.
+En 1492 : All remaining Jews are expelled from Spain when the Alhambra Decree takes effect.
 <br/><br/>
-En 1619 : In Jamestown, Virginia, the first Colonial European representative assembly in the Americas, the Virginia General Assembly, convenes for the first time.
+En 1451 : Jacques Cœur is arrested by order of Charles VII of France.
 <br/><br/>
-En 1609 : Beaver Wars: At Ticonderoga (now Crown Point, New York), Samuel de Champlain shoots and kills two Iroquois chiefs on behalf of his native allies.
+En 1423 : Hundred Years' War: Battle of Cravant: A Franco-Scottish army is defeated by the Anglo-Burgundians at Cravant on the banks of the river Yonne.
 <br/><br/>
-En 1502 : Christopher Columbus lands at Guanaja in the Bay Islands off the coast of Honduras during his fourth voyage.
+En 1201 : Attempted usurpation by John Komnenos the Fat for the throne of Alexios III Angelos.
 <br/><br/>
-En 1419 : First Defenestration of Prague: A crowd of radical Hussites kill seven members of the Prague city council.
+En 1009 : Pope Sergius IV becomes the 142nd pope, succeeding Pope John XVIII.
 <br/><br/>
-En 762 : Baghdad is founded.
+En 781 : The oldest recorded eruption of Mount Fuji (Traditional Japanese date: Sixth day of the seventh month of the first year of the Ten'o (天応) era).
+<br/><br/>
+En -30 : Battle of Alexandria: Mark Antony achieves a minor victory over Octavian's forces, but most of his army subsequently deserts, leading to his suicide.
 <br/><br/>
