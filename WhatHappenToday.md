@@ -4,103 +4,101 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 2/8 ?(Hover on the year)</h1>
+<h1> What happen this day 3/8 ?(Hover on the year)</h1>
 
-En 2014 : At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
+En 2023 : Worst floods hit major parts of Slovenia.
 <br/><br/>
-En 2005 : Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.
+En 2019 : Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.
 <br/><br/>
-En 1999 : The Gaisal train disaster claims 285 lives in Assam, India.
+En 2019 : Twenty-three people are killed and 22 injured in a mass shooting in El Paso, Texas.
 <br/><br/>
-En 1991 : Space Shuttle Atlantis is launched on STS-43 to deploy the TDRS-5 satellite.
+En 2018 : Two burka-clad men kill 29 people and injure more than 80 in a suicide attack on a Shia mosque in eastern Afghanistan.
 <br/><br/>
-En 1990 : Iraq invades Kuwait, eventually leading to the Gulf War.
+En 2014 : A 6.1 magnitude earthquake kills at least 617 people and injures more than 2,400 in Yunnan, China.
 <br/><br/>
-En 1989 : Pakistan is re-admitted to the Commonwealth of Nations after having restored democracy for the first time since 1972.
+En 2014 : The genocide of Yazidis by ISIL begins.
 <br/><br/>
-En 1989 : A massacre is carried out by an Indian Peace Keeping Force in Sri Lanka killing 64 ethnic Tamil civilians.
+En 2010 : Widespread rioting erupts in Karachi, Pakistan, after the assassination of a local politician, leaving at least 85 dead and at least 17 billion Pakistani rupees (US$200 million) in damage.
 <br/><br/>
-En 1985 : Delta Air Lines Flight 191, a Lockheed L-1011 TriStar, crashes at Dallas/Fort Worth International Airport killing 137.
+En 2007 : Former deputy director of the Chilean secret police Raúl Iturriaga is captured after having been on the run following a conviction for kidnapping.
 <br/><br/>
-En 1982 : The Helsinki Metro, the first rapid transit system of Finland, is opened to the general public.
+En 2005 : President of Mauritania Maaouya Ould Sid'Ahmed Taya is overthrown in a military coup while attending the funeral of King Fahd in Saudi Arabia.
 <br/><br/>
-En 1980 : A bomb explodes at the railway station in Bologna, Italy, killing 85 people and wounding more than 200.
+En 2004 : The pedestal of the Statue of Liberty reopens after being closed since the September 11 attacks.
 <br/><br/>
-En 1973 : A flash fire kills 50 people at the Summerland amusement centre at Douglas, Isle of Man.
+En 1997 : Oued El-Had and Mezouara massacre in Algeria: A total of 116 villagers killed, 40 in Oued El-Had and 76 in Mezouara.
 <br/><br/>
-En 1968 : An earthquake hits Casiguran, Aurora, Philippines killing more than 270 people and wounding 261.
+En 1997 : The tallest free-standing structure in the Southern Hemisphere, Sky Tower in downtown Auckland, New Zealand, opens after two-and-a-half years of construction.
 <br/><br/>
-En 1947 : A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.
+En 1981 : Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front – Suxxali Reew Mi.
 <br/><br/>
-En 1945 : World War II: End of the Potsdam Conference.
+En 1977 : Tandy Corporation announces the TRS-80, one of the world's first mass-produced personal computers.
 <br/><br/>
-En 1944 : ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia.
+En 1975 : A privately chartered Boeing 707 strikes a mountain peak and crashes near Agadir, Morocco, killing 188.
 <br/><br/>
-En 1944 : World War II: The largest trade convoy of the world wars arrives safely in the Western Approaches.
+En 1972 : The United States Senate ratifies the Anti-Ballistic Missile Treaty.
 <br/><br/>
-En 1943 : The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months.
+En 1960 : Niger gains independence from France.
 <br/><br/>
-En 1943 : World War II: The Motor Torpedo Boat PT-109 is rammed by the Japanese destroyer Amagiri and sinks. Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.
+En 1959 : Portugal's state police force PIDE fires upon striking workers in Bissau, Portuguese Guinea, killing over 50 people.
 <br/><br/>
-En 1939 : Albert Einstein and Leo Szilard write a letter to Franklin D. Roosevelt, urging him to begin the Manhattan Project to develop a nuclear weapon.
+En 1958 : The world's first nuclear submarine, the USS Nautilus, becomes the first vessel to complete a submerged transit of the geographical North Pole.
 <br/><br/>
-En 1937 : The Marihuana Tax Act of 1937 is passed in America, the effect of which is to render marijuana and all its by-products illegal.
+En 1949 : The Basketball Association of America and the National Basketball League finalize the merger that would create the National Basketball Association.
 <br/><br/>
-En 1934 : Reichskanzler Adolf Hitler becomes Führer of Germany following the death of President Paul von Hindenburg.
+En 1948 : Whittaker Chambers accuses Alger Hiss of being a communist and a spy for the Soviet Union.
 <br/><br/>
-En 1932 : The positron (antiparticle of the electron) is discovered by Carl D. Anderson.
+En 1946 : Santa Claus Land, the world's first themed amusement park, opens in Santa Claus, Indiana, United States.
 <br/><br/>
-En 1923 : Vice President Calvin Coolidge becomes U.S. President upon the death of President Warren G. Harding.
+En 1940 : World War II: Italian forces begin the invasion of British Somaliland.
 <br/><br/>
-En 1922 : A typhoon hits Shantou, Republic of China, killing more than 50,000 people.
+En 1936 : Jesse Owens wins the 100 metre dash, defeating Ralph Metcalfe, at the Berlin Olympics.
 <br/><br/>
-En 1918 : The first general strike in Canadian history takes place in Vancouver.
+En 1936 : A fire wipes out Kursha-2 in the Meshchera Lowlands, Ryazan Oblast, Russia, killing 1,200 and leaving only 20 survivors.
 <br/><br/>
-En 1916 : World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.
+En 1921 : Major League Baseball Commissioner Kenesaw Mountain Landis confirms the ban of the eight Chicago Black Sox, the day after they were acquitted by a Chicago court.
 <br/><br/>
-En 1914 : The German occupation of Luxembourg during World War I begins.
+En 1914 : World War I: Germany declares war against France, while Romania declares its neutrality.
 <br/><br/>
-En 1903 : The Ilinden–Preobrazhenie Uprising against the Ottoman Empire begins.
+En 1907 : Judge Kenesaw Mountain Landis fines Standard Oil of Indiana a record $29.4 million for illegal rebating to freight carriers; the conviction and fine are later reversed on appeal.
 <br/><br/>
-En 1897 : Anglo-Afghan War: The Siege of Malakand ends when a relief column is able to reach the British garrison in the Malakand states.
+En 1903 : Macedonian rebels in Kruševo proclaim the Kruševo Republic, which exists for only ten days before Ottoman Turks lay waste to the town.
 <br/><br/>
-En 1873 : The Clay Street Hill Railroad begins operating the first cable car in San Francisco's famous cable car system.
+En 1900 : The Firestone Tire and Rubber Company is founded.
 <br/><br/>
-En 1870 : Tower Subway, the world's first underground tube railway, opens in London, England, United Kingdom.
+En 1859 : The American Dental Association is founded in Niagara Falls, New York.
 <br/><br/>
-En 1869 : Japan's Edo society class system is abolished as part of the Meiji Restoration reforms.
+En 1852 : Harvard University wins the first Boat Race between Yale University and Harvard. The race is also known as the first ever American intercollegiate athletic event.
 <br/><br/>
-En 1858 : The Government of India Act 1858 replaces Company rule in India with that of the British Raj.
+En 1829 : The Treaty of Lewistown is signed by the Shawnee and Seneca peoples, exchanging land in Ohio for land west of the Mississippi River.
 <br/><br/>
-En 1830 : Charles X of France abdicates the throne in favor of his grandson Henri.
+En 1811 : First ascent of Jungfrau, third highest summit in the Bernese Alps by brothers Johann Rudolf and Hieronymus Meyer.
 <br/><br/>
-En 1798 : French Revolutionary Wars: The Battle of the Nile concludes in a British victory.
+En 1795 : Treaty of Greenville is signed, ending the Northwest Indian War in the Ohio Country.
 <br/><br/>
-En 1790 : The first United States Census is conducted.
+En 1778 : The theatre La Scala in Milan is inaugurated with the première of Antonio Salieri's Europa riconosciuta.
 <br/><br/>
-En 1784 : The first British mail coach service ran from Bristol to London.
+En 1678 : Robert LaSalle builds the Le Griffon, the first known ship built on the Great Lakes.
 <br/><br/>
-En 1776 : The signing of the United States Declaration of Independence took place.
+En 1645 : Thirty Years' War: The Second Battle of Nördlingen sees French forces defeating those of the Holy Roman Empire.
 <br/><br/>
-En 1610 : During Henry Hudson's search for the Northwest Passage, he sails into what is now known as Hudson Bay.
+En 1601 : Long War: Austria captures Transylvania in the Battle of Goroszló.
 <br/><br/>
-En 1492 : The Jews are expelled from Spain: 40,000–200,000 leave. Sultan Bayezid II of the Ottoman Empire, learning of this, dispatches the Ottoman Navy to bring the Jews safely to Ottoman lands, mainly  to the cities of Thessaloniki (in modern-day Greece) and İzmir (in modern-day Turkey).
+En 1527 : The first known letter from North America is sent by John Rut while at St. John's, Newfoundland.
 <br/><br/>
-En 1415 : Thomas Grey is executed for participating in the Southampton Plot.
+En 1492 : Christopher Columbus sets sail from Palos de la Frontera, Spain.
 <br/><br/>
-En 1377 : Russian troops are defeated by forces of the Blue Horde Khan Arapsha in the Battle on Pyana River.
+En 1342 : The Siege of Algeciras commences during the Spanish Reconquista.
 <br/><br/>
-En 1343 : After the execution of her husband, Jeanne de Clisson sells her estates and raises a force of men with which to attack French shipping and ports.
+En 1057 : Frederick of Lorraine elected as Pope Stephen IX.
 <br/><br/>
-En 1274 : Edward I of England returns from the Ninth Crusade and is crowned King seventeen days later.
+En 1031 : Olaf II of Norway is canonized as Saint Olaf by Grimketel, the English Bishop of Selsey.
 <br/><br/>
-En 932 : After a two-year siege, the city of Toledo, in Spain, surrenders to the forces of the Caliph of Córdoba Abd al-Rahman III, assuming an important victory in his campaign to subjugate the Central March.
+En 908 : Battle of Eisenach: An invading Hungarian force defeats an East Frankish army under Duke Burchard of Thuringia.
 <br/><br/>
-En 461 : Majorian is arrested near Tortona (northern Italy) and deposed by the Suebian general Ricimer as puppet emperor.
+En 881 : Battle of Saucourt-en-Vimeu: Louis III of France defeats the Vikings, an event celebrated in the poem Ludwigslied.
 <br/><br/>
-En -49 : Caesar, who marched to Spain earlier in the year, leaving Marcus Antonius in charge of Italy, defeats Pompey's general Afranius and Petreius in Ilerda (Lerida) north of the Ebro river.
+En 435 : Deposed Ecumenical Patriarch of Constantinople Nestorius, considered the originator of Nestorianism, is exiled by Roman Emperor Theodosius II to a monastery in Egypt.
 <br/><br/>
-En -216 : The Carthaginian army led by Hannibal defeats a numerically superior Roman army at the Battle of Cannae.
-<br/><br/>
-En -338 : A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.
+En 8 : Roman Empire general Tiberius defeats the Dalmatae on the river Bosna.
 <br/><br/>
