@@ -4,153 +4,91 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 5/8 ?(Hover on the year)</h1>
+<h1> What happen this day 6/8 ?(Hover on the year)</h1>
 
-En 2024 : Following the non-cooperation movement against the government of Bangladesh, Bangladeshi prime minister Sheikh Hasina resigns and flees the country, ending her rule of 15 consecutive years and a total of almost two decades.
+En 2015 : A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.
 <br/><br/>
-En 2021 : Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning.
+En 2012 : NASA's Curiosity rover lands on the surface of Mars.
 <br/><br/>
-En 2019 : The revocation of the special status of Jammu and Kashmir (state) occurred and the state was bifurcated into two union territories (Jammu and Kashmir (union territory) and Ladakh).
+En 2011 : War in Afghanistan: A United States military helicopter is shot down, killing 30 American special forces members and a working dog, seven Afghan soldiers, and one Afghan civilian. It was the deadliest single event for the United States in the War in Afghanistan.
 <br/><br/>
-En 2015 : The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.
+En 2010 : Flash floods across a large part of Jammu and Kashmir, India, damages 71 towns and kills at least 255 people.
 <br/><br/>
-En 2012 : The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police.
+En 2008 : A military junta led by Mohamed Ould Abdel Aziz stages a coup d'état in Mauritania, overthrowing president Sidi Ould Cheikh Abdallahi.
 <br/><br/>
-En 2010 : The Copiapó mining accident occurs, trapping 33 Chilean miners approximately 2,300 ft (700 m) below the ground for 69 days.
+En 2001 : Erwadi fire incident: Twenty-eight mentally ill persons tied to a chain are burnt to death at a faith based institution at Erwadi, Tamil Nadu.
 <br/><br/>
-En 2010 : Ten members of International Assistance Mission Nuristan Eye Camp team are killed by persons unknown in Kuran wa Munjan District of Badakhshan Province, Afghanistan.
+En 1997 : Korean Air Flight 801 crashed at Nimitz Hill, Guam, killing 229 of the 254 people on board.
 <br/><br/>
-En 2008 : The New England Revolution win the 2008 North American SuperLiga final against the Houston Dynamo.
+En 1996 : NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.
 <br/><br/>
-En 2003 : A car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.
+En 1991 : Tim Berners-Lee releases files describing his idea for the World Wide Web. WWW makes its first appearance as a publicly available service on the Internet.
 <br/><br/>
-En 1995 : Yugoslav Wars: The city of Knin, Croatia, a significant Serb stronghold, is taken by Croatian forces during Operation Storm. The date is celebrated in Croatia as Victory Day.
+En 1991 : Takako Doi, chair of the Social Democratic Party, becomes Japan's first female speaker of the House of Representatives.
 <br/><br/>
-En 1984 : A Biman Bangladesh Airlines Fokker F27 Friendship crashes on approach to Zia International Airport, in Dhaka, Bangladesh, killing all 49 people on board.
+En 1990 : Gulf War: The United Nations Security Council orders a global trade embargo against Iraq in response to Iraq's invasion of Kuwait.
 <br/><br/>
-En 1981 : President Ronald Reagan fires 11,359 striking air-traffic controllers who ignored his order for them to return to work.
+En 1986 : A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.
 <br/><br/>
-En 1979 : In Afghanistan, Maoists undertake the Bala Hissar uprising against the Leninist government.
+En 1965 : US President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law.
 <br/><br/>
-En 1974 : Watergate scandal: President Richard Nixon, under orders of the US Supreme Court, releases the "Smoking Gun" tape, recorded on June 23, 1972, clearly revealing his actions in covering up and interfering investigations into the break-in. His political support vanishes completely.
+En 1962 : Jamaica becomes independent from the United Kingdom.
 <br/><br/>
-En 1973 : Mars 6 is launched from the USSR.
+En 1960 : Cuban Revolution: Cuba nationalizes American and foreign-owned property in the nation.
 <br/><br/>
-En 1971 : The first Pacific Islands Forum (then known as the "South Pacific Forum") is held in Wellington, New Zealand, with the aim of enhancing cooperation between the independent countries of the Pacific Ocean.
+En 1958 : Law of Permanent Defense of Democracy, outlawing the Communist Party of Chile and banning 26,650 persons from the electoral lists, is repealed in Chile.
 <br/><br/>
-En 1969 : The Lonesome Cowboys police raid occurs in Atlanta, Georgia, leading to the creation of the Georgia Gay Liberation Front.
+En 1956 : After going bankrupt in 1955, the American broadcaster DuMont Television Network makes its final broadcast, a boxing match from St. Nicholas Arena in New York in the Boxing from St. Nicholas Arena series.
 <br/><br/>
-En 1966 : A group of red guards at Experimental High in Beijing, including Deng Rong and Liu Pingping, daughters of Deng Xiaoping and Liu Shaoqi respectively, beat the deputy vice principal, Bian Zhongyun, to death with sticks after accusing her of counter-revolutionary revisionism, producing one of the first fatalities of the Cultural Revolution.
+En 1945 : World War II: Hiroshima, Japan is devastated when the atomic bomb "Little Boy" is dropped by the United States B-29 Enola Gay. Around 70,000 people are killed instantly, and some tens of thousands die in subsequent years from burns and radiation poisoning.
 <br/><br/>
-En 1965 : The Indo-Pakistani war of 1965 begins as Pakistani soldiers cross the Line of Control dressed as locals.
+En 1944 : The Warsaw Uprising occurs on August 1. It is brutally suppressed and all able-bodied men in Kraków are detained afterwards to prevent a similar uprising, the Kraków Uprising, that was planned but never carried out.
 <br/><br/>
-En 1964 : Vietnam War: Operation Pierce Arrow: American aircraft from carriers USS Ticonderoga and USS Constellation bomb North Vietnam in retaliation for strikes against U.S. destroyers in the Gulf of Tonkin.
+En 1942 : Queen Wilhelmina of the Netherlands becomes the first reigning queen to address a joint session of the United States Congress.
 <br/><br/>
-En 1963 : Cold War: The United States, the United Kingdom, and the Soviet Union sign the Partial Nuclear Test Ban Treaty.
+En 1940 : Estonia is annexed by the Soviet Union.
 <br/><br/>
-En 1962 : Apartheid: Nelson Mandela is jailed. He would not be released until 1990.
+En 1926 : Gertrude Ederle becomes the first woman to swim across the English Channel.
 <br/><br/>
-En 1962 : American actress Marilyn Monroe is found dead at her home from a drug overdose.
+En 1926 : First public screening using the Vitaphone process
 <br/><br/>
-En 1960 : Burkina Faso, then known as Upper Volta, becomes independent from France.
+En 1917 : World War I: Battle of Mărășești between the Romanian and German armies begins.
 <br/><br/>
-En 1957 : American Bandstand, a show dedicated to the teenage "baby-boomers" by playing the songs and showing popular dances of the time, debuts on the ABC television network.
+En 1915 : World War I: Battle of Sari Bair: The Allies mount a diversionary attack timed to coincide with a major Allied landing of reinforcements at Suvla Bay.
 <br/><br/>
-En 1949 : In Ecuador, an earthquake destroys 50 towns and kills more than 6,000.
+En 1914 : World War I: U-boat campaign: Two days after the United Kingdom had declared war on Germany over the German invasion of Belgium, ten German U-boats leave their base in Heligoland to attack Royal Navy warships in the North Sea.
 <br/><br/>
-En 1949 : In Montana, 12 smokejumper firefighters and 1 US Forest Service fire guard are killed in the Mann Gulch Fire.
+En 1914 : World War I: Serbia declares war on Germany; Austria declares war on Russia.
 <br/><br/>
-En 1944 : World War II: At least 1,104 Japanese POWs in Australia attempt to escape from a camp at Cowra, New South Wales; 545 temporarily succeed but are later either killed, commit suicide, or are recaptured.
+En 1901 : Kiowa land in Oklahoma is opened for white settlement, effectively dissolving the contiguous reservation.
 <br/><br/>
-En 1944 : World War II: Polish insurgents liberate a German labor camp (Gęsiówka) in Warsaw, freeing 348 Jewish prisoners.
+En 1890 : At Auburn Prison in New York, murderer William Kemmler becomes the first person to be executed by electric chair.
 <br/><br/>
-En 1944 : World War II: The Nazis begin a week-long massacre of between 40,000 and 50,000 civilians and prisoners of war in Wola, Poland.
+En 1870 : Franco-Prussian War: The Battle of Spicheren is fought, resulting in a German victory.
 <br/><br/>
-En 1940 : World War II: The Soviet Union formally annexes Latvia.
+En 1870 : Franco-Prussian War: The Battle of Wörth results in a decisive German victory.
 <br/><br/>
-En 1939 : The Thirteen Roses: Thirteen female members of the Unified Socialist Youth are executed by Francoist forces in Madrid, Spain.
+En 1862 : American Civil War: The Confederate ironclad CSS Arkansas is scuttled on the Mississippi River after suffering catastrophic engine failure near Baton Rouge, Louisiana.
 <br/><br/>
-En 1926 : Harry Houdini performs his greatest feat, spending 91 minutes underwater in a sealed tank before escaping.
+En 1861 : Britain imposes the Lagos Treaty of Cession to suppress slavery in what is now Nigeria.
 <br/><br/>
-En 1925 : Plaid Cymru is formed with the aim of disseminating knowledge of the Welsh language that is at the time in danger of dying out.
+En 1825 : The Bolivian Declaration of Independence is proclaimed.
 <br/><br/>
-En 1916 : World War I: Battle of Romani: Allied forces, under the command of Archibald Murray, defeat an attacking Ottoman army under the command of Friedrich Freiherr Kress von Kressenstein, securing the Suez Canal and beginning the Ottoman retreat from the Sinai Peninsula.
+En 1824 : Peruvian War of Independence: Patriot forces led by Simón Bolívar defeat the Spanish Royalist army in the Battle of Junín.
 <br/><br/>
-En 1914 : World War I: The German minelayer SS Königin Luise lays a minefield about 40 miles (64 km) off the Thames Estuary (Lowestoft). She is intercepted and sunk by the British light-cruiser HMS Amphion.
+En 1819 : Norwich University is founded in Vermont as the first private military school in the United States.
 <br/><br/>
-En 1914 : World War I: The guns of Point Nepean fort at Port Phillip Heads in Victoria (Australia) fire across the bows of the Norddeutscher Lloyd steamer SS Pfalz which is attempting to leave the Port of Melbourne in ignorance of the declaration of war and she is detained; this is said to be the first Allied shot of the War.
+En 1806 : Francis II, Holy Roman Emperor, declares the moribund empire to be dissolved, although he retains power in the Austrian Empire.
 <br/><br/>
-En 1914 : In Cleveland, Ohio, the first electric traffic light is installed.
+En 1787 : Sixty proof sheets of the Constitution of the United States are delivered to the Constitutional Convention in Philadelphia, Pennsylvania.
 <br/><br/>
-En 1906 : Persian Constitutional Revolution: Mozaffar ad-Din Shah Qajar, King of Iran, agrees to convert the government to a constitutional monarchy.
+En 1777 : American Revolutionary War: The bloody Battle of Oriskany prevents American relief of the Siege of Fort Stanwix.
 <br/><br/>
-En 1901 : Peter O'Connor sets the first World Athletics recognised long jump world record of 24 ft 11.75 in (7.6137 m), a record that would stand for 20 years.
+En 1661 : The Treaty of The Hague is signed by Portugal and the Dutch Republic.
 <br/><br/>
-En 1888 : Bertha Benz drives from Mannheim to Pforzheim and back in the first long distance automobile trip, commemorated as the Bertha Benz Memorial Route since 2008.
+En 1538 : Bogotá, Colombia, is founded by Gonzalo Jiménez de Quesada.
 <br/><br/>
-En 1884 : The cornerstone for the Statue of Liberty is laid on Bedloe's Island (now Liberty Island) in New York Harbor.
+En 1284 : The Republic of Pisa is defeated in the Battle of Meloria by the Republic of Genoa, thus losing its naval dominance in the Mediterranean.
 <br/><br/>
-En 1882 : Standard Oil Company of New Jersey, today known as ExxonMobil, is established officially. The company would later grow to become the holder of all Standard Oil companies and the entity at the center of the breakup of Standard Oil.
-<br/><br/>
-En 1874 : Japan launches its postal savings system, modeled after a similar system in the United Kingdom.
-<br/><br/>
-En 1864 : American Civil War: The Battle of Mobile Bay begins at Mobile Bay near Mobile, Alabama, Admiral David Farragut leads a Union flotilla through Confederate defenses and seals one of the last major Southern ports.
-<br/><br/>
-En 1862 : American Civil War: Battle of Baton Rouge: Along the Mississippi River near Baton Rouge, Louisiana, Confederate troops attempt to take the city, but are driven back by fire from Union gunboats.
-<br/><br/>
-En 1861 : American Civil War: In order to help pay for the war effort, the United States government levies the first income tax as part of the Revenue Act of 1861 (3% of all incomes over US$800; rescinded in 1872).
-<br/><br/>
-En 1861 : The United States Army abolishes flogging.
-<br/><br/>
-En 1860 : Charles XV of Sweden–Norway is crowned king of Norway in Trondheim.
-<br/><br/>
-En 1858 : Cyrus West Field and others complete the first transatlantic telegraph cable after several unsuccessful attempts. It will operate for less than a month.
-<br/><br/>
-En 1824 : Greek War of Independence: Konstantinos Kanaris leads a Greek fleet to victory against Ottoman and Egyptian naval forces in the Battle of Samos.
-<br/><br/>
-En 1816 : The British Admiralty dismisses Francis Ronalds's new invention of the first working electric telegraph as "wholly unnecessary", preferring to continue using the semaphore.
-<br/><br/>
-En 1796 : The Battle of Castiglione in Napoleon's first Italian campaigns of the French Revolutionary Wars results in a French victory.
-<br/><br/>
-En 1781 : The Battle of Dogger Bank takes place.
-<br/><br/>
-En 1772 : First Partition of Poland: The representatives of Austria, Prussia, and Russia sign three bilateral conventions condemning the "anarchy" of the Polish–Lithuanian Commonwealth and imputing to the three powers "ancient and legitimate rights" to the territories of the Commonwealth. The conventions allow each of the three great powers to annex a part of the Commonwealth, which they proceed to do over the course of the following two months.
-<br/><br/>
-En 1763 : Pontiac's War: Battle of Bushy Run: British forces led by Henry Bouquet defeat Chief Pontiac's Indians at Bushy Run.
-<br/><br/>
-En 1735 : Freedom of the press: New York Weekly Journal writer John Peter Zenger is acquitted of seditious libel against the royal governor of New York, on the basis that what he had published was true.
-<br/><br/>
-En 1716 : Austro-Turkish War (1716–1718): One-fifth of a Turkish army and the Grand Vizier are killed in the Battle of Petrovaradin.
-<br/><br/>
-En 1689 : Beaver Wars: Fifteen hundred Iroquois attack Lachine in New France.
-<br/><br/>
-En 1620 : The Mayflower departs from Southampton, England, carrying would-be settlers, on its first attempt to reach North America; it is forced to dock in Dartmouth when its companion ship, the Speedwell, springs a leak.
-<br/><br/>
-En 1600 : The Gowrie Conspiracy against King James VI of Scotland (later to become King James I of England) takes place at Gowrie House (Perth, Scotland).
-<br/><br/>
-En 1583 : Sir Humphrey Gilbert establishes the first English colony in North America, at what is now St. John's, Newfoundland and Labrador.
-<br/><br/>
-En 1506 : The Grand Duchy of Lithuania defeats the Crimean Khanate in the Battle of Kletsk.
-<br/><br/>
-En 1460 : The Kingdom of Scotland captures Roxburgh, one of the last English strongholds in Scotland, following a siege.
-<br/><br/>
-En 1388 : The Battle of Otterburn, a border skirmish between the Scottish and the English in Northern England, is fought near Otterburn.
-<br/><br/>
-En 1305 : First Scottish War of Independence: Sir John Stewart of Menteith, the pro-English Sheriff of Dumbarton, successfully manages to capture Sir William Wallace of Scotland, leading to Wallace's subsequent execution by hanging, evisceration, drawing and quartering, and beheading 18 days later.
-<br/><br/>
-En 1278 : Spanish Reconquista: the forces of the Kingdom of Castile initiate the ultimately futile Siege of Algeciras against the Emirate of Granada.
-<br/><br/>
-En 1100 : Henry I is crowned King of England in Westminster Abbey.
-<br/><br/>
-En 1068 : Byzantine–Norman wars: Italo-Normans begin a nearly-three-year siege of Bari.
-<br/><br/>
-En 939 : The Battle of Alhandic is fought between Ramiro II of León and Abd-ar-Rahman III at Zamora in the context of the Spanish Reconquista. The battle resulted in a victory for the Emirate of Córdoba.
-<br/><br/>
-En 910 : The last major Danish army to raid England for nearly a century is defeated at the Battle of Tettenhall by the allied forces of Mercia and Wessex, led by King Edward the Elder and Æthelred, Lord of the Mercians.
-<br/><br/>
-En 642 : Battle of Maserfield: Penda of Mercia defeats and kills Oswald of Northumbria.
-<br/><br/>
-En 70 : Fires resulting from the destruction of the Second Temple in Jerusalem are extinguished.
-<br/><br/>
-En 25 : Guangwu claims the throne as Emperor of China, restoring the Han dynasty after the collapse of the short-lived Xin dynasty.
+En 686 : The Ummayad forces suffer a deceisive defeat against the pro-Alid forces under Ibrahim ibn al-Ashtar in the battle of Khazir.
 <br/><br/>
