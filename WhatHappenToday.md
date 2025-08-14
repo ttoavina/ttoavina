@@ -4,107 +4,111 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 13/8 ?(Hover on the year)</h1>
+<h1> What happen this day 14/8 ?(Hover on the year)</h1>
 
-En 2020 : Israel–United Arab Emirates relations are formally established.
+En 2023 : Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.
 <br/><br/>
-En 2015 : At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.
+En 2022 : An explosion destroys a market in Armenia, killing six people and injuring dozens.
 <br/><br/>
-En 2014 : A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.
+En 2021 : A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.
 <br/><br/>
-En 2008 : Russo-Georgian War: Russian units occupy the Georgian city of Gori.
+En 2018 : The collapse of the Ponte Morandi bridge in Genoa, Italy, left 16 people injured and 43 people killed.
 <br/><br/>
-En 2004 : One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.[citation needed]
+En 2015 : The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba–United States relations were broken off.
 <br/><br/>
-En 1990 : A mainland Chinese fishing boat Min Ping Yu No. 5202 is hit by a Taiwanese naval vessel and sinks in a repatriation operation of mainland Chinese immigrants, resulting in 21 deaths. This is the second tragedy less than a month after Min Ping Yu No. 5540 incident.
+En 2013 : Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.
 <br/><br/>
-En 1978 : One hundred fifty Palestinians in Beirut are killed in a terrorist attack during the second phase of the Lebanese Civil War.
+En 2013 : UPS Airlines Flight 1354 crashes short of the runway at Birmingham–Shuttlesworth International Airport, killing both crew members on board.
 <br/><br/>
-En 1977 : Members of the British National Front (NF) clash with anti-NF demonstrators in Lewisham, London, resulting in 214 arrests and at least 111 injuries.
+En 2007 : The Kahtaniya bombings kill at least 500 people.
 <br/><br/>
-En 1973 : Aviaco Flight 118 crashes on approach to A Coruña Airport in A Coruña, Spain, killing all 85 people on the plane and one other one the ground.
+En 2006 : Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.
 <br/><br/>
-En 1969 : The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.
+En 2006 : Sri Lankan Civil War: Sixty-one schoolgirls killed in Chencholai bombing by Sri Lankan Air Force air strike.
 <br/><br/>
-En 1968 : Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens.
+En 2005 : Helios Airways Flight 522, en route from Larnaca, Cyprus to Prague, Czech Republic via Athens, crashes in the hills near Grammatiko, Greece, killing 121 passengers and crew.
 <br/><br/>
-En 1967 : Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.
+En 2003 : A widescale power blackout affects the northeast United States and Canada.
 <br/><br/>
-En 1964 : Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.
+En 1996 : Greek Cypriot refugee Solomos Solomou is shot and killed by a Turkish security officer while trying to climb a flagpole in order to remove a Turkish flag from its mast in the United Nations Buffer Zone in Cyprus.
 <br/><br/>
-En 1961 : Cold War: East Germany closes the border between the eastern and western sectors of Berlin to thwart its inhabitants' attempts to escape to the West, and construction of the Berlin Wall is started. The day is known as Barbed Wire Sunday.
+En 1994 : Ilich Ramírez Sánchez, also known as "Carlos the Jackal", is captured.
 <br/><br/>
-En 1960 : The Central African Republic declares independence from France.
+En 1980 : Lech Wałęsa leads strikes at the Gdańsk, Poland shipyards.
 <br/><br/>
-En 1954 : Radio Pakistan broadcasts the "Qaumī Tarāna", the national anthem of Pakistan for the first time.
+En 1972 : An Ilyushin Il-62 airliner crashes near Königs Wusterhausen, East Germany killing 156 people.
 <br/><br/>
-En 1944 : World War II: German troops begin the pillage and razing of Anogeia in Crete that would continue until September 5.
+En 1971 : Bahrain declares independence from Britain.
 <br/><br/>
-En 1942 : Major General Eugene Reybold of the U.S. Army Corps of Engineers authorizes the construction of facilities that would house the "Development of Substitute Materials" project, better known as the Manhattan Project.
+En 1969 : The Troubles: British troops are deployed in Northern Ireland as political and sectarian violence breaks out, marking the start of the 37-year Operation Banner.
 <br/><br/>
-En 1937 : Second Sino-Japanese War: The Battle of Shanghai begins.
+En 1967 : UK Marine Broadcasting Offences Act 1967 declares participation in offshore pirate radio illegal.
 <br/><br/>
-En 1920 : Polish–Soviet War: The Battle of Warsaw begins and will last till August 25. The Red Army is defeated.
+En 1959 : Founding and first official meeting of the American Football League.
 <br/><br/>
-En 1918 : Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.
+En 1948 : An Idaho Department of Fish and Game program to relocate beavers known as Beaver drop occurred. This program relocated beavers from Northwestern Idaho to Central Idaho by airplane and then parachuting the beavers into the Chamberlain Basin .
 <br/><br/>
-En 1918 : Bayerische Motoren Werke AG (BMW) established as a public company in Germany.
+En 1947 : Pakistan gains independence from the British Empire as the Dominion of Pakistan, due to the partition of India.
 <br/><br/>
-En 1913 : First production in the UK of stainless steel by Harry Brearley.
+En 1941 : World War II: Winston Churchill and Franklin D. Roosevelt sign the Atlantic Charter of war stating postwar aims.
 <br/><br/>
-En 1906 : The all black infantrymen of the U.S. Army's 25th Infantry Regiment are accused of killing a white bartender and wounding a white police officer in Brownsville, Texas, despite exculpatory evidence; all are later dishonorably discharged. (Their records were later restored to reflect honorable discharges but there were no financial settlements.)
+En 1936 : Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States.
 <br/><br/>
-En 1905 : Norwegians vote to end the union with Sweden.
+En 1935 : Franklin D. Roosevelt signs the Social Security Act, creating a government pension system for the retired.
 <br/><br/>
-En 1900 : The steamer Deutschland of Hamburg America Lines set a new record for the eastward passage when it docked on Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.
+En 1933 : Loggers cause a forest fire in the Coast Range of Oregon, later known as the first forest fire of the Tillamook Burn;  destroying 240,000 acres (970 km2) of land.
 <br/><br/>
-En 1898 : Spanish–American War: Spanish and American forces engage in a mock battle for Manila, after which the Spanish commander surrendered in order to keep the city out of Filipino rebel hands.
+En 1921 : Tannu Uriankhai, later Tuvan People's Republic is established as a completely independent country (which is supported by Soviet Russia).
 <br/><br/>
-En 1898 : Carl Gustav Witt discovers 433 Eros, the first near-Earth asteroid to be found.
+En 1920 : The 1920 Summer Olympics, having started four months earlier, officially open in Antwerp, Belgium, with the newly adopted Olympic flag and the Olympic oath being raised and taken at the Opening Ceremony for the first time in Olympic history.
 <br/><br/>
-En 1889 : William Gray of Hartford, Connecticut is granted United States Patent Number 408,709 for "Coin-controlled apparatus for telephones."
+En 1917 : World War I: The Republic of China, which had heretofore been shipping labourers to Europe to assist in the war effort, officially declares war on the Central Powers, although it will continue to send to Europe labourers instead of combatants for the remaining duration of the war.
 <br/><br/>
-En 1868 : The 8.5–9.0 Mw  Arica earthquake struck southern Peru with a maximum Mercalli intensity of XI (Extreme), causing 25,000+ deaths and a destructive basin wide tsunami that affected Hawaii and New Zealand.
+En 1914 : World War I: Start of the Battle of Lorraine, an unsuccessful French offensive.
 <br/><br/>
-En 1814 : The Convention of London, a treaty between the United Kingdom and the United Netherlands, is signed in London, England.
+En 1901 : The first claimed powered flight, by Gustave Whitehead in his Number 21.
 <br/><br/>
-En 1806 : Battle of Mišar during the Serbian Revolution begins. The battle ends two days later with a Serbian victory over the Ottomans.
+En 1900 : Battle of Peking: The Eight-Nation Alliance occupies Beijing, China, in a campaign to end the bloody Boxer Rebellion in China.
 <br/><br/>
-En 1792 : King Louis XVI of France is formally arrested by the National Tribunal, and declared an enemy of the people.
+En 1893 : France becomes the first country to introduce motor vehicle registration.
 <br/><br/>
-En 1779 : American Revolutionary War: The Royal Navy defeats the Penobscot Expedition with the most significant loss of United States naval forces prior to the attack on Pearl Harbor.
+En 1885 : Japan's first patent is issued to the inventor of a rust-proof paint.
 <br/><br/>
-En 1724 : Johann Sebastian Bach leads the first performance of Nimm von uns, Herr, du treuer Gott, BWV 101, a chorale cantata on a famous tune.
+En 1880 : Construction of Cologne Cathedral, the most famous landmark in Cologne, Germany, is completed.
 <br/><br/>
-En 1704 : War of the Spanish Succession: Battle of Blenheim: English and Imperial forces are victorious over French and Bavarian troops.
+En 1848 : Oregon Territory is organized by act of Congress.
 <br/><br/>
-En 1650 : Colonel George Monck of the English Army forms Monck's Regiment of Foot, which will later become the Coldstream Guards.
+En 1842 : American Indian Wars: Second Seminole War ends, with the Seminoles forced from Florida.
 <br/><br/>
-En 1645 : Sweden and Denmark sign Peace of Brömsebro.
+En 1816 : The United Kingdom formally annexes the Tristan da Cunha archipelago, administering the islands from the Cape Colony in South Africa.
 <br/><br/>
-En 1624 : The French king Louis XIII appoints Cardinal Richelieu as prime minister.
+En 1814 : A cease fire agreement, called the Convention of Moss, ended the Swedish–Norwegian War.
 <br/><br/>
-En 1553 : Michael Servetus is arrested by John Calvin in Geneva, Switzerland as a heretic.
+En 1791 : Slaves from plantations in Saint-Domingue hold a Vodou ceremony led by houngan Dutty Boukman at Bois Caïman, marking the start of the Haitian Revolution.
 <br/><br/>
-En 1536 : Buddhist monks from Kyoto, Japan's Enryaku-ji temple set fire to 21 Nichiren temples throughout Kyoto in what will be known as the Tenbun Hokke Disturbance.
+En 1790 : The Treaty of Wereloe ended the 1788–1790 Russo-Swedish War.
 <br/><br/>
-En 1532 : Union of Brittany and France: The Duchy of Brittany is absorbed into the Kingdom of France.
+En 1784 : Russian colonization of North America: Awa'uq Massacre: The Russian fur trader Grigory Shelikhov storms a Kodiak Island Alutiit refuge rock on Sitkalidak Island, killing 500+ Alutiit.
 <br/><br/>
-En 1521 : After an extended siege, forces led by Spanish conquistador Hernán Cortés capture Tlatoani Cuauhtémoc and conquer the Aztec capital of Tenochtitlan.
+En 1720 : The Spanish military Villasur expedition is defeated by Pawnee and Otoe warriors near present-day Columbus, Nebraska.
 <br/><br/>
-En 1516 : The Treaty of Noyon between France and Spain is signed. Francis I of France recognizes Charles's claim to Naples, and Charles V, Holy Roman Emperor, recognizes Francis's claim to Milan.
+En 1598 : Nine Years' War: Battle of the Yellow Ford: Irish forces under Hugh O'Neill, Earl of Tyrone, defeat an English expeditionary force under Henry Bagenal.
 <br/><br/>
-En 1099 : Raniero is elected as Pope Paschal II, who would become deeply entangled in the Investiture Controversy.
+En 1592 : The first sighting of the Falkland Islands by John Davis.
 <br/><br/>
-En 900 : Count Reginar I of Hainault rises against Zwentibold of Lotharingia and slays him near present-day Susteren.
+En 1385 : Portuguese Crisis of 1383–85: Battle of Aljubarrota: Portuguese forces commanded by John I of Portugal defeat the Castilian army of John I of Castile.
 <br/><br/>
-En 871 : Emperor Louis II of Italy and Empress Engelberga are captured by Prince Adelchis of Benevento.
+En 1370 : Charles IV, Holy Roman Emperor, grants city privileges to Karlovy Vary.
 <br/><br/>
-En 582 : Maurice becomes Emperor of the Byzantine Empire.
+En 1352 : War of the Breton Succession: Anglo-Bretons defeat the French in the Battle of Mauron.
 <br/><br/>
-En 554 : Emperor Justinian I rewards Liberius for his service in the Pragmatic Sanction, granting him extensive estates in Italy.
+En 1264 : After tricking the Venetian galley fleet into sailing east to the Levant, the Genoese capture an entire Venetian trade convoy at the Battle of Saseno.
 <br/><br/>
-En 523 : John I becomes the new Pope after the death of Pope Hormisdas.
+En 1183 : Taira no Munemori and the Taira clan take the young Emperor Antoku and the three sacred treasures and flee to western Japan to escape pursuit by the Minamoto clan.
 <br/><br/>
-En -29 : Octavian holds the first of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes.
+En 1040 : King Duncan I is killed in battle against his first cousin and rival Macbeth. The latter succeeds him as King of Scotland.
+<br/><br/>
+En -29 : Octavian holds the second of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes.
+<br/><br/>
+En -74 : A group of officials, led by the Western Han minister Huo Guang, present articles of impeachment against the new emperor, Liu He, to the imperial regent, Empress Dowager Shangguan.
 <br/><br/>
