@@ -4,147 +4,109 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 17/8 ?(Hover on the year)</h1>
+<h1> What happen this day 18/8 ?(Hover on the year)</h1>
 
-En 2019 : A bomb explodes at a wedding in Kabul killing 63 people and leaving 182 injured.
+En 2019 : One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2).
 <br/><br/>
-En 2017 : Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.
+En 2017 : The first terrorist attack ever sentenced as a crime in Finland kills two and injures eight.
 <br/><br/>
-En 2015 : A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others.
+En 2011 : A terrorist attack on Israel's Highway 12 near the Egyptian border kills 16 and injures 40.
 <br/><br/>
-En 2009 : An accident at the Sayano-Shushenskaya Dam in Khakassia, Russia, kills 75 and shuts down the hydroelectric power station, leading to widespread power failure in the local area.
+En 2008 : The President of Pakistan, Pervez Musharraf, resigns under threat of impeachment.
 <br/><br/>
-En 2008 : American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games.
+En 2008 : War of Afghanistan: The Uzbin Valley ambush occurs.
 <br/><br/>
-En 2005 : The first forced evacuation of settlers, as part of Israeli disengagement from Gaza, starts.
+En 2005 : A massive power blackout hits the Indonesian island of Java; affecting almost 100 million people, it is one of the largest and most widespread power outages in history.
 <br/><br/>
-En 2005 : Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh.
+En 2003 : One-year-old Zachary Turner is murdered in Newfoundland by his mother, who was awarded custody despite facing trial for the murder of Zachary's father. The case was documented in the film Dear Zachary and led to reform of Canada's bail laws.
 <br/><br/>
-En 2004 : The National Assembly of Serbia unanimously adopts new state symbols for Serbia: Bože pravde becomes the new anthem and the coat of arms is adopted for the whole country.
+En 1993 : American International Airways Flight 808 crashes at Leeward Point Field at Guantanamo Bay Naval Base in Guantánamo Bay, Cuba, injuring the three crew members.
 <br/><br/>
-En 1999 : The 7.6 Mw  İzmit earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent), leaving 17,118–17,127 dead and 43,953–50,000 injured.
+En 1989 : Leading presidential hopeful Luis Carlos Galán is assassinated near Bogotá in Colombia.
 <br/><br/>
-En 1998 : Lewinsky scandal: US President Bill Clinton admits in taped testimony that he had an "improper physical relationship" with White House intern Monica Lewinsky; later that same day he admits before the nation that he "misled people" about the relationship.
+En 1983 : Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars).
 <br/><br/>
-En 1991 : Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots seven people and injures six others before turning the gun on himself.
+En 1977 : Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies.
 <br/><br/>
-En 1988 : President of Pakistan Muhammad Zia-ul-Haq and U.S. Ambassador Arnold Raphel are killed in a plane crash.
+En 1976 : The Korean axe murder incident in Panmunjom results in the deaths of two US Army officers.
 <br/><br/>
-En 1985 : The 1985–86 Hormel strike begins in Austin, Minnesota.
+En 1976 : The Soviet Union's robotic probe Luna 24 successfully lands on the Moon.
 <br/><br/>
-En 1978 : Double Eagle II becomes first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine.
+En 1973 : Aeroflot Flight A-13 crashes after takeoff from Baku-Bina International Airport in Azerbaijan, killing 56 people and injuring eight.
 <br/><br/>
-En 1977 : The Soviet icebreaker Arktika becomes the first surface ship to reach the North Pole.
+En 1971 : Vietnam War: Australia and New Zealand decide to withdraw their troops from Vietnam.
 <br/><br/>
-En 1976 : A magnitude 7.9 earthquake hits off the coast of Mindanao, Philippines, triggering a destructive tsunami, killing between 5,000 and 8,000 people and leaving more than 90,000 homeless.
+En 1966 : Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.
 <br/><br/>
-En 1970 : Soviet Union Venera program: Venera 7 launched. It will become the first spacecraft to successfully transmit data from the surface of another planet (Venus).
+En 1965 : Vietnam War: Operation Starlite begins: United States Marines destroy a Viet Cong stronghold on the Van Tuong peninsula in the first major American ground battle of the war.
 <br/><br/>
-En 1969 : Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage.
+En 1963 : Civil rights movement: James Meredith becomes the first African American to graduate from the University of Mississippi.
 <br/><br/>
-En 1962 : Peter Fechter is shot and bleeds to death while trying to cross the new Berlin Wall.
+En 1958 : Vladimir Nabokov's controversial novel Lolita is published in the United States.
 <br/><br/>
-En 1960 : Aeroflot Flight 036 crashes in Soviet Ukraine, killing 34.
+En 1958 : Brojen Das from Bangladesh swims across the English Channel in a competition as the first Bengali and the first Asian to do so, placing first among the 39 competitors.
 <br/><br/>
-En 1959 : Quake Lake is formed by the magnitude 7.2 1959 Hebgen Lake earthquake near Hebgen Lake in Montana.
+En 1950 : Julien Lahaut, the chairman of the Communist Party of Belgium, is assassinated. The Party newspaper blames royalists and Rexists.
 <br/><br/>
-En 1958 : Pioneer 0, America's first attempt at lunar orbit, is launched using the first Thor-Able rocket and fails. Notable as one of the first attempted launches beyond Earth orbit by any country.
+En 1949 : 1949 Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.
 <br/><br/>
-En 1955 : Hurricane Diane made landfall near Wilmington, North Carolina, and it went on to cause major floods and kill more than 184 people.
+En 1945 : Sukarno takes office as the first president of Indonesia, following the country's declaration of independence the previous day.
 <br/><br/>
-En 1953 : First meeting of Narcotics Anonymous takes place, in Southern California.
+En 1945 : Soviet-Japanese War: Battle of Shumshu: Soviet forces land at Takeda Beach on Shumshu Island and launch the Battle of Shumshu; the Soviet Union's Invasion of the Kuril Islands commences.
 <br/><br/>
-En 1949 : The 6.7 Ms  Karlıova earthquake shakes eastern Turkey with a maximum Mercalli intensity of X (Extreme), leaving 320–450 dead.
+En 1940 : World War II: The Hardest Day air battle, part of the Battle of Britain, takes place. At that point, it is the largest aerial engagement in history with heavy losses sustained on both sides.
 <br/><br/>
-En 1949 : Matsukawa derailment: Unknown saboteurs cause a passenger train to derail and overturn in Fukushima Prefecture, Japan, killing three crew members and igniting a political firestorm between the Japanese Communist Party and the government of Occupied Japan that will eventually lead to the Japanese Red Purge.
+En 1938 : The Thousand Islands Bridge, connecting New York, United States, with Ontario, Canada, over the Saint Lawrence River, is dedicated by U.S. President Franklin D. Roosevelt.
 <br/><br/>
-En 1947 : The Radcliffe Line, the border between the Dominions of India and Pakistan, is revealed.
+En 1937 : A lightning strike starts the Blackwater Fire of 1937 in Shoshone National Forest, killing 15 firefighters within three days and prompting the United States Forest Service to develop their smokejumper program.
 <br/><br/>
-En 1945 : Sukarno and Mohammad Hatta proclaim the independence of Indonesia, igniting the Indonesian National Revolution against the Dutch Empire.
+En 1933 : The Volksempfänger is first presented to the German public at a radio exhibition; the presiding Nazi Minister of Propaganda, Joseph Goebbels, delivers an accompanying speech heralding the radio as the 'eighth great power'.
 <br/><br/>
-En 1945 : The novella Animal Farm by George Orwell is first published.
+En 1923 : The first British Track and Field championships for women are held in London, Great Britain.
 <br/><br/>
-En 1945 : Evacuation of Manchukuo: At Talitzou by the Sino-Korean border, Puyi, then the Kangde Emperor of Manchukuo, formally renounces the imperial throne, dissolves the state, and cedes its territory to the Republic of China.
+En 1920 : The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage.
 <br/><br/>
-En 1943 : World War II: The U.S. Eighth Air Force suffers the loss of 60 bombers on the Schweinfurt–Regensburg mission.
+En 1917 : A Great Fire in Thessaloniki, Greece, destroys 32% of the city leaving 70,000 individuals homeless.
 <br/><br/>
-En 1943 : World War II: The U.S. Seventh Army under General George S. Patton arrives in Messina, Italy, followed several hours later by the British 8th Army under Field Marshal Bernard Montgomery, thus completing the Allied conquest of Sicily.
+En 1903 : German engineer Karl Jatho allegedly flies his self-made, motored gliding airplane four months before the first flight of the Wright brothers.
 <br/><br/>
-En 1943 : World War II: First Québec Conference of Winston Churchill, Franklin D. Roosevelt, and William Lyon Mackenzie King begins.
+En 1891 : A major hurricane strikes Martinique, leaving 700 dead.
 <br/><br/>
-En 1943 : World War II: The Royal Air Force begins Operation Hydra, the first air raid of the Operation Crossbow strategic bombing campaign against Germany's V-weapon program.
+En 1877 : American astronomer Asaph Hall discovers Phobos, one of Mars's moons.
 <br/><br/>
-En 1942 : World War II: U.S. Marines raid the Japanese-held Pacific island of Makin.
+En 1870 : Franco-Prussian War: Battle of Gravelotte is fought.
 <br/><br/>
-En 1918 : Bolshevik revolutionary leader Moisei Uritsky is assassinated.
+En 1868 : French astronomer Pierre Janssen discovers helium.
 <br/><br/>
-En 1916 : World War I: Romania signs a secret treaty with the Entente Powers. According to the treaty, Romania agreed to join the war on the Allied side.
+En 1864 : American Civil War: Battle of Globe Tavern: Union forces try to cut a vital Confederate supply-line into Petersburg, Virginia, by attacking the Wilmington and Weldon Railroad.
 <br/><br/>
-En 1915 : Jewish American Leo Frank is lynched in Marietta, Georgia, USA after his death sentence is commuted by Governor John Slaton.
+En 1848 : Camila O'Gorman and Ladislao Gutierrez are executed on the orders of Argentine dictator Juan Manuel de Rosas.
 <br/><br/>
-En 1915 : A Category 4 hurricane hits Galveston, Texas with winds at 135 miles per hour (217 km/h).
+En 1838 : The Wilkes Expedition, which would explore the Puget Sound and Antarctica, weighs anchor at Hampton Roads.
 <br/><br/>
-En 1914 : World War I: Battle of Stallupönen: The German army of General Hermann von François defeats the Russian force commanded by Paul von Rennenkampf near modern-day Nesterov, Russia.
+En 1826 : Major Gordon Laing becomes the first European to enter Timbuktu.
 <br/><br/>
-En 1896 : Bridget Driscoll became the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.
+En 1809 : The Senate of Finland is established in the Grand Duchy of Finland after the official adoption of the Statute of the Government Council by Tsar Alexander I of Russia.
 <br/><br/>
-En 1883 : The first public performance of the Dominican Republic's national anthem, Himno Nacional.
+En 1783 : A huge fireball meteor is seen across Great Britain as it passes over the east coast.
 <br/><br/>
-En 1876 : Richard Wagner's Götterdämmerung, the last opera in his Ringcycle, premieres at the Bayreuth Festspielhaus.
+En 1721 : The city of Shamakhi in Safavid Shirvan is sacked.
 <br/><br/>
-En 1866 : The Grand Duchy of Baden announces its withdrawal from the German Confederation and signs a treaty of peace and alliance with Prussia.
+En 1634 : Father Urbain Grandier, accused and convicted of sorcery, is burned alive in Loudun, France.
 <br/><br/>
-En 1864 : American Civil War: Battle of Gainesville: Confederate forces defeat Union troops near Gainesville, Florida.
+En 1612 : The trials of the Pendle witches and Samlesbury witches, one of England's most famous witch trials, begin at the Lancaster Assizes.
 <br/><br/>
-En 1863 : American Civil War: In Charleston, South Carolina, Union batteries and ships bombard Confederate-held Fort Sumter.
+En 1590 : John White, the governor of the Roanoke Colony, returns from a supply trip to England and finds his settlement deserted.
 <br/><br/>
-En 1862 : American Indian Wars: The Dakota War of 1862 begins in Minnesota as Dakota warriors attack white settlements along the Minnesota River.
+En 1572 : The Huguenot King Henry III of Navarre marries the Catholic Margaret of Valois, ostensibly to reconcile the feuding Protestants and Catholics of France.
 <br/><br/>
-En 1862 : American Civil War: Major General J. E. B. Stuart is assigned command of all the cavalry of the Confederate Army of Northern Virginia.
+En 1492 : The first grammar of the Spanish language (Gramática de la lengua castellana) is presented to Queen Isabella I.
 <br/><br/>
-En 1836 : British parliament accepts registration of births, marriages and deaths.
+En 1487 : The Siege of Málaga ends with the taking of the city by Castilian and Aragonese forces.
 <br/><br/>
-En 1827 : Dutch King William I and Pope Leo XII sign concord.
+En 1304 : The Battle of Mons-en-Pévèle is fought to a draw between the French army and the Flemish militias.
 <br/><br/>
-En 1808 : The Finnish War: The Battle of Alavus is fought.
+En 707 : Princess Abe accedes to the imperial Japanese throne as Empress Genmei.
 <br/><br/>
-En 1807 : Robert Fulton's North River Steamboat leaves New York City for Albany, New York, on the Hudson River, inaugurating the first commercial steamboat service in the world.
-<br/><br/>
-En 1798 : The Vietnamese Catholics report a Marian apparition in Quảng Trị, an event which is called Our Lady of La Vang.
-<br/><br/>
-En 1784 : Classical composer Luigi Boccherini receives a pay rise of 12,000 reals from his employer, the Infante Luis, Count of Chinchón.
-<br/><br/>
-En 1740 : Pope Benedict XIV, previously known as Prospero Lambertini, succeeds Clement XII as the 247th Pope.
-<br/><br/>
-En 1723 : Ioan Giurgiu Patachi becomes Bishop of Făgăraș and is festively installed in his position at the St. Nicolas Cathedral in Făgăraș, after being formally confirmed earlier by Pope Clement XI.
-<br/><br/>
-En 1717 : Austro-Turkish War of 1716–18: The month-long Siege of Belgrade ends with Prince Eugene of Savoy's Austrian troops capturing the city from the Ottoman Empire.
-<br/><br/>
-En 1668 : The magnitude 8.0 North Anatolia earthquake causes 8,000 deaths in northern Anatolia, Ottoman Empire.
-<br/><br/>
-En 1597 : Islands Voyage: Robert Devereux, 2nd Earl of Essex, and Sir Walter Raleigh set sail on an expedition to the Azores.
-<br/><br/>
-En 1585 : Eighty Years' War: Siege of Antwerp: Antwerp is captured by Spanish forces under Alexander Farnese, Duke of Parma, who orders Protestants to leave the city and as a result over half of the 100,000 inhabitants flee to the northern provinces.
-<br/><br/>
-En 1585 : A first group of colonists sent by Sir Walter Raleigh under the charge of Ralph Lane lands in the New World to create Roanoke Colony on Roanoke Island, off the coast of present-day North Carolina.
-<br/><br/>
-En 1560 : The Catholic Church is overthrown and Protestantism is established as the national religion in Scotland.
-<br/><br/>
-En 1549 : Battle of Sampford Courtenay: The Prayer Book Rebellion is quashed in England.
-<br/><br/>
-En 1498 : Cesare Borgia, son of Pope Alexander VI, becomes the first person in history to resign the cardinalate; later that same day, King Louis XII of France names him Duke of Valentinois.
-<br/><br/>
-En 1488 : Konrad Bitz, the Bishop of Turku, marks the date of his preface to Missale Aboense, the oldest known book of Finland.
-<br/><br/>
-En 1424 : Hundred Years' War: Battle of Verneuil: An English force under John, Duke of Bedford defeats a larger French army under Jean II, Duke of Alençon, John Stewart, and Earl Archibald of Douglas.
-<br/><br/>
-En 1386 : Karl Topia, the ruler of Princedom of Albania forges an alliance with the Republic of Venice, committing to participate in all wars of the Republic and receiving coastal protection against the Ottomans in return.
-<br/><br/>
-En 1186 : Georgenberg Pact: Ottokar IV, Duke of Styria and Leopold V, Duke of Austria sign a heritage agreement in which Ottokar gives his duchy to Leopold and to his son Frederick under the stipulation that Austria and Styria would henceforth remain undivided.
-<br/><br/>
-En 986 : Byzantine–Bulgarian wars: Battle of the Gates of Trajan: The Bulgarians under the Comitopuli Samuel and Aron defeat the Byzantine forces at the Gate of Trajan, with Byzantine Emperor Basil II barely escaping.
-<br/><br/>
-En 682 : Pope Leo II begins his pontificate.
-<br/><br/>
-En 310 : Pope Eusebius dies, possibly from a hunger strike, shortly after being banished by the Emperor Maxentius to Sicily.
+En 684 : Battle of Marj Rahit: Umayyad partisans defeat the supporters of Ibn al-Zubayr and cement Umayyad control of Syria.
 <br/><br/>
