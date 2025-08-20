@@ -4,125 +4,127 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 19/8 ?(Hover on the year)</h1>
+<h1> What happen this day 20/8 ?(Hover on the year)</h1>
 
-En 2017 : Tens of thousands of farmed non-native Atlantic salmon are accidentally released into the wild in Washington waters in the 2017 Cypress Island Atlantic salmon pen break.
+En 2020 : Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.
 <br/><br/>
-En 2013 : The Dhamara Ghat train accident kills at least 37 people in the Indian state of Bihar.
+En 2016 : Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.
 <br/><br/>
-En 2010 : Operation Iraqi Freedom ends, with the last of the United States brigade combat teams crossing the border to Kuwait.
+En 2014 : Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.
 <br/><br/>
-En 2009 : A series of bombings in Baghdad, Iraq, kills 101 and injures 565 others.
+En 2012 : A prison riot in the Venezuelan capital, Caracas, kills at least 20 people.
 <br/><br/>
-En 2005 : The first-ever joint military exercise between Russia and China, called Peace Mission 2005 begins.
+En 2011 : First Air Flight 6560 crashes 1 mile from the Resolute Bay runway, killing 12 of the 15 aboard.
 <br/><br/>
-En 2004 : Google Inc. has its initial public offering on Nasdaq.
+En 2008 : Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.
 <br/><br/>
-En 2003 : A truck-bomb attack on United Nations headquarters in Iraq kills the agency's top envoy Sérgio Vieira de Mello and 21 other employees.
+En 2007 : China Airlines Flight 120 catches fire and explodes after landing at Naha Airport in Okinawa, Japan.
 <br/><br/>
-En 2003 : Shmuel HaNavi bus bombing: A suicide attack on a bus in Jerusalem, planned by Hamas, kills 23 Israelis, seven of them children.
+En 2006 : Sri Lankan Civil War: Sri Lankan Tamil politician and former MP S. Sivamaharajah is shot dead at his home in Tellippalai.
 <br/><br/>
-En 2002 : Khankala Mi-26 crash: A Russian Mil Mi-26 helicopter carrying troops is hit by a Chechen missile outside Grozny, killing 118 soldiers.
+En 2002 : A group of Iraqis opposed to the regime of Saddam Hussein take over the Iraqi embassy in Berlin, Germany for five hours before releasing their hostages and surrendering.
 <br/><br/>
-En 1999 : In Belgrade, Yugoslavia, tens of thousands of Serbians rally to demand the resignation of Federal Republic of Yugoslavia President Slobodan Milošević.
+En 1998 : The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.
 <br/><br/>
-En 1991 : Dissolution of the Soviet Union: The August Coup begins when Soviet President Mikhail Gorbachev is placed under house arrest while on holiday in the town of Foros, Ukraine.
+En 1998 : U.S. embassy bombings: The United States launches cruise missile attacks against alleged al-Qaeda camps in Afghanistan and a suspected chemical weapons plant in Sudan in retaliation for the August 7 bombings of American embassies in Kenya and Tanzania.
 <br/><br/>
-En 1991 : Crown Heights riot begins.
+En 1997 : Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
 <br/><br/>
-En 1989 : Polish president Wojciech Jaruzelski nominates Solidarity activist Tadeusz Mazowiecki to be the first non-communist prime minister in 42 years.
+En 1995 : The Firozabad rail disaster kills 358 people in Firozabad, India.
 <br/><br/>
-En 1989 : Several hundred East Germans cross the frontier between Hungary and Austria during the Pan-European Picnic, part of the events that began the process of the Fall of the Berlin Wall.
+En 1992 : In India, Meitei language (officially known as Manipuri language) was included in the scheduled languages' list and made one of the official languages of the Indian Government.
 <br/><br/>
-En 1987 : Hungerford massacre: In the United Kingdom, Michael Ryan kills sixteen people with a semi-automatic rifle and then commits suicide.
+En 1991 : Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.
 <br/><br/>
-En 1981 : Gulf of Sidra Incident: United States F-14A Tomcat fighters intercept and shoot down two Libyan Sukhoi Su-22 fighter jets over the Gulf of Sidra.
+En 1991 : Estonia, occupied by and incorporated into the Soviet Union in 1940, issues a decision on the re-establishment of independence on the basis of legal continuity of its pre-occupation statehood.
 <br/><br/>
-En 1980 : Saudia Flight 163, a Lockheed L-1011 TriStar burns after making an emergency landing at Riyadh International Airport in Riyadh, Saudi Arabia, killing 301 people.
+En 1989 : The pleasure boat Marchioness sinks on the River Thames following a collision. Fifty-one people are killed.
 <br/><br/>
-En 1980 : Otłoczyn railway accident: In Poland's worst post-war railway accident, 67 people lose their lives and a further 62 are injured.
+En 1988 : "Black Saturday" of the Yellowstone fire in Yellowstone National Park
 <br/><br/>
-En 1978 : In Iran, the Cinema Rex fire causes more than 400 deaths.
+En 1988 : Iran–Iraq War: A ceasefire is agreed after almost eight years of war.
 <br/><br/>
-En 1965 : Japanese prime minister Eisaku Satō becomes the first post-World War II sitting prime minister to visit Okinawa Prefecture.
+En 1988 : The Troubles: Eight British soldiers are killed and 28 wounded when their bus is hit by an IRA roadside bomb in Ballygawley, County Tyrone.
 <br/><br/>
-En 1964 : Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.
+En 1986 : In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill shoots and kills 14 of his co-workers and then commits suicide.
 <br/><br/>
-En 1960 : Cold War: In Moscow, Russia, Soviet Union, downed American U-2 pilot Francis Gary Powers is sentenced to ten years imprisonment by the Soviet Union for espionage.
+En 1977 : Voyager program: NASA launches the Voyager 2 spacecraft.
 <br/><br/>
-En 1960 : Sputnik program: Korabl-Sputnik 2: The Soviet Union launches the satellite with the dogs Belka and Strelka, 40 mice, two rats and a variety of plants.
+En 1975 : Viking program: NASA launches the Viking 1 planetary probe toward Mars.
 <br/><br/>
-En 1955 : In the Northeast United States, severe flooding caused by Hurricane Diane, claims 200 lives.
+En 1975 : ČSA Flight 540 crashes on approach to Damascus International Airport in Damascus, Syria, killing 126 people.
 <br/><br/>
-En 1953 : Cold War: The CIA and MI6 help to overthrow the government of Mohammad Mosaddegh in Iran and reinstate the Shah Mohammad Reza Pahlavi.
+En 1968 : Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.
 <br/><br/>
-En 1945 : August Revolution: Viet Minh led by Ho Chi Minh take power in Hanoi, Vietnam.
+En 1962 : The NS Savannah, the world's first nuclear-powered civilian ship, embarks on its maiden voyage.
 <br/><br/>
-En 1944 : World War II: Liberation of Paris: Paris, France rises against German occupation with the help of Allied troops.
+En 1960 : Senegal breaks from the Mali Federation, declaring its independence.
 <br/><br/>
-En 1942 : World War II: Operation Jubilee (The Dieppe Raid): The 2nd Canadian Infantry Division leads an amphibious assault by allied forces on Dieppe, France and fails.
+En 1955 : Battle of Philippeville: In Morocco, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
 <br/><br/>
-En 1941 : Germany and Romania sign the Tiraspol Agreement, rendering the region of Transnistria under control of the latter.
+En 1949 : Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.
 <br/><br/>
-En 1940 : First flight of the B-25 Mitchell medium bomber.
+En 1948 : Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.
 <br/><br/>
-En 1936 : The Great Purge of the Soviet Union begins when the first of the Moscow Trials is convened.
+En 1944 : World War II: One hundred sixty-eight captured allied airmen, including Phil Lamason, accused by the Gestapo of being "terror fliers", arrive at Buchenwald concentration camp.
 <br/><br/>
-En 1934 : The first All-American Soap Box Derby is held in Dayton, Ohio.
+En 1944 : World War II: The Battle of Romania begins with a major Soviet Union offensive.
 <br/><br/>
-En 1934 : The German referendum of 1934 approves Adolf Hitler's appointment as head of state with the title of Führer.
+En 1940 : In Mexico City, exiled Russian revolutionary Leon Trotsky is fatally wounded with an ice axe by Ramón Mercader. He dies the next day.
 <br/><br/>
-En 1927 : Patriarch Sergius of Moscow proclaims the declaration of loyalty of the Russian Orthodox Church to the Soviet Union.
+En 1940 : World War II: British Prime Minister Winston Churchill makes the fourth of his famous wartime speeches, containing the line "Never was so much owed by so many to so few".
 <br/><br/>
-En 1920 : The Tambov Rebellion breaks out, in response to the Bolshevik policy of Prodrazvyorstka.
+En 1940 : World War II: The Eighth Route Army launches the Hundred Regiments Offensive, a successful campaign to disrupt Japanese war infrastructure and logistics in occupied northern China.
 <br/><br/>
-En 1909 : The Indianapolis Motor Speedway opens for automobile racing. William Bourque and his mechanic are killed during the first day's events.
+En 1938 : Lou Gehrig hits his 23rd career grand slam, a record that stood for 75 years until it was broken by Alex Rodriguez.
 <br/><br/>
-En 1903 : The Transfiguration Uprising breaks out in East Thrace, resulting in the establishment of the Strandzha Commune.
+En 1926 : Japan's public broadcasting company, Nippon Hōsō Kyōkai (NHK) is established.
 <br/><br/>
-En 1862 : Dakota War: During an uprising in Minnesota, Lakota warriors decide not to attack heavily defended Fort Ridgely and instead turn to the settlement of New Ulm, killing white settlers along the way.
+En 1920 : The first commercial radio station, 8MK (now WWJ), begins operations in Detroit.
 <br/><br/>
-En 1861 : First ascent of Weisshorn, fifth highest summit in the Alps.
+En 1920 : The National Football League is organized as the American Professional Football Conference in Canton, Ohio
 <br/><br/>
-En 1854 : The First Sioux War begins when United States Army soldiers kill Lakota chief Conquering Bear and in return are massacred.
+En 1914 : World War I: Brussels is captured during the German invasion of Belgium.
 <br/><br/>
-En 1848 : California Gold Rush: The New York Herald breaks the news to the East Coast of the United States of the gold rush in California (although the rush started in January).
+En 1910 : Extreme fire weather in the Inland Northwest of the United States causes many small wildfires to coalesce into the Great Fire of 1910, burning approximately 3 million acres (12,000 km2) and killing 87 people.
 <br/><br/>
-En 1839 : The French government announces that Louis Daguerre's photographic process is a gift "free to the world".
+En 1905 : Sun Yat-sen, Song Jiaoren, and others establish the Tongmenghui, a Republican, anti-Qing revolutionary organisation, in Tokyo, Japan.
 <br/><br/>
-En 1813 : Gervasio Antonio de Posadas joins Argentina's Second Triumvirate.
+En 1882 : Tchaikovsky's 1812 Overture debuts in Moscow, Russia.
 <br/><br/>
-En 1812 : War of 1812: American frigate USS Constitution defeats the British frigate HMS Guerriere off the coast of Nova Scotia, Canada earning the nickname "Old Ironsides".
+En 1866 : President Andrew Johnson formally declares the American Civil War over.
 <br/><br/>
-En 1782 : American Revolutionary War: Battle of Blue Licks: The last major engagement of the war, almost ten months after the surrender of the British commander Charles Cornwallis following the Siege of Yorktown.
+En 1864 : Bakumatsu: Kinmon incident: The Chōshū Domain attempts to expel the Satsuma and Aizu Domains from Japan's imperial court.
 <br/><br/>
-En 1772 : Gustav III of Sweden stages a coup d'état, in which he assumes power and enacts a new constitution that divides power between the Riksdag and the King.
+En 1858 : Charles Darwin first publishes his theory of evolution through natural selection in The Journal of the Proceedings of the Linnean Society of London, alongside Alfred Russel Wallace's same theory.
 <br/><br/>
-En 1759 : Battle of Lagos: Naval battle during the Seven Years' War between Great Britain and France.
+En 1852 : Steamboat Atlantic sank on Lake Erie after a collision, with the loss of at least 150 lives.
 <br/><br/>
-En 1745 : Prince Charles Edward Stuart raises his standard in Glenfinnan: The start of the Second Jacobite Rebellion, known as "the 45".
+En 1794 : Northwest Indian War: United States troops force a confederacy of Shawnee, Mingo, Delaware, Wyandot, Miami, Ottawa, Chippewa, and Potawatomi warriors into a disorganized retreat at the Battle of Fallen Timbers.
 <br/><br/>
-En 1745 : Ottoman–Persian War: In the Battle of Kars, the Ottoman army is routed by Persian forces led by Nader Shah.
+En 1775 : The Spanish establish the Presidio San Augustin del Tucson in the town that became Tucson, Arizona.
 <br/><br/>
-En 1725 : J. S. Bach leads the first performance of Lobe den Herren, den mächtigen König der Ehren, BWV 137, a cantata setting the unchanged text of Neander's hymn.
+En 1710 : War of the Spanish Succession: A multinational army led by the Austrian commander Guido Starhemberg defeats the Spanish-Bourbon army commanded by Alexandre Maître, Marquis de Bay in the Battle of Saragossa.
 <br/><br/>
-En 1692 : Salem witch trials: In Salem, province of Massachusetts Bay, Martha Carrier, George Jacobs Sr., John Proctor, John Willard, and clergyman George Burroughs are executed after being convicted of witchcraft.
+En 1707 : The first Siege of Pensacola comes to an end with the failure of the British to capture Pensacola, Florida.
 <br/><br/>
-En 1666 : Second Anglo-Dutch War: Rear Admiral Robert Holmes leads a raid on the Dutch island of Terschelling, destroying 116 to 160 merchant ships, an act later known as "Holmes's Bonfire".
+En 1672 : Former Grand Pensionary Johan de Witt and his brother Cornelis are lynched by a mob in The Hague.
 <br/><br/>
-En 1604 : Eighty Years War: a besieging Dutch and English army led by Maurice of Orange forces the Spanish garrison of Sluis to capitulate.
+En 1648 : The Battle of Lens is the last major military confrontation of the Thirty Years' War, contributing to the signing of the Peace of Westphalia in October that year.
 <br/><br/>
-En 1561 : Mary, Queen of Scots, aged 18, returns to Scotland after spending 13 years in France.
+En 1519 : On the third day of battle, philosopher and general Wang Yangming defeats Zhu Chenhao, ending the Prince of Ning rebellion against the reign of the Ming dynasty's Zhengde Emperor.
 <br/><br/>
-En 1504 : In Ireland, the Hiberno-Norman de Burghs (Burkes) and Cambro-Norman Fitzgeralds fight in the Battle of Knockdoe.
+En 1467 : The Second Battle of Olmedo takes places as part of a succession conflict between Henry IV of Castile and his half-brother Alfonso, Prince of Asturias.
 <br/><br/>
-En 1458 : Pope Pius II is elected the 211th Pope.
+En 1308 : At the conclusion of the interrogation of the leaders of the Knights Templar, the three papal investigators, Cardinals Bérenger Frédol, Etienne de Suisy and Landolfo Brancacci, write the "Chinon Parchment", in which they affirm that the accused Templars had confessed, done penance, and were absolved of heresy.
 <br/><br/>
-En 1153 : After a six month siege, Baldwin III of Jerusalem captures Ascalon, obtaining a vast amount of plunder and securing the southern border of the Kingdom of Jerusalem.
+En 1191 : Believing Saladin had reneged on ransom promises, Richard I of England initiates the massacre at Ayyadieh, beheading 2,700 captive Muslim soldiers and another 300 women and children seized at the Fall of Acre.
 <br/><br/>
-En 947 : Abu Yazid, a Kharijite rebel leader, is defeated and killed in the Hodna Mountains in modern-day Algeria by Fatimid forces.
+En 1083 : The first King of Hungary, Stephen I, and his son, Prince Emeric, are canonized, a date now celebrated as a National Day in Hungary.
 <br/><br/>
-En -43 : In the wake of the murder of Julius Caesar, his nephew and heir, Octavian, uses the threat of military force to compel the Roman Senate to elect him Consul.
+En 917 : Battle of Acheloos: Tsar Simeon I of Bulgaria decisively defeats a Byzantine army.
 <br/><br/>
-En -295 : The first temple to Venus, the Roman goddess of love, beauty and fertility, is dedicated by Quintus Fabius Maximus Gurges during the Third Samnite War.
+En 636 : Marking the first great wave of Muslim conquests and the rapid advance of Islam outside Arabia, Arab forces led by Khalid ibn al-Walid defeat the Byzantine Empire and take control of the Levant.
+<br/><br/>
+En 14 : Agrippa Postumus, maternal grandson of the late Roman emperor Augustus, is executed by his guards while in exile.
 <br/><br/>
