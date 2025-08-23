@@ -4,115 +4,139 @@
 <h3 align="center">A passionate data scientist from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 22/8 ?(Hover on the year)</h1>
+<h1> What happen this day 23/8 ?(Hover on the year)</h1>
 
-En 2012 : Ethnic clashes over grazing rights for cattle in Kenya's Tana River District result in more than 52 deaths.
+En 2023 : Chandrayaan-3 mission initiated first Moon landing in Indian history.
 <br/><br/>
-En 2007 : The Texas Rangers defeat the Baltimore Orioles 30–3, the most runs scored by a team in modern Major League Baseball history.
+En 2023 : A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board.
 <br/><br/>
-En 2006 : Pulkovo Aviation Enterprise Flight 612 crashes near the Russian border over eastern Ukraine, killing all 170 people on board.
+En 2013 : A riot at the Palmasola prison complex in Santa Cruz, Bolivia kills 31 people.
 <br/><br/>
-En 2006 : Grigori Perelman is awarded the Fields Medal for his proof of the Poincaré conjecture in mathematics but refuses to accept the medal.
+En 2012 : A hot-air balloon crashes near the Slovenian capital of Ljubljana, killing six people and injuring 28 others.
 <br/><br/>
-En 2004 : Versions of The Scream and Madonna, two paintings by Edvard Munch, are stolen at gunpoint from a museum in Oslo, Norway.
+En 2011 : A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damage occurs to monuments and structures in Washington, D.C. and the resulted damage is estimated at 200 million–300 million USD.
 <br/><br/>
-En 2003 : Chief Justice of the Supreme Court of Alabama Roy Moore is suspended after refusing to comply with a federal court order to remove a rock inscribed with the Ten Commandments from the lobby of the Alabama Supreme Court building.
+En 2011 : Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War.
 <br/><br/>
-En 1999 : China Airlines Flight 642 crashes at Hong Kong International Airport, killing three people and injuring 208 more.
+En 2010 : The Manila hostage crisis occurred near the Quirino Grandstand in Manila, Philippines killing 9 people including the perpetrator while injuring 9 others.
 <br/><br/>
-En 1992 : FBI sniper Lon Horiuchi shoots and kills Vicki Weaver during an 11-day siege at her home at Ruby Ridge, Idaho.
+En 2007 : The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia.
 <br/><br/>
-En 1991 : Iceland is the first nation in the world to recognize the independence of the Baltic states.
+En 2006 : Natascha Kampusch, who had been abducted at the age of ten, escapes from her captor Wolfgang Přiklopil, after eight years of captivity.
 <br/><br/>
-En 1989 : Nolan Ryan strikes out Rickey Henderson to become the first Major League Baseball pitcher to record 5,000 strikeouts.
+En 2000 : Gulf Air Flight 072 crashes into the Persian Gulf near Manama, Bahrain, killing 143.
 <br/><br/>
-En 1985 : British Airtours Flight 28M suffers an engine fire during takeoff at Manchester Airport. The pilots abort but due to inefficient evacuation procedures 55 people are killed, mostly from smoke inhalation.
+En 1994 : Eugene Bullard, the only African American pilot in World War I, is posthumously commissioned as Second Lieutenant in the United States Air Force.
 <br/><br/>
-En 1981 : Far Eastern Air Transport Flight 103 disintegrates in mid-air and crashes in Sanyi Township, Miaoli County, Taiwan. All 110 people on board are killed.
+En 1991 : The World Wide Web is opened to the public.
 <br/><br/>
-En 1978 : Nicaraguan Revolution: The FSLN seizes the National Congress of Nicaragua, along with over a thousand hostages.
+En 1990 : Saddam Hussein appears on Iraqi state television with a number of Western "guests" (actually hostages) to try to prevent the Gulf War.
 <br/><br/>
-En 1978 : The District of Columbia Voting Rights Amendment is passed by the U.S. Congress, although it is never ratified by a sufficient number of states.
+En 1990 : Armenia declares its independence from the Soviet Union.
 <br/><br/>
-En 1973 : The Congress of Chile votes in favour of a resolution condemning President Salvador Allende's government and demands that he resign or else be unseated through force and new elections.
+En 1990 : West and East Germany announce that they will reunite on October 3.
 <br/><br/>
-En 1972 : Rhodesia is expelled by the IOC for its racist policies.
+En 1989 : Singing Revolution: Two million people from Estonia, Latvia and Lithuania stand on the Vilnius–Tallinn road, holding hands.
 <br/><br/>
-En 1971 : J. Edgar Hoover and John Mitchell announce the arrest of 20 of the Camden 28.
+En 1985 : Hans Tiedge, top counter-spy of West Germany, defects to East Germany.
 <br/><br/>
-En 1968 : Pope Paul VI arrives in Bogotá, Colombia. It is the first visit of a pope to Latin America.
+En 1975 : The start of the Wave Hill walk-off by Gurindji people in Australia, lasting eight years, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 Paul Kelly song and an annual celebration.
 <br/><br/>
-En 1966 : Labor movements NFWA and AWOC merge to become the United Farm Workers Organizing Committee (UFWOC), the predecessor of the United Farm Workers.
+En 1975 : The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan
 <br/><br/>
-En 1965 : Juan Marichal, pitcher for the San Francisco Giants, strikes John Roseboro, catcher for the Los Angeles Dodgers, on the head with a bat, sparking a 14-minute brawl, one of the most violent on-field incidents in sports history.
+En 1973 : A bank robbery gone wrong in Stockholm, Sweden, turns into a hostage crisis; over the next five days the hostages begin to sympathise with their captors, leading to the term "Stockholm syndrome".
 <br/><br/>
-En 1963 : X-15 Flight 91 reaches the highest altitude of the X-15 program (107.96 km (67.08 mi) (354,200 feet)).
+En 1970 : Organized by Mexican American labor union leader César Chávez, the Salad Bowl strike, the largest farm worker strike in U.S. history, begins.
 <br/><br/>
-En 1962 : The OAS attempts to assassinate French president Charles de Gaulle.
+En 1966 : Lunar Orbiter 1 takes the first photograph of Earth from orbit around the Moon.
 <br/><br/>
-En 1953 : The penal colony on Devil's Island is permanently closed.
+En 1958 : Chinese Civil War: The Second Taiwan Strait Crisis begins with the People's Liberation Army's bombardment of Quemoy.
 <br/><br/>
-En 1949 : The Queen Charlotte earthquake is Canada's strongest since the 1700 Cascadia earthquake.
+En 1954 : The first flight of the Lockheed C-130 multi-role aircraft takes place.
 <br/><br/>
-En 1944 : World War II: Holocaust of Kedros in Crete by German forces.
+En 1954 : The Cruise of the Kings, a royal cruise organised by the Queen Consort of Greece, Frederica of Hanover, departs from Marseille, France.
 <br/><br/>
-En 1942 : Brazil declares war on Germany, Japan and Italy.
+En 1948 : The World Council of Churches is formed by 147 churches from 44 countries.
 <br/><br/>
-En 1934 : Bill Woodfull of Australia becomes the only test cricket captain to twice regain The Ashes.
+En 1946 : Ordinance No. 46 of the British Military Government constitutes the German Länder (states) of Hanover and Schleswig-Holstein.
 <br/><br/>
-En 1922 : Michael Collins, Commander-in-chief of the Irish Free State Army, is shot dead in an ambush during the Irish Civil War.
+En 1945 : World War II: Soviet–Japanese War: The USSR State Defense Committee issues Decree no. 9898cc "About Receiving, Accommodation, and Labor Utilization of the Japanese Army Prisoners of War".
 <br/><br/>
-En 1902 : The Cadillac Motor Company is founded.
+En 1944 : World War II: Marseille is liberated by the Allied forces.
 <br/><br/>
-En 1902 : Theodore Roosevelt becomes the first President of the United States to make a public appearance in an automobile.
+En 1944 : World War II: King Michael of Romania dismisses the pro-Nazi government of Marshal Antonescu, who is later arrested. Romania switches sides from the Axis to the Allies.
 <br/><br/>
-En 1902 : At least 6,000 people are killed by the magnitude 7.7 Kashgar earthquake in the Tien Shan mountains.
+En 1944 : Freckleton air disaster: A United States Army Air Forces B-24 Liberator bomber crashes into a school in Freckleton, England, killing 61 people.
 <br/><br/>
-En 1894 : Mahatma Gandhi forms the Natal Indian Congress (NIC) in order to fight discrimination against Indian traders in Natal.
+En 1943 : World War II: Kharkiv is liberated by the Soviet Red Army for the second time after the Battle of Kursk.
 <br/><br/>
-En 1875 : The Treaty of Saint Petersburg between Japan and Russia is ratified, providing for the exchange of Sakhalin for the Kuril Islands.
+En 1942 : World War II: Beginning of the Battle of Stalingrad.
 <br/><br/>
-En 1864 : Twelve nations sign the First Geneva Convention, establishing the rules of protection of the victims of armed conflicts.
+En 1939 : World War II: Nazi Germany and the Soviet Union sign the Molotov–Ribbentrop Pact. In a secret protocol to the pact, Poland, Finland, Estonia, Latvia, Lithuania, and Romania are divided into German and Soviet "spheres of influence".
 <br/><br/>
-En 1851 : The first America's Cup is won by the yacht America.
+En 1929 : Hebron Massacre during the 1929 Palestine riots: Arab attacks on the Jewish community in Hebron in the British Mandate of Palestine occur, continuing until the next day, resulting in the death of 65–68 Jews and the remaining Jews being forced to leave the city.
 <br/><br/>
-En 1849 : Passaleão incident: João Maria Ferreira do Amaral, the governor of Portuguese Macau, is assassinated by a group of Chinese locals, triggering a military confrontation between China and Portugal at the Battle of Passaleão three days after.
+En 1927 : Italian anarchists Sacco and Vanzetti are executed after a lengthy, controversial trial.
 <br/><br/>
-En 1846 : The Second Federal Republic of Mexico is established.
+En 1923 : Captain Lowell Smith and Lieutenant John P. Richter perform the first mid-air refueling on De Havilland DH-4B, setting an endurance flight record of 37 hours.
 <br/><br/>
-En 1827 : José de La Mar becomes President of Peru.
+En 1921 : British airship R-38 experiences structural failure over Hull in England and crashes in the Humber Estuary; of her 49 British and American training crew, only four survive.
 <br/><br/>
-En 1798 : French troops land at Kilcummin, County Mayo, Ireland to aid the rebellion.
+En 1914 : World War I: The British Expeditionary Force and the French Fifth Army begin their Great Retreat before the German Army.
 <br/><br/>
-En 1791 : The Haitian slave revolution begins in Saint-Domingue, Haiti.
+En 1914 : World War I: Japan declares war on Germany.
 <br/><br/>
-En 1780 : James Cook's ship HMS Resolution returns to England (Cook having been killed on Hawaii during the voyage).
+En 1904 : The automobile tire chain is patented.
 <br/><br/>
-En 1777 : British forces abandon the Siege of Fort Stanwix after hearing rumors of Continental Army reinforcements.
+En 1898 : The Southern Cross Expedition, the first British venture of the Heroic Age of Antarctic Exploration, departs from London.
 <br/><br/>
-En 1770 : James Cook names and lands on Possession Island, and claims the east coast of Australia for Britain as New South Wales.
+En 1873 : The Albert Bridge in Chelsea, London opens.
 <br/><br/>
-En 1717 : Spanish troops land on Sardinia.
+En 1866 : The Austro-Prussian War ends with the Treaty of Prague.
 <br/><br/>
-En 1711 : Britain's Quebec Expedition loses eight ships and almost nine hundred soldiers, sailors and women to rocks at Pointe-aux-Anglais.
+En 1864 : American Civil War: The Union Navy captures Fort Morgan, Alabama, thus breaking Confederate dominance of all ports on the Gulf of Mexico except Galveston, Texas.
 <br/><br/>
-En 1654 : Jacob Barsimson arrives in New Amsterdam. He is the first known Jewish immigrant to America.
+En 1839 : The United Kingdom captures Hong Kong as a base as it prepares for the First Opium War with Qing China.
 <br/><br/>
-En 1642 : Charles I raises his standard in Nottingham, which marks the beginning of the English Civil War.
+En 1831 : Nat Turner's rebellion of enslaved Virginians is suppressed.
 <br/><br/>
-En 1639 : Madras (now Chennai), India, is founded by the British East India Company on a sliver of land bought from local Nayak rulers.
+En 1813 : At the Battle of Großbeeren, the Prussians under Von Bülow repulse the French army.
 <br/><br/>
-En 1614 : Fettmilch Uprising: Jews are expelled from Frankfurt, Holy Roman Empire, following the plundering of the Judengasse.
+En 1799 : Napoleon Bonaparte leaves Egypt for France en route to seizing power.
 <br/><br/>
-En 1559 : Spanish archbishop Bartolomé Carranza is arrested for heresy.
+En 1784 : Western North Carolina (now eastern Tennessee) declares itself an independent state under the name of Franklin; it is not accepted into the United States, and only lasts for four years.
 <br/><br/>
-En 1485 : The Battle of Bosworth Field occurs; King Richard III of England's death in battle marks the end of the reigning Plantagenet dynasty and the beginning of the Tudors under Henry VII.
+En 1782 : British forces under Edward Despard complete the reconquest of the Black River settlements on the Mosquito Coast from the Spanish.
 <br/><br/>
-En 1153 : Crusader–Fatimid wars: The fortress of Ascalon was surrendered by Fatimid Egypt to an army of crusaders, Templars, and Hospitallers led by King Baldwin III of Jerusalem.
+En 1775 : American Revolutionary War: King George III delivers his Proclamation of Rebellion to the Court of St James's stating that the American colonies have proceeded to a state of open and avowed rebellion.
 <br/><br/>
-En 1138 : Battle of the Standard between Scotland and England.
+En 1703 : Edirne event: Sultan Mustafa II of the Ottoman Empire is dethroned.
 <br/><br/>
-En 851 : Battle of Jengland: Erispoe defeats Charles the Bald near the Breton town of Jengland, halting the expansion of West Francia.
+En 1655 : Battle of Sobota: The Swedish Empire led by Charles X Gustav defeats the Polish–Lithuanian Commonwealth.
 <br/><br/>
-En 392 : Arbogast has Eugenius elected Western Roman Emperor.
+En 1628 : George Villiers, the first Duke of Buckingham, is assassinated by John Felton.
+<br/><br/>
+En 1600 : Battle of Gifu Castle: The eastern forces of Tokugawa Ieyasu defeat the western Japanese clans loyal to Toyotomi Hideyori, leading to the destruction of Gifu Castle and serving as a prelude to the Battle of Sekigahara.
+<br/><br/>
+En 1595 : Long Turkish War: Wallachian prince Michael the Brave confronts the Ottoman army in the Battle of Călugăreni and achieves a tactical victory.
+<br/><br/>
+En 1572 : French Wars of Religion: Mob violence against thousands of Huguenots in Paris results in the St. Bartholomew's Day massacre.
+<br/><br/>
+En 1541 : French explorer Jacques Cartier lands near Quebec City in his third voyage to Canada.
+<br/><br/>
+En 1521 : Christian II of Denmark is deposed as king of Sweden and Gustav Vasa is elected regent.
+<br/><br/>
+En 1514 : The Battle of Chaldiran ends with a decisive victory for the Sultan Selim I, Ottoman Empire, over the Shah Ismail I, founder of the Safavid dynasty.
+<br/><br/>
+En 1382 : The Golden Horde, led by Khan Tokhtamysh, begins the Siege of Moscow, which ends four days later with the storming of the city and the death of Muscovite Prince Ostei.
+<br/><br/>
+En 1328 : Battle of Cassel: French troops stop an uprising of Flemish farmers.
+<br/><br/>
+En 1268 : The Battle of Tagliacozzo: The army of Prince Conradin is nearly destroyed by Charles of Anjou, ending Hohenstaufen control over the Kingdom of Sicily and leaving the Angevins in control.
+<br/><br/>
+En 1244 : Siege of Jerusalem: The city surrenders to the Khwarazmiyya, ending Christian control of the Jerusalem for the next 672 years.
+<br/><br/>
+En 476 : Odoacer, chieftain of the Germanic tribes (Herulic – Scirian foederati), is proclaimed rex Italiae ("King of Italy") by his troops.
+<br/><br/>
+En 79 : Mount Vesuvius begins stirring, on the feast day of Vulcan, the Roman god of fire.
 <br/><br/>
